@@ -15,7 +15,7 @@
 
 ## § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
 
-    (a) __Criminal Violation.—__ 
+    (a)  __Criminal Violation__  __.—__ 
 
     Whoever, in interstate or foreign commerce, knowingly and intentionally obtains, or attempts to obtain, confidential phone records information of a covered entity, by—
 
@@ -41,7 +41,7 @@
 
         (2) For purposes of this subsection, the exceptions specified in section 222(d) of the Communications Act of 1934 shall apply for the use of confidential phone records information by any covered entity, as defined in subsection (h).
 
-    (d) __Enhanced Penalties for Aggravated Cases.—__ 
+    (d)  __Enhanced Penalties for Aggravated Cases__  __.—__ 
 
     Whoever violates, or attempts to violate, subsection (a), (b), or (c) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000, or more than 50 customers of a covered entity, in a 12-month period shall, in addition to the penalties provided for in such subsection, be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of [section 3571 of this title][/us/usc/t18/s3571], imprisoned for not more than 5 years, or both.
 
@@ -51,19 +51,19 @@
 
         (2) Whoever, violates, or attempts to violate, subsection (a), (b), or (c) knowing that such information may be used in furtherance of, or with the intent to commit, an offense under section 111, 115, 1114, 1503, 1512, 1513, or to intimidate, threaten, harass, injure, or kill any Federal, State, or local law enforcement officer shall, in addition to the penalties provided for in such subsection, be fined under this title and imprisoned not more than 5 years.
 
-    (f) __Extraterritorial Jurisdiction.—__ 
+    (f)  __Extraterritorial Jurisdiction__  __.—__ 
 
     There is extraterritorial jurisdiction over an offense under this section.
 
-    (g) __Nonapplicability to Law Enforcement Agencies.—__ 
+    (g)  __Nonapplicability to Law Enforcement Agencies__  __.—__ 
 
     This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or political subdivision of a State, or of an intelligence agency of the United States.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Confidential phone records information.—__ 
+        (1)  __Confidential phone records information__  __.—__ 
 
         The term “confidential phone records information” means information that—
 
@@ -73,7 +73,7 @@
 
             (C) is contained in any bill, itemization, or account statement provided to a customer by or on behalf of a covered entity solely by virtue of the relationship between that covered entity and the customer.
 
-        (2) __Covered entity.—__ 
+        (2)  __Covered entity__  __.—__ 
 
         The term “covered entity”—
 
@@ -81,11 +81,11 @@
 
             (B) includes any provider of IP-enabled voice service.
 
-        (3) __Customer.—__ 
+        (3)  __Customer__  __.—__ 
 
         The term “customer” means, with respect to a covered entity, any individual, partnership, association, joint stock company, trust, or corporation, or authorized representative of such customer, to whom the covered entity provides a product or service.
 
-        (4) __IP-enabled voice service.—__ 
+        (4) __IP-__  __enabled voice service__  __.—__ 
 
         The term “IP-enabled voice service” means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
 

@@ -17,7 +17,7 @@
 
     (a) __Prohibited Acts.—__ 
 
-        (1) __Offenses.—__ 
+        (1)  __Offenses__  __.—__ 
 
         Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
@@ -27,13 +27,13 @@
 
             in violation of the laws of any State, or the United States, shall be punished as prescribed in subsection (c).
 
-        (2) __Treatment of threats, attempts and conspiracies.—__ 
+        (2)  __Treatment of threats, attempts and conspiracies__  __.—__ 
 
         Whoever threatens to commit an offense under paragraph (1), or attempts or conspires to do so, shall be punished under subsection (c).
 
     (b) __Jurisdictional Bases.—__ 
 
-        (1) __Circumstances.—__ 
+        (1)  __Circumstances__  __.—__ 
 
         The circumstances referred to in subsection (a) are—
 
@@ -49,13 +49,13 @@
 
             (F) the offense is committed within the special maritime and territorial jurisdiction of the United States.
 
-        (2) __Co-conspirators and accessories after the fact.—__ 
+        (2)  __Co-conspirators and accessories after the fact__  __.—__ 
 
         Jurisdiction shall exist over all principals and co-conspirators of an offense under this section, and accessories after the fact to any offense under this section, if at least one of the circumstances described in subparagraphs (A) through (F) of paragraph (1) is applicable to at least one offender.
 
     (c) __Penalties.—__ 
 
-        (1) __Penalties.—__ 
+        (1)  __Penalties__  __.—__ 
 
         Whoever violates this section shall be punished—
 
@@ -73,23 +73,23 @@
 
             (G) for threatening to commit an offense under this section, by imprisonment for not more than 10 years.
 
-        (2) __Consecutive sentence.—__ 
+        (2)  __Consecutive sentence__  __.—__ 
 
         Notwithstanding any other provision of law, the court shall not place on probation any person convicted of a violation of this section; nor shall the term of imprisonment imposed under this section run concurrently with any other term of imprisonment.
 
-    (d) __Proof Requirements.—__ 
+    (d)  __Proof Requirements__  __.—__ 
 
     The following shall apply to prosecutions under this section:
 
-        (1) __Knowledge.—__ 
+        (1)  __Knowledge__  __.—__ 
 
         The prosecution is not required to prove knowledge by any defendant of a jurisdictional base alleged in the indictment.
 
-        (2) __State law.—__ 
+        (2)  __State law__  __.—__ 
 
         In a prosecution under this section that is based upon the adoption of State law, only the elements of the offense under State law, and not any provisions pertaining to criminal procedure or evidence, are adopted.
 
-    (e) __Extraterritorial Jurisdiction.—__ 
+    (e)  __Extraterritorial Jurisdiction__  __.—__ 
 
     There is extraterritorial Federal jurisdiction—
 
@@ -97,11 +97,11 @@
 
         (2) over conduct which, under section 3, renders any person an accessory after the fact to an offense under subsection (a).
 
-    (f) __Investigative Authority.—__ 
+    (f)  __Investigative Authority__  __.—__ 
 
     In addition to any other investigative authority with respect to violations of this title, the Attorney General shall have primary investigative responsibility for all Federal crimes of terrorism, and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title, and the Secretary of the Treasury shall assist the Attorney General at the request of the Attorney General. Nothing in this section shall be construed to interfere with the authority of the United States Secret Service under section 3056.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     As used in this section—
 

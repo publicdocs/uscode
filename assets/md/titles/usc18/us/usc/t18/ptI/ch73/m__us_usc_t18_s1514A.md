@@ -15,7 +15,7 @@
 
 ## § 1514A. Civil action to protect against retaliation in fraud cases
 
-    (a) __Whistleblower Protection for Employees of Publicly Traded Companies.—__ 
+    (a)  __Whistleblower Protection for Employees of Publicly Traded Companies__  __.—__ 
 
     No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]l), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o(d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c][/us/usc/t15/s78c]), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Another closing parenthesis probably should precede the comma. </sup></sup>  or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
 
@@ -33,7 +33,7 @@
 
     (b) __Enforcement Action.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who alleges discharge or other discrimination by any person in violation of subsection (a) may seek relief under subsection (c), by—
 
@@ -43,33 +43,33 @@
 
         (2) __Procedure.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An action under paragraph (1)(A) shall be governed under the rules and procedures set forth in [section 42121(b) of title 49][/us/usc/t49/s42121/b], United States Code.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             Notification made under [section 42121(b)(1) of title 49][/us/usc/t49/s42121/b/1], United States Code, shall be made to the person named in the complaint and to the employer.
 
-            (C) __Burdens of proof.—__ 
+            (C)  __Burdens of proof__  __.—__ 
 
             An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in [section 42121(b) of title 49][/us/usc/t49/s42121/b], United States Code.
 
-            (D) __Statute of limitations.—__ 
+            (D)  __Statute of limitations__  __.—__ 
 
             An action under paragraph (1) shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.
 
-            (E) __Jury trial.—__ 
+            (E)  __Jury trial__  __.—__ 
 
             A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.
 
     (c) __Remedies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An employee prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the employee whole.
 
-        (2) __Compensatory damages.—__ 
+        (2)  __Compensatory damages__  __.—__ 
 
         Relief for any action under paragraph (1) shall include—
 
@@ -79,17 +79,17 @@
 
             (C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
-    (d) __Rights Retained by Employee.—__ 
+    (d)  __Rights Retained by Employee__  __.—__ 
 
     Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
 
     (e) __Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—__ 
 
-        (1) __Waiver of rights and remedies.—__ 
+        (1)  __Waiver of rights and remedies__  __.—__ 
 
         The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
 
-        (2) __Predispute arbitration agreements.—__ 
+        (2)  __Predispute arbitration agreements__  __.—__ 
 
         No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
 

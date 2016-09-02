@@ -15,7 +15,7 @@
 
 ## § 37. Violence at international airports
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     A person who unlawfully and intentionally, using any device, substance, or weapon—
 
@@ -25,7 +25,7 @@
 
         if such an act endangers or is likely to endanger safety at that airport, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this subsection, shall be punished by death or imprisoned for any term of years or for life.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the prohibited activity in subsection (a) if—
 
@@ -33,7 +33,7 @@
 
         (2) the prohibited activity takes place outside the United States and (A) the offender is later found in the United States; or (B) an offender or a victim is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22])).
 
-    (c) __Bar to Prosecution.—__ 
+    (c)  __Bar to Prosecution__  __.—__ 
 
     It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13(c)”. </sup></sup>  of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)][/us/usc/t29/s113/c]), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 

@@ -15,7 +15,7 @@
 
 ## § 2710. Wrongful disclosure of video tape rental or sale records
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -27,7 +27,7 @@
 
         (4) the term “video tape service provider” means any person, engaged in the business, in or affecting interstate or foreign commerce, of rental, sale, or delivery of prerecorded video cassette tapes or similar audio visual materials, or any person or other entity to whom a disclosure is made under subparagraph (D) or (E) of subsection (b)(2), but only with respect to the information contained in the disclosure.
 
-    (b) __Video Tape Rental and Sale Records.—__ 
+    (b)  __Video Tape Rental and Sale Records__  __.—__ 
 
         (1) A video tape service provider who knowingly discloses, to any person, personally identifiable information concerning any consumer of such provider shall be liable to the aggrieved person for the relief provided in subsection (d).
 
@@ -77,7 +77,7 @@
 
         (3) Court orders authorizing disclosure under subparagraph (C) shall issue only with prior notice to the consumer and only if the law enforcement agency shows that there is probable cause to believe that the records or other information sought are relevant to a legitimate law enforcement inquiry. In the case of a State government authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the video tape service provider, may quash or modify such order if the information or records requested are unreasonably voluminous in nature or if compliance with such order otherwise would cause an unreasonable burden on such provider.
 
-    (c) __Civil Action.—__ 
+    (c)  __Civil Action__  __.—__ 
 
         (1) Any person aggrieved by any act of a person in violation of this section may bring a civil action in a United States district court.
 
@@ -97,15 +97,15 @@
 
         (4) No liability shall result from lawful disclosure permitted by this section.
 
-    (d) __Personally Identifiable Information.—__ 
+    (d)  __Personally Identifiable Information__  __.—__ 
 
     Personally identifiable information obtained in any manner other than as provided in this section shall not be received in evidence in any trial, hearing, arbitration, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision of a State.
 
-    (e) __Destruction of Old Records.—__ 
+    (e)  __Destruction of Old Records__  __.—__ 
 
     A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.
 
-    (f) __Preemption.—__ 
+    (f)  __Preemption__  __.—__ 
 
     The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
 

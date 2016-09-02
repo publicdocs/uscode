@@ -15,7 +15,7 @@
 
 ## § 1466A. Obscene visual representations of the sexual abuse of children
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses with intent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
@@ -33,7 +33,7 @@
 
         or attempts or conspires to do so, shall be subject to the penalties provided in section 2252A(b)(1), including the penalties provided for cases involving a prior conviction.
 
-    (b) __Additional Offenses.—__ 
+    (b)  __Additional Offenses__  __.—__ 
 
     Any person who, in a circumstance described in subsection (d), knowingly possesses a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
@@ -51,11 +51,11 @@
 
         or attempts or conspires to do so, shall be subject to the penalties provided in section 2252A(b)(2), including the penalties provided for cases involving a prior conviction.
 
-    (c) __Nonrequired Element of Offense.—__ 
+    (c)  __Nonrequired Element of Offense__  __.—__ 
 
     It is not a required element of any offense under this section that the minor depicted actually exist.
 
-    (d) __Circumstances.—__ 
+    (d)  __Circumstances__  __.—__ 
 
     The circumstance referred to in subsections (a) and (b) is that—
 
@@ -69,7 +69,7 @@
 
         (5) the offense is committed in the special maritime and territorial jurisdiction of the United States or in any territory or possession of the United States.
 
-    (e) __Affirmative Defense.—__ 
+    (e)  __Affirmative Defense__  __.—__ 
 
     It shall be an affirmative defense to a charge of violating subsection (b) that the defendant—
 
@@ -83,7 +83,7 @@
 
             (B) reported the matter to a law enforcement agency and afforded that agency access to each such visual depiction.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -99,11 +99,11 @@
 
 [Pub. L. 108–21, title V, § 504(c)][/us/pl/108/21/s504/c], Apr. 30, 2003, [117 Stat. 682][/us/stat/117/682], provided that:
 
->     “(1) __Category.—__ 
+>     “(1)  __Category__  __.—__ 
 
 >     Except as provided in paragraph (2), the applicable category of offense to be used in determining the sentencing range referred to in [section 3553(a)(4) of title 18][/us/usc/t18/s3553/a/4], United States Code, with respect to any person convicted under section 1466A of such title, shall be the category of offenses described in section 2G2.2 of the Sentencing Guidelines.
 
->     “(2) __Ranges.—__ 
+>     “(2)  __Ranges__  __.—__ 
 
 >     The Sentencing Commission may promulgate guidelines specifically governing offenses under [section 1466A of title 18][/us/usc/t18/s1466A], United States Code, if such guidelines do not result in sentencing ranges that are lower than those that would have applied under paragraph (1).”
 
@@ -111,11 +111,11 @@
 
 [Pub. L. 108–21, title V, § 513(b)][/us/pl/108/21/s513/b], Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 9 months after the date of enactment of this Act \[Apr. 30, 2003\], and every 2 years thereafter, the Attorney General shall report to the Chairpersons and Ranking Members of the Committees on the Judiciary of the Senate and the House of Representatives on the Federal enforcement actions under chapter 110 or [section 1466A of title 18][/us/usc/t18/s1466A], United States Code.
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     The report required under paragraph (1) shall include—
 

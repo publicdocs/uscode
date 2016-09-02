@@ -15,15 +15,15 @@
 
 ## § 39A. Aiming a laser pointer at an aircraft
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever knowingly aims the beam of a laser pointer at an aircraft in the special aircraft jurisdiction of the United States, or at the flight path of such an aircraft, shall be fined under this title or imprisoned not more than 5 years, or both.
 
-    (b) __Laser Pointer Defined.—__ 
+    (b)  __Laser Pointer Defined__  __.—__ 
 
     As used in this section, the term “laser pointer” means any device designed or used to amplify electromagnetic radiation by stimulated emission that emits a beam designed to be used by the operator as a pointer or highlighter to indicate, mark, or identify a specific position, place, item, or object.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     This section does not prohibit aiming a beam of a laser pointer at an aircraft, or the flight path of such an aircraft, by—
 
@@ -33,7 +33,7 @@
 
         (3) by an individual using a laser emergency signaling device to send an emergency distress signal.
 
-    (d) __Authority To Establish Additional Exceptions by Regulation.—__ 
+    (d)  __Authority To Establish Additional Exceptions by Regulation__  __.—__ 
 
     The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, not less than 90 days before such regulations become final.
 

@@ -15,7 +15,7 @@
 
 ## § 177. Injunctions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The United States may obtain in a civil action an injunction against—
 
@@ -25,7 +25,7 @@
 
         (3) the development, production, stockpiling, transferring, acquisition, retention, or possession, or the attempted development, production, stockpiling, transferring, acquisition, retention, or possession of any biological agent, toxin, or delivery system of a type or in a quantity that under the circumstances has no apparent justification for prophylactic, protective, or other peaceful purposes.
 
-    (b) __Affirmative Defense.—__ 
+    (b)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense against an injunction under subsection (a)(3) of this section that—
 

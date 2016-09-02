@@ -81,27 +81,27 @@
 
 [Pub. L. 100–690, title VII, § 7304][/us/pl/100/690/s7304], Nov. 18, 1988, [102 Stat. 4464][/us/stat/102/4464], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Director of the Administrative Office of the United States Courts shall establish a demonstration program of mandatory testing of criminal defendants.
 
->     “(b) __Length of Program.—__ 
+>     “(b)  __Length of Program__  __.—__ 
 
 >     The demonstration program shall begin not later than January 1, 1989, and shall last two years.
 
->     “(c) __Selection of Districts.—__ 
+>     “(c)  __Selection of Districts__  __.—__ 
 
 >     The Judicial Conference of the United States shall select 8 Federal judicial districts in which to carry out the demonstration program, so that the group selected represents a mix of districts on the basis of criminal caseload and the types of cases in that caseload.
 
->     “(d) __Inclusion in Pretrial Services.—__ 
+>     “(d)  __Inclusion in Pretrial Services__  __.—__ 
 
 >     In each of the districts in which the demonstration program takes place, pretrial services under chapter 207 of title 18, United States Code, shall arrange for the drug testing of defendants in criminal cases. To the extent feasible, such testing shall be completed before the defendant makes the defendant’s initial appearance in the case before a judicial officer. The results of such testing shall be included in the report to the judicial officer under [section 3154 of title 18][/us/usc/t18/s3154], United States Code.
 
->     “(e) __Mandatory Condition of Probation and Supervised Release.—__ 
+>     “(e)  __Mandatory Condition of Probation and Supervised Release__  __.—__ 
 
 >     In each of the judicial districts in which the demonstration program is in effect, it shall be an additional, mandatory condition of probation, and an additional mandatory condition of supervised release for offenses occurring or completed on or after January 1, 1989, for any defendant convicted of a felony, that such defendant refrain from any illegal use of any controlled substance (as defined in section 102 of the Controlled Substances Act \[[21 U.S.C. 802][/us/usc/t21/s802]\]) and submit to periodic drug tests for use of controlled substances at least once every 60 days. The requirement that drug tests be administered at least once every 60 days may be suspended upon motion of the Director of the Administrative Office, or the Director’s designee, if, after at least one year of probation or supervised release, the defendant has passed all drug tests administered pursuant to this section. No action may be taken against a defendant pursuant to a drug test administered in accordance with this subsection unless the drug test confirmation is a urine drug test confirmed using gas chromatography techniques or such test as the Secretary of Health and Human Services may determine to be of equivalent accuracy.
 
->     “(f) __Report to Congress.—__ 
+>     “(f)  __Report to Congress__  __.—__ 
 
 >     Not later than 90 days after the first year of the demonstration program and not later than 90 days after the end of the demonstration program, the Director of the Administrative Office of the United States Courts shall report to Congress on the effectiveness of the demonstration program and include in such report recommendations as to whether mandatory drug testing of defendants should be made more general and permanent.”
 

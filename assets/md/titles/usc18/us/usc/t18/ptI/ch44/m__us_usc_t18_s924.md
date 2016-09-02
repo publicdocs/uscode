@@ -249,7 +249,7 @@
 
         (1) __In general.—__ 
 
-            (A) __Suspension or revocation of license; civil penalties.—__ 
+            (A)  __Suspension or revocation of license; civil penalties__  __.—__ 
 
             With respect to each violation of section 922(z)(1) by a licensed manufacturer, licensed importer, or licensed dealer, the Secretary may, after notice and opportunity for hearing—
 
@@ -257,11 +257,11 @@
 
                 (ii) subject the licensee to a civil penalty in an amount equal to not more than $2,500.
 
-            (B) __Review.—__ 
+            (B)  __Review__  __.—__ 
 
             An action of the Secretary under this paragraph may be reviewed only as provided under section 923(f).
 
-        (2) __Administrative remedies.—__ 
+        (2)  __Administrative remedies__  __.—__ 
 
         The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 

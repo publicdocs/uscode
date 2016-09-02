@@ -15,21 +15,21 @@
 
 ## § 2292. Imparting or conveying false information
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act that would be a crime prohibited by this chapter or by chapter 111 of this title, shall be subject to a civil penalty of not more than $5,000, which shall be recoverable in a civil action brought in the name of the United States.
 
-    (b) __Malicious Conduct.—__ 
+    (b)  __Malicious Conduct__  __.—__ 
 
     Whoever knowingly, intentionally, maliciously, or with reckless disregard for the safety of human life, imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt to do any act which would be a crime prohibited by this chapter or by chapter 111 of this title, shall be fined under this title or imprisoned not more than 5 years.
 
     (c) __Jurisdiction.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (2), section 2290(a) shall not apply to any offense under this section.
 
-        (2) __Jurisdiction.—__ 
+        (2)  __Jurisdiction__  __.—__ 
 
         Jurisdiction over an offense under this section shall be determined in accordance with the provisions applicable to the crime prohibited by this chapter, or by chapter 111 of this title, to which the imparted or conveyed false information relates, as applicable.
 

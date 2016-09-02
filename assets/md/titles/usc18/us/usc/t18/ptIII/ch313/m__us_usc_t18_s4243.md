@@ -15,23 +15,23 @@
 
 ## § 4243. Hospitalization of a person found not guilty only by reason of insanity
 
-    (a) __Determination of Present Mental Condition of Acquitted Person.—__ 
+    (a)  __Determination of Present Mental Condition of Acquitted Person__  __.—__ 
 
     If a person is found not guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
 
-    (b) __Psychiatric or Psychological Examination and Report.—__ 
+    (b)  __Psychiatric or Psychological Examination and Report__  __.—__ 
 
     Prior to the date of the hearing, pursuant to subsection (c), the court shall order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
-    (c) __Hearing.—__ 
+    (c)  __Hearing__  __.—__ 
 
     A hearing shall be conducted pursuant to the provisions of section 4247(d) and shall take place not later than forty days following the special verdict.
 
-    (d) __Burden of Proof.—__ 
+    (d)  __Burden of Proof__  __.—__ 
 
     In a hearing pursuant to subsection (c) of this section, a person found not guilty only by reason of insanity of an offense involving bodily injury to, or serious damage to the property of, another person, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect. With respect to any other offense, the person has the burden of such proof by a preponderance of the evidence.
 
-    (e) __Determination and Disposition.—__ 
+    (e)  __Determination and Disposition__  __.—__ 
 
     If, after the hearing, the court fails to find by the standard specified in subsection (d) of this section that the person’s release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility until—
 
@@ -41,7 +41,7 @@
 
         whichever is earlier. The Attorney General shall continue periodically to exert all reasonable efforts to cause such a State to assume such responsibility for the person’s custody, care, and treatment.
 
-    (f) __Discharge.—__ 
+    (f)  __Discharge__  __.—__ 
 
     When the director of the facility in which an acquitted person is hospitalized pursuant to subsection (e) determines that the person has recovered from his mental disease or defect to such an extent that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person’s counsel and to the attorney for the Government. The court shall order the discharge of the acquitted person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by the standard specified in subsection (d) that the person has recovered from his mental disease or defect to such an extent that—
 
@@ -57,11 +57,11 @@
 
         The court at any time may, after a hearing employing the same criteria, modify or eliminate the regimen of medical, psychiatric, or psychological care or treatment.
 
-    (g) __Revocation of Conditional Discharge.—__ 
+    (g)  __Revocation of Conditional Discharge__  __.—__ 
 
     The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
-    (h) __Limitations on Furloughs.—__ 
+    (h)  __Limitations on Furloughs__  __.—__ 
 
     An individual who is hospitalized under subsection (e) of this section after being found not guilty only by reason of insanity of an offense for which subsection (d) of this section creates a burden of proof of clear and convincing evidence, may leave temporarily the premises of the facility in which that individual is hospitalized only—
 
@@ -73,25 +73,25 @@
 
     (i) __Certain Persons Found Not Guilty by Reason of Insanity in the District of Columbia.—__ 
 
-        (1) __Transfer to custody of the attorney general.—__ 
+        (1)  __Transfer to custody of the attorney general__  __.—__ 
 
         Notwithstanding [section 301(h) of title 24][/us/usc/t24/s301/h] of the District of Columbia Code, and notwithstanding sub[section 4247(j) of this title][/us/usc/t18/s4247/j], all persons who have been committed to a hospital for the mentally ill pursuant to [section 301(d)(1) of title 24][/us/usc/t24/s301/d/1] of the District of Columbia Code, and for whom the United States has continuing financial responsibility, may be transferred to the custody of the Attorney General, who shall hospitalize the person for treatment in a suitable facility.
 
         (2) __Application.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Attorney General may establish custody over such persons by filing an application in the United States District Court for the District of Columbia, demonstrating that the person to be transferred is a person described in this subsection.
 
-            (B) __Notice.—__ 
+            (B)  __Notice__  __.—__ 
 
             The Attorney General shall, by any means reasonably designed to do so, provide written notice of the proposed transfer of custody to such person or such person’s guardian, legal representative, or other lawful agent. The person to be transferred shall be afforded an opportunity, not to exceed 15 days, to respond to the proposed transfer of custody, and may, at the court’s discretion, be afforded a hearing on the proposed transfer of custody. Such hearing, if granted, shall be limited to a determination of whether the constitutional rights of such person would be violated by the proposed transfer of custody.
 
-            (C) __Order.—__ 
+            (C)  __Order__  __.—__ 
 
             Upon application of the Attorney General, the court shall order the person transferred to the custody of the Attorney General, unless, pursuant to a hearing under this paragraph, the court finds that the proposed transfer would violate a right of such person under the United States Constitution.
 
-            (D) __Effect.—__ 
+            (D)  __Effect__  __.—__ 
 
             Nothing in this paragraph shall be construed to—
 
@@ -101,7 +101,7 @@
 
                 (iii) limit in any manner or degree the ability of the Attorney General to move, transfer, or otherwise manage any person committed to the custody of the Attorney General.
 
-        (3) __Construction with other sections.—__ 
+        (3)  __Construction with other sections__  __.—__ 
 
         Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
 

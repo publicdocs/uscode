@@ -15,7 +15,7 @@
 
 ## § 2704. Backup preservation
 
-    (a) __Backup Preservation.—__ 
+    (a)  __Backup Preservation__  __.—__ 
 
         (1) A governmental entity acting under section 2703(b)(2) may include in its subpoena or court order a requirement that the service provider to whom the request is directed create a backup copy of the contents of the electronic communications sought in order to preserve those communications. Without notifying the subscriber or customer of such subpoena or court order, such service provider shall create such backup copy as soon as practicable consistent with its regular business practices and shall confirm to the governmental entity that such backup copy has been made. Such backup copy shall be created within two business days after receipt by the service provider of the subpoena or court order.
 
@@ -39,7 +39,7 @@
 
         (5) A governmental entity may seek to require the creation of a backup copy under subsection (a)(1) of this section if in its sole discretion such entity determines that there is reason to believe that notification under [section 2703 of this title][/us/usc/t18/s2703] of the existence of the subpoena or court order may result in destruction of or tampering with evidence. This determination is not subject to challenge by the subscriber or customer or service provider.
 
-    (b) __Customer Challenges.—__ 
+    (b)  __Customer Challenges__  __.—__ 
 
         (1)
 

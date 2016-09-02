@@ -15,7 +15,7 @@
 
 ## § 43. Force, violence, and threats involving animal enterprises
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever travels in interstate or foreign commerce, or uses or causes to be used the mail or any facility of interstate or foreign commerce—
 
@@ -33,7 +33,7 @@
 
         shall be punished as provided for in subsection (b).
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     The punishment for a violation of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) or an attempt or conspiracy to violate subsection (a) shall be—
 
@@ -71,7 +71,7 @@
 
         (5) imprisonment for life or for any terms of years, a fine under this title, or both, if the offense results in death of another individual.
 
-    (c) __Restitution.—__ 
+    (c)  __Restitution__  __.—__ 
 
     An order of restitution under section 3663 or 3663A of this title with respect to a violation of this section may also include restitution—
 
@@ -81,7 +81,7 @@
 
         (3) for any other economic damage, including any losses or costs caused by economic disruption, resulting from the offense.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     As used in this section—
 
@@ -135,7 +135,7 @@
 
             (G) any other significant injury to the body.
 
-    (e) __Rules of Construction.—__ 
+    (e)  __Rules of Construction__  __.—__ 
 
     Nothing in this section shall be construed—
 

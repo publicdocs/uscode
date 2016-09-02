@@ -29,11 +29,11 @@
 
         “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     The sentence of a person convicted of an offense described in subsection (c) shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
 
-    (c) __Offenses.—__ 
+    (c)  __Offenses__  __.—__ 
 
     The offenses described in this section are—
 
@@ -43,7 +43,7 @@
 
         (3) a conspiracy to commit an offense described in paragraph (1) or (2).
 
-    (d) __Circumstances.—__ 
+    (d)  __Circumstances__  __.—__ 
 
     The circumstances described in this section are that the offense described in subsection (c) was committed by a person who—
 

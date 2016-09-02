@@ -15,7 +15,7 @@
 
 ## § 2244. Abusive sexual contact
 
-    (a) __Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.—__ 
+    (a)  __Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter__  __.—__ 
 
     Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in or causes sexual contact with or by another person, if so to do would violate—
 
@@ -29,11 +29,11 @@
 
         (5) subsection (c) of [section 2241 of this title][/us/usc/t18/s2241] had the sexual contact been a sexual act, shall be fined under this title and imprisoned for any term of years or for life.
 
-    (b) __In Other Circumstances.—__ 
+    (b)  __In Other Circumstances__  __.—__ 
 
     Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in sexual contact with another person without that other person’s permission shall be fined under this title, imprisoned not more than two years, or both.
 
-    (c) __Offenses Involving Young Children.—__ 
+    (c)  __Offenses Involving Young Children__  __.—__ 
 
     If the sexual contact that violates this section (other than subsection (a)(5)) is with an individual who has not attained the age of 12 years, the maximum term of imprisonment that may be imposed for the offense shall be twice that otherwise provided in this section.
 

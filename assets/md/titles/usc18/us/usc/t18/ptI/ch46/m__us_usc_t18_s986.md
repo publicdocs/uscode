@@ -23,7 +23,7 @@
 
     (d) __Access to Records in Bank Secrecy Jurisdictions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In any civil forfeiture case, or in any ancillary proceeding in any criminal forfeiture case governed by section 413(n) of the Controlled Substances Act ([21 U.S.C. 853(n)][/us/usc/t21/s853/n]), in which—
 
@@ -39,7 +39,7 @@
 
             the refusal of the claimant to provide the records in response to a discovery request or to take the action necessary otherwise to make the records available shall be grounds for judicial sanctions, up to and including dismissal of the claim with prejudice.
 
-        (2) __Privilege.—__ 
+        (2)  __Privilege__  __.—__ 
 
         This subsection shall not affect the right of the claimant to refuse production on the basis of any privilege guaranteed by the Constitution of the United States or any other provision of Federal law.
 

@@ -15,7 +15,7 @@
 
 ## § 2712. Civil actions against the United States
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who is aggrieved by any willful violation of this chapter or of chapter 119 of this title or of sections 106(a), 305(a), or 405(a) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) may commence an action in United States District Court against the United States to recover money damages. In any such action, if a person who is aggrieved successfully establishes such a violation of this chapter or of chapter 119 of this title or of the above specific provisions of title 50, the Court may assess as damages—
 
@@ -23,7 +23,7 @@
 
         (2) litigation costs, reasonably incurred.
 
-    (b) __Procedures.—__ 
+    (b)  __Procedures__  __.—__ 
 
         (1) Any action against the United States under this section may be commenced only after a claim is presented to the appropriate department or agency under the procedures of the Federal Tort Claims Act, as set forth in title 28, United States Code.
 
@@ -35,15 +35,15 @@
 
         (5) An amount equal to any award against the United States under this section shall be reimbursed by the department or agency concerned to the fund described in [section 1304 of title 31][/us/usc/t31/s1304], United States Code, out of any appropriation, fund, or other account (excluding any part of such appropriation, fund, or account that is available for the enforcement of any Federal law) that is available for the operating expenses of the department or agency concerned.
 
-    (c) __Administrative Discipline.—__ 
+    (c)  __Administrative Discipline__  __.—__ 
 
     If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
-    (d) __Exclusive Remedy.—__ 
+    (d)  __Exclusive Remedy__  __.—__ 
 
     Any action against the United States under this subsection shall be the exclusive remedy against the United States for any claims within the purview of this section.
 
-    (e) __Stay of Proceedings.—__ 
+    (e)  __Stay of Proceedings__  __.—__ 
 
         (1) Upon the motion of the United States, the court shall stay any action commenced under this section if the court determines that civil discovery will adversely affect the ability of the Government to conduct a related investigation or the prosecution of a related criminal case. Such a stay shall toll the limitations periods of paragraph (2) of subsection (b).
 

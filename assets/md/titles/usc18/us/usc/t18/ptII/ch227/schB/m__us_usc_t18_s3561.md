@@ -15,7 +15,7 @@
 
 ## § 3561. Sentence of probation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A defendant who has been found guilty of an offense may be sentenced to a term of probation unless—
 
@@ -25,11 +25,11 @@
 
         (3) the defendant is sentenced at the same time to a term of imprisonment for the same or a different offense that is not a petty offense.
 
-    (b) __Domestic Violence Offenders.—__ 
+    (b)  __Domestic Violence Offenders__  __.—__ 
 
     A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
 
-    (c) __Authorized Terms.—__ 
+    (c)  __Authorized Terms__  __.—__ 
 
     The authorized terms of probation are—
 

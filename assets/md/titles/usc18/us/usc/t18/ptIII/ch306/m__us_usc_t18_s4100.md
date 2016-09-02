@@ -39,7 +39,7 @@
 
 [Pub. L. 104–208, div. C, title III, § 330][/us/pl/104/208/s330], Sept. 30, 1996, [110 Stat. 3009–631][/us/stat/110/3009-631], provided that:
 
->     “(a) __Negotiations With Other Countries.—__ 
+>     “(a)  __Negotiations With Other Countries__  __.—__ 
 
 >         (1)
 
@@ -59,7 +59,7 @@
 
 >         “(2) In entering into negotiations under paragraph (1), the President may consider providing for appropriate compensation, subject to the availability of appropriations, in cases where the United States is able to independently verify the adequacy of the sites where aliens will be imprisoned and the length of time the alien is actually incarcerated in the foreign country under such a treaty.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -79,15 +79,15 @@
 
 >         “(3) no new treaty providing for the transfer of aliens from Federal, State, or local incarceration facilities to a foreign incarceration facility should permit the alien to refuse the transfer.
 
->     “(c) __Prisoner Consent.—__ 
+>     “(c)  __Prisoner Consent__  __.—__ 
 
 >     Notwithstanding any other provision of law, except as required by treaty, the transfer of an alien from a Federal, State, or local incarceration facility under an agreement of the type referred to in subsection (a) shall not require consent of the alien.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
 
->     “(e) __Training Foreign Law Enforcement Personnel.—__ 
+>     “(e)  __Training Foreign Law Enforcement Personnel__  __.—__ 
 
 >         (1)
 
@@ -101,7 +101,7 @@
 
 >         “(2) The appointments described in paragraph (1) shall be made only to the extent there is capacity in such academies beyond what is required to train United States citizens needed in the Border Patrol and Customs Service, and only of personnel from a country with which the prisoner transfer treaty has been stated to be effective in the most recent report referred to in subsection (d).
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 

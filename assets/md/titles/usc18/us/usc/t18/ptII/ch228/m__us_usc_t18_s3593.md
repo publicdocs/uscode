@@ -15,7 +15,7 @@
 
 ## § 3593. Special hearing to determine whether a sentence of death is justified
 
-    (a) __Notice by the Government.—__ 
+    (a)  __Notice by the Government__  __.—__ 
 
     If, in a case involving an offense described in section 3591, the attorney for the government believes that the circumstances of the offense are such that a sentence of death is justified under this chapter, the attorney shall, a reasonable time before the trial or before acceptance by the court of a plea of guilty, sign and file with the court, and serve on the defendant, a notice—
 
@@ -25,7 +25,7 @@
 
         The factors for which notice is provided under this subsection may include factors concerning the effect of the offense on the victim and the victim’s family, and may include oral testimony, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim and the victim’s family, and any other relevant information. The court may permit the attorney for the government to amend the notice upon a showing of good cause.
 
-    (b) __Hearing Before a Court or Jury.—__ 
+    (b)  __Hearing Before a Court or Jury__  __.—__ 
 
     If the attorney for the government has filed a notice as required under subsection (a) and the defendant is found guilty of or pleads guilty to an offense described in section 3591, the judge who presided at the trial or before whom the guilty plea was entered, or another judge if that judge is unavailable, shall conduct a separate sentencing hearing to determine the punishment to be imposed. The hearing shall be conducted—
 
@@ -47,15 +47,15 @@
 
         A jury impaneled pursuant to paragraph (2) shall consist of 12 members, unless, at any time before the conclusion of the hearing, the parties stipulate, with the approval of the court, that it shall consist of a lesser number.
 
-    (c) __Proof of Mitigating and Aggravating Factors.—__ 
+    (c)  __Proof of Mitigating and Aggravating Factors__  __.—__ 
 
     Notwithstanding rule 32 of the Federal Rules of Criminal Procedure, when a defendant is found guilty or pleads guilty to an offense under section 3591, no presentence report shall be prepared. At the sentencing hearing, information may be presented as to any matter relevant to the sentence, including any mitigating or aggravating factor permitted or required to be considered under section 3592. Information presented may include the trial transcript and exhibits if the hearing is held before a jury or judge not present during the trial, or at the trial judge’s discretion. The defendant may present any information relevant to a mitigating factor. The government may present any information relevant to an aggravating factor for which notice has been provided under subsection (a). Information is admissible regardless of its admissibility under the rules governing admission of evidence at criminal trials except that information may be excluded if its probative value is outweighed by the danger of creating unfair prejudice, confusing the issues, or misleading the jury. For the purposes of the preceding sentence, the fact that a victim, as defined in section 3510, attended or observed the trial shall not be construed to pose a danger of creating unfair prejudice, confusing the issues, or misleading the jury. The government and the defendant shall be permitted to rebut any information received at the hearing, and shall be given fair opportunity to present argument as to the adequacy of the information to establish the existence of any aggravating or mitigating factor, and as to the appropriateness in the case of imposing a sentence of death. The government shall open the argument. The defendant shall be permitted to reply. The government shall then be permitted to reply in rebuttal. The burden of establishing the existence of any aggravating factor is on the government, and is not satisfied unless the existence of such a factor is established beyond a reasonable doubt. The burden of establishing the existence of any mitigating factor is on the defendant, and is not satisfied unless the existence of such a factor is established by a preponderance of the information.
 
-    (d) __Return of Special Findings.—__ 
+    (d)  __Return of Special Findings__  __.—__ 
 
     The jury, or if there is no jury, the court, shall consider all the information received during the hearing. It shall return special findings identifying any aggravating factor or factors set forth in section 3592 found to exist and any other aggravating factor for which notice has been provided under subsection (a) found to exist. A finding with respect to a mitigating factor may be made by 1 or more members of the jury, and any member of the jury who finds the existence of a mitigating factor may consider such factor established for purposes of this section regardless of the number of jurors who concur that the factor has been established. A finding with respect to any aggravating factor must be unanimous. If no aggravating factor set forth in section 3592 is found to exist, the court shall impose a sentence other than death authorized by law.
 
-    (e) __Return of a Finding Concerning a Sentence of Death.—__ 
+    (e)  __Return of a Finding Concerning a Sentence of Death__  __.—__ 
 
     If, in the case of—
 
@@ -67,7 +67,7 @@
 
         the jury, or if there is no jury, the court, shall consider whether all the aggravating factor or factors found to exist sufficiently outweigh all the mitigating factor or factors found to exist to justify a sentence of death, or, in the absence of a mitigating factor, whether the aggravating factor or factors alone are sufficient to justify a sentence of death. Based upon this consideration, the jury by unanimous vote, or if there is no jury, the court, shall recommend whether the defendant should be sentenced to death, to life imprisonment without possibility of release or some other lesser sentence.
 
-    (f) __Special Precaution To Ensure Against Discrimination.—__ 
+    (f)  __Special Precaution To Ensure Against Discrimination__  __.—__ 
 
     In a hearing held before a jury, the court, prior to the return of a finding under subsection (e), shall instruct the jury that, in considering whether a sentence of death is justified, it shall not consider the race, color, religious beliefs, national origin, or sex of the defendant or of any victim and that the jury is not to recommend a sentence of death unless it has concluded that it would recommend a sentence of death for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or of any victim may be. The jury, upon return of a finding under subsection (e), shall also return to the court a certificate, signed by each juror, that consideration of the race, color, religious beliefs, national origin, or sex of the defendant or any victim was not involved in reaching his or her individual decision and that the individual juror would have made the same recommendation regarding a sentence for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or any victim may be.
 

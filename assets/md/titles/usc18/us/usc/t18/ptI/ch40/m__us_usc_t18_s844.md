@@ -91,11 +91,11 @@
 
     (p) __Theft Reporting Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Attorney General”. </sup></sup>  not later than 24 hours after the discovery of the theft.
 
-        (2) __Penalty.—__ 
+        (2)  __Penalty__  __.—__ 
 
         A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 

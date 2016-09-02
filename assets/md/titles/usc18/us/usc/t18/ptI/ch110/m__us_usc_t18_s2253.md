@@ -15,7 +15,7 @@
 
 ## § 2253. Criminal forfeiture
 
-    (a) __Property Subject to Criminal Forfeiture.—__ 
+    (a)  __Property Subject to Criminal Forfeiture__  __.—__ 
 
     A person who is convicted of an offense under this chapter involving a visual depiction described in section 2251, 2251A, 2252, 2252A, or 2260 of this chapter or who is convicted of an offense under section 2252B of this chapter,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The extra comma probably should follow “2260 of this chapter”. </sup></sup>  or who is convicted of an offense under chapter 109A, shall forfeit to the United States such person’s interest in—
 

@@ -15,7 +15,7 @@
 
 ## § 3600. DNA testing
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Upon a written motion by an individual under a sentence of imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the “applicant”), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
 
@@ -113,7 +113,7 @@
 
     (b) __Notice to the Government; Preservation Order; Appointment of Counsel.—__ 
 
-        (1) __Notice.—__ 
+        (1)  __Notice__  __.—__ 
 
         Upon the receipt of a motion filed under subsection (a), the court shall—
 
@@ -121,25 +121,25 @@
 
             (B) allow the Government a reasonable time period to respond to the motion.
 
-        (2) __Preservation order.—__ 
+        (2)  __Preservation order__  __.—__ 
 
         To the extent necessary to carry out proceedings under this section, the court shall direct the Government to preserve the specific evidence relating to a motion under subsection (a).
 
-        (3) __Appointment of counsel.—__ 
+        (3)  __Appointment of counsel__  __.—__ 
 
         The court may appoint counsel for an indigent applicant under this section in the same manner as in a proceeding under section 3006A(a)(2)(B).
 
     (c) __Testing Procedures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The court shall direct that any DNA testing ordered under this section be carried out by the Federal Bureau of Investigation.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Notwithstanding paragraph (1), the court may order DNA testing by another qualified laboratory if the court makes all necessary orders to ensure the integrity of the specific evidence and the reliability of the testing process and test results.
 
-        (3) __Costs.—__ 
+        (3)  __Costs__  __.—__ 
 
         The costs of any DNA testing ordered under this section shall be paid—
 
@@ -147,7 +147,7 @@
 
             (B) in the case of an applicant who is indigent, by the Government.
 
-    (d) __Time Limitation in Capital Cases.—__ 
+    (d)  __Time Limitation in Capital Cases__  __.—__ 
 
     In any case in which the applicant is sentenced to death—
 
@@ -157,7 +157,7 @@
 
     (e) __Reporting of Test Results.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The results of any DNA testing ordered under this section shall be simultaneously disclosed to the court, the applicant, and the Government.
 
@@ -167,25 +167,25 @@
 
         (3) __Retention of dna sample.—__ 
 
-            (A) __Entry into ndis.—__ 
+            (A)  __Entry into ndis__  __.—__ 
 
             If the DNA test results obtained under this section are inconclusive or show that the applicant was the source of the DNA evidence, the DNA sample of the applicant may be retained in NDIS.
 
-            (B) __Match with other offense.—__ 
+            (B)  __Match with other offense__  __.—__ 
 
             If the DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, and a comparison of the DNA sample of the applicant results in a match between the DNA sample of the applicant and another offense, the Attorney General shall notify the appropriate agency and preserve the DNA sample of the applicant.
 
-            (C) __No match.—__ 
+            (C)  __No match__  __.—__ 
 
             If the DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, and a comparison of the DNA sample of the applicant does not result in a match between the DNA sample of the applicant and another offense, the Attorney General shall destroy the DNA sample of the applicant and ensure that such information is not retained in NDIS if there is no other legal authority to retain the DNA sample of the applicant in NDIS.
 
     (f) __Post-Testing Procedures; Inconclusive and Inculpatory Results.—__ 
 
-        (1) __Inconclusive results.—__ 
+        (1)  __Inconclusive results__  __.—__ 
 
         If DNA test results obtained under this section are inconclusive, the court may order further testing, if appropriate, or may deny the applicant relief.
 
-        (2) __Inculpatory results.—__ 
+        (2)  __Inculpatory results__  __.—__ 
 
         If DNA test results obtained under this section show that the applicant was the source of the DNA evidence, the court shall—
 
@@ -205,17 +205,17 @@
 
                 (v) if the DNA test results relate to a State offense, forward the finding to any appropriate State official.
 
-        (3) __Sentence.—__ 
+        (3)  __Sentence__  __.—__ 
 
         In any prosecution of an applicant under chapter 79 for false assertions or other conduct in proceedings under this section, the court, upon conviction of the applicant, shall sentence the applicant to a term of imprisonment of not less than 3 years, which shall run consecutively to any other term of imprisonment the applicant is serving.
 
     (g) __Post-Testing Procedures; Motion for New Trial or Resentencing.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any law that would bar a motion under this paragraph as untimely, if DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, the applicant may file a motion for a new trial or resentencing, as appropriate. The court shall establish a reasonable schedule for the applicant to file such a motion and for the Government to respond to the motion.
 
-        (2) __Standard for granting motion for new trial or resentencing.—__ 
+        (2)  __Standard for granting motion for new trial or resentencing__  __.—__ 
 
         The court shall grant the motion of the applicant for a new trial or resentencing, as appropriate, if the DNA test results, when considered with all other evidence in the case (regardless of whether such evidence was introduced at trial), establish by compelling evidence that a new trial would result in an acquittal of—
 
@@ -225,15 +225,15 @@
 
     (h) __Other Laws Unaffected.—__ 
 
-        (1) __Post-conviction relief.—__ 
+        (1)  __Post-conviction relief__  __.—__ 
 
         Nothing in this section shall affect the circumstances under which a person may obtain DNA testing or post-conviction relief under any other law.
 
-        (2) __Habeas corpus.—__ 
+        (2)  __Habeas corpus__  __.—__ 
 
         Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
 
-        (3) __Not a motion under section 2255.—__ 
+        (3)  __Not a motion under section 2255__  __.—__ 
 
         A motion under this section shall not be considered to be a motion under section 2255 for purposes of determining whether the motion or any other motion is a second or successive motion under section 2255.
 
@@ -261,15 +261,15 @@
 
 [Pub. L. 108–405, title IV, § 411(b)][/us/pl/108/405/s411/b], Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     The Attorney General shall establish a system for reporting and tracking motions filed in accordance with [section 3600 of title 18][/us/usc/t18/s3600], United States Code.
 
->     “(2) __Operation.—__ 
+>     “(2)  __Operation__  __.—__ 
 
 >     In operating the system established under paragraph (1), the Federal courts shall provide to the Attorney General any requested assistance in operating such a system and in ensuring the accuracy and completeness of information included in that system.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Oct. 30, 2004\], the Attorney General shall submit a report to Congress that contains—
 
@@ -281,7 +281,7 @@
 
 >         “(D) whether further proceedings occurred following a granting of relief and the outcome of such proceedings.
 
->     “(4) __Additional information.—__ 
+>     “(4)  __Additional information__  __.—__ 
 
 >     The report required to be submitted under paragraph (3) may include any other information the Attorney General determines to be relevant in assessing the operation, utility, or costs of [section 3600 of title 18][/us/usc/t18/s3600], United States Code, as added by this title, and any recommendations the Attorney General may have relating to future legislative action concerning that section.”
 

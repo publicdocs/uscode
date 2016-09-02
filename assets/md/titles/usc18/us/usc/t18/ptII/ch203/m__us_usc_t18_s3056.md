@@ -229,11 +229,11 @@
 
 [Pub. L. 106–544, § 4][/us/pl/106/544/s4], Dec. 19, 2000, [114 Stat. 2716][/us/stat/114/2716], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The United States Secret Service (hereafter in this section referred to as the ‘Service’), at the direction of the Secretary of the Treasury, may establish the National Threat Assessment Center (hereafter in this section referred to as the ‘Center’) as a unit within the Service.
 
->     “(b) __Functions.—__ 
+>     “(b)  __Functions__  __.—__ 
 
 >     The Service may provide the following to Federal, State, and local law enforcement agencies through the Center:
 
@@ -249,7 +249,7 @@
 
 >         “(6) Any other activities the Secretary determines are necessary to implement a comprehensive threat assessment capability.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 2000\], the Service shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing the manner in which the Center will operate.”
 

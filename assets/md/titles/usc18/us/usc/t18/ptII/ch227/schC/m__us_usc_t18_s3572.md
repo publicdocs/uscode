@@ -15,7 +15,7 @@
 
 ## § 3572. Imposition of a sentence of fine and related matters
 
-    (a) __Factors To Be Considered.—__ 
+    (a)  __Factors To Be Considered__  __.—__ 
 
     In determining whether to impose a fine, and the amount, time for payment, and method of payment of a fine, the court shall consider, in addition to the factors set forth in section 3553(a)—
 
@@ -35,11 +35,11 @@
 
         (8) if the defendant is an organization, the size of the organization and any measure taken by the organization to discipline any officer, director, employee, or agent of the organization responsible for the offense and to prevent a recurrence of such an offense.
 
-    (b) __Fine Not to Impair Ability to Make Restitution.—__ 
+    (b)  __Fine Not to Impair Ability to Make Restitution__  __.—__ 
 
     If, as a result of a conviction, the defendant has the obligation to make restitution to a victim of the offense, other than the United States, the court shall impose a fine or other monetary penalty only to the extent that such fine or penalty will not impair the ability of the defendant to make restitution.
 
-    (c) __Effect of Finality of Judgment.—__ 
+    (c)  __Effect of Finality of Judgment__  __.—__ 
 
     Notwithstanding the fact that a sentence to pay a fine can subsequently be—
 
@@ -51,7 +51,7 @@
 
         a judgment that includes such a sentence is a final judgment for all other purposes.
 
-    (d) __Time, Method of Payment, and Related Items.—__ 
+    (d)  __Time, Method of Payment, and Related Items__  __.—__ 
 
         (1) A person sentenced to pay a fine or other monetary penalty, including restitution, shall make such payment immediately, unless, in the interest of justice, the court provides for payment on a date certain or in installments. If the court provides for payment in installments, the installments shall be in equal monthly payments over the period provided by the court, unless the court establishes another schedule.
 
@@ -59,15 +59,15 @@
 
         (3) A judgment for a fine which permits payments in installments shall include a requirement that the defendant will notify the court of any material change in the defendant’s economic circumstances that might affect the defendant’s ability to pay the fine. Upon receipt of such notice the court may, on its own motion or the motion of any party, adjust the payment schedule, or require immediate payment in full, as the interests of justice require.
 
-    (e) __Alternative Sentence Precluded.—__ 
+    (e)  __Alternative Sentence Precluded__  __.—__ 
 
     At the time a defendant is sentenced to pay a fine, the court may not impose an alternative sentence to be carried out if the fine is not paid.
 
-    (f) __Responsibility for Payment of Monetary Obligation Relating to Organization.—__ 
+    (f)  __Responsibility for Payment of Monetary Obligation Relating to Organization__  __.—__ 
 
     If a sentence includes a fine, special assessment, restitution or other monetary obligation (including interest) with respect to an organization, each individual authorized to make disbursements for the organization has a duty to pay the obligation from assets of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the court finds that such payment is expressly permissible under applicable State law.
 
-    (g) __Security for Stayed Fine.—__ 
+    (g)  __Security for Stayed Fine__  __.—__ 
 
     If a sentence imposing a fine is stayed, the court shall, absent exceptional circumstances (as determined by the court)—
 
@@ -77,11 +77,11 @@
 
         (3) restrain the defendant from transferring or dissipating assets.
 
-    (h) __Delinquency.—__ 
+    (h)  __Delinquency__  __.—__ 
 
     A fine or payment of restitution is delinquent if a payment is more than 30 days late.
 
-    (i) __Default.—__ 
+    (i)  __Default__  __.—__ 
 
     A fine or payment of restitution is in default if a payment is delinquent for more than 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
 

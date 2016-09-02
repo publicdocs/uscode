@@ -15,11 +15,11 @@
 
 ## § 2255. Civil remedy for personal injuries
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who, while a minor, was a victim of a violation of section 1589, 1590, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423 of this title and who suffers personal injury as a result of such violation, regardless of whether the injury occurred while such person was a minor, may sue in any appropriate United States District Court and shall recover the actual damages such person sustains and the cost of the suit, including a reasonable attorney’s fee. Any person as described in the preceding sentence shall be deemed to have sustained damages of no less than $150,000 in value.
 
-    (b) __Statute of Limitations.—__ 
+    (b)  __Statute of Limitations__  __.—__ 
 
     Any action commenced under this section shall be barred unless the complaint is filed within 10 years after the right of action first accrues or in the case of a person under a legal disability, not later than three years after the disability.
 

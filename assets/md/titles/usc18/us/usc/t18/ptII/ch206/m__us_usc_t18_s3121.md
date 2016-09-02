@@ -15,11 +15,11 @@
 
 ## § 3121. General prohibition on pen register and trap and trace device use; exception
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in this section, no person may install or use a pen register or a trap and trace device without first obtaining a court order under [section 3123 of this title][/us/usc/t18/s3123] or under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.).
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     The prohibition of subsection (a) does not apply with respect to the use of a pen register or a trap and trace device by a provider of electronic or wire communication service—
 
@@ -27,11 +27,11 @@
 
         (2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     A government agency authorized to install and use a pen register or trap and trace device under this chapter or under State law shall use technology reasonably available to it that restricts the recording or decoding of electronic or other impulses to the dialing, routing, addressing, and signaling information utilized in the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications.
 
-    (d) __Penalty.—__ 
+    (d)  __Penalty__  __.—__ 
 
     Whoever knowingly violates subsection (a) shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -51,11 +51,11 @@
 
 [Pub. L. 99–508, title III, § 302][/us/pl/99/508/s302], Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title and the amendments made by this title \[enacting this chapter and [section 1367 of this title][/us/usc/t18/s1367]\] shall take effect ninety days after the date of the enactment of this Act \[Oct. 21, 1986\] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.
 
->     “(b) __Special Rule for State Authorizations of Interceptions.—__ 
+>     “(b)  __Special Rule for State Authorizations of Interceptions__  __.—__ 
 
 >     Any pen register or trap and trace device order or installation which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such order or installation occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
 

@@ -75,7 +75,7 @@
 
     (i) __Furnishing of Samples.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Licensed manufacturers and licensed importers and persons who manufacture or import explosive materials or ammonium nitrate shall, when required by letter issued by the Secretary,1 furnish—
 
@@ -85,7 +85,7 @@
 
             (C) any other information that the Secretary 1 determines is relevant to the identification of the explosive materials or to identification of the ammonium nitrate.
 
-        (2) __Reimbursement.—__ 
+        (2)  __Reimbursement__  __.—__ 
 
         The Secretary 1 shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
 
@@ -129,11 +129,11 @@
 
 [Pub. L. 107–296, title XI, § 1122(i)][/us/pl/107/296/s1122/i], Nov. 25, 2002, [116 Stat. 2283][/us/stat/116/2283], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 841 and 842 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Notwithstanding any provision of this Act \[see Tables for classification\], a license or permit issued under [section 843 of title 18][/us/usc/t18/s843], United States Code, before the date of enactment of this Act \[Nov. 25, 2002\], shall remain valid until that license or permit is revoked under section 843(d) or expires, or until a timely application for renewal is acted upon.”
 

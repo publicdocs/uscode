@@ -15,15 +15,15 @@
 
 ## § 1350. Failure of corporate officers to certify financial reports
 
-    (a) __Certification of Periodic Financial Reports.—__ 
+    (a)  __Certification of Periodic Financial Reports__  __.—__ 
 
     Each periodic report containing financial statements filed by an issuer with the Securities Exchange Commission pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m(a)][/us/usc/t15/s78m/a] or 78o(d)) shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  1934 ([15 U.S.C. 78m][/us/usc/t15/s78m] or 78o(d)) and that information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
 
-    (c) __Criminal Penalties.—__ 
+    (c)  __Criminal Penalties__  __.—__ 
 
     Whoever—
 

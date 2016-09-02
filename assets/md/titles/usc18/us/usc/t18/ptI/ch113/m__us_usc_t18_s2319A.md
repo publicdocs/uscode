@@ -15,7 +15,7 @@
 
 ## § 2319A. Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever, without the consent of the performer or performers involved, knowingly and for purposes of commercial advantage or private financial gain—
 
@@ -27,15 +27,15 @@
 
         shall be imprisoned for not more than 5 years or fined in the amount set forth in this title, or both, or if the offense is a second or subsequent offense, shall be imprisoned for not more than 10 years or fined in the amount set forth in this title, or both.
 
-    (b) __Forfeiture and Destruction of Property; Restitution.—__ 
+    (b)  __Forfeiture and Destruction of Property; Restitution__  __.—__ 
 
     Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-    (c) __Seizure and Forfeiture.—__ 
+    (c)  __Seizure and Forfeiture__  __.—__ 
 
     If copies or phonorecords of sounds or sounds and images of a live musical performance are fixed outside of the United States without the consent of the performer or performers involved, such copies or phonorecords are subject to seizure and forfeiture in the United States in the same manner as property imported in violation of the customs laws. The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.
 
-    (d) __Victim Impact Statement.—__ 
+    (d)  __Victim Impact Statement__  __.—__ 
 
         (1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
@@ -49,7 +49,7 @@
 
             (C) the legal representatives of such producers, sellers, and holders.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     As used in this section—
 
@@ -57,7 +57,7 @@
 
         (2) the term “traffic” has the same meaning as in section 2320(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-    (f) __Applicability.—__ 
+    (f)  __Applicability__  __.—__ 
 
     This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 

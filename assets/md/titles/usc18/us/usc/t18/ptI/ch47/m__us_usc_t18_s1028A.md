@@ -17,15 +17,15 @@
 
     (a) __Offenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever, during and in relation to any felony violation enumerated in subsection (c), knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 2 years.
 
-        (2) __Terrorism offense.—__ 
+        (2)  __Terrorism offense__  __.—__ 
 
         Whoever, during and in relation to any felony violation enumerated in section 2332b(g)(5)(B), knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person or a false identification document shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 5 years.
 
-    (b) __Consecutive Sentence.—__ 
+    (b)  __Consecutive Sentence__  __.—__ 
 
     Notwithstanding any other provision of law—
 
@@ -37,7 +37,7 @@
 
         (4) a term of imprisonment imposed on a person for a violation of this section may, in the discretion of the court, run concurrently, in whole or in part, only with another term of imprisonment that is imposed by the court at the same time on that person for an additional violation of this section, provided that such discretion shall be exercised in accordance with any applicable guidelines and policy statements issued by the Sentencing Commission pursuant to [section 994 of title 28][/us/usc/t28/s994].
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     For purposes of this section, the term “felony violation enumerated in subsection (c)” means any offense that is a felony violation of—
 

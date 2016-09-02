@@ -49,11 +49,11 @@
 
 [Pub. L. 100–185, § 9][/us/pl/100/185/s9], Dec. 11, 1987, [101 Stat. 1282][/us/stat/101/1282], provided that:
 
->     “(a)  __November 1, 1987__  __, to__  __April 30, 1988__  __.—__ 
+>     “(a)  __November__  __1, 1987,__  __to April__  __30, 1988.—__ 
 
 >     Notwithstanding [section 3611 of title 18][/us/usc/t18/s3611], United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
 
->     “(b)  __May 1, 1988__  __, to__  __October 31, 1988__  __.—__ 
+>     “(b)  __May__  __1, 1988,__  __to October__  __31, 1988.—__ 
 
 >         (1) Notwithstanding [section 3611 of title 18][/us/usc/t18/s3611], United States Code, a person who during the period beginning on May 1, 1988, and ending on October 31, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment in accordance with this subsection.
 

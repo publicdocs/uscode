@@ -15,19 +15,19 @@
 
 ## § 4246. Hospitalization of a person due for release but suffering from mental disease or defect
 
-    (a) __Institution of Proceeding.—__ 
+    (a)  __Institution of Proceeding__  __.—__ 
 
     If the director of a facility in which a person is hospitalized certifies that a person in the custody of the Bureau of Prisons whose sentence is about to expire, or who has been committed to the custody of the Attorney General pursuant to section 4241(d), or against whom all criminal charges have been dismissed solely for reasons related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, and that suitable arrangements for State custody and care of the person are not available, he shall transmit the certificate to the clerk of the court for the district in which the person is confined. The clerk shall send a copy of the certificate to the person, and to the attorney for the Government, and, if the person was committed pursuant to section 4241(d), to the clerk of the court that ordered the commitment. The court shall order a hearing to determine whether the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another. A certificate filed under this subsection shall stay the release of the person pending completion of procedures contained in this section.
 
-    (b) __Psychiatric or Psychological Examination and Report.—__ 
+    (b)  __Psychiatric or Psychological Examination and Report__  __.—__ 
 
     Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
-    (c) __Hearing.—__ 
+    (c)  __Hearing__  __.—__ 
 
     The hearing shall be conducted pursuant to the provisions of section 4247(d).
 
-    (d) __Determination and Disposition.—__ 
+    (d)  __Determination and Disposition__  __.—__ 
 
     If, after the hearing, the court finds by clear and convincing evidence that the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility, until—
 
@@ -37,7 +37,7 @@
 
         whichever is earlier. The Attorney General shall continue periodically to exert all reasonable efforts to cause such a State to assume such responsibility for the person’s custody, care, and treatment.
 
-    (e) __Discharge.—__ 
+    (e)  __Discharge__  __.—__ 
 
     When the director of the facility in which a person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person’s counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
 
@@ -53,15 +53,15 @@
 
         The court at any time may, after a hearing employing the same criteria, modify or eliminate the regimen of medical, psychiatric, or psychological care or treatment.
 
-    (f) __Revocation of Conditional Discharge.—__ 
+    (f)  __Revocation of Conditional Discharge__  __.—__ 
 
     The director of a medical facility responsible for administering a regimen imposed on a person conditionally discharged under subsection (e) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
-    (g) __Release to State of Certain Other Persons.—__ 
+    (g)  __Release to State of Certain Other Persons__  __.—__ 
 
     If the director of a facility in which a person is hospitalized pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than ten days after certification by the director of the facility.
 
-    (h) __Definition.—__ 
+    (h)  __Definition__  __.—__ 
 
     As used in this chapter the term “State” includes the District of Columbia.
 

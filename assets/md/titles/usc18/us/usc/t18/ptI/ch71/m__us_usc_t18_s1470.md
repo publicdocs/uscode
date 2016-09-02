@@ -23,11 +23,11 @@
 
 [Pub. L. 105–314, title IX, § 901][/us/pl/105/314/s901], Oct. 30, 1998, [112 Stat. 2991][/us/stat/112/2991], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 30, 1998\], the Attorney General shall request that the National Academy of Sciences, acting through its National Research Council, enter into a contract to conduct a study of computer-based technologies and other approaches to the problem of the availability of pornographic material to children on the Internet, in order to develop possible amendments to Federal criminal law and other law enforcement techniques to respond to the problem.
 
->     “(b) __Contents of Study.—__ 
+>     “(b)  __Contents of Study__  __.—__ 
 
 >     The study under this section shall address each of the following:
 
@@ -39,7 +39,7 @@
 
 >         “(4) Operational policies or management techniques needed to ensure the effectiveness of these control technologies for controlling electronic transmission of pornographic images.
 
->     “(c) __Final Report.—__ 
+>     “(c)  __Final Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a final report of the study under this section, which report shall—
 

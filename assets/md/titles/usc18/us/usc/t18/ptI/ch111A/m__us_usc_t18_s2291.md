@@ -15,7 +15,7 @@
 
 ## § 2291. Destruction of vessel or maritime facility
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever knowingly—
 
@@ -39,19 +39,19 @@
 
         shall be fined under this title or imprisoned not more than 20 years, or both.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     Subsection (a) shall not apply to any person that is engaging in otherwise lawful activity, such as normal repair and salvage activities, and the transportation of hazardous materials regulated and allowed to be transported under chapter 51 of title 49.
 
-    (c) __Penalty.—__ 
+    (c)  __Penalty__  __.—__ 
 
     Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101(12)][/us/usc/t42/s10101/12])  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There probably should be an additional closing parenthesis. </sup></sup>  or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101(23)][/us/usc/t42/s10101/23]), <sup>\[1\]</sup>  shall be fined under this title, imprisoned for a term up to life, or both.
 
-    (d) __Penalty When Death Results.—__ 
+    (d)  __Penalty When Death Results__  __.—__ 
 
     Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by the prohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
 
-    (e) __Threats.—__ 
+    (e)  __Threats__  __.—__ 
 
     Whoever knowingly and intentionally imparts or conveys any threat to do an act which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
 

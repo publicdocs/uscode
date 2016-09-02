@@ -15,7 +15,7 @@
 
 ## § 2320. Trafficking in counterfeit goods or services
 
-    (a) __Offenses.—__ 
+    (a)  __Offenses__  __.—__ 
 
     Whoever intentionally—
 
@@ -31,7 +31,7 @@
 
     (b) __Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever commits an offense under subsection (a)—
 
@@ -41,15 +41,15 @@
 
         (2) __Serious bodily injury or death.—__ 
 
-            (A) __Serious bodily injury.—__ 
+            (A)  __Serious bodily injury__  __.—__ 
 
             Whoever knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
 
-            (B) __Death.—__ 
+            (B)  __Death__  __.—__ 
 
             Whoever knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for any term of years or for life, or both, and if other than an individual, shall be fined not more than $15,000,000.
 
-        (3) __Counterfeit military goods or services and counterfeit drugs.—__ 
+        (3)  __Counterfeit military goods or services and counterfeit drugs__  __.—__ 
 
         Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
 
@@ -57,15 +57,15 @@
 
             (B) for a second or subsequent offense, if an individual, shall be fined not more than $15,000,000, imprisoned not more than 30 years, or both, and if other than an individual, shall be fined not more than $30,000,000.
 
-    (c) __Forfeiture and Destruction of Property; Restitution.—__ 
+    (c)  __Forfeiture and Destruction of Property; Restitution__  __.—__ 
 
     Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-    (d) __Defenses.—__ 
+    (d)  __Defenses__  __.—__ 
 
     All defenses, affirmative defenses, and limitations on remedies that would be applicable in an action under the Lanham Act shall be applicable in a prosecution under this section. In a prosecution under this section, the defendant shall have the burden of proof, by a preponderance of the evidence, of any such affirmative defense.
 
-    (e) __Presentence Report.—__ 
+    (e)  __Presentence Report__  __.—__ 
 
         (1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
@@ -79,7 +79,7 @@
 
             (C) the legal representatives of such producers, sellers, and holders.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     For the purposes of this section—
 
@@ -119,11 +119,11 @@
 
         (6) the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
 
-    (g) __Limitation on Cause of Action.—__ 
+    (g)  __Limitation on Cause of Action__  __.—__ 
 
     Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
 
-    (h) __Report to Congress.—__ 
+    (h)  __Report to Congress__  __.—__ 
 
         (1)
 
@@ -161,7 +161,7 @@
 
             (C) The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
 
-    (i) __Transshipment and Exportation.—__ 
+    (i)  __Transshipment and Exportation__  __.—__ 
 
     No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
 

@@ -15,7 +15,7 @@
 
 ## § 2702. Voluntary disclosure of customer communications or records
 
-    (a) __Prohibitions.—__ 
+    (a)  __Prohibitions__  __.—__ 
 
     Except as provided in subsection (b) or (c)—
 
@@ -31,7 +31,7 @@
 
         (3) a provider of remote computing service or electronic communication service to the public shall not knowingly divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by paragraph (1) or (2)) to any governmental entity.
 
-    (b) __Exceptions for disclosure of communications.—__ 
+    (b)  __Exceptions for disclosure of communications__  __.—__ 
 
     A provider described in subsection (a) may divulge the contents of a communication—
 
@@ -63,7 +63,7 @@
 
         (8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 
-    (c) __Exceptions for Disclosure of Customer Records.—__ 
+    (c)  __Exceptions for Disclosure of Customer Records__  __.—__ 
 
     A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))—
 
@@ -79,7 +79,7 @@
 
         (6) to any person other than a governmental entity.
 
-    (d) __Reporting of Emergency Disclosures.—__ 
+    (d)  __Reporting of Emergency Disclosures__  __.—__ 
 
     On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
 

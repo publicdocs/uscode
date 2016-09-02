@@ -15,7 +15,7 @@
 
 ## § 3563. Conditions of probation
 
-    (a) __Mandatory Conditions.—__ 
+    (a)  __Mandatory Conditions__  __.—__ 
 
     The court shall provide, as an explicit condition of a sentence of probation—
 
@@ -45,7 +45,7 @@
 
         If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
 
-    (b) __Discretionary Conditions.—__ 
+    (b)  __Discretionary Conditions__  __.—__ 
 
     The court may provide, as further conditions of a sentence of probation, to the extent that such conditions are reasonably related to the factors set forth in section 3553(a)(1) and (a)(2) and to the extent that such conditions involve only such deprivations of liberty or property as are reasonably necessary for the purposes indicated in section 3553(a)(2), that the defendant—
 
@@ -95,15 +95,15 @@
 
         (23) if required to register under the Sex Offender Registration and Notification Act, submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communication or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of probation or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer’s supervision functions.
 
-    (c) __Modifications of Conditions.—__ 
+    (c)  __Modifications of Conditions__  __.—__ 
 
     The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
 
-    (d) __Written Statement of Conditions.—__ 
+    (d)  __Written Statement of Conditions__  __.—__ 
 
     The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clear and specific to serve as a guide for the defendant’s conduct and for such supervision as is required.
 
-    (e) __Results of Drug Testing.—__ 
+    (e)  __Results of Drug Testing__  __.—__ 
 
     The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
 

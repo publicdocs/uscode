@@ -15,7 +15,7 @@
 
 ## § 3143. Release or detention of a defendant pending sentence or appeal
 
-    (a) __Release or Detention Pending Sentence.—__ 
+    (a)  __Release or Detention Pending Sentence__  __.—__ 
 
         (1) Except as provided in paragraph (2), the judicial officer shall order that a person who has been found guilty of an offense and who is awaiting imposition or execution of sentence, other than a person for whom the applicable guideline promulgated pursuant to [28 U.S.C. 994][/us/usc/t28/s994] does not recommend a term of imprisonment, be detained, unless the judicial officer finds by clear and convincing evidence that the person is not likely to flee or pose a danger to the safety of any other person or the community if released under section 3142(b) or (c). If the judicial officer makes such a finding, such judicial officer shall order the release of the person in accordance with section 3142(b) or (c).
 
@@ -31,7 +31,7 @@
 
             (B) the judicial officer finds by clear and convincing evidence that the person is not likely to flee or pose a danger to any other person or the community.
 
-    (b) __Release or Detention Pending Appeal by the Defendant.—__ 
+    (b)  __Release or Detention Pending Appeal by the Defendant__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) The judicial officer shall order that a person who has been found guilty of an offense in a case described in subparagraph (A), (B), or (C) of subsection (f)(1) of section 3142 and sentenced to a term of imprisonment, and who has filed an appeal or a petition for a writ of certiorari, be detained.
 
-    (c) __Release or Detention Pending Appeal by the Government.—__ 
+    (c)  __Release or Detention Pending Appeal by the Government__  __.—__ 
 
     The judicial officer shall treat a defendant in a case in which an appeal has been taken by the United States under [section 3731 of this title][/us/usc/t18/s3731], in accordance with [section 3142 of this title][/us/usc/t18/s3142], unless the defendant is otherwise subject to a release or detention order. Except as provided in subsection (b) of this section, the judicial officer, in a case in which an appeal has been taken by the United States under section 3742, shall—
 

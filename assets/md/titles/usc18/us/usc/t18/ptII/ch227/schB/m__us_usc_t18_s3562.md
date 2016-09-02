@@ -15,11 +15,11 @@
 
 ## § 3562. Imposition of a sentence of probation
 
-    (a) __Factors To Be Considered in Imposing a Term of Probation.—__ 
+    (a)  __Factors To Be Considered in Imposing a Term of Probation__  __.—__ 
 
     The court, in determining whether to impose a term of probation, and, if a term of probation is to be imposed, in determining the length of the term and the conditions of probation, shall consider the factors set forth in section 3553(a) to the extent that they are applicable.
 
-    (b) __Effect of Finality of Judgment.—__ 
+    (b)  __Effect of Finality of Judgment__  __.—__ 
 
     Notwithstanding the fact that a sentence of probation can subsequently be—
 

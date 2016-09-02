@@ -15,7 +15,7 @@
 
 ## § 670. Theft of medical products
 
-    (a) __Prohibited Conduct.—__ 
+    (a)  __Prohibited Conduct__  __.—__ 
 
     Whoever, in, or using any means or facility of, interstate or foreign commerce—
 
@@ -33,7 +33,7 @@
 
         shall be punished as provided in subsection (c) and subject to the other sanctions provided in this section.
 
-    (b) __Aggravated Offenses.—__ 
+    (b)  __Aggravated Offenses__  __.—__ 
 
     An offense under this section is an aggravated offense if—
 
@@ -51,7 +51,7 @@
 
             (D) is subsequent to a prior conviction for an offense under this section.
 
-    (c) __Criminal Penalties.—__ 
+    (c)  __Criminal Penalties__  __.—__ 
 
     Whoever violates subsection (a)—
 
@@ -61,7 +61,7 @@
 
         (3) in any other case, shall be fined under this title, imprisoned for not more than 3 years, or both, but if the offense is an aggravated offense other than one under subsection (b)(2)(C), the maximum term of imprisonment is 5 years.
 
-    (d) __Civil Penalties.—__ 
+    (d)  __Civil Penalties__  __.—__ 
 
     Whoever violates subsection (a) is subject to a civil penalty in an amount not more than the greater of—
 
@@ -69,7 +69,7 @@
 
         (2) $1,000,000.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section—
 

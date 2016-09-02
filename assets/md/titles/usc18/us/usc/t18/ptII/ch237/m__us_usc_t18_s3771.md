@@ -15,7 +15,7 @@
 
 ## § 3771. Crime victims’ rights
 
-    (a) __Rights of Crime Victims.—__ 
+    (a)  __Rights of Crime Victims__  __.—__ 
 
     A crime victim has the following rights:
 
@@ -35,69 +35,69 @@
 
         (8) The right to be treated with fairness and with respect for the victim’s dignity and privacy.
 
-    (b) __Rights Afforded.—__ 
+    (b)  __Rights Afforded__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In any court proceeding involving an offense against a crime victim, the court shall ensure that the crime victim is afforded the rights described in subsection (a). Before making a determination described in subsection (a)(3), the court shall make every effort to permit the fullest attendance possible by the victim and shall consider reasonable alternatives to the exclusion of the victim from the criminal proceeding. The reasons for any decision denying relief under this chapter shall be clearly stated on the record.
 
         (2) __Habeas corpus proceedings.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In a Federal habeas corpus proceeding arising out of a State conviction, the court shall ensure that a crime victim is afforded the rights described in paragraphs (3), (4), (7), and (8) of subsection (a).
 
             (B) __Enforcement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 These rights may be enforced by the crime victim or the crime victim’s lawful representative in the manner described in paragraphs (1) and (3) of subsection (d).
 
-                (ii) __Multiple victims.—__ 
+                (ii)  __Multiple victims__  __.—__ 
 
                 In a case involving multiple victims, subsection (d)(2) shall also apply.
 
-            (C) __Limitation.—__ 
+            (C)  __Limitation__  __.—__ 
 
             This paragraph relates to the duties of a court in relation to the rights of a crime victim in Federal habeas corpus proceedings arising out of a State conviction, and does not give rise to any obligation or requirement applicable to personnel of any agency of the Executive Branch of the Federal Government.
 
-            (D) __Definition.—__ 
+            (D)  __Definition__  __.—__ 
 
             For purposes of this paragraph, the term “crime victim” means the person against whom the State offense is committed or, if that person is killed or incapacitated, that person’s family member or other lawful representative.
 
     (c) __Best Efforts To Accord Rights.—__ 
 
-        (1) __Government.—__ 
+        (1)  __Government__  __.—__ 
 
         Officers and employees of the Department of Justice and other departments and agencies of the United States engaged in the detection, investigation, or prosecution of crime shall make their best efforts to see that crime victims are notified of, and accorded, the rights described in subsection (a).
 
-        (2) __Advice of attorney.—__ 
+        (2)  __Advice of attorney__  __.—__ 
 
         The prosecutor shall advise the crime victim that the crime victim can seek the advice of an attorney with respect to the rights described in subsection (a).
 
-        (3) __Notice.—__ 
+        (3)  __Notice__  __.—__ 
 
         Notice of release otherwise required pursuant to this chapter shall not be given if such notice may endanger the safety of any person.
 
     (d) __Enforcement and Limitations.—__ 
 
-        (1) __Rights.—__ 
+        (1)  __Rights__  __.—__ 
 
         The crime victim or the crime victim’s lawful representative, and the attorney for the Government may assert the rights described in subsection (a). A person accused of the crime may not obtain any form of relief under this chapter.
 
-        (2) __Multiple crime victims.—__ 
+        (2)  __Multiple crime victims__  __.—__ 
 
         In a case where the court finds that the number of crime victims makes it impracticable to accord all of the crime victims the rights described in subsection (a), the court shall fashion a reasonable procedure to give effect to this chapter that does not unduly complicate or prolong the proceedings.
 
-        (3) __Motion for relief and writ of mandamus.—__ 
+        (3)  __Motion for relief and writ of mandamus__  __.—__ 
 
         The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim’s right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
 
-        (4) __Error.—__ 
+        (4)  __Error__  __.—__ 
 
         In any appeal in a criminal case, the Government may assert as error the district court’s denial of any crime victim’s right in the proceeding to which the appeal relates.
 
-        (5) __Limitation on relief.—__ 
+        (5)  __Limitation on relief__  __.—__ 
 
         In no case shall a failure to afford a right under this chapter provide grounds for a new trial. A victim may make a motion to re-open a plea or sentence only if—
 
@@ -109,21 +109,21 @@
 
             This paragraph does not affect the victim’s right to restitution as provided in title 18, United States Code.
 
-        (6) __No cause of action.—__ 
+        (6)  __No cause of action__  __.—__ 
 
         Nothing in this chapter shall be construed to authorize a cause of action for damages or to create, to enlarge, or to imply any duty or obligation to any victim or other person for the breach of which the United States or any of its officers or employees could be held liable in damages. Nothing in this chapter shall be construed to impair the prosecutorial discretion of the Attorney General or any officer under his direction.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     For the purposes of this chapter, the term “crime victim” means a person directly and proximately harmed as a result of the commission of a Federal offense or an offense in the District of Columbia. In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim’s estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim’s rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
 
     (f) __Procedures To Promote Compliance.—__ 
 
-        (1) __Regulations.—__ 
+        (1)  __Regulations__  __.—__ 
 
         Not later than 1 year after the date of enactment of this chapter, the Attorney General of the United States shall promulgate regulations to enforce the rights of crime victims and to ensure compliance by responsible officials with the obligations described in law respecting crime victims.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         The regulations promulgated under paragraph (1) shall—
 

@@ -17,7 +17,7 @@
 
     (a) __Unlawful Conduct.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (3), it shall be unlawful for any person to knowingly produce, construct, otherwise acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use—
 
@@ -33,11 +33,11 @@
 
             (C) any part or combination of parts designed or redesigned for use in assembling or fabricating a rocket, missile, or device described in subparagraph (A) or (B).
 
-        (2) __Nonweapon.—__ 
+        (2)  __Nonweapon__  __.—__ 
 
         Paragraph (1)(A) does not apply to any device that is neither designed nor redesigned for use as a weapon.
 
-        (3) __Excluded conduct.—__ 
+        (3)  __Excluded conduct__  __.—__ 
 
         This subsection does not apply with respect to—
 
@@ -45,7 +45,7 @@
 
             (B) conduct pursuant to the terms of a contract with the United States or any department or agency thereof or with a State or any department or agency thereof.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
 
@@ -61,19 +61,19 @@
 
     (c) __Criminal Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
 
-        (2) __Other circumstances.—__ 
+        (2)  __Other circumstances__  __.—__ 
 
         Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
 
-        (3) __Special circumstances.—__ 
+        (3)  __Special circumstances__  __.—__ 
 
         If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     As used in this section, the term “aircraft” has the definition set forth in [section 40102(a)(6) of title 49][/us/usc/t49/s40102/a/6], United States Code.
 

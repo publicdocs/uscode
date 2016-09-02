@@ -15,11 +15,11 @@
 
 ## § 3624. Release of a prisoner
 
-    (a) __Date of Release.—__ 
+    (a)  __Date of Release__  __.—__ 
 
     A prisoner shall be released by the Bureau of Prisons on the date of the expiration of the prisoner’s term of imprisonment, less any time credited toward the service of the prisoner’s sentence as provided in subsection (b). If the date for a prisoner’s release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
 
-    (b) __Credit Toward Service of Sentence for Satisfactory Behavior.—__ 
+    (b)  __Credit Toward Service of Sentence for Satisfactory Behavior__  __.—__ 
 
         (1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner’s sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence.
 
@@ -31,27 +31,27 @@
 
     (c) __Prerelease Custody.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director of the Bureau of Prisons shall, to the extent practicable, ensure that a prisoner serving a term of imprisonment spends a portion of the final months of that term (not to exceed 12 months), under conditions that will afford that prisoner a reasonable opportunity to adjust to and prepare for the reentry of that prisoner into the community. Such conditions may include a community correctional facility.
 
-        (2) __Home confinement authority.—__ 
+        (2)  __Home confinement authority__  __.—__ 
 
         The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months.
 
-        (3) __Assistance.—__ 
+        (3)  __Assistance__  __.—__ 
 
         The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during prerelease custody under this subsection.
 
-        (4) __No limitations.—__ 
+        (4)  __No limitations__  __.—__ 
 
         Nothing in this subsection shall be construed to limit or restrict the authority of the Director of the Bureau of Prisons under section 3621.
 
-        (5) __Reporting.—__ 
+        (5)  __Reporting__  __.—__ 
 
         Not later than 1 year after the date of the enactment of the Second Chance Act of 2007 (and every year thereafter), the Director of the Bureau of Prisons shall transmit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report describing the Bureau’s utilization of community corrections facilities. Each report under this paragraph shall set forth the number and percentage of Federal prisoners placed in community corrections facilities during the preceding year, the average length of such placements, trends in such utilization, the reasons some prisoners are not placed in community corrections facilities, and any other information that may be useful to the committees in determining if the Bureau is utilizing community corrections facilities in an effective manner.
 
-        (6) __Issuance of regulations.—__ 
+        (6)  __Issuance of regulations__  __.—__ 
 
         The Director of the Bureau of Prisons shall issue regulations pursuant to this subsection not later than 90 days after the date of the enactment of the Second Chance Act of 2007, which shall ensure that placement in a community correctional facility by the Bureau of Prisons is—
 
@@ -61,7 +61,7 @@
 
             (C) of sufficient duration to provide the greatest likelihood of successful reintegration into the community.
 
-    (d) __Allotment of Clothing, Funds, and Transportation.—__ 
+    (d)  __Allotment of Clothing, Funds, and Transportation__  __.—__ 
 
     Upon the release of a prisoner on the expiration of the prisoner’s term of imprisonment, the Bureau of Prisons shall furnish the prisoner with—
 
@@ -71,7 +71,7 @@
 
         (3) transportation to the place of the prisoner’s conviction, to the prisoner’s bona fide residence within the United States, or to such other place within the United States as may be authorized by the Director.
 
-    (e) __Supervision After Release.—__ 
+    (e)  __Supervision After Release__  __.—__ 
 
     A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified by the sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.
 

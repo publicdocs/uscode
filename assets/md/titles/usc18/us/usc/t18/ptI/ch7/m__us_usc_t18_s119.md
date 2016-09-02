@@ -15,7 +15,7 @@
 
 ## § 119. Protection of individuals performing certain official duties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available—
 
@@ -25,7 +25,7 @@
 
         shall be fined under this title, imprisoned not more than 5 years, or both.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section—
 

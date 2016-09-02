@@ -15,19 +15,19 @@
 
 ## § 2334. Jurisdiction and venue
 
-    (a) __General Venue.—__ 
+    (a)  __General Venue__  __.—__ 
 
     Any civil action under [section 2333 of this title][/us/usc/t18/s2333] against any person may be instituted in the district court of the United States for any district where any plaintiff resides or where any defendant resides or is served, or has an agent. Process in such a civil action may be served in any district where the defendant resides, is found, or has an agent.
 
-    (b) __Special Maritime or Territorial Jurisdiction.—__ 
+    (b)  __Special Maritime or Territorial Jurisdiction__  __.—__ 
 
     If the actions giving rise to the claim occurred within the special maritime and territorial jurisdiction of the United States, as defined in [section 7 of this title][/us/usc/t18/s7], then any civil action under [section 2333 of this title][/us/usc/t18/s2333] against any person may be instituted in the district court of the United States for any district in which any plaintiff resides or the defendant resides, is served, or has an agent.
 
-    (c) __Service on Witnesses.—__ 
+    (c)  __Service on Witnesses__  __.—__ 
 
     A witness in a civil action brought under [section 2333 of this title][/us/usc/t18/s2333] may be served in any other district where the defendant resides, is found, or has an agent.
 
-    (d) __Convenience of the Forum.—__ 
+    (d)  __Convenience of the Forum__  __.—__ 
 
     The district court shall not dismiss any action brought under [section 2333 of this title][/us/usc/t18/s2333] on the grounds of the inconvenience or inappropriateness of the forum chosen, unless—
 

@@ -15,7 +15,7 @@
 
 ## § 668. Theft of major artwork
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -39,7 +39,7 @@
 
             (B) worth at least $100,000.
 
-    (b) __Offenses.—__ 
+    (b)  __Offenses__  __.—__ 
 
     A person who—
 

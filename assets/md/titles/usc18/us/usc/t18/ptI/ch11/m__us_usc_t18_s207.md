@@ -17,7 +17,7 @@
 
     (a) __Restrictions on All Officers and Employees of the Executive Branch and Certain Other Agencies.—__ 
 
-        (1) __Permanent restrictions on representation on particular matters.—__ 
+        (1)  __Permanent restrictions on representation on particular matters__  __.—__ 
 
         Any person who is an officer or employee (including any special Government employee) of the executive branch of the United States (including any independent agency of the United States), or of the District of Columbia, and who, after the termination of his or her service or employment with the United States or the District of Columbia, knowingly makes, with the intent to influence, any communication to or appearance before any officer or employee of any department, agency, court, or court-martial of the United States or the District of Columbia, on behalf of any other person (except the United States or the District of Columbia) in connection with a particular matter—
 
@@ -29,7 +29,7 @@
 
             shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (2) __Two-year restrictions concerning particular matters under official responsibility.—__ 
+        (2)  __Two-year restrictions concerning particular matters under official responsibility__  __.—__ 
 
         Any person subject to the restrictions contained in paragraph (1) who, within 2 years after the termination of his or her service or employment with the United States or the District of Columbia, knowingly makes, with the intent to influence, any communication to or appearance before any officer or employee of any department, agency, court, or court-martial of the United States or the District of Columbia, on behalf of any other person (except the United States or the District of Columbia), in connection with a particular matter—
 
@@ -41,7 +41,7 @@
 
             shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (3) __Clarification of restrictions.—__ 
+        (3)  __Clarification of restrictions__  __.—__ 
 
         The restrictions contained in paragraphs (1) and (2) shall apply—
 
@@ -51,11 +51,11 @@
 
     (b) __One-Year Restrictions on Aiding or Advising.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         For purposes of this paragraph—
 
@@ -65,11 +65,11 @@
 
     (c) __One-Year Restrictions on Certain Senior Personnel of the Executive Branch and Independent Agencies.—__ 
 
-        (1) __Restrictions.—__ 
+        (1)  __Restrictions__  __.—__ 
 
         In addition to the restrictions set forth in subsections (a) and (b), any person who is an officer or employee (including any special Government employee) of the executive branch of the United States (including an independent agency), who is referred to in paragraph (2), and who, within 1 year after the termination of his or her service or employment as such officer or employee, knowingly makes, with the intent to influence, any communication to or appearance before any officer or employee of the department or agency in which such person served within 1 year before such termination, on behalf of any other person (except the United States), in connection with any matter on which such person seeks official action by any officer or employee of such department or agency, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (2) __Persons to whom restrictions apply.—__ 
+        (2)  __Persons to whom restrictions apply__  __.—__ 
 
             (A)
 
@@ -97,17 +97,17 @@
 
         (3) __Members of the independent payment advisory board.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Paragraph (1) shall apply to a member of the Independent Payment Advisory Board under section 1899A. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-            (B) __Agencies and congress.—__ 
+            (B)  __Agencies and congress__  __.—__ 
 
             For purposes of paragraph (1), the agency in which the individual described in subparagraph (A) served shall be considered to be the Independent Payment Advisory Board, the Department of Health and Human Services, and the relevant committees of jurisdiction of Congress, including the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
     (d) __Restrictions on Very Senior Personnel of the Executive Branch and Independent Agencies.—__ 
 
-        (1) __Restrictions.—__ 
+        (1)  __Restrictions__  __.—__ 
 
         In addition to the restrictions set forth in subsections (a) and (b), any person who—
 
@@ -119,7 +119,7 @@
 
             and who, within 2 years after the termination of that person’s service in that position, knowingly makes, with the intent to influence, any communication to or appearance before any person described in paragraph (2), on behalf of any other person (except the United States), in connection with any matter on which such person seeks official action by any officer or employee of the executive branch of the United States, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (2) __Persons who may not be contacted.—__ 
+        (2)  __Persons who may not be contacted__  __.—__ 
 
         The persons referred to in paragraph (1) with respect to appearances or communications by a person in a position described in subparagraph (A), (B), or (C) of paragraph (1) are—
 
@@ -131,11 +131,11 @@
 
         (1) __Members of congress and elected officers of the house.—__ 
 
-            (A) __Senators.—__ 
+            (A)  __Senators__  __.—__ 
 
             Any person who is a Senator and who, within 2 years after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any Member, officer, or employee of either House of Congress or any employee of any other legislative office of the Congress, on behalf of any other person (except the United States) in connection with any matter on which such former Senator seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-            (B) __Members and officers of the house of representatives.—__ 
+            (B)  __Members and officers of the house of representatives__  __.—__ 
 
                 (i) Any person who is a Member of the House of Representatives or an elected officer of the House of Representatives and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in clause (ii) or (iii), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
@@ -143,11 +143,11 @@
 
                 (iii) The persons referred to in clause (i) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Representatives.
 
-        (2) __Officers and staff of the senate.—__ 
+        (2)  __Officers and staff of the senate__  __.—__ 
 
         Any person who is an elected officer of the Senate, or an employee of the Senate to whom paragraph (7)(A) applies, and who, within 1 year after that person leaves office or employment, knowingly makes, with the intent to influence, any communication to or appearance before any Senator or any officer or employee of the Senate, on behalf of any other person (except the United States) in connection with any matter on which such former elected officer or former employee seeks action by a Senator or an officer or employee of the Senate, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (3) __Personal staff.—__ 
+        (3)  __Personal staff__  __.—__ 
 
             (A) Any person who is an employee of a Member of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that employment, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
@@ -159,33 +159,33 @@
 
                 (ii) any employee of that Member of the House of Representatives.
 
-        (4) __Committee staff.—__ 
+        (4)  __Committee staff__  __.—__ 
 
         Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person’s employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person’s employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (5) __Leadership staff.—__ 
+        (5)  __Leadership staff__  __.—__ 
 
             (A) Any person who is an employee on the leadership staff of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person’s employment on such staff, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
             (B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.
 
-        (6) __Other legislative offices.—__ 
+        (6)  __Other legislative offices__  __.—__ 
 
             (A) Any person who is an employee of any other legislative office of the Congress to whom paragraph (7)(B) applies and who, within 1 year after the termination of that person’s employment in such office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by any officer or employee of such office, in his or her official capacity, shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
             (B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are the employees and officers of the former legislative office of the Congress of the former employee.
 
-        (7) __Limitation on restrictions.—__ 
+        (7)  __Limitation on restrictions__  __.—__ 
 
             (A) The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee’s service as such employee terminated, was paid a rate of basic pay equal to or greater than an amount which is 75 percent of the basic rate of pay payable for a Member of the House of Congress in which such employee was employed.
 
             (B) The restrictions contained in paragraph (6) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee’s service as such employee terminated, was employed in a position for which the rate of basic pay, exclusive of any locality-based pay adjustment under [section 5302 of title 5][/us/usc/t5/s5302], is equal to or greater than the basic rate of pay payable for level IV of the Executive Schedule.
 
-        (8) __Exception.—__ 
+        (8)  __Exception__  __.—__ 
 
         This subsection shall not apply to contacts with the staff of the Secretary of the Senate or the Clerk of the House of Representatives regarding compliance with lobbying disclosure requirements under the Lobbying Disclosure Act of 1995.
 
-        (9) __Definitions.—__ 
+        (9)  __Definitions__  __.—__ 
 
         As used in this subsection—
 
@@ -217,7 +217,7 @@
 
     (f) __Restrictions Relating to Foreign Entities.—__ 
 
-        (1) __Restrictions.—__ 
+        (1)  __Restrictions__  __.—__ 
 
         Any person who is subject to the restrictions contained in subsection (c), (d), or (e) and who knowingly, within 1 year after leaving the position, office, or employment referred to in such subsection—
 
@@ -227,29 +227,29 @@
 
             shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
-        (2) __Special rule for trade representative.—__ 
+        (2)  __Special rule for trade representative__  __.—__ 
 
         With respect to a person who is the United States Trade Representative or Deputy United States Trade Representative, the restrictions described in paragraph (1) shall apply to representing, aiding, or advising foreign entities at any time after the termination of that person’s service as the United States Trade Representative.
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “foreign entity” means the government of a foreign country as defined in section 1(e) of the Foreign Agents Registration Act of 1938, as amended, or a foreign political party as defined in section 1(f) of that Act.
 
-    (g) __Special Rules for Detailees.—__ 
+    (g)  __Special Rules for Detailees__  __.—__ 
 
     For purposes of this section, a person who is detailed from one department, agency, or other entity to another department, agency, or other entity shall, during the period such person is detailed, be deemed to be an officer or employee of both departments, agencies, or such entities.
 
     (h) __Designations of Separate Statutory Agencies and Bureaus.—__ 
 
-        (1) __Designations.—__ 
+        (1)  __Designations__  __.—__ 
 
         For purposes of subsection (c) and except as provided in paragraph (2), whenever the Director of the Office of Government Ethics determines that an agency or bureau within a department or agency in the executive branch exercises functions which are distinct and separate from the remaining functions of the department or agency and that there exists no potential for use of undue influence or unfair advantage based on past Government service, the Director shall by rule designate such agency or bureau as a separate department or agency. On an annual basis the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his or her responsibilities under this paragraph.
 
-        (2) __Inapplicability of designations.—__ 
+        (2)  __Inapplicability of designations__  __.—__ 
 
         No agency or bureau within the Executive Office of the President may be designated under paragraph (1) as a separate department or agency. No designation under paragraph (1) shall apply to persons referred to in subsection (c)(2)(A)(i) or (iii).
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -267,17 +267,17 @@
 
     (j) __Exceptions.—__ 
 
-        (1) __Official government duties.—__ 
+        (1)  __Official government duties__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
 
-            (B) __Tribal organizations and inter-tribal consortiums.—__ 
+            (B)  __Tribal organizations and inter-tribal consortiums__  __.—__ 
 
             The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)][/us/usc/t25/s450i/j]).
 
-        (2) __State and local governments and institutions, hospitals, and organizations.—__ 
+        (2)  __State and local governments and institutions, hospitals, and organizations__  __.—__ 
 
         The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
 
@@ -285,19 +285,19 @@
 
             (B) an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.
 
-        (3) __International organizations.—__ 
+        (3)  __International organizations__  __.—__ 
 
         The restrictions contained in this section shall not apply to an appearance or communication on behalf of, or advice or aid to, an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States.
 
-        (4) __Special knowledge.—__ 
+        (4)  __Special knowledge__  __.—__ 
 
         The restrictions contained in subsections (c), (d), and (e) shall not prevent an individual from making or providing a statement, which is based on the individual’s own special knowledge in the particular area that is the subject of the statement, if no compensation is thereby received.
 
-        (5) __Exception for scientific or technological information.—__ 
+        (5)  __Exception for scientific or technological information__  __.—__ 
 
         The restrictions contained in subsections (a), (c), and (d) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information, if such communications are made under procedures acceptable to the department or agency concerned or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee. For purposes of this paragraph, the term “officer or employee” includes the Vice President.
 
-        (6) __Exception for testimony.—__ 
+        (6)  __Exception for testimony__  __.—__ 
 
         Nothing in this section shall prevent an individual from giving testimony under oath, or from making statements required to be made under penalty of perjury. Notwithstanding the preceding sentence—
 
@@ -305,7 +305,7 @@
 
             (B) a former officer or employee of the District of Columbia who is subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the District of Columbia) in that matter.
 
-        (7) __Political parties and campaign committees.—__ 
+        (7)  __Political parties and campaign committees__  __.—__ 
 
             (A) Except as provided in subparagraph (B), the restrictions contained in subsections (c), (d), and (e) shall not apply to a communication or appearance made solely on behalf of a candidate in his or her capacity as a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party.
 
@@ -379,7 +379,7 @@
 
             (E) As used in this subsection, the term “civil service” has the meaning given that term in [section 2101 of title 5][/us/usc/t5/s2101].
 
-    (l) __Contract Advice by Former Details.—__ 
+    (l)  __Contract Advice by Former Details__  __.—__ 
 
     Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in [section 216 of this title][/us/usc/t18/s216].
 
@@ -613,13 +613,13 @@
 
 [Pub. L. 101–194, title I, § 102][/us/pl/101/194/s102], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724], as amended by [Pub. L. 101–280, § 2(b)][/us/pl/101/280/s2/b], May 4, 1990, [104 Stat. 152][/us/stat/104/152], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) Subject to paragraph (2) and to subsection (b), the amendments made by section 101 \[amending this section\] take effect on January 1, 1991.
 
 >         “(2) Subject to subsection (b), the amendments made by section 101 take effect at noon on January 3, 1991, with respect to Members of Congress (within the meaning of [section 207 of title 18][/us/usc/t18/s207], United States Code).
 
->     “(b) __Effect on Employment.—__ 
+>     “(b)  __Effect on Employment__  __.—__ 
 
 >         (1) The amendments made by section 101 apply only to persons whose service as a Member of Congress, the Vice President, or an officer or employee to which such amendments apply terminates on or after the effective date of such amendments.
 

@@ -15,11 +15,11 @@
 
 ## § 3551. Authorized sentences
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise specifically provided, a defendant who has been found guilty of an offense described in any Federal statute, including sections 13 and 1153 of this title, other than an Act of Congress applicable exclu­sively in the District of Columbia or the Uniform Code of Military Justice, shall be sentenced in accordance with the provisions of this chapter so as to achieve the purposes set forth in subparagraphs (A) through (D) of section 3553(a)(2) to the extent that they are applicable in light of all the circumstances of the case.
 
-    (b) __Individuals.—__ 
+    (b)  __Individuals__  __.—__ 
 
     An individual found guilty of an offense shall be sentenced, in accordance with the provisions of section 3553, to—
 
@@ -31,7 +31,7 @@
 
         A sentence to pay a fine may be imposed in addition to any other sentence. A sanction authorized by section 3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
 
-    (c) __Organizations.—__ 
+    (c)  __Organizations__  __.—__ 
 
     An organization found guilty of an offense shall be sentenced, in accordance with the provisions of section 3553, to—
 
@@ -126,6 +126,12 @@
 \[[Pub. L. 104–232, § 3(b)(2)][/us/pl/104/232/s3/b/2], Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056], provided that: 
 
 > “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission’s functions to another entity within Department of Justice pursuant to [section 3 of Pub. L. 104–232][/us/pl/104/232/s3], set out as a note under [section 4201 of this title][/us/usc/t18/s4201]\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out above\] ([98 Stat. 2032][/us/stat/98/2032]) are repealed.”
+
+\]
+
+\[[Pub. L. 113–47, § 2][/us/pl/113/47/s2], Oct. 31, 2013, [127 Stat. 572][/us/stat/127/572], provided that: 
+
+> “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551][/us/usc/t18/s3551] note; [Public Law 98–473][/us/pl/98/473]; [98 Stat. 2032][/us/stat/98/2032]), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘26 years’ or ‘26-year period’ shall be deemed a reference to ‘31 years’ or ‘31-year period’, respectively.”
 
 \]
 
@@ -258,6 +264,11 @@
 [/us/stat/110/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3056
 [/us/pl/104/232/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs3
 [/us/usc/t18/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4201
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
+[/us/pl/113/47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F47%2Fs2
+[/us/stat/127/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F572
+[/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
 [/us/pl/112/44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F44%2Fs2

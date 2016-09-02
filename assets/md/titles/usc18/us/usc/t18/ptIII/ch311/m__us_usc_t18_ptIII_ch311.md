@@ -53,15 +53,15 @@
 
 [Pub. L. 107–273, div. C, title I, § 11017][/us/pl/107/273/s11017], Nov. 2, 2002, [116 Stat. 1824][/us/stat/116/1824], provided that:
 
->     “(a) __Extension of the Parole Commission.—__ 
+>     “(a)  __Extension of the Parole Commission__  __.—__ 
 
 >     For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out as a note under [section 3551 of this title][/us/usc/t18/s3551]\] ([98 Stat. 2032][/us/stat/98/2032]) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘fifteen years’ or ‘fifteen-year period’ shall be deemed to be a reference to ‘eighteen years’ or ‘eighteen-year period’, respectively.
 
->     “(b) __Study by Attorney General.—__ 
+>     “(b)  __Study by Attorney General__  __.—__ 
 
 >     The Attorney General, not later than 60 days after the enactment of this Act \[Nov. 2, 2002\], should establish a committee within the Department of Justice to evaluate the merits and feasibility of transferring the United States Parole Commission’s functions regarding the supervised release of District of Columbia offenders to another entity or entities outside the Department of Justice. This committee should consult with the District of Columbia Superior Court and the District of Columbia Court Services and Offender Supervision Agency, and should report its findings and recommendations to the Attorney General. The Attorney General, in turn, should submit to Congress, not later than 18 months after the enactment of this Act, a long-term plan for the most effective and cost-efficient assignment of responsibilities relating to the supervised release of District of Columbia offenders.
 
->     “(c) __Service as Commissioner.—__ 
+>     “(c)  __Service as Commissioner__  __.—__ 
 
 >     Notwithstanding subsection (a), the final clause of the fourth sentence of [section 4202 of title 18][/us/usc/t18/s4202], United States Code, which begins ‘except that’, shall not apply to a person serving as a Commissioner of the United States Parole Commission when this Act takes effect \[Nov. 2, 2002\].”
 
@@ -75,11 +75,11 @@
 
 > “SEC. 2. __EXTENSION OF PAROLE COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out as a note under [section 3551 of this title][/us/usc/t18/s3551]\] ([98 Stat. 2032][/us/stat/98/2032]) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘ten years’ or ‘ten-year period’ shall be deemed to be a reference to ‘fifteen years’ or ‘fifteen-year period’, respectively.
 
->     “(b) __Powers and Duties of Parole Commission.—__ 
+>     “(b)  __Powers and Duties of Parole Commission__  __.—__ 
 
 >     Notwithstanding [section 4203 of title 18][/us/usc/t18/s4203], United States Code, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
 
@@ -87,17 +87,17 @@
 
 > “SEC. 3. __REPORTS BY THE ATTORNEY GENERAL.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Beginning in the year 1998, the Attorney General shall report to the Congress not later than May 1 of each year through the year 2002 on the status of the United States Parole Commission. Unless the Attorney General, in such report, certifies that the continuation of the Commission is the most effective and cost-efficient manner for carrying out the Commission’s functions, the Attorney General shall include in such report an alternative plan for a transfer of the Commission’s functions to another entity.
 
 >     “(b) __Transfer Within the Department of Justice.—__ 
 
->         “(1) __Effect of plan.—__ 
+>         “(1)  __Effect of plan__  __.—__ 
 
 >         If the Attorney General includes such a plan in the report, and that plan provides for the transfer of the Commission’s functions and powers to another entity within the Department of Justice, such plan shall take effect according to its terms on November 1 of that year in which the report is made, unless Congress by law provides otherwise. In the event such plan takes effect, all laws pertaining to the authority and jurisdiction of the Commission with respect to individual offenders shall remain in effect notwithstanding the expiration of the period specified in section 2 of this Act.
 
->         “(2) __Conditional repeal.—__ 
+>         “(2)  __Conditional repeal__  __.—__ 
 
 >         Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out as a note under [section 3551 of this title][/us/usc/t18/s3551]\] ([98 Stat. 2032][/us/stat/98/2032]) are repealed.”
 

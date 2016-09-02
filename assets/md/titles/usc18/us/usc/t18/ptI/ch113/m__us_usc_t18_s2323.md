@@ -17,7 +17,7 @@
 
     (a) __Civil Forfeiture.—__ 
 
-        (1) __Property subject to forfeiture.—__ 
+        (1)  __Property subject to forfeiture__  __.—__ 
 
         The following property is subject to forfeiture to the United States Government:
 
@@ -27,23 +27,23 @@
 
             (C) Any property constituting or derived from any proceeds obtained directly or indirectly as a result of the commission of an offense referred to in subparagraph (A).
 
-        (2) __Procedures.—__ 
+        (2)  __Procedures__  __.—__ 
 
         The provisions of chapter 46 relating to civil forfeitures shall extend to any seizure or civil forfeiture under this section. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used. At the conclusion of the forfeiture proceedings, unless otherwise requested by an agency of the United States, the court shall order that any property forfeited under paragraph (1) be destroyed, or otherwise disposed of according to law.
 
     (b) __Criminal Forfeiture.—__ 
 
-        (1) __Property subject to forfeiture.—__ 
+        (1)  __Property subject to forfeiture__  __.—__ 
 
         The court, in imposing sentence on a person convicted of an offense under [section 506 of title 17][/us/usc/t17/s506], or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, shall order, in addition to any other sentence imposed, that the person forfeit to the United States Government any property subject to forfeiture under subsection (a) for that offense.
 
         (2) __Procedures.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The forfeiture of property under paragraph (1), including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the procedures set forth in section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]), other than subsection (d) of that section.
 
-            (B) __Destruction.—__ 
+            (B)  __Destruction__  __.—__ 
 
             At the conclusion of the forfeiture proceedings, the court, unless otherwise requested by an agency of the United States shall order that any—
 
@@ -51,7 +51,7 @@
 
                 (ii) infringing items or other property described in subsection (a)(1)(A) and forfeited under paragraph (1) of this subsection be destroyed or otherwise disposed of according to law.
 
-    (c) __Restitution.—__ 
+    (c)  __Restitution__  __.—__ 
 
     When a person is convicted of an offense under [section 506 of title 17][/us/usc/t17/s506] or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, the court, pursuant to sections 3556, 3663A, and 3664 of this title, shall order the person to pay restitution to any victim of the offense as an offense against property referred to in [section 3663A(c)(1)(A)(ii) of this title][/us/usc/t18/s3663A/c/1/A/ii].
 

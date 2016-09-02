@@ -15,11 +15,11 @@
 
 ## § 2284. Transportation of terrorists
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly and intentionally transports any terrorist aboard any vessel within the United States and on waters subject to the jurisdiction of the United States or any vessel outside the United States and on the high seas or having United States nationality, knowing that the transported person is a terrorist, shall be fined under this title or imprisoned for any term of years or for life, or both.
 
-    (b) __Defined Term.—__ 
+    (b)  __Defined Term__  __.—__ 
 
     In this section, the term “terrorist” means any person who intends to commit, or is avoiding apprehension after having committed, an offense listed under section 2332b(g)(5)(B).
 

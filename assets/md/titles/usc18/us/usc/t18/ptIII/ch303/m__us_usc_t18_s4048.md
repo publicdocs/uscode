@@ -15,7 +15,7 @@
 
 ## § 4048. Fees for health care services for prisoners
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -55,15 +55,15 @@
 
     (b) __Fees for Health Care Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connection with each health care visit requested by a prisoner.
 
-        (2) __Exclusion.—__ 
+        (2)  __Exclusion__  __.—__ 
 
         The Director may not assess or collect a fee under this section for preventative health care services, emergency services, prenatal care, diagnosis or treatment of chronic infectious diseases, mental health care, or substance abuse treatment, as determined by the Director.
 
-    (c) __Persons Subject to Fee.—__ 
+    (c)  __Persons Subject to Fee__  __.—__ 
 
     Each fee assessed under this section shall be collected by the Director from the account of—
 
@@ -71,15 +71,15 @@
 
         (2) in the case of health care services provided in connection with a health care visit described in subsection (b)(1) that results from an injury inflicted on a prisoner by another prisoner, the prisoner who inflicted the injury, as determined by the Director.
 
-    (d) __Amount of Fee.—__ 
+    (d)  __Amount of Fee__  __.—__ 
 
     Any fee assessed and collected under this section shall be in an amount of not less than $1.
 
-    (e) __No Consent Required.—__ 
+    (e)  __No Consent Required__  __.—__ 
 
     Notwithstanding any other provision of law, the consent of a prisoner shall not be required for the collection of a fee from the account of the prisoner under this section. However, each such prisoner shall be given a reasonable opportunity to dispute the amount of the fee or whether the prisoner qualifies under an exclusion under this section.
 
-    (f) __No Refusal of Treatment For Financial Reasons.—__ 
+    (f)  __No Refusal of Treatment For Financial Reasons__  __.—__ 
 
     Nothing in this section may be construed to permit any refusal of treatment to a prisoner on the basis that—
 
@@ -89,11 +89,11 @@
 
     (g) __Use of Amounts.—__ 
 
-        (1) __Restitution of specific victims.—__ 
+        (1)  __Restitution of specific victims__  __.—__ 
 
         Amounts collected by the Director under this section from a prisoner subject to an order of restitution issued pursuant to section 3663 or 3663A shall be paid to victims in accordance with the order of restitution.
 
-        (2) __Allocation of other amounts.—__ 
+        (2)  __Allocation of other amounts__  __.—__ 
 
         Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
 
@@ -101,7 +101,7 @@
 
             (B) 25 percent shall be available to the Attorney General for administrative expenses incurred in carrying out this section.
 
-    (h) __Notice to Prisoners of Law.—__ 
+    (h)  __Notice to Prisoners of Law__  __.—__ 
 
     Each person who is or becomes a prisoner shall be provided with written and oral notices of the provisions of this section and the applicability of this section to the prisoner. Notwithstanding any other provision of this section, a fee under this section may not be assessed against, or collected from, such person—
 
@@ -109,15 +109,15 @@
 
         (2) for services provided before the expiration of such period.
 
-    (i) __Notice to Prisoners of Regulations.—__ 
+    (i)  __Notice to Prisoners of Regulations__  __.—__ 
 
     The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (or amendments, as the case may be) for services provided before the expiration of such period.
 
-    (j) __Notice Before Public Comment Period.—__ 
+    (j)  __Notice Before Public Comment Period__  __.—__ 
 
     Before the beginning of any period a proposed regulation under this section is open to public comment, the Director shall provide written and oral notice of the provisions of that proposed regulation to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed regulation.
 
-    (k) __Reports to Congress.—__ 
+    (k)  __Reports to Congress__  __.—__ 
 
     Not later than 1 year after the date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, and annually thereafter, the Director shall transmit to Congress a report, which shall include—
 
@@ -131,7 +131,7 @@
 
         (5) a description of the quality of health care services provided to inmates during the preceding 12-month period, as compared with the quality of those services provided during the 12-month period ending on the date of the enactment of such Act.
 
-    (l) __Comprehensive HIV/AIDS Services Required.—__ 
+    (l)  __Comprehensive HIV/AIDS Services Required__  __.—__ 
 
     The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 

@@ -41,7 +41,7 @@
 
         (2) The provisions of chapter 46 of this title relating to civil forfeitures shall extend to any seizure or civil forfeiture under this subsection.
 
-    (f) __Witness Protection.—__ 
+    (f)  __Witness Protection__  __.—__ 
 
     Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 

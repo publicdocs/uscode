@@ -15,11 +15,11 @@
 
 ## § 2265. Full faith and credit given to protection orders
 
-    (a) __Full Faith and Credit.—__ 
+    (a)  __Full Faith and Credit__  __.—__ 
 
     Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  as if it were the order of the enforcing State or tribe.
 
-    (b) __Protection Order.—__ 
+    (b)  __Protection Order__  __.—__ 
 
     A protection order issued by a State, tribal, or territorial court is consistent with this subsection if—
 
@@ -27,7 +27,7 @@
 
         (2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person’s right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State, tribal, or territorial law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent’s due process rights.
 
-    (c) __Cross or Counter Petition.—__ 
+    (c)  __Cross or Counter Petition__  __.—__ 
 
     A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
 
@@ -37,19 +37,19 @@
 
     (d) __Notification and Registration.—__ 
 
-        (1) __Notification.—__ 
+        (1)  __Notification__  __.—__ 
 
         A State, Indian tribe, or territory according full faith and credit to an order by a court of another State, Indian tribe, or territory shall not notify or require notification of the party against whom a protection order has been issued that the protection order has been registered or filed in that enforcing State, tribal, or territorial jurisdiction unless requested to do so by the party protected under such order.
 
-        (2) __No prior registration or filing as prerequisite for enforcement.—__ 
+        (2)  __No prior registration or filing as prerequisite for enforcement__  __.—__ 
 
         Any protection order that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State, tribal, or territorial jurisdiction.
 
-        (3) __Limits on internet publication of registration information.—__ 
+        (3)  __Limits on internet publication of registration information__  __.—__ 
 
         A State, Indian tribe, or territory shall not make available publicly on the Internet any information regarding the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction, restraining order, or injunction in either the issuing or enforcing State, tribal or territorial jurisdiction, if such publication would be likely to publicly reveal the identity or location of the party protected under such order. A State, Indian tribe, or territory may share court-generated and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes.
 
-    (e) __Tribal Court Jurisdiction.—__ 
+    (e)  __Tribal Court Jurisdiction__  __.—__ 
 
     For purposes of this section, a court of an Indian tribe shall have full civil jurisdiction to issue and enforce protection orders involving any person, including the authority to enforce any orders through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country of the Indian tribe (as defined in section 1151) or otherwise within the authority of the Indian tribe.
 
@@ -83,11 +83,11 @@
 
 [Pub. L. 113–4, title IX, § 910][/us/pl/113/4/s910], Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126], provided that:
 
->     “(a) __Expanded Jurisdiction.—__ 
+>     “(a)  __Expanded Jurisdiction__  __.—__ 
 
 >     In the State of Alaska, the amendments made by sections 904 and 905 \[enacting [section 1304 of Title 25][/us/usc/t25/s1304], Indians, and amending this section, respectively\] shall only apply to the Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151], United States Code) of the Metlakatla Indian Community, Annette Island Reserve.
 
->     “(b) __Retained Jurisdiction.—__ 
+>     “(b)  __Retained Jurisdiction__  __.—__ 
 
 >     The jurisdiction and authority of each Indian tribe in the State of Alaska under [section 2265(e) of title 18][/us/usc/t18/s2265/e], United States Code (as in effect on the day before the date of enactment of this Act \[Mar. 7, 2013\])—
 
@@ -95,7 +95,7 @@
 
 >         “(2) are not limited or diminished by this Act \[see Tables for classification\] or any amendment made by this Act.
 
->     “(c) __Savings Provision.—__ 
+>     “(c)  __Savings Provision__  __.—__ 
 
 >     Nothing in this Act or an amendment made by this Act limits or diminishes the jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in the State of Alaska.”
 

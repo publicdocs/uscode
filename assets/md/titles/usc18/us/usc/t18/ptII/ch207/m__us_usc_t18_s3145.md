@@ -15,7 +15,7 @@
 
 ## § 3145. Review and appeal of a release or detention order
 
-    (a) __Review of a Release Order.—__ 
+    (a)  __Review of a Release Order__  __.—__ 
 
     If a person is ordered released by a magistrate judge, or by a person other than a judge of a court having original jurisdiction over the offense and other than a Federal appellate court—
 
@@ -25,11 +25,11 @@
 
         The motion shall be determined promptly.
 
-    (b) __Review of a Detention Order.—__ 
+    (b)  __Review of a Detention Order__  __.—__ 
 
     If a person is ordered detained by a magistrate judge, or by a person other than a judge of a court having original jurisdiction over the offense and other than a Federal appellate court, the person may file, with the court having original jurisdiction over the offense, a motion for revocation or amendment of the order. The motion shall be determined promptly.
 
-    (c) __Appeal From a Release or Detention Order.—__ 
+    (c)  __Appeal From a Release or Detention Order__  __.—__ 
 
     An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of [section 1291 of title 28][/us/usc/t28/s1291] and [section 3731 of this title][/us/usc/t18/s3731]. The appeal shall be determined promptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person’s detention would not be appropriate.
 

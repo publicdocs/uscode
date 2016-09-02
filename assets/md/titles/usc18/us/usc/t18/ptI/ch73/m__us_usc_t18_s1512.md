@@ -253,7 +253,7 @@
 
 >      Within two hundred and seventy days after the date of enactment of this Act \[Oct. 12, 1982\], the Attorney General shall develop and implement guidelines for the Department of Justice consistent with the purposes of this Act \[see Short Title of 1982 Amendment note set out under [section 1501 of this title][/us/usc/t18/s1501]\]. In preparing the guidelines the Attorney General shall consider the following objectives:
 
->         “(1) __Services to victims of crime.—__ 
+>         “(1)  __Services to victims of crime__  __.—__ 
 
 >         Law enforcement personnel should ensure that victims routinely receive emergency social and medical services as soon as possible and are given information on the following—
 
@@ -265,15 +265,15 @@
 
 >             “(D) stages in the criminal justice process of significance to a crime victim, and the manner in which information about such stages can be obtained.
 
->         “(2) __Notification of availability of protection.—__ 
+>         “(2)  __Notification of availability of protection__  __.—__ 
 
 >         A victim or witness should routinely receive information on steps that law enforcement officers and attorneys for the Government can take to protect victims and witnesses from intimidation.
 
->         “(3) __Scheduling changes.—__ 
+>         “(3)  __Scheduling changes__  __.—__ 
 
 >         All victims and witnesses who have been scheduled to attend criminal justice proceedings should either be notified as soon as possible of any scheduling changes which will affect their appearances or have available a system for alerting witnesses promptly by telephone or otherwise.
 
->         “(4) __Prompt notification to victims of serious crimes.—__ 
+>         “(4)  __Prompt notification to victims of serious crimes__  __.—__ 
 
 >         Victims, witnesses, relatives of those victims and witnesses who are minors, and relatives of homicide victims should, if such persons provide the appropriate official with a current address and telephone number, receive prompt advance notification, if possible, of—
 
@@ -285,7 +285,7 @@
 
 >             “(D) proceedings in the prosecution and punishment of the accused (including entry of a plea of guilty, trial, sentencing, and, where a term of imprisonment is imposed, a hearing to determine a parole release date and the release of the accused from such imprisonment).
 
->         “(5) __Consultation with victim.—__ 
+>         “(5)  __Consultation with victim__  __.—__ 
 
 >         The victim of a serious crime, or in the case of a minor child or a homicide, the family of the victim, should be consulted by the attorney for the Government in order to obtain the views of the victim or family about the disposition of any Federal criminal case brought as a result of such crime, including the views of the victim or family about—
 
@@ -297,23 +297,23 @@
 
 >             “(D) pretrial diversion program.
 
->         “(6) __Separate waiting area.—__ 
+>         “(6)  __Separate waiting area__  __.—__ 
 
 >         Victims and other prosecution witnesses should be provided prior to court appearance a waiting area that is separate from all other witnesses.
 
->         “(7) __Property return.—__ 
+>         “(7)  __Property return__  __.—__ 
 
 >         Law enforcement agencies and prosecutor should promptly return victim’s property held for evidentiary purposes unless there is a compelling law enforcement reason for retaining it.
 
->         “(8) __Notification to employer.—__ 
+>         “(8)  __Notification to employer__  __.—__ 
 
 >         A victim or witness who so requests should be assisted by law enforcement agencies and attorneys for the Government in informing employers that the need for victim and witness cooperation in the prosecution of the case may necessitate absence of that victim or witness from work. A victim or witness who, as a direct result of a crime or of cooperation with law enforcement agencies or attorneys for the Government, is subjected to serious financial strain, should be assisted by such agencies and attorneys in explaining to creditors the reason for such serious financial strain.
 
->         “(9) __Training by federal law enforcement training facilities.—__ 
+>         “(9)  __Training by federal law enforcement training facilities__  __.—__ 
 
 >         Victim assistance education and training should be offered to persons taking courses at Federal law enforcement training facilities and attorneys for the Government so that victims may be promptly, properly, and completely assisted.
 
->         “(10) __General victim assistance.—__ 
+>         “(10)  __General victim assistance__  __.—__ 
 
 >         The guidelines should also ensure that any other important assistance to victims and witnesses, such as the adoption of transportation, parking, and translator services for victims in court be provided.
 

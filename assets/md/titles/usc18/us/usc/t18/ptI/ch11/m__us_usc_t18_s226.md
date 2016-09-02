@@ -15,7 +15,7 @@
 
 ## § 226. Bribery affecting port security
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly—
 
@@ -37,7 +37,7 @@
 
         shall be fined under this title or imprisoned not more than 15 years, or both.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “secure or restricted area” means an area of a vessel or facility designated as secure in an approved security plan, as required under [section 70103 of title 46][/us/usc/t46/s70103], United States Code, and the rules and regulations promulgated under that section.
 

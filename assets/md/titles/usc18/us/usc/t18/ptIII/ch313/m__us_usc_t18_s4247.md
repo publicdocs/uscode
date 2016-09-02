@@ -15,7 +15,7 @@
 
 ## § 4247. General provisions for chapter
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     As used in this chapter—
 
@@ -41,11 +41,11 @@
 
         (6) “sexually dangerous to others” with respect  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “to”. </sup></sup>  a person, means that the person suffers from a serious mental illness, abnormality, or disorder as a result of which he would have serious difficulty in refraining from sexually violent conduct or child molestation if released.
 
-    (b) __Psychiatric or Psychological Examination.—__ 
+    (b)  __Psychiatric or Psychological Examination__  __.—__ 
 
     A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
-    (c) __Psychiatric or Psychological Reports.—__ 
+    (c)  __Psychiatric or Psychological Reports__  __.—__ 
 
     A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
 
@@ -71,11 +71,11 @@
 
             (F) if the examination is ordered as a part of a presentence investigation, any recommendation the examiner may have as to how the mental condition of the defendant should affect the sentence.
 
-    (d) __Hearing.—__ 
+    (d)  __Hearing__  __.—__ 
 
     At a hearing ordered pursuant to this chapter the person whose mental condition is the subject of the hearing shall be represented by counsel and, if he is financially unable to obtain adequate representation, counsel shall be appointed for him pursuant to section 3006A. The person shall be afforded an opportunity to testify, to present evidence, to subpoena witnesses on his behalf, and to confront and cross-examine witnesses who appear at the hearing.
 
-    (e) __Periodic Report and Information Requirements.—__ 
+    (e)  __Periodic Report and Information Requirements__  __.—__ 
 
         (1)
 
@@ -87,19 +87,19 @@
 
         (2) The director of the facility in which a person is committed pursuant to section 4241, 4243, 4244, 4245, 4246, or 4248 shall inform such person of any rehabilitation programs that are available for persons committed in that facility.
 
-    (f) __Videotape Record.—__ 
+    (f)  __Videotape Record__  __.—__ 
 
     Upon written request of defense counsel, the court may order a videotape record made of the defendant’s testimony or interview upon which the periodic report is based pursuant to subsection (e). Such videotape record shall be submitted to the court along with the periodic report.
 
-    (g) __Habeas Corpus Unimpaired.—__ 
+    (g)  __Habeas Corpus Unimpaired__  __.—__ 
 
     Nothing contained in section 4243, 4246, or 4248 precludes a person who is committed under either of such sections from establishing by writ of habeas corpus the illegality of his detention.
 
-    (h) __Discharge.—__ 
+    (h)  __Discharge__  __.—__ 
 
     Regardless of whether the director of the facility in which a person is committed has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, 4246, or 4248, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person’s commitment, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be committed. A copy of the motion shall be sent to the director of the facility in which the person is committed and to the attorney for the Government.
 
-    (i) __Authority and Responsibility of the Attorney General.—__ 
+    (i)  __Authority and Responsibility of the Attorney General__  __.—__ 
 
     The Attorney General—
 

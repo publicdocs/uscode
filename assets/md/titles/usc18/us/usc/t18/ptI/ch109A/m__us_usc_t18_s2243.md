@@ -15,7 +15,7 @@
 
 ## § 2243. Sexual abuse of a minor or ward
 
-    (a) __Of a Minor.—__ 
+    (a)  __Of a Minor__  __.—__ 
 
     Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who—
 
@@ -25,7 +25,7 @@
 
         or attempts to do so, shall be fined under this title, imprisoned not more than 15 years, or both.
 
-    (b) __Of a Ward.—__ 
+    (b)  __Of a Ward__  __.—__ 
 
     Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who is—
 
@@ -35,13 +35,13 @@
 
         or attempts to do so, shall be fined under this title, imprisoned not more than 15 years, or both.
 
-    (c) __Defenses.—__ 
+    (c)  __Defenses__  __.—__ 
 
         (1) In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
 
         (2) In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
 
-    (d) __State of Mind Proof Requirement.—__ 
+    (d)  __State of Mind Proof Requirement__  __.—__ 
 
     In a prosecution under subsection (a) of this section, the Government need not prove that the defendant knew—
 

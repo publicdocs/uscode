@@ -15,11 +15,11 @@
 
 ## § 2722. Additional unlawful acts
 
-    (a) __Procurement for Unlawful Purpose.—__ 
+    (a)  __Procurement for Unlawful Purpose__  __.—__ 
 
     It shall be unlawful for any person knowingly to obtain or disclose personal information, from a motor vehicle record, for any use not permitted under [section 2721(b) of this title][/us/usc/t18/s2721/b].
 
-    (b) __False Representation.—__ 
+    (b)  __False Representation__  __.—__ 
 
     It shall be unlawful for any person to make false representation to obtain any personal information from an individual’s motor vehicle record.
 

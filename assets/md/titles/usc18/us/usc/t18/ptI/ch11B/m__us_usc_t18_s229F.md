@@ -17,7 +17,7 @@
 
     In this chapter:
 
-    (1) __Chemical weapon.—__ 
+    (1)  __Chemical weapon__  __.—__ 
 
     The term “chemical weapon” means the following, together or separately:
 
@@ -27,63 +27,63 @@
 
         (C) Any equipment specifically designed for use directly in connection with the employment of munitions or devices specified in subparagraph (B).
 
-    (2) __Chemical weapons convention; convention.—__ 
+    (2)  __Chemical weapons convention; convention__  __.—__ 
 
     The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
-    (3) __Key component of a binary or multicomponent chemical system.—__ 
+    (3)  __Key component of a binary or multicomponent chemical system__  __.—__ 
 
     The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
 
-    (4) __National of the united states.—__ 
+    (4)  __National of the united states__  __.—__ 
 
     The term “national of the United States” has the same meaning given such term in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
 
-    (5) __Person.—__ 
+    (5)  __Person__  __.—__ 
 
     The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
     (6) __Precursor.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “precursor” means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.
 
-        (B) __List of precursors.—__ 
+        (B)  __List of precursors__  __.—__ 
 
         Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
-    (7) __Purposes not prohibited by this chapter.—__ 
+    (7)  __Purposes not prohibited by this chapter__  __.—__ 
 
     The term “purposes not prohibited by this chapter” means the following:
 
-        (A) __Peaceful purposes.—__ 
+        (A)  __Peaceful purposes__  __.—__ 
 
         Any peaceful purpose related to an industrial, agricultural, research, medical, or pharmaceutical activity or other activity.
 
-        (B) __Protective purposes.—__ 
+        (B)  __Protective purposes__  __.—__ 
 
         Any purpose directly related to protection against toxic chemicals and to protection against chemical weapons.
 
-        (C) __Unrelated military purposes.—__ 
+        (C)  __Unrelated military purposes__  __.—__ 
 
         Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.
 
-        (D) __Law enforcement purposes.—__ 
+        (D)  __Law enforcement purposes__  __.—__ 
 
         Any law enforcement purpose, including any domestic riot control purpose and including imposition of capital punishment.
 
     (8) __Toxic chemical.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
 
-        (B) __List of toxic chemicals.—__ 
+        (B)  __List of toxic chemicals__  __.—__ 
 
         Toxic chemicals which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
-    (9) __United states.—__ 
+    (9)  __United states__  __.—__ 
 
     The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 

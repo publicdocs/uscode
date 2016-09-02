@@ -323,7 +323,7 @@
 
 [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 119(d)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–70, provided that:
 
->     “(1) __Statutory construction.—__ 
+>     “(1)  __Statutory construction__  __.—__ 
 
 >     Nothing in the amendments made by this section \[amending this section and [section 921 of this title][/us/usc/t18/s921]\] shall be construed—
 
@@ -331,7 +331,7 @@
 
 >         “(B) as establishing any standard of care.
 
->     “(2) __Evidence.—__ 
+>     “(2)  __Evidence__  __.—__ 
 
 >     Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with the amendments made by this section shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity.”
 

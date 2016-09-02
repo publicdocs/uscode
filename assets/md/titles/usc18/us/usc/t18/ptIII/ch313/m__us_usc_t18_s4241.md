@@ -15,19 +15,19 @@
 
 ## § 4241. Determination of mental competency to stand trial to undergo postrelease proceedings  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “stand trial or to undergo postrelease proceedings”. </sup></sup> 
 
-    (a) __Motion To Determine Competency of Defendant.—__ 
+    (a)  __Motion To Determine Competency of Defendant__  __.—__ 
 
     At any time after the commencement of a prosecution for an offense and prior to the sentencing of the defendant, or at any time after the commencement of probation or supervised release and prior to the completion of the sentence, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
 
-    (b) __Psychiatric or Psychological Examination and Report.—__ 
+    (b)  __Psychiatric or Psychological Examination and Report__  __.—__ 
 
     Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
-    (c) __Hearing.—__ 
+    (c)  __Hearing__  __.—__ 
 
     The hearing shall be conducted pursuant to the provisions of section 4247(d).
 
-    (d) __Determination and Disposition.—__ 
+    (d)  __Determination and Disposition__  __.—__ 
 
     If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for treatment in a suitable facility—
 
@@ -45,11 +45,11 @@
 
         If, at the end of the time period specified, it is determined that the defendant’s mental condition has not so improved as to permit the proceedings to go forward, the defendant is subject to the provisions of sections 4246 and 4248.
 
-    (e) __Discharge.—__ 
+    (e)  __Discharge__  __.—__ 
 
     When the director of the facility in which a defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. The court shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine the competency of the defendant. If, after the hearing, the court finds by a preponderance of the evidence that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, the court shall order his immediate discharge from the facility in which he is hospitalized and shall set the date for trial or other proceedings. Upon discharge, the defendant is subject to the provisions of chapters 207 and 227.
 
-    (f) __Admissibility of Finding of Competency.—__ 
+    (f)  __Admissibility of Finding of Competency__  __.—__ 
 
     A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
 

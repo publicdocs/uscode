@@ -15,7 +15,7 @@
 
 ## § 1597. Unlawful conduct with respect to immigration documents
 
-    (a) __Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents.—__ 
+    (a)  __Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents__  __.—__ 
 
     It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual —
 
@@ -25,11 +25,11 @@
 
         (3) in order to, without lawful authority, maintain, prevent, or restrict the labor of services of the individual.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Any person who violates subsection (a) shall be fined under this title, imprisoned for not more than 1 year, or both.
 
-    (c) __Obstruction.—__ 
+    (c)  __Obstruction__  __.—__ 
 
     Any person who knowingly obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (b).
 

@@ -15,11 +15,11 @@
 
 ## § 2520. Recovery of civil damages authorized
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, or electronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
-    (b) __Relief.—__ 
+    (b)  __Relief__  __.—__ 
 
     In an action under this section, appropriate relief includes—
 
@@ -29,7 +29,7 @@
 
         (3) a reasonable attorney’s fee and other litigation costs reasonably incurred.
 
-    (c) __Computation of Damages.—__ 
+    (c)  __Computation of Damages__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
             (B) statutory damages of whichever is the greater of $100 a day for each day of violation or $10,000.
 
-    (d) __Defense.—__ 
+    (d)  __Defense__  __.—__ 
 
     A good faith reliance on—
 
@@ -59,15 +59,15 @@
 
         is a complete defense against any civil or criminal action brought under this chapter or any other law.
 
-    (e) __Limitation.—__ 
+    (e)  __Limitation__  __.—__ 
 
     A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
 
-    (f) __Administrative Discipline.—__ 
+    (f)  __Administrative Discipline__  __.—__ 
 
     If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
-    (g) __Improper Disclosure Is Violation.—__ 
+    (g)  __Improper Disclosure Is Violation__  __.—__ 
 
     Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
 

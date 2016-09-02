@@ -15,7 +15,7 @@
 
 ## § 1467. Criminal forfeiture
 
-    (a) __Property Subject to Criminal Forfeiture.—__ 
+    (a)  __Property Subject to Criminal Forfeiture__  __.—__ 
 
     A person who is convicted of an offense involving obscene material under this chapter shall forfeit to the United States such person’s interest in—
 

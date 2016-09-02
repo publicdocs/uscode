@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1) __Offenses involving actual or perceived race, color, religion, or national origin.—__ 
+        (1)  __Offenses involving actual or perceived race, color, religion, or national origin__  __.—__ 
 
         Whoever, whether or not acting under color of law, willfully causes bodily injury to any person or, through the use of fire, a firearm, a dangerous weapon, or an explosive or incendiary device, attempts to cause bodily injury to any person, because of the actual or perceived race, color, religion, or national origin of any person—
 
@@ -33,7 +33,7 @@
 
         (2) __Offenses involving actual or perceived religion, national origin, gender, sexual orientation, gender identity, or disability.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whoever, whether or not acting under color of law, in any circumstance described in subparagraph (B) or paragraph (3), willfully causes bodily injury to any person or, through the use of fire, a firearm, a dangerous weapon, or an explosive or incendiary device, attempts to cause bodily injury to any person, because of the actual or perceived religion, national origin, gender, sexual orientation, gender identity, or disability of any person—
 
@@ -47,7 +47,7 @@
 
                     (II) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
-            (B) __Circumstances described.—__ 
+            (B)  __Circumstances described__  __.—__ 
 
             For purposes of subparagraph (A), the circumstances described in this subparagraph are that—
 
@@ -71,17 +71,17 @@
 
                     (II) otherwise affects interstate or foreign commerce.
 
-        (3) __Offenses occurring in the special maritime or territorial jurisdiction of the united states.—__ 
+        (3)  __Offenses occurring in the special maritime or territorial jurisdiction of the united states__  __.—__ 
 
         Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
 
-        (4) __Guidelines.—__ 
+        (4)  __Guidelines__  __.—__ 
 
         All prosecutions conducted by the United States under this section shall be undertaken pursuant to guidelines issued by the Attorney General, or the designee of the Attorney General, to be included in the United States Attorneys’ Manual that shall establish neutral and objective criteria for determining whether a crime was committed because of the actual or perceived status of any person.
 
     (b) __Certification Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No prosecution of any offense described in this subsection may be undertaken by the United States, except under the certification in writing of the Attorney General, or a designee, that—
 
@@ -93,11 +93,11 @@
 
             (D) a prosecution by the United States is in the public interest and necessary to secure substantial justice.
 
-        (2) __Rule of construction.—__ 
+        (2)  __Rule of construction__  __.—__ 
 
         Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -113,11 +113,11 @@
 
     (d) __Statute of Limitations.—__ 
 
-        (1) __Offenses not resulting in death.—__ 
+        (1)  __Offenses not resulting in death__  __.—__ 
 
         Except as provided in paragraph (2), no person shall be prosecuted, tried, or punished for any offense under this section unless the indictment for such offense is found, or the information for such offense is instituted, not later than 7 years after the date on which the offense was committed.
 
-        (2) __Death resulting offenses.—__ 
+        (2)  __Death resulting offenses__  __.—__ 
 
         An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
 
@@ -139,15 +139,15 @@
 
 > “For purposes of construing this division \[see Severability note above\] and the amendments made by this division the following shall apply:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Nothing in this division shall be construed to allow a court, in any criminal trial for an offense described under this division or an amendment made by this division, in the absence of a stipulation by the parties, to admit evidence of speech, beliefs, association, group membership, or expressive conduct unless that evidence is relevant and admissible under the Federal Rules of Evidence. Nothing in this division is intended to affect the existing rules of evidence.
 
->     “(2) __Violent acts.—__ 
+>     “(2)  __Violent acts__  __.—__ 
 
 >     This division applies to violent acts motivated by actual or perceived race, color, religion, national origin, gender, sexual orientation, gender identity, or disability of a victim.
 
->     “(3) __Construction and application.—__ 
+>     “(3)  __Construction and application__  __.—__ 
 
 >     Nothing in this division, or an amendment made by this division, shall be construed or applied in a manner that infringes any rights under the first amendment to the Constitution of the United States. Nor shall anything in this division, or an amendment made by this division, be construed or applied in a manner that substantially burdens a person’s exercise of religion (regardless of whether compelled by, or central to, a system of religious belief), speech, expression, or association, unless the Government demonstrates that application of the burden to the person is in furtherance of a compelling governmental interest and is the least restrictive means of furthering that compelling governmental interest, if such exercise of religion, speech, expression, or association was not intended to—
 
@@ -155,15 +155,15 @@
 
 >         “(B) incite an imminent act of physical violence against another.
 
->     “(4) __Free expression.—__ 
+>     “(4)  __Free expression__  __.—__ 
 
 >     Nothing in this division shall be construed to allow prosecution based solely upon an individual’s expression of racial, religious, political, or other beliefs or solely upon an individual’s membership in a group advocating or espousing such beliefs.
 
->     “(5) __First amendment.—__ 
+>     “(5)  __First amendment__  __.—__ 
 
 >     Nothing in this division, or an amendment made by this division, shall be construed to diminish any rights under the first amendment to the Constitution of the United States.
 
->     “(6) __Constitutional protections.—__ 
+>     “(6)  __Constitutional protections__  __.—__ 
 
 >     Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United States does not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.”
 

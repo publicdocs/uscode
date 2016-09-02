@@ -15,7 +15,7 @@
 
 ## § 36. Drive-by shooting
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “major drug offense” means—
 
@@ -25,7 +25,7 @@
 
         (3) an offense involving major quantities of drugs and punishable under section 401(b)(1)(A) of the Controlled Substances Act ([21 U.S.C. 841(b)(1)(A)][/us/usc/t21/s841/b/1/A]) or section 1010(b)(1) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)(1)][/us/usc/t21/s960/b/1]).
 
-    (b) __Offense and Penalties.—__ 
+    (b)  __Offense and Penalties__  __.—__ 
 
         (1) A person who, in furtherance or to escape detection of a major drug offense and with the intent to intimidate, harass, injure, or maim, fires a weapon into a group of two or more persons and who, in the course of such conduct, causes grave risk to any human life shall be punished by a term of no more than 25 years, by fine under this title, or both.
 

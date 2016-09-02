@@ -17,7 +17,7 @@
 
     (a) __Criminal Violation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever engages in any conduct with intent to convey false or misleading information under circumstances where such information may reasonably be believed and where such information indicates that an activity has taken, is taking, or will take place that would constitute a violation of chapter 2, 10, 11B, 39, 40, 44, 111, or 113B of this title, section 236 of the Atomic Energy Act of 1954 ([42 U.S.C. 2284][/us/usc/t42/s2284]), or section 46502, the second sentence of section 46504, section 46505(b)(3) or (c), section 46506 if homicide or attempted homicide is involved, or [section 60123(b) of title 49][/us/usc/t49/s60123/b], shall—
 
@@ -27,7 +27,7 @@
 
             (C) if death results, be fined under this title or imprisoned for any number of years up to life, or both.
 
-        (2) __Armed forces.—__ 
+        (2)  __Armed forces__  __.—__ 
 
         Any person who makes a false statement, with intent to convey false or misleading information, about the death, injury, capture, or disappearance of a member of the Armed Forces of the United States during a war or armed conflict in which the United States is engaged—
 
@@ -37,25 +37,25 @@
 
             (C) if death results, shall be fined under this title, imprisoned for any number of years or for life, or both.
 
-    (b) __Civil Action.—__ 
+    (b)  __Civil Action__  __.—__ 
 
     Whoever engages in any conduct with intent to convey false or misleading information under circumstances where such information may reasonably be believed and where such information indicates that an activity has taken, is taking, or will take place that would constitute a violation of chapter 2, 10, 11B, 39, 40, 44, 111, or 113B of this title, section 236 of the Atomic Energy Act of 1954 ([42 U.S.C. 2284][/us/usc/t42/s2284]), or section 46502, the second sentence of section 46504, section 46505 (b)(3) or (c), section 46506 if homicide or attempted homicide is involved, or [section 60123(b) of title 49][/us/usc/t49/s60123/b] is liable in a civil action to any party incurring expenses incident to any emergency or investigative response to that conduct, for those expenses.
 
     (c) __Reimbursement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The court, in imposing a sentence on a defendant who has been convicted of an offense under subsection (a), shall order the defendant to reimburse any state or local government, or private not-for-profit organization that provides fire or rescue service incurring expenses incident to any emergency or investigative response to that conduct, for those expenses.
 
-        (2) __Liability.—__ 
+        (2)  __Liability__  __.—__ 
 
         A person ordered to make reimbursement under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered to make reimbursement under this subsection for the same expenses.
 
-        (3) __Civil judgment.—__ 
+        (3)  __Civil judgment__  __.—__ 
 
         An order of reimbursement under this subsection shall, for the purposes of enforcement, be treated as a civil judgment.
 
-    (d) __Activities of Law Enforcement.—__ 
+    (d)  __Activities of Law Enforcement__  __.—__ 
 
     This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or political subdivision of a State, or of an intelligence agency of the United States.
 

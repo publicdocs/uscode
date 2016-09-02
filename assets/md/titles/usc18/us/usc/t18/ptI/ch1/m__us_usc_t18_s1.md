@@ -23,6 +23,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–47, § 1][/us/pl/113/47/s1], Oct. 31, 2013, [127 Stat. 572][/us/stat/127/572], provided that: 
+
+> “This Act \[enacting provisions set out as a note under [section 3551 of this title][/us/usc/t18/s3551]\] may be cited as the ‘United States Parole Commission Extension Act of 2013’.”
+
 [Pub. L. 113–12, § 1][/us/pl/113/12/s1], June 3, 2013, [127 Stat. 448][/us/stat/127/448], provided that: 
 
 > “This Act \[amending [section 704 of this title][/us/usc/t18/s704]\] may be cited as the ‘Stolen Valor Act of 2013’.”
@@ -309,6 +313,9 @@
 [/us/pl/98/596/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs8
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
+[/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
+[/us/pl/113/47/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F47%2Fs1
+[/us/stat/127/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F572
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/113/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F12%2Fs1
 [/us/stat/127/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F448

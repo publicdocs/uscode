@@ -15,7 +15,7 @@
 
 ## § 3509. Child victims’ and child witnesses’ rights
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -95,7 +95,7 @@
 
             The child’s testimony shall be transmitted by closed circuit television into the courtroom for viewing and hearing by the defendant, jury, judge, and public. The defendant shall be provided with the means of private, contemporaneous communication with the defendant’s attorney during the testimony. The closed circuit television transmission shall relay into the room in which the child is testifying the defendant’s image, and the voice of the judge.
 
-        (2) __Videotaped deposition of child.—__ 
+        (2)  __Videotaped deposition of child__  __.—__ 
 
             (A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child’s attorney, the child’s parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child’s testimony and that the deposition be recorded and preserved on videotape.
 
@@ -135,7 +135,7 @@
 
                 (iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant’s image into the room in which the child is testifying, and the child’s testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant’s attorney during the deposition.
 
-                (v) __Handling of videotape.—__ 
+                (v)  __Handling of videotape__  __.—__ 
 
                 The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. The videotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant’s attorney during ordinary business hours.
 
@@ -149,23 +149,23 @@
 
     (c) __Competency Examinations.—__ 
 
-        (1) __Effect of federal rules of evidence.—__ 
+        (1)  __Effect of federal rules of evidence__  __.—__ 
 
         Nothing in this subsection shall be construed to abrogate rule 601 of the Federal Rules of Evidence.
 
-        (2) __Presumption.—__ 
+        (2)  __Presumption__  __.—__ 
 
         A child is presumed to be competent.
 
-        (3) __Requirement of written motion.—__ 
+        (3)  __Requirement of written motion__  __.—__ 
 
         A competency examination regarding a child witness may be conducted by the court only upon written motion and offer of proof of incompetency by a party.
 
-        (4) __Requirement of compelling reasons.—__ 
+        (4)  __Requirement of compelling reasons__  __.—__ 
 
         A competency examination regarding a child may be conducted only if the court determines, on the record, that compelling reasons exist. A child’s age alone is not a compelling reason.
 
-        (5) __Persons permitted to be present.—__ 
+        (5)  __Persons permitted to be present__  __.—__ 
 
         The only persons who may be permitted to be present at a competency examination are—
 
@@ -179,25 +179,25 @@
 
             (E) persons whose presence, in the opinion of the court, is necessary to the welfare and well-being of the child, including the child’s attorney, guardian ad litem, or adult attendant.
 
-        (6) __Not before jury.—__ 
+        (6)  __Not before jury__  __.—__ 
 
         A competency examination regarding a child witness shall be conducted out of the sight and hearing of a jury.
 
-        (7) __Direct examination of child.—__ 
+        (7)  __Direct examination of child__  __.—__ 
 
         Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
-        (8) __Appropriate questions.—__ 
+        (8)  __Appropriate questions__  __.—__ 
 
         The questions asked at the competency examination of a child shall be appropriate to the age and developmental level of the child, shall not be related to the issues at trial, and shall focus on determining the child’s ability to understand and answer simple questions.
 
-        (9) __Psychological and psychiatric examinations.—__ 
+        (9)  __Psychological and psychiatric examinations__  __.—__ 
 
         Psychological and psychiatric examinations to assess the competency of a child witness shall not be ordered without a showing of compelling need.
 
     (d) __Privacy Protection.—__ 
 
-        (1) __Confidentiality of information.—__ 
+        (1)  __Confidentiality of information__  __.—__ 
 
             (A)
 
@@ -219,7 +219,7 @@
 
                 (iv) members of the jury.
 
-        (2) __Filing under seal.—__ 
+        (2)  __Filing under seal__  __.—__ 
 
         All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining a court order. The person who makes the filing shall submit to the clerk of the court—
 
@@ -227,7 +227,7 @@
 
             (B) the paper with the portions of it that disclose the name of or other information concerning a child redacted, to be placed in the public record.
 
-        (3) __Protective orders.—__ 
+        (3)  __Protective orders__  __.—__ 
 
             (A) On motion by any person the court may issue an order protecting a child from public disclosure of the name of or any other information concerning the child in the course of the proceedings, if the court determines that there is a significant possibility that such disclosure would be detrimental to the child.
 
@@ -239,25 +239,25 @@
 
                 (ii) provide for any other measures that may be necessary to protect the privacy of the child.
 
-        (4) __Disclosure of information.—__ 
+        (4)  __Disclosure of information__  __.—__ 
 
         This subsection does not prohibit disclosure of the name of or other information concerning a child to the defendant, the attorney for the defendant, a multidisciplinary child abuse team, a guardian ad litem, or an adult attendant, or to anyone to whom, in the opinion of the court, disclosure is necessary to the welfare and well-being of the child.
 
-    (e) __Closing the Courtroom.—__ 
+    (e)  __Closing the Courtroom__  __.—__ 
 
     When a child testifies the court may order the exclusion from the courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child’s inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government’s specific compelling interest.
 
-    (f) __Victim Impact Statement.—__ 
+    (f)  __Victim Impact Statement__  __.—__ 
 
     In preparing the presentence report pursuant to rule 32(c) of the Federal Rules of Criminal Procedure, the probation officer shall request information from the multidisciplinary child abuse team and other appropriate sources to determine the impact of the offense on the child victim and any other children who may have been affected. A guardian ad litem appointed under subsection (h) shall make every effort to obtain and report information that accurately expresses the child’s and the family’s views concerning the child’s victimization. A guardian ad litem shall use forms that permit the child to express the child’s views concerning the personal consequences of the child’s victimization, at a level and in a form of communication commensurate with the child’s age and ability.
 
     (g) __Use of Multidisciplinary Child Abuse Teams.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A multidisciplinary child abuse team shall be used when it is feasible to do so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
 
-        (2) __Role of multidisciplinary child abuse teams.—__ 
+        (2)  __Role of multidisciplinary child abuse teams__  __.—__ 
 
         The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
@@ -277,31 +277,31 @@
 
     (h) __Guardian Ad Litem.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The court may appoint, and provide reasonable compensation and payment of expenses for, a guardian ad litem for a child who was a victim of, or a witness to, a crime involving abuse or exploitation to protect the best interests of the child. In making the appointment, the court shall consider a prospective guardian’s background in, and familiarity with, the judicial process, social service programs, and child abuse issues. The guardian ad litem shall not be a person who is or may be a witness in a proceeding involving the child for whom the guardian is appointed.
 
-        (2) __Duties of guardian ad litem.—__ 
+        (2)  __Duties of guardian ad litem__  __.—__ 
 
         A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney’s work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
-        (3) __Immunities.—__ 
+        (3)  __Immunities__  __.—__ 
 
         A guardian ad litem shall be presumed to be acting in good faith and shall be immune from civil and criminal liability for complying with the guardian’s lawful duties described in paragraph (2).
 
-    (i) __Adult Attendant.—__ 
+    (i)  __Adult Attendant__  __.—__ 
 
     A child testifying at or attending a judicial proceeding shall have the right to be accompanied by an adult attendant to provide emotional support to the child. The court, at its discretion, may allow the adult attendant to remain in close physical proximity to or in contact with the child while the child testifies. The court may allow the adult attendant to hold the child’s hand or allow the child to sit on the adult attendant’s lap throughout the course of the proceeding. An adult attendant shall not provide the child with an answer to any question directed to the child during the course of the child’s testimony or otherwise prompt the child. The image of the child attendant, for the time the child is testifying or being deposed, shall be recorded on videotape.
 
-    (j) __Speedy Trial.—__ 
+    (j)  __Speedy Trial__  __.—__ 
 
     In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child’s well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child.
 
-    (k) __Stay of Civil Action.—__ 
+    (k)  __Stay of Civil Action__  __.—__ 
 
     If, at any time that a cause of action for recovery of compensation for damage or injury to the person of a child exists, a criminal action is pending which arises out of the same occurrence and in which the child is the victim, the civil action shall be stayed until the end of all phases of the criminal action and any mention of the civil action during the criminal proceeding is prohibited. As used in this subsection, a criminal action is pending until its final adjudication in the trial court.
 
-    (l) __Testimonial Aids.—__ 
+    (l)  __Testimonial Aids__  __.—__ 
 
     The court may permit a child to use anatomical dolls, puppets, drawings, mannequins, or any other demonstrative device the court deems appropriate for the purpose of assisting a child in testifying.
 

@@ -15,11 +15,11 @@
 
 ## § 3614. Resentencing upon failure to pay a fine or restitution
 
-    (a) __Resentencing.—__ 
+    (a)  __Resentencing__  __.—__ 
 
     Subject to the provisions of subsection (b), if a defendant knowingly fails to pay a delinquent fine or restitution the court may resentence the defendant to any sentence which might originally have been imposed.
 
-    (b) __Imprisonment.—__ 
+    (b)  __Imprisonment__  __.—__ 
 
     The defendant may be sentenced to a term of imprisonment under subsection (a) only if the court determines that—
 
@@ -27,7 +27,7 @@
 
         (2) in light of the nature of the offense and the characteristics of the person, alternatives to imprisonment are not adequate to serve the purposes of punishment and deterrence.
 
-    (c) __Effect of Indigency.—__ 
+    (c)  __Effect of Indigency__  __.—__ 
 
     In no event shall a defendant be incarcerated under this section solely on the basis of inability to make payments because the defendant is indigent.
 

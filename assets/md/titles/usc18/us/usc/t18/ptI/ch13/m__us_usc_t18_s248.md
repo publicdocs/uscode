@@ -15,7 +15,7 @@
 
 ## § 248. Freedom of access to clinic entrances
 
-    (a) __Prohibited Activities.—__ 
+    (a)  __Prohibited Activities__  __.—__ 
 
     Whoever—
 
@@ -27,7 +27,7 @@
 
         shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section for such activities insofar as they are directed exclusively at that minor.
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     Whoever violates this section shall—
 
@@ -41,21 +41,21 @@
 
         (1) __Right of action.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
 
-            (B) __Relief.—__ 
+            (B)  __Relief__  __.—__ 
 
             In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief and compensatory and punitive damages, as well as the costs of suit and reasonable fees for attorneys and expert witnesses. With respect to compensatory damages, the plaintiff may elect, at any time prior to the rendering of final judgment, to recover, in lieu of actual damages, an award of statutory damages in the amount of $5,000 per violation.
 
         (2) __Action by attorney general of the united states.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Attorney General of the United States has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, the Attorney General may commence a civil action in any appropriate United States District Court.
 
-            (B) __Relief.—__ 
+            (B)  __Relief__  __.—__ 
 
             In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, to vindicate the public interest, may also assess a civil penalty against each respondent—
 
@@ -65,15 +65,15 @@
 
         (3) __Actions by state attorneys general.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
 
-            (B) __Relief.—__ 
+            (B)  __Relief__  __.—__ 
 
             In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, compensatory damages, and civil penalties as described in paragraph (2)(B).
 
-    (d) __Rules of Construction.—__ 
+    (d)  __Rules of Construction__  __.—__ 
 
     Nothing in this section shall be construed—
 
@@ -85,31 +85,31 @@
 
         (4) to interfere with the enforcement of State or local laws regulating the performance of abortions or other reproductive health services.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     As used in this section:
 
-        (1) __Facility.—__ 
+        (1)  __Facility__  __.—__ 
 
         The term “facility” includes a hospital, clinic, physician’s office, or other facility that provides reproductive health services, and includes the building or structure in which the facility is located.
 
-        (2) __Interfere with.—__ 
+        (2)  __Interfere with__  __.—__ 
 
         The term “interfere with” means to restrict a person’s freedom of movement.
 
-        (3) __Intimidate.—__ 
+        (3)  __Intimidate__  __.—__ 
 
         The term “intimidate” means to place a person in reasonable apprehension of bodily harm to him- or herself or to another.
 
-        (4) __Physical obstruction.—__ 
+        (4)  __Physical obstruction__  __.—__ 
 
         The term “physical obstruction” means rendering impassable ingress to or egress from a facility that provides reproductive health services or to or from a place of religious worship, or rendering passage to or from such a facility or place of religious worship unreasonably difficult or hazardous.
 
-        (5) __Reproductive health services.—__ 
+        (5)  __Reproductive health services__  __.—__ 
 
         The term “reproductive health services” means reproductive health services provided in a hospital, clinic, physician’s office, or other facility, and includes medical, surgical, counselling or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
 
-        (6) __State.—__ 
+        (6)  __State__  __.—__ 
 
         The term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 

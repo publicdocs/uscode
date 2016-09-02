@@ -15,7 +15,7 @@
 
 ## § 3006A. Adequate representation of defendants
 
-    (a) __Choice of Plan.—__ 
+    (a)  __Choice of Plan__  __.—__ 
 
     Each United States district court, with the approval of the judicial council of the circuit, shall place in operation throughout the district a plan for furnishing representation for any person financially unable to obtain adequate representation in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:
 
@@ -61,35 +61,35 @@
 
         Prior to approving the plan for a district, the judicial council of the circuit shall supplement the plan with provisions for representation on appeal. The district court may modify the plan at any time with the approval of the judicial council of the circuit. It shall modify the plan when directed by the judicial council of the circuit. The district court shall notify the Administrative Office of the United States Courts of any modification of its plan.
 
-    (b) __Appointment of Counsel.—__ 
+    (b)  __Appointment of Counsel__  __.—__ 
 
     Counsel furnishing representation under the plan shall be selected from a panel of attorneys designated or approved by the court, or from a bar association, legal aid agency, or defender organization furnishing representation pursuant to the plan. In every case in which a person entitled to representation under a plan approved under subsection (a) appears without counsel, the United States magistrate judge or the court shall advise the person that he has the right to be represented by counsel and that counsel will be appointed to represent him if he is financially unable to obtain counsel. Unless the person waives representation by counsel, the United States magistrate judge or the court, if satisfied after appropriate inquiry that the person is financially unable to obtain counsel, shall appoint counsel to represent him. Such appointment may be made retroactive to include any representation furnished pursuant to the plan prior to appointment. The United States magistrate judge or the court shall appoint separate counsel for persons having interests that cannot properly be represented by the same counsel, or when other good cause is shown.
 
-    (c) __Duration and Substitution of Appointments.—__ 
+    (c)  __Duration and Substitution of Appointments__  __.—__ 
 
     A person for whom counsel is appointed shall be represented at every stage of the proceedings from his initial appearance before the United States magistrate judge or the court through appeal, including ancillary matters appropriate to the proceedings. If at any time after the appointment of counsel the United States magistrate judge or the court finds that the person is financially able to obtain counsel or to make partial payment for the representation, it may terminate the appointment of counsel or authorize payment as provided in subsection (f), as the interests of justice may dictate. If at any stage of the proceedings, including an appeal, the United States magistrate judge or the court finds that the person is financially unable to pay counsel whom he had retained, it may appoint counsel as provided in subsection (b) and authorize payment as provided in subsection (d), as the interests of justice may dictate. The United States magistrate judge or the court may, in the interests of justice, substitute one appointed counsel for another at any stage of the proceedings.
 
     (d) __Payment for Representation.—__ 
 
-        (1) __Hourly Rate.—__ 
+        (1)  __Hourly Rate__  __.—__ 
 
         Any attorney appointed pursuant to this section or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate judge and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate judge and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “United States magistrate judge”. </sup></sup>  or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate  <sup>\[2\]</sup>  or the court shall make determinations relating to reimbursement of expenses under this paragraph.
 
-        (2) __Maximum Amounts.—__ 
+        (2)  __Maximum Amounts__  __.—__ 
 
         For representation of a defendant before the United States magistrate judge or the district court, or both, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $7,000 for each attorney in a case in which one or more felonies are charged, and $2,000 for each attorney in a case in which only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $5,000 for each attorney in each court. For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court. For representation of an offender before the United States Parole Commission in a proceeding under [section 4106A of this title][/us/usc/t18/s4106A], the compensation shall not exceed $1,500 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $5,000 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $1,500 for each attorney in each proceeding. The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.
 
-        (3) __Waiving Maximum Amounts.—__ 
+        (3)  __Waiving Maximum Amounts__  __.—__ 
 
         Payment in excess of any maximum amount provided in paragraph (2) of this subsection may be made for extended or complex representation whenever the court in which the representation was rendered, or the United States magistrate judge if the representation was furnished exclusively before him, certifies that the amount of the excess payment is necessary to provide fair compensation and the payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
         (4) __Disclosure of fees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraphs (B) through (E), the amounts paid under this subsection for services in any case shall be made available to the public by the court upon the court’s approval of the payment.
 
-            (B) __Pre-trial or trial in progress.—__ 
+            (B)  __Pre-trial or trial in progress__  __.—__ 
 
             If a trial is in pre-trial status or still in progress and after considering the defendant’s interests as set forth in subparagraph (D), the court shall—
 
@@ -125,15 +125,15 @@
 
             (C) __Trial completed.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If a request for payment is not submitted until after the completion of the trial and subject to consideration of the defendant’s interests as set forth in subparagraph (D), the court shall make available to the public an unredacted copy of the expense voucher.
 
-                (ii) __Protection of the rights of the defendant.—__ 
+                (ii)  __Protection of the rights of the defendant__  __.—__ 
 
                 If the court determines that defendant’s interests as set forth in subparagraph (D) require a limited disclosure, the court shall disclose amounts as provided in subparagraph (B).
 
-            (D) __Considerations.—__ 
+            (D)  __Considerations__  __.—__ 
 
             The interests referred to in subparagraphs (B) and (C) are—
 
@@ -149,65 +149,65 @@
 
                 (vi) any other interest that justice may require, except that the amount of the fees shall not be considered a reason justifying any limited disclosure under [section 3006A(d)(4) of title 18][/us/usc/t18/s3006A/d/4], United States Code.
 
-            (E) __Notice.—__ 
+            (E)  __Notice__  __.—__ 
 
             The court shall provide reasonable notice of disclosure to the counsel of the defendant prior to the approval of the payments in order to allow the counsel to request redaction based on the considerations set forth in subparagraph (D). Upon completion of the trial, the court shall release unredacted copies of the vouchers provided by defense counsel to justify the expenses to the court. If there is an appeal, the court shall not release unredacted copies of the vouchers provided by defense counsel to justify the expenses to the court until such time as the appeals process is completed, unless the court determines that none of the defendant’s interests set forth in subparagraph (D) will be compromised.
 
-            (F) __Effective date.—__ 
+            (F)  __Effective date__  __.—__ 
 
             The amendment made by paragraph (4) shall become effective 60 days after enactment of this Act, will apply only to cases filed on or after the effective date, and shall be in effect for no longer than 24 months after the effective date.
 
-        (5) __Filing Claims.—__ 
+        (5)  __Filing Claims__  __.—__ 
 
         A separate claim for compensation and reimbursement shall be made to the district court for representation before the United States magistrate judge and the court, and to each appellate court before which the attorney provided representation to the person involved. Each claim shall be supported by a sworn written statement specifying the time expended, services rendered, and expenses incurred while the case was pending before the United States magistrate judge and the court, and the compensation and reimbursement applied for or received in the same case from any other source. The court shall fix the compensation and reimbursement to be paid to the attorney or to the bar association or legal aid agency or community defender organization which provided the appointed attorney. In cases where representation is furnished exclusively before a United States magistrate judge, the claim shall be submitted to him and he shall fix the compensation and reimbursement to be paid. In cases where representation is furnished other than before the United States magistrate judge, the district court, or an appellate court, claims shall be submitted to the district court which shall fix the compensation and reimbursement to be paid.
 
-        (6) __New Trials.—__ 
+        (6)  __New Trials__  __.—__ 
 
         For purposes of compensation and other payments authorized by this section, an order by a court granting a new trial shall be deemed to initiate a new case.
 
-        (7) __Proceedings Before Appellate Courts.—__ 
+        (7)  __Proceedings Before Appellate Courts__  __.—__ 
 
         If a person for whom counsel is appointed under this section appeals to an appellate court or petitions for a writ of certiorari, he may do so without prepayment of fees and costs or security therefor and without filing the affidavit required by [section 1915(a) of title 28][/us/usc/t28/s1915/a].
 
     (e) __Services Other Than Counsel.—__ 
 
-        (1) __Upon Request.—__ 
+        (1)  __Upon Request__  __.—__ 
 
         Counsel for a person who is financially unable to obtain investigative, expert, or other services necessary for adequate representation may request them in an ex parte application. Upon finding, after appropriate inquiry in an ex parte proceeding, that the services are necessary and that the person is financially unable to obtain them, the court, or the United States magistrate judge if the services are required in connection with a matter over which he has jurisdiction, shall authorize counsel to obtain the services.
 
-        (2) __Without Prior Request.—__ 
+        (2)  __Without Prior Request__  __.—__ 
 
             (A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
 
             (B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $800.
 
-        (3) __Maximum Amounts.—__ 
+        (3)  __Maximum Amounts__  __.—__ 
 
         Compensation to be paid to a person for services rendered by him to a person under this subsection, or to be paid to an organization for services rendered by an employee thereof, shall not exceed $2,400, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge if the services were rendered in connection with a case disposed of entirely before him, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
-        (4) __Disclosure of fees.—__ 
+        (4)  __Disclosure of fees__  __.—__ 
 
         The amounts paid under this subsection for services in any case shall be made available to the public.
 
         (5) The dollar amounts provided in paragraphs (2) and (3) shall be adjusted simultaneously by an amount, rounded to the nearest multiple of $100, equal to the percentage of the cumulative adjustments taking effect under [section 5303 of title 5][/us/usc/t5/s5303] in the rates of pay under the General Schedule since the date the dollar amounts provided in paragraphs (2) and (3), respectively, were last enacted or adjusted by statute.
 
-    (f) __Receipt of Other Payments.—__ 
+    (f)  __Receipt of Other Payments__  __.—__ 
 
     Whenever the United States magistrate judge or the court finds that funds are available for payment from or on behalf of a person furnished representation, it may authorize or direct that such funds be paid to the appointed attorney, to the bar association or legal aid agency or community defender organization which provided the appointed attorney, to any person or organization authorized pursuant to subsection (e) to render investigative, expert, or other services, or to the court for deposit in the Treasury as a reimbursement to the appropriation, current at the time of payment, to carry out the provisions of this section. Except as so authorized or directed, no such person or organization may request or accept any payment or promise of payment for representing a defendant.
 
     (g) __Defender Organization.—__ 
 
-        (1) __Qualifications.—__ 
+        (1)  __Qualifications__  __.—__ 
 
         A district or a part of a district in which at least two hundred persons annually require the appointment of counsel may establish a defender organization as provided for either under subparagraphs (A) or (B) of paragraph (2) of this subsection or both. Two adjacent districts or parts of districts may aggregate the number of persons required to be represented to establish eligibility for a defender organization to serve both areas. In the event that adjacent districts or parts of districts are located in different circuits, the plan for furnishing representation shall be approved by the judicial council of each circuit.
 
         (2) __Types of Defender Organizations.—__ 
 
-            (A) __Federal Public Defender Organization.—__ 
+            (A)  __Federal Public Defender Organization__  __.—__ 
 
             A Federal Public Defender Organization shall consist of one or more full-time salaried attorneys. An organization for a district or part of a district or two adjacent districts or parts of districts shall be supervised by a Federal Public Defender appointed by the court of appeals of the circuit, without regard to the provisions of title 5 governing appointments in the competitive service, after considering recommendations from the district court or courts to be served. Nothing contained herein shall be deemed to authorize more than one Federal Public Defender within a single judicial district. The Federal Public Defender shall be appointed for a term of four years, unless sooner removed by the court of appeals of the circuit for incompetency, misconduct in office, or neglect of duty. Upon the expiration of his term, a Federal Public Defender may, by a majority vote of the judges of the court of appeals, continue to perform the duties of his office until his successor is appointed, or until one year after the expiration of such Defender’s term, whichever is earlier. The compensation of the Federal Public Defender shall be fixed by the court of appeals of the circuit at a rate not to exceed the compensation received by the United States attorney for the district where representation is furnished or, if two districts or parts of districts are involved, the compensation of the higher paid United States attorney of the districts. The Federal Public Defender may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, full-time attorneys in such number as may be approved by the court of appeals of the circuit and other personnel in such number as may be approved by the Director of the Administrative Office of the United States Courts. Compensation paid to such attorneys and other personnel of the organization shall be fixed by the Federal Public Defender at a rate not to exceed that paid to attorneys and other personnel of similar qualifications and experience in the Office of the United States attorney in the district where representation is furnished or, if two districts or parts of districts are involved, the higher compensation paid to persons of similar qualifications and experience in the districts. Neither the Federal Public Defender nor any attorney so appointed by him may engage in the private practice of law. Each organization shall submit to the Director of the Administrative Office of the United States Courts, at the time and in the form prescribed by him, reports of its activities and financial position and its proposed budget. The Director of the Administrative Office shall submit, in accordance with [section 605 of title 28][/us/usc/t28/s605], a budget for each organization for each fiscal year and shall out of the appropriations therefor make payments to and on behalf of each organization. Payments under this subparagraph to an organization shall be in lieu of payments under subsection (d) or (e).
 
-            (B) __Community Defender Organization.—__ 
+            (B)  __Community Defender Organization__  __.—__ 
 
             A Community Defender Organization shall be a non-profit defense counsel service established and administered by any group authorized by the plan to provide representation. The organization shall be eligible to furnish attorneys and receive payments under this section if its bylaws are set forth in the plan of the district or districts in which it will serve. Each organization shall submit to the Judicial Conference of the United States an annual report setting forth its activities and financial position and the anticipated caseload and expenses for the next fiscal year. Upon application an organization may, to the extent approved by the Judicial Conference of the United States:
 
@@ -215,23 +215,23 @@
 
                 (ii) in lieu of payments under subsection (d) or (e), receive periodic sustaining grants to provide representation and other expenses pursuant to this section.
 
-        (3) __Malpractice and Negligence Suits.—__ 
+        (3)  __Malpractice and Negligence Suits__  __.—__ 
 
         The Director of the Administrative Office of the United States Courts shall, to the extent the Director considers appropriate, provide representation for and hold harmless, or provide liability insurance for, any person who is an officer or employee of a Federal Public Defender Organization established under this subsection, or a Community Defender Organization established under this subsection which is receiving periodic sustaining grants, for money damages for injury, loss of liberty, loss of property, or personal injury or death arising from malpractice or negligence of any such officer or employee in furnishing representational services under this section while acting within the scope of that person’s office or employment.
 
-    (h) __Rules and Reports.—__ 
+    (h)  __Rules and Reports__  __.—__ 
 
     Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
 
-    (i) __Appropriations.—__ 
+    (i)  __Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the United States courts, out of any money in the Treasury not otherwise appropriated, sums necessary to carry out the provisions of this section, including funds for the continuing education and training of persons providing representational services under this section. When so specified in appropriation acts, such appropriations shall remain available until expended. Payments from such appropriations shall be made under the supervision of the Director of the Administrative Office of the United States Courts.
 
-    (j) __Districts Included.—__ 
+    (j)  __Districts Included__  __.—__ 
 
     As used in this section, the term “district court” means each district court of the United States created by chapter 5 of title 28, the District Court of the Virgin Islands, the District Court for the Northern Mariana Islands, and the District Court of Guam.
 
-    (k) __Applicability in the District of Columbia.—__ 
+    (k)  __Applicability in the District of Columbia__  __.—__ 
 
     The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
 

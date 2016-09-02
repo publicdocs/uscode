@@ -15,11 +15,11 @@
 
 ## § 2707. Civil action
 
-    (a) __Cause of Action.—__ 
+    (a)  __Cause of Action__  __.—__ 
 
     Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
-    (b) __Relief.—__ 
+    (b)  __Relief__  __.—__ 
 
     In a civil action under this section, appropriate relief includes—
 
@@ -29,15 +29,15 @@
 
         (3) a reasonable attorney’s fee and other litigation costs reasonably incurred.
 
-    (c) __Damages.—__ 
+    (c)  __Damages__  __.—__ 
 
     The court may assess as damages in a civil action under this section the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation, but in no case shall a person entitled to recover receive less than the sum of $1,000. If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.
 
-    (d) __Administrative Discipline.—__ 
+    (d)  __Administrative Discipline__  __.—__ 
 
     If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
-    (e) __Defense.—__ 
+    (e)  __Defense__  __.—__ 
 
     A good faith reliance on—
 
@@ -49,11 +49,11 @@
 
         is a complete defense to any civil or criminal action brought under this chapter or any other law.
 
-    (f) __Limitation.—__ 
+    (f)  __Limitation__  __.—__ 
 
     A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.
 
-    (g) __Improper Disclosure.—__ 
+    (g)  __Improper Disclosure__  __.—__ 
 
     Any willful disclosure of a “record”, as that term is defined in [section 552a(a) of title 5][/us/usc/t5/s552a/a], United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to [section 2703 of this title][/us/usc/t18/s2703], or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
 

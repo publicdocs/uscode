@@ -17,7 +17,7 @@
 
     (a) __Offenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who unlawfully and intentionally—
 
@@ -39,11 +39,11 @@
 
             shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this paragraph, shall be punished by death or imprisoned for any term of years or for life.
 
-        (2) __Threat to navigation.—__ 
+        (2)  __Threat to navigation__  __.—__ 
 
         A person who threatens to do any act prohibited under paragraph (1)(B), (C) or (E), with apparent determination and will to carry the threat into execution, if the threatened act is likely to endanger the safe navigation of the ship in question, shall be fined under this title, imprisoned not more than 5 years, or both.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the activity prohibited in subsection (a)—
 
@@ -69,15 +69,15 @@
 
         (3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
 
-    (c) __Bar To Prosecution.—__ 
+    (c)  __Bar To Prosecution__  __.—__ 
 
     It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13(c)”. </sup></sup>  of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)][/us/usc/t29/s113/c]).
 
-    (d) __Delivery of Suspected Offender.—__ 
+    (d)  __Delivery of Suspected Offender__  __.—__ 
 
     The master of a covered ship flying the flag of the United States who has reasonable grounds to believe that there is on board that ship any person who has committed an offense under Article 3 of the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation may deliver such person to the authorities of a State Party to that Convention. Before delivering such person to the authorities of another country, the master shall notify in an appropriate manner the Attorney General of the United States of the alleged offense and await instructions from the Attorney General as to what action to take. When delivering the person to a country which is a State Party to the Convention, the master shall, whenever practicable, and if possible before entering the territorial sea of such country, notify the authorities of such country of the master’s intention to deliver such person and the reasons therefor. If the master delivers such person, the master shall furnish to the authorities of such country the evidence in the master’s possession that pertains to the alleged offense.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section—    “covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country’s territorial sea with an adjacent country.
 

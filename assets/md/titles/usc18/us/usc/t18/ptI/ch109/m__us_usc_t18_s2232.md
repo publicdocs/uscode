@@ -15,23 +15,23 @@
 
 ## § 2232. Destruction or removal of property to prevent seizure
 
-    (a) __Destruction or Removal of Property To Prevent Seizure.—__ 
+    (a)  __Destruction or Removal of Property To Prevent Seizure__  __.—__ 
 
     Whoever, before, during, or after any search for or seizure of property by any person authorized to make such search or seizure, knowingly destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of preventing or impairing the Government’s lawful authority to take such property into its custody or control or to continue holding such property under its lawful custody and control, shall be fined under this title or imprisoned not more than 5 years, or both.
 
-    (b) __Impairment of In Rem Jurisdiction.—__ 
+    (b)  __Impairment of In Rem Jurisdiction__  __.—__ 
 
     Whoever, knowing that property is subject to the in rem jurisdiction of a United States court for purposes of civil forfeiture under Federal law, knowingly and without authority from that court, destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of impairing or defeating the court’s continuing in rem jurisdiction over the property, shall be fined under this title or imprisoned not more than 5 years, or both.
 
-    (c) __Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—__ 
+    (c)  __Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem__  __.—__ 
 
     Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, gives notice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
 
-    (d) __Notice of Certain Electronic Surveillance.—__ 
+    (d)  __Notice of Certain Electronic Surveillance__  __.—__ 
 
     Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
 
-    (e) __Foreign Intelligence Surveillance.—__ 
+    (e)  __Foreign Intelligence Surveillance__  __.—__ 
 
     Whoever, having knowledge that a Federal officer has been authorized or has applied for authorization to conduct electronic surveillance under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801], et seq.), in order to obstruct, impede, or prevent such activity, gives notice or attempts to give notice of the possible activity to any person shall be fined under this title or imprisoned not more than five years, or both.
 

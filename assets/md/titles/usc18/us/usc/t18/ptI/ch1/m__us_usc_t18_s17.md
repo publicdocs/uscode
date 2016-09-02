@@ -15,11 +15,11 @@
 
 ## § 17. Insanity defense
 
-    (a) __Affirmative Defense.—__ 
+    (a)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense to a prosecution under any Federal statute that, at the time of the commission of the acts constituting the offense, the defendant, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense.
 
-    (b) __Burden of Proof.—__ 
+    (b)  __Burden of Proof__  __.—__ 
 
     The defendant has the burden of proving the defense of insanity by clear and convincing evidence.
 

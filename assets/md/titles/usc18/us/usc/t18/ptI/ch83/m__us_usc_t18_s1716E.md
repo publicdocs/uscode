@@ -17,11 +17,11 @@
 
     (a) __Prohibition.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         All cigarettes and smokeless tobacco (as those terms are defined in [section 1 of the Act of October 19, 1949][/us/act/1949-10-19/s1], commonly referred to as the Jenkins Act) are nonmailable and shall not be deposited in or carried through the mails. The United States Postal Service shall not accept for delivery or transmit through the mails any package that it knows or has reasonable cause to believe contains any cigarettes or smokeless tobacco made nonmailable by this paragraph.
 
-        (2) __Reasonable cause.—__ 
+        (2)  __Reasonable cause__  __.—__ 
 
         For the purposes of this subsection reasonable cause includes—
 
@@ -31,17 +31,17 @@
 
     (b) __Exceptions.—__ 
 
-        (1) __Cigars.—__ 
+        (1)  __Cigars__  __.—__ 
 
         Subsection (a) shall not apply to cigars (as defined in section 5702(a) of the Internal Revenue Code of 1986).
 
-        (2) __Geographic exception.—__ 
+        (2)  __Geographic exception__  __.—__ 
 
         Subsection (a) shall not apply to mailings within the State of Alaska or within the State of Hawaii.
 
         (3) __Business purposes.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subsection (a) shall not apply to tobacco products mailed only—
 
@@ -51,11 +51,11 @@
 
             (B) __Rules.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 180 days after the date of enactment of the Prevent All Cigarette Trafficking Act of 2009, the Postmaster General shall issue a final rule which shall establish the standards and requirements that apply to all mailings described in subparagraph (A).
 
-                (ii) __Contents.—__ 
+                (ii)  __Contents__  __.—__ 
 
                 The final rule issued under clause (i) shall require—
 
@@ -73,23 +73,23 @@
 
                     (VII) that any mailing described in subparagraph (A) be delivered only to a verified employee of the recipient business or government agency, who is not a minor and who shall be required to sign for the mailing.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             In this paragraph, the term “minor” means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
         (4) __Certain individuals.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subsection (a) shall not apply to tobacco products mailed by individuals who are not minors for noncommercial purposes, including the return of a damaged or unacceptable tobacco product to the manufacturer.
 
             (B) __Rules.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 180 days after the date of enactment of the Prevent All Cigarette Trafficking Act of 2009, the Postmaster General shall issue a final rule which shall establish the standards and requirements that apply to all mailings described in subparagraph (A).
 
-                (ii) __Contents.—__ 
+                (ii)  __Contents__  __.—__ 
 
                 The final rule issued under clause (i) shall require—
 
@@ -107,13 +107,13 @@
 
                     (VII) that no person may initiate more than 10 mailings described in subparagraph (A) during any 30-day period.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             In this paragraph, the term “minor” means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
         (5) __Exception for mailings for consumer testing by manufacturers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), subsection (a) shall not preclude a legally operating cigarette manufacturer or a legally authorized agent of a legally operating cigarette manufacturer from using the United States Postal Service to mail cigarettes to verified  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “a”. </sup></sup>  adult smoker solely for consumer testing purposes, if—
 
@@ -133,7 +133,7 @@
 
                     (III) the recipient, in connection with the tests, evaluates the cigarettes and provides feedback to the manufacturer or agent.
 
-            (B) __Limitations.—__ 
+            (B)  __Limitations__  __.—__ 
 
             Subparagraph (A) shall not—
 
@@ -143,11 +143,11 @@
 
             (C) __Rules.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 180 days after the date of enactment of the Prevent All Cigarette Trafficking Act of 2009, the Postmaster General shall issue a final rule which shall establish the standards and requirements that apply to all mailings described in subparagraph (A).
 
-                (ii) __Contents.—__ 
+                (ii)  __Contents__  __.—__ 
 
                 The final rule issued under clause (i) shall require—
 
@@ -175,7 +175,7 @@
 
                     (VII) the United States Postal Service shall deliver a mailing described in subparagraph (A) only to the named recipient and only after verifying that the recipient is an adult.
 
-            (D) __Definitions.—__ 
+            (D)  __Definitions__  __.—__ 
 
             In this paragraph—
 
@@ -183,53 +183,53 @@
 
                 (ii) the term “consumer testing” means testing limited to formal data collection and analysis for the specific purpose of evaluating the product for quality assurance and benchmarking purposes of cigarette brands or sub-brands among existing adult smokers.
 
-        (6) __Federal government agencies.—__ 
+        (6)  __Federal government agencies__  __.—__ 
 
         An agency of the Federal Government involved in the consumer testing of tobacco products solely for public health purposes may mail cigarettes under the same requirements, restrictions, and rules and procedures that apply to consumer testing mailings of cigarettes by manufacturers under paragraph (5), except that the agency shall not be required to pay the recipients for participating in the consumer testing.
 
-    (c) __Seizure and Forfeiture.—__ 
+    (c)  __Seizure and Forfeiture__  __.—__ 
 
     Any cigarettes or smokeless tobacco made nonmailable by this subsection that are deposited in the mails shall be subject to seizure and forfeiture, pursuant to the procedures set forth in chapter 46 of this title. Any tobacco products seized and forfeited under this subsection shall be destroyed or retained by the Federal Government for the detection or prosecution of crimes or related investigations and then destroyed.
 
-    (d) __Additional Penalties.—__ 
+    (d)  __Additional Penalties__  __.—__ 
 
     In addition to any other fines and penalties under this title for violations of this section, any person violating this section shall be subject to an additional civil penalty in the amount equal to 10 times the retail value of the nonmailable cigarettes or smokeless tobacco, including all Federal, State, and local taxes.
 
-    (e) __Criminal Penalty.—__ 
+    (e)  __Criminal Penalty__  __.—__ 
 
     Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything that is nonmailable matter under this section shall be fined under this title, imprisoned not more than 1 year, or both.
 
-    (f) __Use of Penalties.—__ 
+    (f)  __Use of Penalties__  __.—__ 
 
     There is established a separate account in the Treasury, to be known as the “PACT Postal Service Fund”. Notwithstanding any other provision of law, an amount equal to 50 percent of any criminal fines, civil penalties, or other monetary penalties collected by the Federal Government in enforcing this section shall be transferred into the PACT Postal Service Fund and shall be available to the Postmaster General for the purpose of enforcing this subsection.
 
-    (g) __Coordination of Efforts.—__ 
+    (g)  __Coordination of Efforts__  __.—__ 
 
     The Postmaster General shall cooperate and coordinate efforts to enforce this section with related enforcement activities of any other Federal agency or agency of any State, local, or tribal government, whenever appropriate.
 
     (h) __Actions by State, Local, or Tribal Governments Relating to Certain Tobacco Products.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may in a civil action in a United States district court obtain appropriate relief with respect to a violation of this section. Appropriate relief includes injunctive and equitable relief and damages equal to the amount of unpaid taxes on tobacco products mailed in violation of this section to addressees in that State, locality, or tribal land.
 
-        (2) __Sovereign immunity.—__ 
+        (2)  __Sovereign immunity__  __.—__ 
 
         Nothing in this subsection shall be deemed to abrogate or constitute a waiver of any sovereign immunity of a State or local government or Indian tribe against any unconsented lawsuit under paragraph (1), or otherwise to restrict, expand, or modify any sovereign immunity of a State or local government or Indian tribe.
 
-        (3) __Attorney general referral.—__ 
+        (3)  __Attorney general referral__  __.—__ 
 
         A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may provide evidence of a violation of this section for commercial purposes by any person not subject to State, local, or tribal government enforcement actions for violations of this section to the Attorney General of the United States, who shall take appropriate actions to enforce this section.
 
-        (4) __Nonexclusivity of remedies.—__ 
+        (4)  __Nonexclusivity of remedies__  __.—__ 
 
         The remedies available under this subsection are in addition to any other remedies available under Federal, State, local, tribal, or other law. Nothing in this subsection shall be construed to expand, restrict, or otherwise modify any right of an authorized State, local, or tribal government official to proceed in a State, tribal, or other appropriate court, or take other enforcement actions, on the basis of an alleged violation of State, local, tribal, or other law.
 
-        (5) __Other enforcement actions.—__ 
+        (5)  __Other enforcement actions__  __.—__ 
 
         Nothing in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of the State.
 
-    (i) __Definition.—__ 
+    (i)  __Definition__  __.—__ 
 
     In this section, the term “State” has the meaning given that term in section 1716(k).
 

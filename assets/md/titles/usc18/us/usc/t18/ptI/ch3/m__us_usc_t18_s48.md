@@ -15,7 +15,7 @@
 
 ## § 48. Animal crush videos
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section the term “animal crush video” means any photograph, motion-picture film, video or digital recording, or electronic image that—
 
@@ -25,7 +25,7 @@
 
     (b) __Prohibitions.—__ 
 
-        (1) __Creation of animal crush videos.—__ 
+        (1)  __Creation of animal crush videos__  __.—__ 
 
         It shall be unlawful for any person to knowingly create an animal crush video, if—
 
@@ -33,11 +33,11 @@
 
             (B) the animal crush video is distributed in, or using a means or facility of, interstate or foreign commerce.
 
-        (2) __Distribution of animal crush videos.—__ 
+        (2)  __Distribution of animal crush videos__  __.—__ 
 
         It shall be unlawful for any person to knowingly sell, market, advertise, exchange, or distribute an animal crush video in, or using a means or facility of, interstate or foreign commerce.
 
-    (c) __Extraterritorial Application.—__ 
+    (c)  __Extraterritorial Application__  __.—__ 
 
     Subsection (b) shall apply to the knowing sale, marketing, advertising, exchange, distribution, or creation of an animal crush video outside of the United States, if—
 
@@ -45,13 +45,13 @@
 
         (2) the animal crush video is transported into the United States or its territories or possessions.
 
-    (d) __Penalty.—__ 
+    (d)  __Penalty__  __.—__ 
 
     Any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 7 years, or both.
 
     (e) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section shall not apply with regard to any visual depiction of—
 
@@ -61,7 +61,7 @@
 
             (C) hunting, trapping, or fishing.
 
-        (2) __Good-faith distribution.—__ 
+        (2)  __Good-faith distribution__  __.—__ 
 
         This section shall not apply to the good-faith distribution of an animal crush video to—
 
@@ -69,7 +69,7 @@
 
             (B) a third party for the sole purpose of analysis to determine if referral to a law enforcement agency is appropriate.
 
-    (f) __No Preemption.—__ 
+    (f)  __No Preemption__  __.—__ 
 
     Nothing in this section shall be construed to preempt the law of any State or local subdivision thereof to protect animals.
 

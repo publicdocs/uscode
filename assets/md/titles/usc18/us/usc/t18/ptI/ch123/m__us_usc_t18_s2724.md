@@ -15,11 +15,11 @@
 
 ## § 2724. Civil action
 
-    (a) __Cause of Action.—__ 
+    (a)  __Cause of Action__  __.—__ 
 
     A person who knowingly obtains, discloses or uses personal information, from a motor vehicle record, for a purpose not permitted under this chapter shall be liable to the individual to whom the information pertains, who may bring a civil action in a United States district court.
 
-    (b) __Remedies.—__ 
+    (b)  __Remedies__  __.—__ 
 
     The court may award—
 

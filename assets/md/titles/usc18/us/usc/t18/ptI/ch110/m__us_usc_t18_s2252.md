@@ -71,7 +71,7 @@
 
         (2) Whoever violates, or attempts or conspires to violate, paragraph (4) of subsection (a) shall be fined under this title or imprisoned not more than 10 years, or both, but if any visual depiction involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for not more than 20 years, or if such person has a prior conviction under this chapter, chapter 71, chapter 109A, or chapter 117, or under [section 920 of title 10][/us/usc/t10/s920] (article 120 of the Uniform Code of Military Justice), or under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 10 years nor more than 20 years.
 
-    (c) __Affirmative Defense.—__ 
+    (c)  __Affirmative Defense__  __.—__ 
 
     It shall be an affirmative defense to a charge of violating paragraph (4) of subsection (a) that the defendant—
 
@@ -159,7 +159,7 @@
 
 [Pub. L. 103–322, title XVI, § 160003(a)][/us/pl/103/322/s160003/a], Sept. 13, 1994, [108 Stat. 2038][/us/stat/108/2038], provided that:
 
->     “(a) __Declaration.—__ 
+>     “(a)  __Declaration__  __.—__ 
 
 >     The Congress declares that in enacting sections 2252 and 2256 of title 18, United States Code, it was and is the intent of Congress that—
 

@@ -99,17 +99,17 @@
 
         (4) the counterfeited documentation or packaging is copyrighted.
 
-    (d) __Forfeiture and Destruction of Property; Restitution.—__ 
+    (d)  __Forfeiture and Destruction of Property; Restitution__  __.—__ 
 
     Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
     (e) __Civil Remedies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any copyright owner who is injured, or is threatened with injury, by a violation of subsection (a) may bring a civil action in an appropriate United States district court.
 
-        (2) __Discretion of court.—__ 
+        (2)  __Discretion of court__  __.—__ 
 
         In any action brought under paragraph (1), the court—
 
@@ -131,7 +131,7 @@
 
         (3) __Actual damages and profits.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The injured party is entitled to recover—
 
@@ -139,7 +139,7 @@
 
                 (ii) any profits of the violator that are attributable to a violation of subsection (a) and are not taken into account in computing the actual damages.
 
-            (B) __Calculation of damages.—__ 
+            (B)  __Calculation of damages__  __.—__ 
 
             The court shall calculate actual damages by multiplying—
 
@@ -147,7 +147,7 @@
 
                 (ii) the number of phonorecords, copies, or works of visual art which are, or are intended to be, affixed with, enclosed in, or accompanied by any counterfeit labels, illicit labels, or counterfeit documentation or packaging.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             For purposes of this paragraph, the “value” of a phonorecord, copy, or work of visual art is—
 
@@ -163,15 +163,15 @@
 
                 (vi) in the case of a work of visual art, the retail value of that work.
 
-        (4) __Statutory damages.—__ 
+        (4)  __Statutory damages__  __.—__ 
 
         The injured party may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for each violation of subsection (a) in a sum of not less than $2,500 or more than $25,000, as the court considers appropriate.
 
-        (5) __Subsequent violation.—__ 
+        (5)  __Subsequent violation__  __.—__ 
 
         The court may increase an award of damages under this subsection by 3 times the amount that would otherwise be awarded, as the court considers appropriate, if the court finds that a person has subsequently violated subsection (a) within 3 years after a final judgment was entered against that person for a violation of that subsection.
 
-        (6) __Limitation on actions.—__ 
+        (6)  __Limitation on actions__  __.—__ 
 
         A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
@@ -247,7 +247,7 @@
 
 [Pub. L. 108–482, title I, § 103][/us/pl/108/482/s103], Dec. 23, 2004, [118 Stat. 3915][/us/stat/118/3915], provided that:
 
->     “(a) __Chapters 5 and 12 of Title 17; Electronic Transmissions.—__ 
+>     “(a)  __Chapters__  __5__  __and__  __12__  __of Title__  __17;__  __Electronic Transmissions__  __.—__ 
 
 >     The amendments made by this title \[amending this section\]—
 
@@ -261,7 +261,7 @@
 
 >             “(B) in the case of a civil action under section 2318(f) \[now 2318(e)\] of title 18, United States Code, to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of [section 2318(b) of title 18][/us/usc/t18/s2318/b], United States Code.
 
->     “(b) __Fair Use.—__ 
+>     “(b)  __Fair Use__  __.—__ 
 
 >     The amendments made by this title shall not affect the fair use, under [section 107 of title 17][/us/usc/t17/s107], United States Code, of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of [section 2318(b) of title 18][/us/usc/t18/s2318/b], United States Code, as amended by this title.”
 

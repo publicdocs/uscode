@@ -15,7 +15,7 @@
 
 ## § 3146. Penalty for failure to appear
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever, having been released under this chapter knowingly—
 
@@ -25,7 +25,7 @@
 
         shall be punished as provided in subsection (b) of this section.
 
-    (b) __Punishment.—__ 
+    (b)  __Punishment__  __.—__ 
 
         (1)
 
@@ -47,11 +47,11 @@
 
         (2) A term of imprisonment imposed under this section shall be consecutive to the sentence of imprisonment for any other offense.
 
-    (c) __Affirmative Defense.—__ 
+    (c)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense to a prosecution under this section that uncontrollable circumstances prevented the person from appearing or surrendering, and that the person did not contribute to the creation of such circumstances in reckless disregard of the requirement to appear or surrender, and that the person appeared or surrendered as soon as such circumstances ceased to exist.
 
-    (d) __Declaration of Forfeiture.—__ 
+    (d)  __Declaration of Forfeiture__  __.—__ 
 
     If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to [section 3142(b) of this title][/us/usc/t18/s3142/b] or is subject to the release condition set forth in clause (xi) or (xii) of [section 3142(c)(1)(B) of this title][/us/usc/t18/s3142/c/1/B], the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
 

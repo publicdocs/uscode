@@ -15,15 +15,15 @@
 
 ## § 175. Prohibitions with respect to biological weapons
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly develops, produces, stockpiles, transfers, acquires, retains, or possesses any biological agent, toxin, or delivery system for use as a weapon, or knowingly assists a foreign state or any organization to do so, or attempts, threatens, or conspires to do the same, shall be fined under this title or imprisoned for life or any term of years, or both. There is extraterritorial Federal jurisdiction over an offense under this section committed by or against a national of the United States.
 
-    (b) __Additional Offense.—__ 
+    (b)  __Additional Offense__  __.—__ 
 
     Whoever knowingly possesses any biological agent, toxin, or delivery system of a type or in a quantity that, under the circumstances, is not reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose, shall be fined under this title, imprisoned not more than 10 years, or both. In this subsection, the terms “biological agent” and “toxin” do not encompass any biological agent or toxin that is in its naturally occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     For purposes of this section, the term “for use as a weapon” includes the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for other than prophylactic, protective, bona fide research, or other peaceful purposes.
 
@@ -51,7 +51,7 @@
 
 [Pub. L. 101–298, § 2][/us/pl/101/298/s2], May 22, 1990, [104 Stat. 201][/us/stat/104/201], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title note above\] is to—
 
@@ -59,7 +59,7 @@
 
 >         “(2) protect the United States against the threat of biological terrorism.
 
->     “(b) __Intent of Act.—__ 
+>     “(b)  __Intent of Act__  __.—__ 
 
 >     Nothing in this Act is intended to restrain or restrict peaceful scientific research or development.”
 

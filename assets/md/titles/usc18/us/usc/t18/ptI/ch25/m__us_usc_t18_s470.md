@@ -41,7 +41,7 @@
 
 [Pub. L. 104–132, title VIII, § 807][/us/pl/104/132/s807], Apr. 24, 1996, [110 Stat. 1308][/us/stat/110/1308], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’), in consultation with the advanced counterfeit deterrence steering committee, shall—
 
@@ -51,29 +51,29 @@
 
 >     “(b) __Evaluation Audit Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall develop an effective international evaluation audit plan that is designed to enable the Secretary to carry out the duties described in subsection (a) on a regular and thorough basis.
 
->         “(2) __Submission of detailed written summary.—__ 
+>         “(2)  __Submission of detailed written summary__  __.—__ 
 
 >         The Secretary shall submit a detailed written summary of the evaluation audit plan developed pursuant to paragraph (1) to the Congress before the end of the 6-month period beginning on the date of the enactment of this Act \[Apr. 24, 1996\].
 
->         “(3) __First evaluation audit under plan.—__ 
+>         “(3)  __First evaluation audit under plan__  __.—__ 
 
 >         The Secretary shall begin the first evaluation audit pursuant to the evaluation audit plan no later than the end of the 1-year period beginning on the date of the enactment of this Act.
 
->         “(4) __Subsequent evaluation audits.—__ 
+>         “(4)  __Subsequent evaluation audits__  __.—__ 
 
 >         At least 1 evaluation audit shall be performed pursuant to the evaluation audit plan during each 3-year period beginning after the date of the commencement of the evaluation audit referred to in paragraph (3).
 
 >     “(c) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall submit a written report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the results of each evaluation audit conducted pursuant to subsection (b) within 90 days after the completion of the evaluation audit.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         In addition to such other information as the Secretary may determine to be appropriate, each report submitted to the Congress pursuant to paragraph (1) shall include the following information:
 
@@ -89,23 +89,23 @@
 
 >         “(3) __Classification of information.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             To the greatest extent possible, each report submitted to the Congress under this subsection shall be submitted in an unclassified form.
 
->             “(B) __Classified and unclassified forms.—__ 
+>             “(B)  __Classified and unclassified forms__  __.—__ 
 
 >             If, in the interest of submitting a complete report under this subsection, the Secretary determines that it is necessary to include classified information in the report, the report shall be submitted in a classified and an unclassified form.
 
->     “(d) __Sunset Provision.—__ 
+>     “(d)  __Sunset Provision__  __.—__ 
 
 >     This section shall cease to be effective as of the end of the 10-year period beginning on the date of the enactment of this Act \[Apr. 24, 1996\].
 
->     “(e) __Rule of Construction.—__ 
+>     “(e)  __Rule of Construction__  __.—__ 
 
 >     No provision of this section shall be construed as authorizing any entity to conduct investigations of counterfeit United States currency.
 
->     “(f) __Findings.—__ 
+>     “(f)  __Findings__  __.—__ 
 
 >     The Congress hereby finds the following:
 
@@ -119,7 +119,7 @@
 
 >     “(g) __Timely Consideration of Requests for Concurrence in Creation of Overseas Posts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of State shall—
 
@@ -127,15 +127,15 @@
 
 >             “(B) reach an agreement with the Secretary of the Treasury on such posts as soon as possible and, in any event, not later than December 31, 1996.
 
->         “(2) __Cooperation of treasury required.—__ 
+>         “(2)  __Cooperation of treasury required__  __.—__ 
 
 >         The Secretary of the Treasury shall promptly provide any information requested by the Secretary of State in connection with such requests.
 
->         “(3) __Reports required.—__ 
+>         “(3)  __Reports required__  __.—__ 
 
 >         The Secretary of the Treasury and the Secretary of State shall each submit, by February 1, 1997, a written report to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate explaining the reasons for the rejection, if any, of any proposed post and the reasons for the failure, if any, to fill any approved post by such date.
 
->     “(h) __Enhanced Penalties for International Counterfeiting of United States Currency.—__ 
+>     “(h)  __Enhanced Penalties for International Counterfeiting of United States Currency__  __.—__ 
 
 >     Pursuant to the authority of the United States Sentencing Commission under [section 994 of title 28][/us/usc/t28/s994], United States Code, the Commission shall amend the sentencing guidelines prescribed by the Commission to provide an appropriate enhancement of the punishment for a defendant convicted under [section 470 of title 18][/us/usc/t18/s470] of such Code.”
 

@@ -15,7 +15,7 @@
 
 ## § 111. Assaulting, resisting, or impeding certain officers or employees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever—
 
@@ -25,7 +25,7 @@
 
         shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and where such acts involve physical contact with the victim of that assault or the intent to commit another felony, be fined under this title or imprisoned not more than 8 years, or both.
 
-    (b) __Enhanced Penalty.—__ 
+    (b)  __Enhanced Penalty__  __.—__ 
 
     Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
 

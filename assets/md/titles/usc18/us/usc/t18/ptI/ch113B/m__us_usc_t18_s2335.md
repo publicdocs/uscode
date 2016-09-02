@@ -15,11 +15,11 @@
 
 ## § 2335. Limitation of actions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsection (b), a suit for recovery of damages under [section 2333 of this title][/us/usc/t18/s2333] shall not be maintained unless commenced within 10 years after the date the cause of action accrued.
 
-    (b) __Calculation of Period.—__ 
+    (b)  __Calculation of Period__  __.—__ 
 
     The time of the absence of the defendant from the United States or from any jurisdiction in which the same or a similar action arising from the same facts may be maintained by the plaintiff, or of any concealment of the defendant’s whereabouts, shall not be included in the 10-year period set forth in subsection (a).
 

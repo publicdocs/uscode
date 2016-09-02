@@ -55,7 +55,7 @@
 
     (c) __Penalties.—__ 
 
-        (1) __Generally.—__ 
+        (1)  __Generally__  __.—__ 
 
         The punishment for an offense under subsection (a) of this section is—
 
@@ -71,7 +71,7 @@
 
             (C) in either case, forfeiture to the United States of any personal property used or intended to be used to commit the offense.
 
-        (2) __Forfeiture procedure.—__ 
+        (2)  __Forfeiture procedure__  __.—__ 
 
         The forfeiture of property under this section, including any seizure and disposition of the property and any related administrative and judicial proceeding, shall be governed by section 413 of the Controlled Substances Act, except for subsection (d) of that section.
 

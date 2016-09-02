@@ -15,11 +15,11 @@
 
 ## § 3571. Sentence of fine
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A defendant who has been found guilty of an offense may be sentenced to pay a fine.
 
-    (b) __Fines for Individuals.—__ 
+    (b)  __Fines for Individuals__  __.—__ 
 
     Except as provided in subsection (e) of this section, an individual who has been found guilty of an offense may be fined not more than the greatest of—
 
@@ -37,7 +37,7 @@
 
         (7) for an infraction, not more than $5,000.
 
-    (c) __Fines for Organizations.—__ 
+    (c)  __Fines for Organizations__  __.—__ 
 
     Except as provided in subsection (e) of this section, an organization that has been found guilty of an offense may be fined not more than the greatest of—
 
@@ -55,11 +55,11 @@
 
         (7) for an infraction, not more than $10,000.
 
-    (d) __Alternative Fine Based on Gain or Loss.—__ 
+    (d)  __Alternative Fine Based on Gain or Loss__  __.—__ 
 
     If any person derives pecuniary gain from the offense, or if the offense results in pecuniary loss to a person other than the defendant, the defendant may be fined not more than the greater of twice the gross gain or twice the gross loss, unless imposition of a fine under this subsection would unduly complicate or prolong the sentencing process.
 
-    (e) __Special Rule for Lower Fine Specified in Substantive Provision.—__ 
+    (e)  __Special Rule for Lower Fine Specified in Substantive Provision__  __.—__ 
 
     If a law setting forth an offense specifies no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the defendant may not be fined more than the amount specified in the law setting forth the offense.
 

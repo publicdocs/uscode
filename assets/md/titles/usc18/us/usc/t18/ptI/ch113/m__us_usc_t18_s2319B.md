@@ -15,7 +15,7 @@
 
 ## § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Any person who, without the authorization of the copyright owner, knowingly uses or attempts to use an audiovisual recording device to transmit or make a copy of a motion picture or other audiovisual work protected under title 17, or any part thereof, from a performance of such work in a motion picture exhibition facility, shall—
 
@@ -25,15 +25,15 @@
 
         The possession by a person of an audiovisual recording device in a motion picture exhibition facility may be considered as evidence in any proceeding to determine whether that person committed an offense under this subsection, but shall not, by itself, be sufficient to support a conviction of that person for such offense.
 
-    (b) __Forfeiture and Destruction of Property; Restitution.—__ 
+    (b)  __Forfeiture and Destruction of Property; Restitution__  __.—__ 
 
     Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-    (c) __Authorized Activities.—__ 
+    (c)  __Authorized Activities__  __.—__ 
 
     This section does not prevent any lawfully authorized investigative, protective, or intelligence activity by an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or by a person acting under a contract with the United States, a State, or a political subdivision of a State.
 
-    (d) __Immunity for Theaters.—__ 
+    (d)  __Immunity for Theaters__  __.—__ 
 
     With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, the authorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
 
@@ -43,11 +43,11 @@
 
     (e) __Victim Impact Statement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         During the preparation of the presentence report under rule 32(c) of the Federal Rules of Criminal Procedure, victims of an offense under this section shall be permitted to submit to the probation officer a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         A victim impact statement submitted under this subsection shall include—
 
@@ -57,19 +57,19 @@
 
             (C) the legal representatives of such producers, sellers, and holders.
 
-    (f) __State Law Not Preempted.—__ 
+    (f)  __State Law Not Preempted__  __.—__ 
 
     Nothing in this section may be construed to annul or limit any rights or remedies under the laws of any State.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section, the following definitions shall apply:
 
-        (1) __Title 17 definitions.—__ 
+        (1)  __Title 17 definitions__  __.—__ 
 
         The terms “audiovisual work”, “copy”, “copyright owner”, “motion picture”, “motion picture exhibition facility”, and “transmit” have, respectively, the meanings given those terms in [section 101 of title 17][/us/usc/t17/s101].
 
-        (2) __Audiovisual recording device.—__ 
+        (2)  __Audiovisual recording device__  __.—__ 
 
         The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
 

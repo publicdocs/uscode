@@ -15,11 +15,11 @@
 
 ## § 3581. Sentence of imprisonment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A defendant who has been found guilty of an offense may be sentenced to a term of imprisonment.
 
-    (b) __Authorized Terms.—__ 
+    (b)  __Authorized Terms__  __.—__ 
 
     The authorized terms of imprisonment are—
 

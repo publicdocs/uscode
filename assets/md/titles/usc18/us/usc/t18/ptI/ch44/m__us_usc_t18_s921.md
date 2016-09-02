@@ -345,15 +345,15 @@
 
 [Pub. L. 99–308, § 110][/us/pl/99/308/s110], May 19, 1986, [100 Stat. 460][/us/stat/100/460], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[enacting [section 926A of this title][/us/usc/t18/s926A], amending this section, sections 922 to 926 and 929 of this title, and [section 5845 of Title 26][/us/usc/t26/s5845], Internal Revenue Code, repealing title VII of [Pub. L. 90–351][/us/pl/90/351], set out in the Appendix to this title, and enacting provisions set out as notes under this section\] shall become effective one hundred and eighty days after the date of the enactment of this Act \[May 19, 1986\]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances of which licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
 
->     “(b) __Pending Actions, Petitions, and Appellate Proceedings.—__ 
+>     “(b)  __Pending Actions, Petitions, and Appellate Proceedings__  __.—__ 
 
 >     The amendments made by sections 103(6)(B), 105, and 107 of this Act \[enacting [section 926A of this title][/us/usc/t18/s926A] and amending sections 923 and 925 of this title\] shall be applicable to any action, petition, or appellate proceeding pending on the date of the enactment of this Act \[May 19, 1986\].
 
->     “(c) __Machinegun Prohibition.—__ 
+>     “(c)  __Machinegun Prohibition__  __.—__ 
 
 >     Section 102(9) \[amending [section 922 of this title][/us/usc/t18/s922]\] shall take effect on the date of the enactment of this Act \[May 19, 1986\].”
 

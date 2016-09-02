@@ -15,11 +15,11 @@
 
 ## § 3585. Calculation of a term of imprisonment
 
-    (a) __Commencement of Sentence.—__ 
+    (a)  __Commencement of Sentence__  __.—__ 
 
     A sentence to a term of imprisonment commences on the date the defendant is received in custody awaiting transportation to, or arrives voluntarily to commence service of sentence at, the official detention facility at which the sentence is to be served.
 
-    (b) __Credit for Prior Custody.—__ 
+    (b)  __Credit for Prior Custody__  __.—__ 
 
     A defendant shall be given credit toward the service of a term of imprisonment for any time he has spent in official detention prior to the date the sentence commences—
 

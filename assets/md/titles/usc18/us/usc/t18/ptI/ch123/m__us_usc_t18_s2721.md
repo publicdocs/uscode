@@ -15,7 +15,7 @@
 
 ## § 2721. Prohibition on release and use of certain personal information from State motor vehicle records
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A State department of motor vehicles, and any officer, employee, or contractor thereof, shall not knowingly disclose or otherwise make available to any person or entity:
 
@@ -23,7 +23,7 @@
 
         (2) highly restricted personal information, as defined in [18 U.S.C. 2725(4)][/us/usc/t18/s2725/4], about any individual obtained by the department in connection with a motor vehicle record, without the express consent of the person to whom such information applies, except uses permitted in subsections (b)(1), (b)(4), (b)(6), and (b)(9): Provided, That subsection (a)(2) shall not in any way affect the use of organ donation information on an individual’s driver’s license or affect the administration of organ donation initiatives in the States.
 
-    (b) __Permissible Uses.—__ 
+    (b)  __Permissible Uses__  __.—__ 
 
     Personal information referred to in subsection (a) shall be disclosed for use in connection with matters of motor vehicle or driver safety and theft, motor vehicle emissions, motor vehicle product alterations, recalls, or advisories, performance monitoring of motor vehicles and dealers by motor vehicle manufacturers, and removal of non-owner records from the original owner records of motor vehicle manufacturers to carry out the purposes of titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act ([15 U.S.C. 1231][/us/usc/t15/s1231] et seq.), the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), and chapters 301, 305, and 321–331 of title 49, and, subject to subsection (a)(2), may be disclosed as follows:
 
@@ -61,15 +61,15 @@
 
         (14) For any other use specifically authorized under the law of the State that holds the record, if such use is related to the operation of a motor vehicle or public safety.
 
-    (c) __Resale or Redisclosure.—__ 
+    (c)  __Resale or Redisclosure__  __.—__ 
 
     An authorized recipient of personal information (except a recipient under subsection (b)(11) or (12)) may resell or redisclose the information only for a use permitted under subsection (b) (but not for uses under subsection (b)(11) or (12)). An authorized recipient under subsection (b)(11) may resell or redisclose personal information for any purpose. An authorized recipient under subsection (b)(12) may resell or redisclose personal information pursuant to subsection (b)(12). Any authorized recipient (except a recipient under subsection (b)(11)) that resells or rediscloses personal information covered by this chapter must keep for a period of 5 years records identifying each person or entity that receives information and the permitted purpose for which the information will be used and must make such records available to the motor vehicle department upon request.
 
-    (d) __Waiver Procedures.—__ 
+    (d)  __Waiver Procedures__  __.—__ 
 
     A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual’s right to privacy under this section.
 
-    (e) __Prohibition on Conditions.—__ 
+    (e)  __Prohibition on Conditions__  __.—__ 
 
     No State may condition or burden in any way the issuance of an individual’s motor vehicle record as defined in [18 U.S.C. 2725(1)][/us/usc/t18/s2725/1] to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
 

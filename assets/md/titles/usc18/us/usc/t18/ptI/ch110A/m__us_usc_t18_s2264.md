@@ -15,21 +15,21 @@
 
 ## § 2264. Restitution
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
     (b) __Scope and Nature of Order.—__ 
 
-        (1) __Directions.—__ 
+        (1)  __Directions__  __.—__ 
 
         The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court pursuant to paragraph (2).
 
-        (2) __Enforcement.—__ 
+        (2)  __Enforcement__  __.—__ 
 
         An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “full amount of the victim’s losses” includes any costs incurred by the victim for—
 
@@ -45,7 +45,7 @@
 
             (F) any other losses suffered by the victim as a proximate result of the offense.
 
-        (4) __Order mandatory.—__ 
+        (4)  __Order mandatory__  __.—__ 
 
             (A) The issuance of a restitution order under this section is mandatory.
 
@@ -57,7 +57,7 @@
 
                 (ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
 
-    (c) __Victim Defined.—__ 
+    (c)  __Victim Defined__  __.—__ 
 
     For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 

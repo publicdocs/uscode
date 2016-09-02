@@ -15,117 +15,117 @@
 
 ## § 3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
 
-    (a) __Mitigating Factors.—__ 
+    (a)  __Mitigating Factors__  __.—__ 
 
     In determining whether a sentence of death is to be imposed on a defendant, the finder of fact shall consider any mitigating factor, including the following:
 
-        (1) __Impaired capacity.—__ 
+        (1)  __Impaired capacity__  __.—__ 
 
         The defendant’s capacity to appreciate the wrongfulness of the defendant’s conduct or to conform conduct to the requirements of law was significantly impaired, regardless of whether the capacity was so impaired as to constitute a defense to the charge.
 
-        (2) __Duress.—__ 
+        (2)  __Duress__  __.—__ 
 
         The defendant was under unusual and substantial duress, regardless of whether the duress was of such a degree as to constitute a defense to the charge.
 
-        (3) __Minor participation.—__ 
+        (3)  __Minor participation__  __.—__ 
 
         The defendant is punishable as a principal in the offense, which was committed by another, but the defendant’s participation was relatively minor, regardless of whether the participation was so minor as to constitute a defense to the charge.
 
-        (4) __Equally culpable defendants.—__ 
+        (4)  __Equally culpable defendants__  __.—__ 
 
         Another defendant or defendants, equally culpable in the crime, will not be punished by death.
 
-        (5) __No prior criminal record.—__ 
+        (5)  __No prior criminal record__  __.—__ 
 
         The defendant did not have a significant prior history of other criminal conduct.
 
-        (6) __Disturbance.—__ 
+        (6)  __Disturbance__  __.—__ 
 
         The defendant committed the offense under severe mental or emotional disturbance.
 
-        (7) __Victim’s consent.—__ 
+        (7)  __Victim’s consent__  __.—__ 
 
         The victim consented to the criminal conduct that resulted in the victim’s death.
 
-        (8) __Other factors.—__ 
+        (8)  __Other factors__  __.—__ 
 
         Other factors in the defendant’s background, record, or character or any other circumstance of the offense that mitigate against imposition of the death sentence.
 
-    (b) __Aggravating Factors for Espionage and Treason.—__ 
+    (b)  __Aggravating Factors for Espionage and Treason__  __.—__ 
 
     In determining whether a sentence of death is justified for an offense described in section 3591(a)(1), the jury, or if there is no jury, the court, shall consider each of the following aggravating factors for which notice has been given and determine which, if any, exist:
 
-        (1) __Prior espionage or treason offense.—__ 
+        (1)  __Prior espionage or treason offense__  __.—__ 
 
         The defendant has previously been convicted of another offense involving espionage or treason for which a sentence of either life imprisonment or death was authorized by law.
 
-        (2) __Grave risk to national security.—__ 
+        (2)  __Grave risk to national security__  __.—__ 
 
         In the commission of the offense the defendant knowingly created a grave risk of substantial danger to the national security.
 
-        (3) __Grave risk of death.—__ 
+        (3)  __Grave risk of death__  __.—__ 
 
         In the commission of the offense the defendant knowingly created a grave risk of death to another person.
 
         The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-    (c) __Aggravating Factors for Homicide.—__ 
+    (c)  __Aggravating Factors for Homicide__  __.—__ 
 
     In determining whether a sentence of death is justified for an offense described in section 3591(a)(2), the jury, or if there is no jury, the court, shall consider each of the following aggravating factors for which notice has been given and determine which, if any, exist:
 
-        (1) __Death during commission of another crime.—__ 
+        (1)  __Death during commission of another crime__  __.—__ 
 
         The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (wrecking trains), section 2245 (offenses resulting in death), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or [section 46502 of title 49][/us/usc/t49/s46502], United States Code (aircraft piracy).
 
-        (2) __Previous conviction of violent felony involving firearm.—__ 
+        (2)  __Previous conviction of violent felony involving firearm__  __.—__ 
 
         For any offense, other than an offense for which a sentence of death is sought on the basis of section 924(c), the defendant has previously been convicted of a Federal or State offense punishable by a term of imprisonment of more than 1 year, involving the use or attempted or threatened use of a firearm (as defined in section 921) against another person.
 
-        (3) __Previous conviction of offense for which a sentence of death or life imprisonment was authorized.—__ 
+        (3)  __Previous conviction of offense for which a sentence of death or life imprisonment was authorized__  __.—__ 
 
         The defendant has previously been convicted of another Federal or State offense resulting in the death of a person, for which a sentence of life imprisonment or a sentence of death was authorized by statute.
 
-        (4) __Previous conviction of other serious offenses.—__ 
+        (4)  __Previous conviction of other serious offenses__  __.—__ 
 
         The defendant has previously been convicted of 2 or more Federal or State offenses, punishable by a term of imprisonment of more than 1 year, committed on different occasions, involving the infliction of, or attempted infliction of, serious bodily injury or death upon another person.
 
-        (5) __Grave risk of death to additional persons.—__ 
+        (5)  __Grave risk of death to additional persons__  __.—__ 
 
         The defendant, in the commission of the offense, or in escaping apprehension for the violation of the offense, knowingly created a grave risk of death to 1 or more persons in addition to the victim of the offense.
 
-        (6) __Heinous, cruel, or depraved manner of committing offense.—__ 
+        (6)  __Heinous, cruel, or depraved manner of committing offense__  __.—__ 
 
         The defendant committed the offense in an especially heinous, cruel, or depraved manner in that it involved torture or serious physical abuse to the victim.
 
-        (7) __Procurement of offense by payment.—__ 
+        (7)  __Procurement of offense by payment__  __.—__ 
 
         The defendant procured the commission of the offense by payment, or promise of payment, of anything of pecuniary value.
 
-        (8) __Pecuniary gain.—__ 
+        (8)  __Pecuniary gain__  __.—__ 
 
         The defendant committed the offense as consideration for the receipt, or in the expectation of the receipt, of anything of pecuniary value.
 
-        (9) __Substantial planning and premeditation.—__ 
+        (9)  __Substantial planning and premeditation__  __.—__ 
 
         The defendant committed the offense after substantial planning and premeditation to cause the death of a person or commit an act of terrorism.
 
-        (10) __Conviction for two felony drug offenses.—__ 
+        (10)  __Conviction for two felony drug offenses__  __.—__ 
 
         The defendant has previously been convicted of 2 or more State or Federal offenses punishable by a term of imprisonment of more than one year, committed on different occasions, involving the distribution of a controlled substance.
 
-        (11) __Vulnerability of victim.—__ 
+        (11)  __Vulnerability of victim__  __.—__ 
 
         The victim was particularly vulnerable due to old age, youth, or infirmity.
 
-        (12) __Conviction for serious federal drug offenses.—__ 
+        (12)  __Conviction for serious federal drug offenses__  __.—__ 
 
         The defendant had previously been convicted of violating title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 for which a sentence of 5 or more years may be imposed or had previously been convicted of engaging in a continuing criminal enterprise.
 
-        (13) __Continuing criminal enterprise involving drug sales to minors.—__ 
+        (13)  __Continuing criminal enterprise involving drug sales to minors__  __.—__ 
 
         The defendant committed the offense in the course of engaging in a continuing criminal enterprise in violation of section 408(c) of the Controlled Substances Act ([21 U.S.C. 848(c)][/us/usc/t21/s848/c]), and that violation involved the distribution of drugs to persons under the age of 21 in violation of section 418 of that Act ([21 U.S.C. 859][/us/usc/t21/s859]).
 
-        (14) __High public officials.—__ 
+        (14)  __High public officials__  __.—__ 
 
         The defendant committed the offense against—
 
@@ -147,49 +147,49 @@
 
                 For purposes of this subparagraph, a “law enforcement officer” is a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, or prosecution or adjudication of an offense, and includes those engaged in corrections, parole, or probation functions.
 
-        (15) __Prior conviction of sexual assault or child molestation.—__ 
+        (15)  __Prior conviction of sexual assault or child molestation__  __.—__ 
 
         In the case of an offense under chapter 109A (sexual abuse) or chapter 110 (sexual abuse of children), the defendant has previously been convicted of a crime of sexual assault or crime of child molestation.
 
-        (16) __Multiple killings or attempted killings.—__ 
+        (16)  __Multiple killings or attempted killings__  __.—__ 
 
         The defendant intentionally killed or attempted to kill more than one person in a single criminal episode.
 
         The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-    (d) __Aggravating Factors for Drug Offense Death Penalty.—__ 
+    (d)  __Aggravating Factors for Drug Offense Death Penalty__  __.—__ 
 
     In determining whether a sentence of death is justified for an offense described in section 3591(b), the jury, or if there is no jury, the court, shall consider each of the following aggravating factors for which notice has been given and determine which, if any, exist:
 
-        (1) __Previous conviction of offense for which a sentence of death or life imprisonment was authorized.—__ 
+        (1)  __Previous conviction of offense for which a sentence of death or life imprisonment was authorized__  __.—__ 
 
         The defendant has previously been convicted of another Federal or State offense resulting in the death of a person, for which a sentence of life imprisonment or death was authorized by statute.
 
-        (2) __Previous conviction of other serious offenses.—__ 
+        (2)  __Previous conviction of other serious offenses__  __.—__ 
 
         The defendant has previously been convicted of two or more Federal or State offenses, each punishable by a term of imprisonment of more than one year, committed on different occasions, involving the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])) or the infliction of, or attempted infliction of, serious bodily injury or death upon another person.
 
-        (3) __Previous serious drug felony conviction.—__ 
+        (3)  __Previous serious drug felony conviction__  __.—__ 
 
         The defendant has previously been convicted of another Federal or State offense involving the manufacture, distribution, importation, or possession of a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])) for which a sentence of five or more years of imprisonment was authorized by statute.
 
-        (4) __Use of firearm.—__ 
+        (4)  __Use of firearm__  __.—__ 
 
         In committing the offense, or in furtherance of a continuing criminal enterprise of which the offense was a part, the defendant used a firearm or knowingly directed, advised, authorized, or assisted another to use a firearm to threaten, intimidate, assault, or injure a person.
 
-        (5) __Distribution to persons under 21.—__ 
+        (5)  __Distribution to persons under 21__  __.—__ 
 
         The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 418 of the Controlled Substances Act ([21 U.S.C. 859][/us/usc/t21/s859]) which was committed directly by the defendant.
 
-        (6) __Distribution near schools.—__ 
+        (6)  __Distribution near schools__  __.—__ 
 
         The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act ([21 U.S.C. 860][/us/usc/t21/s860]) which was committed directly by the defendant.
 
-        (7) __Using minors in trafficking.—__ 
+        (7)  __Using minors in trafficking__  __.—__ 
 
         The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 420 of the Controlled Substances Act ([21 U.S.C. 861][/us/usc/t21/s861]) which was committed directly by the defendant.
 
-        (8) __Lethal adulterant.—__ 
+        (8)  __Lethal adulterant__  __.—__ 
 
         The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
 

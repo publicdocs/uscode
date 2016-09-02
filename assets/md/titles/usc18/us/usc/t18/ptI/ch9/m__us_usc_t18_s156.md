@@ -15,7 +15,7 @@
 
 ## § 156. Knowing disregard of bankruptcy law or rule
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,7 +23,7 @@
 
         (2) the term “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under title 11.
 
-    (b) __Offense.—__ 
+    (b)  __Offense__  __.—__ 
 
     If a bankruptcy case or related proceeding is dismissed because of a knowing attempt by a bankruptcy petition preparer in any manner to disregard the requirements of title 11, United States Code, or the Federal Rules of Bankruptcy Procedure, the bankruptcy petition preparer shall be fined under this title, imprisoned not more than 1 year, or both.
 

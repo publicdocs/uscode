@@ -47,7 +47,7 @@
 
 [Pub. L. 101–647, title XXIX, § 2905][/us/pl/101/647/s2905], Nov. 29, 1990, [104 Stat. 4914][/us/stat/104/4914], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) It is the policy of the Federal Government that convicted inmates confined in Federal prisons, jails, and other detention facilities shall work. The type of work in which they will be involved shall be dictated by appropriate security considerations and by the health of the prisoner involved.
 

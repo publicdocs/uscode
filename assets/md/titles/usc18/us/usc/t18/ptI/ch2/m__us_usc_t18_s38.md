@@ -15,7 +15,7 @@
 
 ## § 38. Fraud involving aircraft or space vehicle parts in interstate or foreign commerce
 
-    (a) __Offenses.—__ 
+    (a)  __Offenses__  __.—__ 
 
     Whoever, in or affecting interstate or foreign commerce, knowingly and with the intent to defraud—
 
@@ -33,27 +33,27 @@
 
         shall be punished as provided in subsection (b).
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     The punishment for an offense under subsection (a) is as follows:
 
-        (1) __Aviation quality.—__ 
+        (1)  __Aviation quality__  __.—__ 
 
         If the offense relates to the aviation quality of a part and the part is installed in an aircraft or space vehicle, a fine of not more than $500,000, imprisonment for not more than 15 years, or both.
 
-        (2) __Failure to operate as represented.—__ 
+        (2)  __Failure to operate as represented__  __.—__ 
 
         If, by reason of the failure of the part to operate as represented, the part to which the offense is related is the proximate cause of a malfunction or failure that results in serious bodily injury (as defined in section 1365), a fine of not more than $1,000,000, imprisonment for not more than 20 years, or both.
 
-        (3) __Failure resulting in death.—__ 
+        (3)  __Failure resulting in death__  __.—__ 
 
         If, by reason of the failure of the part to operate as represented, the part to which the offense is related is the proximate cause of a malfunction or failure that results in the death of any person, a fine of not more than $1,000,000, imprisonment for any term of years or life, or both.
 
-        (4) __Other circumstances.—__ 
+        (4)  __Other circumstances__  __.—__ 
 
         In the case of an offense under subsection (a) not described in paragraph (1), (2), or (3) of this subsection, a fine under this title, imprisonment for not more than 10 years, or both.
 
-        (5) __Organizations.—__ 
+        (5)  __Organizations__  __.—__ 
 
         If the offense is committed by an organization, a fine of not more than—
 
@@ -63,7 +63,7 @@
 
     (c) __Civil Remedies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The district courts of the United States shall have jurisdiction to prevent and restrain violations of this section by issuing appropriate orders, including—
 
@@ -73,17 +73,17 @@
 
             (C) ordering the dissolution or reorganization of any enterprise knowingly used to commit or facilitate the commission of an offense under this section making due provisions for the rights and interests of innocent persons.
 
-        (2) __Restraining orders and prohibition.—__ 
+        (2)  __Restraining orders and prohibition__  __.—__ 
 
         Pending final determination of a proceeding brought under this section, the court may enter such restraining orders or prohibitions, or take such other actions (including the acceptance of satisfactory performance bonds) as the court deems proper.
 
-        (3) __Estoppel.—__ 
+        (3)  __Estoppel__  __.—__ 
 
         A final judgment rendered in favor of the United States in any criminal proceeding brought under this section shall stop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
 
     (d) __Criminal Forfeiture.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The court, in imposing sentence on any person convicted of an offense under this section, shall order, in addition to any other sentence and irrespective of any provision of State law, that the person forfeit to the United States—
 
@@ -91,15 +91,15 @@
 
             (B) any property used, or intended to be used in any manner, to commit or facilitate the commission of the offense, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property on the offense.
 
-        (2) __Application of other law.—__ 
+        (2)  __Application of other law__  __.—__ 
 
         The forfeiture of property under this section, including any seizure and disposition of the property, and any proceedings relating to the property, shall be governed by section 413 of the Comprehensive Drug Abuse and Prevention Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]) (not including subsection (d) of that section).
 
-    (e) __Construction With Other Law.—__ 
+    (e)  __Construction With Other Law__  __.—__ 
 
     This section does not preempt or displace any other remedy, civil or criminal, provided by Federal or State law for the fraudulent importation, sale, trade, installation, or introduction into commerce of an aircraft or space vehicle part.
 
-    (f) __Territorial Scope.—__ 
+    (f)  __Territorial Scope__  __.—__ 
 
     This section also applies to conduct occurring outside the United States if—
 

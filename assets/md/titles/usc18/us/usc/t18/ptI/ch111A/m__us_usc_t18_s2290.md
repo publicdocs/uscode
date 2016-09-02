@@ -15,7 +15,7 @@
 
 ## § 2290. Jurisdiction and scope
 
-    (a) __Jurisdiction.—__ 
+    (a)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction, including extraterritorial jurisdiction, over an offense under this chapter if the prohibited activity takes place—
 
@@ -31,7 +31,7 @@
 
             (C) the activity involves a vessel of the United States (as that term is defined under section 2  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).1
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     Nothing in this chapter shall apply to otherwise lawful activities carried out by or at the direction of the United States Government.
 

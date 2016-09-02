@@ -15,7 +15,7 @@
 
 ## § 1091. Genocide
 
-    (a) __Basic Offense.—__ 
+    (a)  __Basic Offense__  __.—__ 
 
     Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
 
@@ -33,7 +33,7 @@
 
         shall be punished as provided in subsection (b).
 
-    (b) __Punishment for Basic Offense.—__ 
+    (b)  __Punishment for Basic Offense__  __.—__ 
 
     The punishment for an offense under subsection (a) is—
 
@@ -41,15 +41,15 @@
 
         (2) a fine of not more than $1,000,000 or imprisonment for not more than twenty years, or both, in any other case.
 
-    (c) __Incitement Offense.—__ 
+    (c)  __Incitement Offense__  __.—__ 
 
     Whoever directly and publicly incites another to violate subsection (a) shall be fined not more than $500,000 or imprisoned not more than five years, or both.
 
-    (d) __Attempt and Conspiracy.—__ 
+    (d)  __Attempt and Conspiracy__  __.—__ 
 
     Any person who attempts or conspires to commit an offense under this section shall be punished in the same manner as a person who completes the offense.
 
-    (e) __Jurisdiction.—__ 
+    (e)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the offenses described in subsections (a), (c), and (d) if—
 
@@ -67,7 +67,7 @@
 
             (D) present in the United States.
 
-    (f) __Nonapplicability of Certain Limitations.—__ 
+    (f)  __Nonapplicability of Certain Limitations__  __.—__ 
 
     Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
 

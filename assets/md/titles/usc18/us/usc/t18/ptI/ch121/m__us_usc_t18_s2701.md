@@ -15,7 +15,7 @@
 
 ## § 2701. Unlawful access to stored communications
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Except as provided in subsection (c) of this section whoever—
 
@@ -25,7 +25,7 @@
 
         and thereby obtains, alters, or prevents authorized access to a wire or electronic communication while it is in electronic storage in such system shall be punished as provided in subsection (b) of this section.
 
-    (b) __Punishment.—__ 
+    (b)  __Punishment__  __.—__ 
 
     The punishment for an offense under subsection (a) of this section is—
 
@@ -45,7 +45,7 @@
 
             (B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under this subparagraph that occurs after a conviction of another offense under this section.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     Subsection (a) of this section does not apply with respect to conduct authorized—
 

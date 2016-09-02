@@ -17,7 +17,7 @@
 
     (a) It is unlawful to offer or display for sale or sell any good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Any person that knowingly violates subsection (a) shall—
 

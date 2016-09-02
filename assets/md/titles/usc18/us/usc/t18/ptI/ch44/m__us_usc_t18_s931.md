@@ -15,7 +15,7 @@
 
 ## § 931. Prohibition on purchase, ownership, or possession of body armor by violent felons
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), it shall be unlawful for a person to purchase, own, or possess body armor, if that person has been convicted of a felony that is—
 
@@ -25,7 +25,7 @@
 
     (b) __Affirmative Defense.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         It shall be an affirmative defense under this section that—
 
@@ -33,7 +33,7 @@
 
             (B) the use and possession by the defendant were limited to the course of such performance.
 
-        (2) __Employer.—__ 
+        (2)  __Employer__  __.—__ 
 
         In this subsection, the term “employer” means any other individual employed by the defendant’s business that supervises defendant’s activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
 

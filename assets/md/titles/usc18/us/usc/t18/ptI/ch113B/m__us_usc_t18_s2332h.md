@@ -17,7 +17,7 @@
 
     (a) __Unlawful Conduct.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), it shall be unlawful for any person to knowingly produce, construct, otherwise acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use—
 
@@ -25,7 +25,7 @@
 
             (B) any device or other object that is capable of and designed or intended to endanger human life through the release of radiation or radioactivity.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         This subsection does not apply with respect to—
 
@@ -33,7 +33,7 @@
 
             (B) conduct pursuant to the terms of a contract with the United States or any department or agency thereof.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
 
@@ -49,15 +49,15 @@
 
     (c) __Criminal Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
 
-        (2) __Other circumstances.—__ 
+        (2)  __Other circumstances__  __.—__ 
 
         Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
 
-        (3) __Special circumstances.—__ 
+        (3)  __Special circumstances__  __.—__ 
 
         If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 

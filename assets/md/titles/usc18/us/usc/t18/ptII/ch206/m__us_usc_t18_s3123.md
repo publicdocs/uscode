@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1) __Attorney for the government.—__ 
+        (1)  __Attorney for the government__  __.—__ 
 
         Upon an application made under section 3122(a)(1), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device anywhere within the United States, if the court finds that the attorney for the Government has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation. The order, upon service of that order, shall apply to any person or entity providing wire or electronic communication service in the United States whose assistance may facilitate the execution of the order. Whenever such an order is served on any person or entity not specifically named in the order, upon request of such person or entity, the attorney for the Government or law enforcement or investigative officer that is serving the order shall provide written or electronic certification that the order applies to the person or entity being served.
 
-        (2) __State investigative or law enforcement officer.—__ 
+        (2)  __State investigative or law enforcement officer__  __.—__ 
 
         Upon an application made under section 3122(a)(2), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device within the jurisdiction of the court, if the court finds that the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
 
@@ -43,7 +43,7 @@
 
             (B) The record maintained under subparagraph (A) shall be provided ex parte and under seal to the court which entered the ex parte order authorizing the installation and use of the device within 30 days after termination of the order (including any extensions thereof).
 
-    (b) __Contents of Order.—__ 
+    (b)  __Contents of Order__  __.—__ 
 
     An order issued under this section—
 
@@ -61,13 +61,13 @@
 
         (2) shall direct, upon the request of the applicant, the furnishing of information, facilities, and technical assistance necessary to accomplish the installation of the pen register or trap and trace device under [section 3124 of this title][/us/usc/t18/s3124].
 
-    (c) __Time Period and Extensions.—__ 
+    (c)  __Time Period and Extensions__  __.—__ 
 
         (1) An order issued under this section shall authorize the installation and use of a pen register or a trap and trace device for a period not to exceed sixty days.
 
         (2) Extensions of such an order may be granted, but only upon an application for an order under [section 3122 of this title][/us/usc/t18/s3122] and upon the judicial finding required by subsection (a) of this section. The period of extension shall be for a period not to exceed sixty days.
 
-    (d) __Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—__ 
+    (d)  __Nondisclosure of Existence of Pen Register or a Trap and Trace Device__  __.—__ 
 
     An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that—
 

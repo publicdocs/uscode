@@ -15,11 +15,11 @@
 
 ## § 2258B. Limited liability for electronic communication service providers, remote computing service providers, or domain name registrar  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “registrars”. </sup></sup> 
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), a civil claim or criminal charge against an electronic communication service provider, a remote computing service provider, or domain  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “a”. </sup></sup>  name registrar, including any director, officer, employee, or agent of such electronic communication service provider, remote computing service provider, or domain name registrar arising from the performance of the reporting or preservation responsibilities of such electronic communication service provider, remote computing service provider, or domain name registrar under this section, section 2258A, or section 2258C may not be brought in any Federal or State court.
 
-    (b) __Intentional, Reckless, or Other Misconduct.—__ 
+    (b)  __Intentional, Reckless, or Other Misconduct__  __.—__ 
 
     Subsection (a) shall not apply to a claim if the electronic communication service provider, remote computing service provider, or domain name registrar, or a director, officer, employee, or agent of that electronic communication service provider, remote computing service provider, or domain name registrar—
 
@@ -35,7 +35,7 @@
 
             (C) for a purpose unrelated to the performance of any responsibility or function under this section, <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “or”. </sup></sup>  sections 2258A, 2258C, 2702, or 2703.
 
-    (c) __Minimizing Access.—__ 
+    (c)  __Minimizing Access__  __.—__ 
 
     An electronic communication service provider, a remote computing service provider, and domain 2 name registrar shall—
 

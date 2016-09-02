@@ -15,7 +15,7 @@
 
 ## § 1037. Fraud and related activity in connection with electronic mail
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever, in or affecting interstate or foreign commerce, knowingly—
 
@@ -31,7 +31,7 @@
 
         or conspires to do so, shall be punished as provided in subsection (b).
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     The punishment for an offense under subsection (a) is—
 
@@ -63,7 +63,7 @@
 
     (c) __Forfeiture.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The court, in imposing sentence on a person who is convicted of an offense under this section, shall order that the defendant forfeit to the United States—
 
@@ -71,27 +71,27 @@
 
             (B) any equipment, software, or other technology used or intended to be used to commit or to facilitate the commission of such offense.
 
-        (2) __Procedures.—__ 
+        (2)  __Procedures__  __.—__ 
 
         The procedures set forth in section 413 of the Controlled Substances Act ([21 U.S.C. 853][/us/usc/t21/s853]), other than subsection (d) of that section, and in Rule 32.2 of the Federal Rules of Criminal Procedure, shall apply to all stages of a criminal forfeiture proceeding under this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Loss.—__ 
+        (1)  __Loss__  __.—__ 
 
         The term “loss” has the meaning given that term in [section 1030(e) of this title][/us/usc/t18/s1030/e].
 
-        (2) __Materially.—__ 
+        (2)  __Materially__  __.—__ 
 
         For purposes of paragraphs (3) and (4) of subsection (a), header information or registration information is materially falsified if it is altered or concealed in a manner that would impair the ability of a recipient of the message, an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation.
 
-        (3) __Multiple.—__ 
+        (3)  __Multiple__  __.—__ 
 
         The term “multiple” means more than 100 electronic mail messages during a 24-hour period, more than 1,000 electronic mail messages during a 30-day period, or more than 10,000 electronic mail messages during a 1-year period.
 
-        (4) __Other terms.—__ 
+        (4)  __Other terms__  __.—__ 
 
         Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.
 

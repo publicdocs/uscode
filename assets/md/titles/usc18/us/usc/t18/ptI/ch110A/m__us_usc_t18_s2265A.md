@@ -15,11 +15,11 @@
 
 ## § 2265A. Repeat offenders
 
-    (a) __Maximum Term of Imprisonment.—__ 
+    (a)  __Maximum Term of Imprisonment__  __.—__ 
 
     The maximum term of imprisonment for a violation of this chapter after a prior domestic violence or stalking offense shall be twice the term otherwise provided under this chapter.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     For purposes of this section—
 

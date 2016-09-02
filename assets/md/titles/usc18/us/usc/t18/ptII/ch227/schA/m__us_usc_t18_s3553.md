@@ -15,7 +15,7 @@
 
 ## § 3553. Imposition of a sentence
 
-    (a) __Factors To Be Considered in Imposing a Sentence.—__ 
+    (a)  __Factors To Be Considered in Imposing a Sentence__  __.—__ 
 
     The court shall impose a sentence sufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
 
@@ -61,15 +61,15 @@
 
         (7) the need to provide restitution to any victims of the offense.
 
-    (b) __Application of Guidelines in Imposing a Sentence.—__ 
+    (b)  __Application of Guidelines in Imposing a Sentence__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
 
-        (2) __Child crimes and sexual offenses.—__ 
+        (2)  __Child crimes and sexual offenses__  __.—__ 
 
-            (A)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __Sentencing.—__ 
+            (A)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __   __Sentencing__  __.—__ 
 
             In sentencing a defendant convicted of an offense under section 1201 involving a minor victim, an offense under section 1591, or an offense under chapter 71, 109A, 110, or 117, the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless—
 
@@ -89,7 +89,7 @@
 
         In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission, together with any amendments thereto by act of Congress. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission, together with any amendments to such guidelines or policy statements by act of Congress.
 
-    (c) __Statement of Reasons for Imposing a Sentence.—__ 
+    (c)  __Statement of Reasons for Imposing a Sentence__  __.—__ 
 
     The court, at the time of sentencing, shall state in open court the reasons for its imposition of the particular sentence, and, if the sentence—
 
@@ -99,7 +99,7 @@
 
         If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court’s statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,, <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
-    (d) __Presentence Procedure for an Order of Notice.—__ 
+    (d)  __Presentence Procedure for an Order of Notice__  __.—__ 
 
     Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
 
@@ -111,11 +111,11 @@
 
         Upon motion of the defendant or the Government, or on its own motion, the court may in its discretion employ any additional procedures that it concludes will not unduly complicate or prolong the sentencing process.
 
-    (e) __Limited Authority To Impose a Sentence Below a Statutory Minimum.—__ 
+    (e)  __Limited Authority To Impose a Sentence Below a Statutory Minimum__  __.—__ 
 
     Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant’s substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to [section 994 of title 28][/us/usc/t28/s994], United States Code.
 
-    (f) __Limitation on Applicability of Statutory Minimums in Certain Cases.—__ 
+    (f)  __Limitation on Applicability of Statutory Minimums in Certain Cases__  __.—__ 
 
     Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act ([21 U.S.C. 841][/us/usc/t21/s841], 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960][/us/usc/t21/s960], 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under [section 994 of title 28][/us/usc/t28/s994] without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
 
@@ -229,7 +229,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
 [Pub. L. 108–21, title IV, § 401][/us/pl/108/21/s401](l), Apr. 30, 2003, [117 Stat. 674][/us/stat/117/674], provided that:
 
->     “(1) __Defined term.—__ 
+>     “(1)  __Defined term__  __.—__ 
 
 >     For purposes of this section \[amending this section, [section 3742 of this title][/us/usc/t18/s3742], and [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, enacting provisions set out as a note under [section 991 of Title 28][/us/usc/t28/s991], and enacting provisions listed in a table relating to sentencing guidelines set out under [section 994 of Title 28][/us/usc/t28/s994]\], the term ‘report described in paragraph (3)’ means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
 
@@ -245,11 +245,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 >     “(2) __Report required.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 15 days after a district court’s grant of a downward departure in any case, other than a case involving a downward departure for substantial assistance to authorities pursuant to section 5K1.1 of the United States Sentencing Guidelines, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate containing the information described under subparagraph (B).
 
->         “(B) __Contents.—__ 
+>         “(B)  __Contents__  __.—__ 
 
 >         The report submitted pursuant to subparagraph (A) shall set forth—
 
@@ -263,11 +263,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 >             “(v) the position of the parties with respect to the downward departure, whether or not the United States has filed, or intends to file, a motion for reconsideration.
 
->         “(C) __Appeal of the departure.—__ 
+>         “(C)  __Appeal of the departure__  __.—__ 
 
 >         Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision.
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3).”
 

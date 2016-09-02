@@ -15,15 +15,15 @@
 
 ## § 2441. War crimes
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.
 
-    (b) __Circumstances.—__ 
+    (b)  __Circumstances__  __.—__ 
 
     The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     As used in this section the term “war crime” means any conduct—
 
@@ -35,49 +35,49 @@
 
         (4) of a person who, in relation to an armed conflict and contrary to the provisions of the Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices as amended at Geneva on 3 May 1996 (Protocol II as amended on 3 May 1996), when the United States is a party to such Protocol, willfully kills or causes serious injury to civilians.
 
-    (d) __Common Article 3 Violations.—__ 
+    (d)  __Common Article__  __3 Violations.—__ 
 
-        (1) __Prohibited conduct.—__ 
+        (1)  __Prohibited conduct__  __.—__ 
 
         In subsection (c)(3), the term “grave breach of common Article 3” means any conduct (such conduct constituting a grave breach of common Article 3 of the international conventions done at Geneva August 12, 1949), as follows:
 
-            (A) __Torture.—__ 
+            (A)  __Torture__  __.—__ 
 
             The act of a person who commits, or conspires or attempts to commit, an act specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physical control for the purpose of obtaining information or a confession, punishment, intimidation, coercion, or any reason based on discrimination of any kind.
 
-            (B) __Cruel or inhuman treatment.—__ 
+            (B)  __Cruel or inhuman treatment__  __.—__ 
 
             The act of a person who commits, or conspires or attempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
 
-            (C) __Performing biological experiments.—__ 
+            (C)  __Performing biological experiments__  __.—__ 
 
             The act of a person who subjects, or conspires or attempts to subject, one or more persons within his custody or physical control to biological experiments without a legitimate medical or dental purpose and in so doing endangers the body or health of such person or persons.
 
-            (D) __Murder.—__ 
+            (D)  __Murder__  __.—__ 
 
             The act of a person who intentionally kills, or conspires or attempts to kill, or kills whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause.
 
-            (E) __Mutilation or maiming.—__ 
+            (E)  __Mutilation or maiming__  __.—__ 
 
             The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
 
-            (F) __Intentionally causing serious bodily injury.—__ 
+            (F)  __Intentionally causing serious bodily injury__  __.—__ 
 
             The act of a person who intentionally causes, or conspires or attempts to cause, serious bodily injury to one or more persons, including lawful combatants, in violation of the law of war.
 
-            (G) __Rape.—__ 
+            (G)  __Rape__  __.—__ 
 
             The act of a person who forcibly or with coercion or threat of force wrongfully invades, or conspires or attempts to invade, the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part of the body of the accused, or with any foreign object.
 
-            (H) __Sexual assault or abuse.—__ 
+            (H)  __Sexual assault or abuse__  __.—__ 
 
             The act of a person who forcibly or with coercion or threat of force engages, or conspires or attempts to engage, in sexual contact with one or more persons, or causes, or conspires or attempts to cause, one or more persons to engage in sexual contact.
 
-            (I) __Taking hostages.—__ 
+            (I)  __Taking hostages__  __.—__ 
 
             The act of a person who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
         In the case of an offense under subsection (a) by reason of subsection (c)(3)—
 
@@ -107,7 +107,7 @@
 
                 (ii) as to conduct occurring after the date of the enactment of the Military Commissions Act of 2006, the term “serious and non-transitory mental harm (which need not be prolonged)” shall replace the term “prolonged mental harm” where it appears.
 
-        (3) __Inapplicability of certain provisions with respect to collateral damage or incident of lawful attack.—__ 
+        (3)  __Inapplicability of certain provisions with respect to collateral damage or incident of lawful attack__  __.—__ 
 
         The intent specified for the conduct stated in subparagraphs (D), (E), and (F) or paragraph (1) precludes the applicability of those subparagraphs to an offense under subsection (a) by reasons of subsection (c)(3) with respect to—
 
@@ -115,11 +115,11 @@
 
             (B) death, damage, or injury incident to a lawful attack.
 
-        (4) __Inapplicability of taking hostages to prisoner exchange.—__ 
+        (4)  __Inapplicability of taking hostages to prisoner exchange__  __.—__ 
 
         Paragraph (1)(I) does not apply to an offense under subsection (a) by reason of subsection (c)(3) in the case of a prisoner exchange during wartime.
 
-        (5) __Definition of grave breaches.—__ 
+        (5)  __Definition of grave breaches__  __.—__ 
 
         The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
 
@@ -169,11 +169,11 @@
 
 [Pub. L. 109–366, § 6(a)][/us/pl/109/366/s6/a], Oct. 17, 2006, [120 Stat. 2632][/us/stat/120/2632], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The acts enumerated in subsection (d) of [section 2441 of title 18][/us/usc/t18/s2441], United States Code, as added by subsection (b) of this section, and in subsection (c) of this section \[enacting [section 2000dd–0 of Title 42][/us/usc/t42/s2000dd–0], The Public Health and Welfare\], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
 
->     “(2) __Prohibition on grave breaches.—__ 
+>     “(2)  __Prohibition on grave breaches__  __.—__ 
 
 >     The provisions of [section 2441 of title 18][/us/usc/t18/s2441], United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decision in the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
 
@@ -187,11 +187,11 @@
 
 >         “(D) Nothing in this section shall be construed to affect the constitutional functions and responsibilities of Congress and the judicial branch of the United States.
 
->     “(4) __Definitions.—__ 
+>     “(4)  __Definitions__  __.—__ 
 
 >     In this subsection:
 
->         “(A) __Geneva conventions.—__ 
+>         “(A)  __Geneva conventions__  __.—__ 
 
 >         The term ‘Geneva Conventions’ means—
 
@@ -203,7 +203,7 @@
 
 >             “(iv) the Convention Relative to the Protection of Civilian Persons in Time of War, done at Geneva August 12, 1949 (6 UST 3516).
 
->         “(B) __Third geneva convention.—__ 
+>         “(B)  __Third geneva convention__  __.—__ 
 
 >         The term ‘Third Geneva Convention’ means the international convention referred to in subparagraph (A)(iii).”
 

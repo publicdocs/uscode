@@ -15,7 +15,7 @@
 
 ## § 2332. Criminal penalties
 
-    (a) __Homicide.—__ 
+    (a)  __Homicide__  __.—__ 
 
     Whoever kills a national of the United States, while such national is outside the United States, shall—
 
@@ -25,7 +25,7 @@
 
         (3) if the killing is an involuntary manslaughter as defined in [section 1112(a) of this title][/us/usc/t18/s1112/a], be fined under this title or imprisoned not more than three years, or both.
 
-    (b) __Attempt or Conspiracy With Respect to Homicide.—__ 
+    (b)  __Attempt or Conspiracy With Respect to Homicide__  __.—__ 
 
     Whoever outside the United States attempts to kill, or engages in a conspiracy to kill, a national of the United States shall—
 
@@ -33,7 +33,7 @@
 
         (2) in the case of a conspiracy by two or more persons to commit a killing that is a murder as defined in [section 1111(a) of this title][/us/usc/t18/s1111/a], if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
 
-    (c) __Other Conduct.—__ 
+    (c)  __Other Conduct__  __.—__ 
 
     Whoever outside the United States engages in physical violence—
 
@@ -43,7 +43,7 @@
 
         shall be fined under this title or imprisoned not more than ten years, or both.
 
-    (d) __Limitation on Prosecution.—__ 
+    (d)  __Limitation on Prosecution__  __.—__ 
 
     No prosecution for any offense described in this section shall be undertaken by the United States except on written certification of the Attorney General or the highest ranking subordinate of the Attorney General with responsibility for criminal prosecutions that, in the judgment of the certifying official, such offense was intended to coerce, intimidate, or retaliate against a government or a civilian population.
 

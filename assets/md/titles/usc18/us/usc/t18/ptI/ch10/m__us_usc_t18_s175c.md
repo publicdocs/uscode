@@ -17,15 +17,15 @@
 
     (a) __Unlawful Conduct.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), it shall be unlawful for any person to knowingly produce, engineer, synthesize, acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use, variola virus.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         This subsection does not apply to conduct by, or under the authority of, the Secretary of Health and Human Services.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
 
@@ -41,19 +41,19 @@
 
     (c) __Criminal Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
 
-        (2) __Other circumstances.—__ 
+        (2)  __Other circumstances__  __.—__ 
 
         Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
 
-        (3) __Special circumstances.—__ 
+        (3)  __Special circumstances__  __.—__ 
 
         If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     As used in this section, the term “variola virus” means a virus that can cause human smallpox or any derivative of the variola major virus that contains more than 85 percent of the gene sequence of the variola major virus or the variola minor virus.
 
@@ -63,7 +63,7 @@
 
 [Pub. L. 108–458, title VI, § 6902][/us/pl/108/458/s6902], Dec. 17, 2004, [118 Stat. 3769][/us/stat/118/3769], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -77,7 +77,7 @@
 
 >         “(5) There is no legitimate reason for a private individual or company, absent explicit government authorization, to produce, construct, otherwise acquire, transfer, receive, possess, import, export, or use MANPADS, atomic or radiological weapons, or the variola virus.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this subtitle \[subtitle J (§§ 6901–6911) of title VI of [Pub. L. 108–458][/us/pl/108/458], see Short Title of 2004 Amendment note set out under [section 1 of this title][/us/usc/t18/s1]\] is to combat the potential use of weapons that have the ability to cause widespread harm to United States persons and the United States economy (and that have no legitimate private use) and to threaten or harm the national security or foreign relations of the United States.”
 

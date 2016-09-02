@@ -15,7 +15,7 @@
 
 ## § 212. Offer of loan or gratuity to financial institution examiner
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), whoever, being an officer, director, or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
 
@@ -23,15 +23,15 @@
 
         (2) may be fined a further sum equal to the money so loaned or gratuity given.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on the application for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Examiner.—__ 
+        (1)  __Examiner__  __.—__ 
 
         The term “examiner” means any person—
 
@@ -39,7 +39,7 @@
 
             (B) elected under the law of any State to conduct examinations of any financial institutions.
 
-        (2) __Federal financial institution regulatory agency.—__ 
+        (2)  __Federal financial institution regulatory agency__  __.—__ 
 
         The term “Federal financial institution regulatory agency” means—
 
@@ -57,11 +57,11 @@
 
             (G) the Small Business Administration.
 
-        (3) __Financial institution.—__ 
+        (3)  __Financial institution__  __.—__ 
 
         The term “financial institution” does not include a credit union, a Federal Reserve Bank, a Federal home loan bank, or a depository institution holding company.
 
-        (4) __Loan.—__ 
+        (4)  __Loan__  __.—__ 
 
         The term “loan” does not include any credit card account established under an open end consumer credit plan or a loan secured by residential real property that is the principal residence of the examiner, if—
 

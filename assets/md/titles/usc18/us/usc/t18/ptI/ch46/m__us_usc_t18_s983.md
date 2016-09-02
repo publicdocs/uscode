@@ -135,7 +135,7 @@
 
         (3) The court shall set the compensation for representation under this subsection, which shall be equivalent to that provided for court-appointed representation under [section 3006A of this title][/us/usc/t18/s3006A].
 
-    (c) __Burden of Proof.—__ 
+    (c)  __Burden of Proof__  __.—__ 
 
     In a suit or action brought under any civil forfeiture statute for the civil forfeiture of any property—
 
@@ -341,7 +341,7 @@
 
         (3) In addition to the limitations of [section 1915 of title 28][/us/usc/t28/s1915], United States Code, in no event shall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
 
-    (i) __Civil Forfeiture Statute Defined.—__ 
+    (i)  __Civil Forfeiture Statute Defined__  __.—__ 
 
     In this section, the term “civil forfeiture statute”—
 

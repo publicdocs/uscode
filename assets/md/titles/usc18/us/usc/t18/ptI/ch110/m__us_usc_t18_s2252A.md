@@ -97,7 +97,7 @@
 
         No affirmative defense under subsection (c)(2) shall be available in any prosecution that involves child pornography as described in section 2256(8)(C). A defendant may not assert an affirmative defense to a charge of violating paragraph (1), (2), (3)(A), (4), or (5) of subsection (a) unless, within the time provided for filing pretrial motions or at such time prior to trial as the judge may direct, but in no event later than 14 days before the commencement of the trial, the defendant provides the court and the United States with notice of the intent to assert such defense and the substance of any expert or other specialized testimony or evidence upon which the defendant intends to rely. If the defendant fails to comply with this subsection, the court shall, absent a finding of extraordinary circumstances that prevented timely compliance, prohibit the defendant from asserting such defense to a charge of violating paragraph (1), (2), (3)(A), (4), or (5) of subsection (a) or presenting any evidence for which the defendant has failed to provide proper and timely notice.
 
-    (d) __Affirmative Defense.—__ 
+    (d)  __Affirmative Defense__  __.—__ 
 
     It shall be an affirmative defense to a charge of violating subsection (a)(5) that the defendant—
 
@@ -111,17 +111,17 @@
 
             (B) reported the matter to a law enforcement agency and afforded that agency access to each such image.
 
-    (e) __Admissibility of Evidence.—__ 
+    (e)  __Admissibility of Evidence__  __.—__ 
 
     On motion of the government, in any prosecution under this chapter or section 1466A, except for good cause shown, the name, address, social security number, or other nonphysical identifying information, other than the age or approximate age, of any minor who is depicted in any child pornography shall not be admissible and may be redacted from any otherwise admissible evidence, and the jury shall be instructed, upon request of the United States, that it can draw no inference from the absence of such evidence in deciding whether the child pornography depicts an actual minor.
 
     (f) __Civil Remedies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person aggrieved by reason of the conduct prohibited under subsection (a) or (b) or section 1466A may commence a civil action for the relief set forth in paragraph (2).
 
-        (2) __Relief.—__ 
+        (2)  __Relief__  __.—__ 
 
         In any action commenced in accordance with paragraph (1), the court may award appropriate relief, including—
 

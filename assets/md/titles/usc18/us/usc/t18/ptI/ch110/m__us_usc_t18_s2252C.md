@@ -15,19 +15,19 @@
 
 ## § 2252C. Misleading words or digital images on the Internet
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly embeds words or digital images into the source code of a website with the intent to deceive a person into viewing material constituting obscenity shall be fined under this title and imprisoned for not more than 10 years.
 
-    (b) __Minors.—__ 
+    (b)  __Minors__  __.—__ 
 
     Whoever knowingly embeds words or digital images into the source code of a website with the intent to deceive a minor into viewing material harmful to minors on the Internet shall be fined under this title and imprisoned for not more than 20 years.
 
-    (c) __Construction.—__ 
+    (c)  __Construction__  __.—__ 
 
     For the purposes of this section, a word or digital image that clearly indicates the sexual content of the site, such as “sex” or “porn”, is not misleading.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     As used in this section—
 

@@ -15,15 +15,15 @@
 
 ## § 3602. Appointment of probation officers
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. The court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
 
-    (b) __Record of Appointment.—__ 
+    (b)  __Record of Appointment__  __.—__ 
 
     The order of appointment shall be entered on the records of the court, a copy of the order shall be delivered to the officer appointed, and a copy shall be sent to the Director of the Administrative Office of the United States Courts.
 
-    (c) __Chief Probation Officer.—__ 
+    (c)  __Chief Probation Officer__  __.—__ 
 
     If the court appoints more than one probation officer, one may be designated by the court as chief probation officer and shall direct the work of all probation officers serving in the judicial district.
 

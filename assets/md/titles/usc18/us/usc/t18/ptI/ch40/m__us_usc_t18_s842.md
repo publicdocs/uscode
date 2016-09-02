@@ -161,7 +161,7 @@
 
     (p) __Distribution of Information Relating to Explosives, Destructive Devices, and Weapons of Mass Destruction.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection—
 
@@ -171,7 +171,7 @@
 
             (C) the term “weapon of mass destruction” has the same meaning as in section 2332a(c)(2).
 
-        (2) __Prohibition.—__ 
+        (2)  __Prohibition__  __.—__ 
 
         It shall be unlawful for any person—
 

@@ -35,11 +35,11 @@
 
 >     “(a) __Federal Reentry Center Demonstration.—__ 
 
->         “(1) __Authority and establishment of demonstration project.—__ 
+>         “(1)  __Authority and establishment of demonstration project__  __.—__ 
 
 >         The Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, shall establish the Federal Reentry Center Demonstration project. The project shall involve appropriate prisoners from the Federal prison population and shall utilize community corrections facilities, home confinement, and a coordinated response by Federal agencies to assist participating prisoners in preparing for and adjusting to reentry into the community.
 
->         “(2) __Project elements.—__ 
+>         “(2)  __Project elements__  __.—__ 
 
 >         The project authorized by paragraph (1) shall include the following core elements:
 
@@ -49,15 +49,15 @@
 
 >             “(C) Substance abuse treatment and aftercare, mental and medical health treatment and aftercare, vocational and educational training, life skills instruction, conflict resolution skills training, batterer intervention programs, assistance obtaining suitable affordable housing, and other programming to promote effective reintegration into the community as needed.
 
->         “(3) __Probation officers.—__ 
+>         “(3)  __Probation officers__  __.—__ 
 
 >         From funds made available to carry out this section, the Director of the Administrative Office of the United States Courts shall assign 1 or more probation officers from each participating judicial district to the Reentry Demonstration project. Such officers shall be assigned to and stationed at the community corrections facility and shall serve on the Reentry Review Teams.
 
->         “(4) __Project duration.—__ 
+>         “(4)  __Project duration__  __.—__ 
 
 >         The Reentry Center Demonstration project shall begin not later than 6 months following the availability of funds to carry out this subsection, and shall last 3 years.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section, the term ‘appropriate prisoner’ shall mean a person who is considered by prison authorities—
 
@@ -65,7 +65,7 @@
 
 >         “(2) to lack the skills and family support network that facilitate successful reintegration into the community.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     To carry out this section, there are authorized to be appropriated, to remain available until expended—
 

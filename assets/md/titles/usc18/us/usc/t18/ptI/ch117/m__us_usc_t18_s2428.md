@@ -15,7 +15,7 @@
 
 ## § 2428. Forfeitures
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
@@ -25,7 +25,7 @@
 
     (b) __Property Subject to Forfeiture.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The following shall be subject to forfeiture to the United States and no property right shall exist in them:
 
@@ -33,7 +33,7 @@
 
             (B) Any property, real or personal, that constitutes or is derived from proceeds traceable to any violation of this chapter.
 
-        (2) __Applicability of chapter 46.—__ 
+        (2)  __Applicability of chapter 46__  __.—__ 
 
         The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
 

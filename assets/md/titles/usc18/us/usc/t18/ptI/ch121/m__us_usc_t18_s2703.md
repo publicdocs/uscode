@@ -15,11 +15,11 @@
 
 ## § 2703. Required disclosure of customer communications or records
 
-    (a) __Contents of Wire or Electronic Communications in Electronic Storage.—__ 
+    (a)  __Contents of Wire or Electronic Communications in Electronic Storage__  __.—__ 
 
     A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.
 
-    (b) __Contents of Wire or Electronic Communications in a Remote Computing Service.—__ 
+    (b)  __Contents of Wire or Electronic Communications in a Remote Computing Service__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
             (B) solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing.
 
-    (c) __Records Concerning Electronic Communication Service or Remote Computing Service.—__ 
+    (c)  __Records Concerning Electronic Communication Service or Remote Computing Service__  __.—__ 
 
         (1)
 
@@ -81,25 +81,25 @@
 
         (3) A governmental entity receiving records or information under this subsection is not required to provide notice to a subscriber or customer.
 
-    (d) __Requirements for Court Order.—__ 
+    (d)  __Requirements for Court Order__  __.—__ 
 
     A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such order otherwise would cause an undue burden on such provider.
 
-    (e) __No Cause of Action Against a Provider Disclosing Information Under This Chapter.—__ 
+    (e)  __No Cause of Action Against a Provider Disclosing Information Under This Chapter__  __.—__ 
 
     No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, statutory authorization, or certification under this chapter.
 
     (f) __Requirement To Preserve Evidence.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A provider of wire or electronic communication services or a remote computing service, upon the request of a governmental entity, shall take all necessary steps to preserve records and other evidence in its possession pending the issuance of a court order or other process.
 
-        (2) __Period of retention.—__ 
+        (2)  __Period of retention__  __.—__ 
 
         Records referred to in paragraph (1) shall be retained for a period of 90 days, which shall be extended for an additional 90-day period upon a renewed request by the governmental entity.
 
-    (g) __Presence of Officer Not Required.—__ 
+    (g)  __Presence of Officer Not Required__  __.—__ 
 
     Notwithstanding [section 3105 of this title][/us/usc/t18/s3105], the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 

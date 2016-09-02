@@ -15,7 +15,7 @@
 
 ## § 3301. Securities fraud offenses
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “securities fraud offense” means a violation of, or a conspiracy or an attempt to violate—
 
@@ -31,7 +31,7 @@
 
         (6) section 325 of the Trust Indenture Act of 1939 ([15 U.S.C. 77yyy][/us/usc/t15/s77yyy]).
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     No person shall be prosecuted, tried, or punished for a securities fraud offense, unless the indictment is found or the information is instituted within 6 years after the commission of the offense.
 

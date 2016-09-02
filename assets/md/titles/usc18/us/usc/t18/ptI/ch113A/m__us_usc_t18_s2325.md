@@ -59,7 +59,7 @@
 
 [Pub. L. 103–322, title XXV, § 250008][/us/pl/103/322/s250008], Sept. 13, 1994, [108 Stat. 2088][/us/stat/108/2088], as amended by [Pub. L. 104–294, title VI, § 604(b)(29)][/us/pl/104/294/s604/b/29], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508], provided that:
 
->     “(a) __Hotline.—__ 
+>     “(a)  __Hotline__  __.—__ 
 
 >     The Attorney General shall, subject to the availability of appropriations, establish a national toll-free hotline for the purpose of—
 
@@ -67,7 +67,7 @@
 
 >         “(2) gathering information related to possible violations of provisions of law amended by this title \[see Short Title note above\].
 
->     “(b) __Action on Information Gathered.—__ 
+>     “(b)  __Action on Information Gathered__  __.—__ 
 
 >     The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
 

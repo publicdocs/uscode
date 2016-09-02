@@ -15,7 +15,7 @@
 
 ## § 3613. Civil remedies for satisfaction of an unpaid fine
 
-    (a) __Enforcement.—__ 
+    (a)  __Enforcement__  __.—__ 
 
     The United States may enforce a judgment imposing a fine in accordance with the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
 
@@ -25,23 +25,23 @@
 
         (3) the provisions of section 303 of the Consumer Credit Protection Act ([15 U.S.C. 1673][/us/usc/t15/s1673]) shall apply to enforcement of the judgment under Federal law or State law.
 
-    (b) __Termination of Liability.—__ 
+    (b)  __Termination of Liability__  __.—__ 
 
     The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined.
 
-    (c) __Lien.—__ 
+    (c)  __Lien__  __.—__ 
 
     A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
-    (d) __Effect of Filing Notice of Lien.—__ 
+    (d)  __Effect of Filing Notice of Lien__  __.—__ 
 
     Upon filing of a notice of lien in the manner in which a notice of tax lien would be filed under section 6323(f)(1) and (2) of the Internal Revenue Code of 1986, the lien shall be valid against any purchaser, holder of a security interest, mechanic’s lienor or judgment lien creditor, except with respect to properties or transactions specified in subsection (b), (c), or (d) of section 6323 of the Internal Revenue Code of 1986 for which a notice of tax lien properly filed on the same date would not be valid. The notice of lien shall be considered a notice of lien for taxes payable to the United States for the purpose of any State or local law providing for the filing of a notice of a tax lien. A notice of lien that is registered, recorded, docketed, or indexed in accordance with the rules and requirements relating to judgments of the courts of the State where the notice of lien is registered, recorded, docketed, or indexed shall be considered for all purposes as the filing prescribed by this section. The provisions of section 3201(e) of chapter 176 of title 28 shall apply to liens filed as prescribed by this section.
 
-    (e) __Discharge of Debt Inapplicable.—__ 
+    (e)  __Discharge of Debt Inapplicable__  __.—__ 
 
     No discharge of debts in a proceeding pursuant to any chapter of title 11, United States Code, shall discharge liability to pay a fine pursuant to this section, and a lien filed as prescribed by this section shall not be voided in a bankruptcy proceeding.
 
-    (f) __Applicability to Order of Restitution.—__ 
+    (f)  __Applicability to Order of Restitution__  __.—__ 
 
     In accordance with [section 3664(m)(1)(A) of this title][/us/usc/t18/s3664/m/1/A], all provisions of this section are available to the United States for the enforcement of an order of restitution.
 

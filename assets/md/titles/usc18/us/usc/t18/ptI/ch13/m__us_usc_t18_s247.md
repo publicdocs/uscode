@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2002—Subsec. (d). [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], repealed amendment by [Pub. L. 107–273, § 605(r)][/us/pl/107/273/s605/r]. See 1996 Amendment note below.
+    2002—Subsec. (d). [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], repealed amendment by [Pub. L. 104–294, § 605(r)][/us/pl/104/294/s605/r]. See 1996 Amendment note below.
 
     Subsec. (e). [Pub. L. 107–273, § 4002(e)(4)][/us/pl/107/273/s4002/e/4], made technical correction to directory language of [Pub. L. 104–294, § 601(c)(3)][/us/pl/104/294/s601/c/3]. See 1996 Amendment note below.
 
@@ -137,7 +137,7 @@
 [/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
 [/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
-[/us/pl/107/273/s605/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs605%2Fr
+[/us/pl/104/294/s605/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fr
 [/us/pl/107/273/s4002/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F4
 [/us/pl/104/294/s601/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fc%2F3
 [/us/pl/104/155/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F155%2Fs3%2F1

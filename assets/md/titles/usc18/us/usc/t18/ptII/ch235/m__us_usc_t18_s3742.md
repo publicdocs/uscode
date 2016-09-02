@@ -15,7 +15,7 @@
 
 ## § 3742. Review of a sentence
 
-    (a) __Appeal by a Defendant.—__ 
+    (a)  __Appeal by a Defendant__  __.—__ 
 
     A defendant may file a notice of appeal in the district court for review of an otherwise final sentence if the sentence—
 
@@ -27,7 +27,7 @@
 
         (4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
-    (b) __Appeal by the Government.—__ 
+    (b)  __Appeal by the Government__  __.—__ 
 
     The Government may file a notice of appeal in the district court for review of an otherwise final sentence if the sentence—
 
@@ -41,7 +41,7 @@
 
         The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.
 
-    (c) __Plea Agreements.—__ 
+    (c)  __Plea Agreements__  __.—__ 
 
     In the case of a plea agreement that includes a specific sentence under rule 11(e)(1)(C) of the Federal Rules of Criminal Procedure—
 
@@ -49,7 +49,7 @@
 
         (2) the Government may not file a notice of appeal under paragraph (3) or (4) of subsection (b) unless the sentence imposed is less than the sentence set forth in such agreement.
 
-    (d) __Record on Review.—__ 
+    (d)  __Record on Review__  __.—__ 
 
     If a notice of appeal is filed in the district court pursuant to subsection (a) or (b), the clerk shall certify to the court of appeals—
 
@@ -59,7 +59,7 @@
 
         (3) the information submitted during the sentencing proceeding.
 
-    (e) __Consideration.—__ 
+    (e)  __Consideration__  __.—__ 
 
     Upon review of the record, the court of appeals shall determine whether the sentence—
 
@@ -89,7 +89,7 @@
 
         The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court’s application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court’s application of the guidelines to the facts.
 
-    (f) __Decision and Disposition.—__ 
+    (f)  __Decision and Disposition__  __.—__ 
 
     If the court of appeals determines that—
 
@@ -105,7 +105,7 @@
 
         (3) the sentence is not described in paragraph (1) or (2), it shall affirm the sentence.
 
-    (g) __Sentencing Upon Remand.—__ 
+    (g)  __Sentencing Upon Remand__  __.—__ 
 
     A district court to which a case is remanded pursuant to subsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
 
@@ -119,15 +119,15 @@
 
             (B) was held by the court of appeals, in remanding the case, to be a permissible ground of departure.
 
-    (h) __Application to a Sentence by a Magistrate Judge.—__ 
+    (h)  __Application to a Sentence by a Magistrate Judge__  __.—__ 
 
     An appeal of an otherwise final sentence imposed by a United States magistrate judge may be taken to a judge of the district court, and this section shall apply (except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal) as though the appeal were to a court of appeals from a sentence imposed by a district court.
 
-    (i) __Guideline Not Expressed as a Range.—__ 
+    (i)  __Guideline Not Expressed as a Range__  __.—__ 
 
     For the purpose of this section, the term “guideline range” includes a guideline range having the same upper and lower limits.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

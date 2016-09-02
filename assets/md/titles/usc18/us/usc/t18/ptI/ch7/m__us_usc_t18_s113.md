@@ -35,7 +35,7 @@
 
         (8) Assault of a spouse, intimate partner, or dating partner by strangling, suffocating, or attempting to strangle or suffocate, by a fine under this title, imprisonment for not more than 10 years, or both.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section—
 

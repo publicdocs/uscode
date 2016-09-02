@@ -251,7 +251,7 @@
 
 [Pub. L. 104–132, title V, § 501][/us/pl/104/132/s501], Apr. 24, 1996, [110 Stat. 1281][/us/stat/110/1281], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -281,7 +281,7 @@
 
 >         “(13) there is presently no Federal criminal statute that provides adequate protection to United States interests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[enacting [section 2332c of this title][/us/usc/t18/s2332c], amending this section and sections 175, 177, 178, and 2332a of this title, and enacting provisions set out as notes under [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and [section 1522 of Title 50][/us/usc/t50/s1522], War and National Defense\] is to provide Federal law enforcement agencies with the necessary means and the maximum authority permissible under the Constitution to combat the threat of nuclear contamination and proliferation that may result from the illegal possession and use of radioactive materials.”
 

@@ -15,21 +15,21 @@
 
 ## § 2522. Enforcement of the Communications Assistance for Law Enforcement Act
 
-    (a) __Enforcement by Court Issuing Surveillance Order.—__ 
+    (a)  __Enforcement by Court Issuing Surveillance Order__  __.—__ 
 
     If a court authorizing an interception under this chapter, a State statute, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) or authorizing use of a pen register or a trap and trace device under chapter 206 or a State statute finds that a telecommunications carrier has failed to comply with the requirements of the Communications Assistance for Law Enforcement Act, the court may, in accordance with section 108 of such Act, direct that the carrier comply forthwith and may direct that a provider of support services to the carrier or the manufacturer of the carrier’s transmission or switching equipment furnish forthwith modifications necessary for the carrier to comply.
 
-    (b) __Enforcement Upon Application by Attorney General.—__ 
+    (b)  __Enforcement Upon Application by Attorney General__  __.—__ 
 
     The Attorney General may, in a civil action in the appropriate United States district court, obtain an order, in accordance with section 108 of the Communications Assistance for Law Enforcement Act, directing that a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services comply with such Act.
 
     (c) __Civil Penalty.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A court issuing an order under this section against a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services may impose a civil penalty of up to $10,000 per day for each day in violation after the issuance of the order or after such future date as the court may specify.
 
-        (2) __Considerations.—__ 
+        (2)  __Considerations__  __.—__ 
 
         In determining whether to impose a civil penalty and in determining its amount, the court shall take into account—
 
@@ -39,7 +39,7 @@
 
             (C) such other matters as justice may require.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     As used in this section, the terms defined in section 102 of the Communications Assistance for Law Enforcement Act have the meanings provided, respectively, in such section.
 

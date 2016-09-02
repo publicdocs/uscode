@@ -15,11 +15,11 @@
 
 ## § 2247. Repeat offenders
 
-    (a) __Maximum Term of Imprisonment.—__ 
+    (a)  __Maximum Term of Imprisonment__  __.—__ 
 
     The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term otherwise provided by this chapter, unless section 3559(e) applies.
 
-    (b) __Prior Sex Offense Conviction Defined.—__ 
+    (b)  __Prior Sex Offense Conviction Defined__  __.—__ 
 
     In this section, the term “prior sex offense conviction” has the meaning given that term in section 2426(b).
 

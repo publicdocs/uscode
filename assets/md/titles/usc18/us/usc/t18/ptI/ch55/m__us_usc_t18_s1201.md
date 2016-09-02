@@ -43,7 +43,7 @@
 
     (g) __Special Rule for Certain Offenses Involving Children.—__ 
 
-        (1) __To whom applicable.—__ 
+        (1)  __To whom applicable__  __.—__ 
 
         If—
 

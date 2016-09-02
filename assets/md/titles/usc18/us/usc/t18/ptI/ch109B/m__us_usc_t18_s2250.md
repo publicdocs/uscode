@@ -15,7 +15,7 @@
 
 ## § 2250. Failure to register
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever—
 
@@ -31,7 +31,7 @@
 
         shall be fined under this title or imprisoned not more than 10 years, or both.
 
-    (b) __Affirmative Defense.—__ 
+    (b)  __Affirmative Defense__  __.—__ 
 
     In a prosecution for a violation under subsection (a), it is an affirmative defense that—
 
@@ -43,11 +43,11 @@
 
     (c) __Crime of Violence.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An individual described in subsection (a) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
 
-        (2) __Additional punishment.—__ 
+        (2)  __Additional punishment__  __.—__ 
 
         The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a).
 

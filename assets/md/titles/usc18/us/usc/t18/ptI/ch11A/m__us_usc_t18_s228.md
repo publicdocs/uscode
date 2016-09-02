@@ -15,7 +15,7 @@
 
 ## § 228. Failure to pay legal child support obligations
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Any person who—
 
@@ -27,11 +27,11 @@
 
         shall be punished as provided in subsection (c).
 
-    (b) __Presumption.—__ 
+    (b)  __Presumption__  __.—__ 
 
     The existence of a support obligation that was in effect for the time period charged in the indictment or information creates a rebuttable presumption that the obligor has the ability to pay the support obligation for that time period.
 
-    (c) __Punishment.—__ 
+    (c)  __Punishment__  __.—__ 
 
     The punishment for an offense under this section is—
 
@@ -39,11 +39,11 @@
 
         (2) in the case of an offense under paragraph (2) or (3) of subsection (a), or a second or subsequent offense under subsection (a)(1), a fine under this title, imprisonment for not more than 2 years, or both.
 
-    (d) __Mandatory Restitution.—__ 
+    (d)  __Mandatory Restitution__  __.—__ 
 
     Upon a conviction under this section, the court shall order restitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
 
-    (e) __Venue.—__ 
+    (e)  __Venue__  __.—__ 
 
     With respect to an offense under this section, an action may be inquired of and prosecuted in a district court of the United States for—
 
@@ -53,7 +53,7 @@
 
         (3) any other district with jurisdiction otherwise provided for by law.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     As used in this section—
 

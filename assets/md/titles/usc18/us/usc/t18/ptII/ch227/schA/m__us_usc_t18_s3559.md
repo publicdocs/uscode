@@ -15,7 +15,7 @@
 
 ## § 3559. Sentencing classification of offenses
 
-    (a) __Classification.—__ 
+    (a)  __Classification__  __.—__ 
 
     An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
 
@@ -37,13 +37,13 @@
 
         (9) five days or less, or if no imprisonment is authorized, as an infraction.
 
-    (b) __Effect of Classification.—__ 
+    (b)  __Effect of Classification__  __.—__ 
 
     Except as provided in subsection (c), an offense classified under subsection (a) carries all the incidents assigned to the applicable letter designation, except that the maximum term of imprisonment is the term authorized by the law describing the offense.
 
     (c) __Imprisonment of Certain Violent Felons.—__ 
 
-        (1) __Mandatory life imprisonment.—__ 
+        (1)  __Mandatory life imprisonment__  __.—__ 
 
         Notwithstanding any other provision of law, a person who is convicted in a court of the United States of a serious violent felony shall be sentenced to life imprisonment if—
 
@@ -57,7 +57,7 @@
 
             (B) each serious violent felony or serious drug offense used as a basis for sentencing under this subsection, other than the first, was committed after the defendant’s conviction of the preceding serious violent felony or serious drug offense.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 
@@ -91,7 +91,7 @@
 
         (3) __Nonqualifying felonies.—__ 
 
-            (A) __Robbery in certain cases.—__ 
+            (A)  __Robbery in certain cases__  __.—__ 
 
             Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
@@ -99,7 +99,7 @@
 
                 (ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
 
-            (B) __Arson in certain cases.—__ 
+            (B)  __Arson in certain cases__  __.—__ 
 
             Arson shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
@@ -107,25 +107,25 @@
 
                 (ii) the defendant reasonably believed the offense posed no threat to human life.
 
-        (4) __Information filed by united states attorney.—__ 
+        (4)  __Information filed by united states attorney__  __.—__ 
 
         The provisions of section 411(a) of the Controlled Substances Act ([21 U.S.C. 851(a)][/us/usc/t21/s851/a]) shall apply to the imposition of sentence under this subsection.
 
-        (5) __Rule of construction.—__ 
+        (5)  __Rule of construction__  __.—__ 
 
         This subsection shall not be construed to preclude imposition of the death penalty.
 
-        (6) __Special provision for indian country.—__ 
+        (6)  __Special provision for indian country__  __.—__ 
 
         No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
 
-        (7) __Resentencing upon overturning of prior conviction.—__ 
+        (7)  __Resentencing upon overturning of prior conviction__  __.—__ 
 
         If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardoned on the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
 
     (d) __Death or Imprisonment for Crimes Against Children.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2) and notwithstanding any other provision of law, a person who is convicted of a Federal offense that is a serious violent felony (as defined in subsection (c)) or a violation of section 2422, 2423, or 2251 shall, unless the sentence of death is imposed, be sentenced to imprisonment for life, if—
 
@@ -135,17 +135,17 @@
 
             (C) the defendant, in the course of the offense, engages in conduct described in section 3591(a)(2).
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lesser sentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to [section 994(p) of title 28][/us/usc/t28/s994/p], or for other good cause.
 
     (e) __Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who is convicted of a Federal sex offense in which a minor is the victim shall be sentenced to life imprisonment if the person has a prior sex conviction in which a minor was the victim, unless the sentence of death is imposed.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
         For the purposes of this subsection—
 
@@ -165,7 +165,7 @@
 
             (E) the term “State” has the meaning given that term in subsection (c)(2).
 
-        (3) __Nonqualifying Felonies.—__ 
+        (3)  __Nonqualifying Felonies__  __.—__ 
 
         An offense described in section 2422(b) or 2423(a) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
@@ -175,7 +175,7 @@
 
             (C) no sexual act or activity occurred.
 
-    (f) __Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—__ 
+    (f)  __Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children__  __.—__ 
 
     A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
 

@@ -15,11 +15,11 @@
 
 ## § 3286. Extension of statute of limitation for certain terrorism offenses
 
-    (a) __Eight-Year Limitation.—__ 
+    (a)  __Eight-Year Limitation__  __.—__ 
 
     Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for any noncapital offense involving a violation of any provision listed in section 2332b(g)(5)(B), or a violation of section 112, 351(e), 1361, or 1751(e) of this title, or section 46504, 46505, or 46506 of title 49, unless the indictment is found or the information is instituted within 8 years after the offense was committed. Notwithstanding the preceding sentence, offenses listed in section 3295 are subject to the statute of limitations set forth in that section.
 
-    (b) __No Limitation.—__ 
+    (b)  __No Limitation__  __.—__ 
 
     Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense listed in section 2332b(g)(5)(B), if the commission of such offense resulted in, or created a forseeable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “foreseeable”. </sup></sup>  risk of, death or serious bodily injury to another person.
 

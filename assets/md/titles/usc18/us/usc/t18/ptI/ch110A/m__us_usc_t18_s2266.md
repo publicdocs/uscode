@@ -17,23 +17,23 @@
 
     In this chapter:
 
-    (1) __Bodily injury.—__ 
+    (1)  __Bodily injury__  __.—__ 
 
     The term “bodily injury” means any act, except one done in self-defense, that results in physical injury or sexual abuse.
 
-    (2) __Course of conduct.—__ 
+    (2)  __Course of conduct__  __.—__ 
 
     The term “course of conduct” means a pattern of conduct composed of 2 or more acts, evidencing a continuity of purpose.
 
-    (3) __Enter or leave indian country.—__ 
+    (3)  __Enter or leave indian country__  __.—__ 
 
     The term “enter or leave Indian country” includes leaving the jurisdiction of 1 tribal government and entering the jurisdiction of another tribal government.
 
-    (4) __Indian country.—__ 
+    (4)  __Indian country__  __.—__ 
 
     The term “Indian country” has the meaning stated in [section 1151 of this title][/us/usc/t18/s1151].
 
-    (5) __Protection order.—__ 
+    (5)  __Protection order__  __.—__ 
 
     The term “protection order” includes—
 
@@ -41,11 +41,11 @@
 
         (B) any support, child custody or visitation provisions, orders, remedies or relief issued as part of a protection order, restraining order, or injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, sexual assault, dating violence, or stalking.
 
-    (6) __Serious bodily injury.—__ 
+    (6)  __Serious bodily injury__  __.—__ 
 
     The term “serious bodily injury” has the meaning stated in section 2119(2).
 
-    (7) __Spouse or intimate partner.—__ 
+    (7)  __Spouse or intimate partner__  __.—__ 
 
     The term “spouse or intimate partner” includes—
 
@@ -71,15 +71,15 @@
 
         (B) any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the State or tribal jurisdiction in which the injury occurred or where the victim resides.
 
-    (8) __State.—__ 
+    (8)  __State__  __.—__ 
 
     The term “State” includes a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States.
 
-    (9) __Travel in interstate or foreign commerce.—__ 
+    (9)  __Travel in interstate or foreign commerce__  __.—__ 
 
     The term “travel in interstate or foreign commerce” does not include travel from 1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
 
-    (10) __Dating partner.—__ 
+    (10)  __Dating partner__  __.—__ 
 
     The term “dating partner” refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser. The existence of such a relationship is based on a consideration of—
 

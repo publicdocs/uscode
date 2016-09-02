@@ -15,11 +15,11 @@
 
 ## § 3583. Inclusion of a term of supervised release after imprisonment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The court, in imposing a sentence to a term of imprisonment for a felony or a misdemeanor, may include as a part of the sentence a requirement that the defendant be placed on a term of supervised release after imprisonment, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b).
 
-    (b) __Authorized Terms of Supervised Release.—__ 
+    (b)  __Authorized Terms of Supervised Release__  __.—__ 
 
     Except as otherwise provided, the authorized terms of supervised release are—
 
@@ -29,11 +29,11 @@
 
         (3) for a Class E felony, or for a misdemeanor (other than a petty offense), not more than one year.
 
-    (c) __Factors To Be Considered in Including a Term of Supervised Release.—__ 
+    (c)  __Factors To Be Considered in Including a Term of Supervised Release__  __.—__ 
 
     The court, in determining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
 
-    (d) __Conditions of Supervised Release.—__ 
+    (d)  __Conditions of Supervised Release__  __.—__ 
 
     The court shall order, as an explicit condition of supervised release, that the defendant not commit another Federal, State, or local crime during the term of supervision and that the defendant not unlawfully possess a controlled substance. The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant. The court shall order, as an explicit condition of supervised release for a person required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act. The court shall order, as an explicit condition of supervised release, that the defendant cooperate in the collection of a DNA sample from the defendant, if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000. The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test. The court may order, as a further condition of supervised release, to the extent that such condition—
 
@@ -45,7 +45,7 @@
 
         any condition set forth as a discretionary condition of probation in section 3563(b) and any other condition it considers to be appropriate, provided, however that a condition set forth in subsection 3563(b)(10) shall be imposed only for a violation of a condition of supervised release in accordance with section 3583(e)(2) and only when facilities are available. If an alien defendant is subject to deportation, the court may provide, as a condition of supervised release, that he be deported and remain outside the United States, and may order that he be delivered to a duly authorized immigration official for such deportation. The court may order, as an explicit condition of supervised release for a person who is a felon and required to register under the Sex Offender Registration and Notification Act, that the person submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communications or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of supervised release or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer’s supervision functions.
 
-    (e) __Modification of Conditions or Revocation.—__ 
+    (e)  __Modification of Conditions or Revocation__  __.—__ 
 
     The court may, after considering the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7)—
 
@@ -57,11 +57,11 @@
 
         (4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under this paragraph may be imposed only as an alternative to incarceration.
 
-    (f) __Written Statement of Conditions.—__ 
+    (f)  __Written Statement of Conditions__  __.—__ 
 
     The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the term of supervised release is subject, and that is sufficiently clear and specific to serve as a guide for the defendant’s conduct and for such supervision as is required.
 
-    (g) __Mandatory Revocation for Possession of Controlled Substance or Firearm or for Refusal To Comply With Drug Testing.—__ 
+    (g)  __Mandatory Revocation for Possession of Controlled Substance or Firearm or for Refusal To Comply With Drug Testing__  __.—__ 
 
     If the defendant—
 
@@ -75,15 +75,15 @@
 
         the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
 
-    (h) __Supervised Release Following Revocation.—__ 
+    (h)  __Supervised Release Following Revocation__  __.—__ 
 
     When a term of supervised release is revoked and the defendant is required to serve a term of imprisonment, the court may include a requirement that the defendant be placed on a term of supervised release after imprisonment. The length of such a term of supervised release shall not exceed the term of supervised release authorized by statute for the offense that resulted in the original term of supervised release, less any term of imprisonment that was imposed upon revocation of supervised release.
 
-    (i) __Delayed Revocation.—__ 
+    (i)  __Delayed Revocation__  __.—__ 
 
     The power of the court to revoke a term of supervised release for violation of a condition of supervised release, and to order the defendant to serve a term of imprisonment and, subject to the limitations in subsection (h), a further term of supervised release, extends beyond the expiration of the term of supervised release for any period reasonably necessary for the adjudication of matters arising before its expiration if, before its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
-    (j) __Supervised Release Terms for Terrorism Predicates.—__ 
+    (j)  __Supervised Release Terms for Terrorism Predicates__  __.—__ 
 
     Notwithstanding subsection (b), the authorized term of supervised release for any offense listed in section 2332b(g)(5)(B) is any term of years or life.
 

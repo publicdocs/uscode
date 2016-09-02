@@ -15,11 +15,11 @@
 
 ## § 3148. Sanctions for violation of a release condition
 
-    (a) __Available Sanctions.—__ 
+    (a)  __Available Sanctions__  __.—__ 
 
     A person who has been released under [section 3142 of this title][/us/usc/t18/s3142], and who has violated a condition of his release, is subject to a revocation of release, an order of detention, and a prosecution for contempt of court.
 
-    (b) __Revocation of Release.—__ 
+    (b)  __Revocation of Release__  __.—__ 
 
     The attorney for the Government may initiate a proceeding for revocation of an order of release by filing a motion with the district court. A judicial officer may issue a warrant for the arrest of a person charged with violating a condition of release, and the person shall be brought before a judicial officer in the district in which such person’s arrest was ordered for a proceeding in accordance with this section. To the extent practicable, a person charged with violating the condition of release that such person not commit a Federal, State, or local crime during the period of release, shall be brought before the judicial officer who ordered the release and whose order is alleged to have been violated. The judicial officer shall enter an order of revocation and detention if, after a hearing, the judicial officer—
 
@@ -41,7 +41,7 @@
 
         If there is probable cause to believe that, while on release, the person committed a Federal, State, or local felony, a rebuttable presumption arises that no condition or combination of conditions will assure that the person will not pose a danger to the safety of any other person or the community. If the judicial officer finds that there are conditions of release that will assure that the person will not flee or pose a danger to the safety of any other person or the community, and that the person will abide by such conditions, the judicial officer shall treat the person in accordance with the provisions of [section 3142 of this title][/us/usc/t18/s3142] and may amend the conditions of release accordingly.
 
-    (c) __Prosecution for Contempt.—__ 
+    (c)  __Prosecution for Contempt__  __.—__ 
 
     The judicial officer may commence a prosecution for contempt, under [section 401 of this title][/us/usc/t18/s401], if the person has violated a condition of release.
 

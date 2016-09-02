@@ -15,7 +15,7 @@
 
 ## § 1831. Economic espionage
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever, intending or knowing that the offense will benefit any foreign government, foreign instrumentality, or foreign agent, knowingly—
 
@@ -31,7 +31,7 @@
 
         shall, except as provided in subsection (b), be fined not more than $5,000,000 or imprisoned not more than 15 years, or both.
 
-    (b) __Organizations.—__ 
+    (b)  __Organizations__  __.—__ 
 
     Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 

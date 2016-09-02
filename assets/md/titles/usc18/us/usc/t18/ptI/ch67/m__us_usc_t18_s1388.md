@@ -15,7 +15,7 @@
 
 ## § 1388. Prohibition on disruptions of funerals of members or former members of the Armed Forces
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     For any funeral of a member or former member of the Armed Forces that is not located at a cemetery under the control of the National Cemetery Administration or part of Arlington National Cemetery, it shall be unlawful for any person to engage in an activity during the period beginning 120 minutes before and ending 120 minutes after such funeral, any part of which activity—
 
@@ -57,13 +57,13 @@
 
             (B) with the intent of disturbing such peace.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Any person who violates subsection (a) shall be fined under this title or imprisoned for not more than 1 year, or both.
 
     (c) __Civil Remedies.—__ 
 
-        (1) __District courts.—__ 
+        (1)  __District courts__  __.—__ 
 
         The district courts of the United States shall have jurisdiction—
 
@@ -71,11 +71,11 @@
 
             (B) for the adjudication of any claims for relief under this section.
 
-        (2) __Attorney general.—__ 
+        (2)  __Attorney general__  __.—__ 
 
         The Attorney General may institute proceedings under this section.
 
-        (3) __Claims.—__ 
+        (3)  __Claims__  __.—__ 
 
         Any person, including a surviving member of the deceased person’s immediate family, who suffers injury as a result of conduct that violates this section may—
 
@@ -83,33 +83,33 @@
 
             (B) recover damages as provided in subsection (d) and the cost of the suit, including reasonable attorneys’ fees.
 
-        (4) __Estoppel.—__ 
+        (4)  __Estoppel__  __.—__ 
 
         A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this section shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by a person or by the United States.
 
     (d) __Actual and Statutory Damages.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In addition to any penalty imposed under subsection (b), a violator of this section is liable in an action under subsection (c) for actual or statutory damages as provided in this subsection.
 
-        (2) __Actions by private persons.—__ 
+        (2)  __Actions by private persons__  __.—__ 
 
         A person bringing an action under subsection (c)(3) may elect, at any time before final judgment is rendered, to recover the actual damages suffered by him or her as a result of the violation or, instead of actual damages, an award of statutory damages for each violation involved in the action.
 
-        (3) __Actions by attorney general.—__ 
+        (3)  __Actions by attorney general__  __.—__ 
 
         In any action under subsection (c)(2), the Attorney General is entitled to recover an award of statutory damages for each violation involved in the action notwithstanding any recovery under subsection (c)(3).
 
-        (4) __Statutory damages.—__ 
+        (4)  __Statutory damages__  __.—__ 
 
         A court may award, as the court considers just, statutory damages in a sum of not less than $25,000 or more than $50,000 per violation.
 
-    (e) __Rebuttable Presumption.—__ 
+    (e)  __Rebuttable Presumption__  __.—__ 
 
     It shall be a rebuttable presumption that the violation was committed willfully for purposes of determining relief under this section if the violator, or a person acting in concert with the violator, did not have reasonable grounds to believe, either from the attention or publicity sought by the violator or other circumstance, that the conduct of such violator or person would not disturb or tend to disturb the peace or good order of such funeral, impede or tend to impede the access to or egress from such funeral, or disturb or tend to disturb the peace of any surviving member of the deceased person’s immediate family who may be found on or near the residence, home, or domicile of the deceased person’s immediate family on the date of the service or ceremony.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -127,11 +127,11 @@
 
 [Pub. L. 112–154, title VI, § 601(a)][/us/pl/112/154/s601/a], Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195], provided that:
 
->     “(1) __Purpose.—__ 
+>     “(1)  __Purpose__  __.—__ 
 
 >     The purpose of this section \[amending this section and [section 2413 of Title 38][/us/usc/t38/s2413], Veterans’ Benefits\] is to provide necessary and proper support for the recruitment and retention of the Armed Forces and militia employed in the service of the United States by protecting the dignity of the service of the members of such Forces and militia, and by protecting the privacy of their immediate family members and other attendees during funeral services for such members.
 
->     “(2) __Constitutional authority.—__ 
+>     “(2)  __Constitutional authority__  __.—__ 
 
 >     Congress finds that this section is a necessary and proper exercise of its powers under the Constitution, article I, section 8, paragraphs 1, 12, 13, 14, 16, and 18, to provide for the common defense, raise and support armies, provide and maintain a navy, make rules for the government and regulation of the land and naval forces, and provide for organizing and governing such part of the militia as may be employed in the service of the United States.”
 

@@ -109,25 +109,25 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Determination of rates of basic pay.—__ 
+>         “(1)  __Determination of rates of basic pay__  __.—__ 
 
 >         Effective on the first day of the 1st pay period beginning 6 months after the date of enactment of this Act \[Dec. 21, 2000\], the Secretary of the Interior shall fix the rates of basic pay for officers and members of the United States Park Police, in accordance with this subsection.
 
 >         “(2) __Placement on revised salary schedule.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title V][/us/pl/85/584], Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485]\] (as amended by section 902(a)) in accordance with the member’s total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer’s or member’s salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
 
->             “(B) __Credit for increases during transition.—__ 
+>             “(B)  __Credit for increases during transition__  __.—__ 
 
 >             Each member whose position is to be converted to the salary schedule under section 501(b) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by subsection (a)) and who, prior to the effective date of this section \[set out below\] has earned, but has not been credited with, an increase in his or her rate of pay shall be afforded that increase before such member is placed in the corresponding service step in the salary schedule under section 501(b).
 
->             “(C) __Creditable service described.—__ 
+>             “(C)  __Creditable service described__  __.—__ 
 
 >             For purposes of this paragraph, an officer’s or member’s creditable service is any police service in pay status with the United States Secret Service Uniformed Division, United States Park Police, or Metropolitan Police Department.
 
->     “(b) __Hold Harmless for Current Total Compensation.—__ 
+>     “(b)  __Hold Harmless for Current Total Compensation__  __.—__ 
 
 >     Notwithstanding any other provision of law, if the total rate of compensation for an officer or employee for any pay period occurring after conversion to the salary schedule pursuant to subsection (a) (determined by taking into account any locality-based comparability adjustments, longevity pay, and other adjustments paid in addition to the rate of basic compensation) is less than the officer’s or employee’s total rate of compensation (as so determined) on the date of enactment \[Dec. 21, 2000\], the rate of compensation for the officer or employee for the pay period shall be equal to—
 
@@ -135,19 +135,19 @@
 
 >         “(2) a percentage equal to 50 percent of sum of the percentage adjustments made in the rate of basic compensation under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by subsection (a)) for pay periods occurring after the date of enactment and prior to the pay period involved.
 
->     “(c) __Conversion Not Treated as Transfer or Promotion.—__ 
+>     “(c)  __Conversion Not Treated as Transfer or Promotion__  __.—__ 
 
 >     The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title III][/us/pl/85/584], Aug. 1, 1958, [72 Stat. 484][/us/stat/72/484]\] (sec. 4–413, D.C. Code).
 
->     “(d) __Transfer of Credit for Satisfactory Service.—__ 
+>     “(d)  __Transfer of Credit for Satisfactory Service__  __.—__ 
 
 >     Each individual whose position is converted to the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 902(a)) in accordance with subsection (a) shall be granted credit for purposes of such individual’s first service step adjustment under the salary schedule in such section 501(c) for all satisfactory service performed by the individual since the individual’s last increase in basic pay prior to the adjustment under that section.
 
->     “(e) __Adjustment To Take Into Account General Schedule Adjustments During Transition.—__ 
+>     “(e)  __Adjustment To Take Into Account General Schedule Adjustments During Transition__  __.—__ 
 
 >     The rates provided under the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 902(a)) shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, which takes effect during the period which begins on the date of the enactment of this Act \[Dec. 21, 2000\] and ends on the first day of the first pay period beginning 6 months after the date of enactment of this Act.
 
->     “(f) __Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—__ 
+>     “(f)  __Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances__  __.—__ 
 
 >     The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 \[ch. 394, [63 Stat. 566][/us/stat/63/566]\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen’s Salary Act of 1953 \[[June 20, 1953, ch. 146][/us/act/1953-06-20/ch146], title III, [67 Stat. 75][/us/stat/67/75]\] (sec. 4–605, D.C. Code).”
 
@@ -163,25 +163,25 @@
 
 [Pub. L. 105–61, title I, § 118][/us/pl/105/61/s118], Oct. 10, 1997, [111 Stat. 1285][/us/stat/111/1285], as amended by [Pub. L. 111–282, § 4(b)(3)][/us/pl/111/282/s4/b/3], Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], provided that:
 
->     “(a) __New Rates of Basic Pay.—__ 
+>     “(a)  __New Rates of Basic Pay__  __.—__ 
 
 >     \[Amended [Pub. L. 85–584, title V, § 501][/us/pl/85/584/s501], Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485].\]
 
 >     “(b) __\[Repealed.__  __[__  __Pub. L. 111–282, § 4(b)(3)__  __][/us/pl/111/282/s4/b/3]__  __,__  __Oct. 15, 2010__  __,__  __[__  __124 Stat. 3043__  __][/us/stat/124/3043]__  __.\]__ 
 
->     “(c) __Limitation on Pay Period Earnings.—__ 
+>     “(c)  __Limitation on Pay Period Earnings__  __.—__ 
 
 >     \[Amended [act Aug. 15, 1950, ch. 715][/us/act/1950-08-15/ch715], [64 Stat. 477][/us/stat/64/477].\]
 
->     “(d) __Savings Provision.—__ 
+>     “(d)  __Savings Provision__  __.—__ 
 
 >     On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under [section 5305 of title 5][/us/usc/t5/s5305], United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[[Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, §§ 403–405\], [5 U.S.C. 5305][/us/usc/t5/s5305] note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
->     “(e) __Conforming Amendment.—__ 
+>     “(e)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, § 405\], set out as a note under [section 5305 of Title 5][/us/usc/t5/s5305], Government Organization and Employees.\]
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall become effective on the first day of the first pay period beginning after the date of enactment of this Act \[Oct. 10, 1997\].”
 

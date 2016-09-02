@@ -85,15 +85,15 @@
 
 [Pub. L. 100–690, title VI, § 6292][/us/pl/100/690/s6292], Nov. 18, 1988, [102 Stat. 4369][/us/stat/102/4369], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
 
->     “(b) __Design and Construction of Facilities.—__ 
+>     “(b)  __Design and Construction of Facilities__  __.—__ 
 
 >     The Director of the National Institute of Corrections shall design and construct facilities for the center.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     In addition to amounts otherwise authorized to be appropriated with respect to the National Institute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
 

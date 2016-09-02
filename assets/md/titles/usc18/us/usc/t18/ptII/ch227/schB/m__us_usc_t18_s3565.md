@@ -15,7 +15,7 @@
 
 ## § 3565. Revocation of probation
 
-    (a) __Continuation or Revocation.—__ 
+    (a)  __Continuation or Revocation__  __.—__ 
 
     If the defendant violates a condition of probation at any time prior to the expiration or termination of the term of probation, the court may, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, and after considering the factors set forth in section 3553(a) to the extent that they are applicable—
 
@@ -23,7 +23,7 @@
 
         (2) revoke the sentence of probation and resentence the defendant under subchapter A.
 
-    (b) __Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusal To Comply With Drug Testing.—__ 
+    (b)  __Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusal To Comply With Drug Testing__  __.—__ 
 
     If the defendant—
 
@@ -37,7 +37,7 @@
 
         the court shall revoke the sentence of probation and resentence the defendant under subchapter A to a sentence that includes a term of imprisonment.
 
-    (c) __Delayed Revocation.—__ 
+    (c)  __Delayed Revocation__  __.—__ 
 
     The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 

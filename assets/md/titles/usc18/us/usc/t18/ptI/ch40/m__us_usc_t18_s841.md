@@ -67,7 +67,7 @@
 
     (s) “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 
-    (t) __Indian Tribe__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __.—__ 
+    (t)  __Indian Tribe __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __.—__ 
 
     The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a][/us/usc/t25/s479a])). <sup>\[2\]</sup>  <sup><sup> 2 So in original. The second closing parenthesis probably should not appear. </sup></sup> 
 
@@ -137,7 +137,7 @@
 
 [Pub. L. 104–132, title VI, § 601][/us/pl/104/132/s601], Apr. 24, 1996, [110 Stat. 1287][/us/stat/110/1287], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -151,7 +151,7 @@
 
 >         “(5) for the purpose of deterring and detecting such unlawful acts, the Convention on the Marking of Plastic Explosives for the Purpose of Detection, Done at Montreal on 1 March 1991, requires each contracting State to adopt appropriate measures to ensure that plastic explosives are duly marked and controlled.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[amending this section, sections 842, 844, and 845 of this title, and [section 1595a of Title 19][/us/usc/t19/s1595a], Customs Duties, and enacting provisions set out as a note above\] is to fully implement the Convention on the Marking of Plastic Explosives for the Purpose of Detection, Done at Montreal on 1 March 1991.”
 

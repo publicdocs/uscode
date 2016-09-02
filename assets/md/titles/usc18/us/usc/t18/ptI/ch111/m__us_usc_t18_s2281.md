@@ -17,7 +17,7 @@
 
     (a) __Offenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who unlawfully and intentionally—
 
@@ -35,11 +35,11 @@
 
             shall be fined under this title, imprisoned not more than 20 years, or both; and if death results to any person from conduct prohibited by this paragraph, shall be punished by death or imprisoned for any term of years or for life.
 
-        (2) __Threat to safety.—__ 
+        (2)  __Threat to safety__  __.—__ 
 
         A person who threatens to do anything prohibited under paragraph (1)(B) or (C), with apparent determination and will to carry the threat into execution, if the threatened act is likely to endanger the safety of the fixed platform, shall be fined under this title, imprisoned not more than 5 years, or both.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the activity prohibited in subsection (a) if—
 
@@ -57,11 +57,11 @@
 
         (3) such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
 
-    (c) __Bar To Prosecution.—__ 
+    (c)  __Bar To Prosecution__  __.—__ 
 
     It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13(c)”. </sup></sup>  of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)][/us/usc/t29/s113/c]), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section—    “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea.
 

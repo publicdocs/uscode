@@ -15,15 +15,15 @@
 
 ## § 1122. Protection against the human immunodeficiency virus
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever, after testing positive for the Human Immunodeficiency Virus (HIV) and receiving actual notice of that fact, knowingly donates or sells, or knowingly attempts to donate or sell, blood, semen, tissues, organs, or other bodily fluids for use by another, except as determined necessary for medical research or testing, shall be fined or imprisoned in accordance with subsection (c).
 
-    (b) __Transmission Not Required.—__ 
+    (b)  __Transmission Not Required__  __.—__ 
 
     Transmission of the Human Immunodeficiency Virus does not have to occur for a person to be convicted of a violation of this section.
 
-    (c) __Penalty.—__ 
+    (c)  __Penalty__  __.—__ 
 
     Any person convicted of violating the provisions of subsection (a) shall be subject to a fine under this title of not less than $10,000, imprisoned for not less than 1 year nor more than 10 years, or both.
 

@@ -15,11 +15,11 @@
 
 ## § 1118. Murder by a Federal prisoner
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     A person who, while confined in a Federal correctional institution under a sentence for a term of life imprisonment, commits the murder of another shall be punished by death or by life imprisonment.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section—    “Federal correctional institution” means any Federal prison, Federal correctional facility, Federal community program center, or Federal halfway house.
 

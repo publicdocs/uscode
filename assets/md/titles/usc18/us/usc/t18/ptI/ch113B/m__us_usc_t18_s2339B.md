@@ -17,11 +17,11 @@
 
     (a) __Prohibited Activities.—__ 
 
-        (1) __Unlawful conduct.—__ 
+        (1)  __Unlawful conduct__  __.—__ 
 
         Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
-        (2) __Financial institutions.—__ 
+        (2)  __Financial institutions__  __.—__ 
 
         Except as authorized by the Secretary, any financial institution that becomes aware that it has possession of, or control over, any funds in which a foreign terrorist organization, or its agent, has an interest, shall—
 
@@ -29,7 +29,7 @@
 
             (B) report to the Secretary the existence of such funds in accordance with regulations issued by the Secretary.
 
-    (b) __Civil Penalty.—__ 
+    (b)  __Civil Penalty__  __.—__ 
 
     Any financial institution that knowingly fails to comply with subsection (a)(2) shall be subject to a civil penalty in an amount that is the greater of—
 
@@ -37,13 +37,13 @@
 
         (B) twice the amount of which the financial institution was required under subsection (a)(2) to retain possession or control.
 
-    (c) __Injunction.—__ 
+    (c)  __Injunction__  __.—__ 
 
     Whenever it appears to the Secretary or the Attorney General that any person is engaged in, or is about to engage in, any act that constitutes, or would constitute, a violation of this section, the Attorney General may initiate civil action in a district court of the United States to enjoin such violation.
 
-    (d) __Extraterritorial Jurisdiction.—__ 
+    (d)  __Extraterritorial Jurisdiction__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is jurisdiction over an offense under subsection (a) if—
 
@@ -59,17 +59,17 @@
 
             (F) an offender aids or abets any person over whom jurisdiction exists under this paragraph in committing an offense under subsection (a) or conspires with any person over whom jurisdiction exists under this paragraph to commit an offense under subsection (a).
 
-        (2) __Extraterritorial jurisdiction.—__ 
+        (2)  __Extraterritorial jurisdiction__  __.—__ 
 
         There is extraterritorial Federal jurisdiction over an offense under this section.
 
     (e) __Investigations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Attorney General shall conduct any investigation of a possible violation of this section, or of any license, order, or regulation issued pursuant to this section.
 
-        (2) __Coordination with the department of the treasury.—__ 
+        (2)  __Coordination with the department of the treasury__  __.—__ 
 
         The Attorney General shall work in coordination with the Secretary in investigations relating to—
 
@@ -77,7 +77,7 @@
 
             (B) civil penalty proceedings authorized under subsection (b).
 
-        (3) __Referral.—__ 
+        (3)  __Referral__  __.—__ 
 
         Any evidence of a criminal violation of this section arising in the course of an investigation by the Secretary or any other Federal agency shall be referred immediately to the Attorney General for further investigation. The Attorney General shall timely notify the Secretary of any action taken on referrals from the Secretary, and may refer investigations to the Secretary for remedial licensing or civil penalty action.
 
@@ -85,7 +85,7 @@
 
         (1) __Discovery of classified information by defendants.—__ 
 
-            (A) __Request by united states.—__ 
+            (A)  __Request by united states__  __.—__ 
 
             In any civil proceeding under this section, upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may authorize the United States to—
 
@@ -95,17 +95,17 @@
 
                 (iii) substitute a statement admitting relevant facts that the classified information would tend to prove.
 
-            (B) __Order granting request.—__ 
+            (B)  __Order granting request__  __.—__ 
 
             If the court enters an order granting a request under this paragraph, the entire text of the documents to which the request relates shall be sealed and preserved in the records of the court to be made available to the appellate court in the event of an appeal.
 
-            (C) __Denial of request.—__ 
+            (C)  __Denial of request__  __.—__ 
 
             If the court enters an order denying a request of the United States under this paragraph, the United States may take an immediate, interlocutory appeal in accordance with paragraph (5). For purposes of such an appeal, the entire text of the documents to which the request relates, together with any transcripts of arguments made ex parte to the court in connection therewith, shall be maintained under seal and delivered to the appellate court.
 
         (2) __Introduction of classified information; precautions by court.—__ 
 
-            (A) __Exhibits.—__ 
+            (A)  __Exhibits__  __.—__ 
 
             To prevent unnecessary or inadvertent disclosure of classified information in a civil proceeding brought by the United States under this section, the United States may petition the court ex parte to admit, in lieu of classified writings, recordings, or photographs, one or more of the following:
 
@@ -115,17 +115,17 @@
 
                 (iii) A declassified summary of the specific classified information.
 
-            (B) __Determination by court.—__ 
+            (B)  __Determination by court__  __.—__ 
 
             The court shall grant a request under this paragraph if the court finds that the redacted item, stipulation, or summary is sufficient to allow the defendant to prepare a defense.
 
         (3) __Taking of trial testimony.—__ 
 
-            (A) __Objection.—__ 
+            (A)  __Objection__  __.—__ 
 
             During the examination of a witness in any civil proceeding brought by the United States under this subsection, the United States may object to any question or line of inquiry that may require the witness to disclose classified information not previously found to be admissible.
 
-            (B) __Action by court.—__ 
+            (B)  __Action by court__  __.—__ 
 
             In determining whether a response is admissible, the court shall take precautions to guard against the compromise of any classified information, including—
 
@@ -133,17 +133,17 @@
 
                 (ii) requiring the defendant to provide the court with a proffer of the nature of the information that the defendant seeks to elicit.
 
-            (C) __Obligation of defendant.—__ 
+            (C)  __Obligation of defendant__  __.—__ 
 
             In any civil proceeding under this section, it shall be the defendant’s obligation to establish the relevance and materiality of any classified information sought to be introduced.
 
-        (4) __Appeal.—__ 
+        (4)  __Appeal__  __.—__ 
 
         If the court enters an order denying a request of the United States under this subsection, the United States may take an immediate interlocutory appeal in accordance with paragraph (5).
 
         (5) __Interlocutory appeal.—__ 
 
-            (A) __Subject of appeal.—__ 
+            (A)  __Subject of appeal__  __.—__ 
 
             An interlocutory appeal by the United States shall lie to a court of appeals from a decision or order of a district court—
 
@@ -155,15 +155,15 @@
 
             (B) __Expedited consideration.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 An appeal taken pursuant to this paragraph, either before or during trial, shall be expedited by the court of appeals.
 
-                (ii) __Appeals prior to trial.—__ 
+                (ii)  __Appeals prior to trial__  __.—__ 
 
                 If an appeal is of an order made prior to trial, an appeal shall be taken not later than 14 days after the decision or order appealed from, and the trial shall not commence until the appeal is resolved.
 
-                (iii) __Appeals during trial.—__ 
+                (iii)  __Appeals during trial__  __.—__ 
 
                 If an appeal is taken during trial, the trial court shall adjourn the trial until the appeal is resolved, and the court of appeals—
 
@@ -175,15 +175,15 @@
 
                     (IV) may dispense with the issuance of a written opinion in rendering its decision.
 
-            (C) __Effect of ruling.—__ 
+            (C)  __Effect of ruling__  __.—__ 
 
             An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
-        (6) __Construction.—__ 
+        (6)  __Construction__  __.—__ 
 
         Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States to protect against the disclosure of classified information, including the invocation of the military and State secrets privilege.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     As used in this section—
 
@@ -199,15 +199,15 @@
 
         (6) the term “terrorist organization” means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
 
-    (h) __Provision of Personnel.—__ 
+    (h)  __Provision of Personnel__  __.—__ 
 
     No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization’s direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization’s direction and control.
 
-    (i) __Rule of Construction.—__ 
+    (i)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
 
-    (j) __Exception.—__ 
+    (j)  __Exception__  __.—__ 
 
     No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
@@ -251,7 +251,7 @@
 
 [Pub. L. 104–132, title III, § 301][/us/pl/104/132/s301], Apr. 24, 1996, [110 Stat. 1247][/us/stat/110/1247], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -269,7 +269,7 @@
 
 >         “(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this subtitle \[subtitle A (§§ 301–303) of title III of [Pub. L. 104–132][/us/pl/104/132], enacting this section and [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities.”
 

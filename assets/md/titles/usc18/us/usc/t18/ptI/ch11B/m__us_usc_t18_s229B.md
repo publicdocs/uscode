@@ -15,7 +15,7 @@
 
 ## § 229B. Criminal forfeitures; destruction of weapons
 
-    (a) __Property Subject to Criminal Forfeiture.—__ 
+    (a)  __Property Subject to Criminal Forfeiture__  __.—__ 
 
     Any person convicted under section 229A(a) shall forfeit to the United States irrespective of any provision of State law—
 
@@ -29,7 +29,7 @@
 
     (b) __Procedures.—__ 
 
-        (1) __General.—__ 
+        (1)  __General__  __.—__ 
 
         Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]), except that any reference under those subsections to—
 
@@ -39,19 +39,19 @@
 
         (2) __Temporary restraining orders.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For the purposes of forfeiture proceedings under this section, a temporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(e)(2)][/us/usc/t21/s853/e/2]), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
 
-            (B) __Warrant of seizure.—__ 
+            (B)  __Warrant of seizure__  __.—__ 
 
             If the court enters a temporary restraining order under this paragraph, it shall also issue a warrant authorizing the seizure of such property.
 
-            (C) __Applicable procedures.—__ 
+            (C)  __Applicable procedures__  __.—__ 
 
             The procedures and time limits applicable to temporary restraining orders under section 413(e)(2) and (3) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(e)(2)][/us/usc/t21/s853/e/2] and (3)) shall apply to temporary restraining orders under this paragraph.
 
-    (c) __Affirmative Defense.—__ 
+    (c)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense against a forfeiture under subsection (b) that the property—
 
@@ -59,15 +59,15 @@
 
         (2) is of a type and quantity that under the circumstances is consistent with that purpose.
 
-    (d) __Destruction or Other Disposition.—__ 
+    (d)  __Destruction or Other Disposition__  __.—__ 
 
     The Attorney General shall provide for the destruction or other appropriate disposition of any chemical weapon seized and forfeited pursuant to this section.
 
-    (e) __Assistance.—__ 
+    (e)  __Assistance__  __.—__ 
 
     The Attorney General may request the head of any agency of the United States to assist in the handling, storage, transportation, or destruction of property seized under this section.
 
-    (f) __Owner Liability.—__ 
+    (f)  __Owner Liability__  __.—__ 
 
     The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
 

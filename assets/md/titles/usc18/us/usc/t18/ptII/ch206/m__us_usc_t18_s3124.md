@@ -15,27 +15,27 @@
 
 ## § 3124. Assistance in installation and use of a pen register or a trap and trace device
 
-    (a) __Pen Registers.—__ 
+    (a)  __Pen Registers__  __.—__ 
 
     Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in [section 3123(b)(2) of this title][/us/usc/t18/s3123/b/2].
 
-    (b) __Trap and Trace Device.—__ 
+    (b)  __Trap and Trace Device__  __.—__ 
 
     Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to receive the results of a trap and trace device under this chapter, a provider of a wire or electronic communication service, landlord, custodian, or other person shall install such device forthwith on the appropriate line or other facility and shall furnish such investigative or law enforcement officer all additional information, facilities and technical assistance including installation and operation of the device unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such installation and assistance is directed by a court order as provided in [section 3123(b)(2) of this title][/us/usc/t18/s3123/b/2]. Unless otherwise ordered by the court, the results of the trap and trace device shall be furnished, pursuant to section 3123(b) or [section 3125 of this title][/us/usc/t18/s3125], to the officer of a law enforcement agency, designated in the court order, at reasonable intervals during regular business hours for the duration of the order.
 
-    (c) __Compensation.—__ 
+    (c)  __Compensation__  __.—__ 
 
     A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
 
-    (d) __No Cause of Action Against a Provider Disclosing Information Under This Chapter.—__ 
+    (d)  __No Cause of Action Against a Provider Disclosing Information Under This Chapter__  __.—__ 
 
     No cause of action shall lie in any court against any provider of a wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with a court order under this chapter or request pursuant to [section 3125 of this title][/us/usc/t18/s3125].
 
-    (e) __Defense.—__ 
+    (e)  __Defense__  __.—__ 
 
     A good faith reliance on a court order under this chapter, a request pursuant to [section 3125 of this title][/us/usc/t18/s3125], a legislative authorization, or a statutory authorization is a complete defense against any civil or criminal action brought under this chapter or any other law.
 
-    (f) __Communications Assistance Enforcement Orders.—__ 
+    (f)  __Communications Assistance Enforcement Orders__  __.—__ 
 
     Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 

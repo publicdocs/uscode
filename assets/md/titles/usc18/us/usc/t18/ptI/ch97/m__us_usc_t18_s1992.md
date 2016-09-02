@@ -15,7 +15,7 @@
 
 ## § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air
 
-    (a) __General Prohibitions.—__ 
+    (a)  __General Prohibitions__  __.—__ 
 
     Whoever, in a circumstance described in subsection (c), knowingly and without lawful authority or permission—
 
@@ -47,7 +47,7 @@
 
         shall be fined under this title or imprisoned not more than 20 years, or both, and if the offense results in the death of any person, shall be imprisoned for any term of years or for life, or subject to death, except in the case of a violation of paragraph (8), (9), or (10).
 
-    (b) __Aggravated Offense.—__ 
+    (b)  __Aggravated Offense__  __.—__ 
 
     Whoever commits an offense under subsection (a) of this section in a circumstance in which—
 
@@ -65,7 +65,7 @@
 
         shall be fined under this title or imprisoned for any term of years or life, or both, and if the offense resulted in the death of any person, the person may be sentenced to death.
 
-    (c) __Circumstances Required for Offense.—__ 
+    (c)  __Circumstances Required for Offense__  __.—__ 
 
     A circumstance referred to in subsection (a) is any of the following:
 
@@ -73,7 +73,7 @@
 
         (2) Any person travels or communicates across a State line in order to commit the offense, or transports materials across a State line in aid of the commission of the offense.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section—
 

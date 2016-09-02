@@ -17,23 +17,23 @@
 
     (a) __Offenses.—__ 
 
-        (1) __Sale.—__ 
+        (1)  __Sale__  __.—__ 
 
         Whoever, in or affecting interstate or foreign commerce, knowingly sells a traffic signal preemption transmitter to a nonqualifying user shall be fined under this title, or imprisoned not more than 1 year, or both.
 
-        (2) __Use.—__ 
+        (2)  __Use__  __.—__ 
 
         Whoever, in or affecting interstate or foreign commerce, being a nonqualifying user makes unauthorized use of a traffic signal preemption transmitter shall be fined under this title, or imprisoned not more than 6 months, or both.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Traffic signal preemption transmitter.—__ 
+        (1)  __Traffic signal preemption transmitter__  __.—__ 
 
         The term “traffic signal preemption transmitter” means any mechanism that can change or alter a traffic signal’s phase time or sequence.
 
-        (2) __Nonqualifying user.—__ 
+        (2)  __Nonqualifying user__  __.—__ 
 
         The term “nonqualifying user” means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to provide fire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
 

@@ -23,21 +23,21 @@
 
     (b) __Transfer to Unregistered Person.—__ 
 
-        (1) __Select agents.—__ 
+        (1)  __Select agents__  __.—__ 
 
         Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
-        (2) __Certain other biological agents and toxins.—__ 
+        (2)  __Certain other biological agents and toxins__  __.—__ 
 
         Whoever transfers a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
     (c) __Unregistered for Possession.—__ 
 
-        (1) __Select agents.—__ 
+        (1)  __Select agents__  __.—__ 
 
         Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a select agent for which such person has not obtained a registration required by regulations under section 351A(c) of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
-        (2) __Certain other biological agents and toxins.—__ 
+        (2)  __Certain other biological agents and toxins__  __.—__ 
 
         Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 for which such person has not obtained a registration required by regulations under section 212(c) of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 

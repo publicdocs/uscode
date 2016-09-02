@@ -15,7 +15,7 @@
 
 ## § 176. Seizure, forfeiture, and destruction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -27,11 +27,11 @@
 
         (2) In exigent circumstances, seizure and destruction of any biological agent, toxin, or delivery system described in subparagraphs (A) and (B) of paragraph (1) may be made upon probable cause without the necessity for a warrant.
 
-    (b) __Procedure.—__ 
+    (b)  __Procedure__  __.—__ 
 
     Property seized pursuant to subsection (a) shall be forfeited to the United States after notice to potential claimants and an opportunity for a hearing. At such hearing, the Government shall bear the burden of persuasion by a preponderance of the evidence. Except as inconsistent herewith, the same procedures and provisions of law relating to a forfeiture under the customs laws shall extend to a seizure or forfeiture under this section. The Attorney General may provide for the destruction or other appropriate disposition of any biological agent, toxin, or delivery system seized and forfeited pursuant to this section.
 
-    (c) __Affirmative Defense.—__ 
+    (c)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense against a forfeiture under subsection (a)(1)(B) of this section that—
 

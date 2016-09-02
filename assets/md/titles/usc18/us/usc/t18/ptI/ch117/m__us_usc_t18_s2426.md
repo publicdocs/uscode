@@ -15,11 +15,11 @@
 
 ## § 2426. Repeat offenders
 
-    (a) __Maximum Term of Imprisonment.—__ 
+    (a)  __Maximum Term of Imprisonment__  __.—__ 
 
     The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term of imprisonment otherwise provided by this chapter, unless section 3559(e) applies.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section—
 

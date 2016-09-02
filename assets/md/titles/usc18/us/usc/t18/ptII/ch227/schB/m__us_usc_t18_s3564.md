@@ -15,23 +15,23 @@
 
 ## § 3564. Running of a term of probation
 
-    (a) __Commencement.—__ 
+    (a)  __Commencement__  __.—__ 
 
     A term of probation commences on the day that the sentence of probation is imposed, unless otherwise ordered by the court.
 
-    (b) __Concurrence With Other Sentences.—__ 
+    (b)  __Concurrence With Other Sentences__  __.—__ 
 
     Multiple terms of probation, whether imposed at the same time or at different times, run concurrently with each other. A term of probation runs concurrently with any Federal, State, or local term of probation, supervised release, or parole for another offense to which the defendant is subject or becomes subject during the term of probation. A term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days.
 
-    (c) __Early Termination.—__ 
+    (c)  __Early Termination__  __.—__ 
 
     The court, after considering the factors set forth in section 3553(a) to the extent that they are applicable, may, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation, terminate a term of probation previously ordered and discharge the defendant at any time in the case of a misdemeanor or an infraction or at any time after the expiration of one year of probation in the case of a felony, if it is satisfied that such action is warranted by the conduct of the defendant and the interest of justice.
 
-    (d) __Extension.—__ 
+    (d)  __Extension__  __.—__ 
 
     The court may, after a hearing, extend a term of probation, if less than the maximum authorized term was previously imposed, at any time prior to the expiration or termination of the term of probation, pursuant to the provisions applicable to the initial setting of the term of probation.
 
-    (e) __Subject to Revocation.—__ 
+    (e)  __Subject to Revocation__  __.—__ 
 
     A sentence of probation remains conditional and subject to revocation until its expiration or termination.
 

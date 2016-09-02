@@ -15,19 +15,19 @@
 
 ## § 3552. Presentence reports
 
-    (a) __Presentence Investigation and Report by Probation Officer.—__ 
+    (a)  __Presentence Investigation and Report by Probation Officer__  __.—__ 
 
     A United States probation officer shall make a presentence investigation of a defendant that is required pursuant to the provisions of Rule 32(c) of the Federal Rules of Criminal Procedure, and shall, before the imposition of sentence, report the results of the investigation to the court.
 
-    (b) __Presentence Study and Report by Bureau of Prisons.—__ 
+    (b)  __Presentence Study and Report by Bureau of Prisons__  __.—__ 
 
     If the court, before or after its receipt of a report specified in subsection (a) or (c), desires more information than is otherwise available to it as a basis for determining the sentence to be imposed on a defendant found guilty of a misdemeanor or felony, it may order a study of the defendant. The study shall be conducted in the local community by qualified consultants unless the sentencing judge finds that there is a compelling reason for the study to be done by the Bureau of Prisons or there are no adequate professional resources available in the local community to perform the study. The period of the study shall be no more than sixty days. The order shall specify the additional information that the court needs before determining the sentence to be imposed. Such an order shall be treated for administrative purposes as a provisional sentence of imprisonment for the maximum term authorized by section 3581(b) for the offense committed. The study shall inquire into such matters as are specified by the court and any other matters that the Bureau of Prisons or the professional consultants believe are pertinent to the factors set forth in section 3553(a). The period of the study may, in the discretion of the court, be extended for an additional period of not more than sixty days. By the expiration of the period of the study, or by the expiration of any extension granted by the court, the United States marshal shall, if the defendant is in custody, return the defendant to the court for final sentencing. The Bureau of Prisons or the professional consultants shall provide the court with a written report of the pertinent results of the study and make to the court whatever recommendations the Bureau or the consultants believe will be helpful to a proper resolution of the case. The report shall include recommendations of the Bureau or the consultants concerning the guidelines and policy statements, promulgated by the Sentencing Commission pursuant to [28 U.S.C. 994(a)][/us/usc/t28/s994/a], that they believe are applicable to the defendant’s case. After receiving the report and the recommendations, the court shall proceed finally to sentence the defendant in accordance with the sentencing alternatives and procedures available under this chapter.
 
-    (c) __Presentence Examination and Report by Psychiatric or Psychological Examiners.—__ 
+    (c)  __Presentence Examination and Report by Psychiatric or Psychological Examiners__  __.—__ 
 
     If the court, before or after its receipt of a report specified in subsection (a) or (b) desires more information than is otherwise available to it as a basis for determining the mental condition of the defendant, the court may order the same psychiatric or psychological examination and report thereon as may be ordered under [section 4244(b) of this title][/us/usc/t18/s4244/b].
 
-    (d) __Disclosure of Presentence Reports.—__ 
+    (d)  __Disclosure of Presentence Reports__  __.—__ 
 
     The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
 
@@ -59,11 +59,11 @@
 
 [Pub. L. 104–294, title V, § 501][/us/pl/104/294/s501], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497], provided that:
 
->     “(a) __Information.—__ 
+>     “(a)  __Information__  __.—__ 
 
 >     The Administrative Office of the United States courts shall establish policies and procedures for the inclusion in all presentence reports of information that specifically identifies and describes any use of encryption or scrambling technology that would be relevant to an enhancement under section 3C1.1 (dealing with Obstructing or Impeding the Administration of Justice) of the Sentencing Guidelines or to offense conduct under the Sentencing Guidelines.
 
->     “(b) __Compiling and Report.—__ 
+>     “(b)  __Compiling and Report__  __.—__ 
 
 >     The United States Sentencing Commission shall—
 

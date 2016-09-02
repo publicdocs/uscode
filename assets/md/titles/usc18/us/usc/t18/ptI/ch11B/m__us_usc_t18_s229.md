@@ -15,7 +15,7 @@
 
 ## § 229. Prohibited activities
 
-    (a) __Unlawful Conduct.—__ 
+    (a)  __Unlawful Conduct__  __.—__ 
 
     Except as provided in subsection (b), it shall be unlawful for any person knowingly—
 
@@ -25,11 +25,11 @@
 
     (b) __Exempted Agencies and Persons.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subsection (a) does not apply to the retention, ownership, possession, transfer, or receipt of a chemical weapon by a department, agency, or other entity of the United States, or by a person described in paragraph (2), pending destruction of the weapon.
 
-        (2) __Exempted persons.—__ 
+        (2)  __Exempted persons__  __.—__ 
 
         A person referred to in paragraph (1) is—
 
@@ -37,7 +37,7 @@
 
             (B) in an emergency situation, any otherwise nonculpable person if the person is attempting to destroy or seize the weapon.
 
-    (c) __Jurisdiction.—__ 
+    (c)  __Jurisdiction__  __.—__ 
 
     Conduct prohibited by subsection (a) is within the jurisdiction of the United States if the prohibited conduct—
 

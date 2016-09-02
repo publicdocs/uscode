@@ -165,19 +165,19 @@
 
     (e) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
 
-    (f) __Attempt and Conspiracy.—__ 
+    (f)  __Attempt and Conspiracy__  __.—__ 
 
     Any person who attempts or conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-    (g) __Forfeiture Procedures.—__ 
+    (g)  __Forfeiture Procedures__  __.—__ 
 
     The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]).
 
-    (h) __Forfeiture; Disposition.—__ 
+    (h)  __Forfeiture; Disposition__  __.—__ 
 
     In the circumstance in which any person is convicted of a violation of subsection (a), the court shall order, in addition to the penalty prescribed, the forfeiture and destruction or other disposition of all illicit authentication features, identification documents, document-making implements, or means of identification.
 
-    (i) __Rule of Construction.—__ 
+    (i)  __Rule of Construction__  __.—__ 
 
     For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
@@ -307,25 +307,25 @@
 
 [Pub. L. 106–578, § 2][/us/pl/106/578/s2], Dec. 28, 2000, [114 Stat. 3075][/us/stat/114/3075], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General and the Secretary of the Treasury shall establish a coordinating committee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) \[now 1028(d)(4)\] of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The coordinating committee shall consist of the Director of the United States Secret Service, the Director of the Federal Bureau of Investigation, the Attorney General, the Commissioner of Social Security, and the Commissioner of Immigration and Naturalization, or their respective designees.
 
->     “(c) __Term.—__ 
+>     “(c)  __Term__  __.—__ 
 
 >     The coordinating committee shall terminate 2 years after the effective date of this Act \[see Effective Date of 2000 Amendment note above\].
 
 >     “(d) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General and the Secretary of the Treasury, at the end of each year of the existence of the committee, shall report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on the activities of the committee.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report referred to in paragraph (1) shall include—
 
@@ -355,7 +355,7 @@
 
 [Pub. L. 105–318, § 5][/us/pl/105/318/s5], Oct. 30, 1998, [112 Stat. 3010][/us/stat/112/3010], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 30, 1998\], the Federal Trade Commission shall establish procedures to—
 
@@ -371,7 +371,7 @@
 
 >             “(B) appropriate law enforcement agencies for potential law enforcement action.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 

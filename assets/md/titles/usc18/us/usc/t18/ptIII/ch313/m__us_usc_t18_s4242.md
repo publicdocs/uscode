@@ -15,11 +15,11 @@
 
 ## § 4242. Determination of the existence of insanity at the time of the offense
 
-    (a) __Motion for Pretrial Psychiatric or Psychological Examination.—__ 
+    (a)  __Motion for Pretrial Psychiatric or Psychological Examination__  __.—__ 
 
     Upon the filing of a notice, as provided in Rule 12.2 of the Federal Rules of Criminal Procedure, that the defendant intends to rely on the defense of insanity, the court, upon motion of the attorney for the Government, shall order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
-    (b) __Special Verdict.—__ 
+    (b)  __Special Verdict__  __.—__ 
 
     If the issue of insanity is raised by notice as provided in Rule 12.2 of the Federal Rules of Criminal Procedure on motion of the defendant or of the attorney for the Government, or on the court’s own motion, the jury shall be instructed to find, or, in the event of a nonjury trial, the court shall find the defendant—
 

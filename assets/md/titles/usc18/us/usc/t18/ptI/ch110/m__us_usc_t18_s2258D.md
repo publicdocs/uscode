@@ -15,11 +15,11 @@
 
 ## § 2258D. Limited liability for the National Center for Missing and Exploited Children
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsections (b) and (c), a civil claim or criminal charge against the National Center for Missing and Exploited Children, including any director, officer, employee, or agent of such center, arising from the performance of the CyberTipline responsibilities or functions of such center, as described in this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ([42 U.S.C. 5773][/us/usc/t42/s5773]), or from the effort of such center to identify child victims may not be brought in any Federal or State court.
 
-    (b) __Intentional, Reckless, or Other Misconduct.—__ 
+    (b)  __Intentional, Reckless, or Other Misconduct__  __.—__ 
 
     Subsection (a) shall not apply to a claim or charge if the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of such center—
 
@@ -35,11 +35,11 @@
 
             (C) for a purpose unrelated to the performance of any responsibility or function under this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ([42 U.S.C. 5773][/us/usc/t42/s5773]).
 
-    (c) __Ordinary Business Activities.—__ 
+    (c)  __Ordinary Business Activities__  __.—__ 
 
     Subsection (a) shall not apply to an act or omission relating to an ordinary business activity, including general administration or operations, the use of motor vehicles, or personnel management.
 
-    (d) __Minimizing Access.—__ 
+    (d)  __Minimizing Access__  __.—__ 
 
     The National Center for Missing and Exploited Children shall—
 

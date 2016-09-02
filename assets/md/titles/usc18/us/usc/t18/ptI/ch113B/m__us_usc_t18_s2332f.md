@@ -17,7 +17,7 @@
 
     (a) __Offenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever unlawfully delivers, places, discharges, or detonates an explosive or other lethal device in, into, or against a place of public use, a state or government facility, a public transportation system, or an infrastructure facility—
 
@@ -27,11 +27,11 @@
 
             shall be punished as prescribed in subsection (c).
 
-        (2) __Attempts and conspiracies.—__ 
+        (2)  __Attempts and conspiracies__  __.—__ 
 
         Whoever attempts or conspires to commit an offense under paragraph (1) shall be punished as prescribed in subsection (c).
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the offenses in subsection (a) if—
 
@@ -77,11 +77,11 @@
 
             (G) the offense is committed on board an aircraft which is operated by the United States.
 
-    (c) __Penalties.—__ 
+    (c)  __Penalties__  __.—__ 
 
     Whoever violates this section shall be punished as provided under [section 2332a(a) of this title][/us/usc/t18/s2332a/a].
 
-    (d) __Exemptions to Jurisdiction.—__ 
+    (d)  __Exemptions to Jurisdiction__  __.—__ 
 
     This section does not apply to—
 
@@ -91,7 +91,7 @@
 
         (3) offenses committed within the United States, where the alleged offender and the victims are United States citizens and the alleged offender is found in the United States, or where jurisdiction is predicated solely on the nationality of the victims or the alleged offender and the offense has no substantial effect on interstate or foreign commerce.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     As used in this section, the term—
 

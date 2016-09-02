@@ -221,33 +221,33 @@
 
         (1) __In general.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For the purpose of a forfeiture under this section or under the Controlled Substances Act ([21 U.S.C. 801][/us/usc/t21/s801] et seq.), if funds are deposited into an account at a foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]), and that foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) has an interbank account in the United States with a covered financial institution (as defined in [section 5318(j)(1) of title 31][/us/usc/t31/s5318/j/1]), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]), may be restrained, seized, or arrested.
 
-            (B) __Authority to suspend.—__ 
+            (B)  __Authority to suspend__  __.—__ 
 
             The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
 
-        (2) __No requirement for government to trace funds.—__ 
+        (2)  __No requirement for government to trace funds__  __.—__ 
 
         If a forfeiture action is brought against funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]), nor shall it be necessary for the Government to rely on the application of section 984.
 
-        (3) __Claims brought by owner of the funds.—__ 
+        (3)  __Claims brought by owner of the funds__  __.—__ 
 
         If a forfeiture action is instituted against funds restrained, seized, or arrested under paragraph (1), the owner of the funds deposited into the account at the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) may contest the forfeiture by filing a claim under section 983.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         For purposes of this subsection, the following definitions shall apply:
 
-            (A) __Interbank account.—__ 
+            (A)  __Interbank account__  __.—__ 
 
             The term “interbank account” has the same meaning as in section 984(c)(2)(B).
 
             (B) __Owner.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), the term “owner”—
 
@@ -255,7 +255,7 @@
 
                     (II) does not include either the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) or any financial institution acting as an intermediary in the transfer of the funds into the interbank account.
 
-                (ii) __Exception.—__ 
+                (ii)  __Exception__  __.—__ 
 
                 The foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) may be considered the “owner” of the funds (and no other person shall qualify as the owner of such funds) only if—
 

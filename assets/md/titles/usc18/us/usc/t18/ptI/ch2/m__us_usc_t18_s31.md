@@ -15,23 +15,23 @@
 
 ## § 31. Definitions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter, the following definitions apply:
 
-        (1) __Aircraft.—__ 
+        (1)  __Aircraft__  __.—__ 
 
         The term “aircraft” means a civil, military, or public contrivance invented, used, or designed to navigate, fly, or travel in the air.
 
-        (2) __Aviation quality.—__ 
+        (2)  __Aviation quality__  __.—__ 
 
         The term “aviation quality”, with respect to a part of an aircraft or space vehicle, means the quality of having been manufactured, constructed, produced, maintained, repaired, overhauled, rebuilt, reconditioned, or restored in conformity with applicable standards specified by law (including applicable regulations).
 
-        (3) __Destructive substance.—__ 
+        (3)  __Destructive substance__  __.—__ 
 
         The term “destructive substance” means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature.
 
-        (4) __In flight.—__ 
+        (4)  __In flight__  __.—__ 
 
         The term “in flight” means—
 
@@ -39,7 +39,7 @@
 
             (B) in the case of a forced landing, until competent authorities take over the responsibility for the aircraft and the persons and property on board.
 
-        (5) __In service.—__ 
+        (5)  __In service__  __.—__ 
 
         The term “in service” means—
 
@@ -47,27 +47,27 @@
 
             (B) in any event includes the entire period during which the aircraft is in flight.
 
-        (6) __Motor vehicle.—__ 
+        (6)  __Motor vehicle__  __.—__ 
 
         The term “motor vehicle” means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo.
 
-        (7) __Part.—__ 
+        (7)  __Part__  __.—__ 
 
         The term “part” means a frame, assembly, component, appliance, engine, propeller, material, part, spare part, piece, section, or related integral or auxiliary equipment.
 
-        (8) __Space vehicle.—__ 
+        (8)  __Space vehicle__  __.—__ 
 
         The term “space vehicle” means a man-made device, either manned or unmanned, designed for operation beyond the Earth’s atmosphere.
 
-        (9) __State.—__ 
+        (9)  __State__  __.—__ 
 
         The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-        (10) __Used for commercial purposes.—__ 
+        (10)  __Used for commercial purposes__  __.—__ 
 
         The term “used for commercial purposes” means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
 
-    (b) __Terms Defined in Other Law.—__ 
+    (b)  __Terms Defined in Other Law__  __.—__ 
 
     In this chapter, the terms “aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part”, and “special aircraft jurisdiction of the United States” have the meanings given those terms in sections 40102(a) and 46501 of title 49.
 

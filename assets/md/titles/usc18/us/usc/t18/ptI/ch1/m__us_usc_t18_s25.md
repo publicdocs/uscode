@@ -15,23 +15,23 @@
 
 ## § 25. Use of minors in crimes of violence
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions shall apply:
 
-        (1) __Crime of violence.—__ 
+        (1)  __Crime of violence__  __.—__ 
 
         The term “crime of violence” has the meaning set forth in section 16.
 
-        (2) __Minor.—__ 
+        (2)  __Minor__  __.—__ 
 
         The term “minor” means a person who has not reached 18 years of age.
 
-        (3) __Uses.—__ 
+        (3)  __Uses__  __.—__ 
 
         The term “uses” means employs, hires, persuades, induces, entices, or coerces.
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     Any person who is 18 years of age or older, who intentionally uses a minor to commit a crime of violence for which such person may be prosecuted in a court of the United States, or to assist in avoiding detection or apprehension for such an offense, shall—
 

@@ -179,11 +179,11 @@
 
 [Pub. L. 99–508, title I, § 111][/us/pl/99/508/s111], Oct. 21, 1986, [100 Stat. 1859][/us/stat/100/1859], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b) or (c), this title and the amendments made by this title \[enacting sections 2521 and 3117 of this title, amending this section and sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 21, 1986\] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.
 
->     “(b) __Special Rule for State Authorizations of Interceptions.—__ 
+>     “(b)  __Special Rule for State Authorizations of Interceptions__  __.—__ 
 
 >     Any interception pursuant to [section 2516(2) of title 18][/us/usc/t18/s2516/2] of the United States Code which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such interception occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
 
@@ -191,7 +191,7 @@
 
 >         “(2) the date two years after the date of the enactment of this Act \[Oct. 21, 1986\].
 
->     “(c) __Effective Date for Certain Approvals by Justice Department Officials.—__ 
+>     “(c)  __Effective Date for Certain Approvals by Justice Department Officials__  __.—__ 
 
 >     Section 104 of this Act \[amending [section 2516 of this title][/us/usc/t18/s2516]\] shall take effect on the date of enactment of this Act \[Oct. 21, 1986\].”
 
@@ -211,11 +211,11 @@
 
 [Pub. L. 99–508, title I, § 107][/us/pl/99/508/s107], Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act or the amendments made by this Act \[see Short Title of 1986 Amendment note above\] constitutes authority for the conduct of any intelligence activity.
 
->     “(b) __Certain Activities Under Procedures Approved by the Attorney General.—__ 
+>     “(b)  __Certain Activities Under Procedures Approved by the Attorney General__  __.—__ 
 
 >     Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
 

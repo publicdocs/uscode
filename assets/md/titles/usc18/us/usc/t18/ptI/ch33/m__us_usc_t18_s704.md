@@ -15,21 +15,21 @@
 
 ## § 704. Military medals or decorations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
 
-    (b) __Fraudulent Representations About Receipt of Military Decorations or Medals.—__ 
+    (b)  __Fraudulent Representations About Receipt of Military Decorations or Medals__  __.—__ 
 
     Whoever, with intent to obtain money, property, or other tangible benefit, fraudulently holds oneself out to be a recipient of a decoration or medal described in subsection (c)(2) or (d) shall be fined under this title, imprisoned not more than one year, or both.
 
     (c) __Enhanced Penalty for Offenses Involving Congressional Medal of Honor.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If a decoration or medal involved in an offense under subsection (a) is a Congressional Medal of Honor, in lieu of the punishment provided in that subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
 
-        (2) __Congressional medal of honor defined.—__ 
+        (2)  __Congressional medal of honor defined__  __.—__ 
 
         In this subsection, the term “Congressional Medal of Honor” means—
 
@@ -41,11 +41,11 @@
 
     (d) __Enhanced Penalty for Offenses Involving Certain Other Medals.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If a decoration or medal involved in an offense described in subsection (a) is a distinguished-service cross awarded under [section 3742 of title 10][/us/usc/t10/s3742], a Navy cross awarded under [section 6242 of title 10][/us/usc/t10/s6242], an Air Force cross awarded under section 8742 of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title”. </sup></sup>  10, a silver star awarded under section 3746, 6244, or 8746 of title 10, a Purple Heart awarded under [section 1129 of title 10][/us/usc/t10/s1129], a combat badge, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
 
-        (2) __Combat badge defined.—__ 
+        (2)  __Combat badge defined__  __.—__ 
 
         In this subsection, the term “combat badge” means a Combat Infantryman’s Badge, Combat Action Badge, Combat Medical Badge, Combat Action Ribbon, or Combat Action Medal.
 

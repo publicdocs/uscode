@@ -15,15 +15,15 @@
 
 ## § 1119. Foreign murder of United States nationals
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
 
-    (b) __Offense.—__ 
+    (b)  __Offense__  __.—__ 
 
     A person who, being a national of the United States, kills or attempts to kill a national of the United States while such national is outside the United States but within the jurisdiction of another country shall be punished as provided under sections 1111, 1112, and 1113.
 
-    (c) __Limitations on Prosecution.—__ 
+    (c)  __Limitations on Prosecution__  __.—__ 
 
         (1) No prosecution may be instituted against any person under this section except upon the written approval of the Attorney General, the Deputy Attorney General, or an Assistant Attorney General, which function of approving prosecutions may not be delegated. No prosecution shall be approved if prosecution has been previously undertaken by a foreign country for the same conduct.
 

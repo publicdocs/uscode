@@ -15,11 +15,11 @@
 
 ## § 2340A. Torture
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever outside the United States commits or attempts to commit torture shall be fined under this title or imprisoned not more than 20 years, or both, and if death results to any person from conduct prohibited by this subsection, shall be punished by death or imprisoned for any term of years or for life.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the activity prohibited in subsection (a) if—
 
@@ -27,7 +27,7 @@
 
         (2) the alleged offender is present in the United States, irrespective of the nationality of the victim or alleged offender.
 
-    (c) __Conspiracy.—__ 
+    (c)  __Conspiracy__  __.—__ 
 
     A person who conspires to commit an offense under this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
 

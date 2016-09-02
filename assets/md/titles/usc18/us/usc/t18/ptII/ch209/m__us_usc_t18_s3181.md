@@ -75,7 +75,7 @@
 
 >     “(a) __Surrender of Persons.—__ 
 
->         “(1) __Application of united states extradition laws.—__ 
+>         “(1)  __Application of united states extradition laws__  __.—__ 
 
 >         Except as provided in paragraphs (2) and (3), the provisions of chapter 209 of title 18, United States Code, relating to the extradition of persons to a foreign country pursuant to a treaty or convention for extradition between the United States and a foreign government, shall apply in the same manner and extent to the surrender of persons, including United States citizens, to—
 
@@ -83,41 +83,41 @@
 
 >             “(B) the International Tribunal for Rwanda, pursuant to the Agreement Between the United States and the International Tribunal for Rwanda.
 
->         “(2) __Evidence on hearings.—__ 
+>         “(2)  __Evidence on hearings__  __.—__ 
 
 >         For purposes of applying [section 3190 of title 18][/us/usc/t18/s3190], United States Code, in accordance with paragraph (1), the certification referred to in that section may be made by the principal diplomatic or consular officer of the United States resident in such foreign countries where the International Tribunal for Yugoslavia or the International Tribunal for Rwanda may be permanently or temporarily situated.
 
->         “(3) __Payment of fees and costs.—__ 
+>         “(3)  __Payment of fees and costs__  __.—__ 
 
 >             (A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of [section 3195 of title 18][/us/usc/t18/s3195], United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 >             “(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
->         “(4) __Nonapplicability of the federal rules.—__ 
+>         “(4)  __Nonapplicability of the federal rules__  __.—__ 
 
 >         The Federal Rules of Evidence \[set out in the Appendix to Title 28, Judiciary and Judicial Procedure\] and the Federal Rules of Criminal Procedure \[set out in the Appendix to this title\] do not apply to proceedings for the surrender of persons to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda.
 
->     “(b) __Assistance to Foreign and International Tribunals and to Litigants Before Such Tribunals.—__ 
+>     “(b)  __Assistance to Foreign and International Tribunals and to Litigants Before Such Tribunals__  __.—__ 
 
 >     \[Amended [section 1782 of Title 28][/us/usc/t28/s1782], Judiciary and Judicial Procedure.\]
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __International tribunal for yugoslavia.—__ 
+>         “(1)  __International tribunal for yugoslavia__  __.—__ 
 
 >         The term ‘International Tribunal for Yugoslavia’ means the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law in the Territory of the Former Yugoslavia, as established by United Nations Security Council Resolution 827 of May 25, 1993.
 
->         “(2) __International tribunal for rwanda.—__ 
+>         “(2)  __International tribunal for rwanda__  __.—__ 
 
 >         The term ‘International Tribunal for Rwanda’ means the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
 
->         “(3) __Agreement between the united states and the international tribunal for yugoslavia.—__ 
+>         “(3)  __Agreement between the united states and the international tribunal for yugoslavia__  __.—__ 
 
 >         The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994, as amended.
 
->         “(4) __Agreement between the united states and the international tribunal for rwanda.—__ 
+>         “(4)  __Agreement between the united states and the international tribunal for rwanda__  __.—__ 
 
 >         The term ‘Agreement between the United States and the International Tribunal for Rwanda’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, signed at The Hague, January 24, 1995.”
 

@@ -45,17 +45,17 @@
 
 [Pub. L. 109–177, title I, § 118][/us/pl/109/177/s118], Mar. 9, 2006, [120 Stat. 217][/us/stat/120/217], provided that:
 
->     “(a) __Existing Reports.—__ 
+>     “(a)  __Existing Reports__  __.—__ 
 
 >     Any report made to a committee of Congress regarding national security letters under [section 2709(c)(1) of title 18][/us/usc/t18/s2709/c/1], United States Code, section 626(d) or 627(c) of the Fair Credit Reporting Act ([15 U.S.C. 1681u(d)][/us/usc/t15/s1681u/d] or 1681v(c)), section 1114(a)(3) or 1114(a)(5)(D) of the Right to Financial Privacy Act \[of 1978\] ([12 U.S.C. 3414(a)(3)][/us/usc/t12/s3414/a/3] or 3414(a)(5)(D)), or section 802(b) of the National Security Act of 1947 ([50 U.S.C. 436(b)][/us/usc/t50/s436/b] \[now [50 U.S.C. 3162(b)][/us/usc/t50/s3162/b]\]) shall also be made to the Committees on the Judiciary of the House of Representatives and the Senate.
 
->     “(b) __Enhanced Oversight of Fair Credit Reporting Act Counterterrorism National Security Letter.—__ 
+>     “(b)  __Enhanced Oversight of Fair Credit Reporting Act Counterterrorism National Security Letter__  __.—__ 
 
 >     \[Amended [section 1681v of Title 15][/us/usc/t15/s1681v], Commerce and Trade.\]
 
 >     “(c) __Report on Requests for National Security Letters.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In April of each year, the Attorney General shall submit to Congress an aggregate report setting forth with respect to the preceding year the total number of requests made by the Department of Justice for information concerning different United States persons under—
 
@@ -69,11 +69,11 @@
 
 >             “(E) section 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681v][/us/usc/t15/s1681v]) (to obtain credit agency consumer records for counterterrorism investigations).
 
->         “(2) __Unclassified form.—__ 
+>         “(2)  __Unclassified form__  __.—__ 
 
 >         The report under this section shall be submitted in unclassified form.
 
->     “(d) __National Security Letter Defined.—__ 
+>     “(d)  __National Security Letter Defined__  __.—__ 
 
 >     In this section, the term ‘national security letter’ means a request for information under one of the following provisions of law:
 

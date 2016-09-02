@@ -15,7 +15,7 @@
 
 ## § 2442. Recruitment or use of child soldiers
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever knowingly—
 
@@ -25,11 +25,11 @@
 
         knowing such person is under 15 years of age, shall be punished as provided in subsection (b).
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Whoever violates, or attempts or conspires to violate, subsection (a) shall be fined under this title or imprisoned not more than 20 years, or both and, if death of any person results, shall be fined under this title and imprisoned for any term of years or for life.
 
-    (c) __Jurisdiction.—__ 
+    (c)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over an offense described in subsection (a), and any attempt or conspiracy to commit such offense, if—
 
@@ -41,11 +41,11 @@
 
         (4) the offense occurs in whole or in part within the United States.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Participate actively in hostilities.—__ 
+        (1)  __Participate actively in hostilities__  __.—__ 
 
         The term “participate actively in hostilities” means taking part in—
 
@@ -53,7 +53,7 @@
 
             (B) direct support functions related to combat, including transporting supplies or providing other services.
 
-        (2) __Armed force or group.—__ 
+        (2)  __Armed force or group__  __.—__ 
 
         The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
 

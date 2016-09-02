@@ -15,7 +15,7 @@
 
 ## § 1791. Providing or possessing contraband in prison
 
-    (a) __Offense.—__ 
+    (a)  __Offense__  __.—__ 
 
     Whoever—
 
@@ -25,7 +25,7 @@
 
         shall be punished as provided in subsection (b) of this section.
 
-    (b) __Punishment.—__ 
+    (b)  __Punishment__  __.—__ 
 
     The punishment for an offense under this section is a fine under this title or—
 
@@ -39,11 +39,11 @@
 
         (5) imprisonment for not more than 6 months, or both, if the object is specified in subsection (d)(1)(G) of this section.
 
-    (c) __Consecutive Punishment Required in Certain Cases.—__ 
+    (c)  __Consecutive Punishment Required in Certain Cases__  __.—__ 
 
     Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance. Any punishment imposed under subsection (b) for a violation of this section by an inmate of a prison shall be consecutive to the sentence being served by such inmate at the time the inmate commits such violation.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     As used in this section—
 

@@ -15,7 +15,7 @@
 
 ## § 3486. Administrative subpoenas
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
         (1)
 
@@ -91,19 +91,19 @@
 
         (10) As soon as practicable following the issuance of a subpoena under paragraph (1)(A)(iii), the Secretary of the Treasury shall notify the Attorney General of its issuance.
 
-    (b) __Service.—__ 
+    (b)  __Service__  __.—__ 
 
     A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
 
-    (c) __Enforcement.—__ 
+    (c)  __Enforcement__  __.—__ 
 
     In the case of contumacy by or refusal to obey a subpoena issued to any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpoenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpoena. The court may issue an order requiring the subpoenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony concerning the production and authentication of such records. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
 
-    (d) __Immunity From Civil Liability.—__ 
+    (d)  __Immunity From Civil Liability__  __.—__ 
 
     Notwithstanding any Federal, State, or local law, any person, including officers, agents, and employees, receiving a subpoena under this section, who complies in good faith with the subpoena and thus produces the materials sought, shall not be liable in any court of any State or the United States to any customer or other person for such production or for nondisclosure of that production to the customer.
 
-    (e) __Limitation on Use.—__ 
+    (e)  __Limitation on Use__  __.—__ 
 
         (1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directed against the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
 

@@ -15,23 +15,23 @@
 
 ## § 4244. Hospitalization of a convicted person suffering from mental disease or defect
 
-    (a) __Motion To Determine Present Mental Condition of Convicted Defendant.—__ 
+    (a)  __Motion To Determine Present Mental Condition of Convicted Defendant__  __.—__ 
 
     A defendant found guilty of an offense, or the attorney for the Government, may, within ten days after the defendant is found guilty, and prior to the time the defendant is sentenced, file a motion for a hearing on the present mental condition of the defendant if the motion is supported by substantial information indicating that the defendant may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. The court shall grant the motion, or at any time prior to the sentencing of the defendant shall order such a hearing on its own motion, if it is of the opinion that there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility.
 
-    (b) __Psychiatric or Psychological Examination and Report.—__ 
+    (b)  __Psychiatric or Psychological Examination and Report__  __.—__ 
 
     Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c). In addition to the information required to be included in the psychiatric or psychological report pursuant to the provisions of section 4247(c), if the report includes an opinion by the examiners that the defendant is presently suffering from a mental disease or defect but that it is not such as to require his custody for care or treatment in a suitable facility, the report shall also include an opinion by the examiner concerning the sentencing alternatives that could best accord the defendant the kind of treatment he does need.
 
-    (c) __Hearing.—__ 
+    (c)  __Hearing__  __.—__ 
 
     The hearing shall be conducted pursuant to the provisions of section 4247(d).
 
-    (d) __Determination and Disposition.—__ 
+    (d)  __Determination and Disposition__  __.—__ 
 
     If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
 
-    (e) __Discharge.—__ 
+    (e)  __Discharge__  __.—__ 
 
     When the director of the facility in which the defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the provisional sentence imposed pursuant to subsection (d) has not expired, the court shall proceed finally to sentencing and may modify the provisional sentence.
 

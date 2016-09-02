@@ -15,7 +15,7 @@
 
 ## § 4042. Duties of Bureau of Prisons
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Bureau of Prisons, under the direction of the Attorney General, shall—
 
@@ -57,7 +57,7 @@
 
                 (vii) Release requirements and procedures.
 
-    (b) __Notice of Release of Prisoners.—__ 
+    (b)  __Notice of Release of Prisoners__  __.—__ 
 
         (1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officers of each State, tribal, and local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
 
@@ -79,7 +79,7 @@
 
             (B) a crime of violence (as defined in section 924(c)(3)).
 
-    (c) __Notice of Sex Offender Release.—__ 
+    (c)  __Notice of Sex Offender Release__  __.—__ 
 
         (1)
 
@@ -99,7 +99,7 @@
 
         (5) The United States and its agencies, officers, and employees shall be immune from liability based on good faith conduct in carrying out this subsection and subsection (b).
 
-    (d) __Application of Section.—__ 
+    (d)  __Application of Section__  __.—__ 
 
     This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 

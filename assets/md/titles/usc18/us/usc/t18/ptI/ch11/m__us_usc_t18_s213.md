@@ -15,7 +15,7 @@
 
 ## § 213. Acceptance of loan or gratuity by financial institution examiner
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whoever, being an examiner or assistant examiner, accepts a loan or gratuity from any bank, branch, agency, organization, corporation, association, or institution examined by the examiner or from any person connected with it, shall—
 
@@ -25,7 +25,7 @@
 
         (3) shall be disqualified from holding office as an examiner.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the terms “examiner”, “Federal financial institution regulatory agency”, “financial institution”, and “loan” have the same meanings as in section 212.
 

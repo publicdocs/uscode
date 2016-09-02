@@ -15,11 +15,11 @@
 
 ## § 3103a. Additional grounds for issuing warrant
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In addition to the grounds for issuing a warrant in [section 3103 of this title][/us/usc/t18/s3103], a warrant may be issued to search for and seize any property that constitutes evidence of a criminal offense in violation of the laws of the United States.
 
-    (b) __Delay.—__ 
+    (b)  __Delay__  __.—__ 
 
     With respect to the issuance of any warrant or court order under this section, or any other rule of law, to search for and seize any property or material that constitutes evidence of a criminal offense in violation of the laws of the United States, any notice required, or that may be required, to be given may be delayed if—
 
@@ -29,13 +29,13 @@
 
         (3) the warrant provides for the giving of such notice within a reasonable period not to exceed 30 days after the date of its execution, or on a later date certain if the facts of the case justify a longer period of delay.
 
-    (c) __Extensions of Delay.—__ 
+    (c)  __Extensions of Delay__  __.—__ 
 
     Any period of delay authorized by this section may be extended by the court for good cause shown, subject to the condition that extensions should only be granted upon an updated showing of the need for further delay and that each additional delay should be limited to periods of 90 days or less, unless the facts of the case justify a longer period of delay.
 
     (d) __Reports.—__ 
 
-        (1) __Report by judge.—__ 
+        (1)  __Report by judge__  __.—__ 
 
         Not later than 30 days after the expiration of a warrant authorizing delayed notice (including any extension thereof) entered under this section, or the denial of such warrant (or request for extension), the issuing or denying judge shall report to the Administrative Office of the United States Courts—
 
@@ -47,11 +47,11 @@
 
             (D) the offense specified in the warrant or application.
 
-        (2) __Report by administrative office of the united states courts.—__ 
+        (2)  __Report by administrative office of the united states courts__  __.—__ 
 
         Beginning with the fiscal year ending September 30, 2007, the Director of the Administrative Office of the United States Courts shall transmit to Congress annually a full and complete report summarizing the data required to be filed with the Administrative Office by paragraph (1), including the number of applications for warrants and extensions of warrants authorizing delayed notice, and the number of such warrants and extensions granted or denied during the preceding fiscal year.
 
-        (3) __Regulations.—__ 
+        (3)  __Regulations__  __.—__ 
 
         The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, is authorized to issue binding regulations dealing with the content and form of the reports required to be filed under paragraph (1).
 

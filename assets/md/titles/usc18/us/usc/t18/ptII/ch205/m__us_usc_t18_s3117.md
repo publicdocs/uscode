@@ -15,11 +15,11 @@
 
 ## § 3117. Mobile tracking devices
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If a court is empowered to issue a warrant or other order for the installation of a mobile tracking device, such order may authorize the use of that device within the jurisdiction of the court, and outside that jurisdiction if the device is installed in that jurisdiction.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     As used in this section, the term “tracking device” means an electronic or mechanical device which permits the tracking of the movement of a person or object.
 

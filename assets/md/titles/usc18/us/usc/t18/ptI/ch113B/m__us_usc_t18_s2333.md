@@ -15,15 +15,15 @@
 
 ## § 2333. Civil remedies
 
-    (a) __Action and Jurisdiction.—__ 
+    (a)  __Action and Jurisdiction__  __.—__ 
 
     Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs, may sue therefor in any appropriate district court of the United States and shall recover threefold the damages he or she sustains and the cost of the suit, including attorney’s fees.
 
-    (b) __Estoppel Under United States Law.—__ 
+    (b)  __Estoppel Under United States Law__  __.—__ 
 
     A final judgment or decree rendered in favor of the United States in any criminal proceeding under section 1116, 1201, 1203, or 2332 of this title or section 46314, 46502, 46505, or 46506 of title 49 shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding under this section.
 
-    (c) __Estoppel Under Foreign Law.—__ 
+    (c)  __Estoppel Under Foreign Law__  __.—__ 
 
     A final judgment or decree rendered in favor of any foreign state in any criminal proceeding shall, to the extent that such judgment or decree may be accorded full faith and credit under the law of the United States, estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding under this section.
 

@@ -17,7 +17,7 @@
 
     (a) __Requirements for Relief.—__ 
 
-        (1) __Prospective relief.—__ 
+        (1)  __Prospective relief__  __.—__ 
 
             (A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
 
@@ -33,11 +33,11 @@
 
             (C) Nothing in this section shall be construed to authorize the courts, in exercising their remedial powers, to order the construction of prisons or the raising of taxes, or to repeal or detract from otherwise applicable limitations on the remedial powers of the courts.
 
-        (2) __Preliminary injunctive relief.—__ 
+        (2)  __Preliminary injunctive relief__  __.—__ 
 
         In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
-        (3) __Prisoner release order.—__ 
+        (3)  __Prisoner release order__  __.—__ 
 
             (A)
 
@@ -65,7 +65,7 @@
 
     (b) __Termination of Relief.—__ 
 
-        (1) __Termination of prospective relief.—__ 
+        (1)  __Termination of prospective relief__  __.—__ 
 
             (A)
 
@@ -79,41 +79,41 @@
 
             (B) Nothing in this section shall prevent the parties from agreeing to terminate or modify relief before the relief is terminated under subparagraph (A).
 
-        (2) __Immediate termination of prospective relief.—__ 
+        (2)  __Immediate termination of prospective relief__  __.—__ 
 
         In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current and ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation.
 
-        (4) __Termination or modification of relief.—__ 
+        (4)  __Termination or modification of relief__  __.—__ 
 
         Nothing in this section shall prevent any party or intervener from seeking modification or termination before the relief is terminable under paragraph (1) or (2), to the extent that modification or termination would otherwise be legally permissible.
 
     (c) __Settlements.—__ 
 
-        (1) __Consent decrees.—__ 
+        (1)  __Consent decrees__  __.—__ 
 
         In any civil action with respect to prison conditions, the court shall not enter or approve a consent decree unless it complies with the limitations on relief set forth in subsection (a).
 
-        (2) __Private settlement agreements.—__ 
+        (2)  __Private settlement agreements__  __.—__ 
 
             (A) Nothing in this section shall preclude parties from entering into a private settlement agreement that does not comply with the limitations on relief set forth in subsection (a), if the terms of that agreement are not subject to court enforcement other than the reinstatement of the civil proceeding that the agreement settled.
 
             (B) Nothing in this section shall preclude any party claiming that a private settlement agreement has been breached from seeking in State court any remedy available under State law.
 
-    (d) __State Law Remedies.—__ 
+    (d)  __State Law Remedies__  __.—__ 
 
     The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
 
     (e) __Procedure for Motions Affecting Prospective Relief.—__ 
 
-        (1) __Generally.—__ 
+        (1)  __Generally__  __.—__ 
 
         The court shall promptly rule on any motion to modify or terminate prospective relief in a civil action with respect to prison conditions. Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.
 
-        (2) __Automatic stay.—__ 
+        (2)  __Automatic stay__  __.—__ 
 
         Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay during the period—
 
@@ -125,23 +125,23 @@
 
             (B) ending on the date the court enters a final order ruling on the motion.
 
-        (3) __Postponement of automatic stay.—__ 
+        (3)  __Postponement of automatic stay__  __.—__ 
 
         The court may postpone the effective date of an automatic stay specified in subsection (e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court’s calendar.
 
-        (4) __Order blocking the automatic stay.—__ 
+        (4)  __Order blocking the automatic stay__  __.—__ 
 
         Any order staying, suspending, delaying, or barring the operation of the automatic stay described in paragraph (2) (other than an order to postpone the effective date of the automatic stay under paragraph (3)) shall be treated as an order refusing to dissolve or modify an injunction and shall be appealable pursuant to [section 1292(a)(1) of title 28][/us/usc/t28/s1292/a/1], United States Code, regardless of how the order is styled or whether the order is termed a preliminary or a final ruling.
 
     (f) __Special Masters.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
             (A) In any civil action in a Federal court with respect to prison conditions, the court may appoint a special master who shall be disinterested and objective and who will give due regard to the public safety, to conduct hearings on the record and prepare proposed findings of fact.
 
             (B) The court shall appoint a special master under this subsection during the remedial phase of the action only upon a finding that the remedial phase will be sufficiently complex to warrant the appointment.
 
-        (2) __Appointment.—__ 
+        (2)  __Appointment__  __.—__ 
 
             (A) If the court determines that the appointment of a special master is necessary, the court shall request that the defendant institution and the plaintiff each submit a list of not more than 5 persons to serve as a special master.
 
@@ -149,19 +149,19 @@
 
             (C) The court shall select the master from the persons remaining on the list after the operation of subparagraph (B).
 
-        (3) __Interlocutory appeal.—__ 
+        (3)  __Interlocutory appeal__  __.—__ 
 
         Any party shall have the right to an interlocutory appeal of the judge’s selection of the special master under this subsection, on the ground of partiality.
 
-        (4) __Compensation.—__ 
+        (4)  __Compensation__  __.—__ 
 
         The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section 3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
 
-        (5) __Regular review of appointment.—__ 
+        (5)  __Regular review of appointment__  __.—__ 
 
         In any civil action with respect to prison conditions in which a special master is appointed under this subsection, the court shall review the appointment of the special master every 6 months to determine whether the services of the special master continue to be required under paragraph (1). In no event shall the appointment of a special master extend beyond the termination of the relief.
 
-        (6) __Limitations on powers and duties.—__ 
+        (6)  __Limitations on powers and duties__  __.—__ 
 
         A special master appointed under this subsection—
 
@@ -173,7 +173,7 @@
 
             (D) may be removed at any time, but shall be relieved of the appointment upon the termination of relief.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     As used in this section—
 

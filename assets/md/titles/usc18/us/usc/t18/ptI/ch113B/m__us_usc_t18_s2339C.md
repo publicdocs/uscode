@@ -17,7 +17,7 @@
 
     (a) __Offenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever, in a circumstance described in subsection (b), by any means, directly or indirectly, unlawfully and willfully provides or collects funds with the intention that such funds be used, or with the knowledge that such funds are to be used, in full or in part, in order to carry out—
 
@@ -27,15 +27,15 @@
 
             shall be punished as prescribed in subsection (d)(1).
 
-        (2) __Attempts and conspiracies.—__ 
+        (2)  __Attempts and conspiracies__  __.—__ 
 
         Whoever attempts or conspires to commit an offense under paragraph (1) shall be punished as prescribed in subsection (d)(1).
 
-        (3) __Relationship to predicate act.—__ 
+        (3)  __Relationship to predicate act__  __.—__ 
 
         For an act to constitute an offense set forth in this subsection, it shall not be necessary that the funds were actually used to carry out a predicate act.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     There is jurisdiction over the offenses in subsection (a) in the following circumstances—
 
@@ -95,7 +95,7 @@
 
         (5) the offense was directed toward or resulted in the carrying out of a predicate act committed in an attempt to compel the United States to do or abstain from doing any act.
 
-    (c) __Concealment.—__ 
+    (c)  __Concealment__  __.—__ 
 
     Whoever—
 
@@ -117,15 +117,15 @@
 
     (d) __Penalties.—__ 
 
-        (1) __Subsection (a).—__ 
+        (1)  __Subsection__  __(a).—__ 
 
         Whoever violates subsection (a) shall be fined under this title, imprisoned for not more than 20 years, or both.
 
-        (2) __Subsection (c).—__ 
+        (2)  __Subsection__  __(c).—__ 
 
         Whoever violates subsection (c) shall be fined under this title, imprisoned for not more than 10 years, or both.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -177,7 +177,7 @@
 
         (14) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
-    (f) __Civil Penalty.—__ 
+    (f)  __Civil Penalty__  __.—__ 
 
     In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 

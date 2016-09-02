@@ -15,7 +15,7 @@
 
 ## § 3612. Collection of unpaid fine or restitution
 
-    (a) __Notification of Receipt and Related Matters.—__ 
+    (a)  __Notification of Receipt and Related Matters__  __.—__ 
 
     The clerk or the person designated under [section 604(a)(18) of title 28][/us/usc/t28/s604/a/18] shall notify the Attorney General of each receipt of a payment with respect to which a certification is made under subsection (b), together with other appropriate information relating to such payment. The notification shall be provided—
 
@@ -25,7 +25,7 @@
 
         If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under [section 604(a)(18) of title 28][/us/usc/t28/s604/a/18], shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
 
-    (b) __Information to be Included in Judgment; Judgment to be Transmitted to Attorney General.—__ 
+    (b)  __Information to be Included in Judgment; Judgment to be Transmitted to Attorney General__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
 
-    (c) __Responsibility for Collection.—__ 
+    (c)  __Responsibility for Collection__  __.—__ 
 
     The Attorney General shall be responsible for collection of an unpaid fine or restitution concerning which a certification has been issued as provided in subsection (b). An order of restitution, pursuant to section 3556, does not create any right of action against the United States by the person to whom restitution is ordered to be paid. Any money received from a defendant shall be disbursed so that each of the following obligations is paid in full in the following sequence:
 
@@ -57,21 +57,21 @@
 
         (3) All other fines, penalties, costs, and other payments required under the sentence.
 
-    (d) __Notification of Delinquency.—__ 
+    (d)  __Notification of Delinquency__  __.—__ 
 
     Within ten working days after a fine or restitution is determined to be delinquent as provided in section 3572(h), the Attorney General shall notify the person whose fine or restitution is delinquent, to inform the person of the delinquency.
 
-    (e) __Notification of Default.—__ 
+    (e)  __Notification of Default__  __.—__ 
 
     Within ten working days after a fine or restitution is determined to be in default as provided in section 3572(i), the Attorney General shall notify the person defaulting to inform the person that the fine or restitution is in default and the entire unpaid balance, including interest and penalties, is due within thirty days.
 
     (f) __Interest on Fines and restitution.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The defendant shall pay interest on any fine or restitution of more than $2,500, unless the fine is paid in full before the fifteenth day after the date of the judgment. If that day is a Saturday, Sunday, or legal public holiday, the defendant shall be liable for interest beginning with the next day that is not a Saturday, Sunday, or legal public holiday.
 
-        (2) __Computation.—__ 
+        (2)  __Computation__  __.—__ 
 
         Interest on a fine shall be computed—
 
@@ -79,7 +79,7 @@
 
             (B) at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the first day on which the defendant is liable for interest under paragraph (1).
 
-        (3) __Modification of interest by court.—__ 
+        (3)  __Modification of interest by court__  __.—__ 
 
         If the court determines that the defendant does not have the ability to pay interest under this subsection, the court may—
 
@@ -89,15 +89,15 @@
 
             (C) limit the length of the period during which interest accrues.
 
-    (g) __Penalty for Delinquent Fine.—__ 
+    (g)  __Penalty for Delinquent Fine__  __.—__ 
 
     If a fine or restitution becomes delinquent, the defendant shall pay, as a penalty, an amount equal to 10 percent of the principal amount that is delinquent. If a fine or restitution becomes in default, the defendant shall pay, as a penalty, an additional amount equal to 15 percent of the principal amount that is in default.
 
-    (h) __Waiver of Interest or Penalty by Attorney General.—__ 
+    (h)  __Waiver of Interest or Penalty by Attorney General__  __.—__ 
 
     The Attorney General may waive all or part of any interest or penalty under this section or any interest or penalty relating to a fine imposed under any prior law if, as determined by the Attorney General, reasonable efforts to collect the interest or penalty are not likely to be effective.
 
-    (i) __Application of Payments.—__ 
+    (i)  __Application of Payments__  __.—__ 
 
     Payments relating to fines and restitution shall be applied in the following order: (1) to principal; (2) to costs; (3) to interest; and (4) to penalties.
 

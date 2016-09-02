@@ -15,11 +15,11 @@
 
 ## § 3621. Imprisonment of a convicted person
 
-    (a) __Commitment to Custody of Bureau of Prisons.—__ 
+    (a)  __Commitment to Custody of Bureau of Prisons__  __.—__ 
 
     A person who has been sentenced to a term of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
 
-    (b) __Place of Imprisonment.—__ 
+    (b)  __Place of Imprisonment__  __.—__ 
 
     The Bureau of Prisons shall designate the place of the prisoner’s imprisonment. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
 
@@ -41,17 +41,17 @@
 
         In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.
 
-    (c) __Delivery of Order of Commitment.—__ 
+    (c)  __Delivery of Order of Commitment__  __.—__ 
 
     When a prisoner, pursuant to a court order, is placed in the custody of a person in charge of a penal or correctional facility, a copy of the order shall be delivered to such person as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall be returned to the court that issued it.
 
-    (d) __Delivery of Prisoner for Court Appearances.—__ 
+    (d)  __Delivery of Prisoner for Court Appearances__  __.—__ 
 
     The United States marshal shall, without charge, bring a prisoner into court or return him to a prison facility on order of a court of the United States or on written request of an attorney for the Government.
 
     (e) __Substance Abuse Treatment.—__ 
 
-        (1) __Phase-in.—__ 
+        (1)  __Phase-in__  __.—__ 
 
         In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abuse treatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
 
@@ -63,15 +63,15 @@
 
         (2) __Incentive for prisoners’ successful completion of treatment program.—__ 
 
-            (A) __Generally.—__ 
+            (A)  __Generally__  __.—__ 
 
             Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
 
-            (B) __Period of custody.—__ 
+            (B)  __Period of custody__  __.—__ 
 
             The period a prisoner convicted of a nonviolent offense remains in custody after successfully completing a treatment program may be reduced by the Bureau of Prisons, but such reduction may not be more than one year from the term the prisoner must otherwise serve.
 
-        (3) __Report.—__ 
+        (3)  __Report__  __.—__ 
 
         The Bureau of Prisons shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives on January 1, 1995, and on January 1 of each year thereafter, a report. Such report shall contain—
 
@@ -81,11 +81,11 @@
 
             (C) a complete statement of to what extent the Bureau has achieved compliance with the requirements of this title.
 
-        (4) __Authorization of appropriations.—__ 
+        (4)  __Authorization of appropriations__  __.—__ 
 
         There are authorized to carry out this subsection such sums as may be necessary for each of fiscal years 2007 through 2011.
 
-        (5) __Definitions.—__ 
+        (5)  __Definitions__  __.—__ 
 
         As used in this subsection—
 
@@ -101,39 +101,39 @@
 
             (C) the term “aftercare” means placement, case management and monitoring of the participant in a community-based substance abuse treatment program when the participant leaves the custody of the Bureau of Prisons.
 
-        (6) __Coordination of federal assistance.—__ 
+        (6)  __Coordination of federal assistance__  __.—__ 
 
         The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
     (f) __Sex Offender Management.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Bureau of Prisons shall make available appropriate treatment to sex offenders who are in need of and suitable for treatment, as follows:
 
-            (A) __Sex offender management programs.—__ 
+            (A)  __Sex offender management programs__  __.—__ 
 
             The Bureau of Prisons shall establish non-residential sex offender management programs to provide appropriate treatment, monitoring, and supervision of sex offenders and to provide aftercare during pre-release custody.
 
-            (B) __Residential sex offender treatment programs.—__ 
+            (B)  __Residential sex offender treatment programs__  __.—__ 
 
             The Bureau of Prisons shall establish residential sex offender treatment programs to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
 
-        (2) __Regions.—__ 
+        (2)  __Regions__  __.—__ 
 
         At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
 
-        (3) __Authorization of appropriations.—__ 
+        (3)  __Authorization of appropriations__  __.—__ 
 
         There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
     (g) __Continued Access to Medical Care.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 

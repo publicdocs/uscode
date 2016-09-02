@@ -15,11 +15,11 @@
 
 ## § 3600A. Preservation of biological evidence
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding any other provision of law, the Government shall preserve biological evidence that was secured in the investigation or prosecution of a Federal offense, if a defendant is under a sentence of imprisonment for such offense.
 
-    (b) __Defined Term.—__ 
+    (b)  __Defined Term__  __.—__ 
 
     For purposes of this section, the term “biological evidence” means—
 
@@ -27,7 +27,7 @@
 
         (2) semen, blood, saliva, hair, skin tissue, or other identified biological material.
 
-    (c) __Applicability.—__ 
+    (c)  __Applicability__  __.—__ 
 
     Subsection (a) shall not apply if—
 
@@ -45,19 +45,19 @@
 
         (5) the biological evidence has already been subjected to DNA testing under section 3600 and the results included the defendant as the source of such evidence.
 
-    (d) __Other Preservation Requirement.—__ 
+    (d)  __Other Preservation Requirement__  __.—__ 
 
     Nothing in this section shall preempt or supersede any statute, regulation, court order, or other provision of law that may require evidence, including biological evidence, to be preserved.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     Not later than 180 days after the date of enactment of the Innocence Protection Act of 2004, the Attorney General shall promulgate regulations to implement and enforce this section, including appropriate disciplinary sanctions to ensure that employees comply with such regulations.
 
-    (f) __Criminal Penalty.—__ 
+    (f)  __Criminal Penalty__  __.—__ 
 
     Whoever knowingly and intentionally destroys, alters, or tampers with biological evidence that is required to be preserved under this section with the intent to prevent that evidence from being subjected to DNA testing or prevent the production or use of that evidence in an official proceeding, shall be fined under this title, imprisoned for not more than 5 years, or both.
 
-    (g) __Habeas Corpus.—__ 
+    (g)  __Habeas Corpus__  __.—__ 
 
     Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
 

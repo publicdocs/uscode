@@ -67,7 +67,7 @@
 
     (b) __Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever conducts or attempts to conduct a transaction described in subsection (a)(1) or (a)(3), or section 1957, or a transportation, transmission, or transfer described in subsection (a)(2), is liable to the United States for a civil penalty of not more than the greater of—
 
@@ -75,7 +75,7 @@
 
             (B) $10,000.
 
-        (2) __Jurisdiction over foreign persons.—__ 
+        (2)  __Jurisdiction over foreign persons__  __.—__ 
 
         For purposes of adjudicating an action filed or enforcing a penalty ordered under this section, the district courts shall have jurisdiction over any foreign person, including any financial institution authorized under the laws of a foreign country, against whom the action is brought, if service of process upon the foreign person is made under the Federal Rules of Civil Procedure or the laws of the country in which the foreign person is found, and—
 
@@ -85,17 +85,17 @@
 
             (C) the foreign person is a financial institution that maintains a bank account at a financial institution in the United States.
 
-        (3) __Court authority over assets.—__ 
+        (3)  __Court authority over assets__  __.—__ 
 
         A court may issue a pretrial restraining order or take any other action necessary to ensure that any bank account or other property held by the defendant in the United States is available to satisfy a judgment under this section.
 
         (4) __Federal receiver.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A court may appoint a Federal Receiver, in accordance with subparagraph (B) of this paragraph, to collect, marshal, and take custody, control, and possession of all assets of the defendant, wherever located, to satisfy a civil judgment under this subsection, a forfeiture judgment under section 981 or 982, or a criminal sentence under section 1957 or subsection (a) of this section, including an order of restitution to any victim of a specified unlawful activity.
 
-            (B) __Appointment and authority.—__ 
+            (B)  __Appointment and authority__  __.—__ 
 
             A Federal Receiver described in subparagraph (A)—
 
@@ -189,13 +189,13 @@
 
         (2) the transaction or series of related transactions involves funds or monetary instruments of a value exceeding $10,000.
 
-    (g) __Notice of Conviction of Financial Institutions.—__ 
+    (g)  __Notice of Conviction of Financial Institutions__  __.—__ 
 
     If any financial institution or any officer, director, or employee of any financial institution has been found guilty of an offense under this section, section 1957 or 1960 of this title, or section 5322 or 5324 of title 31, the Attorney General shall provide written notice of such fact to the appropriate regulatory agency for the financial institution.
 
     (h) Any person who conspires to commit any offense defined in this section or section 1957 shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
-    (i) __Venue.—__ 
+    (i)  __Venue__  __.—__ 
 
         (1)
 

@@ -15,7 +15,7 @@
 
 ## § 3142. Release or detention of a defendant pending trial
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Upon the appearance before a judicial officer of a person charged with an offense, the judicial officer shall issue an order that, pending trial, the person be—
 
@@ -27,11 +27,11 @@
 
         (4) detained under subsection (e) of this section.
 
-    (b) __Release on Personal Recognizance or Unsecured Appearance Bond.—__ 
+    (b)  __Release on Personal Recognizance or Unsecured Appearance Bond__  __.—__ 
 
     The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ([42 U.S.C. 14135a][/us/usc/t42/s14135a]), unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
 
-    (c) __Release on Conditions.—__ 
+    (c)  __Release on Conditions__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
         (3) The judicial officer may at any time amend the order to impose additional or different conditions of release.
 
-    (d) __Temporary Detention To Permit Revocation of Conditional Release, Deportation, or Exclusion.—__ 
+    (d)  __Temporary Detention To Permit Revocation of Conditional Release, Deportation, or Exclusion__  __.—__ 
 
     If the judicial officer determines that—
 
@@ -101,7 +101,7 @@
 
         such judicial officer shall order the detention of such person, for a period of not more than ten days, excluding Saturdays, Sundays, and holidays, and direct the attorney for the Government to notify the appropriate court, probation or parole official, or State or local law enforcement official, or the appropriate official of the Immigration and Naturalization Service. If the official fails or declines to take such person into custody during that period, such person shall be treated in accordance with the other provisions of this section, notwithstanding the applicability of other provisions of law governing release pending trial or deportation or exclusion proceedings. If temporary detention is sought under paragraph (1)(B) of this subsection, such person has the burden of proving to the court such person’s United States citizenship or lawful admission for permanent residence.
 
-    (e) __Detention.—__ 
+    (e)  __Detention__  __.—__ 
 
         (1) If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial.
 
@@ -129,7 +129,7 @@
 
             (E) an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title.
 
-    (f) __Detention Hearing.—__ 
+    (f)  __Detention Hearing__  __.—__ 
 
     The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forth in subsection (c) of this section will reasonably assure the appearance of such person as required and the safety of any other person and the community—
 
@@ -157,7 +157,7 @@
 
         The hearing shall be held immediately upon the person’s first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
 
-    (g) __Factors To Be Considered.—__ 
+    (g)  __Factors To Be Considered__  __.—__ 
 
     The judicial officer shall, in determining whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community, take into account the available information concerning—
 
@@ -175,7 +175,7 @@
 
         (4) the nature and seriousness of the danger to any person or the community that would be posed by the person’s release. In considering the conditions of release described in subsection (c)(1)(B)(xi) or (c)(1)(B)(xii) of this section, the judicial officer may upon his own motion, or shall upon the motion of the Government, conduct an inquiry into the source of the property to be designated for potential forfeiture or offered as collateral to secure a bond, and shall decline to accept the designation, or the use as collateral, of property that, because of its source, will not reasonably assure the appearance of the person as required.
 
-    (h) __Contents of Release Order.—__ 
+    (h)  __Contents of Release Order__  __.—__ 
 
     In a release order issued under subsection (b) or (c) of this section, the judicial officer shall—
 
@@ -191,7 +191,7 @@
 
             (C) sections 1503 of this title (relating to intimidation of witnesses, jurors, and officers of the court), 1510 (relating to obstruction of criminal investigations), 1512 (tampering with a witness, victim, or an informant), and 1513 (retaliating against a witness, victim, or an informant).
 
-    (i) __Contents of Detention Order.—__ 
+    (i)  __Contents of Detention Order__  __.—__ 
 
     In a detention order issued under subsection (e) of this section, the judicial officer shall—
 
@@ -205,7 +205,7 @@
 
         The judicial officer may, by subsequent order, permit the temporary release of the person, in the custody of a United States marshal or another appropriate person, to the extent that the judicial officer determines such release to be necessary for preparation of the person’s defense or for another compelling reason.
 
-    (j) __Presumption of Innocence.—__ 
+    (j)  __Presumption of Innocence__  __.—__ 
 
     Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 

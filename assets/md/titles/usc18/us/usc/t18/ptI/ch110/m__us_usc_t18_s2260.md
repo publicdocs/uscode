@@ -15,11 +15,11 @@
 
 ## § 2260. Production of sexually explicit depictions of a minor for importation into the United States
 
-    (a) __Use of Minor.—__ 
+    (a)  __Use of Minor__  __.—__ 
 
     A person who, outside the United States, employs, uses, persuades, induces, entices, or coerces any minor to engage in, or who has a minor assist any other person to engage in, or who transports any minor with the intent that the minor engage in any sexually explicit conduct for the purpose of producing any visual depiction of such conduct or for the purpose of transmitting a live visual depiction of such conduct, intending that the visual depiction will be imported or transmitted into the United States or into waters within 12 miles of the coast of the United States, shall be punished as provided in subsection (c).
 
-    (b) __Use of Visual Depiction.—__ 
+    (b)  __Use of Visual Depiction__  __.—__ 
 
     A person who, outside the United States, knowingly receives, transports, ships, distributes, sells, or possesses with intent to transport, ship, sell, or distribute any visual depiction of a minor engaging in sexually explicit conduct (if the production of the visual depiction involved the use of a minor engaging in sexually explicit conduct), intending that the visual depiction will be imported into the United States or into waters within a distance of 12 miles of the coast of the United States, shall be punished as provided in subsection (c).
 
