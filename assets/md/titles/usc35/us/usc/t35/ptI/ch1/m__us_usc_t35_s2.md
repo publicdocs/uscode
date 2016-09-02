@@ -155,7 +155,7 @@
 
  __USPTO Law School Clinic Certification Program__ 
 
-[Pub. L. 113–227][/us/pl/113/227], Dec. 16, 2014, [128 Stat. 2114][/us/stat/128/2114], provided that:
+[Pub. L. 113–227, § 1][/us/pl/113/227/s1], Dec. 16, 2014, [128 Stat. 2114][/us/stat/128/2114], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -284,7 +284,7 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
-[/us/pl/113/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F227
+[/us/pl/113/227/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F227%2Fs1
 [/us/stat/128/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2114
 [/us/pl/112/29/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs28
 [/us/stat/125/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F339
