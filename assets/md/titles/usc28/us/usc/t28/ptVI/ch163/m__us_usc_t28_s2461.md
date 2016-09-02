@@ -59,7 +59,7 @@
 
  __Federal Civil Penalties Inflation Adjustment__ 
 
-[Pub. L. 101–410][/us/pl/101/410], Oct. 5, 1990, [104 Stat. 890][/us/stat/104/890], as amended by [Pub. L. 104–134, title III, § 31001(s)(1)][/us/pl/104/134/s31001/s/1], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373]; [Pub. L. 105–362, title XIII, § 1301(a)][/us/pl/105/362/s1301/a], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], provided that:
+[Pub. L. 101–410][/us/pl/101/410], Oct. 5, 1990, [104 Stat. 890][/us/stat/104/890], as amended by [Pub. L. 104–134, title III, § 31001(s)(1)][/us/pl/104/134/s31001/s/1], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373]; [Pub. L. 105–362, title XIII, § 1301(a)][/us/pl/105/362/s1301/a], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 114–74, title VII, § 701(b)][/us/pl/114/74/s701/b], Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599], provided that:
 
 >  __“short title__ 
 
@@ -119,11 +119,45 @@
 
 > “Sec. 4.
 
->  The head of each agency shall, not later than 180 days after the date of enactment of the Debt Collection Improvement Act of 1996 \[Apr. 26, 1996\], and at least once every 4 years thereafter—
+>      (a)  __In General__  __.—__ 
 
->     “(1) by regulation adjust each civil monetary penalty provided by law within the jurisdiction of the Federal agency, except for any penalty (including any addition to tax and additional amount) under the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\], the Tariff Act of 1930 \[[19 U.S.C. 1202][/us/usc/t19/s1202] et seq.\], the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 651][/us/usc/t29/s651] et seq.\], or the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], by the inflation adjustment described under section 5 of this Act; and
+>     Not later than July 1, 2016, and not later than January 15 of every year thereafter, and subject to subsections (c) and (d), the head of each agency shall—
 
->     “(2) publish each such regulation in the Federal Register.
+>         “(1) in accordance with subsection (b), adjust each civil monetary penalty provided by law within the jurisdiction of the Federal agency, except for any penalty (including any addition to tax and additional amount) under the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] or the Tariff Act of 1930 \[[19 U.S.C. 1202][/us/usc/t19/s1202] et seq.\], by the inflation adjustment described under section 5 of this Act; and
+
+>         “(2) publish each such adjustment in the Federal Register.
+
+>     “(b) __Procedures for Adjustments.—__ 
+
+>         “(1)  __Catch up adjustment__  __.—__ 
+
+>         For the first adjustment made under subsection (a) after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\]—
+
+>             “(A) the head of an agency shall adjust civil monetary penalties through an interim final rulemaking; and
+
+>             “(B) the adjustment shall take effect not later than August 1, 2016.
+
+>         “(2)  __Subsequent adjustments__  __.—__ 
+
+>         For the second adjustment made under subsection (a) after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, and each adjustment thereafter, the head of an agency shall adjust civil monetary penalties and shall make the adjustment notwithstanding [section 553 of title 5][/us/usc/t5/s553], United States Code.
+
+>     “(c)  __Exception__  __.—__ 
+
+>     For the first adjustment made under subsection (a) after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, the head of an agency may adjust the amount of a civil monetary penalty by less than the otherwise required amount if—
+
+>         “(1)
+
+>          the head of the agency, after publishing a notice of proposed rulemaking and providing an opportunity for comment, determines in a final rule that—
+
+>             “(A) increasing the civil monetary penalty by the otherwise required amount will have a negative economic impact; or
+
+>             “(B) the social costs of increasing the civil monetary penalty by the otherwise required amount outweigh the benefits; and
+
+>         “(2) the Director of the Office of Management and Budget concurs with the determination of the head of the agency under paragraph (1).
+
+>     “(d)  __Other Adjustments Made__  __.—__ 
+
+>     If a civil monetary penalty subject to a cost-of-living adjustment under this Act is, during the 12 months preceding a required cost-of-living adjustment, increased by an amount greater than the amount of the adjustment required under subsection (a), the head of the agency is not required to make the cost-of-living adjustment for that civil monetary penalty in that year.
 
 >  __“cost-of-living adjustments of civil monetary penalties__ 
 
@@ -131,35 +165,51 @@
 
 >      (a)  __Adjustment__  __.—__ 
 
->     The inflation adjustment under section 4 shall be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest—
+>     The inflation adjustment under section 4 shall be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest multiple of $1.
 
->         “(1) multiple of $10 in the case of penalties less than or equal to $100;
+>     “(b) __Definition.—__ 
 
->         “(2) multiple of $100 in the case of penalties greater than $100 but less than or equal to $1,000;
+>         “(1)  __In general__  __.—__ 
 
->         “(3) multiple of $1,000 in the case of penalties greater than $1,000 but less than or equal to $10,000;
+>         Except as provided in paragraph (2), for purposes of subsection (a), the term ‘cost-of-living adjustment’ means the percentage (if any) for each civil monetary penalty by which—
 
->         “(4) multiple of $5,000 in the case of penalties greater than $10,000 but less than or equal to $100,000;
+>             “(A) the Consumer Price Index for the month of October preceding the date of the adjustment, exceeds
 
->         “(5) multiple of $10,000 in the case of penalties greater than $100,000 but less than or equal to $200,000; and
+>             “(B) the Consumer Price Index for the month of October 1 year before the month of October referred to in subparagraph (A).
 
->         “(6) multiple of $25,000 in the case of penalties greater than $200,000.
+>         “(2) __Initial adjustment.—__ 
 
->     “(b)  __Definition__  __.—__ 
+>             “(A)  __In general__  __.—__ 
 
->     For purposes of subsection (a), the term ‘cost-of-living adjustment’ means the percentage (if any) for each civil monetary penalty by which—
+>             Subject to subparagraph (C), for the first inflation adjustment under section 4 made by an agency after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\], the term ‘cost-of-living adjustment’ means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year during which the amount of such civil monetary penalty was established or adjusted under a provision of law other than this Act.
 
->         “(1) the Consumer Price Index for the month of June of the calendar year preceding the adjustment, exceeds
+>             “(B)  __Application of adjustment__  __.—__ 
 
->         “(2) the Consumer Price Index for the month of June of the calendar year in which the amount of such civil monetary penalty was last set or adjusted pursuant to law.
+>             The cost-of-living adjustment described in subparagraph (A) shall be applied to the amount of the civil monetary penalty as it was most recently established or adjusted under a provision of law other than this Act.
 
-> “Sec. 6. Any increase under this Act in a civil monetary penalty shall apply only to violations which occur after the date the increase takes effect.”
+>             “(C)  __Maximum adjustment__  __.—__ 
 
-\[[Pub. L. 104–134, title III, § 31001(s)(2)][/us/pl/104/134/s31001/s/2], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373], provided that: 
+>             The amount of the increase in a civil monetary penalty under subparagraph (A) shall not exceed 150 percent of the amount of that civil monetary penalty on the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015.
 
-> “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending [Pub. L. 101–410][/us/pl/101/410], set out above\] may not exceed 10 percent of such penalty.”
+> “Sec. 6. Any increase under this Act in a civil monetary penalty shall apply only to civil monetary penalties, including those whose associated violation predated such increase, which are assessed after the date the increase takes effect.
 
-\]
+> “SEC. 7.
+
+>  Implementation and oversight enhancements
+
+>     “(a)  __OMB Guidance__  __.—__ 
+
+>     Not later than February 29, 2016, not later than December 15, 2016, and December 15 of every year thereafter, the Director of the Office of Management and Budget shall issue guidance to agencies on implementing the inflation adjustments required under this Act.
+
+>     “(b)  __Agency Financial Reports__  __.—__ 
+
+>     The head of each agency shall include in the Agency Financial Report submitted under OMB Circular A–136, or any successor thereto, information about the civil monetary penalties within the jurisdiction of the agency, including the adjustment of the civil monetary penalties by the head of the agency under this Act.
+
+>     “(c)  __GAO Review__  __.—__ 
+
+>     The Comptroller General of the United States shall annually submit to Congress a report assessing the compliance of agencies with the inflation adjustments required under this Act, which may be included as part of another report submitted to Congress.”
+
+    \[[Pub. L. 104–134, title III, § 31001(s)(2)][/us/pl/104/134/s31001/s/2], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373], which provided that the first adjustment of a civil monetary penalty made pursuant to the amendment by [§ 31001(s)(1) of Pub. L. 104–134][/us/pl/104/134/s31001/s/1] (amending [Pub. L. 101–410][/us/pl/101/410], set out above) could not exceed 10 percent of the penalty, was repealed by [Pub. L. 114–74, title VII, § 701(c)][/us/pl/114/74/s701/c], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601].\]
 
     \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, [Pub. L. 101–410][/us/pl/101/410], set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see [section 404 of Pub. L. 103–356][/us/pl/103/356/s404], set out as a note under [section 501 of Title 31][/us/usc/t31/s501], Money and Finance.\]
 
@@ -197,14 +247,18 @@
 [/us/stat/110/1321-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-373
 [/us/pl/105/362/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1301%2Fa
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
+[/us/pl/114/74/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs701%2Fb
+[/us/stat/129/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F599
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/104/134/s31001/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fs%2F2
 [/us/stat/110/1321-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-373
+[/us/pl/104/134/s31001/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fs%2F1
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
+[/us/pl/114/74/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs701%2Fc
+[/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
 [/us/pl/103/356/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs404
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501

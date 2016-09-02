@@ -25,6 +25,12 @@
 
     Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, § 2, cl. 2.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–74, title VII, § 701(a)][/us/pl/114/74/s701/a], Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599], provided that: 
+
+> “This section \[amending and repealing provisions set out as notes under [section 2461 of this title][/us/usc/t28/s2461]\] may be cited as the ‘Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–188, § 1][/us/pl/112/188/s1], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433], provided that: 
@@ -344,6 +350,9 @@
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/act/1911-03-03/ch231/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs215
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
+[/us/pl/114/74/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs701%2Fa
+[/us/stat/129/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F599
+[/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461
 [/us/pl/112/188/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs1
 [/us/stat/126/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1433
 [/us/usc/t28/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs104
