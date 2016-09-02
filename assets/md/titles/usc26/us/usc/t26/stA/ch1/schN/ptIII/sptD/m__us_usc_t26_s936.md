@@ -101,57 +101,77 @@
 
                       <tr>
 
-                        <td>  In the case of taxable  </td>
+                        <td> 
 
-                        <td> The     </td>
+                      In the case of taxable years
 
-  </tr>
+                       beginning in:  </td>
 
-                      <tr>
+                        <td> 
 
-                        <td>   years beginning in:  </td>
+                    The
 
-                        <td> percentage is:  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td>  1994  </td>
-
-                        <td> 60    </td>
+                    percentage is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>  1995  </td>
+                        <td> 
 
-                        <td> 55    </td>
+                    1994  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>  1996  </td>
-
-                        <td> 50    </td>
+                    60    </td>
 
   </tr>
 
                       <tr>
 
-                        <td>  1997  </td>
+                        <td> 
 
-                        <td> 45    </td>
+                    1995  </td>
+
+                        <td> 
+
+                    55    </td>
 
   </tr>
 
                       <tr>
 
-                        <td>  1998 and thereafter  </td>
+                        <td> 
 
-                        <td> 40.     </td>
+                    1996  </td>
+
+                        <td> 
+
+                    50    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    1997  </td>
+
+                        <td> 
+
+                    45    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    1998 and thereafter  </td>
+
+                        <td> 
+
+                    40.  </td>
 
   </tr>
 
@@ -957,33 +977,39 @@
 
   <tr>
 
-    <td> “For taxable years beginning  </td>
+    <td> 
 
-    <td>    </td>
+“For taxable years beginning in calendar
 
-  </tr>
+ year:  </td>
 
-  <tr>
+    <td> 
 
-    <td>  in calendar year:  </td>
-
-    <td> The percentage is:  </td>
+The percentage is:  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1983  </td>
+    <td> 
 
-    <td> 55    </td>
+ 1983  </td>
+
+    <td> 
+
+55    </td>
 
   </tr>
 
   <tr>
 
-    <td> 1984  </td>
+    <td> 
 
-    <td> 60.”  </td>
+ 1984  </td>
+
+    <td> 
+
+60.”  </td>
 
   </tr>
 

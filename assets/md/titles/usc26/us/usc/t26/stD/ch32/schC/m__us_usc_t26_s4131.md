@@ -55,49 +55,61 @@
 
   <tr>
 
-    <td>    </td>
+    <td> 
 
-    <td> The tax per  </td>
+“If the taxable vaccine is:  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td>  “If the taxable vaccine is:  </td>
-
-    <td> dose is:  </td>
+The tax per dose is:  </td>
 
   </tr>
 
   <tr>
 
-    <td> DPT vaccine  </td>
+    <td> 
 
-    <td> $4.56   </td>
+ DPT vaccine  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> DT vaccine  </td>
-
-    <td> 0.06   </td>
+$4.56    </td>
 
   </tr>
 
   <tr>
 
-    <td> MMR vaccine  </td>
+    <td> 
 
-    <td> 4.44   </td>
+ DT vaccine  </td>
+
+    <td> 
+
+0.06    </td>
 
   </tr>
 
   <tr>
 
-    <td> Polio vaccine  </td>
+    <td> 
 
-    <td> 0.29.    </td>
+ MMR vaccine  </td>
+
+    <td> 
+
+4.44    </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+ Polio vaccine  </td>
+
+    <td> 
+
+0.29.  </td>
 
   </tr>
 

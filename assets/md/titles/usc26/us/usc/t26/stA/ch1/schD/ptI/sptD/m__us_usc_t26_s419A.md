@@ -211,49 +211,63 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                 In the case of:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
+                The
 
-                    <td>   In the case of:  </td>
-
-                    <td> percentage is:  </td>
+                applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> The first taxable year to which this section applies  </td>
+                    <td> 
 
-                    <td> 80    </td>
+                The first taxable year to which this section applies  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> The second taxable year to which this section applies  </td>
-
-                    <td> 60    </td>
+                80    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> The third taxable year to which this section applies  </td>
+                    <td> 
 
-                    <td> 40    </td>
+                The second taxable year to which this section applies  </td>
+
+                    <td> 
+
+                60    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> The fourth taxable year to which this section applies  </td>
+                    <td> 
 
-                    <td> 20.  </td>
+                The third taxable year to which this section applies  </td>
+
+                    <td> 
+
+                40    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                The fourth taxable year to which this section applies  </td>
+
+                    <td> 
+
+                20.  </td>
 
   </tr>
 

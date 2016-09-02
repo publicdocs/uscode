@@ -35,7 +35,7 @@
 
                 <td> 
 
-            For taxable years beginning in:  </td>
+             For taxable years beginning in:  </td>
 
                 <td> 
 
@@ -51,7 +51,7 @@
 
                 <td> 
 
-            3  </td>
+            3     </td>
 
   </tr>
 
@@ -63,7 +63,7 @@
 
                 <td> 
 
-            6.  </td>
+            6.   </td>
 
   </tr>
 

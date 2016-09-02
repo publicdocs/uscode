@@ -155,65 +155,75 @@
 
                       <tr>
 
-                        <td>    </td>
+                        <td> 
 
-                        <td> The  </td>
+                      If the preceding taxable year
 
-  </tr>
+                       begins in:  </td>
 
-                      <tr>
+                        <td> 
 
-                        <td> If the preceding taxable  </td>
-
-                        <td> applicable  </td>
+                    The applicable percentage is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>  year begins in:  </td>
+                        <td> 
 
-                        <td> percentage is:  </td>
+                    1998  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   1998  </td>
-
-                        <td> 105    </td>
+                    105    </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   1999  </td>
+                        <td> 
 
-                        <td> 108.6    </td>
+                    1999  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   2000  </td>
-
-                        <td> 110    </td>
+                    108.6    </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   2001  </td>
+                        <td> 
 
-                        <td> 112    </td>
+                    2000  </td>
+
+                        <td> 
+
+                    110    </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   2002 or thereafter  </td>
+                        <td> 
 
-                        <td> 110.  </td>
+                    2001  </td>
+
+                        <td> 
+
+                    112    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    2002 or thereafter  </td>
+
+                        <td> 
+
+                    110.  </td>
 
   </tr>
 
@@ -289,49 +299,63 @@
 
                   <tr>
 
-                    <td>  In the case of the following  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                  In the case of the following
 
-  </tr>
+                   required installments:  </td>
 
-                  <tr>
+                    <td> 
 
-                    <td>   required installments:  </td>
-
-                    <td> percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 1st  </td>
+                    <td> 
 
-                    <td> 22.5    </td>
+                1st  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2nd  </td>
-
-                    <td> 45    </td>
+                22.5    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 3rd  </td>
+                    <td> 
 
-                    <td> 67.5    </td>
+                2nd  </td>
+
+                    <td> 
+
+                45    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 4th  </td>
+                    <td> 
 
-                    <td> 90.  </td>
+                3rd  </td>
+
+                    <td> 
+
+                67.5    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                4th  </td>
+
+                    <td> 
+
+                90.  </td>
 
   </tr>
 
@@ -533,41 +557,63 @@
 
                   <tr>
 
-                    <td>  In the case of the following  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                 In the case of the following
 
-  </tr>
+                  required installments:  </td>
 
-                  <tr>
+                    <td> 
 
-                    <td>   required installments:  </td>
-
-                    <td> percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 1st  </td>
+                    <td> 
 
-                    <td> 45    </td>
+                1st  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2nd  </td>
-
-                    <td> 67.5    </td>
+                22.5    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 3rd  </td>
+                    <td> 
 
-                    <td> 90.  </td>
+                2nd  </td>
+
+                    <td> 
+
+                45    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                3rd  </td>
+
+                    <td> 
+
+                67.5    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                4th  </td>
+
+                    <td> 
+
+                90.  </td>
 
   </tr>
 

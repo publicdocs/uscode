@@ -45,7 +45,7 @@
 
                         <td> 
 
-                    Years of service:  </td>
+                       Years of service:  </td>
 
                         <td> 
 
@@ -61,7 +61,7 @@
 
                         <td> 
 
-                    20  </td>
+                    20    </td>
 
   </tr>
 
@@ -73,7 +73,7 @@
 
                         <td> 
 
-                    40  </td>
+                    40    </td>
 
   </tr>
 
@@ -85,7 +85,7 @@
 
                         <td> 
 
-                    60  </td>
+                    60    </td>
 
   </tr>
 
@@ -97,7 +97,7 @@
 
                         <td> 
 
-                    80  </td>
+                    80    </td>
 
   </tr>
 
@@ -135,7 +135,7 @@
 
                         <td> 
 
-                    Years of service:  </td>
+                       Years of service:  </td>
 
                         <td> 
 
@@ -151,7 +151,7 @@
 
                         <td> 
 
-                    20  </td>
+                    20    </td>
 
   </tr>
 
@@ -163,7 +163,7 @@
 
                         <td> 
 
-                    40  </td>
+                    40    </td>
 
   </tr>
 
@@ -175,7 +175,7 @@
 
                         <td> 
 
-                    60  </td>
+                    60    </td>
 
   </tr>
 
@@ -187,7 +187,7 @@
 
                         <td> 
 
-                    80  </td>
+                    80    </td>
 
   </tr>
 

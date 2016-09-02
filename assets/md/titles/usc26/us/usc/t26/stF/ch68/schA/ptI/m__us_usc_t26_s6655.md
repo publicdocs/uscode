@@ -199,49 +199,63 @@
 
                   <tr>
 
-                    <td>  In the case of the following  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                   In the case of the following
 
-  </tr>
+                    required installments:  </td>
 
-                  <tr>
+                    <td> 
 
-                    <td>   required installments:  </td>
-
-                    <td> percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    1st  </td>
+                    <td> 
 
-                    <td>   25     </td>
+                 1st  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    2nd  </td>
-
-                    <td>   50     </td>
+                25    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    3rd  </td>
+                    <td> 
 
-                    <td>   75     </td>
+                 2nd  </td>
+
+                    <td> 
+
+                50    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    4th  </td>
+                    <td> 
 
-                    <td>   100.      </td>
+                 3rd  </td>
+
+                    <td> 
+
+                75    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 4th  </td>
+
+                    <td> 
+
+                100.  </td>
 
   </tr>
 

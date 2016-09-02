@@ -125,55 +125,65 @@
 
               <tr>
 
-                <td> If the applicable election year  </td>
+                <td> 
+
+            If the applicable election year of
+
+             the partnership or S corporation
+
+             begins during:  </td>
+
+                <td> 
+
+            The applicable percentage is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>  of the partnership or S  </td>
+                <td> 
 
-                <td> The applicable  </td>
+            1987  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  corporation begins during:  </td>
-
-                <td> percentage is:  </td>
+            25    </td>
 
   </tr>
 
               <tr>
 
-                <td>   1987  </td>
+                <td> 
 
-                <td>    25    </td>
+            1988  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   1988  </td>
-
-                <td>    50    </td>
+            50    </td>
 
   </tr>
 
               <tr>
 
-                <td>   1989  </td>
+                <td> 
 
-                <td>    75    </td>
+            1989  </td>
+
+                <td> 
+
+            75    </td>
 
   </tr>
 
               <tr>
 
-                <td>   1990 or thereafter  </td>
+                <td> 
 
-                <td>    100.     </td>
+            1990 or thereafter  </td>
+
+                <td> 
+
+            100.  </td>
 
   </tr>
 

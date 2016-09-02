@@ -43,19 +43,15 @@
 
 >           <tr>
 
->             <td>    </td>
+>             <td> 
 
->             <td> The percentage taken  </td>
+>          “In the case of the:  </td>
 
->         
+>             <td> 
 
-  </tr>
+>         The percentage taken into
 
->           <tr>
-
->             <td>   “In the case of the:  </td>
-
->             <td> into account is:  </td>
+>         account is:  </td>
 
 >         
 
@@ -63,19 +59,13 @@
 
 >           <tr>
 
->             <td> 1st year  </td>
+>             <td> 
 
->             <td> 25     </td>
+>         1st year  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td> 2nd year  </td>
-
->             <td> 5     </td>
+>         25    </td>
 
 >         
 
@@ -83,9 +73,13 @@
 
 >           <tr>
 
->             <td> 3rd year  </td>
+>             <td> 
 
->             <td> 35     </td>
+>         2nd year  </td>
+
+>             <td> 
+
+>         5    </td>
 
 >         
 
@@ -93,9 +87,27 @@
 
 >           <tr>
 
->             <td> 4th year  </td>
+>             <td> 
 
->             <td> 35.      </td>
+>         3rd year  </td>
+
+>             <td> 
+
+>         35    </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         4th year  </td>
+
+>             <td> 
+
+>         35.  </td>
 
 >         
 

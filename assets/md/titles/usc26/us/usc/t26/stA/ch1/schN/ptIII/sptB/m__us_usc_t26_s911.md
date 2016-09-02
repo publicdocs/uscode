@@ -441,49 +441,61 @@
 
   <tr>
 
-    <td> “In the case of taxable years  </td>
+    <td> 
 
-    <td>    </td>
+“In the case of taxable years beginning in:  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td>   beginning in:  </td>
-
-    <td> The annual rate is:  </td>
+The annual rate is:  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1983, 1984, 1985, 1986, or 1987  </td>
+    <td> 
 
-    <td> $80,000    </td>
+ 1983, 1984, 1985, 1986, or 1987  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> 1988  </td>
-
-    <td> 85,000    </td>
+$80,000    </td>
 
   </tr>
 
   <tr>
 
-    <td> 1989  </td>
+    <td> 
 
-    <td> 90,000    </td>
+ 1988  </td>
+
+    <td> 
+
+85,000    </td>
 
   </tr>
 
   <tr>
 
-    <td> 1990 and thereafter  </td>
+    <td> 
 
-    <td> 95,000.”  </td>
+ 1989  </td>
+
+    <td> 
+
+90,000    </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+ 1990 and thereafter  </td>
+
+    <td> 
+
+95,000.”  </td>
 
   </tr>
 

@@ -63,41 +63,49 @@
 
   <tr>
 
-    <td>    </td>
+    <td> 
 
-    <td> Base tax  </td>
+“Calendar year:  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td>  “Calendar year:  </td>
-
-    <td> amount:  </td>
+Base tax amount:  </td>
 
   </tr>
 
   <tr>
 
-    <td>   1993  </td>
+    <td> 
 
-    <td> 3.35   </td>
+ 1993  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td>   1994  </td>
-
-    <td> 4.35   </td>
+3.35   </td>
 
   </tr>
 
   <tr>
 
-    <td>   1995  </td>
+    <td> 
 
-    <td> 5.35.”  </td>
+ 1994  </td>
+
+    <td> 
+
+4.35   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+ 1995  </td>
+
+    <td> 
+
+5.35.”  </td>
 
   </tr>
 

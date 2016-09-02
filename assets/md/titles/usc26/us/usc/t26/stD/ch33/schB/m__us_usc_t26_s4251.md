@@ -87,31 +87,39 @@
 
   <tr>
 
-    <td> “With respect to amount paid pur-  </td>
+    <td> 
+
+“With respect to amount paid pursuant to
+
+ bills first rendered:  </td>
+
+    <td> 
+
+The percentage is:  </td>
 
   </tr>
 
   <tr>
 
-    <td>  suant to bills first rendered:  </td>
+    <td> 
 
-    <td> The percentage is:  </td>
+During 1983, 1984, 1985, 1986, or 1987  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td>   During 1983, 1984, 1985, 1986, or 1987  </td>
-
-    <td> 3    </td>
+3    </td>
 
   </tr>
 
   <tr>
 
-    <td>   During 1988 or thereafter  </td>
+    <td> 
 
-    <td> 0.”  </td>
+During 1988 or thereafter  </td>
+
+    <td> 
+
+0.”  </td>
 
   </tr>
 
@@ -129,9 +137,7 @@
 
     <td> 
 
-“Amounts paid pursuant to
-
- bills first rendered—  </td>
+“Amounts paid pursuant to bills first rendered—  </td>
 
     <td> 
 
@@ -143,11 +149,11 @@ Percent—  </td>
 
     <td> 
 
-“Before January 1, 1973  </td>
+Before January 1, 1973  </td>
 
     <td> 
 
-10  </td>
+10    </td>
 
   </tr>
 
@@ -159,7 +165,7 @@ During 1973  </td>
 
     <td> 
 
-9  </td>
+9    </td>
 
   </tr>
 
@@ -171,7 +177,7 @@ During 1974  </td>
 
     <td> 
 
-8  </td>
+8    </td>
 
   </tr>
 
@@ -183,7 +189,7 @@ During 1975  </td>
 
     <td> 
 
-7  </td>
+7    </td>
 
   </tr>
 
@@ -195,7 +201,7 @@ During 1976  </td>
 
     <td> 
 
-6  </td>
+6    </td>
 
   </tr>
 
@@ -207,7 +213,7 @@ During 1977  </td>
 
     <td> 
 
-5  </td>
+5    </td>
 
   </tr>
 
@@ -219,7 +225,7 @@ During 1978  </td>
 
     <td> 
 
-4  </td>
+4    </td>
 
   </tr>
 
@@ -231,7 +237,7 @@ During 1979  </td>
 
     <td> 
 
-3  </td>
+3    </td>
 
   </tr>
 
@@ -243,7 +249,7 @@ During 1980 or 1981  </td>
 
     <td> 
 
-2  </td>
+2    </td>
 
   </tr>
 

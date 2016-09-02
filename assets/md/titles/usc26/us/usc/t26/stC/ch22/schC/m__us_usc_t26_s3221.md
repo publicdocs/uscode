@@ -97,31 +97,37 @@
 
   <tr>
 
-    <td>  “In the case of compensation  </td>
+    <td> 
+
+“In the case of compensation paid during:  </td>
+
+    <td> 
+
+The rate shall be:  </td>
 
   </tr>
 
   <tr>
 
-    <td>   paid during:  </td>
+    <td> 
 
-    <td> The rate shall be:  </td>
+ 1985  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> 1985  </td>
-
-    <td> 13.75    </td>
+13.75    </td>
 
   </tr>
 
   <tr>
 
-    <td> 1986 or thereafter  </td>
+    <td> 
 
-    <td> 14.75.”  </td>
+ 1986 or thereafter  </td>
+
+    <td> 
+
+14.75.”  </td>
 
   </tr>
 

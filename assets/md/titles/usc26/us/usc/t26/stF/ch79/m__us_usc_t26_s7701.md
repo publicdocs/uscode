@@ -467,41 +467,49 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                   In the case of days in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    In the case of days in:  </td>
-
-                    <td> multiplier is:  </td>
+                The applicable multiplier is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  Current year  </td>
+                    <td> 
 
-                    <td> 1   </td>
+                Current year  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  1st preceding year  </td>
-
-                    <td> ⅓  </td>
+                1   </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2nd preceding year  </td>
+                    <td> 
 
-                    <td> ⅙  </td>
+                1st preceding year  </td>
+
+                    <td> 
+
+                ⅓   </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2nd preceding year  </td>
+
+                    <td> 
+
+                ⅙   </td>
 
   </tr>
 

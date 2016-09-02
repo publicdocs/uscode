@@ -163,49 +163,51 @@
 
                       <tr>
 
-                        <td> In the case of a plan year  </td>
+                        <td> 
 
-                        <td> The  </td>
+                     In the case of a plan year
 
-  </tr>
+                      beginning in calendar year:  </td>
 
-                      <tr>
+                        <td> 
 
-                        <td>    </td>
-
-                        <td> applicable  </td>
+                    The applicable percentage is  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> beginning in calendar year:  </td>
+                        <td> 
 
-                        <td> percentage is  </td>
+                    2008  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td> 2008  </td>
-
-                        <td> 92  </td>
+                    92    </td>
 
   </tr>
 
                       <tr>
 
-                        <td> 2009  </td>
+                        <td> 
 
-                        <td> 94  </td>
+                    2009  </td>
+
+                        <td> 
+
+                    94    </td>
 
   </tr>
 
                       <tr>
 
-                        <td> 2010  </td>
+                        <td> 
 
-                        <td> 96.  </td>
+                    2010  </td>
+
+                        <td> 
+
+                    96.  </td>
 
   </tr>
 
@@ -731,11 +733,15 @@
 
                             <td> 
 
-                        The applicable minimum percentage is:  </td>
+                        The
+
+                        applicable minimum percentage is:  </td>
 
                             <td> 
 
-                        The applicable maximum percentage is:  </td>
+                        The
+
+                        applicable maximum percentage is:  </td>
 
   </tr>
 
@@ -751,7 +757,7 @@
 
                             <td> 
 
-                        110%  </td>
+                        110%    </td>
 
   </tr>
 
@@ -767,7 +773,7 @@
 
                             <td> 
 
-                        115%  </td>
+                        115%    </td>
 
   </tr>
 
@@ -783,7 +789,7 @@
 
                             <td> 
 
-                        120%  </td>
+                        120%    </td>
 
   </tr>
 
@@ -799,7 +805,7 @@
 
                             <td> 
 
-                        125%  </td>
+                        125%    </td>
 
   </tr>
 
@@ -1073,65 +1079,67 @@
 
                   <tr>
 
-                    <td> If the consecutive number of  </td>
+                    <td> 
 
-                    <td> The  </td>
+                 If the consecutive number of years
 
-  </tr>
+                  (including the plan year) the
 
-                  <tr>
+                  plan is in at-risk status is—  </td>
 
-                    <td> years (including the plan year)  </td>
+                    <td> 
 
-                    <td> transition  </td>
+                The transition
 
-  </tr>
-
-                  <tr>
-
-                    <td> the plan is in at-risk status is—  </td>
-
-                    <td> percentage  </td>
+                percentage is—  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> is—  </td>
+                1  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 1  </td>
-
-                    <td> 20  </td>
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2  </td>
+                    <td> 
 
-                    <td> 40  </td>
+                2  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 3  </td>
-
-                    <td> 60  </td>
+                40    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 4  </td>
+                    <td> 
 
-                    <td> 80.  </td>
+                3  </td>
+
+                    <td> 
+
+                60    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                4  </td>
+
+                    <td> 
+
+                80.  </td>
 
   </tr>
 
@@ -1471,11 +1479,23 @@
 
     <td> 
 
-The applicable minimum percentage is:  </td>
+The
+
+applicable
+
+minimum
+
+percentage is:  </td>
 
     <td> 
 
-The applicable maximum percentage is:  </td>
+The
+
+applicable
+
+maximum
+
+percentage is:  </td>
 
   </tr>
 

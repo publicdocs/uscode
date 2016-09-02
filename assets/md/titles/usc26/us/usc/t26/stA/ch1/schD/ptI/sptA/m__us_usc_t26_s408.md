@@ -777,7 +777,9 @@
 
                         <td> 
 
-                      For years beginning in calendar year:  </td>
+                     For years beginning in calendar
+
+                      year:  </td>
 
                         <td> 
 
@@ -793,7 +795,7 @@
 
                         <td> 
 
-                    $7,000  </td>
+                    $7,000    </td>
 
   </tr>
 
@@ -805,7 +807,7 @@
 
                         <td> 
 
-                    $8,000  </td>
+                    $8,000    </td>
 
   </tr>
 
@@ -817,7 +819,7 @@
 
                         <td> 
 
-                    $9,000  </td>
+                    $9,000    </td>
 
   </tr>
 

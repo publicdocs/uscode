@@ -111,11 +111,13 @@
 
                     <td> 
 
-                If the recapture event occurs in:  </td>
+                 If the recapture event occurs in:  </td>
 
                     <td> 
 
-                The applicable recapture percentage is:  </td>
+                The
+
+                applicable recapture percentage is:  </td>
 
   </tr>
 
@@ -127,7 +129,7 @@
 
                     <td> 
 
-                100  </td>
+                100    </td>
 
   </tr>
 
@@ -139,7 +141,7 @@
 
                     <td> 
 
-                85  </td>
+                85    </td>
 
   </tr>
 
@@ -151,7 +153,7 @@
 
                     <td> 
 
-                70  </td>
+                70    </td>
 
   </tr>
 
@@ -163,7 +165,7 @@
 
                     <td> 
 
-                55  </td>
+                55    </td>
 
   </tr>
 
@@ -175,7 +177,7 @@
 
                     <td> 
 
-                40  </td>
+                40    </td>
 
   </tr>
 
@@ -187,7 +189,7 @@
 
                     <td> 
 
-                25  </td>
+                25    </td>
 
   </tr>
 
@@ -199,7 +201,7 @@
 
                     <td> 
 
-                10  </td>
+                10    </td>
 
   </tr>
 

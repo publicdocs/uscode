@@ -293,169 +293,253 @@
 
           <tr>
 
-            <td> Ozone-depleting chemical:  </td>
+            <td> 
 
-            <td> Ozone-depletion factor:  </td>
+        Ozone-depleting chemical:  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–11  </td>
-
-            <td> 1.0    </td>
+        Ozone-depletion factor:  </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–12  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        CFC–11  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–113  </td>
-
-            <td> 0.8    </td>
+        1.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–114  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        CFC–12  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–115  </td>
-
-            <td> 0.6    </td>
+        1.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> Halon-1211  </td>
+            <td> 
 
-            <td> 3.0    </td>
+        CFC–113  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Halon-1301  </td>
-
-            <td> 10.0    </td>
+        0.8    </td>
 
   </tr>
 
           <tr>
 
-            <td> Halon-2402  </td>
+            <td> 
 
-            <td> 6.0    </td>
+        CFC–114  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Carbon tetrachloride  </td>
-
-            <td> 1.1    </td>
+        1.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> Methyl chloroform  </td>
+            <td> 
 
-            <td> 0.1    </td>
+        CFC–115  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–13.  </td>
-
-            <td> 1.0    </td>
+        0.6    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–111  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        Halon-1211  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–112  </td>
-
-            <td> 1.0    </td>
+        3.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–211  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        Halon-1301  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–212  </td>
-
-            <td> 1.0    </td>
+        10.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–213  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        Halon-2402  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–214  </td>
-
-            <td> 1.0    </td>
+        6.0    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–215  </td>
+            <td> 
 
-            <td> 1.0    </td>
+        Carbon tetrachloride  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> CFC–216  </td>
-
-            <td> 1.0    </td>
+        1.1    </td>
 
   </tr>
 
           <tr>
 
-            <td> CFC–217  </td>
+            <td> 
 
-            <td> 1.0.  </td>
+        Methyl chloroform  </td>
+
+            <td> 
+
+        0.1    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–13  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–111  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–112  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–211  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–212  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–213  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–214  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–215  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–216  </td>
+
+            <td> 
+
+        1.0    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        CFC–217  </td>
+
+            <td> 
+
+        1.0.  </td>
 
   </tr>
 

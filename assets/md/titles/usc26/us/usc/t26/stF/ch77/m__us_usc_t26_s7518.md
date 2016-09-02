@@ -233,57 +233,75 @@
 
                   <tr>
 
-                    <td> If the amount remains in the fund  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                 If the amount remains in the fund
 
-  </tr>
+                  at the close of the—  </td>
 
-                  <tr>
+                    <td> 
 
-                    <td>  at the close of the—  </td>
-
-                    <td> percentage is—  </td>
+                The applicable percentage is—  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   26th taxable year  </td>
+                    <td> 
 
-                    <td>  20 percent    </td>
+                26th taxable year  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   27th taxable year  </td>
-
-                    <td>  40 percent    </td>
+                20 percent    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   28th taxable year  </td>
+                    <td> 
 
-                    <td>  60 percent    </td>
+                27th taxable year  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   29th taxable year  </td>
-
-                    <td>  80 percent    </td>
+                40 percent    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   30th taxable year  </td>
+                    <td> 
 
-                    <td>  100 percent.  </td>
+                28th taxable year  </td>
+
+                    <td> 
+
+                60 percent    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                29th taxable year  </td>
+
+                    <td> 
+
+                80 percent    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                30th taxable year  </td>
+
+                    <td> 
+
+                100 percent.  </td>
 
   </tr>
 

@@ -99,65 +99,97 @@
 
           <tr>
 
-            <td> If the calendar year is:  </td>
+            <td> 
 
-            <td> The percentage is:  </td>
+        If the calendar year is:  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  1996  </td>
-
-            <td>  9 percent      </td>
+        The percentage is:  </td>
 
   </tr>
 
           <tr>
 
-            <td>  1997  </td>
+            <td> 
 
-            <td>  8 percent      </td>
+        1996  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  1998  </td>
-
-            <td>  7 percent      </td>
+        9 percent    </td>
 
   </tr>
 
           <tr>
 
-            <td>  1999  </td>
+            <td> 
 
-            <td>  6 percent      </td>
+        1997  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  2000  </td>
-
-            <td>  5 percent      </td>
+        8 percent    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2001  </td>
+            <td> 
 
-            <td>  4 percent      </td>
+        1998  </td>
+
+            <td> 
+
+        7 percent    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2002  </td>
+            <td> 
 
-            <td>  3 percent  .  </td>
+        1999  </td>
+
+            <td> 
+
+        6 percent    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        2000  </td>
+
+            <td> 
+
+        5 percent    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        2001  </td>
+
+            <td> 
+
+        4 percent    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        2002  </td>
+
+            <td> 
+
+        3 percent.  </td>
 
   </tr>
 

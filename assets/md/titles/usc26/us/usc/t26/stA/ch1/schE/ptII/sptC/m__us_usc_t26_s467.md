@@ -149,73 +149,99 @@
 
               <tr>
 
-                <td>    </td>
+                <td> 
 
-                <td> The statutory  </td>
+             In the case of:  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
+            The statutory recovery
 
-                <td>  In the case of:  </td>
-
-                <td> recovery period is:  </td>
+            period is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>   3-year property  </td>
+                <td> 
 
-                <td> 3 years    </td>
+            3-year property  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   5-year property  </td>
-
-                <td> 5 years    </td>
+            3 years    </td>
 
   </tr>
 
               <tr>
 
-                <td>   7-year property  </td>
+                <td> 
 
-                <td> 7 years    </td>
+            5-year property  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   10-year property  </td>
-
-                <td> 10 years    </td>
+            5 years    </td>
 
   </tr>
 
               <tr>
 
-                <td>   15-year and 20-year property  </td>
+                <td> 
 
-                <td> 15 years    </td>
+            7-year property  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Residential rental property and nonresi-     dential real property  </td>
-
-                <td> 19 years    </td>
+            7 years    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Any railroad grading or tunnel bore  </td>
+                <td> 
 
-                <td> 50 years.  </td>
+            10-year property  </td>
+
+                <td> 
+
+            10 years    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            15-year and 20-year property  </td>
+
+                <td> 
+
+            15 years    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Residential rental property and nonresidential real property  </td>
+
+                <td> 
+
+            19 years    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Any railroad grading or tunnel bore  </td>
+
+                <td> 
+
+            50 years.  </td>
 
   </tr>
 
@@ -373,19 +399,13 @@
 
 >               <tr>
 
->                 <td>    </td>
+>                 <td> 
 
->                 <td> Cumulative percentage  </td>
+>              “Portion of lease term:  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>    </td>
-
->                 <td> of total rent  </td>
+>             Cumulative percentage of total rent deemed paid:  </td>
 
 >             
 
@@ -393,19 +413,13 @@
 
 >               <tr>
 
->                 <td>    “Portion of lease term:  </td>
+>                 <td> 
 
->                 <td> deemed paid:  </td>
+>             1st ⅕  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 1st ⅕  </td>
-
->                 <td> 10    </td>
+>             10    </td>
 
 >             
 
@@ -413,19 +427,13 @@
 
 >               <tr>
 
->                 <td> 2nd ⅕  </td>
+>                 <td> 
 
->                 <td> 25    </td>
+>             2nd ⅕  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 3rd ⅕  </td>
-
->                 <td> 45    </td>
+>             25    </td>
 
 >             
 
@@ -433,9 +441,13 @@
 
 >               <tr>
 
->                 <td> 4th ⅕  </td>
+>                 <td> 
 
->                 <td> 70    </td>
+>             3rd ⅕  </td>
+
+>                 <td> 
+
+>             45    </td>
 
 >             
 
@@ -443,9 +455,27 @@
 
 >               <tr>
 
->                 <td> Last ⅕  </td>
+>                 <td> 
 
->                 <td> 100.  </td>
+>             4th ⅕  </td>
+
+>                 <td> 
+
+>             70    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             Last ⅕  </td>
+
+>                 <td> 
+
+>             100.  </td>
 
 >             
 

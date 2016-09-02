@@ -479,7 +479,9 @@
 
                     <td> 
 
-                  For taxable years beginning in calendar year—  </td>
+                 For taxable years beginning in
+
+                  calendar year—  </td>
 
                     <td> 
 
@@ -495,7 +497,7 @@
 
                     <td> 
 
-                55  </td>
+                55    </td>
 
   </tr>
 
@@ -507,7 +509,7 @@
 
                     <td> 
 
-                60  </td>
+                60    </td>
 
   </tr>
 
@@ -519,7 +521,7 @@
 
                     <td> 
 
-                65  </td>
+                65    </td>
 
   </tr>
 
@@ -531,7 +533,7 @@
 
                     <td> 
 
-                70  </td>
+                70    </td>
 
   </tr>
 
@@ -543,7 +545,7 @@
 
                     <td> 
 
-                75  </td>
+                75    </td>
 
   </tr>
 

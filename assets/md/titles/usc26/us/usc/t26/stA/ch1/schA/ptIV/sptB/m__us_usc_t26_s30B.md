@@ -75,7 +75,7 @@
 
                     <td> 
 
-                If vehicle inertia weight class is:  </td>
+                  If vehicle inertia weight class is:  </td>
 
                     <td> 
 
@@ -91,7 +91,7 @@
 
                     <td> 
 
-                45.2 mpg  </td>
+                45.2 mpg    </td>
 
   </tr>
 
@@ -103,7 +103,7 @@
 
                     <td> 
 
-                39.6 mpg  </td>
+                39.6 mpg    </td>
 
   </tr>
 
@@ -111,11 +111,11 @@
 
                     <td> 
 
-                 2,250 lbs  </td>
+                2,250 lbs  </td>
 
                     <td> 
 
-                35.2 mpg  </td>
+                35.2 mpg    </td>
 
   </tr>
 
@@ -123,11 +123,11 @@
 
                     <td> 
 
-                 2,500 lbs  </td>
+                2,500 lbs  </td>
 
                     <td> 
 
-                31.7 mpg  </td>
+                31.7 mpg    </td>
 
   </tr>
 
@@ -135,11 +135,11 @@
 
                     <td> 
 
-                 2,750 lbs  </td>
+                2,750 lbs  </td>
 
                     <td> 
 
-                28.8 mpg  </td>
+                28.8 mpg    </td>
 
   </tr>
 
@@ -147,11 +147,11 @@
 
                     <td> 
 
-                 3,000 lbs  </td>
+                3,000 lbs  </td>
 
                     <td> 
 
-                26.4 mpg  </td>
+                26.4 mpg    </td>
 
   </tr>
 
@@ -159,11 +159,11 @@
 
                     <td> 
 
-                 3,500 lbs  </td>
+                3,500 lbs  </td>
 
                     <td> 
 
-                22.6 mpg  </td>
+                22.6 mpg    </td>
 
   </tr>
 
@@ -171,11 +171,11 @@
 
                     <td> 
 
-                 4,000 lbs  </td>
+                4,000 lbs  </td>
 
                     <td> 
 
-                19.8 mpg  </td>
+                19.8 mpg    </td>
 
   </tr>
 
@@ -183,11 +183,11 @@
 
                     <td> 
 
-                 4,500 lbs  </td>
+                4,500 lbs  </td>
 
                     <td> 
 
-                17.6 mpg  </td>
+                17.6 mpg    </td>
 
   </tr>
 
@@ -195,11 +195,11 @@
 
                     <td> 
 
-                 5,000 lbs  </td>
+                5,000 lbs  </td>
 
                     <td> 
 
-                15.9 mpg  </td>
+                15.9 mpg    </td>
 
   </tr>
 
@@ -207,11 +207,11 @@
 
                     <td> 
 
-                 5,500 lbs  </td>
+                5,500 lbs  </td>
 
                     <td> 
 
-                14.4 mpg  </td>
+                14.4 mpg    </td>
 
   </tr>
 
@@ -219,11 +219,11 @@
 
                     <td> 
 
-                 6,000 lbs  </td>
+                6,000 lbs  </td>
 
                     <td> 
 
-                13.2 mpg  </td>
+                13.2 mpg    </td>
 
   </tr>
 
@@ -231,11 +231,11 @@
 
                     <td> 
 
-                 6,500 lbs  </td>
+                6,500 lbs  </td>
 
                     <td> 
 
-                12.2 mpg  </td>
+                12.2 mpg    </td>
 
   </tr>
 
@@ -243,7 +243,7 @@
 
                     <td> 
 
-                 7,000 to 8,500 lbs  </td>
+                7,000 to 8,500 lbs  </td>
 
                     <td> 
 
@@ -261,7 +261,7 @@
 
                     <td> 
 
-                If vehicle inertia weight class is:  </td>
+                  If vehicle inertia weight class is:  </td>
 
                     <td> 
 
@@ -277,7 +277,7 @@
 
                     <td> 
 
-                39.4 mpg  </td>
+                39.4 mpg    </td>
 
   </tr>
 
@@ -289,7 +289,7 @@
 
                     <td> 
 
-                35.2 mpg  </td>
+                35.2 mpg    </td>
 
   </tr>
 
@@ -301,7 +301,7 @@
 
                     <td> 
 
-                31.8 mpg  </td>
+                31.8 mpg    </td>
 
   </tr>
 
@@ -313,7 +313,7 @@
 
                     <td> 
 
-                29.0 mpg  </td>
+                29.0 mpg    </td>
 
   </tr>
 
@@ -325,7 +325,7 @@
 
                     <td> 
 
-                26.8 mpg  </td>
+                26.8 mpg    </td>
 
   </tr>
 
@@ -337,7 +337,7 @@
 
                     <td> 
 
-                24.9 mpg  </td>
+                24.9 mpg    </td>
 
   </tr>
 
@@ -349,7 +349,7 @@
 
                     <td> 
 
-                21.8 mpg  </td>
+                21.8 mpg    </td>
 
   </tr>
 
@@ -361,7 +361,7 @@
 
                     <td> 
 
-                19.4 mpg  </td>
+                19.4 mpg    </td>
 
   </tr>
 
@@ -373,7 +373,7 @@
 
                     <td> 
 
-                17.6 mpg  </td>
+                17.6 mpg    </td>
 
   </tr>
 
@@ -385,7 +385,7 @@
 
                     <td> 
 
-                16.1 mpg  </td>
+                16.1 mpg    </td>
 
   </tr>
 
@@ -397,7 +397,7 @@
 
                     <td> 
 
-                14.8 mpg  </td>
+                14.8 mpg    </td>
 
   </tr>
 
@@ -409,7 +409,7 @@
 
                     <td> 
 
-                13.7 mpg  </td>
+                13.7 mpg    </td>
 
   </tr>
 
@@ -421,7 +421,7 @@
 
                     <td> 
 
-                12.8 mpg  </td>
+                12.8 mpg    </td>
 
   </tr>
 

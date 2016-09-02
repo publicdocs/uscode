@@ -49,7 +49,7 @@
 
                     <td> 
 
-                For taxable years beginning in:  </td>
+                 For taxable years beginning in:  </td>
 
                     <td> 
 
@@ -65,7 +65,7 @@
 
                     <td> 
 
-                $500  </td>
+                $500    </td>
 
   </tr>
 
@@ -77,7 +77,7 @@
 
                     <td> 
 
-                $600  </td>
+                $600    </td>
 
   </tr>
 
@@ -89,7 +89,7 @@
 
                     <td> 
 
-                $700  </td>
+                $700    </td>
 
   </tr>
 
@@ -101,7 +101,7 @@
 
                     <td> 
 
-                $800  </td>
+                $800    </td>
 
   </tr>
 
@@ -113,7 +113,7 @@
 
                     <td> 
 
-                $900  </td>
+                $900    </td>
 
   </tr>
 

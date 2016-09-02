@@ -225,19 +225,15 @@
 
 >       <tr>
 
->         <td> “In the case of taxable  </td>
+>         <td> 
 
->         <td> The reduction may  </td>
+>     “In the case of taxable years
 
->     
+>      beginning in:  </td>
 
-  </tr>
+>         <td> 
 
->       <tr>
-
->         <td>  years beginning in:  </td>
-
->         <td> not exceed:  </td>
+>     The reduction may not exceed:  </td>
 
 >     
 
@@ -245,19 +241,13 @@
 
 >       <tr>
 
->         <td>   1984  </td>
+>         <td> 
 
->         <td>  $4,500,000    </td>
+>     1984  </td>
 
->     
+>         <td> 
 
-  </tr>
-
->       <tr>
-
->         <td>   1985  </td>
-
->         <td>  $4,500,000    </td>
+>     $4,500,000    </td>
 
 >     
 
@@ -265,9 +255,13 @@
 
 >       <tr>
 
->         <td>   1986  </td>
+>         <td> 
 
->         <td>  $3,000,000    </td>
+>     1985  </td>
+
+>         <td> 
+
+>     $4,500,000    </td>
 
 >     
 
@@ -275,9 +269,27 @@
 
 >       <tr>
 
->         <td>   1987  </td>
+>         <td> 
 
->         <td>  $2,000,000”  </td>
+>     1986  </td>
+
+>         <td> 
+
+>     $3,000,000    </td>
+
+>     
+
+  </tr>
+
+>       <tr>
+
+>         <td> 
+
+>     1987  </td>
+
+>         <td> 
+
+>     $2,000,000”  </td>
 
 >     
 

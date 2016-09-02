@@ -605,19 +605,13 @@
 
 >           <tr>
 
->             <td>    </td>
+>             <td> 
 
->             <td> The applicable  </td>
+>          “In the case of the:  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “In the case of the:  </td>
-
->             <td> percentage is:  </td>
+>         The applicable percentage is:  </td>
 
 >         
 
@@ -625,19 +619,13 @@
 
 >           <tr>
 
->             <td> 1st taxable year  </td>
+>             <td> 
 
->             <td> 15       </td>
+>         1st taxable year  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td> 2nd taxable year  </td>
-
->             <td> 25       </td>
+>         15    </td>
 
 >         
 
@@ -645,19 +633,13 @@
 
 >           <tr>
 
->             <td> 3rd taxable year  </td>
+>             <td> 
 
->             <td> 30       </td>
+>         2nd taxable year  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td> 4th taxable year  </td>
-
->             <td> 30.     </td>
+>         25    </td>
 
 >         
 
@@ -665,13 +647,35 @@
 
 >           <tr>
 
->             <td> If the taxpayer’s last taxable year beginning before January 1, 1987, was the taxpayer’s 1st taxable year in which sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer’s 1st taxable year beginning after December 31, 1986.  </td>
+>             <td> 
+
+>         3rd taxable year  </td>
+
+>             <td> 
+
+>         30    </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         4th taxable year  </td>
+
+>             <td> 
+
+>         30.  </td>
 
 >         
 
   </tr>
 
 >         </table>
+
+>         If the taxpayer’s last taxable year beginning before January 1, 1987, was the taxpayer’s 1st taxable year in which sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer’s 1st taxable year beginning after December 31, 1986.
 
 >     “(4) __Acceleration of adjustments where contraction in amount of installment obligations.—__ 
 

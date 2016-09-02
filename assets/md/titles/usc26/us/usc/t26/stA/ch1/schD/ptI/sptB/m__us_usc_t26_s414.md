@@ -989,7 +989,7 @@
 
                     <td> 
 
-                For taxable years beginning in:  </td>
+                   For taxable years beginning in:  </td>
 
                     <td> 
 
@@ -1005,7 +1005,7 @@
 
                     <td> 
 
-                $1,000  </td>
+                $1,000    </td>
 
   </tr>
 
@@ -1017,7 +1017,7 @@
 
                     <td> 
 
-                $2,000  </td>
+                $2,000    </td>
 
   </tr>
 
@@ -1029,7 +1029,7 @@
 
                     <td> 
 
-                $3,000  </td>
+                $3,000    </td>
 
   </tr>
 
@@ -1041,7 +1041,7 @@
 
                     <td> 
 
-                $4,000  </td>
+                $4,000    </td>
 
   </tr>
 
@@ -1067,7 +1067,7 @@
 
                     <td> 
 
-                For taxable years beginning in:  </td>
+                   For taxable years beginning in:  </td>
 
                     <td> 
 
@@ -1083,7 +1083,7 @@
 
                     <td> 
 
-                $500  </td>
+                $500    </td>
 
   </tr>
 
@@ -1095,7 +1095,7 @@
 
                     <td> 
 
-                $1,000  </td>
+                $1,000    </td>
 
   </tr>
 
@@ -1107,7 +1107,7 @@
 
                     <td> 
 
-                $1,500  </td>
+                $1,500    </td>
 
   </tr>
 
@@ -1119,7 +1119,7 @@
 
                     <td> 
 
-                $2,000  </td>
+                $2,000    </td>
 
   </tr>
 
@@ -1331,11 +1331,15 @@
 
                         <td> 
 
-                      If the participant’s age as of the beginning of the year is—  </td>
+                       If the participant’s age as of the
+
+                        beginning of the year is—  </td>
 
                         <td> 
 
-                    The percentage is—  </td>
+                    The
+
+                    percentage is—  </td>
 
   </tr>
 
@@ -1347,7 +1351,7 @@
 
                         <td> 
 
-                    2  </td>
+                    2    </td>
 
   </tr>
 
@@ -1359,7 +1363,7 @@
 
                         <td> 
 
-                    4  </td>
+                    4    </td>
 
   </tr>
 
@@ -1371,7 +1375,7 @@
 
                         <td> 
 
-                    6  </td>
+                    6    </td>
 
   </tr>
 

@@ -527,19 +527,15 @@
 
 >               <tr>
 
->                 <td>   “If the taxable year begins  </td>
+>                 <td> 
 
->                 <td> The applicable  </td>
+>              “If the taxable year begins in
 
->             
+>               calendar year:  </td>
 
-  </tr>
+>                 <td> 
 
->               <tr>
-
->                 <td>    in calendar year:  </td>
-
->                 <td> percentage is:  </td>
+>             The applicable percentage is:  </td>
 
 >             
 
@@ -547,19 +543,13 @@
 
 >               <tr>
 
->                 <td>  1983  </td>
+>                 <td> 
 
->                 <td> 33⅓  </td>
+>             1983  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>  1984  </td>
-
->                 <td> 66⅔  </td>
+>             33⅓    </td>
 
 >             
 
@@ -567,9 +557,27 @@
 
 >               <tr>
 
->                 <td>  1985 or thereafter  </td>
+>                 <td> 
 
->                 <td> 100.  </td>
+>             1984  </td>
+
+>                 <td> 
+
+>             66⅔    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             1985 or thereafter  </td>
+
+>                 <td> 
+
+>             100.  </td>
 
 >             
 

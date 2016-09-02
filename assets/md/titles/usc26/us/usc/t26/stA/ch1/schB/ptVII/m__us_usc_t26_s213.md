@@ -113,11 +113,17 @@
 
                 <td> 
 
-            In the case of an individual with an attained age before the close of the taxable year of:  </td>
+             In the case of an individual with an
+
+              attained age before the close of the
+
+              taxable year of:  </td>
 
                 <td> 
 
-            The limitation is:  </td>
+            The
+
+            limitation is:  </td>
 
   </tr>
 

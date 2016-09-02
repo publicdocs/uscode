@@ -45,57 +45,75 @@
 
               <tr>
 
-                <td>  In the case of estates of  </td>
+                <td> 
 
-                <td> The exclusion  </td>
+            In the case of estates of decedents
 
-  </tr>
+             dying during:  </td>
 
-              <tr>
+                <td> 
 
-                <td>   decedents dying during:  </td>
-
-                <td> limitation is:  </td>
+            The exclusion limitation is:  </td>
 
   </tr>
 
               <tr>
 
-                <td> 1998  </td>
+                <td> 
 
-                <td> $100,000    </td>
+            1998  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 1999  </td>
-
-                <td> $200,000    </td>
+            $100,000    </td>
 
   </tr>
 
               <tr>
 
-                <td> 2000  </td>
+                <td> 
 
-                <td> $300,000    </td>
+            1999  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 2001  </td>
-
-                <td> $400,000    </td>
+            $200,000    </td>
 
   </tr>
 
               <tr>
 
-                <td> 2002 or thereafter  </td>
+                <td> 
 
-                <td> $500,000.  </td>
+            2000  </td>
+
+                <td> 
+
+            $300,000    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            2001  </td>
+
+                <td> 
+
+            $400,000    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            2002 or thereafter  </td>
+
+                <td> 
+
+            $500,000.  </td>
 
   </tr>
 

@@ -27,353 +27,519 @@
 
           <tr>
 
-            <td>    </td>
+            <td> 
 
-            <td> The tax is the following  </td>
+        In the case of:  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
+        The tax is
 
-            <td>   In the case of:  </td>
-
-            <td> amount per ton  </td>
+        the following amount per ton  </td>
 
   </tr>
 
           <tr>
 
-            <td> Acetylene  </td>
+            <td> 
 
-            <td> $4.87  </td>
+        Acetylene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Benzene  </td>
-
-            <td> 4.87  </td>
+        $4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Butane  </td>
+            <td> 
 
-            <td> 4.87  </td>
+        Benzene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Butylene  </td>
-
-            <td> 4.87  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Butadiene  </td>
+            <td> 
 
-            <td> 4.87  </td>
+        Butane  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Ethylene  </td>
-
-            <td> 4.87  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Methane  </td>
+            <td> 
 
-            <td> 3.44  </td>
+        Butylene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Naphthalene  </td>
-
-            <td> 4.87  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Propylene  </td>
+            <td> 
 
-            <td> 4.87  </td>
+        Butadiene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Toluene  </td>
-
-            <td> 4.87  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Xylene  </td>
+            <td> 
 
-            <td> 4.87  </td>
+        Ethylene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Ammonia  </td>
-
-            <td> 2.64  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Antimony  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Methane  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Antimony trioxide  </td>
-
-            <td> 3.75  </td>
+        3.44  </td>
 
   </tr>
 
           <tr>
 
-            <td> Arsenic  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Naphthalene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Arsenic trioxide  </td>
-
-            <td> 3.41  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Barium sulfide  </td>
+            <td> 
 
-            <td> 2.30  </td>
+        Propylene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Bromine  </td>
-
-            <td> 4.45  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Cadmium  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Toluene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Chlorine  </td>
-
-            <td> 2.70  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Chromium  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Xylene  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Chromite  </td>
-
-            <td> 1.52  </td>
+        4.87  </td>
 
   </tr>
 
           <tr>
 
-            <td> Potassium dichromate  </td>
+            <td> 
 
-            <td> 1.69  </td>
+        Ammonia  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Sodium dichromate  </td>
-
-            <td> 1.87  </td>
+        2.64  </td>
 
   </tr>
 
           <tr>
 
-            <td> Cobalt  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Antimony  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Cupric sulfate  </td>
-
-            <td> 1.87  </td>
+        4.45  </td>
 
   </tr>
 
           <tr>
 
-            <td> Cupric oxide  </td>
+            <td> 
 
-            <td> 3.59  </td>
+        Antimony trioxide  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Cuprous oxide  </td>
-
-            <td> 3.97  </td>
+        3.75  </td>
 
   </tr>
 
           <tr>
 
-            <td> Hydrochloric acid  </td>
+            <td> 
 
-            <td> 0.29  </td>
+        Arsenic  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Hydrogen fluoride  </td>
-
-            <td> 4.23  </td>
+        4.45  </td>
 
   </tr>
 
           <tr>
 
-            <td> Lead oxide  </td>
+            <td> 
 
-            <td> 4.14  </td>
+        Arsenic trioxide  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Mercury  </td>
-
-            <td> 4.45  </td>
+        3.41  </td>
 
   </tr>
 
           <tr>
 
-            <td> Nickel  </td>
+            <td> 
 
-            <td> 4.45  </td>
+        Barium sulfide  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Phosphorus  </td>
-
-            <td> 4.45  </td>
+        2.30  </td>
 
   </tr>
 
           <tr>
 
-            <td> Stannous chloride  </td>
+            <td> 
 
-            <td> 2.85  </td>
+        Bromine  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Stannic chloride  </td>
-
-            <td> 2.12  </td>
+        4.45  </td>
 
   </tr>
 
           <tr>
 
-            <td> Zinc chloride  </td>
+            <td> 
 
-            <td> 2.22  </td>
+        Cadmium  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Zinc sulfate  </td>
-
-            <td> 1.90  </td>
+        4.45  </td>
 
   </tr>
 
           <tr>
 
-            <td> Potassium hydroxide  </td>
+            <td> 
 
-            <td> 0.22  </td>
+        Chlorine  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Sodium hydroxide  </td>
-
-            <td> 0.28  </td>
+        2.70  </td>
 
   </tr>
 
           <tr>
 
-            <td> Sulfuric acid  </td>
+            <td> 
 
-            <td> 0.26  </td>
+        Chromium  </td>
+
+            <td> 
+
+        4.45  </td>
 
   </tr>
 
           <tr>
 
-            <td> Nitric acid  </td>
+            <td> 
 
-            <td> 0.24  </td>
+        Chromite  </td>
+
+            <td> 
+
+        1.52  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Potassium dichromate  </td>
+
+            <td> 
+
+        1.69  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Sodium dichromate  </td>
+
+            <td> 
+
+        1.87  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Cobalt  </td>
+
+            <td> 
+
+        4.45  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Cupric sulfate  </td>
+
+            <td> 
+
+        1.87  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Cupric oxide  </td>
+
+            <td> 
+
+        3.59  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Cuprous oxide  </td>
+
+            <td> 
+
+        3.97  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Hydrochloric acid  </td>
+
+            <td> 
+
+        0.29  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Hydrogen fluoride  </td>
+
+            <td> 
+
+        4.23  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Lead oxide  </td>
+
+            <td> 
+
+        4.14  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Mercury  </td>
+
+            <td> 
+
+        4.45  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Nickel  </td>
+
+            <td> 
+
+        4.45  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Phosphorus  </td>
+
+            <td> 
+
+        4.45  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Stannous chloride  </td>
+
+            <td> 
+
+        2.85  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Stannic chloride  </td>
+
+            <td> 
+
+        2.12  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Zinc chloride  </td>
+
+            <td> 
+
+        2.22  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Zinc sulfate  </td>
+
+            <td> 
+
+        1.90  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Potassium hydroxide  </td>
+
+            <td> 
+
+        0.22  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Sodium hydroxide  </td>
+
+            <td> 
+
+        0.28  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Sulfuric acid  </td>
+
+            <td> 
+
+        0.26  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Nitric acid  </td>
+
+            <td> 
+
+        0.24  </td>
 
   </tr>
 

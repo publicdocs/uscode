@@ -193,9 +193,7 @@
 
 >           <tr>
 
->             <td>   “March 5, 1986  </td>
-
->             <td>  $176,844,000    </td>
+>             <td>   </td>
 
 >         
 
@@ -203,19 +201,13 @@
 
 >           <tr>
 
->             <td>   February 5, 1986  </td>
+>             <td> 
 
->             <td>   64,567,000    </td>
+>         “March 5, 1986  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>   April 22, 1986  </td>
-
->             <td>   64,598,000    </td>
+>         $176,844,000    </td>
 
 >         
 
@@ -223,9 +215,41 @@
 
 >           <tr>
 
->             <td>   May 22, 1986  </td>
+>             <td> 
 
->             <td>   175,300,000.”  </td>
+  February 5, 1986  </td>
+
+>             <td> 
+
+>         64,567,000    </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+  April 22, 1986  </td>
+
+>             <td> 
+
+>         64,598,000    </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+  May 22, 1986  </td>
+
+>             <td> 
+
+>         175,300,000.”  </td>
 
 >         
 
@@ -233,7 +257,9 @@
 
 >         </table>
 
->         [Pub. L. 99–514, title XII, § 1213(b)][/us/pl/99/514/s1213/b], Oct. 22, 1986, [100 Stat. 2541][/us/stat/100/2541], provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+[Pub. L. 99–514, title XII, § 1213(b)][/us/pl/99/514/s1213/b], Oct. 22, 1986, [100 Stat. 2541][/us/stat/100/2541], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
  __Effective Date of 1984 Amendment__ 
 

@@ -225,69 +225,77 @@
 
                   <tr>
 
-                    <td>  If the event described in  </td>
+                    <td> 
+
+                If the event described in paragraph (1)
+
+                 occurs in the following year of
+
+                 material participation:  </td>
+
+                    <td> 
+
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   paragraph (1) occurs in  </td>
+                    <td> 
+
+                1 through 6  </td>
+
+                    <td> 
+
+                100    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   the following year of  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                7  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   material participation:  </td>
-
-                    <td> percentage is:  </td>
+                80    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  1 through 6  </td>
+                    <td> 
 
-                    <td> 100    </td>
+                8  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  7  </td>
-
-                    <td> 80    </td>
+                60    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  8  </td>
+                    <td> 
 
-                    <td> 60    </td>
+                9  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  9  </td>
-
-                    <td> 40    </td>
+                40    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  10  </td>
+                    <td> 
 
-                    <td> 20.  </td>
+                10  </td>
+
+                    <td> 
+
+                20.  </td>
 
   </tr>
 

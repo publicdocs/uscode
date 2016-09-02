@@ -769,7 +769,9 @@
 
                     <td> 
 
-                  Plan year to which subparagraph (C) applies:  </td>
+                  Plan year to which subparagraph
+
+                   (C) applies:  </td>
 
                     <td> 
 
@@ -785,7 +787,7 @@
 
                     <td> 
 
-                33  </td>
+                33    </td>
 
   </tr>
 
@@ -797,7 +799,7 @@
 
                     <td> 
 
-                66  </td>
+                66    </td>
 
   </tr>
 

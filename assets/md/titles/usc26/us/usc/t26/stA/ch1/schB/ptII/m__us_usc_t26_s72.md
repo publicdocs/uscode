@@ -143,11 +143,15 @@
 
                         <td> 
 
-                    If the age of the annuitant on the annuity starting date is:  </td>
+                     If the age of the annuitant on the
+
+                      annuity starting date is:  </td>
 
                         <td> 
 
-                    The number of anticipated payments is:  </td>
+                    The
+
+                    number of anticipated payments is:  </td>
 
   </tr>
 
@@ -159,7 +163,7 @@
 
                         <td> 
 
-                    360  </td>
+                    360    </td>
 
   </tr>
 
@@ -171,7 +175,7 @@
 
                         <td> 
 
-                    310  </td>
+                    310    </td>
 
   </tr>
 
@@ -183,7 +187,7 @@
 
                         <td> 
 
-                    260  </td>
+                    260    </td>
 
   </tr>
 
@@ -195,7 +199,7 @@
 
                         <td> 
 
-                    210  </td>
+                    210    </td>
 
   </tr>
 
@@ -223,11 +227,13 @@
 
                         <td> 
 
-                    If the combined ages of annuitants are:  </td>
+                     If the combined ages of annuitants are:  </td>
 
                         <td> 
 
-                    The number is:  </td>
+                    The
+
+                    number is:  </td>
 
   </tr>
 
@@ -239,7 +245,7 @@
 
                         <td> 
 
-                    410  </td>
+                    410    </td>
 
   </tr>
 
@@ -251,7 +257,7 @@
 
                         <td> 
 
-                    360  </td>
+                    360    </td>
 
   </tr>
 
@@ -263,7 +269,7 @@
 
                         <td> 
 
-                    310  </td>
+                    310    </td>
 
   </tr>
 
@@ -275,7 +281,7 @@
 
                         <td> 
 
-                    260  </td>
+                    260    </td>
 
   </tr>
 

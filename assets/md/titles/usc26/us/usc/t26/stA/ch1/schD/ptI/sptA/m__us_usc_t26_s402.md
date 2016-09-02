@@ -357,7 +357,9 @@
 
                     <td> 
 
-                  For taxable years beginning in calendar year:  </td>
+                 For taxable years beginning in
+
+                  calendar year:  </td>
 
                     <td> 
 
@@ -373,7 +375,7 @@
 
                     <td> 
 
-                $11,000  </td>
+                $11,000    </td>
 
   </tr>
 
@@ -385,7 +387,7 @@
 
                     <td> 
 
-                $12,000  </td>
+                $12,000    </td>
 
   </tr>
 
@@ -397,7 +399,7 @@
 
                     <td> 
 
-                $13,000  </td>
+                $13,000    </td>
 
   </tr>
 
@@ -409,7 +411,7 @@
 
                     <td> 
 
-                $14,000  </td>
+                $14,000    </td>
 
   </tr>
 

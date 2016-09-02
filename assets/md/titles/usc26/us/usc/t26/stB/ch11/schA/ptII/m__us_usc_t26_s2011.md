@@ -297,41 +297,51 @@
 
               <tr>
 
-                <td> In the case of estates of decedents  </td>
+                <td> 
 
-                <td> The applicable  </td>
+             In the case of estates of decedents
 
-  </tr>
+              dying during:  </td>
 
-              <tr>
+                <td> 
 
-                <td>  dying during:  </td>
-
-                <td> percentage is:  </td>
+            The applicable percentage is:  </td>
 
   </tr>
 
               <tr>
 
-                <td> 2002  </td>
+                <td> 
 
-                <td> 75 percent    </td>
+            2002  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 2003  </td>
-
-                <td> 50 percent    </td>
+            75 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 2004  </td>
+                <td> 
 
-                <td> 25 percent.  </td>
+            2003  </td>
+
+                <td> 
+
+            50 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            2004  </td>
+
+                <td> 
+
+            25 percent.  </td>
 
   </tr>
 

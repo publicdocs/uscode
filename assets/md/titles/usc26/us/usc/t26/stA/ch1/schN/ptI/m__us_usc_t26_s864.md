@@ -1163,19 +1163,13 @@
 
 >               <tr>
 
->                 <td>    </td>
+>                 <td> 
 
->                 <td> The applicable  </td>
+>               “In the case of the:  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td>   “In the case of the:  </td>
-
->                 <td> percentage is:  </td>
+>             The applicable percentage is:  </td>
 
 >             
 
@@ -1183,19 +1177,13 @@
 
 >               <tr>
 
->                 <td> 1st taxable year  </td>
+>                 <td> 
 
->                 <td> 90    </td>
+>             1st taxable year  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 2nd taxable year  </td>
-
->                 <td> 80    </td>
+>             90    </td>
 
 >             
 
@@ -1203,19 +1191,13 @@
 
 >               <tr>
 
->                 <td> 3rd taxable year  </td>
+>                 <td> 
 
->                 <td> 70    </td>
+>             2nd taxable year  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 4th taxable year  </td>
-
->                 <td> 60    </td>
+>             80    </td>
 
 >             
 
@@ -1223,19 +1205,13 @@
 
 >               <tr>
 
->                 <td> 5th taxable year  </td>
+>                 <td> 
 
->                 <td> 50    </td>
+>             3rd taxable year  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 6th taxable year  </td>
-
->                 <td> 40    </td>
+>             70    </td>
 
 >             
 
@@ -1243,19 +1219,13 @@
 
 >               <tr>
 
->                 <td> 7th taxable year  </td>
+>                 <td> 
 
->                 <td> 30    </td>
+>             4th taxable year  </td>
 
->             
+>                 <td> 
 
-  </tr>
-
->               <tr>
-
->                 <td> 8th taxable year  </td>
-
->                 <td> 20    </td>
+>             60    </td>
 
 >             
 
@@ -1263,9 +1233,69 @@
 
 >               <tr>
 
->                 <td> 9th taxable year  </td>
+>                 <td> 
 
->                 <td> 10.     </td>
+>             5th taxable year  </td>
+
+>                 <td> 
+
+>             50    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             6th taxable year  </td>
+
+>                 <td> 
+
+>             40    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             7th taxable year  </td>
+
+>                 <td> 
+
+>             30    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             8th taxable year  </td>
+
+>                 <td> 
+
+>             20    </td>
+
+>             
+
+  </tr>
+
+>               <tr>
+
+>                 <td> 
+
+>             9th taxable year  </td>
+
+>                 <td> 
+
+>             10.  </td>
 
 >             
 
