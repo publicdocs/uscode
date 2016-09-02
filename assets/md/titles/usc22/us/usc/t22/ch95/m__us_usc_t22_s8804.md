@@ -1,0 +1,126 @@
+---
+---
+
+# 22 U.S.C., USLM ref /us/usc/t22/s8804
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8803.md) | [Next](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8804)
+
+## § 8804. Imposition of sanctions with respect to the sale, supply, or transfer of certain materials to or from Iran
+
+    (a) __Sale, supply, or transfer of certain materials__ 
+
+        (1) __In general__ 
+
+        The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note) with respect to a person if the President determines that the person knowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers, directly or indirectly, to or from Iran—
+
+            (A) a precious metal;
+
+            (B) a material described in subsection (d) determined pursuant to subsection (e)(1) to be used by Iran as described in that subsection;
+
+            (C)
+
+             any other material described in subsection (d) if—
+
+                (i)
+
+                 the material is—
+
+                    (I) to be used in connection with the energy, shipping, or shipbuilding sectors of Iran or any sector of the economy of Iran determined pursuant to subsection (e)(2) to be controlled directly or indirectly by Iran’s Revolutionary Guard Corps;
+
+                    (II) sold, supplied, or transferred to or from an Iranian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)); or
+
+                    (III) determined pursuant to subsection (e)(3) to be used in connection with the nuclear, military, or ballistic missile programs of Iran; or
+
+                (ii)
+
+                 the material is resold, retransferred, or otherwise supplied—
+
+                    (I) to an end-user in a sector described in subclause (I) of clause (i);
+
+                    (II) to a person described in subclause (II) of that clause; or
+
+                    (III) for a program described in subclause (III) of that clause.
+
+        (2) __Exception__ 
+
+            The requirement to impose sanctions under paragraph (1) shall not include the authority to impose sanctions relating to the importation of goods under paragraph (8)(A) or (12) of section 6(a) of the Iran Sanctions Act of 1996, and any sanction relating to the importation of goods shall not count for purposes of the requirement to impose sanctions under paragraph (1).
+
+    (b) __Iranian financial institutions described__ 
+
+    An Iranian financial institution described in this subsection is an Iranian financial institution that has not been designated for the imposition of sanctions in connection with—
+
+        (1) Iran’s proliferation of weapons of mass destruction or delivery systems for weapons of mass destruction;
+
+        (2) Iran’s support for international terrorism; or
+
+        (3) Iran’s abuses of human rights.
+
+    (c) __Facilitation of certain transactions__ 
+
+        The President shall prohibit the opening, and prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by a foreign financial institution that the President determines knowingly, on or after the date that is 180 days after January 2, 2013, conducts or facilitates a significant financial transaction for the sale, supply, or transfer to or from Iran of materials the sale, supply, or transfer of which would subject a person to sanctions under subsection (a).
+
+    (d) __Materials described__ 
+
+        Materials described in this subsection are graphite, raw or semi-finished metals such as aluminum and steel, coal, and software for integrating industrial processes.
+
+    (e) __Determination with respect to use of materials__ 
+
+    Not later than 180 days after January 2, 2013, and every 180 days thereafter, the President shall submit to the appropriate congressional committees and publish in the Federal Register a report that contains the determination of the President with respect to—
+
+        (1)
+
+         whether Iran is—
+
+            (A) using any of the materials described in subsection (d) as a medium for barter, swap, or any other exchange or transaction; or
+
+            (B) listing any of such materials as assets of the Government of Iran for purposes of the national balance sheet of Iran;
+
+        (2) which sectors of the economy of Iran are controlled directly or indirectly by Iran’s Revolutionary Guard Corps; and
+
+        (3) which of the materials described in subsection (d) are used in connection with the nuclear, military, or ballistic missile programs of Iran.
+
+    (f) __Exception for persons exercising due diligence__ 
+
+        The President may not impose sanctions under subsection (a) or (c) with respect to a person if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not sell, supply, or transfer to or from Iran materials the sale, supply, or transfer of which would subject a person to sanctions under subsection (a) or conduct or facilitate a financial transaction for such a sale, supply, or transfer.
+
+    (g) __Waiver__ 
+
+        (1) __In general__ 
+
+        The President may waive the imposition of sanctions under this section for a period of not more than 180 days, and may renew that waiver for additional periods of not more than 180 days, if the President—
+
+            (A) determines that such a waiver is vital to the national security of the United States; and
+
+            (B) submits to the appropriate congressional committees a report providing a justification for the waiver.
+
+        (2) __Form of report__ 
+
+            Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
+
+    (h) __National balance sheet of Iran defined__ 
+
+        For purposes of this section, the term “national balance sheet of Iran” refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
+
+([Pub. L. 112–239, div. A, title XII, § 1245][/us/pl/112/239/s1245], Jan. 2, 2013, [126 Stat. 2009][/us/stat/126/2009].)
+
+----------
+
+[Previous](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8803.md) | [Next](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8804)
+
+----------
+----------
+
+[/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/pl/112/239/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1245
+[/us/stat/126/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2009
+
+

@@ -1,0 +1,84 @@
+---
+---
+
+# 22 U.S.C., USLM ref /us/usc/t22/ch70
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t22/ch69A/schIV/m__us_usc_t22_s6091.md) | [Next](./../../../..//us/usc/t22/ch70/m__us_usc_t22_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch70)
+
+## CHAPTER 70—MANSFIELD FELLOWSHIP PROGRAM
+
+<table>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6101.  </td>
+
+    <td> Establishment of Fellowship Program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6102.  </td>
+
+    <td> Program requirements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6103.  </td>
+
+    <td> Separation of Government personnel during fellowships.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6104.  </td>
+
+    <td> Mansfield Fellows on detail from Government service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6105.  </td>
+
+    <td> Liability for repayments.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 6106.  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+</table>
+
+----------
+
+[Previous](./../../../..//us/usc/t22/ch69A/schIV/m__us_usc_t22_s6091.md) | [Next](./../../../..//us/usc/t22/ch70/m__us_usc_t22_s6101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch70)
+
+----------
+----------
+
+
+

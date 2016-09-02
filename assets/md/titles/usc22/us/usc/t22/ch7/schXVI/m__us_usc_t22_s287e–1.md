@@ -1,0 +1,98 @@
+---
+---
+
+# 22 U.S.C., USLM ref /us/usc/t22/s287e–1
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287e.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e%E2%80%931)
+
+## § 287e–1. Housing supplement for certain employees assigned to the United States Mission to the United Nations
+
+The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and [section 5536 of title 5][/us/usc/t5/s5536]:
+
+    (1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States (for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by [section 5913 of title 5][/us/usc/t5/s5913].
+
+    (2) Make available in New York to no more than 30 foreign service employees of the staff of the United States Mission to the United Nations, other representatives, and no more than two employees who serve at the pleasure of the Representative, living quarters leased or rented by the United States (for periods not exceeding ten years). The number of employees to which such quarters will be made available shall be determined by the Secretary and shall reflect a significant reduction over the number of persons eligible for housing benefits as of October 1, 1988. No employee may occupy a unit under this provision if the unit is owned by the employee. The Secretary shall require that each employee occupying housing under this subsection contribute to the Department of State a percentage of his or her base salary, in an amount to be determined by the Secretary of State, toward the cost of such housing. The Secretary may reduce such payments to the extent of income taxes paid on the value of the leased or rented quarters any payments made by employees to the Department of State for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
+
+    (3) provide  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  such allowance as the Secretary considers appropriate, to each Delegate and Alternate Delegate of the United States to any session of the General Assembly of the United Nations who is not a permanent member of the staff of the United States Mission to the United Nations, in order to compensate each such Delegate or Alternate Delegate for necessary housing and subsistence expenses incurred by him with respect to attending any such session.
+
+    (4) The Inspector General shall review the program established by this section no later than December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.
+
+([Dec. 20, 1945, ch. 583, § 9][/us/act/1945-12-20/ch583/s9], as added [Pub. L. 93–126, § 15][/us/pl/93/126/s15], Oct. 18, 1973, [87 Stat. 454][/us/stat/87/454]; amended [Pub. L. 98–164, title II, § 215][/us/pl/98/164/s215], Nov. 22, 1983, [97 Stat. 1035][/us/stat/97/1035]; [Pub. L. 100–459, title III, § 304(b)][/us/pl/100/459/s304/b], Oct. 1, 1988, [102 Stat. 2207][/us/stat/102/2207]; [Pub. L. 106–309, title IV, § 405][/us/pl/106/309/s405], Oct. 17, 2000, [114 Stat. 1098][/us/stat/114/1098].)
+
+ __Codification__ 
+
+    “Section 3324(a) and (b) of title 31” substituted in introductory text for “section 3648 of the Revised Statutes ([31 U.S.C. 3324][/us/usc/t31/s3324])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+
+    “[Section 5913 of title 5][/us/usc/t5/s5913]” substituted in par. (1) for “section 22 of the Administrative Expenses Act of 1946, as amended by section 311 of the Overseas Differentials and Allowances Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+
+ __Amendments__ 
+
+    2000—Par. (2). [Pub. L. 106–309][/us/pl/106/309] substituted “30 foreign service employees” for “18 foreign service employees”.
+
+    1988—[Pub. L. 100–459, § 304(b)(1)][/us/pl/100/459/s304/b/1], (3), substituted reference to Secretary of State for reference to President in introductory provisions and struck out last sentence providing that not more than fifty employees, including not more than five employees of the United Stated Information Agency, could receive an allowance under par. (1) of this section at any one time.
+
+    Par. (1). [Pub. L. 100–459, § 304(b)(1)][/us/pl/100/459/s304/b/1], (3), added par. (1) and struck out former par. (1) which read as follows: “grant any employee of the staff of the United States Mission to the United Nations designated by the Secretary of State, and any employee of the United States Information Agency designated by the Director of that Agency, who is required because of important representational responsibilities to live in the extraordinarily high-rent area immediately surrounding the headquarters of the United Nations in New York, New York, an allowance to compensate for the portion of expenses necessarily incurred by the employee for quarters and utilities which exceed the average of such expenses necessarily incurred by the employee for quarters and utilities which exceed the average of such expenses incurred by typical, permanent residents of the Metropolitan New York, New York, area with comparable salary and family size who are not compelled by reason of their employment to live in such high-rent area; and”.
+
+    Pars. (2) to (4). [Pub. L. 100–459, § 304(b)(2)][/us/pl/100/459/s304/b/2], (3), added par. (2), redesignated former par. (2) as (3) and substituted “Secretary” for “President”, and added par. (4).
+
+    1983—[Pub. L. 98–164, § 215(2)][/us/pl/98/164/s215/2], inserted limitation of five United States Information Agency employees, and substituted “fifty” for “forty-five”.
+
+    Par. (1). [Pub. L. 98–164, § 215(1)][/us/pl/98/164/s215/1], inserted provisions relating to applicability to United States Information Agency employees.
+
+ __Effective Date of 1988 Amendment; Transition Provisions__ 
+
+[Pub. L. 100–459, title III, § 304(c)][/us/pl/100/459/s304/c], Oct. 1, 1988, [102 Stat. 2208][/us/stat/102/2208], provided that:
+
+>     “(1) Provisions set forth in this section \[amending this section and [section 287e of this title][/us/usc/t22/s287e]\] shall be effective July 1, 1989.
+
+>     “(2) In the event that taxes paid by an employee on the benefit provided under subsection (2) of section 9 \[[22 U.S.C. 287e–1(2)][/us/usc/t22/s287e–1/2]\] exceed the contribution amount computed as a percentage of base salary under that subsection, the Department of State may reimburse the employee up to the amount of such differential for the period from the date of enactment of this Act \[Oct. 1, 1988\] through July 1, 1989.”
+
+ __Delegation of Functions__ 
+
+    Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
+
+----------
+
+[Previous](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287e.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e%E2%80%931)
+
+----------
+----------
+
+[/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
+[/us/usc/t5/s5913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5913
+[/us/act/1945-12-20/ch583/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs9
+[/us/pl/93/126/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs15
+[/us/stat/87/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F454
+[/us/pl/98/164/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs215
+[/us/stat/97/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1035
+[/us/pl/100/459/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fb
+[/us/stat/102/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2207
+[/us/pl/106/309/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs405
+[/us/stat/114/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1098
+[/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
+[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
+[/us/usc/t5/s5913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5913
+[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
+[/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
+[/us/pl/100/459/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fb%2F1
+[/us/pl/100/459/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fb%2F1
+[/us/pl/100/459/s304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fb%2F2
+[/us/pl/98/164/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs215%2F2
+[/us/pl/98/164/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs215%2F1
+[/us/pl/100/459/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fc
+[/us/stat/102/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2208
+[/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
+[/us/usc/t22/s287e–1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e%E2%80%931%2F2
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+
+

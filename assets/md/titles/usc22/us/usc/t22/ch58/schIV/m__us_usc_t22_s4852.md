@@ -1,0 +1,152 @@
+---
+---
+
+# 22 U.S.C., USLM ref /us/usc/t22/s4852
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t22/ch58/schIV/m__us_usc_t22_s4851.md) | [Next](./../../../../..//us/usc/t22/ch58/schIV/m__us_usc_t22_s4853.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4852)
+
+## § 4852. Diplomatic construction program
+
+    (a) __Preference for United States contractors__ 
+
+    Notwithstanding [section 302 of this title][/us/usc/t22/s302], and where adequate competition exists, only United States persons and qualified United States joint venture persons may—
+
+        (1) bid on a diplomatic construction or design project which has an estimated total project value exceeding $10,000,000; and
+
+        (2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
+
+    (b) __Exception__ 
+
+        Subsection (a) of this section shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 4301][/us/usc/t22/s4301] et seq.; commonly referred to as the “Foreign Missions Act”).
+
+    (c) __Definitions__ 
+
+    For the purposes of this section—
+
+        (1) the term “adequate competition” means with respect to a construction or design project, the presence of two or more qualified bidders submitting responsive bids for that project;
+
+        (2)
+
+         the term “United States person” means a person which—
+
+            (A) is incorporated or legally organized under the laws of the United States, including State, the District of Columbia, and local laws;
+
+            (B) has its principal place of business in the United States;
+
+            (C)
+
+             has been incorporated or legally organized in the United States—
+
+                (i) for more than 5 years before the issuance date of the invitation for bids or request for proposals with respect to a construction project under subsection (a)(1) of this section; and
+
+                (ii) for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to a construction or design project which involves physical or technical security under subsection (a)(2) of this section;
+
+            (D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
+
+            (E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+
+            (F)
+
+                (i) employs United States citizens in at least 80 percent of its principal management positions in the United States,
+
+                (ii) employs United States citizens in more than half of its permanent, full-time positions in the United States, and
+
+                (iii) will employ United States citizens in at least 80 percent of the supervisory positions on the foreign buildings office project site; and
+
+            (G) has the existing technical and financial resources in the United States to perform the contract; and
+
+        (3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
+
+    (d) __American minority contractors__ 
+
+        Not less than 10 percent of the amount appropriated pursuant to [section 4851(a) of this title][/us/usc/t22/s4851/a] for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American minority contractors.
+
+    (e) __American small business contractors__ 
+
+        Not less than 10 percent of the amount appropriated pursuant to [section 4851(a) of this title][/us/usc/t22/s4851/a] for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American small business contractors.
+
+    (f) __Limitation on subcontracting__ 
+
+        With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
+
+([Pub. L. 99–399, title IV, § 402][/us/pl/99/399/s402], Aug. 27, 1986, [100 Stat. 864][/us/stat/100/864]; [Pub. L. 101–246, title I, § 132][/us/pl/101/246/s132], Feb. 16, 1990, [104 Stat. 32][/us/stat/104/32]; [Pub. L. 102–138, title I, § 131][/us/pl/102/138/s131], Oct. 28, 1991, [105 Stat. 662][/us/stat/105/662]; [Pub. L. 103–236, title I, § 162(g)(10)][/us/pl/103/236/s162/g/10], Apr. 30, 1994, [108 Stat. 407][/us/stat/108/407]; [Pub. L. 107–228, div. A, title II, § 206(b)][/us/pl/107/228/s206/b], Sept. 30, 2002, [116 Stat. 1364][/us/stat/116/1364].)
+
+ __References in Text__ 
+
+    Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
+
+ __Amendments__ 
+
+    2002—Subsec. (c)(2)(D). [Pub. L. 107–228][/us/pl/107/228] inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
+
+    1994—Subsec. (a)(2). [Pub. L. 103–236][/us/pl/103/236] substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
+
+    1991—Subsec. (a)(1). [Pub. L. 102–138, § 131(1)][/us/pl/102/138/s131/1], substituted “$10,000,000” for “$5,000,000”.
+
+    Subsec. (a)(2). [Pub. L. 102–138, § 131(2)][/us/pl/102/138/s131/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
+
+    “(A) involves nonsophisticated, low-level technology, as determined by the Assistant Secretary for Diplomatic Security;
+
+    “(B) is for the design or construction of a facility that does not process or store classified material; and
+
+    “(C) does not exceed a total value of $500,000.”
+
+    1990—Subsec. (a)(2). [Pub. L. 101–246][/us/pl/101/246] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
+
+ __Effective Date of 1994 Amendment__ 
+
+    Amendment by [Pub. L. 103–236][/us/pl/103/236] applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as a note under [section 2651a of this title][/us/usc/t22/s2651a].
+
+ __Construction of United States Embassy in Ottawa__ 
+
+[Pub. L. 101–246, title I, § 125][/us/pl/101/246/s125], Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27], provided that: 
+
+> “Section 402(a) of the Diplomatic Security Act ([22 U.S.C. 4852(a)][/us/usc/t22/s4852/a]) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
+
+----------
+
+[Previous](./../../../../..//us/usc/t22/ch58/schIV/m__us_usc_t22_s4851.md) | [Next](./../../../../..//us/usc/t22/ch58/schIV/m__us_usc_t22_s4853.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4852)
+
+----------
+----------
+
+[/us/usc/t22/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs302
+[/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
+[/us/usc/t22/s4851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4851%2Fa
+[/us/usc/t22/s4851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4851%2Fa
+[/us/pl/99/399/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs402
+[/us/stat/100/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F864
+[/us/pl/101/246/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs132
+[/us/stat/104/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F32
+[/us/pl/102/138/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs131
+[/us/stat/105/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F662
+[/us/pl/103/236/s162/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F10
+[/us/stat/108/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F407
+[/us/pl/107/228/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs206%2Fb
+[/us/stat/116/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1364
+[/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
+[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
+[/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/102/138/s131/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs131%2F1
+[/us/pl/102/138/s131/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs131%2F2
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
+[/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
+[/us/pl/101/246/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs125
+[/us/stat/104/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F27
+[/us/usc/t22/s4852/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4852%2Fa
+
+

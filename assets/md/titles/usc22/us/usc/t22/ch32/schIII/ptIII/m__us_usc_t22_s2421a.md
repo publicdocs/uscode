@@ -1,0 +1,90 @@
+---
+---
+
+# 22 U.S.C., USLM ref /us/usc/t22/s2421a
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2421.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2421b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421a)
+
+## § 2421a. Capital projects office within Agency for International Development
+
+    (a) __Establishment of office__ 
+
+        The Administrator of AID shall establish a capital projects office to carry out the purposes described in subsection (b) of this section.
+
+    (b) __Purposes of office__ 
+
+    The purposes referred to in subsection (a) of this section are—
+
+        (1) to develop an AID program that would focus solely on developmentally sound capital projects, taking into consideration development needs of the host country and the export opportunities for the United States; and
+
+        (2) to consider specifically opportunities for United States high-technology firms, including small- and medium-sized firms, in supporting capital projects for developing countries and for countries making the transition from nonmarket to market economies.
+
+    (c) __Activities of AID__ 
+
+    The Administrator of AID (acting through the capital projects office), in coordination with the appropriate members of the Trade Promotion Coordination Committee—
+
+        (1) shall support capital projects in developing countries and in countries making the transition from nonmarket to market economies;
+
+        (2) shall periodically review infrastructure needs in developing countries and countries making the transition from nonmarket to market economies and shall explore opportunities for United States firms in the development of new capital projects in these countries, keeping both United States firms and the Congress informed of these reviews;
+
+        (3) shall ensure that each capital project for which AID provides funding is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development;
+
+        (4) shall coordinate its activities with other AID offices, and work with AID country missions, in developing capital projects that provide opportunities for United States firms consistent with AID’s primary mission to help developing countries with traditional development projects;
+
+        (5) shall coordinate, where appropriate, funds available to AID for tied-aid purposes; and
+
+        (6)
+
+         shall play a special role in helping to meet the infrastructure needs of countries making the transition from nonmarket to market economies by meeting the challenge of infrastructure assistance provided by foreign governments to those countries, including by undertaking a comprehensive study of the infrastructure needs of the various countries making the transition from nonmarket to market economies—
+
+            (A) to identify those sectors in the economies of these countries that are most in need of rebuilding, and
+
+            (B) to identify the state of technology in these countries and the opportunity for United States high technology firms to help develop a technological infrastructure in these countries, including an assessment of export opportunities for United States high technology companies.
+
+        The results of the study conducted pursuant to paragraph (6) shall be reported to the appropriate congressional committees within 12 months after October 28, 1992.
+
+([Pub. L. 102–549, title III, § 302][/us/pl/102/549/s302], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
+
+ __Codification__ 
+
+    Section was enacted as part of the Aid, Trade, and Competitiveness Act of 1992 and also as part of the Jobs Through Exports Act of 1992, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+ __Short Title of 1992 Amendment__ 
+
+[Pub. L. 102–549, title III, § 301][/us/pl/102/549/s301], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658], provided that: 
+
+> “This title \[enacting this section and sections 2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
+
+ __Reports to Congress on Capital Projects__ 
+
+    [Pub. L. 102–549, title III, § 305][/us/pl/102/549/s305], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Congress a report describing the extent to which United States Government resources have been expended specifically to support specified projects in developing countries and countries making the transition from nonmarket to market economies, the extent to which the activities of the United States Government have been coordinated, and the extent to which United States Government capital projects and tied-aid credit programs have affected United States exports.
+
+ __Report on Feasibility of AID Credit Guarantees To Finance Capital Projects__ 
+
+    [Pub. L. 102–549, title III, § 307][/us/pl/102/549/s307], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2421.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2421b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421a)
+
+----------
+----------
+
+[/us/pl/102/549/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs302
+[/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
+[/us/pl/102/549/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs301
+[/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
+[/us/pl/102/549/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs305
+[/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
+[/us/pl/102/549/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs307
+[/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
+
+
