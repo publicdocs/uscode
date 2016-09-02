@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_ch30_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171a.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_ch30_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172)
 
 ## § 2172. Office of Congressional Accessibility Services
 
@@ -109,7 +109,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_ch30_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171a.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_ch30_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172)
 
 ----------
 ----------

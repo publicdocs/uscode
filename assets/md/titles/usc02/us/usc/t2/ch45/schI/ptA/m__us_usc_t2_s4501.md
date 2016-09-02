@@ -165,6 +165,10 @@
 
  __Cost of Living Adjustment__ 
 
+[Pub. L. 114–113, § 9][/us/pl/114/113/s9], Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245], provided that: 
+
+> “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501][/us/usc/t2/s4501]) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016.”
+
 [Pub. L. 113–235, § 8][/us/pl/113/235/s8], Dec. 16, 2014, [128 Stat. 2133][/us/stat/128/2133], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be “601(a)”\] of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) \[now [2 U.S.C. 4501][/us/usc/t2/s4501]\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2015.”
@@ -285,6 +289,9 @@
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
+[/us/pl/114/113/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9
+[/us/stat/129/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2245
+[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
 [/us/pl/113/235/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8
 [/us/stat/128/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2133
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31

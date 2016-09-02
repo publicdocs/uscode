@@ -729,6 +729,14 @@ SUBCHAPTER VII—OTHER ENTITIES AND SERVICES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2171a" data-uslm-ref="/us/usc/t2/s2171a">2171a.</a>  </td>
+
+    <td> Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Librarian of Congress at no net cost to the Federal Government.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2172" data-uslm-ref="/us/usc/t2/s2172">2172.</a>  </td>
 
     <td> Office of Congressional Accessibility Services.  </td>

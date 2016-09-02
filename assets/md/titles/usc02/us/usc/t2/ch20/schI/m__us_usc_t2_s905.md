@@ -251,6 +251,8 @@
 
                 Retirement Pay and Medical Benefits for Commissioned Officers, Public Health Service (75–0379–0–1–551).
 
+                September 11th Victim Compensation Fund (15–0340–0–1–754).
+
                 Special Benefits for Disabled Coal Miners (16–0169–0–1–601).
 
                 Special Benefits, Federal Employees’ Compensation Act (16–1521–0–1–600).
@@ -263,7 +265,13 @@
 
                 United States Secret Service, DC Annuity (70–0400–0–1–751).
 
+                Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act ([49 U.S.C. 40101][/us/usc/t49/s40101] note).
+
+                United States Victims of State Sponsored Terrorism Fund.
+
                 Voluntary Separation Incentive Fund (97–8335–0–7–051).
+
+                World Trade Center Health Program Fund (75–0946–0–1–551).
 
         (2) Prior legal obligations of the Government in the following budget accounts and activities shall be exempt from any order issued under this subchapter:    Biomass Energy Development (20–0114–0–1–271).
 
@@ -363,7 +371,7 @@
 
         For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-([Pub. L. 99–177, title II, § 255][/us/pl/99/177/s255], Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII, § 7002(a)][/us/pl/99/509/s7002/a], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V, § 506(a)][/us/pl/100/86/s506/a], Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I, § 104(a)(1)][/us/pl/100/119/s104/a/1], (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII, § 743(a)][/us/pl/101/73/s743/a], (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220, § 8][/us/pl/101/220/s8], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII, § 13101(c)][/us/pl/101/508/s13101/c], Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54, § 13(a)][/us/pl/102/54/s13/a], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX, § 902(d)][/us/pl/102/486/s902/d], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI, § 601][/us/pl/102/572/s601], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I, § 110(r)(1)][/us/pl/104/193/s110/r/1], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X, § 10207][/us/pl/105/33/s10207], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I, § 11][/us/pl/111/139/s11], Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23]; [Pub. L. 113–67, div. A, title I, § 121(5)][/us/pl/113/67/s121/5]–(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 99–177, title II, § 255][/us/pl/99/177/s255], Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII, § 7002(a)][/us/pl/99/509/s7002/a], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V, § 506(a)][/us/pl/100/86/s506/a], Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I, § 104(a)(1)][/us/pl/100/119/s104/a/1], (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII, § 743(a)][/us/pl/101/73/s743/a], (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220, § 8][/us/pl/101/220/s8], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII, § 13101(c)][/us/pl/101/508/s13101/c], Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54, § 13(a)][/us/pl/102/54/s13/a], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX, § 902(d)][/us/pl/102/486/s902/d], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI, § 601][/us/pl/102/572/s601], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I, § 110(r)(1)][/us/pl/104/193/s110/r/1], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X, § 10207][/us/pl/105/33/s10207], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I, § 11][/us/pl/111/139/s11], Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23]; [Pub. L. 113–67, div. A, title I, § 121(5)][/us/pl/113/67/s121/5]–(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175]; [Pub. L. 114–113, div. O, title IV, § 403(a)][/us/pl/114/113/s403/a], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007].)
 
  __References in Text__ 
 
@@ -373,7 +381,11 @@
 
     The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 742][/us/stat/39/742], was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
+    Section 410 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (g)(1)(B), is [section 410 of Pub. L. 107–42][/us/pl/107/42/s410], which is set out in a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
+
  __Amendments__ 
+
+    2015—Subsec. (g)(1)(B). [Pub. L. 114–113][/us/pl/114/113] inserted items relating to the September 11th Victim Compensation Fund (15–0340–0–1–754), Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act, United States Victims of State Sponsored Terrorism Fund, and the World Trade Center Health Program Fund (75–0946–0–1–551).
 
     2013—Subsec. (a). [Pub. L. 113–67, § 121(5)][/us/pl/113/67/s121/5], substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
 
@@ -559,6 +571,12 @@
 
     Subsec. (g)(1). [Pub. L. 99–509][/us/pl/99/509] inserted item relating to dual benefits payments account.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. O, title IV, § 403(b)][/us/pl/114/113/s403/b], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900][/us/usc/t2/s900] et seq.) on or after the date of enactment of this Act \[Dec. 18, 2015\].”
+
  __Effective Date of 2006 Amendment__ 
 
     Amendment by [Pub. L. 109–171][/us/pl/109/171] effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see [section 2102(c) of Pub. L. 109–171][/us/pl/109/171/s2102/c], set out as a Merger of BIF and SAIF note under [section 1821 of Title 12][/us/usc/t12/s1821], Banks and Banking.
@@ -596,6 +614,7 @@
 [/us/usc/t2/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fa
 [/us/pl/93/454/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs13
 [/us/usc/t16/s838k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k
+[/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/pl/99/177/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs255
 [/us/stat/99/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1082
@@ -633,6 +652,8 @@
 [/us/stat/124/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F23
 [/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
+[/us/pl/114/113/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403%2Fa
+[/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -646,6 +667,9 @@
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/107/42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs410
+[/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
 [/us/pl/113/67/s121/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F6
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
@@ -745,6 +769,9 @@
 [/us/pl/100/119/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fa%2F1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/114/113/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403%2Fb
+[/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
+[/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s2102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fc
 [/us/usc/t12/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1821

@@ -17,23 +17,35 @@
 
     (a)
 
-        (1) Any funds received by the Capitol Police as reimbursement for law enforcement assistance from any Federal, State, or local government agency (including any agency of the District of Columbia) shall be deposited in the United States Treasury for credit to the appropriation for “general expenses” under the heading “United States Capitol Police”, or “security enhancements” under the heading “United States Capitol Police”.
+        (1) Any funds received by the Capitol Police as reimbursement for law enforcement assistance from any Federal, State, or local government agency (including any agency of the District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress shall be deposited in the United States Treasury for credit to the appropriation for “general expenses” under the heading “United States Capitol Police”, or “security enhancements” under the heading “United States Capitol Police”.
 
-        (2) Funds deposited under this subsection may be expended by the Chief of the United States Capitol Police for any authorized purpose, including overtime pay expenditures relating to law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia), and shall remain available until expended.
+        (2) Funds deposited under this subsection may be expended by the Chief of the United States Capitol Police for any authorized purpose, including overtime pay expenditures relating to any law enforcement assistance for which reimbursement described in paragraph (1) is made, and shall remain available until expended.
 
     (b) This section shall take effect on July 24, 2001, and shall apply to fiscal year 2001 and each fiscal year thereafter.
 
-([Pub. L. 107–20, title II, § 2802][/us/pl/107/20/s2802], July 24, 2001, [115 Stat. 184][/us/stat/115/184]; [Pub. L. 111–145, § 2(b)(1)][/us/pl/111/145/s2/b/1], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
+([Pub. L. 107–20, title II, § 2802][/us/pl/107/20/s2802], July 24, 2001, [115 Stat. 184][/us/stat/115/184]; [Pub. L. 111–145, § 2(b)(1)][/us/pl/111/145/s2/b/1], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51]; [Pub. L. 114–113, div. I, title I, § 1001(a)][/us/pl/114/113/s1001/a], (b), Dec. 18, 2015, [129 Stat. 2663][/us/stat/129/2663].)
 
  __Codification__ 
 
     Section was classified to section 207e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
+    Section is from the Supplemental Appropriations Act, 2001.
+
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–113, § 1001(a)][/us/pl/114/113/s1001/a], substituted “District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress” for “District of Columbia)”.
+
+    Subsec. (a)(2). [Pub. L. 114–113, § 1001(b)][/us/pl/114/113/s1001/b], substituted “any law enforcement assistance for which reimbursement described in paragraph (1) is made” for “law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia)”.
 
     2010—Subsec. (a)(1). [Pub. L. 111–145, § 2(b)(1)(A)][/us/pl/111/145/s2/b/1/A], substituted “United States Capitol Police” for “Capitol Police Board” in two places.
 
     Subsec. (a)(2). [Pub. L. 111–145, § 2(b)(1)(B)][/us/pl/111/145/s2/b/1/B], substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. I, title I, § 1001(c)][/us/pl/114/113/s1001/c], Dec. 18, 2015, [129 Stat. 2663][/us/stat/129/2663], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall only apply with respect to any reimbursement received before, on, or after the date of the enactment of the Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -52,10 +64,16 @@
 [/us/stat/115/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F184
 [/us/pl/111/145/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
+[/us/pl/114/113/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1001%2Fa
+[/us/stat/129/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2663
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
+[/us/pl/114/113/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1001%2Fa
+[/us/pl/114/113/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1001%2Fb
 [/us/pl/111/145/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1%2FA
 [/us/pl/111/145/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1%2FB
+[/us/pl/114/113/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1001%2Fc
+[/us/stat/129/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2663
 [/us/pl/111/145/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F2
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
 [/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20

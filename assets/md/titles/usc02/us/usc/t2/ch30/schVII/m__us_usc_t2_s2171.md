@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2170.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2172.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2171)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2170.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2171)
 
 ## § 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government
 
@@ -93,7 +93,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2170.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2172.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2171)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2170.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2171)
 
 ----------
 ----------

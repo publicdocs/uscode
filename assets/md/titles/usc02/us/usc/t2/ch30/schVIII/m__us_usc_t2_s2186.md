@@ -15,9 +15,15 @@
 
 ## § 2186. Square 580 landscape maintenance
 
-    For fiscal year 2015 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.
+    For fiscal year 2016 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.
 
-([Pub. L. 113–235, div. H, title II, § 206][/us/pl/113/235/s206], Dec. 16, 2014, [128 Stat. 2542][/us/stat/128/2542].)
+([Pub. L. 114–113, div. I, title II, § 206][/us/pl/114/113/s206], Dec. 18, 2015, [129 Stat. 2672][/us/stat/129/2672].)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in the following prior appropriation act:
+
+    [Pub. L. 113–235, div. H, title II, § 206][/us/pl/113/235/s206], Dec. 16, 2014, [128 Stat. 2542][/us/stat/128/2542].
 
 ----------
 
@@ -26,6 +32,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206
+[/us/stat/129/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2672
 [/us/pl/113/235/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs206
 [/us/stat/128/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2542
 
