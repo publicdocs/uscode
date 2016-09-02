@@ -2131,6 +2131,38 @@ Part E—Improving the Quality of Representation in State Capital Cases  </td>
 
     <td> 
 
+Part F—Rafael Ramos and Wenjian Liu National Blue Alert  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14165" data-uslm-ref="/us/usc/t42/s14165">14165.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14165a" data-uslm-ref="/us/usc/t42/s14165a">14165a.</a>  </td>
+
+    <td> Blue Alert communications network.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14165b" data-uslm-ref="/us/usc/t42/s14165b">14165b.</a>  </td>
+
+    <td> Blue Alert Coordinator; guidelines.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER X—MOTOR VEHICLE THEFT PROTECTION  </td>
 
   </tr>

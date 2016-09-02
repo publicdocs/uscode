@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schX/m__us_usc_t42_s2160d.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXI/m__us_usc_t42_s2161.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXI)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schX/m__us_usc_t42_s2160e.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXI/m__us_usc_t42_s2161.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXI)
 
 #### SUBCHAPTER XI—CONTROL OF INFORMATION
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schX/m__us_usc_t42_s2160d.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXI/m__us_usc_t42_s2161.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXI)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schX/m__us_usc_t42_s2160e.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXI/m__us_usc_t42_s2161.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch23%2FdA%2FschXI)
 
 ----------
 ----------

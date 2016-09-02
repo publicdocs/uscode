@@ -35,6 +35,12 @@
 
     A prior section 13701, [Pub. L. 103–322, title II, § 20101][/us/pl/103/322/s20101], Sept. 13, 1994, [108 Stat. 1815][/us/stat/108/1815], related to grants for correctional facilities prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–12, § 1][/us/pl/114/12/s1], May 19, 2015, [129 Stat. 192][/us/stat/129/192], provided that: 
+
+> “This Act \[enacting part F (§ 14165 et seq.) of subchapter IX of this chapter\] may be cited as the ‘Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–242, § 1][/us/pl/113/242/s1], Dec. 18, 2014, [128 Stat. 2860][/us/stat/128/2860], provided that: 
@@ -194,6 +200,8 @@
 [/us/pl/103/322/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20101
 [/us/stat/108/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1815
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/114/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12%2Fs1
+[/us/stat/129/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F192
 [/us/pl/113/242/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242%2Fs1
 [/us/stat/128/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2860
 [/us/pl/113/182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs1

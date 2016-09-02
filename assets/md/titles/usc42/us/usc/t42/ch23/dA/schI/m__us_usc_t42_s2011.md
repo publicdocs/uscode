@@ -27,6 +27,12 @@
 
     A prior section 1 of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which related to declaration of policy and purpose of former chapter 14 of this title, was classified to [section 1801 of this title][/us/usc/t42/s1801], prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–17, § 1][/us/pl/114/17/s1], May 22, 2015, [129 Stat. 201][/us/stat/129/201], provided that: 
+
+> “This Act \[enacting [section 2160e of this title][/us/usc/t42/s2160e]\] may be cited as the ‘Iran Nuclear Agreement Review Act of 2015’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 112–239, div. C, title XXXI, § 3171][/us/pl/112/239/s3171], Jan. 2, 2013, [126 Stat. 2211][/us/stat/126/2211], provided that: 
@@ -100,6 +106,9 @@
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
 [/us/usc/t42/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1801
+[/us/pl/114/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F17%2Fs1
+[/us/stat/129/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F201
+[/us/usc/t42/s2160e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160e
 [/us/pl/112/239/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3171
 [/us/stat/126/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2211
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
