@@ -161,9 +161,13 @@ The other amendments to the second sentence clarify ambiguities in the timing pr
 
 >     “Rule 35. Correction or Reduction of Sentence
 
->     “(a) __Correction of Sentence. The court may correct an illegal sentence at any time and may correct a sentence imposed in an illegal manner within the time provided herein for the reduction of sentence.__ 
+>     “(a)  __Correction of Sentence__  __.__ 
 
->     “(b) __Reduction of Sentence. A motion to reduce a sentence may be made, or the court may reduce a sentence without motion, within 120 days after the sentence is imposed or probation is revoked, or within 120 days after receipt by the court of a mandate issued upon affirmance of the judgment or dismissal of the appeal, or within 120 days after entry of any order or judgment of the Supreme Court denying review of, or having the effect of upholding, a judgment of conviction or probation revocation. The court shall determine the motion within a reasonable time. Changing a sentence from a sentence of incarceration to a grant of probation shall constitute a permissible reduction of sentence under this subdivision.”__ 
+>      The court may correct an illegal sentence at any time and may correct a sentence imposed in an illegal manner within the time provided herein for the reduction of sentence.
+
+>     “(b)  __Reduction of Sentence__  __.__ 
+
+>      A motion to reduce a sentence may be made, or the court may reduce a sentence without motion, within 120 days after the sentence is imposed or probation is revoked, or within 120 days after receipt by the court of a mandate issued upon affirmance of the judgment or dismissal of the appeal, or within 120 days after entry of any order or judgment of the Supreme Court denying review of, or having the effect of upholding, a judgment of conviction or probation revocation. The court shall determine the motion within a reasonable time. Changing a sentence from a sentence of incarceration to a grant of probation shall constitute a permissible reduction of sentence under this subdivision.”
 
  __Effective Date of 1986 Amendment__ 
 

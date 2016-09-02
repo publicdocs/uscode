@@ -85,7 +85,7 @@
 
             (D)
 
-             An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. § 401a), <sup>\[1\]</sup>  <sup><sup> 1 Now editorially reclassified [50 U.S.C. 3003][/us/usc/t50/s3003]. </sup></sup>  or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official’s duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+             An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. § 401a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official’s duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
 
                 (i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information. Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
@@ -457,6 +457,8 @@ A recent GAO study established that there is considerable variety in the practic
 
  __References in Text__ 
 
+    50 U.S.C. § 401a, referred to in subd. (e)(3)(D), was editorially reclassified as [50 U.S.C. 3003][/us/usc/t50/s3003].
+
     The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
  __Amendment by Public Law__ 
@@ -556,7 +558,6 @@ A recent GAO study established that there is considerable variety in the practic
 ----------
 ----------
 
-[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/95/78/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fa
 [/us/stat/91/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F319
 [/us/pl/98/473/s215/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Ff
@@ -578,6 +579,7 @@ A recent GAO study established that there is considerable variety in the practic
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/108/458/s6501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa
 [/us/stat/118/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3760
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/108/458/s6501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FA
 [/us/pl/108/458/s6501/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fi
 [/us/pl/108/458/s6501/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fii

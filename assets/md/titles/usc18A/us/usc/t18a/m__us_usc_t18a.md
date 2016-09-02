@@ -15,7 +15,7 @@
 
 # Title 18—APPENDIXUNLAWFUL POSSESSION OR RECEIPT OF FIREARMS
 
-Current through 113-65
+Current through 113–75!66
 
 <table>
 
@@ -47,7 +47,7 @@ Current through 113-65
 
     <td> Classified Information Procedures Act (<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F96%2F456" data-uslm-ref="/us/pl/96/456">Pub. L. 96–456</a>)  </td>
 
-    <td> 814  </td>
+    <td>   </td>
 
   </tr>
 
@@ -55,7 +55,7 @@ Current through 113-65
 
     <td> Federal Rules of Criminal Procedure  </td>
 
-    <td> 822  </td>
+    <td>   </td>
 
   </tr>
 

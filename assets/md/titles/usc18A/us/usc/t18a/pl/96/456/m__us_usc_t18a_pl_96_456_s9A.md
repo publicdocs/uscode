@@ -15,11 +15,11 @@
 
 ##### § 9A. Coordination requirements relating to the prosecution of cases involving classified information
 
-    (a) __Briefings Required.—__ 
+    (a)  __Briefings Required__  __.—__ 
 
     The Assistant Attorney General for the Criminal Division or the Assistant Attorney General for National Security, as appropriate, and the appropriate United States attorney, or the designees of such officials, shall provide briefings to the senior agency official, or the designee of such official, with respect to any case involving classified information that originated in the agency of such senior agency official.
 
-    (b) __Timing of Briefings.—__ 
+    (b)  __Timing of Briefings__  __.—__ 
 
     Briefings under subsection (a) with respect to a case shall occur—
 
@@ -27,7 +27,7 @@
 
         (2) at such other times thereafter as are necessary to keep the senior agency official concerned fully and currently informed of the status of the prosecution.
 
-    (c) __Senior Agency Official Defined.—__ 
+    (c)  __Senior Agency Official Defined__  __.—__ 
 
     In this section, the term “senior agency official” has the meaning given that term in section 1.1 of Executive Order No. 12958.
 

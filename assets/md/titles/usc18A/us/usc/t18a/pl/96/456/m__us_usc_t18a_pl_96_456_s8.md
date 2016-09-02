@@ -15,15 +15,15 @@
 
 ##### § 8. Introduction of classified information
 
-    (a) __Classification Status.—__ 
+    (a)  __Classification Status__  __.—__ 
 
     Writings, recordings, and photographs containing classified information may be admitted into evidence without change in their classification status.
 
-    (b) __Precautions by Court.—__ 
+    (b)  __Precautions by Court__  __.—__ 
 
     The court, in order to prevent unnecessary disclosure of classified information involved in any criminal proceeding, may order admission into evidence of only part of a writing, recording, or photograph, or may order admission into evidence of the whole writing, recording, or photograph with excision of some or all of the classified information contained therein, unless the whole ought in fairness be considered.
 
-    (c) __Taking of Testimony.—__ 
+    (c)  __Taking of Testimony__  __.—__ 
 
     During the examination of a witness in any criminal proceeding, the United States may object to any question or line of inquiry that may require the witness to disclose classified information not previously found to be admissible. Following such an objection, the court shall take such suitable action to determine whether the response is admissible as will safeguard against the compromise of any classified information. Such action may include requiring the United States to provide the court with a proffer of the witness’ response to the question or line of inquiry and requiring the defendant to provide the court with a proffer of the nature of the information he seeks to elicit.
 

@@ -55,9 +55,11 @@
 
             (L) the court’s obligation to impose a special assessment;
 
-            (M) in determining a sentence, the court’s obligation to calculate the applicable sentencing-guideline range and to consider that range, possible departures under the Sentencing Guidelines, and other sentencing factors under 18 U.S.C. § 3553(a); and
+            (M) in determining a sentence, the court’s obligation to calculate the applicable sentencing-guideline range and to consider that range, possible departures under the Sentencing Guidelines, and other sentencing factors under 18 U.S.C. § 3553(a);
 
-            (N) the terms of any plea-agreement provision waiving the right to appeal or to collaterally attack the sentence.
+            (N) the terms of any plea-agreement provision waiving the right to appeal or to collaterally attack the sentence; and
+
+            (O) that, if convicted, a defendant who is not a United States citizen may be removed from the United States, denied citizenship, and denied admission to the United States in the future.
 
         (2) Ensuring That a Plea Is Voluntary. Before accepting a plea of guilty or nolo contendere, the court must address the defendant personally in open court and determine that the plea is voluntary and did not result from force, threats, or promises (other than promises in a plea agreement).
 
@@ -127,7 +129,7 @@
 
      A variance from the requirements of this rule is harmless error if it does not affect substantial rights.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(5)][/us/pl/94/64/s3/5]–(10), July 31, 1975, [89 Stat. 371][/us/stat/89/371], 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; [Pub. L. 100–690, title VII, § 7076][/us/pl/100/690/s7076], Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(5)][/us/pl/94/64/s3/5]–(10), July 31, 1975, [89 Stat. 371][/us/stat/89/371], 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; [Pub. L. 100–690, title VII, § 7076][/us/pl/100/690/s7076], Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -528,6 +530,16 @@ The purpose of the amendment is to draw more specific attention to the fact that
     Subdivision (b)(1)(M). The amendment conforms Rule 11 to the Supreme Court’s decision in United States v. Booker, 543 U.S. 220 (2005). Booker held that the provision of the federal sentencing statute that makes the Guidelines mandatory, 18 U.S.C. § 3553(b)(1), violates the Sixth Amendment right to jury trial. With this provision severed and excised, the Court held, the Sentencing Reform Act “makes the Guidelines effectively advisory,” and “requires a sentencing court to consider Guidelines ranges, see 18 U.S.C.A. § 3553(a)(4) (Supp. 2004), but it permits the court to tailor the sentence in light of other statutory concerns as well, see § 3553(a) (Supp. 2004).” Id. at 245–46. Rule 11(b)(M) incorporates this analysis into the information provided to the defendant at the time of a plea of guilty or nolo contendere.
 
     Changes Made to Proposed Amendment Released for Public Comment. No changes were made to the text of the proposed amendment as released for public comment. One change was made to the Committee note. The reference to the Fifth Amendment was deleted from the description of the Supreme Court’s decision in Booker.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (b)(1)(O). The amendment requires the court to include a general statement that there may be immigration consequences of conviction in the advice provided to the defendant before the court accepts a plea of guilty or nolo contendere.
+
+    For a defendant who is not a citizen of the United States, a criminal conviction may lead to removal, exclusion, and the inability to become a citizen. In Padilla v. Kentucky, 130 S.Ct. 1473 (2010), the Supreme Court held that a defense attorney’s failure to advise the defendant concerning the risk of deportation fell below the objective standard of reasonable professional assistance guaranteed by the Sixth Amendment.
+
+    The amendment mandates a generic warning, not specific advice concerning the defendant’s individual situation. Judges in many districts already include a warning about immigration consequences in the plea colloquy, and the amendment adopts this practice as good policy. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant’s citizenship.
+
+    Changes Made After Publication and Comment. The Committee Note was revised to make it clear that the court is to give a general statement that there may be immigration consequences, not specific advice concerning a defendant’s individual situation.
 
  __References in Text__ 
 

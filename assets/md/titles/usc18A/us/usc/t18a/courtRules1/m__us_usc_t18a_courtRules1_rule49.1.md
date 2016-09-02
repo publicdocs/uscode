@@ -15,7 +15,9 @@
 
 ### Rule 49.1. Privacy Protection For Filings Made with the Court
 
-    (a) __Redacted Filings. Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual’s social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, or the home address of an individual, a party or nonparty making the filing may include only:__ 
+    (a)  __Redacted Filings__  __.__ 
+
+     Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual’s social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, or the home address of an individual, a party or nonparty making the filing may include only:
 
         (1) the last four digits of the social-security number and taxpayer-identification number;
 
@@ -27,7 +29,9 @@
 
         (5) the city and state of the home address.
 
-    (b) __Exemptions from the Redaction Requirement. The redaction requirement does not apply to the following:__ 
+    (b)  __Exemptions from the Redaction Requirement__  __.__ 
+
+     The redaction requirement does not apply to the following:
 
         (1) a financial-account number or real property address that identifies the property allegedly subject to forfeiture in a forfeiture proceeding;
 
@@ -47,21 +51,33 @@
 
         (9) a charging document and an affidavit filed in support of any charging document.
 
-    (c) __Immigration Cases. A filing in an action brought under 28 U.S.C. § 2241 that relates to the petitioner’s immigration rights is governed by Federal Rule of Civil Procedure 5.2.__ 
+    (c)  __Immigration Cases__  __.__ 
 
-    (d) __Filings Made Under Seal. The court may order that a filing be made under seal without redaction. The court may later unseal the filing or order the person who made the filing to file a redacted version for the public record.__ 
+     A filing in an action brought under 28 U.S.C. § 2241 that relates to the petitioner’s immigration rights is governed by Federal Rule of Civil Procedure 5.2.
 
-    (e) __Protective Orders. For good cause, the court may by order in a case:__ 
+    (d)  __Filings Made Under Seal__  __.__ 
+
+     The court may order that a filing be made under seal without redaction. The court may later unseal the filing or order the person who made the filing to file a redacted version for the public record.
+
+    (e)  __Protective Orders__  __.__ 
+
+     For good cause, the court may by order in a case:
 
         (1) require redaction of additional information; or
 
         (2) limit or prohibit a nonparty’s remote electronic access to a document filed with the court.
 
-    (f) __Option for Additional Unredacted Filing Under Seal. A person making a redacted filing may also file an unredacted copy under seal. The court must retain the unredacted copy as part of the record.__ 
+    (f)  __Option for Additional Unredacted Filing Under Seal__  __.__ 
 
-    (g) __Option for Filing a Reference List. A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. Any reference in the case to a listed identifier will be construed to refer to the corresponding item of information.__ 
+     A person making a redacted filing may also file an unredacted copy under seal. The court must retain the unredacted copy as part of the record.
 
-    (h) __Waiver of Protection of Identifiers. A person waives the protection of Rule 49.1(a) as to the person’s own information by filing it without redaction and not under seal.__ 
+    (g)  __Option for Filing a Reference List__  __.__ 
+
+     A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. Any reference in the case to a listed identifier will be construed to refer to the corresponding item of information.
+
+    (h)  __Waiver of Protection of Identifiers__  __.__ 
+
+     A person waives the protection of Rule 49.1(a) as to the person’s own information by filing it without redaction and not under seal.
 
 (Added Apr. 30, 2007, eff. Dec. 1, 2007.)
 

@@ -67,7 +67,7 @@
 
             (G) Expert Witnesses. At the defendant’s request, the government must give to the defendant a written summary of any testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence during its case-in-chief at trial. If the government requests discovery under subdivision (b)(1)(C)(ii) and the defendant complies, the government must, at the defendant’s request, give to the defendant a written summary of testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence as evidence at trial on the issue of the defendant’s mental condition. The summary provided under this subparagraph must describe the witness’s opinions, the bases and reasons for those opinions, and the witness’s qualifications.
 
-        (2) Information Not Subject to Disclosure. Except as Rule 16(a)(1) provides otherwise, this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. § 3500.
+        (2) Information Not Subject to Disclosure. Except as permitted by Rule 16(a)(1)(A)–(D), (F), and (G), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. § 3500.
 
         (3) Grand Jury Transcripts. This rule does not apply to the discovery or inspection of a grand jury’s recorded proceedings, except as provided in Rules 6, 12(h), 16(a)(1), and 26.2.
 
@@ -143,7 +143,7 @@
 
             (D) enter any other order that is just under the circumstances.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(20)][/us/pl/94/64/s3/20]–(28), July 31, 1975, [89 Stat. 374][/us/stat/89/374], 375; [Pub. L. 94–149, § 5][/us/pl/94/149/s5], Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–273, div. C, title I, § 11019(b)][/us/pl/107/273/s11019/b], Nov. 2, 2002, [117 Stat. 1825][/us/stat/117/1825].)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(20)][/us/pl/94/64/s3/20]–(28), July 31, 1975, [89 Stat. 374][/us/stat/89/374], 375; [Pub. L. 94–149, § 5][/us/pl/94/149/s5], Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–273, div. C, title I, § 11019(b)][/us/pl/107/273/s11019/b], Nov. 2, 2002, [117 Stat. 1825][/us/stat/117/1825]; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -422,6 +422,20 @@ Having reached the conclusion that it is desirable to require broader disclosure
     In amended Rule 16(d)(1), the last phrase in the current subdivision—which refers to a possible appeal of the court’s discovery order—has been deleted. In the Committee’s view, no substantive change results from that deletion. The language is unnecessary because the court, regardless of whether there is an appeal, will have maintained the record.
 
     Finally, current Rule 16(e), which addresses the topic of notice of alibi witnesses, has been deleted as being unnecessarily duplicative of Rule 12.1.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (a). Paragraph (a)(2) is amended to clarify that the 2002 restyling of Rule 16 did not change the protection afforded to government work product.
+
+    Prior to restyling in 2002, Rule 16(a)(1)(C) required the government to allow the defendant to inspect and copy “books, papers, \[and\] documents” material to his defense. Rule 16(a)(2), however, stated that except as provided by certain enumerated subparagraphs—not including Rule 16(a)(1)(C)—Rule 16(a) did not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by the attorney for the government. Reading these two provisions together, the Supreme Court concluded that “a defendant may examine documents material to his defense, but, under Rule 16(a)(2), he may not examine Government work product.” United States v. Armstrong, 517 U.S. 456, 463 (1996).
+
+    With one exception not relevant here, the 2002 restyling of Rule 16 was intended to work no substantive change. Nevertheless, because restyled Rule 16(a)(2) eliminated the enumerated subparagraphs of its successor and contained no express exception for the materials previously covered by Rule 16(a)(1)(C) (redesignated as subparagraph (a)(1)(E)), some courts have been urged to construe the restyled rule as eliminating protection for government work product.
+
+    Courts have uniformly declined to construe the restyling changes to Rule 16(a)(2) to effect a substantive alteration in the scope of protection previously afforded to government work product by that rule. Correctly recognizing that restyling was intended to effect no substantive change, courts have invoked the doctrine of the scrivener’s error to excuse confusion caused by the elimination of the enumerated subparagraphs from the restyled rules.See, e.g., United States v. Rudolph, 224 F.R.D. 503, 504–11 (N.D. Ala. 2004), and United States v. Fort, 472 F.3d 1106, 1110 n.2 (9th Cir. 2007) (adopting the Rudolph court’s analysis).
+
+    By restoring the enumerated subparagraphs, the amendment makes it clear that a defendant’s pretrial access to books, papers, and documents under Rule 16(a)(1)(E) remains subject to the limitations imposed by Rule 16(a)(2).
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

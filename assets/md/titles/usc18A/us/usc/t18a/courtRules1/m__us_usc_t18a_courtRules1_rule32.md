@@ -15,9 +15,7 @@
 
 ### Rule 32. Sentencing and Judgment
 
-    (a) __\[Reserved.__ 
-
-    \]
+    (a)  __\[Reserved.\]__ 
 
     (b) __Time of Sentencing.__ 
 
