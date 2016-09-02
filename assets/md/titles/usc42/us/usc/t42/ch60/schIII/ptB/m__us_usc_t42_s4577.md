@@ -1,0 +1,206 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s4577
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4576.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4577)
+
+## § 4577. Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs
+
+    (a) __Projects and programs__ 
+
+    The Secretary, acting through the Institute, may make grants to public and nonprofit private entities and may enter into contracts with public and private entities and with individuals—
+
+        (1) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects in occupational and educational settings and on modified community living and work-care arrangements such as halfway houses, recovery homes, and supervised home care, and with particular emphasis on developing new and more effective alcohol abuse and alcoholism prevention, treatment, and rehabilitation programs,
+
+        (2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300l  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and
+
+        (3) to provide education and training, which may include additional training to enable treatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
+
+        for the prevention and treatment of alcohol abuse and alcoholism and for the rehabilitation of alcohol abusers and alcoholics.
+
+    (b) __Community participation__ 
+
+        Projects and programs for which grants and contracts are made under this section shall (1) be responsive to special requirements of handicapped individuals in receiving such services; (2) whenever possible, be community based, seek (in the case of prevention and treatment services) to insure care of good quality in general community care facilities and under health insurance plans, and be integrated with, and provide for the active participation of, a wide range of public and nongovernmental agencies, organizations, institutions, and individuals; (3) where a substantial number of the individuals in the population served by the proj­ect or program are of limited English-speaking ability, utilize the services of outreach workers fluent in the language spoken by a predominant number of such individuals and develop a plan and make arrangements responsive to the needs of such population for providing services to the extent practicable in the language and cultural context most appropriate to such individuals, and identify an individual employed by the project or program, or who is available to the project or program on a full-time basis, who is fluent both in that language and English and whose responsibilities shall include providing guidance to the individuals of limited English speaking ability and to appropriate staff members with respect to cultural sensitivities and bridging linguistic and cultural differences; and (4) where appropriate utilize existing community resources (including community mental health centers).
+
+    (c) __Application, coordination of applications in State, evaluation of projects and programs; review and recommendation by Council; criteria for approval; special consideration for underserved populations; authorization from chief executive officer required; maximum amount and duration of grants; applicant to provide proposed performance standards; drug abuse programs included__ 
+
+        (1) In administering this section, the Secretary shall require coordination of all applications for projects and programs in a State.
+
+        (2)
+
+            (A) Each applicant from within a State, upon filing its application with the Secretary for a grant or contract under this section, shall submit a copy of its application for review by the State agency responsible for the administration of alcohol abuse and alcoholism prevention, treatment, and rehabilitation activities. Such State agency shall be given not more than thirty days from the date of receipt of the application to submit to the Secretary, in writing, an evaluation of the project or program set forth in the application. Such evaluation shall include comments on the relationship of the project to other projects and programs pending and approved and to any State comprehensive plan for treatment and prevention of alcohol abuse and alcoholism. The State shall furnish the applicant a copy of any such evaluation.
+
+            (B)
+
+                (i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the National Advisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
+
+                (ii) Clause (i) shall not apply to an application for a grant under this section for a project or program for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if an application for a grant under this section for such project or program and for a period of time which includes such 12-month period has been submitted to, and approved by, the Secretary.
+
+        (3)
+
+         Approval of any application for a grant or contract by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria established by the Secretary that—
+
+            (A) provides that the projects and programs for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
+
+            (B) provides for such methods of administration as are necessary for the proper and efficient operation of such programs and projects; and
+
+            (C) provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the applicant.
+
+        (4) The Secretary shall encourage the submission of and give special consideration to applications under this section for programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, public inebriates, and families of alcoholics.
+
+        (5)
+
+            (A) No grant may be made under this section to a State or to any entity within the government of a State unless the grant application has been duly authorized by the chief executive officer of such State.
+
+            (B) No grant or contract may be made under this section for a period in excess of five years.
+
+            (C)
+
+                (i) The amount of any grant or contract under this section may not exceed 100 per centum of the cost of carrying out the grant or contract in the first fiscal year for which the grant or contract is made under this section, 80 per centum of such cost in the second fiscal year for which the grant or contract is made under this section, 70 per centum of such cost in the third fiscal year for which the grant or contract is made under this section, and 60 per centum of such cost in each of the fourth and fifth fiscal years for which the grant or contract is made under this section.
+
+                (ii) For purposes of this subparagraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
+
+        (6) Each applicant, upon filing its application with the Secretary for a grant or contract to provide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
+
+        (7) Nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, or rehabilitation of drug abuse as well as alcohol abuse and alcoholism.
+
+([Pub. L. 91–616, title III, § 311][/us/pl/91/616/s311], as added [Pub. L. 93–282, title I, § 111][/us/pl/93/282/s111], May 14, 1974, [88 Stat. 129][/us/stat/88/129]; amended [Pub. L. 94–371][/us/pl/94/371], §§ 4(c)(1), 6, 12(a), July 26, 1976, [90 Stat. 1035][/us/stat/90/1035], 1037, 1041; [Pub. L. 94–573, § 19(a)][/us/pl/94/573/s19/a], Oct. 21, 1976, [90 Stat. 2720][/us/stat/90/2720]; [Pub. L. 95–83, title III, § 311(c)][/us/pl/95/83/s311/c], Aug. 1, 1977, [91 Stat. 398][/us/stat/91/398]; [Pub. L. 96–180, § 11][/us/pl/96/180/s11], Jan. 2, 1980, [93 Stat. 1304][/us/stat/93/1304]; [Pub. L. 97–35, title IX, § 963(b)][/us/pl/97/35/s963/b], (c), Aug. 13, 1981, [95 Stat. 593][/us/stat/95/593]; [Pub. L. 97–414, § 9(d)][/us/pl/97/414/s9/d], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 98–24, § 5(a)(1)][/us/pl/98/24/s5/a/1], Apr. 26, 1983, [97 Stat. 183][/us/stat/97/183].)
+
+ __References in Text__ 
+
+    Section 300l of this title, referred to in subsec. (a)(2), was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+
+ __Prior Provisions__ 
+
+    A prior [section 311 of Pub. L. 91–616][/us/pl/91/616/s311], title III, Dec. 31, 1970, [84 Stat. 1851][/us/stat/84/1851], amended former [section 2688j–2 of this title][/us/usc/t42/s2688j–2], which was repealed by [Pub. L. 93–282, § 302][/us/pl/93/282/s302], and is incorporated in this section.
+
+    Provisions similar to those comprising this section were contained in [Pub. L. 88–164, title II, § 247][/us/pl/88/164/s247], formerly § 246, as added [Pub. L. 90–574, title III, § 301][/us/pl/90/574/s301], Oct. 15, 1968, [82 Stat. 1009][/us/stat/82/1009]; renumbered § 247, [Pub. L. 91–211, title III, § 304][/us/pl/91/211/s304], Mar. 13, 1970, [84 Stat. 59][/us/stat/84/59]; amended [Pub. L. 91–616, title III, § 311][/us/pl/91/616/s311], Dec. 31, 1970, [84 Stat. 1851][/us/stat/84/1851]; [Pub. L. 93–45, title II, § 204(b)][/us/pl/93/45/s204/b], June 18, 1973, [87 Stat. 94][/us/stat/87/94], which was classified to [section 2688j–2 of this title][/us/usc/t42/s2688j–2] prior to repeal by [Pub. L. 93–282, § 302][/us/pl/93/282/s302].
+
+ __Amendments__ 
+
+    1983—Subsec. (a). [Pub. L. 97–414, § 9(d)(1)][/us/pl/97/414/s9/d/1], amended directory language of [Pub. L. 97–35, § 963(b)(4)][/us/pl/97/35/s963/b/4], to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
+
+    Subsec. (a)(3). [Pub. L. 97–414, § 9(d)(2)][/us/pl/97/414/s9/d/2], substituted a comma for the period at end.
+
+    Subsec. (c)(4). [Pub. L. 98–24][/us/pl/98/24] inserted parenthetical reference to Native Hawaiians and Native American Pacific Islanders.
+
+    1981—Subsec. (a). [Pub. L. 97–35, § 963(b)][/us/pl/97/35/s963/b], as amended by [Pub. L. 97–414, § 9(d)(1)][/us/pl/97/414/s9/d/1], restructured and revised provisions and in par. (1) inserted provisions respecting program emphasis, struck out pars. (3) and (5), relating to services for underserved populations and programs and services for law enforcement personnel, etc., respectively, and redesignated former par. (4) as (3).
+
+    Subsec. (c). [Pub. L. 97–35, § 963(c)][/us/pl/97/35/s963/c], revised and restructured provisions and, among changes, in pars. (2), (3), and (4) made changes in phraseology, added pars. (5) and (7), and redesignated former par. (5) as (6).
+
+    1980—Subsec. (a). [Pub. L. 96–180, § 11(a)][/us/pl/96/180/s11/a], added par. (1), redesignated as pars. (2) to (5) former pars. (1) to (4), and substituted in par. (2) “support projects of a demonstrable value in developing” for “conduct demonstration and evaluation projects, including projects designed to develop” and in par. (3) “the elderly, women, the handicapped, families of alcoholics, and victims of alcohol-related domestic violence” for “female alcoholics, and individuals in geographic areas where such services are not otherwise adequately available”.
+
+    Subsec. (b). [Pub. L. 96–180, § 11(b)][/us/pl/96/180/s11/b], added cl. (1), redesignated as cls. (2) to (4) former cls. (1) to (3), and in cl. (2) inserted “(in the case of prevention and treatment services)” after “seek”.
+
+    Subsec. (c)(4). [Pub. L. 96–180, § 11(c)][/us/pl/96/180/s11/c], required Secretary to encourage submission of applications, incorporated existing provisions in cls. (A) and (C), and inserted cl. (B).
+
+    1977—Subsec. (c)(2)(B)(i). [Pub. L. 95–83][/us/pl/95/83] substituted “its” for “his”.
+
+    1976—Subsec. (a). [Pub. L. 94–371, § 6(a)][/us/pl/94/371/s6/a], inserted provisions which authorized development of effective coordination of all alcoholism treatment resources available, emphasis in treatment projects of those of the population currently underserved, and, training of personnel to enable them to meet certification requirements of public and private accreditation.
+
+    Subsec. (b). [Pub. L. 94–371, § 6(b)][/us/pl/94/371/s6/b], added cl. (2). Former cl. (2) redesignated (3).
+
+    Subsec. (c)(2). [Pub. L. 94–573][/us/pl/94/573] inserted provision that requirements for submission of applications to the Council for review and approval not apply to a grant application for a project or program for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if a grant application for a project or program and for a period of time which includes such 12 month period has been submitted to, and approved by, the Secretary.
+
+    [Pub. L. 94–371, § 12(a)][/us/pl/94/371/s12/a], inserted provision that each grant application be submitted by the Secretary to the Council for review and could not be approved by the Secretary unless recommended for approval by the Council.
+
+    Subsec. (c)(4), (5). [Pub. L. 94–371, § 6(c)][/us/pl/94/371/s6/c], added pars. (4) and (5).
+
+    Subsec. (d). [Pub. L. 94–371, § 4(c)(1)][/us/pl/94/371/s4/c/1], struck out subsec. (d) which related to authorization of appropriations for fiscal year ending June 30, 1975 and fiscal year ending June 30, 1976. Provisions are now covered by [section 4578 of this title][/us/usc/t42/s4578].
+
+ __Effective Date of 1976 Amendments__ 
+
+    [Pub. L. 94–371, § 4(c)][/us/pl/94/371/s4/c], July 26, 1976, [90 Stat. 1035][/us/stat/90/1035], provided that the amendment made by [section 4(c)(1) of Pub. L. 94–371][/us/pl/94/371/s4/c/1] is effective July 1, 1976.
+
+[Pub. L. 94–371, § 12(b)][/us/pl/94/371/s12/b], July 26, 1976, [90 Stat. 1041][/us/stat/90/1041], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976.”
+
+[Pub. L. 94–573, § 19(b)][/us/pl/94/573/s19/b], Oct. 21, 1976, [90 Stat. 2720][/us/stat/90/2720], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976.”
+
+ __Termination of Advisory Committees__ 
+
+    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4576.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4577)
+
+----------
+----------
+
+[/us/pl/91/616/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs311
+[/us/pl/93/282/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs111
+[/us/stat/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F129
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
+[/us/stat/90/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1035
+[/us/pl/94/573/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs19%2Fa
+[/us/stat/90/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2720
+[/us/pl/95/83/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs311%2Fc
+[/us/stat/91/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F398
+[/us/pl/96/180/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs11
+[/us/stat/93/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1304
+[/us/pl/97/35/s963/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs963%2Fb
+[/us/stat/95/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F593
+[/us/pl/97/414/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fd
+[/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
+[/us/pl/98/24/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs5%2Fa%2F1
+[/us/stat/97/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F183
+[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
+[/us/pl/91/616/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs311
+[/us/stat/84/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1851
+[/us/usc/t42/s2688j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2688j%E2%80%932
+[/us/pl/93/282/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs302
+[/us/pl/88/164/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164%2Fs247
+[/us/pl/90/574/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2Fs301
+[/us/stat/82/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1009
+[/us/pl/91/211/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F211%2Fs304
+[/us/stat/84/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F59
+[/us/pl/91/616/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs311
+[/us/stat/84/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1851
+[/us/pl/93/45/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs204%2Fb
+[/us/stat/87/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F94
+[/us/usc/t42/s2688j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2688j%E2%80%932
+[/us/pl/93/282/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs302
+[/us/pl/97/414/s9/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fd%2F1
+[/us/pl/97/35/s963/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs963%2Fb%2F4
+[/us/pl/97/414/s9/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fd%2F2
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
+[/us/pl/97/35/s963/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs963%2Fb
+[/us/pl/97/414/s9/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fd%2F1
+[/us/pl/97/35/s963/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs963%2Fc
+[/us/pl/96/180/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs11%2Fa
+[/us/pl/96/180/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs11%2Fb
+[/us/pl/96/180/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs11%2Fc
+[/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83
+[/us/pl/94/371/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs6%2Fa
+[/us/pl/94/371/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs6%2Fb
+[/us/pl/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573
+[/us/pl/94/371/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs12%2Fa
+[/us/pl/94/371/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs6%2Fc
+[/us/pl/94/371/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs4%2Fc%2F1
+[/us/usc/t42/s4578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4578
+[/us/pl/94/371/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs4%2Fc
+[/us/stat/90/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1035
+[/us/pl/94/371/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs4%2Fc%2F1
+[/us/pl/94/371/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs12%2Fb
+[/us/stat/90/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1041
+[/us/pl/94/573/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F573%2Fs19%2Fb
+[/us/stat/90/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2720
+[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
+[/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
+
+

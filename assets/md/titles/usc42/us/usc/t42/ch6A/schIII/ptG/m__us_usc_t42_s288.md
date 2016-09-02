@@ -1,0 +1,205 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s288
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptG/m__us_usc_t42_ch6A_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptG/m__us_usc_t42_s288–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288)
+
+## § 288. Ruth L. Kirschstein National Research Service Awards
+
+    (a) __Biomedical and behavioral research and research training; programs and institutions included; restriction; special consideration__ 
+
+        (1)
+
+         The Secretary shall—
+
+            (A)
+
+             provide Ruth L. Kirschstein National Research Service Awards for—
+
+                (i) biomedical and behavioral research at the National Institutes of Health in matters relating to the cause, diagnosis, prevention, and treatment of the diseases or other health problems to which the activities of the National Institutes of Health and Administration  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Reference to Administration probably should not appear. </sup></sup>  are directed;
+
+                (ii) training at the National Institutes of Health and at the Administration 1 of individuals to undertake such research;
+
+                (iii) biomedical and behavioral research and health services research (including research in primary medical care) at public and nonprofit private entities; and
+
+                (iv) pre-doctoral and post-doctoral training at public and private institutions of individuals to undertake biomedical and behavioral research;
+
+            (B) make grants to public and nonprofit private institutions to enable such institutions to make Ruth L. Kirschstein National Research Service Awards for research (and training to undertake biomedical and behavioral research) in the matters described in subparagraph (A)(i) to individuals selected by such institutions; and
+
+            (C) provide contracts for scholarships and loan repayments in accordance with sections 288–4 and 288–5 of this title, subject to providing not more than an aggregate 50 such contracts during the fiscal years 1994 through 1996.
+
+            A reference in this subsection to the National Institutes of Health shall be considered to include the institutes, agencies, divisions, and bureaus included in the National Institutes of Health or under the Administration,1 as the case may be.
+
+        (2) Ruth L. Kirschstein National Research Service Awards may not be used to support residency training of physicians and other health professionals.
+
+        (3) In awarding Ruth L. Kirschstein National Research Service Awards under this section, the Secretary shall take account of the Nation’s overall need for biomedical research personnel by giving special consideration to physicians who agree to undertake a minimum of two years of biomedical research.
+
+        (4) The Secretary shall carry out paragraph (1) in a manner that will result in the recruitment of women, and individuals from disadvantaged backgrounds (including racial and ethnic minorities), into fields of biomedical or behavioral research and in the provision of research training to women and such individuals.
+
+    (b) __Prerequisites for Award; review and approval by appropriate advisory councils; Award period; uses for Award; payments to non-Federal public or nonprofit private institutions__ 
+
+        (1)
+
+         No Ruth L. Kirschstein National Research Service Award may be made by the Secretary to any individual unless—
+
+            (A) the individual has submitted to the Secretary an application therefor and the Secretary has approved the application;
+
+            (B) the individual provides, in such form and manner as the Secretary shall by regulation prescribe, assurances satisfactory to the Secretary that the individual will meet the service requirement of subsection (c) of this section; and
+
+            (C) in the case of a Ruth L. Kirschstein National Research Service Award for a purpose described in subsection (a)(1)(A)(iii) of this section, the individual has been sponsored (in such manner as the Secretary may by regulation require) by the institution at which the research or training under the award will be conducted.
+
+            An application for an award shall be in such form, submitted in such manner, and contain such information, as the Secretary may by regulation prescribe.
+
+        (2) The making of grants under subsection (a)(1)(B) of this section for Ruth L. Kirschstein National Research Service Awards shall be subject to review and approval by the appropriate advisory councils within the Department of Health and Human Services (A) whose activities relate to the research or training under the awards, or (B) for the entity at which such research or training will be conducted.
+
+        (3) No grant may be made under subsection (a)(1)(B) of this section unless an application therefor has been submitted to and approved by the Secretary. Such application shall be in such form, submitted in such manner, and contain such information, as the Secretary may by regulation prescribe. Subject to the provisions of this section (other than paragraph (1)), Ruth L. Kirschstein National Research Service Awards made under a grant under subsection (a)(1)(B) of this section shall be made in accordance with such regulations as the Secretary shall prescribe.
+
+        (4)
+
+         The period of any Ruth L. Kirschstein National Research Service Award made to any individual under subsection (a) of this section may not exceed—
+
+            (A) five years in the aggregate for pre-doctoral training; and
+
+            (B) three years in the aggregate for post-doctoral training;
+
+            unless the Secretary for good cause shown waives the application of such limit to such individual.
+
+        (5) Ruth L. Kirschstein National Research Service Awards shall provide for such stipends, tuition, fees, and allowances (including travel and subsistence expenses and dependency allowances), adjusted periodically to reflect increases in the cost of living, for the recipients of the awards as the Secretary may deem necessary. A Ruth L. Kirschstein National Research Service Award made to an individual for research or research training at a non-Federal public or nonprofit private institution shall also provide for payments to be made to the institution for the cost of support services (including the cost of faculty salaries, supplies, equipment, general research support, and related items) provided such individual by such institution. The amount of any such payments to any institution shall be determined by the Secretary and shall bear a direct relationship to the reasonable costs of the institution for establishing and maintaining the quality of its biomedical and behavioral research and training programs.
+
+    (c) __Health research or teaching; service period; recovery upon noncompliance with service requirement, formula; cancellation or waiver of obligation__ 
+
+        (1) Each individual who is awarded a Ruth L. Kirschstein National Research Service Award for postdoctoral research training shall, in accordance with paragraph (3), engage in research training, research, or teaching that is health-related (or any combination thereof) for the period specified in paragraph (2). Such period shall be served in accordance with the usual patterns of scientific employment.
+
+        (2)
+
+            (A) The period referred to in paragraph (1) is 12 months, or one month for each month for which the individual involved receives a Ruth L. Kirschstein National Research Service Award for postdoctoral research training, whichever is less.
+
+            (B) With respect to postdoctoral research training, in any case in which an individual receives a Ruth L. Kirschstein National Research Service Award for more than 12 months, the 13th month and each subsequent month of performing activities under the Award shall be considered to be activities engaged in toward satisfaction of the requirement established in paragraph (1) regarding a period of service.
+
+        (3) The requirement of paragraph (1) shall be complied with by any individual to whom it applies within such reasonable period of time, after the completion of such individual’s award, as the Secretary shall by regulation prescribe. The Secretary shall by regulation prescribe the type of research and teaching in which an individual may engage to comply with such requirement and such other requirements respecting research and teaching as the Secretary considers appropriate.
+
+        (4)
+
+            (A) If any individual to whom the requirement of paragraph (1) is applicable fails, within the period prescribed by paragraph (3), to comply with such requirements, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula—         t−s  
+
+                A=ϕ  A——B
+
+                    t  
+
+                in which “A” is the amount the United States is entitled to recover; “ϕ” is the sum of the total amount paid under one or more Ruth L. Kirschstein National Research Service Awards to such individual; “t” is the total number of months in such individual’s service obligation; and “s” is the number of months of such obligation served by such individual in accordance with paragraphs (1) and (2) of this subsection.
+
+            (B) Any amount which the United States is entitled to recover under subparagraph (A) shall, within the three-year period beginning on the date the United States becomes entitled to recover such amount, be paid to the United States. Until any amount due the United States under subparagraph (A) on account of any Ruth L. Kirschstein National Research Service Award is paid, there shall accrue to the United States interest on such amount at a rate fixed by the Secretary of the Treasury after taking into consideration private consumer rates of interest prevailing on the date the United States becomes entitled to such amount.
+
+        (5)
+
+            (A) Any obligation of an individual under paragraph (1) shall be canceled upon the death of such individual.
+
+            (B) The Secretary shall by regulation provide for the waiver or suspension of any such obligation applicable to any individual whenever compliance by such individual is impossible or would involve substantial hardship to such individual or would be against equity and good conscience.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 869][/us/stat/99/869]; amended [Pub. L. 100–607, title I, § 151][/us/pl/100/607/s151], title VI, § 635, Nov. 4, 1988, [102 Stat. 3058][/us/stat/102/3058], 3148; [Pub. L. 101–93, § 5(d)][/us/pl/101/93/s5/d], Aug. 16, 1989, [103 Stat. 612][/us/stat/103/612]; [Pub. L. 101–239, title VI, § 6103(e)(7)][/us/pl/101/239/s6103/e/7], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208]; [Pub. L. 102–321, title I, § 163(b)(4)][/us/pl/102/321/s163/b/4], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title XVI][/us/pl/103/43], §§ 1601, 1602, 1632, 1641, title XX, § 2008(b)(14), June 10, 1993, [107 Stat. 181][/us/stat/107/181], 186, 211; [Pub. L. 106–129, § 2(b)(2)][/us/pl/106/129/s2/b/2], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670]; [Pub. L. 107–206, title I, § 804(a)][/us/pl/107/206/s804/a], (b), Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874]; [Pub. L. 109–482, title I, § 103(b)(47)][/us/pl/109/482/s103/b/47], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+
+ __Amendments__ 
+
+    2007—Subsec. (d). [Pub. L. 109–482][/us/pl/109/482] struck out subsec. (d) which related to authorization and apportionment of appropriations.
+
+    2002—[Pub. L. 107–206][/us/pl/107/206] inserted “Ruth L. Kirschstein” before “National Research Service Award” and “National Research Service Awards” wherever appearing in section catchline and text.
+
+    1999—Subsec. (d)(3). [Pub. L. 106–129][/us/pl/106/129] substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
+
+    1993—Subsec. (a)(1)(C). [Pub. L. 103–43, § 1632][/us/pl/103/43/s1632], added subpar. (C).
+
+    Subsec. (a)(4). [Pub. L. 103–43, § 1601][/us/pl/103/43/s1601], added par. (4).
+
+    Subsec. (c)(1), (2). [Pub. L. 103–43, § 1602][/us/pl/103/43/s1602], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+    “(1) Each individual who is awarded a National Research Service Award (other than an individual who is a pre-baccalaureate student who is awarded a National Research Service Award for research training) shall, in accordance with paragraph (3), engage in health research or teaching or any combination thereof which is in accordance with the usual patterns of academic employment, for a period computed in accordance with paragraph (2).
+
+    “(2) For each month for which an individual receives a National Research Service Award which is made for a period in excess of twelve months, such individual shall engage in one month of health research or teaching or any combination thereof which is in accordance with the usual patterns of academic employment.”
+
+    Subsec. (d). [Pub. L. 103–43, § 1641(1)][/us/pl/103/43/s1641/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “For the purpose of making payments under National Research Service Awards and under grants for such Awards, there are authorized to be appropriated $300,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990.”
+
+    Subsec. (d)(3). [Pub. L. 103–43][/us/pl/103/43], §§ 1641(2), 2008(b)(14), substituted “1 percent” for “one-half of one percent” in two places, “293k, 293l, or 293m” for “295g, 295g–4, or 295g–6”, and “242b(a)” for “242b(a)(3)”.
+
+    1992—Subsec. (a)(1). [Pub. L. 102–321][/us/pl/102/321] struck out “and the Alcohol, Drug Abuse, and Mental Health Administration” before “in matters relating to” in subpar. (A)(i) and struck out “or the Alcohol, Drug Abuse, and Mental Health Administration” before “shall be considered” in last sentence.
+
+    1989—Subsec. (d)(3). [Pub. L. 101–93][/us/pl/101/93] directed that par. (3), as similarly amended by sections 151(2) and 635 of [Pub. L. 100–607][/us/pl/100/607], be amended to read as if the amendment made by such section 635 had not been enacted. See 1988 Amendment note below.
+
+    Subsec. (d)(3)(B). [Pub. L. 101–239][/us/pl/101/239] substituted “Agency for Health Care Policy and Research” for “National Center for Health Services Research and Health Care Technology Assessment”.
+
+    1988—Subsec. (d). [Pub. L. 100–607, § 151(1)][/us/pl/100/607/s151/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to make payments under National Research Service Awards and under grants for such awards $244,000,000 for fiscal year 1986, $260,000,000 for fiscal year 1987, and $275,000,000 for fiscal year 1988.”
+
+    Subsec. (d)(3). [Pub. L. 100–607][/us/pl/100/607], §§ 151(2), 635, made identical amendments, inserting “to the Secretary, acting through the Administrator of the Health Resources and Services Administration,” after first reference to “available”.
+
+ __Change of Name__ 
+
+[Pub. L. 107–206, title I, § 804(c)][/us/pl/107/206/s804/c], Aug. 2, 2002, [116 Stat. 874][/us/stat/116/874], provided that: 
+
+> “Any reference in any law (other than this Act \[see Tables for classification\]), regulation, document, record, map, or other paper of the United States to ‘National Research Service Awards’ shall be considered to be a reference to ‘Ruth L. Kirschstein National Research Service Awards’.”
+
+ __Effective Date of 2007 Amendment__ 
+
+    Amendment by [Pub. L. 109–482][/us/pl/109/482] applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see [section 109 of Pub. L. 109–482][/us/pl/109/482/s109], set out as a note under [section 281 of this title][/us/usc/t42/s281].
+
+ __Effective Date of 1992 Amendment__ 
+
+    Amendment by [Pub. L. 102–321][/us/pl/102/321] effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of [Pub. L. 102–321][/us/pl/102/321], set out as a note under [section 236 of this title][/us/usc/t42/s236].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptG/m__us_usc_t42_ch6A_schIII_ptG.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptG/m__us_usc_t42_s288–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288)
+
+----------
+----------
+
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/stat/99/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F869
+[/us/pl/100/607/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs151
+[/us/stat/102/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3058
+[/us/pl/101/93/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fd
+[/us/stat/103/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F612
+[/us/pl/101/239/s6103/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6103%2Fe%2F7
+[/us/stat/103/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2208
+[/us/pl/102/321/s163/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs163%2Fb%2F4
+[/us/stat/106/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F376
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/stat/107/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F181
+[/us/pl/106/129/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs2%2Fb%2F2
+[/us/stat/113/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1670
+[/us/pl/107/206/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fa
+[/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
+[/us/pl/109/482/s103/b/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F47
+[/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
+[/us/pl/103/43/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1632
+[/us/pl/103/43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1601
+[/us/pl/103/43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1602
+[/us/pl/103/43/s1641/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1641%2F1
+[/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/607/s151/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs151%2F1
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/107/206/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs804%2Fc
+[/us/stat/116/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F874
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
+[/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
+[/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
+
+

@@ -1,0 +1,68 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s18322
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch159/schII/m__us_usc_t42_s18321.md) | [Next](./../../../../..//us/usc/t42/ch159/schII/m__us_usc_t42_s18323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18322)
+
+## § 18322. Space Launch System as follow-on launch vehicle to the Space Shuttle
+
+    (a) __United States policy__ 
+
+        It is the policy of the United States that NASA develop a Space Launch System as a follow-on to the Space Shuttle that can access cis-lunar space and the regions of space beyond low-Earth orbit in order to enable the United States to participate in global efforts to access and develop this increasingly strategic region.
+
+    (b) __Initiation of development__ 
+
+        (1) __In general__ 
+
+            The Administrator shall, as soon as practicable after October 11, 2010, initiate development of a Space Launch System meeting the minimum capabilities requirements specified in subsection (c).
+
+        (2) __Modification of current contracts__ 
+
+            In order to limit NASA’s termination liability costs and support critical capabilities, the Administrator shall, to the extent practicable, extend or modify existing vehicle development and associated contracts necessary to meet the requirements in paragraph (1), including contracts for ground testing of solid rocket motors, if necessary, to ensure their availability for development of the Space Launch System.
+
+    (c) __Minimum capability requirements__ 
+
+        (1) __In general.—__ 
+
+        The Space Launch System developed pursuant to subsection (b) shall be designed to have, at a minimum, the following:
+
+            (A) The initial capability of the core elements, without an upper stage, of lifting payloads weighing between 70 tons and 100 tons into low-Earth orbit in preparation for transit for missions beyond low-Earth orbit.
+
+            (B) The capability to carry an integrated upper Earth departure stage bringing the total lift capability of the Space Launch System to 130 tons or more.
+
+            (C) The capability to lift the multipurpose crew vehicle.
+
+            (D) The capability to serve as a backup system for supplying and supporting ISS cargo requirements or crew delivery requirements not otherwise met by available commercial or partner-supplied vehicles.
+
+        (2) __Flexibility.—__ 
+
+        The Space Launch System shall be designed from inception as a fully-integrated vehicle capable of carrying a total payload of 130 tons or more into low-Earth orbit in preparation for transit for missions beyond low-Earth orbit. The Space Launch System shall, to the extent practicable, incorporate capabilities for evolutionary growth to carry heavier payloads. Developmental work and testing of the core elements and the upper stage should proceed in parallel subject to appropriations. Priority should be placed on the core elements with the goal for operational capability for the core elements not later than December 31, 2016.
+
+        (3) __Transition needs.—__ 
+
+        The Administrator shall ensure critical skills and capabilities are retained, modified, and developed, as appropriate, in areas related to solid and liquid engines, large diameter fuel tanks, rocket propulsion, and other ground test capabilities for an effective transition to the follow-on Space Launch System.
+
+        (4) The capacity for efficient and timely evolution, including the incorporation of new technologies, competition of sub-elements, and commercial operations.
+
+([Pub. L. 111–267, title III, § 302][/us/pl/111/267/s302], Oct. 11, 2010, [124 Stat. 2814][/us/stat/124/2814].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch159/schII/m__us_usc_t42_s18321.md) | [Next](./../../../../..//us/usc/t42/ch159/schII/m__us_usc_t42_s18323.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18322)
+
+----------
+----------
+
+[/us/pl/111/267/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs302
+[/us/stat/124/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2814
+
+

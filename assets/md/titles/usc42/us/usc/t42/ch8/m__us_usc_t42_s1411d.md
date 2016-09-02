@@ -1,0 +1,32 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s1411d
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1412 to 1416.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411d)
+
+## § 1411d. Repealed. [Pub. L. 93–383, title II, § 204][/us/pl/93/383/s204], Aug. 22, 1974, [88 Stat. 668][/us/stat/88/668]
+
+    Section, [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 815, [68 Stat. 647][/us/stat/68/647], required submission of specifications by applicants prior to award of any contract for construction of a project and submission of data with respect to acquisition of land prior to authorization to purchase such land.
+
+----------
+
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1412 to 1416.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411d)
+
+----------
+----------
+
+[/us/pl/93/383/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs204
+[/us/stat/88/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F668
+[/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
+[/us/stat/68/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F647
+
+

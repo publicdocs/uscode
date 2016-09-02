@@ -1,0 +1,793 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s1320c–3
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933)
+
+## § 1320c–3. Functions of quality improvement organizations
+
+    (a) __Review of professional activities; determination of payment; determination of review authority; consultation with professional health care practitioners; standards of health care; other duties__ 
+
+    Subject to subsection (b), any quality improvement organization entering into a contract with the Secretary under this part must perform one or more of the following functions:
+
+        (1)
+
+         The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d) of this section, of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII of this chapter (including where payment is made for such services to eligible organizations pursuant to contracts under [section 1395mm of this title][/us/usc/t42/s1395mm], to Medicare Advantage organizations pursuant to contracts under part C, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and to prescription drug sponsors pursuant to contracts under part D  <sup>\[1\]</sup>  ) for the purpose of determining whether—
+
+            (A) such services and items are or were reasonable and medically necessary and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of [section 1395y of this title][/us/usc/t42/s1395y];
+
+            (B) the quality of such services meets professionally recognized standards of health care; and
+
+            (C) in case such services and items are proposed to be provided in a hospital or other health care facility on an inpatient basis, such services and items could, consistent with the provision of appropriate medical care, be effectively provided more economically on an outpatient basis or in an inpatient health care facility of a different type.
+
+            If the organization performs such reviews with respect to a type of health care practitioner other than medical doctors, the organization shall establish procedures for the involvement of health care practitioners of that type in such reviews.
+
+        (2)
+
+         The organization shall determine, on the basis of the review carried out under subparagraphs (A), (B), and (C) of paragraph (1), whether payment shall be made for services under subchapter XVIII of this chapter. Such determination shall constitute the conclusive determination on those issues for purposes of payment under subchapter XVIII of this chapter, except that payment may be made if—
+
+            (A) such payment is allowed by reason of [section 1395pp of this title][/us/usc/t42/s1395pp];
+
+            (B) in the case of inpatient hospital services or extended care services, the quality improvement organization determines that additional time is required in order to arrange for postdischarge care, but payment may be continued under this subparagraph for not more than two days, but only in the case where the provider of such services did not know and could not reasonably have been expected to know (as determined under [section 1395pp of this title][/us/usc/t42/s1395pp]) that payment would not otherwise be made for such services under subchapter XVIII of this chapter prior to notification by the organization under paragraph (3);
+
+            (C) such determination is changed as the result of any hearing or review of the determination under [section 1320c–4 of this title][/us/usc/t42/s1320c–4]; or
+
+            (D) such payment is authorized under [section 1395x(v)(1)(G) of this title][/us/usc/t42/s1395x/v/1/G].
+
+            The organization shall identify cases for which payment should not be made by reason of paragraph (1)(B) only through the use of criteria developed pursuant to guidelines established by the Secretary.
+
+        (3)
+
+            (A) Subject to subparagraphs (B) and (D), whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such patient and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter of such determination.
+
+            (B)
+
+             The notification under subparagraph (A) with respect to services or items disapproved by reason of subparagraph (A) or (C) of paragraph (1) shall not occur until 20 days after the date that the organization has—
+
+                (i) made a preliminary notification to such practitioner or provider of such proposed determination, and
+
+                (ii) provided such practitioner or provider an opportunity for discussion and review of the proposed determination.
+
+            (C) The discussion and review conducted under subparagraph (B)(ii) shall not affect the rights of a practitioner or provider to a formal reconsideration of a determination under this part (as provided under [section 1320c–4 of this title][/us/usc/t42/s1320c–4]).
+
+            (D)
+
+             The notification under subparagraph (A) with respect to services or items disapproved by reason of paragraph (1)(B) shall not occur until after—
+
+                (i) the organization has notified the practitioner or provider involved of the determination and of the practitioner’s or provider’s right to a formal reconsideration of the determination under [section 1320c–4 of this title][/us/usc/t42/s1320c–4], and
+
+                (ii) if the provider or practitioner requests such a reconsideration, the organization has made such a reconsideration.
+
+                If a provider or practitioner is provided a reconsideration, such reconsideration shall be in lieu of any subsequent reconsideration to which the provider or practitioner may be otherwise entitled under [section 1320c–4 of this title][/us/usc/t42/s1320c–4], but shall not affect the right of a beneficiary from seeking reconsideration under such section of the organization’s determination (after any reconsideration requested by the provider or physician under clause (ii)).
+
+            (E)
+
+                (i) In the case of services and items provided by a physician that were disapproved by reason of paragraph (1)(B), the notice to the patient shall state the following: “In the judgment of the quality improvement organization, the medical care received was not acceptable under the medicare program. The reasons for the denial have been discussed with your physician.”
+
+                (ii) In the case of services or items provided by an entity or practitioner other than a physician, the Secretary may substitute the entity or practitioner which provided the services or items for the term “physician” in the notice described in clause (i).
+
+        (4)
+
+            (A) The organization shall, after consultation with the Secretary, determine the types and kinds of cases (whether by type of health care or diagnosis involved, or whether in terms of other relevant criteria relating to the provision of health care services) with respect to which such organization will, in order to most effectively carry out the purposes of this part, exercise review authority under the contract. The organization shall notify the Secretary periodically with respect to such determinations. Each quality improvement organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.
+
+            (B) The contract of each organization shall provide for the review of services (including both inpatient and outpatient services) provided by eligible organizations pursuant to a risk-sharing contract under [section 1395mm of this title][/us/usc/t42/s1395mm] (or that is subject to review under [section 1395ss(t)(3) of this title][/us/usc/t42/s1395ss/t/3]) for the purpose of determining whether the quality of such services meets professionally recognized standards of health care, including whether appropriate health care services have not been provided or have been provided in inappropriate settings and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under [section 1395mm of this title][/us/usc/t42/s1395mm], the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system, and of the method and purposes for contacting the organization. The previous two sentences shall not apply with respect to a contract year if another entity has been awarded a contract under subparagraph (C). Under the contract the level of effort expended by the organization on reviews under this subparagraph shall be equivalent, on a per enrollee basis, to the level of effort expended by the organization on utilization and quality reviews performed with respect to individuals not enrolled with an eligible organization.
+
+        (5) The organization shall consult with nurses and other professional health care practitioners (other than physicians described in [section 1395x(r)(1) of this title][/us/usc/t42/s1395x/r/1]) and with representatives of institutional and noninstitutional providers of health care services, with respect to the organization’s responsibility for the review under paragraph (1) of the professional activities of such practitioners and providers.
+
+        (6)
+
+            (A)
+
+             The organization shall, consistent with the provisions of its contract under this part, apply professionally developed norms of care, diagnosis, and treatment based upon typical patterns of practice within the geographic area served by the organization as principal points of evaluation and review, taking into consideration national norms where appropriate. Such norms with respect to treatment for particular illnesses or health conditions shall include—
+
+                (i) the types and extent of the health care services which, taking into account differing, but acceptable, modes of treatment and methods of organizing and delivering care, are considered within the range of appropriate diagnosis and treatment of such illness or health condition, consistent with professionally recognized and accepted patterns of care; and
+
+                (ii) the type of health care facility which is considered, consistent with such standards, to be the type in which health care services which are medically appropriate for such illness or condition can most economically be provided.
+
+                As a component of the norms described in clause (i) or (ii), the organization shall take into account the special problems associated with delivering care in remote rural areas, the availability of service alternatives to inpatient hospitalization, and other appropriate factors (such as the distance from a patient’s residence to the site of care, family support, availability of proximate alternative sites of care, and the patient’s ability to carry out necessary or prescribed self-care regimens) that could adversely affect the safety or effectiveness of treatment provided on an outpatient basis.
+
+            (B)
+
+             The organization shall—
+
+                (i) offer to provide, several times each year, for a physician representing the organization to meet (at a hospital or at a regional meeting) with medical and administrative staff of each hospital (the services of which are reviewed by the organization) respecting the organization’s review of the hospital’s services for which payment may be made under subchapter XVIII of this chapter, and
+
+                (ii) publish (not less often than annually) and distribute to providers and practitioners whose services are subject to review a report that describes the organization’s findings with respect to the types of cases in which the organization has frequently determined that (I) inappropriate or unnecessary care has been provided, (II) services were rendered in an inappropriate setting, or (III) services did not meet professionally recognized standards of health care.
+
+        (7)
+
+         The organization, to the extent necessary and appropriate to the performance of the contract, shall—
+
+            (A)
+
+                (i) make arrangements to utilize the services of persons who are practitioners of, or specialists in, the various areas of medicine (including dentistry, optometry, and podiatry), or other types of health care, which persons shall, to the maximum extent practicable, be individuals engaged in the practice of their profession within the area served by such organization; and
+
+                (ii) in the case of psychiatric and physical rehabilitation services, make arrangements to ensure that (to the extent possible) initial review of such services be made by a physician who is trained in psychiatry or physical rehabilitation (as appropriate). <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a semicolon. </sup></sup> 
+
+            (B) undertake such professional inquiries either before or after, or both before and after, the provision of services with respect to which such organization has a responsibility for review which in the judgment of such organization will facilitate its activities;
+
+            (C) examine the pertinent records of any practitioner or provider of health care services providing services with respect to which such organization has a responsibility for review under paragraph (1); and
+
+            (D) inspect the facilities in which care is rendered or services are provided (which are located in such area) of any practitioner or provider of health care services providing services with respect to which such organization has a responsibility for review under paragraph (1).
+
+        (8) The organization shall perform such duties and functions and assume such responsibilities and comply with such other requirements as may be required by this part or under regulations of the Secretary promulgated to carry out the provisions of this part or as may be required to carry out [section 1395y(a)(15) of this title][/us/usc/t42/s1395y/a/15].
+
+        (9)
+
+            (A) The organization shall collect such information relevant to its functions, and keep and maintain such records, in such form as the Secretary may require to carry out the purposes of this part, and shall permit access to and use of any such information and records as the Secretary may require for such purposes, subject to the provisions of [section 1320c–9 of this title][/us/usc/t42/s1320c–9].
+
+            (B) If the organization finds, after reasonable notice to and opportunity for discussion with the physician or practitioner concerned, that the physician or practitioner has furnished services in violation of [section 1320c–5(a) of this title][/us/usc/t42/s1320c–5/a] and the organization determines that the physician or practitioner should enter into a corrective action plan under [section 1320c–5(b)(1) of this title][/us/usc/t42/s1320c–5/b/1], the organization shall notify the State board or boards responsible for the licensing or disciplining of the physician or practitioner of its finding and of any action taken as a result of the finding.
+
+        (10)
+
+         The organization shall coordinate activities, including information exchanges, which are consistent with economical and efficient operation of programs among appropriate public and private agencies or organizations including—
+
+            (A) agencies under contract pursuant to sections 1395h and 1395u of this title;
+
+            (B) other quality improvement organizations having contracts under this part; and
+
+            (C) other public or private review organizations as may be appropriate.
+
+        (11) The organization shall make available its facilities and resources for contracting with private and public entities paying for health care in its area for review, as feasible and appropriate, of services reimbursed by such entities.
+
+        (12) As part of the organization’s review responsibility under paragraph (1), the organization shall review all ambulatory surgical procedures specified pursuant to section 1395l(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary, a sample of such procedures.
+
+        (13) Notwithstanding paragraph (4), the organization shall perform the review described in paragraph (1) with respect to early readmission cases to determine if the previous inpatient hospital services and the post-hospital services met professionally recognized standards of health care. Such reviews may be performed on a sample basis if the organization and the Secretary determine it to be appropriate. In this paragraph, an “early readmission case” is a case in which an individual, after discharge from a hospital, is readmitted to a hospital less than 31 days after the date of the most recent previous discharge.
+
+        (14) The organization shall conduct an appropriate review of all written complaints about the quality of services (for which payment may otherwise be made under subchapter XVIII of this chapter) not meeting professionally recognized standards of health care, if the complaint is filed with the organization by an individual entitled to benefits for such services under such subchapter (or a person acting on the individual’s behalf). The organization shall inform the individual (or representative) of the organization’s final disposition of the complaint. Before the organization concludes that the quality of services does not meet professionally recognized standards of health care, the organization must provide the practitioner or person concerned with reasonable notice and opportunity for discussion.
+
+        (15) During each year of the contract entered into under [section 1320c–2(b) of this title][/us/usc/t42/s1320c–2/b], the organization shall perform on-site review activities as the Secretary determines appropriate.
+
+        (16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under [section 1395dd(d)(3) of this title][/us/usc/t42/s1395dd/d/3]. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
+
+        (17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizations offering Medicare Advantage plans under part C, <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  and prescription drug sponsors offering prescription drug plans under part D  <sup>\[3\]</sup>  quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII of this chapter, the functions described in this paragraph shall be treated as a review function.
+
+        (18) The organization shall perform, subject to the terms of the contract, such other activities as the Secretary determines may be necessary for the purposes of improving the quality of care furnished to individuals with respect to items and services for which payment may be made under subchapter XVIII.
+
+    (b) __Performance; exceptions__ 
+
+        A quality improvement organization entering into a contract with the Secretary to perform a function described in a paragraph under subsection (a) must perform all of the activities described in such paragraph, except to the extent otherwise negotiated with the Secretary pursuant to the contract or except for a function for which the Secretary determines it is not appropriate for the organization to perform, such as a function that could cause a conflict of interest with another function.
+
+    (c) __Review by physicians; physician’s family defined__ 
+
+        (1)
+
+         No physician shall be permitted to review—
+
+            (A) health care services provided to a patient if he was directly responsible for providing such services; or
+
+            (B) health care services provided in or by an institution, organization, or agency, if he or any member of his family has, directly or indirectly, a significant financial interest in such institution, organization, or agency.
+
+        (2) For purposes of this subsection, a physician’s family includes only his spouse (other than a spouse who is legally separated from him under a decree of divorce or separate maintenance), children (including legally adopted children), grandchildren, parents, and grandparents.
+
+    (d) __Utilization of services of physicians to make final determinations of denial decisions with respect to professional conduct of other physicians__ 
+
+        No quality improvement organization shall utilize the services of any individual who is not a duly licensed doctor of medicine, osteopathy, dentistry, optometry, or podiatry to make final determinations of denial decisions in accordance with its duties and functions under this part with respect to the professional conduct of any other duly licensed doctor of medicine, osteopathy, dentistry, optometry, or podiatry, or any act performed by any duly licensed doctor of medicine, osteopathy, dentistry, optometry, or podiatry in the exercise of his profession.
+
+    (e) __Review of hospital denial notices__ 
+
+        (1)
+
+         If—
+
+            (A) a hospital has determined that a patient no longer requires inpatient hospital care, and
+
+            (B) the attending physician has agreed with the hospital’s determination,
+
+            the hospital may provide the patient (or the patient’s representative) with a notice (meeting conditions prescribed by the Secretary under [section 1395pp of this title][/us/usc/t42/s1395pp]) of the determination.
+
+        (2) to (4) Repealed. [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 521(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–543.
+
+    (f) __Identification of methods for identifying cases of substandard care__ 
+
+        The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist quality improvement organizations (under subsection (a)(4) of this section) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1154, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 385][/us/stat/96/385]; amended [Pub. L. 97–448, title III, § 309(b)(3)][/us/pl/97/448/s309/b/3], (4), Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408], 2409; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, [100 Stat. 193][/us/stat/100/193], 196, 200, 201; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, [100 Stat. 2040][/us/stat/100/2040], 2043, 2044–2047; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, [101 Stat. 1330–135][/us/stat/101/1330-135] to 1330–137, 1330–139, as amended [Pub. L. 100–360, title IV, § 411(e)(3)][/us/pl/100/360/s411/e/3], (j)(3)(A), July 1, 1988, [102 Stat. 775][/us/stat/102/775], 791; [Pub. L. 100–360, title II, § 203(d)(2)][/us/pl/100/360/s203/d/2], title IV, § 411(j)(2), (3)(B), (4)(C), July 1, 1988, [102 Stat. 724][/us/stat/102/724], 775, 791; [Pub. L. 100–485, title VI, § 608(d)(25)(B)][/us/pl/100/485/s608/d/25/B], Oct. 13, 1988, [102 Stat. 2421][/us/stat/102/2421]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI, § 6224(a)(1)][/us/pl/101/239/s6224/a/1], (b)(1), Dec. 19, 1989, [103 Stat. 2257][/us/stat/103/2257]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, [104 Stat. 1388–113][/us/stat/104/1388-113] to 1388–115, 1388–117, 1388–137; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, [108 Stat. 4440][/us/stat/108/4440], 4441, 4444, 4450; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 521(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–543; [Pub. L. 108–173, title I, § 109(a)][/us/pl/108/173/s109/a], (b), title IX, § 948(d), Dec. 8, 2003, [117 Stat. 2173][/us/stat/117/2173], 2426; [Pub. L. 112–40, title II, § 261(a)(2)(B)][/us/pl/112/40/s261/a/2/B], (C), (c)(2), (d), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423], 425.)
+
+ __Prior Provisions__ 
+
+    A prior section 1320c–3, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1154, as added Oct. 30, 1972, [Pub. L. 92–603, title II, § 249F(b)][/us/pl/92/603/s249F/b], [86 Stat. 1432][/us/stat/86/1432]; amended Oct. 25, 1977, [Pub. L. 95–142, § 5(b)][/us/pl/95/142/s5/b], (d)(2)(C), [91 Stat. 1184][/us/stat/91/1184], 1186; Dec. 5, 1980, [Pub. L. 96–499, title IX, § 924(a)][/us/pl/96/499/s924/a], [94 Stat. 2628][/us/stat/94/2628]; Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2112(a)(1), (2)(B), (b), 2113(c), 2121(e), [95 Stat. 793][/us/stat/95/793], 794, 796, related to trial period for Professional Standards Review Organizations, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
+
+ __Amendments__ 
+
+    2011—[Pub. L. 112–40, § 261(a)(2)(B)][/us/pl/112/40/s261/a/2/B], substituted “quality improvement” for “peer review” in section catchline.
+
+    Subsec. (a). [Pub. L. 112–40, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], (c)(2)(A)(i), in introductory provisions, substituted “Subject to subsection (b), any quality improvement” for “Any utilization and quality control peer review” and inserted “one or more of” before “the following functions”.
+
+    Subsec. (a)(2)(B), (3)(E)(i), (4)(A). [Pub. L. 112–40, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], substituted “quality improvement” for “peer review”.
+
+    Subsec. (a)(4)(C). [Pub. L. 112–40, § 261(c)(2)(A)(ii)][/us/pl/112/40/s261/c/2/A/ii], struck out subpar. (C) which related to State-by-State competitive procurement procedures for review of quality of health care services and required certain contractual terms.
+
+    Subsec. (a)(10)(B). [Pub. L. 112–40, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], substituted “quality improvement” for “peer review”.
+
+    Subsec. (a)(12). [Pub. L. 112–40, § 261(c)(2)(A)(iii)][/us/pl/112/40/s261/c/2/A/iii], added par. (12).
+
+    Subsec. (a)(15). [Pub. L. 112–40, § 261(c)(2)(A)(iv)][/us/pl/112/40/s261/c/2/A/iv], substituted “on-site review activities as the Secretary determines appropriate” for “significant on-site review activities, including on-site review in at least 20 percent of the rural hospitals in the organization’s area”.
+
+    Subsec. (a)(18). [Pub. L. 112–40, § 261(d)][/us/pl/112/40/s261/d], added par. (18).
+
+    Subsec. (b). [Pub. L. 112–40, § 261(c)(2)(C)][/us/pl/112/40/s261/c/2/C], added subsec. (b). Former subsec. (b) redesignated (c).
+
+    Subsec. (c). [Pub. L. 112–40, § 261(c)(2)(B)][/us/pl/112/40/s261/c/2/B], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+    [Pub. L. 112–40, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], substituted “quality improvement” for “utilization and quality control peer review”.
+
+    Subsec. (d). [Pub. L. 112–40, § 261(c)(2)(B)][/us/pl/112/40/s261/c/2/B], redesignated subsec. (c) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Each contract under this part shall require that the utilization and quality control peer review organization’s review responsibility pursuant to subsection (a)(1) of this section will include review of all ambulatory surgical procedures specified pursuant to section 1395l(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary a sample of such procedures.”
+
+    Subsec. (f). [Pub. L. 112–40, § 261(a)(2)(C)][/us/pl/112/40/s261/a/2/C], substituted “quality improvement” for “peer review”.
+
+    2003—Subsec. (a)(1). [Pub. L. 108–173, § 109(a)][/us/pl/108/173/s109/a], inserted “, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D” after “under [section 1395mm of this title][/us/usc/t42/s1395mm]”.
+
+    Subsec. (a)(17). [Pub. L. 108–173, § 109(b)][/us/pl/108/173/s109/b], added par. (17).
+
+    Subsec. (e)(5). [Pub. L. 108–173, § 948(d)][/us/pl/108/173/s948/d], struck out par. (5) which read as follows: “In any review conducted under paragraph (2) or (3), the organization shall solicit the views of the patient involved (or the patient’s representative).”
+
+    2000—Subsec. (e)(2) to (4). [Pub. L. 106–554][/us/pl/106/554] struck out pars. (2) to (4), which had: in par. (2), authorized peer review organization review of validity of hospital’s determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital’s determination; in par. (3), authorized review of the determination where patient or patient’s representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
+
+    1994—Subsec. (a)(4)(B). [Pub. L. 103–432, § 171(h)(2)][/us/pl/103/432/s171/h/2], substituted “(or that is subject to review under [section 1395ss(t)(3) of this title][/us/usc/t42/s1395ss/t/3])” for “(or subject to review under [section 1395ss(t) of this title][/us/usc/t42/s1395ss/t])”.
+
+    Subsec. (a)(9)(B). [Pub. L. 103–432, § 156(b)(2)(B)][/us/pl/103/432/s156/b/2/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the organization finds, after notice and hearing, that a physician has furnished services in violation of this subsection, the organization shall notify the State board or boards responsible for the licensing or disciplining of the physician of its finding and decision.”
+
+    Subsec. (a)(12). [Pub. L. 103–432, § 156(a)(2)(A)(i)][/us/pl/103/432/s156/a/2/A/i], struck out par. (12) which read as follows: “The organization shall perform the review, referral, and other functions required under [section 1320c–13 of this title][/us/usc/t42/s1320c–13].”
+
+    Subsec. (d). [Pub. L. 103–432, § 156(a)(2)(A)(ii)][/us/pl/103/432/s156/a/2/A/ii], struck out “(and except as provided in [section 1320c–13 of this title][/us/usc/t42/s1320c–13])” after “discretion of the Secretary”.
+
+    1990—Subsec. (a)(2). [Pub. L. 101–508, § 4205(g)(2)(A)][/us/pl/101/508/s4205/g/2/A], inserted third sentence and struck out former third sentence which read as follows: “Determinations that payment should not be made by reason of subparagraph (B) of paragraph (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.”
+
+    Subsec. (a)(3)(E). [Pub. L. 101–508, § 4205(g)(1)(A)][/us/pl/101/508/s4205/g/1/A], designated existing provisions as cl. (i), inserted “provided by a physician that were” after “items”, substituted “physician.” for “physician and hospital.”, and added cl. (ii).
+
+    Subsec. (a)(4)(B). [Pub. L. 101–508, § 4358(b)(3)][/us/pl/101/508/s4358/b/3], inserted “(or subject to review under [section 1395ss(t) of this title][/us/usc/t42/s1395ss/t])” after “[section 1395mm of this title][/us/usc/t42/s1395mm]” in first sentence.
+
+    Subsec. (a)(7)(A)(i). [Pub. L. 101–508, § 4205(b)(1)(A)][/us/pl/101/508/s4205/b/1/A], inserted “, optometry, and podiatry” after “dentistry”.
+
+    Subsec. (a)(9). [Pub. L. 101–508, § 4205(d)(1)(A)][/us/pl/101/508/s4205/d/1/A], designated existing provisions as subpar. (A) and added subpar. (B).
+
+    Subsec. (a)(16). [Pub. L. 101–508, § 4207(a)(1)(B)][/us/pl/101/508/s4207/a/1/B], formerly § 4027(a)(1)(B), as renumbered by [Pub. L. 103–432, § 160(d)(4)][/us/pl/103/432/s160/d/4], added par. (16).
+
+    Subsec. (c). [Pub. L. 101–508, § 4205(b)(1)(B)][/us/pl/101/508/s4205/b/1/B], substituted “dentistry, optometry, or podiatry” for “or dentistry” in three places.
+
+    1989—Subsec. (a)(1). [Pub. L. 101–239, § 6224(a)(1)][/us/pl/101/239/s6224/a/1], inserted at end “If the organization performs such reviews with respect to a type of health care practitioner other than medical doctors, the organization shall establish procedures for the involvement of health care practitioners of that type in such reviews.”
+
+    Subsec. (a)(3)(A). [Pub. L. 101–239, § 6224(b)(1)(A)][/us/pl/101/239/s6224/b/1/A], substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
+
+    Subsec. (a)(3)(B). [Pub. L. 101–239, § 6224(b)(1)(B)][/us/pl/101/239/s6224/b/1/B], inserted “with respect to services or items disapproved by reason of subparagraph (A) or (C) of paragraph (1)” after “under subparagraph (A)”.
+
+    Subsec. (a)(3)(D), (E). [Pub. L. 101–239, § 6224(b)(1)(C)][/us/pl/101/239/s6224/b/1/C], added subpars. (D) and (E).
+
+    Subsec. (a)(16). [Pub. L. 101–234][/us/pl/101/234], repealed [Pub. L. 100–360, § 203(d)(2)][/us/pl/100/360/s203/d/2], and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+
+    1988—Subsec. (a)(3)(C). [Pub. L. 100–360, § 411(j)(2)][/us/pl/100/360/s411/j/2], designated last sentence of par. (3) as subpar. (C).
+
+    Subsec. (a)(4). [Pub. L. 100–360, § 411(e)(3)][/us/pl/100/360/s411/e/3], added [Pub. L. 100–203, § 4039(h)(3)][/us/pl/100/203/s4039/h/3], see 1987 Amendment note below.
+
+    Subsec. (a)(6). [Pub. L. 100–360, § 411(j)(3)(A)][/us/pl/100/360/s411/j/3/A], made technical amendment to directory language of [Pub. L. 100–203, § 4094(a)][/us/pl/100/203/s4094/a], see 1987 Amendment note below.
+
+    Subsec. (a)(15). [Pub. L. 100–360, § 411(j)(3)(B)][/us/pl/100/360/s411/j/3/B], substituted “review in at least” for “review at at least”.
+
+    Subsec. (a)(16). [Pub. L. 100–360, § 203(d)(2)][/us/pl/100/360/s203/d/2], added par. (16) which related to review of home intravenous drug therapy services.
+
+    Subsec. (d). [Pub. L. 100–360, § 411(e)(3)][/us/pl/100/360/s411/e/3], added [Pub. L. 100–203, § 4039(h)(4)][/us/pl/100/203/s4039/h/4], see 1987 Amendment note below.
+
+    Subsec. (e)(3)(A)(i). [Pub. L. 100–360, § 411(j)(4)(C)][/us/pl/100/360/s411/j/4/C], as amended by [Pub. L. 100–485, § 608(d)(25)(B)][/us/pl/100/485/s608/d/25/B], substituted “paragraph (1)” for “paragraph (1) or (2)”.
+
+    Subsec. (e)(3)(B). [Pub. L. 100–360, § 411(j)(4)(C)][/us/pl/100/360/s411/j/4/C], as amended by [Pub. L. 100–485, § 608(d)(25)(B)][/us/pl/100/485/s608/d/25/B], substituted “paragraph (1)” for “paragraph (1) or (2)” in introductory provisions.
+
+    1987—Subsec. (a)(3). [Pub. L. 100–203, § 4093(a)][/us/pl/100/203/s4093/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such practitioner or provider, such patient, and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter. In the case of practitioners and providers of services, the organization shall provide an opportunity for discussion and review of the determination.”
+
+    Subsec. (a)(4). [Pub. L. 100–203, § 4039(h)(3)][/us/pl/100/203/s4039/h/3], as added by [Pub. L. 100–360, § 411(e)(3)][/us/pl/100/360/s411/e/3], realigned margins for subpars. (B) and (C) and cls. (i) to (iii) of subpar. (C), in subpar. (B), substituted “risk sharing contract under section 1395mm” for “contract under section 1395mm”, and in subpar. (C), inserted “(other than the ability to perform review functions under this section that are not described in subparagraph (B))”.
+
+    Subsec. (a)(4)(B). [Pub. L. 100–203, § 4094(c)(2)(A)][/us/pl/100/203/s4094/c/2/A], inserted before period at end of first sentence “and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under [section 1395mm of this title][/us/usc/t42/s1395mm], the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system, and of the method and purposes for contacting the organization” and substituted “previous two sentences” for “previous sentence” in penultimate sentence.
+
+    Subsec. (a)(6). [Pub. L. 100–203, § 4094(c)(1)(A)][/us/pl/100/203/s4094/c/1/A], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+
+    [Pub. L. 100–203, § 4094(a)][/us/pl/100/203/s4094/a], as amended by [Pub. L. 100–360, § 411(j)(3)(A)][/us/pl/100/360/s411/j/3/A], inserted after and below subpar. (A) the following: “As a component of the norms described in clause (i) or (ii), the organization shall take into account the special problems associated with delivering care in remote rural areas, the availability of service alternatives to inpatient hospitalization, and other appropriate factors (such as the distance from a patient’s residence to the site of care, family support, availability of proximate alternative sites of care, and the patient’s ability to carry out necessary or prescribed self-care regimens) that could adversely affect the safety or effectiveness of treatment provided on an outpatient basis.”
+
+    Subsec. (a)(7)(A). [Pub. L. 100–203, § 4094(c)(2)(B)][/us/pl/100/203/s4094/c/2/B], designated existing provisions as cl. (i) and added cl. (ii).
+
+    Subsec. (a)(15). [Pub. L. 100–203, § 4094(b)][/us/pl/100/203/s4094/b], added par. (15).
+
+    Subsec. (d). [Pub. L. 100–203, § 4039(h)(4)][/us/pl/100/203/s4039/h/4], as added by [Pub. L. 100–360, § 411(e)(3)][/us/pl/100/360/s411/e/3], substituted “1320c–13 of this title” for “1320c–13(b)(4) of this title”.
+
+    Subsec. (e)(2). [Pub. L. 100–203, § 4096(c)(1)][/us/pl/100/203/s4096/c/1], inserted provision at end requiring hospital to notify patient if it has requested a review.
+
+    Subsec. (e)(3)(A)(i), (B). [Pub. L. 100–203, § 4096(c)(2)][/us/pl/100/203/s4096/c/2], inserted “or (2)” after “paragraph (1)”.
+
+    1986—Subsec. (a)(1). [Pub. L. 99–509, § 9343(d)(1)][/us/pl/99/509/s9343/d/1], inserted “and subject to the requirements of subsection (d) of this section” after “subject to the terms of the contract” in introductory provisions.
+
+    [Pub. L. 99–272, § 9405(a)][/us/pl/99/272/s9405/a], inserted “(including where payment is made for such services to eligible organizations pursuant to contracts under [section 1395mm of this title][/us/usc/t42/s1395mm])” after “subchapter XVIII of this chapter” in introductory provisions.
+
+    Subsec. (a)(2). [Pub. L. 99–272, § 9403(a)][/us/pl/99/272/s9403/a], in introductory provisions substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (C)”, and following subpar. (D) inserted provision that determinations that payment should not be made by reason of subpar. (B) of par. (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.
+
+    Subsec. (a)(4)(A). [Pub. L. 99–509, § 9353(a)(1)][/us/pl/99/509/s9353/a/1], inserted at end “Each peer review organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.”
+
+    [Pub. L. 99–509, § 9353(a)(2)(A)][/us/pl/99/509/s9353/a/2/A], inserted “(A)” after “(4)”.
+
+    Subsec. (a)(4)(B). [Pub. L. 99–509, § 9353(a)(2)(C)][/us/pl/99/509/s9353/a/2/C], inserted at end “Under the contract the level of effort expended by the organization on reviews under this subparagraph shall be equivalent, on a per enrollee basis, to the level of effort expended by the organization on utilization and quality reviews performed with respect to individuals not enrolled with an eligible organization.”
+
+    [Pub. L. 99–509, § 9353(a)(2)(B)][/us/pl/99/509/s9353/a/2/B], added subpar. (B).
+
+    Subsec. (a)(4)(C). [Pub. L. 99–509, § 9353(a)(2)(D)][/us/pl/99/509/s9353/a/2/D], added subpar. (C).
+
+    Subsec. (a)(8). [Pub. L. 99–272, § 9307(b)][/us/pl/99/272/s9307/b], inserted “or as may be required to carry out [section 1395y(a)(15) of this title][/us/usc/t42/s1395y/a/15]” before the period at end.
+
+    Subsec. (a)(12). [Pub. L. 99–272, § 9401(a)][/us/pl/99/272/s9401/a], added par. (12).
+
+    Subsec. (a)(13). [Pub. L. 99–509, § 9352(b)][/us/pl/99/509/s9352/b], added par. (13).
+
+    Subsec. (a)(14). [Pub. L. 99–509, § 9353(c)(1)][/us/pl/99/509/s9353/c/1], added par. (14).
+
+    Subsec. (d). [Pub. L. 99–509, § 9343(d)(2)][/us/pl/99/509/s9343/d/2], added subsec. (d).
+
+    Subsec. (e). [Pub. L. 99–509, § 9351(a)][/us/pl/99/509/s9351/a], added subsec. (e).
+
+    Subsec. (f). [Pub. L. 99–509, § 9353(a)(3)][/us/pl/99/509/s9353/a/3], added subsec. (f).
+
+    1983—Subsec. (a)(1)(A). [Pub. L. 97–448, § 309(b)(3)][/us/pl/97/448/s309/b/3], substituted “and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of [section 1395y of this title][/us/usc/t42/s1395y]” for “or otherwise allowable under [section 1395y(a)(1) of this title][/us/usc/t42/s1395y/a/1]”.
+
+    Subsec. (a)(2)(B). [Pub. L. 97–448, § 309(b)(4)][/us/pl/97/448/s309/b/4], struck out “posthospital” before “extended care services”.
+
+ __Effective Date of 2011 Amendment__ 
+
+    Amendment by [Pub. L. 112–40][/us/pl/112/40] applicable to contracts entered into or renewed on or after Jan. 1, 2012, see [section 261(e) of Pub. L. 112–40][/us/pl/112/40/s261/e], set out as a note under [section 1320c of this title][/us/usc/t42/s1320c].
+
+ __Effective Date of 2003 Amendment__ 
+
+[Pub. L. 108–173, title I, § 109(c)][/us/pl/108/173/s109/c], Dec. 8, 2003, [117 Stat. 2173][/us/stat/117/2173], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply on and after January 1, 2004.”
+
+    [Pub. L. 108–173, title IX, § 948(d)][/us/pl/108/173/s948/d], Dec. 8, 2003, [117 Stat. 2426][/us/stat/117/2426], provided that the amendment made by section 948(d) is effective as if included in the enactment of section 521(c) of BIPA (the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted by [section 1(a)(6) of Pub. L. 106–554][/us/pl/106/554/s1/a/6]).
+
+ __Effective Date of 2000 Amendment__ 
+
+[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 521(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–543, provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1395w–22 and 1395ff of this title\] shall apply with respect to initial determinations made on or after October 1, 2002.”
+
+ __Effective Date of 1994 Amendment__ 
+
+[Pub. L. 103–432, title I, § 156(a)(3)][/us/pl/103/432/s156/a/3], Oct. 31, 1994, [108 Stat. 4441][/us/stat/108/4441], provided that: 
+
+> “The amendments made by this subsection \[amending this section and sections 1395l, 1395m, 1395y, and 1395cc of this title and repealing [section 1320c–13 of this title][/us/usc/t42/s1320c–13]\] shall apply to services provided on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
+
+    Amendment by [section 171(h)(2) of Pub. L. 103–432][/us/pl/103/432/s171/h/2] effective as if included in the enactment of [Pub. L. 101–508][/us/pl/101/508], see section 171(l) of [Pub. L. 103–432][/us/pl/103/432], set out as a note under [section 1395ss of this title][/us/usc/t42/s1395ss].
+
+ __Effective Date of 1990 Amendment__ 
+
+[Pub. L. 101–508, title IV, § 4205(b)(2)][/us/pl/101/508/s4205/b/2], Nov. 5, 1990, [104 Stat. 1388–113][/us/stat/104/1388-113], provided that: 
+
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+[Pub. L. 101–508, title IV, § 4205(d)(1)(C)][/us/pl/101/508/s4205/d/1/C], Nov. 5, 1990, [104 Stat. 1388–114][/us/stat/104/1388-114], provided that: 
+
+> “The amendments made by this paragraph \[amending this section and [section 1320c–9 of this title][/us/usc/t42/s1320c–9]\] shall apply to notices of proposed sanctions issued more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+[Pub. L. 101–508, title IV, § 4205(g)(1)(B)][/us/pl/101/508/s4205/g/1/B], Nov. 5, 1990, [104 Stat. 1388–115][/us/stat/104/1388-115], provided that: 
+
+> “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconiliation \[sic\] Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239]\].”
+
+[Pub. L. 101–508, title IV, § 4205(g)(2)(B)][/us/pl/101/508/s4205/g/2/B], Nov. 5, 1990, [104 Stat. 1388–115][/us/stat/104/1388-115], provided that: 
+
+> “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[[Pub. L. 99–272][/us/pl/99/272]\].”
+
+[Pub. L. 101–508, title IV, § 4207(a)(1)(C)][/us/pl/101/508/s4207/a/1/C], formerly § 4027(a)(1)(C), Nov. 5, 1990, [104 Stat. 1388–117][/us/stat/104/1388-117], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that: 
+
+> “The amendment made by subparagraph (A) \[amending [section 1395dd of this title][/us/usc/t42/s1395dd]\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
+
+[Pub. L. 101–508, title IV, § 4358(c)][/us/pl/101/508/s4358/c], Nov. 5, 1990, [104 Stat. 1388–137][/us/stat/104/1388-137], as amended by [Pub. L. 103–432, title I, § 172(a)][/us/pl/103/432/s172/a], Oct. 31, 1994, [108 Stat. 4452][/us/stat/108/4452]; [Pub. L. 104–18, § 1][/us/pl/104/18/s1], July 7, 1995, [109 Stat. 192][/us/stat/109/192], provided that:
+
+>     “(1)
+
+>      The amendments made by this section \[amending this section and [section 1395ss of this title][/us/usc/t42/s1395ss]\] shall only apply—
+
+>         “(A) in 15 States (as determined by the Secretary of Health and Human Services) and such other States as elect such amendments to apply to them, and
+
+>         “(B) subject to paragraph (2), during the 6½-year period beginning with 1992.
+
+>         For purposes of this paragraph, the term ‘State’ has the meaning given such term by section 210(h) of the Social Security Act ([42 U.S.C. 410(h)][/us/usc/t42/s410/h]).
+
+>     “(2)
+
+>         (A) The Secretary of Health and Human Services shall conduct a study that compares the health care costs, quality of care, and access to services under medicare select policies with that under other medicare supplemental policies. The study shall be based on surveys of appropriate age-adjusted sample populations. The study shall be completed by June 30, 1997.
+
+>         “(B)
+
+>          Not later than December 31, 1997, the Secretary shall determine, based on the results of the study under subparagraph (A), if any of the following findings are true:
+
+>             “(i) The amendments made by this section have not resulted in savings of premium costs to those enrolled in medicare select policies (in comparison to their enrollment in medicare supplemental policies that are not medicare select policies and that provide comparable coverage).
+
+>             “(ii) There have been significant additional expenditures under the medicare program as a result of such amendments.
+
+>             “(iii) Access to and quality of care has been significantly diminished as a result of such amendments.
+
+>         “(C) The amendments made by this section shall remain in effect beyond the 6½-year period described in paragraph (1)(B) unless the Secretary determines that any of the findings described in clause (i), (ii), or (iii) of subparagraph (B) are true.
+
+>     “(3) The Comptroller General shall conduct a study to determine the extent to which individuals who are continuously covered under a medicare supplemental policy are subject to medical underwriting if they change the policy under which they are covered, and to identify options, if necessary, for modifying the medicare supplemental insurance market to make sure that continuously insured beneficiaries are able to switch plans without medical underwriting. By not later than June 30, 1996, the Comptroller General shall submit to the Congress a report on the study. The report shall include a description of the potential impact on the cost and availability of medicare supplemental policies of each option identified in the study.”
+
+\[[Pub. L. 103–432, title I, § 172(b)][/us/pl/103/432/s172/b], Oct. 31, 1994, [108 Stat. 4452][/us/stat/108/4452], provided that: 
+
+> “The amendment made by subsection (a) \[amending [section 4358(c) of Pub. L. 101–508][/us/pl/101/508/s4358/c], set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
+
+\]
+
+ __Effective Date of 1989 Amendment__ 
+
+[Pub. L. 101–239, title VI, § 6224(a)(2)][/us/pl/101/239/s6224/a/2], Dec. 19, 1989, [103 Stat. 2257][/us/stat/103/2257], provided that: 
+
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\].”
+
+[Pub. L. 101–239, title VI, § 6224(b)(3)][/us/pl/101/239/s6224/b/3], Dec. 19, 1989, [103 Stat. 2257][/us/stat/103/2257], provided that: 
+
+> “The amendments made by this subsection \[amending this section and [section 1320c–4 of this title][/us/usc/t42/s1320c–4]\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+
+    Amendment by [Pub. L. 101–234][/us/pl/101/234] effective Jan. 1, 1990, see [section 201(c) of Pub. L. 101–234][/us/pl/101/234/s201/c], set out as a note under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].
+
+ __Effective Date of 1988 Amendment__ 
+
+    Amendment by [Pub. L. 100–485][/us/pl/100/485] effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, [Pub. L. 100–360][/us/pl/100/360], see [section 608(g)(1) of Pub. L. 100–485][/us/pl/100/485/s608/g/1], set out as a note under [section 704 of this title][/us/usc/t42/s704].
+
+    [Pub. L. 100–360, title II, § 203(g)][/us/pl/100/360/s203/g], July 1, 1988, [102 Stat. 725][/us/stat/102/725], which had provided that the amendments made by [section 203 of Pub. L. 100–360][/us/pl/100/360/s203] (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981].
+
+    Except as specifically provided in [section 411 of Pub. L. 100–360][/us/pl/100/360/s411], amendment by section 411(e)(3), (j)(2), (3), (4)(C) of [Pub. L. 100–360][/us/pl/100/360], as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, [Pub. L. 100–203][/us/pl/100/203], effective as if included in the enactment of that provision in [Pub. L. 100–203][/us/pl/100/203], see [section 411(a) of Pub. L. 100–360][/us/pl/100/360/s411/a], set out as a Reference to OBRA; Effective Date note under [section 106 of Title 1][/us/usc/t1/s106], General Provisions.
+
+ __Effective Date of 1987 Amendment__ 
+
+[Pub. L. 100–203, title IV, § 4093(b)][/us/pl/100/203/s4093/b], Dec. 22, 1987, [101 Stat. 1330–136][/us/stat/101/1330-136], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988.”
+
+[Pub. L. 100–203, title IV, § 4094(c)(1)(B)][/us/pl/100/203/s4094/c/1/B], Dec. 22, 1987, [101 Stat. 1330–137][/us/stat/101/1330-137], provided that: 
+
+> “The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\].”
+
+[Pub. L. 100–203, title IV, § 4094(c)(2)(C)][/us/pl/100/203/s4094/c/2/C], Dec. 22, 1987, [101 Stat. 1330–137][/us/stat/101/1330-137], provided that: 
+
+> “The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\].”
+
+[Pub. L. 100–203, title IV, § 4096(d)][/us/pl/100/203/s4096/d], Dec. 22, 1987, [101 Stat. 1330–140][/us/stat/101/1330-140], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1395u, 1395gg, and 1395pp of this title\] shall apply to services furnished on or after January 1, 1988.”
+
+ __Effective Date of 1986 Amendment__ 
+
+    Amendment by [section 9343(d) of Pub. L. 99–509][/us/pl/99/509/s9343/d] applicable to contracts entered into or renewed after Jan. 1, 1987, see [section 9343(h)(4) of Pub. L. 99–509][/us/pl/99/509/s9343/h/4], as amended, set out as a note under section 1395l of this title.
+
+[Pub. L. 99–509, title IX, § 9351(b)][/us/pl/99/509/s9351/b], Oct. 21, 1986, [100 Stat. 2044][/us/stat/100/2044], provided that:
+
+>     “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to denial notices furnished by hospitals to individuals on or after the first day of the first month that begins more than 30 days after the date of the enactment of this Act \[Oct. 21, 1986\].
+
+>     “(2) Section 1154(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] (as added by the amendment made by subsection (a)) shall take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
+
+[Pub. L. 99–509, title IX, § 9352(c)(2)][/us/pl/99/509/s9352/c/2], Oct. 21, 1986, [100 Stat. 2044][/us/stat/100/2044], provided that: 
+
+> “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987, except that in applying such amendment before January 1, 1989, the term ‘post-hospital services’ does not include physicians’ services, other than physicians’ services furnished in a hospital, other inpatient facility, ambulatory surgical center, or rural health clinic.”
+
+[Pub. L. 99–509, title IX, § 9353(a)(6)][/us/pl/99/509/s9353/a/6], Oct. 21, 1986, [100 Stat. 2046][/us/stat/100/2046], as amended by [Pub. L. 100–203, title IV, § 4039(h)(9)(A)][/us/pl/100/203/s4039/h/9/A], (B), as added [Pub. L. 100–360, title IV, § 411(e)(3)][/us/pl/100/360/s411/e/3], July 1, 1988, [102 Stat. 776][/us/stat/102/776], provided that:
+
+>     “(A)
+
+>         (i) Except as provided in clause (ii), the amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.
+
+>         “(ii) The amendment made by paragraph (1) shall not be construed as requiring, before January 1, 1989, the review of physicians’ services, other than physicians’ services furnished in a hospital, other inpatient facility, ambulatory surgical center, or rural health clinic.
+
+>     “(B) The amendments made by paragraphs (2)(B) and (2)(D) \[amending this section\] shall apply to contracts as of April 1, 1987.
+
+>     “(C) The amendment made by paragraph (2)(C) \[amending this section\] shall apply to review activities conducted by organizations on or after January 1, 1988.
+
+>     “(D) The amendment made by paragraph (3) \[amending this section\] becomes effective on the date of the enactment of this Act \[Oct. 21, 1986\].”
+
+[Pub. L. 99–509, title IX, § 9353(c)(2)][/us/pl/99/509/s9353/c/2], Oct. 21, 1986, [100 Stat. 2047][/us/stat/100/2047], provided that: 
+
+> “The amendment made by paragraph (1) \[amending this section\] shall apply to complaints received on or after the first day of the first month that begins more than 9 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+
+[Pub. L. 99–272, title IX, § 9307(e)][/us/pl/99/272/s9307/e], Apr. 7, 1986, [100 Stat. 194][/us/stat/100/194], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1395u and 1395y of this title\] shall apply to services performed on or after April 1, 1986.”
+
+[Pub. L. 99–272, title IX, § 9401(d)][/us/pl/99/272/s9401/d], Apr. 7, 1986, [100 Stat. 200][/us/stat/100/200], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[this part\] that are in effect on that date as may be necessary to effect these amendments on a timely basis.”
+
+[Pub. L. 99–272, title IX, § 9403(c)][/us/pl/99/272/s9403/c], Apr. 7, 1986, [100 Stat. 200][/us/stat/100/200], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 1395cc of this title][/us/usc/t42/s1395cc]\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+
+[Pub. L. 99–272, title IX, § 9405(b)][/us/pl/99/272/s9405/b], Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], as amended by [Pub. L. 99–509, title IX, § 9353(a)(5)][/us/pl/99/509/s9353/a/5], Oct. 21, 1986, [100 Stat. 2046][/us/stat/100/2046], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to items and services furnished on or after April 1, 1987.”
+
+ __Effective Date of 1983 Amendment__ 
+
+    Amendment by [Pub. L. 97–448][/us/pl/97/448] effective as if originally included as a part of this section as this section was added by the Tax Equity and Fiscal Responsibility Act of 1982, [Pub. L. 97–248][/us/pl/97/248], see [section 309(c)(2) of Pub. L. 97–448][/us/pl/97/448/s309/c/2], set out as a note under [section 426–1 of this title][/us/usc/t42/s426–1].
+
+ __State Regulatory Programs__ 
+
+    For provisions relating to changes required to conform State regulatory programs to amendments by [section 171 of Pub. L. 103–432][/us/pl/103/432/s171], see [section 171(m) of Pub. L. 103–432][/us/pl/103/432/s171/m], set out as a note under [section 1395ss of this title][/us/usc/t42/s1395ss].
+
+ __Review and Analysis of Variations in Utilization of Hospital and Other Health Care Services__ 
+
+[Pub. L. 99–509, title IX, § 9353(a)(4)][/us/pl/99/509/s9353/a/4], Oct. 21, 1986, [100 Stat. 2046][/us/stat/100/2046], provided that: 
+
+> “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%933)
+
+----------
+----------
+
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
+[/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
+[/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
+[/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/usc/t42/s1395x/v/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fv%2F1%2FG
+[/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/usc/t42/s1395ss/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Ft%2F3
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
+[/us/usc/t42/s1395y/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F15
+[/us/usc/t42/s1320c–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%939
+[/us/usc/t42/s1320c–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fa
+[/us/usc/t42/s1320c–5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb%2F1
+[/us/usc/t42/s1320c–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%932%2Fb
+[/us/usc/t42/s1395dd/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd%2Fd%2F3
+[/us/usc/t42/s1395pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp
+[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/pl/97/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs143
+[/us/stat/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F385
+[/us/pl/97/448/s309/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F3
+[/us/stat/96/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2408
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/stat/100/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F193
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/stat/100/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2040
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/stat/101/1330-135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-135
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/stat/102/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F775
+[/us/pl/100/360/s203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs203%2Fd%2F2
+[/us/stat/102/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F724
+[/us/pl/100/485/s608/d/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F25%2FB
+[/us/stat/102/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2421
+[/us/pl/101/234/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fa
+[/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
+[/us/pl/101/239/s6224/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fa%2F1
+[/us/stat/103/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2257
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/stat/104/1388-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-113
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/stat/108/4440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4440
+[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/108/173/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fa
+[/us/stat/117/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2173
+[/us/pl/112/40/s261/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FB
+[/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/pl/92/603/s249F/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249F%2Fb
+[/us/stat/86/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1432
+[/us/pl/95/142/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142%2Fs5%2Fb
+[/us/stat/91/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1184
+[/us/pl/96/499/s924/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs924%2Fa
+[/us/stat/94/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2628
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/stat/95/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F793
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/112/40/s261/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FB
+[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/s261/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FA%2Fii
+[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/s261/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FA%2Fiii
+[/us/pl/112/40/s261/c/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FA%2Fiv
+[/us/pl/112/40/s261/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fd
+[/us/pl/112/40/s261/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FC
+[/us/pl/112/40/s261/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FB
+[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/112/40/s261/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fc%2F2%2FB
+[/us/pl/112/40/s261/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F2%2FC
+[/us/pl/108/173/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fa
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/pl/108/173/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fb
+[/us/pl/108/173/s948/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs948%2Fd
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/103/432/s171/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fh%2F2
+[/us/usc/t42/s1395ss/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Ft%2F3
+[/us/usc/t42/s1395ss/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Ft
+[/us/pl/103/432/s156/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs156%2Fb%2F2%2FB
+[/us/pl/103/432/s156/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs156%2Fa%2F2%2FA%2Fi
+[/us/usc/t42/s1320c–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9313
+[/us/pl/103/432/s156/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs156%2Fa%2F2%2FA%2Fii
+[/us/usc/t42/s1320c–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9313
+[/us/pl/101/508/s4205/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fg%2F2%2FA
+[/us/pl/101/508/s4205/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fg%2F1%2FA
+[/us/pl/101/508/s4358/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4358%2Fb%2F3
+[/us/usc/t42/s1395ss/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Ft
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/pl/101/508/s4205/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fb%2F1%2FA
+[/us/pl/101/508/s4205/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fd%2F1%2FA
+[/us/pl/101/508/s4207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fa%2F1%2FB
+[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/pl/101/508/s4205/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fb%2F1%2FB
+[/us/pl/101/239/s6224/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fa%2F1
+[/us/pl/101/239/s6224/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fb%2F1%2FA
+[/us/pl/101/239/s6224/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fb%2F1%2FB
+[/us/pl/101/239/s6224/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fb%2F1%2FC
+[/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
+[/us/pl/100/360/s203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs203%2Fd%2F2
+[/us/pl/100/360/s411/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F2
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/pl/100/203/s4039/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fh%2F3
+[/us/pl/100/360/s411/j/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F3%2FA
+[/us/pl/100/203/s4094/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fa
+[/us/pl/100/360/s411/j/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F3%2FB
+[/us/pl/100/360/s203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs203%2Fd%2F2
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/pl/100/203/s4039/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fh%2F4
+[/us/pl/100/360/s411/j/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F4%2FC
+[/us/pl/100/485/s608/d/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F25%2FB
+[/us/pl/100/360/s411/j/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F4%2FC
+[/us/pl/100/485/s608/d/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F25%2FB
+[/us/pl/100/203/s4093/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4093%2Fa
+[/us/pl/100/203/s4039/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fh%2F3
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/pl/100/203/s4094/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fc%2F2%2FA
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/pl/100/203/s4094/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fc%2F1%2FA
+[/us/pl/100/203/s4094/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fa
+[/us/pl/100/360/s411/j/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fj%2F3%2FA
+[/us/pl/100/203/s4094/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fc%2F2%2FB
+[/us/pl/100/203/s4094/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fb
+[/us/pl/100/203/s4039/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fh%2F4
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/pl/100/203/s4096/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4096%2Fc%2F1
+[/us/pl/100/203/s4096/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4096%2Fc%2F2
+[/us/pl/99/509/s9343/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9343%2Fd%2F1
+[/us/pl/99/272/s9405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9405%2Fa
+[/us/usc/t42/s1395mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395mm
+[/us/pl/99/272/s9403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9403%2Fa
+[/us/pl/99/509/s9353/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F1
+[/us/pl/99/509/s9353/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F2%2FA
+[/us/pl/99/509/s9353/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F2%2FC
+[/us/pl/99/509/s9353/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F2%2FB
+[/us/pl/99/509/s9353/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F2%2FD
+[/us/pl/99/272/s9307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9307%2Fb
+[/us/usc/t42/s1395y/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F15
+[/us/pl/99/272/s9401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9401%2Fa
+[/us/pl/99/509/s9352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9352%2Fb
+[/us/pl/99/509/s9353/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fc%2F1
+[/us/pl/99/509/s9343/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9343%2Fd%2F2
+[/us/pl/99/509/s9351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9351%2Fa
+[/us/pl/99/509/s9353/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F3
+[/us/pl/97/448/s309/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F3
+[/us/usc/t42/s1395y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y
+[/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
+[/us/pl/97/448/s309/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F4
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40/s261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fe
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
+[/us/pl/108/173/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs109%2Fc
+[/us/stat/117/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2173
+[/us/pl/108/173/s948/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs948%2Fd
+[/us/stat/117/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2426
+[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/103/432/s156/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs156%2Fa%2F3
+[/us/stat/108/4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4441
+[/us/usc/t42/s1320c–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%9313
+[/us/pl/103/432/s171/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fh%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/pl/101/508/s4205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fb%2F2
+[/us/stat/104/1388-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-113
+[/us/pl/101/508/s4205/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fd%2F1%2FC
+[/us/stat/104/1388-114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-114
+[/us/usc/t42/s1320c–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%939
+[/us/pl/101/508/s4205/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fg%2F1%2FB
+[/us/stat/104/1388-115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-115
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/508/s4205/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4205%2Fg%2F2%2FB
+[/us/stat/104/1388-115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-115
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/101/508/s4207/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4207%2Fa%2F1%2FC
+[/us/stat/104/1388-117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-117
+[/us/pl/103/432/s160/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs160%2Fd%2F4
+[/us/stat/108/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4444
+[/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
+[/us/pl/101/508/s4358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4358%2Fc
+[/us/stat/104/1388-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-137
+[/us/pl/103/432/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs172%2Fa
+[/us/stat/108/4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4452
+[/us/pl/104/18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F18%2Fs1
+[/us/stat/109/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F192
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/usc/t42/s410/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410%2Fh
+[/us/pl/103/432/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs172%2Fb
+[/us/stat/108/4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4452
+[/us/pl/101/508/s4358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4358%2Fc
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/239/s6224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fa%2F2
+[/us/stat/103/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2257
+[/us/pl/101/239/s6224/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6224%2Fb%2F3
+[/us/stat/103/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2257
+[/us/usc/t42/s1320c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%934
+[/us/pl/101/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234
+[/us/pl/101/234/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fc
+[/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/485/s608/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fg%2F1
+[/us/usc/t42/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs704
+[/us/pl/100/360/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs203%2Fg
+[/us/stat/102/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F725
+[/us/pl/100/360/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs203
+[/us/pl/101/234/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs201%2Fa
+[/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
+[/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/360/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa
+[/us/usc/t1/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs106
+[/us/pl/100/203/s4093/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4093%2Fb
+[/us/stat/101/1330-136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-136
+[/us/pl/100/203/s4094/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fc%2F1%2FB
+[/us/stat/101/1330-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-137
+[/us/usc/t42/s1320c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c
+[/us/pl/100/203/s4094/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4094%2Fc%2F2%2FC
+[/us/stat/101/1330-137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-137
+[/us/pl/100/203/s4096/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4096%2Fd
+[/us/stat/101/1330-140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-140
+[/us/pl/99/509/s9343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9343%2Fd
+[/us/pl/99/509/s9343/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9343%2Fh%2F4
+[/us/pl/99/509/s9351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9351%2Fb
+[/us/stat/100/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2044
+[/us/pl/99/509/s9352/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9352%2Fc%2F2
+[/us/stat/100/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2044
+[/us/pl/99/509/s9353/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F6
+[/us/stat/100/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2046
+[/us/pl/100/203/s4039/h/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4039%2Fh%2F9%2FA
+[/us/pl/100/360/s411/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fe%2F3
+[/us/stat/102/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F776
+[/us/pl/99/509/s9353/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fc%2F2
+[/us/stat/100/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2047
+[/us/pl/99/272/s9307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9307%2Fe
+[/us/stat/100/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F194
+[/us/pl/99/272/s9401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9401%2Fd
+[/us/stat/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F200
+[/us/pl/99/272/s9403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9403%2Fc
+[/us/stat/100/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F200
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
+[/us/pl/99/272/s9405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9405%2Fb
+[/us/stat/100/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F201
+[/us/pl/99/509/s9353/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F5
+[/us/stat/100/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2046
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/448/s309/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fc%2F2
+[/us/usc/t42/s426–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%E2%80%931
+[/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171
+[/us/pl/103/432/s171/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fm
+[/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
+[/us/pl/99/509/s9353/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9353%2Fa%2F4
+[/us/stat/100/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2046
+
+

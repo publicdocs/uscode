@@ -1,0 +1,291 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s247b–1
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%931)
+
+## § 247b–1. Screenings, referrals, and education regarding lead poisoning
+
+    (a) __Authority for grants__ 
+
+        (1) __In general__ 
+
+        Subject to paragraph (2), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and political subdivisions of States for the initiation and expansion of community programs designed—
+
+            (A)
+
+             to provide, for infants and children—
+
+                (i) screening for elevated blood lead levels;
+
+                (ii) referral for treatment of such levels; and
+
+                (iii) referral for environmental intervention associated with such levels; and
+
+            (B) to provide education about childhood lead poisoning.
+
+        (2) __Authority regarding certain entities__ 
+
+            With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254b, or 256a of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text notes below. </sup></sup>  for carrying out such activities in the area.
+
+        (3) __Provision of all services and activities through each grantee__ 
+
+            In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
+
+    (b) __Status as medicaid provider__ 
+
+        (1) __In general__ 
+
+        Subject to paragraph (2), the Secretary may not make a grant under subsection (a) of this section unless, in the case of any service described in such subsection that is made available pursuant to the State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for the State involved—
+
+            (A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+
+            (B) the applicant will enter into an agreement with a provider under which the provider will provide the service, and the provider has entered into such a participation agreement and is qualified to receive such payments.
+
+        (2) __Waiver regarding certain secondary agreements__ 
+
+            (A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+
+            (B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
+
+    (c) __Priority in making grants__ 
+
+        In making grants under subsection (a) of this section, the Secretary shall give priority to applications for programs that will serve areas with a high incidence of elevated blood lead levels in infants and children.
+
+    (d) __Grant application__ 
+
+    No grant may be made under subsection (a) of this section, unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and shall be submitted in such manner as the Secretary shall prescribe and shall include each of the following:
+
+        (1) A complete description of the program which is to be provided by or through the applicant.
+
+        (2)
+
+         Assurances satisfactory to the Secretary that the program to be provided under the grant applied for will include educational programs designed to—
+
+            (A) communicate to parents, educators, and local health officials the significance and prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
+
+            (B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
+
+        (3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
+
+        (4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
+
+        (5) Assurances satisfactory to the Secretary that the applicant will coordinate the activities carried out pursuant to subsection (a) of this section with related activities and services carried out in the State by grantees under title V or XIX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1396 et seq.\].
+
+        (6) Assurances satisfactory to the Secretary that Federal funds made available under such a grant for any period will be so used as to supplement and, to the extent practical, increase the level of State, local, and other non-Federal funds that would, in the absence of such Federal funds, be made available for the program for which the grant is to be made and will in no event supplant such State, local, and other non-Federal funds.
+
+        (7) Assurances satisfactory to the Secretary that the applicant will ensure complete and consistent reporting of all blood lead test results from laboratories and health care providers to State and local health departments in accordance with guidelines of the Centers for Disease Control and Prevention for standardized reporting as described in subsection (m) of this section.
+
+        (8) Such other information as the Secretary may prescribe.
+
+    (e) __Relationship to services and activities under other programs__ 
+
+        (1) __In general__ 
+
+        A recipient of a grant under subsection (a) of this section may not make payments from the grant for any service or activity to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service or activity—
+
+            (A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
+
+            (B) by an entity that provides health services on a prepaid basis.
+
+        (2) __Applicability to certain secondary agreements for provision of services__ 
+
+            Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
+
+    (f) __Method and amount of payment__ 
+
+        The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants. Not more than 10 percent of any grant may be obligated for administrative costs.
+
+    (g) __Supplies, equipment, and employee detail__ 
+
+    The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by—
+
+        (1) the fair market value of any supplies or equipment furnished the grant recipient; and
+
+        (2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
+
+        when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+
+    (h) __Records__ 
+
+        Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+
+    (i) __Audit and examination of records__ 
+
+        The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant under subsection (a) of this section, that are pertinent to such grant.
+
+    (j) __Annual report__ 
+
+        (1) __In general__ 
+
+            Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (l)(2) of this section.
+
+        (2) __Certain requirements__ 
+
+        Each report under paragraph (1) shall include, in addition to any other information that the Secretary may require, the following information:
+
+            (A) The number of infants and children screened.
+
+            (B) Demographic information on the population of infants and children screened, including the age and racial or ethnic status of such population.
+
+            (C) The number of screening sites.
+
+            (D) A description of the severity of the extent of the blood lead levels of the infants and children screened, expressed in categories of severity.
+
+            (E) The sources of payment for the screenings.
+
+            (F) The number of grantees that have established systems to ensure mandatory reporting of all blood lead tests from laboratories and health care providers to State and local health departments.
+
+            (G) A comparison of the data provided pursuant to subparagraphs (A) through (F) with the equivalent data, if any, provided in the report under paragraph (1) preceding the report involved.
+
+    (k) __Indian tribes__ 
+
+        For purposes of this section, the term “political subdivision” includes Indian tribes.
+
+    (l) __Funding__ 
+
+        (1) __Authorization of appropriations__ 
+
+            For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2005.
+
+        (2) __Allocation for other programs__ 
+
+            Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activities described in subsection (a) of this section in addition to the program of grants established in such subsection.
+
+    (m) __Guidelines for standardized reporting__ 
+
+        The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317A, as added [Pub. L. 100–572, § 3][/us/pl/100/572/s3], Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887]; amended [Pub. L. 102–531, title III, § 303(a)][/us/pl/102/531/s303/a], Oct. 27, 1992, [106 Stat. 3484][/us/stat/106/3484]; [Pub. L. 103–183, title VII, § 705(a)][/us/pl/103/183/s705/a], Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 105–392, title IV, § 404][/us/pl/105/392/s404], Nov. 13, 1998, [112 Stat. 3588][/us/stat/112/3588]; [Pub. L. 106–310, div. A, title XXV][/us/pl/106/310], §§ 2501(a), (b), 2504, Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], 1164; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163, § 2(m)(1)][/us/pl/108/163/s2/m/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023].)
+
+ __References in Text__ 
+
+    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
+
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (a)(2), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+
+    The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
+
+ __Prior Provisions__ 
+
+    A prior section 247b–1, [Pub. L. 95–626, title IV, § 401][/us/pl/95/626/s401], Nov. 10, 1978, [92 Stat. 3590][/us/stat/92/3590]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by [Pub. L. 97–35, title IX, § 902(a)][/us/pl/97/35/s902/a], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561, eff. Oct. 1, 1981.
+
+ __Amendments__ 
+
+    2003—Subsec. (a)(2). [Pub. L. 108–163][/us/pl/108/163] substituted “254b” for “254c, 254b(h)” before “, or”.
+
+    2002—Subsec. (a)(2). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
+
+    2000—Subsec. (d)(7), (8). [Pub. L. 106–310, § 2501(a)(1)][/us/pl/106/310/s2501/a/1], added par. (7) and redesignated former par. (7) as (8).
+
+    Subsec. (j)(2)(F), (G). [Pub. L. 106–310, § 2501(a)(2)][/us/pl/106/310/s2501/a/2], added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
+
+    Subsec. (l)(1). [Pub. L. 106–310, § 2504][/us/pl/106/310/s2504], substituted “1994 through 2005” for “1994 through 2002”.
+
+    Subsec. (m). [Pub. L. 106–310, § 2501(b)][/us/pl/106/310/s2501/b], added subsec. (m).
+
+    1998—Subsec. (l)(1). [Pub. L. 105–392][/us/pl/105/392] substituted “2002” for “1998”.
+
+    1993—Subsec. (l)(1). [Pub. L. 103–183][/us/pl/103/183] substituted “through 1998” for “through 1997”.
+
+    1992—[Pub. L. 102–531][/us/pl/102/531] amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
+
+ __Effective Date of 2003 Amendment__ 
+
+    Amendment by [Pub. L. 108–163][/us/pl/108/163] deemed to have taken effect immediately after the enactment of [Pub. L. 107–251][/us/pl/107/251], see [section 3 of Pub. L. 108–163][/us/pl/108/163/s3], set out as a note under [section 233 of this title][/us/usc/t42/s233].
+
+ __Development and Implementation of Effective Data Management by the Centers for Disease Control and Prevention__ 
+
+[Pub. L. 106–310, div. A, title XXV, § 2501(c)][/us/pl/106/310/s2501/c], Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], provided that:
+
+>     “(1) __In general.—__ 
+
+>     The Director of the Centers for Disease Control and Prevention shall—
+
+>         “(A) assist with the improvement of data linkages between State and local health departments and between State health departments and the Centers for Disease Control and Prevention;
+
+>         “(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
+
+>         “(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786][/us/usc/t42/s1786]) and the early head start program under section 645A of the Head Start Act ([42 U.S.C. 9840a(h)][/us/usc/t42/s9840a/h]) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+
+>         “(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
+
+>         “(E) use data obtained as result of activities under this section to formulate or revise existing lead blood screening and case management policies; and
+
+>         “(F) establish performance measures for evaluating State and local implementation of the requirements and improvements described in subparagraphs (A) through (E).
+
+>     “(2) __Authorization of appropriations.—__ 
+
+>     There are authorized to be appropriated to carry out this subsection such sums as may be necessary for each \[sic\] the fiscal years 2001 through 2005.
+
+>     “(3) __Effective date.—__ 
+
+>     This subsection takes effect on the date of the enactment of this Act \[Oct. 17, 2000\].”
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%931)
+
+----------
+----------
+
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/100/572/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs3
+[/us/stat/102/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2887
+[/us/pl/102/531/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs303%2Fa
+[/us/stat/106/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3484
+[/us/pl/103/183/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs705%2Fa
+[/us/stat/107/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2241
+[/us/pl/105/392/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs404
+[/us/stat/112/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3588
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/stat/114/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1161
+[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
+[/us/pl/108/163/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fm%2F1
+[/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
+[/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
+[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
+[/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
+[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
+[/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/95/626/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs401
+[/us/stat/92/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3590
+[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
+[/us/pl/97/35/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fa
+[/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/106/310/s2501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fa%2F1
+[/us/pl/106/310/s2501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fa%2F2
+[/us/pl/106/310/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2504
+[/us/pl/106/310/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fb
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
+[/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
+[/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
+[/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
+[/us/pl/106/310/s2501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fc
+[/us/stat/114/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1161
+[/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
+[/us/usc/t42/s9840a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a%2Fh
+
+

@@ -1,0 +1,344 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s1490p–2
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1490p–1.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1490q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490p%E2%80%932)
+
+## § 1490p–2. Loan guarantees for multifamily rental housing in rural areas
+
+    (a) __Authority__ 
+
+        The Secretary may make commitments to guarantee eligible loans for the development costs of eligible housing and related facilities, and may guarantee such eligible loans, in accordance with this section.
+
+    (b) __Extent of guarantee__ 
+
+        A guarantee made under this section shall guarantee repayment of an amount not exceeding the total of the amount of the unpaid principal and interest of the loan for which the guarantee is made. The liability of the United States under any guarantee under this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
+
+    (c) __Eligible borrowers__ 
+
+        A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
+
+    (d) __Eligible housing__ 
+
+    A loan may be guaranteed under this section only if the loan is used for the development costs of housing and related facilities (as such terms are defined in [section 1485(e) of this title][/us/usc/t42/s1485/e]) that—
+
+        (1) consists of 5 or more adequate dwellings;
+
+        (2) is available for occupancy only by low or moderate income  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “low- or moderate-­income”. </sup></sup>  families or persons, whose incomes at the time of initial occupancy do not exceed 115 percent of the median income of the area, as determined by the Secretary;
+
+        (3)
+
+         will remain available as provided in paragraph (2), according to such binding commitments as the Secretary may require, for the period of the original term of the loan guaranteed, unless the housing is acquired by foreclosure (or instrument in lieu of foreclosure) or the Secretary waives the applicability of such requirement for the loan only after determining, based on objective information, that—
+
+            (A) there is no longer a need for low- and moderate-income housing in the market area in which the housing is located;
+
+            (B) housing opportunities for low-income households and minorities will not be reduced as a result of the waiver; and
+
+            (C) additional Federal assistance will not be necessary as a result of the waiver; and
+
+        (4) is located in a rural area.
+
+    (e) __Eligible lenders__ 
+
+        (1) __Requirement__ 
+
+        A loan may be guaranteed under this section only if the loan is made by a lender that the Secretary determines—
+
+            (A) meets the qualifications, and has been approved by the Secretary of Housing and Urban Development, to make loans for multifamily housing that are to be insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\];
+
+            (B) meets the qualifications, and has been approved by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, to make loans for multifamily housing that are to be sold to such corporations; or
+
+            (C) meets any qualifications that the Secretary may, by regulation, establish for participation of lenders in the loan guarantee program under this section.
+
+        (2) __Eligibility list and annual audit__ 
+
+            The Secretary shall establish a list of eligible lenders and shall annually conduct an audit of each lender included in the list for purposes of determining whether such lender continues to be an eligible lender.
+
+    (f) __Loan terms__ 
+
+    Each loan guaranteed pursuant to this section shall—
+
+        (1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
+
+        (2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
+
+        (3)
+
+         involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve) not to exceed—
+
+            (A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
+
+            (B) in the case of a borrower that is a for-profit entity not referred to in subparagraph (A), 90 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less; and
+
+            (C) in the case of any borrower, for such part of the property as may be attributable to dwelling use, the applicable maximum per unit dollar amount limitations under section 207(c) of the National Housing Act \[[12 U.S.C. 1713(c)][/us/usc/t12/s1713/c]\];
+
+        (4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
+
+        (5) for at least 20 percent of the loans made under this section, the Secretary shall provide the borrower with assistance in the form of credits pursuant to [section 1490a(a)(1)(B) of this title][/us/usc/t42/s1490a/a/1/B] to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 26.
+
+    (g) __Guarantee fee__ 
+
+        At the time of issuance of a loan guaranteed under this section, the Secretary may collect from the lender a fee equal to not more than 1 percent of the principal obligation of the loan.
+
+    (h) __Authority for lenders to issue certificates of guarantee__ 
+
+        The Secretary may authorize certain eligible lenders to determine whether a loan meets the requirements for guarantee under this section and, subject to the availability of authority to enter into guarantees under this section, execute a firm commitment for a guarantee binding upon the Secretary and issue a certificate of guarantee evidencing a guarantee, without review and approval by the Secretary of the specific loan. The Secretary may establish standards for approving eligible lenders for a delegation of authority under this subsection.
+
+    (i) __Payment under guarantee__ 
+
+        (1) __Notice of default__ 
+
+            In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
+
+        (2) __Foreclosure__ 
+
+            After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+
+        (3) __Assignment by Secretary__ 
+
+            After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section).
+
+        (4) __Requirements__ 
+
+            Before any payment under a guarantee is made under paragraph (2) or (3), the holder of the guarantee certificate shall exhaust all reasonable possibilities of collection on the loan guaranteed. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+
+    (j) __Violation of guarantee requirements by lenders issuing guarantees__ 
+
+        (1) __Indemnification__ 
+
+        If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
+
+            (A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
+
+            (B) to indemnify the Secretary for the loss regardless of when payment under the guarantee was made, if the Secretary determines that fraud or misrepresentation was involved in connection with the origination of the loan.
+
+        (2) __Termination of authority to issue guarantees__ 
+
+            The Secretary may cancel a delegation of authority under subsection (h) of this section to an eligible lender if the Secretary determines that the lender has violated the requirements and procedures for guaranteed loans under this section or for other good cause. Any such cancellation shall be made by giving notice to the eligible lender and shall take effect upon receipt of the notice by the mortgagee or at a later date, as the Secretary may provide. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
+
+    (k) __Refinancing__ 
+
+        Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
+
+    (l) __Geographical targeting__ 
+
+        (1) __Study__ 
+
+            The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+
+        (2) __Targeting__ 
+
+            In providing loan guarantees under this section, the Secretary shall establish standards to target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
+
+    (m) __Inapplicability of credit-elsewhere test__ 
+
+        [Section 1471(c) of this title][/us/usc/t42/s1471/c] shall not apply to guarantees, or loans guaranteed, under this section.
+
+    (n) __Tenant protections__ 
+
+        The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under [section 1485 of this title][/us/usc/t42/s1485]. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
+
+    (o) __Housing standards__ 
+
+        The standards established under [section 1485(m) of this title][/us/usc/t42/s1485/m] for housing and related facilities assisted under [section 1485 of this title][/us/usc/t42/s1485] shall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
+
+    (p) __Limitation on commitments to guarantee loans__ 
+
+        (1) __Requirement of appropriations for cost subsidy__ 
+
+            The authority of the Secretary to enter into commitments to guarantee loans under this section, and to guarantee loans, shall be effective for each fiscal year only to the extent that appropriations of budget authority to cover the costs (as such term is defined in [section 661a of title 2][/us/usc/t2/s661a]) of the guarantees are made in advance for such fiscal year.
+
+        (2) __Annual limitation on amount of loan guarantee__ 
+
+            In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
+
+    (q) __Report__ 
+
+        (1) __In general__ 
+
+            The Secretary shall submit a report to the Congress, not later than the expiration of the 2-year period beginning on March 28, 1996, describing the program under this section for guaranteeing loans.
+
+        (2) __Contents__ 
+
+        The report shall—
+
+            (A) describe the types of borrowers providing housing with loans guaranteed under this section, the areas served by the housing provided and the geographical distribution of the housing, the levels of income of the residents of the housing, the number of dwelling units provided, the extent to which borrowers under such loans have obtained other financial assistance for development costs of housing provided with the loans, and the extent to which borrowers under such loans have used low-income housing tax credits provided under [section 42 of title 26][/us/usc/t26/s42] in connection with the housing provided with the loans;
+
+            (B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
+
+            (C) include any recommendations of the Secretary for expanding or improving the program under this section for guaranteeing loans; and
+
+            (D) include any other information regarding the program for guaranteeing loans under this section that the Secretary considers appropriate.
+
+    (r) __Definitions__ 
+
+    For purposes of this section, the following definitions shall apply:
+
+        (1) The term “development cost” has the meaning given the term in [section 1485(e) of this title][/us/usc/t42/s1485/e].
+
+        (2) The term “eligible lender” means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
+
+        (3) The terms “housing” and “related facilities” have the meanings given such terms in [section 1485(e) of this title][/us/usc/t42/s1485/e].
+
+        (4) __Indian tribe.—__ 
+
+        The term “Indian tribe” means—
+
+            (A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 ([25 U.S.C. 450][/us/usc/t25/s450] et seq.); or
+
+            (B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
+
+    (s) __Authorization of appropriations__ 
+
+        There are authorized to be appropriated for each fiscal year for costs (as such term is defined in [section 661a of title 2][/us/usc/t2/s661a]) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
+
+    (t) __Tax-exempt financing__ 
+
+        The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be chapter “1”. </sup></sup>  of title 26.
+
+    (u) __Fee authority__ 
+
+        Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by [section 661a of title 2][/us/usc/t2/s661a]) of loan guarantees made under this section.
+
+    (v) __Defaults of loans secured by reservation lands__ 
+
+        In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ([25 U.S.C. 461][/us/usc/t25/s461] et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 538, as added and amended [Pub. L. 104–120, § 5][/us/pl/104/120/s5], Mar. 28, 1996, [110 Stat. 835][/us/stat/110/835]; [Pub. L. 105–86, title VII, § 735(c)][/us/pl/105/86/s735/c], Nov. 18, 1997, [111 Stat. 2111][/us/stat/111/2111]; [Pub. L. 105–276, title V, § 599C(c)][/us/pl/105/276/s599C/c], Oct. 21, 1998, [112 Stat. 2661][/us/stat/112/2661]; [Pub. L. 106–569, title VII, § 707][/us/pl/106/569/s707], Dec. 27, 2000, [114 Stat. 3015][/us/stat/114/3015].)
+
+ __References in Text__ 
+
+    The National Housing Act, referred to in subsec. (e)(1)(A), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
+
+    Subpar. (D) of [section 42(i)(2) of title 26][/us/usc/t26/s42/i/2], referred to in subsec. (f)(5), was repealed by [Pub. L. 110–289, div. C, title I, § 3002(b)(2)(C)][/us/pl/110/289/s3002/b/2/C], July 30, 2008, [122 Stat. 2880][/us/stat/122/2880].
+
+    The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
+
+    The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
+
+    The Indian Reorganization Act, referred to in subsec. (v), is [act June 18, 1934, ch. 576][/us/act/1934-06-18/ch576], [48 Stat. 984][/us/stat/48/984], as amended, which is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25][/us/usc/t25/s461] and Tables.
+
+ __Codification__ 
+
+    Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as passed by the House of Representatives on Oct. 30, 1995, which was enacted into law by [Pub. L. 104–120][/us/pl/104/120].
+
+ __Amendments__ 
+
+    2000—Subsec. (c). [Pub. L. 106–569, § 707(1)][/us/pl/106/569/s707/1], inserted “an Indian tribe,” after “political subdivision thereof,”.
+
+    Subsec. (f)(1). [Pub. L. 106–569, § 707(2)][/us/pl/106/569/s707/2], added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
+
+    Subsec. (i)(2). [Pub. L. 106–569, § 707(3)][/us/pl/106/569/s707/3], substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
+
+    Subsec. (l). [Pub. L. 106–569, § 707(6)][/us/pl/106/569/s707/6], (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+
+    Subsecs. (m) to (r). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
+
+    Subsec. (s). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
+
+    Subsec. (s)(4). [Pub. L. 106–569, § 707(4)][/us/pl/106/569/s707/4], added par. (4).
+
+    Subsec. (t). [Pub. L. 106–569, § 707(7)][/us/pl/106/569/s707/7], redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
+
+    [Pub. L. 106–569, § 707(5)][/us/pl/106/569/s707/5], inserted before period at end “to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000”.
+
+    Subsec. (u). [Pub. L. 106–569, § 707(8)][/us/pl/106/569/s707/8], added subsec. (u). Former subsec. (u) redesignated (t).
+
+    Subsec. (v). [Pub. L. 106–569, § 707(8)][/us/pl/106/569/s707/8], added subsec. (v).
+
+    1998—Subsec. (t). [Pub. L. 105–276, § 599C(c)(1)][/us/pl/105/276/s599C/c/1], substituted “each fiscal year” for “fiscal year 1998”.
+
+    Subsec. (u). [Pub. L. 105–276, § 599C(c)(2)][/us/pl/105/276/s599C/c/2], added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
+
+    1997—Subsec. (q)(2). [Pub. L. 105–86, § 735(c)(1)][/us/pl/105/86/s735/c/1], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
+
+    Subsec. (t). [Pub. L. 105–86, § 735(c)(2)][/us/pl/105/86/s735/c/2], added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in [section 661a of title 2][/us/usc/t2/s661a]) of loan guarantees made under this section.”
+
+    Subsec. (u). [Pub. L. 105–86, § 735(c)(3)][/us/pl/105/86/s735/c/3], substituted “1998” for “1996”.
+
+    1996—Subsecs. (m)(1), (r)(1). [Pub. L. 104–120, § 5(b)][/us/pl/104/120/s5/b], made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
+
+ __Effective Date__ 
+
+    Section to be construed to have become effective Oct. 1, 1995, see [section 13(a) of Pub. L. 104–120][/us/pl/104/120/s13/a], set out as an Effective and Termination Dates of 1996 Amendments note under [section 1437d of this title][/us/usc/t42/s1437d].
+
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1490p–1.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1490q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490p%E2%80%932)
+
+----------
+----------
+
+[/us/usc/t42/s1485/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485%2Fe
+[/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
+[/us/usc/t12/s1713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1713%2Fc
+[/us/usc/t42/s1490a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490a%2Fa%2F1%2FB
+[/us/usc/t42/s1471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471%2Fc
+[/us/usc/t42/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485
+[/us/usc/t42/s1485/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485%2Fm
+[/us/usc/t42/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485
+[/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
+[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
+[/us/usc/t42/s1485/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485%2Fe
+[/us/usc/t42/s1485/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485%2Fe
+[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
+[/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
+[/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
+[/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
+[/us/pl/104/120/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs5
+[/us/stat/110/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F835
+[/us/pl/105/86/s735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc
+[/us/stat/111/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2111
+[/us/pl/105/276/s599C/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc
+[/us/stat/112/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2661
+[/us/pl/106/569/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707
+[/us/stat/114/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3015
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
+[/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
+[/us/usc/t26/s42/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fi%2F2
+[/us/pl/110/289/s3002/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3002%2Fb%2F2%2FC
+[/us/stat/122/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2880
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
+[/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
+[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/act/1934-06-18/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch576
+[/us/stat/48/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F984
+[/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
+[/us/pl/106/569/s707/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F1
+[/us/pl/106/569/s707/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F2
+[/us/pl/106/569/s707/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F3
+[/us/pl/106/569/s707/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F6
+[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
+[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
+[/us/pl/106/569/s707/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F4
+[/us/pl/106/569/s707/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F7
+[/us/pl/106/569/s707/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F5
+[/us/pl/106/569/s707/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F8
+[/us/pl/106/569/s707/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs707%2F8
+[/us/pl/105/276/s599C/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc%2F1
+[/us/pl/105/276/s599C/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599C%2Fc%2F2
+[/us/pl/105/86/s735/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F1
+[/us/pl/105/86/s735/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F2
+[/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
+[/us/pl/105/86/s735/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86%2Fs735%2Fc%2F3
+[/us/pl/104/120/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs5%2Fb
+[/us/pl/104/120/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs13%2Fa
+[/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
+
+

@@ -1,0 +1,58 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s13494
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch134/schIX/ptC/m__us_usc_t42_s13493.md) | [Next](./../../../../../..//us/usc/t42/ch134/schIX/ptC/m__us_usc_t42_s13495.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13494)
+
+## § 13494. Prototype demonstration of advanced nuclear reactor technology
+
+    (a) __Solicitation of proposals__ 
+
+        Within 3 years after October 24, 1992, the Secretary shall solicit proposals for carrying out the preliminary engineering design of not more than 2 prototype advanced nuclear reactor technologies developed by the Department of Energy, other than advanced light water reactor technologies, necessary to support a decision on whether to recommend construction of a prototype demonstration reactor with the characteristics described in [section 13493(a) of this title][/us/usc/t42/s13493/a]. Proposals submitted under this subsection shall be for modular design concepts of sufficient size to address requirements related to the certification of a standardized design.
+
+    (b) __Recommendation to Congress__ 
+
+        (1)
+
+         Not later than September 30, 1998, the Secretary shall submit to Congress recommendations on whether to build one or more prototype demonstration reactors under this section. Such recommendations shall—
+
+            (A) specify a preferred technology or technologies;
+
+            (B) include detailed information on milestones for construction and operation;
+
+            (C) include an estimate of the funding requirements; and
+
+            (D) specify the extent and type of non-Federal financial support anticipated.
+
+            In developing the recommendations under this paragraph, the Secretary shall provide for public notice and an opportunity for comment, and shall solicit the views of the Commission and other parties with technical expertise the Secretary considers useful in the development of such recommendations.
+
+        (2) The prototype demonstration program under this section shall be carried out to the maximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
+
+    (c) __Selection of technology__ 
+
+        Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in [section 13493(a) of this title][/us/usc/t42/s13493/a].
+
+([Pub. L. 102–486, title XXI, § 2124][/us/pl/102/486/s2124], Oct. 24, 1992, [106 Stat. 3084][/us/stat/106/3084].)
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch134/schIX/ptC/m__us_usc_t42_s13493.md) | [Next](./../../../../../..//us/usc/t42/ch134/schIX/ptC/m__us_usc_t42_s13495.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13494)
+
+----------
+----------
+
+[/us/usc/t42/s13493/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13493%2Fa
+[/us/usc/t42/s13493/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13493%2Fa
+[/us/pl/102/486/s2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2124
+[/us/stat/106/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3084
+
+

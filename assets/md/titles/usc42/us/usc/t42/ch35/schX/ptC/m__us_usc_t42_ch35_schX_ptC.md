@@ -1,0 +1,30 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/ch35/schX/ptC
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch35/schX/ptB/m__us_usc_t42_s3057k.md) | [Next](./../../../../../..//us/usc/t42/ch35/schX/ptC/m__us_usc_t42_s3057k–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch35%2FschX%2FptC)
+
+#### Part C—Native American Caregiver Support Program
+
+ __Prior Provisions__ 
+
+    A prior part C, consisting of sections 3057l to 3057n of this title, was redesignated part D of this subchapter.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t42/ch35/schX/ptB/m__us_usc_t42_s3057k.md) | [Next](./../../../../../..//us/usc/t42/ch35/schX/ptC/m__us_usc_t42_s3057k–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch35%2FschX%2FptC)
+
+----------
+----------
+
+
+

@@ -1,0 +1,109 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s8512
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch93/schI/m__us_usc_t42_s8511.md) | [Next](./../../../../..//us/usc/t42/ch93/schI/m__us_usc_t42_s8513.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512)
+
+## § 8512. State emergency conservation plan
+
+    (a) __State emergency conservation plans__ 
+
+        (1)
+
+            (A) Not later than 45 days after the date of the publication of an energy conservation target for a State under [section 8511(b) of this title][/us/usc/t42/s8511/b], the Governor of that State shall submit to the Secretary a State emergency conservation plan designed to meet or exceed the emergency conservation target in effect for that State under [section 8511(a) of this title][/us/usc/t42/s8511/a]. Such plan shall contain such information as the Secretary may reasonably require. At any time, the Governor may, with the approval of the Secretary, amend a plan established under this section.
+
+            (B) The Secretary may, for good cause shown, extend to a specific date the period for the submission of any State’s plan under subparagraph (A) if the Secretary publishes in the Federal Register notice of that extension together with the reasons therefor.
+
+        (2) Each State is encouraged to submit to the Secretary a State emergency conservation plan as soon as possible after November 5, 1979, and in advance of such publication of any such target. The Secretary may tentatively approve such a plan in accordance with the provisions of this section. For the purposes of this subchapter such tentative approval shall not be construed to result in a delegation of Federal authority to administer or enforce any measure contained in a State plan.
+
+    (b) __Conservation measures under State plans__ 
+
+        (1)
+
+         Each State emergency conservation plan under this section shall provide for emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect under [section 8511 of this title][/us/usc/t42/s8511]. Such State plan shall contain adequate assurances that measures contained therein will be effectively implemented in that State. Such plan may provide for reduced use of that energy source through voluntary programs or through the application of one or more of the following measures described in such plan:
+
+            (A) measures which are authorized under the laws of that State and which will be administered and enforced by officers and employees of the State (or political subdivisions of the State) pursuant to the laws of such State (or political subdivisions); and
+
+            (B)
+
+             measures—
+
+                (i) which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d) of this section;
+
+                (ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
+
+                (iii) which either the Secretary determines are contained in the standby Federal conservation plan established under [section 8513 of this title][/us/usc/t42/s8513] or are approved by the Secretary, in his discretion.
+
+        (2) In the preparation of such plan (and any amendment to the plan) the Governor shall, to the maximum extent practicable, provide for consultation with representatives of affected businesses and local governments and provide an opportunity for public comment.
+
+        (3) Any State plan submitted to the Secretary under this section may permit persons affected by any measure in such plan to use alternative means of conserving at least as much energy as would be conserved by such measure. Such plan shall provide an effective procedure, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision of such State.
+
+    (c) __Approval of State plans__ 
+
+        (1)
+
+         As soon as practicable after the date of the receipt of any State plan, but in no event later than 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—
+
+            (A) that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under [section 8511(a) of this title][/us/usc/t42/s8511/a] for each energy source involved,
+
+            (B) that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,
+
+            (C) that the requirements of this subchapter regarding the plan have not been met, or
+
+            (D)
+
+             that a measure described in subsection (b)(1) of this section is—
+
+                (i) inconsistent with any otherwise applicable Federal law (including any rule or regulation under such law),
+
+                (ii) an undue burden on interstate commerce, or
+
+                (iii) a tax, tariff, or user fee not authorized by State law.
+
+        (2) Any measure contained in a State plan shall become effective in that State on the date the Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.
+
+    (d) __State administration and enforcement__ 
+
+        (1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
+
+        (2) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
+
+        (3) If at any time the conditions of subsection (b)(1)(B)(ii) of this section are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general’s statement.
+
+        (4) Any revocation under paragraph (2) or (3) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such revocation.
+
+    (e) __Civil penalty__ 
+
+        (1) Whoever violates the requirements of any measure described in subsection (b)(1)(B) of this section which is in a State plan in effect under this section shall be subject to a civil penalty of not to exceed $1,000 for each violation.
+
+        (2) Any penalty under paragraph (1) may be assessed by the court in any action brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
+
+        (3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of measures the authority for which is delegated under subsection (d) of this section.
+
+([Pub. L. 96–102, title II, § 212][/us/pl/96/102/s212], Nov. 5, 1979, [93 Stat. 759][/us/stat/93/759].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch93/schI/m__us_usc_t42_s8511.md) | [Next](./../../../../..//us/usc/t42/ch93/schI/m__us_usc_t42_s8513.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8512)
+
+----------
+----------
+
+[/us/usc/t42/s8511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511%2Fb
+[/us/usc/t42/s8511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511%2Fa
+[/us/usc/t42/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511
+[/us/usc/t42/s8513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8513
+[/us/usc/t42/s8511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8511%2Fa
+[/us/pl/96/102/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F102%2Fs212
+[/us/stat/93/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F759
+
+

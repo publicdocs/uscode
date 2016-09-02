@@ -1,0 +1,309 @@
+---
+---
+
+# 42 U.S.C., USLM ref /us/usc/t42/s9840a
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9840.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a)
+
+## § 9840a. Early Head Start programs
+
+    (a) __In general__ 
+
+        The Secretary shall make grants to entities (referred to in this subchapter as “Early Head Start agencies”) in accordance with this section for programs (referred to in this subchapter as “Early Head Start programs”) providing family-centered services for low-income families with very young children designed to promote the development of the children, and to enable their parents to fulfill their roles as parents and to move toward self-sufficiency.
+
+    (b) __Scope and design of programs__ 
+
+    In carrying out a program described in subsection (a) of this section, an entity receiving assistance under this section shall—
+
+        (1) provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
+
+        (2) ensure that the level of services provided to families responds to their needs and circumstances;
+
+        (3) promote positive parent-child interactions;
+
+        (4) provide services to parents to support their role as parents (including parenting skills training and training in basic child development) and services to help the families move toward self-sufficiency (including educational and employment services, as appropriate);
+
+        (5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infants and toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
+
+        (6) ensure that children with documented behavioral problems, including problems involving behavior related to prior or existing trauma, receive appropriate screening and referral;
+
+        (7) ensure formal linkages with local Head Start programs in order to provide for continuity of services for children and families;
+
+        (8) develop and implement a systematic procedure for transitioning children and parents from an Early Head Start program to a Head Start program or other local early childhood education and development program;
+
+        (9) establish channels of communication between staff of the Early Head Start program, and staff of a Head Start program or other local providers of early childhood education and development programs, to facilitate the coordination of programs;
+
+        (10) in the case of a Head Start agency that operates a program and that also provides Head Start services through the age of mandatory school attendance, ensure that children and families participating in the program receive such services through such age;
+
+        (11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431][/us/usc/t20/s1431] et seq.), and with the agency responsible for administering [section 5106a of this title][/us/usc/t42/s5106a];
+
+        (12) meet such other requirements concerning design and operation of the program described in subsection (a) of this section as the Secretary may establish.
+
+    (c) __Persons eligible to participate__ 
+
+    Persons who may participate in programs described in subsection (a) of this section include—
+
+        (1) pregnant women; and
+
+        (2) families with children under age 3;
+
+        who meet the eligibility criteria specified in [section 9840(a)(1) of this title][/us/usc/t42/s9840/a/1], including the criteria specified in [section 9840(a)(1)(B)(ii) of this title][/us/usc/t42/s9840/a/1/B/ii].
+
+    (d) __Eligible service providers__ 
+
+    To be eligible to receive assistance under this section, an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Entities that may apply to carry out activities under this section include—
+
+        (1) entities operating Head Start programs under this subchapter;
+
+        (2) entities operating Indian Head Start programs or migrant or seasonal Head Start programs; and
+
+        (3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
+
+    (e) __Selection of grant recipients__ 
+
+        The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) of this section (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
+
+    (f) __Distribution__ 
+
+    In awarding grants to eligible applicants under this section, the Secretary shall—
+
+        (1) ensure an equitable national geographic distribution of the grants; and
+
+        (2) award grants to applicants proposing to serve communities in rural areas and to applicants proposing to serve communities in urban areas.
+
+    (g) __Monitoring, training, technical assistance, and evaluation__ 
+
+        (1) __Requirement__ 
+
+            In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under [section 9835(a)(2)(E) of this title][/us/usc/t42/s9835/a/2/E] to monitor the operation of such programs, and funds made available under [section 9835(a)(2)(C)(i)(I) of this title][/us/usc/t42/s9835/a/2/C/i/I] to provide training and technical assistance tailored to the particular needs of such programs, consistent with [section 9835(c) of this title][/us/usc/t42/s9835/c].
+
+        (2) __Training and technical assistance__ 
+
+            (A) __Activities__ 
+
+            Of the portion set aside under [section 9835(a)(2)(C)(i)(I) of this title][/us/usc/t42/s9835/a/2/C/i/I]—
+
+                (i) not less than 50 percent shall be made available to Early Head Start agencies to use directly, which may include, at their discretion, the establishment of local or regional agreements with community experts, institutions of higher education, or private consultants, for training and technical assistance activities in order to make program improvements identified by such agencies;
+
+                (ii) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in [section 9843(e) of this title][/us/usc/t42/s9843/e], including infant and toddler specialists, to support Early Head Start agencies, consistent with subparagraph (B); and
+
+                (iii)
+
+                 the remainder of such amount shall be made available to the Secretary to assist Early Head Start agencies in meeting and exceeding the standards described in [section 9836a(a)(1) of this title][/us/usc/t42/s9836a/a/1] (directly, or through grants, contracts, or other agreements or arrangements with an entity with demonstrated expertise relating to infants, toddlers, and families) by—
+
+                    (I) providing ongoing training and technical assistance to Early Head Start agencies, including developing training and technical assistance materials and resources to support program development and improvement and best practices in providing services to children and families served by Early Head Start programs;
+
+                    (II) supporting a national network of infant and toddler specialists designed to improve the quality of Early Head Start programs;
+
+                    (III) providing ongoing training and technical assistance on Early Head Start program development and improvement for regional staff charged with monitoring and overseeing the administration of the program carried out under this section; and
+
+                    (IV)
+
+                     if funds remain after the activities described in subclauses (I), (II), and (III) are carried out, carry out 1 or more of the following activities:
+
+                        (aa) Providing support and program planning and implementation assistance for new Early Head Start agencies, including for agencies who want to use funds as described in [section 9840(a)(5) of this title][/us/usc/t42/s9840/a/5] to serve infants and toddlers.
+
+                        (bb) Creating special training and technical assistance initiatives targeted to serving high-risk populations, such as children in the child welfare system and homeless children.
+
+                        (cc) Providing professional development designed to increase program participation for underserved populations of eligible children.
+
+            (B) __Contracts__ 
+
+            For the purposes of supporting a State-based system, as described in subparagraph (A)(ii), that will meet the needs of Early Head Start agencies and provide high-quality, sustained, and intensive training and technical assistance on programming for infants and toddlers to Early Head Start agencies, and in order to help such agencies meet or exceed the standards described in [section 9836a(a)(1) of this title][/us/usc/t42/s9836a/a/1], the Secretary shall—
+
+                (i) use funds reserved under subparagraph (A)(ii) in combination with funds reserved under [section 9835(a)(2)(C)(i)(II)(bb) of this title][/us/usc/t42/s9835/a/2/C/i/II/bb] to ensure the contracts described in [section 9843(e)(1) of this title][/us/usc/t42/s9843/e/1] provide for a minimum of 1 full-time specialist with demonstrated expertise in the development of infants and toddlers; and
+
+                (ii) ensure that such contracts and the services provided in the contracts are integrated with and augment the contracts awarded and services provided under [section 9843(e) of this title][/us/usc/t42/s9843/e];
+
+    (h) __Center-based staff__ 
+
+    The Secretary shall—
+
+        (1) ensure that, not later than September 30, 2010, all teachers providing direct services to children and families participating in Early Head Start programs located in Early Head Start centers, have a minimum of a child development associate credential, and have been trained (or have equivalent coursework) in early childhood development; and
+
+        (2) establish staff qualification goals to ensure that not later than September 30, 2012, all such teachers have been trained (or have equivalent coursework) in early childhood development with a focus on infant and toddler development.
+
+    (i) __Staff qualifications and development__ 
+
+        (1) __Home visitor staff standards__ 
+
+            In order to further enhance the quality of home visiting services provided to families of children participating in home-based, center-based, or combination program options under this subchapter, the Secretary shall establish standards for training, qualifications, and the conduct of home visits for home visitor staff in Early Head Start programs.
+
+        (2) __Contents of standards__ 
+
+        The standards for training, qualifications, and the conduct of home visits shall include content related to—
+
+            (A) structured child-focused home visiting that promotes parents’ ability to support the child’s cognitive, social, emotional, and physical development;
+
+            (B) effective strengths-based parent education, including methods to encourage parents as their child’s first teachers;
+
+            (C) early childhood development with respect to children from birth through age 3;
+
+            (D) methods to help parents promote emergent literacy in their children from birth through age 3, including use of research-based strategies to support the development of literacy and language skills for children who are limited English proficient;
+
+            (E) ascertaining what health and developmental services the family receives and working with providers of these services to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when needed;
+
+            (F) strategies for helping families coping with crisis; and
+
+            (G) the relationship of health and well-being of pregnant women to prenatal and early child development.
+
+([Pub. L. 97–35, title VI, § 645A][/us/pl/97/35/s645A], as added [Pub. L. 103–252, title I, § 112(a)][/us/pl/103/252/s112/a], May 18, 1994, [108 Stat. 638][/us/stat/108/638]; amended [Pub. L. 105–285, title I, § 113][/us/pl/105/285/s113], Oct. 27, 1998, [112 Stat. 2719][/us/stat/112/2719]; [Pub. L. 110–134, § 15][/us/pl/110/134/s15], Dec. 12, 2007, [121 Stat. 1418][/us/stat/121/1418].)
+
+ __References in Text__ 
+
+    The Individuals with Disabilities Education Act, referred to in subsec. (b)(11), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+
+ __Amendments__ 
+
+    2007—[Pub. L. 110–134, § 15(1)][/us/pl/110/134/s15/1], struck out “for families with infants and toddlers” after “programs” in section catchline.
+
+    Subsec. (a). [Pub. L. 110–134, § 15(2)][/us/pl/110/134/s15/2], substituted “The Secretary shall make grants to entities (referred to in this subchapter as ‘Early Head Start agencies’) in accordance with this section for programs (referred to in this subchapter as ‘Early Head Start programs’)” for “The Secretary shall make grants, in accordance with the provisions of this section for programs”.
+
+    Subsec. (b)(4). [Pub. L. 110–134, § 15(3)(A)][/us/pl/110/134/s15/3/A], added par. (4) and struck out former par. (4) which read as follows: “provide services to parents to support their role as parents and to help the families move toward self-sufficiency (including educational and employment services as appropriate);”.
+
+    Subsec. (b)(5). [Pub. L. 110–134, § 15(3)(B)][/us/pl/110/134/s15/3/B], added par. (5) and struck out former par. (5) which read as follows: “coordinate services with services provided by programs in the State and programs in the community (including programs for infants and toddlers with disabilities) to ensure a comprehensive array of services (such as health and mental health services);”.
+
+    Subsec. (b)(6), (7). [Pub. L. 110–134, § 15(3)(C)][/us/pl/110/134/s15/3/C], (D), added par. (6) and redesignated former par. (6) as (7). Former par. (7) redesignated (10).
+
+    Subsec. (b)(8), (9). [Pub. L. 110–134, § 15(3)(E)][/us/pl/110/134/s15/3/E], added pars. (8) and (9).
+
+    [Pub. L. 110–134, § 15(3)(C)][/us/pl/110/134/s15/3/C], redesignated pars. (8) and (9) as (11) and (12), respectively.
+
+    Subsec. (b)(10). [Pub. L. 110–134, § 15(3)(C)][/us/pl/110/134/s15/3/C], redesignated par. (7) as (10).
+
+    Subsec. (b)(11). [Pub. L. 110–134, § 15(3)(F)][/us/pl/110/134/s15/3/F], added par. (11) and struck out former par. (11) which read as follows: “ensure formal linkages with the agencies and entities described in section 644(b) of the Individuals with Disabilities Education Act ([20 U.S.C. 1444(b)][/us/usc/t20/s1444/b]) and providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.); and”.
+
+    [Pub. L. 110–134, § 15(3)(C)][/us/pl/110/134/s15/3/C], redesignated par. (8) as (11).
+
+    Subsec. (b)(12). [Pub. L. 110–134, § 15(3)(C)][/us/pl/110/134/s15/3/C], redesignated par. (9) as (12).
+
+    Subsec. (c). [Pub. L. 110–134, § 15(4)][/us/pl/110/134/s15/4], substituted “eligibility criteria specified in [section 9840(a)(1) of this title][/us/usc/t42/s9840/a/1], including the criteria specified in [section 9840(a)(1)(B)(ii) of this title][/us/usc/t42/s9840/a/1/B/ii]” for “income criteria specified for families in [section 9840(a)(1) of this title][/us/usc/t42/s9840/a/1]” in concluding provisions.
+
+    Subsec. (d)(1) to (3). [Pub. L. 110–134, § 15(5)][/us/pl/110/134/s15/5], added pars. (1) to (3) and struck out former pars. (1) and (2) which read as follows:
+
+    “(1) entities operating Head Start programs under this subchapter; and
+
+    “(2) other public entities, and nonprofit or for-profit private entities, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.”
+
+    Subsec. (e). [Pub. L. 110–134, § 15(6)][/us/pl/110/134/s15/6], substituted “The Secretary shall award grants under this section” for “From the portion specified in [section 9835(a)(6) of this title][/us/usc/t42/s9835/a/6], the Secretary shall award grants under this subsection”.
+
+    Subsec. (g). [Pub. L. 110–134, § 15(7)][/us/pl/110/134/s15/7], added subsec. (g) and struck out former subsec. (g) which related to monitoring, training, technical assistance, and evaluation of programs assisted under this section.
+
+    Subsecs. (h), (i). [Pub. L. 110–134, § 15(8)][/us/pl/110/134/s15/8], added subsecs. (h) and (i).
+
+    1998—[Pub. L. 105–285, § 113(1)][/us/pl/105/285/s113/1], inserted “Early Head Start” in section catchline.
+
+    Subsec. (a). [Pub. L. 105–285, § 113(2)][/us/pl/105/285/s113/2], substituted “provisions of this section for” for “provisions of this section for—”, struck out par. (1) designation before “programs providing”, substituted “self-sufficiency.” for “self-sufficiency; and”, and struck out par. (2) which read as follows: “provision of training and technical assistance to entities carrying out programs, and evaluation of programs, that were supported under the Comprehensive Child Development Act ([42 U.S.C. 9881][/us/usc/t42/s9881] et seq.), as in effect on the day before May 18, 1994.”
+
+    Subsec. (b)(5). [Pub. L. 105–285, § 113(3)(A)][/us/pl/105/285/s113/3/A], inserted “(including programs for infants and toddlers with disabilities)” after “community”.
+
+    Subsec. (b)(7). [Pub. L. 105–285, § 113(3)(B)][/us/pl/105/285/s113/3/B], struck out “and” at end.
+
+    Subsec. (b)(8), (9). [Pub. L. 105–285, § 113(3)(C)][/us/pl/105/285/s113/3/C], (D), added par. (8) and redesignated former par. (8) as (9).
+
+    Subsec. (c). [Pub. L. 105–285, § 113(4)(A)][/us/pl/105/285/s113/4/A], substituted “subsection (a) of this section” for “subsection (a)(1) of this section” in introductory provisions.
+
+    Subsec. (c)(2). [Pub. L. 105–285, § 113(4)(B)][/us/pl/105/285/s113/4/B], substituted “3;” for “3 (or under age 5, in the case of children served by an entity specified in subsection (e)(3) of this section);”.
+
+    Subsec. (d). [Pub. L. 105–285, § 113(5)][/us/pl/105/285/s113/5], inserted “and” at end of par. (1), redesignated par. (3) as (2), inserted “or for-profit” after “nonprofit”, and struck out former par. (2) which read as follows: “entities that, on the day before the date of enactment of this section, were operating—
+
+    “(A) Parent-Child Centers receiving financial assistance under [section 9835(a)(4) of this title][/us/usc/t42/s9835/a/4], as in effect on such date; or
+
+    “(B) programs receiving financial assistance under the Comprehensive Child Development Act, as in effect on such date; and”.
+
+    Subsec. (e). [Pub. L. 105–285, § 113(8)][/us/pl/105/285/s113/8], struck out “other” before “grant recipients” in heading and substituted “From the portion specified in [section 9835(a)(6) of this title][/us/usc/t42/s9835/a/6],” for “From the balance remaining of the portion specified in [section 9835(a)(6) of this title][/us/usc/t42/s9835/a/6], after making grants to the eligible entities specified in subsection (e) of this section,” in text.
+
+    [Pub. L. 105–285, § 113(6)][/us/pl/105/285/s113/6], (7), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to time-limited priority for certain entities.
+
+    Subsecs. (f), (g). [Pub. L. 105–285, § 113(7)][/us/pl/105/285/s113/7], (10), added subsec. (g) and redesignated former subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+    Subsec. (h). [Pub. L. 105–285, § 113(9)][/us/pl/105/285/s113/9], struck out heading and text of subsec. (h) which related to Secretarial responsibilities.
+
+ __Effective Date__ 
+
+    Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) until Oct. 1, 1994, see [section 127 of Pub. L. 103–252][/us/pl/103/252/s127], set out as an Effective Date of 1994 Amendment note under [section 9832 of this title][/us/usc/t42/s9832].
+
+----------
+
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9840.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a)
+
+----------
+----------
+
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
+[/us/usc/t42/s5106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a
+[/us/usc/t42/s9840/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1
+[/us/usc/t42/s9840/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1%2FB%2Fii
+[/us/usc/t42/s9835/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FE
+[/us/usc/t42/s9835/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FC%2Fi%2FI
+[/us/usc/t42/s9835/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fc
+[/us/usc/t42/s9835/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FC%2Fi%2FI
+[/us/usc/t42/s9843/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843%2Fe
+[/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
+[/us/usc/t42/s9840/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F5
+[/us/usc/t42/s9836a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836a%2Fa%2F1
+[/us/usc/t42/s9835/a/2/C/i/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FC%2Fi%2FII%2Fbb
+[/us/usc/t42/s9843/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843%2Fe%2F1
+[/us/usc/t42/s9843/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9843%2Fe
+[/us/pl/97/35/s645A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs645A
+[/us/pl/103/252/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs112%2Fa
+[/us/stat/108/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F638
+[/us/pl/105/285/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113
+[/us/stat/112/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2719
+[/us/pl/110/134/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15
+[/us/stat/121/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1418
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/110/134/s15/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F1
+[/us/pl/110/134/s15/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F2
+[/us/pl/110/134/s15/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FA
+[/us/pl/110/134/s15/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FB
+[/us/pl/110/134/s15/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FC
+[/us/pl/110/134/s15/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FE
+[/us/pl/110/134/s15/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FC
+[/us/pl/110/134/s15/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FC
+[/us/pl/110/134/s15/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FF
+[/us/usc/t20/s1444/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1444%2Fb
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/110/134/s15/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FC
+[/us/pl/110/134/s15/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F3%2FC
+[/us/pl/110/134/s15/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F4
+[/us/usc/t42/s9840/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1
+[/us/usc/t42/s9840/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1%2FB%2Fii
+[/us/usc/t42/s9840/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840%2Fa%2F1
+[/us/pl/110/134/s15/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F5
+[/us/pl/110/134/s15/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F6
+[/us/usc/t42/s9835/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F6
+[/us/pl/110/134/s15/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F7
+[/us/pl/110/134/s15/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs15%2F8
+[/us/pl/105/285/s113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F1
+[/us/pl/105/285/s113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F2
+[/us/usc/t42/s9881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9881
+[/us/pl/105/285/s113/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F3%2FA
+[/us/pl/105/285/s113/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F3%2FB
+[/us/pl/105/285/s113/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F3%2FC
+[/us/pl/105/285/s113/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F4%2FA
+[/us/pl/105/285/s113/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F4%2FB
+[/us/pl/105/285/s113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F5
+[/us/usc/t42/s9835/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F4
+[/us/pl/105/285/s113/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F8
+[/us/usc/t42/s9835/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F6
+[/us/usc/t42/s9835/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F6
+[/us/pl/105/285/s113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F6
+[/us/pl/105/285/s113/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F7
+[/us/pl/105/285/s113/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs113%2F9
+[/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
+[/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
+[/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832
+
+
