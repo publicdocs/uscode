@@ -1233,7 +1233,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(a)  __In General__  __.—__ 
 
->     An employee of the Interstate Commerce Commission who is separated from Government service pursuant to the abolition of that agency under section 101 \[[49 U.S.C. 701][/us/usc/t49/s701] note\] shall, upon appropriate written application, be given credit, for purposes of determining eligibility for and computing the amount of any annuity under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, for accrued annual leave standing to such employee’s credit at the time of separation.
+>     An employee of the Interstate Commerce Commission who is separated from Government service pursuant to the abolition of that agency under section 101 \[[49 U.S.C. 1301][/us/usc/t49/s1301] note\] shall, upon appropriate written application, be given credit, for purposes of determining eligibility for and computing the amount of any annuity under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, for accrued annual leave standing to such employee’s credit at the time of separation.
 
 >     “(b)  __Limitation and Other Conditions__  __.—__ 
 
@@ -1257,7 +1257,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     A lump-sum payment under [section 5551 of title 5][/us/usc/t5/s5551], United States Code, shall not be payable with respect to any leave for which retirement credit is obtained under this section.”
 
-    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49][/us/usc/t49/s702], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of Title 49][/us/usc/t49/s701].\]
+    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49][/us/usc/t49/s1302], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of Title 49][/us/usc/t49/s1301].\]
 
  __Creditability Under CSRS of Certain Service Performed Under Personal Service Contract With United States__ 
 
@@ -1764,12 +1764,12 @@ Section 6(a), (b) of [Pub. L. 86–415][/us/pl/86/415], Apr. 8, 1960, [74 Stat. 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/104/88/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs105
 [/us/stat/109/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F920
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/100/238/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs110
 [/us/stat/101/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1749
 [/us/usc/t5/s8334/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fc
