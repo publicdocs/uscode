@@ -49,7 +49,7 @@
 
             (A)
 
-             the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]), that—
+             the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54][/us/usc/t54/s306108], United States Code, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “, United States Code,” probably should not appear. </sup></sup>  that—
 
                 (i) the transportation program or project will have no adverse effect on the historic site; or
 
@@ -67,7 +67,7 @@
 
             (B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I, § 133(d)][/us/pl/100/17/s133/d], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI, § 6009(a)(2)][/us/pl/109/59/s6009/a/2], Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875].)
+([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I, § 133(d)][/us/pl/100/17/s133/d], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI, § 6009(a)(2)][/us/pl/109/59/s6009/a/2], Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875]; [Pub. L. 113–287, § 5(p)][/us/pl/113/287/s5/p], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
 <table>
 
@@ -171,6 +171,8 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 
  __Amendments__ 
 
+    2014—Subsec. (d)(2)(A). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 306108 of title 54][/us/usc/t54/s306108], United States Code” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])” in introductory provisions.
+
     2005—Subsec. (c). [Pub. L. 109–59, § 6009(a)(2)(A)][/us/pl/109/59/s6009/a/2/A], inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
 
     Subsec. (d). [Pub. L. 109–59, § 6009(a)(2)(B)][/us/pl/109/59/s6009/a/2/B], added subsec. (d).
@@ -190,16 +192,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 ----------
 ----------
 
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
 [/us/pl/100/17/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fd
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
 [/us/pl/109/59/s6009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2
 [/us/stat/119/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1875
+[/us/pl/113/287/s5/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fp
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 [/us/pl/109/59/s6009/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2%2FA
 [/us/pl/109/59/s6009/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2%2FB
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17

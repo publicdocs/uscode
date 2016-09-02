@@ -395,7 +395,7 @@ In subsection (a)(2), the words “means a person residing or located in a State
 
     The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§ 101–113) of title I of [Pub. L. 110–140][/us/pl/110/140], which was approved Dec. 19, 2007.
 
-    Subsection (h) of [section 32905 of this title][/us/usc/t49/s32905], referred to in subsec. (g)(3), was redesignated (f) by [Pub. L. 110–140, title I, § 109(b)(4)][/us/pl/110/140/s109/b/4], Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506].
+    Subsection (h) of [section 32905 of this title][/us/usc/t49/s32905], referred to in subsec. (g)(3), was redesignated subsec. (f) by [Pub. L. 110–140, title I, § 109(b)(4)][/us/pl/110/140/s109/b/4], Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506], and subsequently was redesignated subsec. (g) by [Pub. L. 113–291, div. A, title III, § 318(c)(1)][/us/pl/113/291/s318/c/1], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].
 
  __Amendments__ 
 
@@ -454,6 +454,8 @@ In subsection (a)(2), the words “means a person residing or located in a State
 [/us/usc/t49/s32905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32905
 [/us/pl/110/140/s109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F4
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
+[/us/pl/113/291/s318/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fc%2F1
+[/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

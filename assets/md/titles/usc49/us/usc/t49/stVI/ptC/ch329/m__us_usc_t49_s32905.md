@@ -45,15 +45,29 @@
 
         (2) .5 divided by the fuel economy measured under subsection (c) of this section when operating the model on gaseous fuel.
 
-    (e)  __Fuel Economy Calculations__  __.—__ 
+    (e) __Electric Dual Fueled Automobiles.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving range requirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
+
+            (A) the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(c); and
+
+            (B) the percentage utilization of the model on electricity, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(a)(2).
+
+        (2)  __Alternative calculation__  __.—__ 
+
+        If the manufacturer does not request that the Administrator calculate the manufacturing incentive for its electric dual fueled automobiles in accordance with paragraph (1), the Administrator shall calculate such incentive for such automobiles manufactured by such manufacturer after model year 2015 in accordance with subsection (b).
+
+    (f)  __Fuel Economy Calculations__  __.—__ 
 
     The Administrator shall calculate the manufacturer’s average fuel economy under [section 32904(a)(1) of this title][/us/usc/t49/s32904/a/1] for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
 
-    (f)  __Fuel Economy Incentive Requirements__  __.—__ 
+    (g)  __Fuel Economy Incentive Requirements__  __.—__ 
 
     In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1065][/us/stat/108/1065]; [Pub. L. 104–287, § 5(63)][/us/pl/104/287/s5/63], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 109–58, title VII][/us/pl/109/58], §§ 759, 772(a), Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833], 834; [Pub. L. 110–140, title I, § 109(b)][/us/pl/110/140/s109/b], (c), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1065][/us/stat/108/1065]; [Pub. L. 104–287, § 5(63)][/us/pl/104/287/s5/63], Oct. 11, 1996, [110 Stat. 3395][/us/stat/110/3395]; [Pub. L. 109–58, title VII][/us/pl/109/58], §§ 759, 772(a), Aug. 8, 2005, [119 Stat. 833][/us/stat/119/833], 834; [Pub. L. 110–140, title I, § 109(b)][/us/pl/110/140/s109/b], (c), Dec. 19, 2007, [121 Stat. 1506][/us/stat/121/1506]; [Pub. L. 113–291, div. A, title III, § 318(c)][/us/pl/113/291/s318/c], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
 
 <table>
 
@@ -195,6 +209,8 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 513(a)–(f); added Oct. 14,
 
  __Amendments__ 
 
+    2014—Subsecs. (e) to (g). [Pub. L. 113–291][/us/pl/113/291] added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
     2007—Subsec. (b). [Pub. L. 110–140, § 109(b)(1)][/us/pl/110/140/s109/b/1], substituted “1993 through 2019” for “1993–2010” in introductory provisions.
 
     Subsec. (b)(2). [Pub. L. 110–140, § 109(c)][/us/pl/110/140/s109/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
@@ -237,6 +253,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 513(a)–(f); added Oct. 14,
 [/us/stat/119/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F833
 [/us/pl/110/140/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb
 [/us/stat/121/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1506
+[/us/pl/113/291/s318/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fc
+[/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/110/140/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F1
 [/us/pl/110/140/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fc
 [/us/pl/110/140/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs109%2Fb%2F2

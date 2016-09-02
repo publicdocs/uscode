@@ -149,13 +149,13 @@
 
             (A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
-            (B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles.
+            (B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles.
 
-            (C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles).
+            (C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles). Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).
 
         (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 ([Public Law 100–494][/us/pl/100/494], [102 Stat. 2442][/us/stat/102/2442]), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1056][/us/stat/108/1056]; [Pub. L. 110–140, title I, § 103(a)][/us/pl/110/140/s103/a], Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1056][/us/stat/108/1056]; [Pub. L. 110–140, title I, § 103(a)][/us/pl/110/140/s103/a], Dec. 19, 2007, [121 Stat. 1501][/us/stat/121/1501]; [Pub. L. 113–291, div. A, title III, § 318(b)][/us/pl/113/291/s318/b], Dec. 19, 2014, [128 Stat. 3341][/us/stat/128/3341].)
 
 <table>
 
@@ -515,6 +515,10 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
  __Amendments__ 
 
+    2014—Subsec. (c)(2)(B). [Pub. L. 113–291, § 318(b)(1)][/us/pl/113/291/s318/b/1], inserted “, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles” after “at least 200 miles”.
+
+    Subsec. (c)(2)(C). [Pub. L. 113–291, § 318(b)(2)][/us/pl/113/291/s318/b/2], inserted second sentence.
+
     2007—Subsec. (a)(3). [Pub. L. 110–140, § 103(a)(1)][/us/pl/110/140/s103/a/1], added par. (3) and struck out former par. (3) which read as follows: “except as provided in [section 32908 of this title][/us/usc/t49/s32908], ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 
     “(A) not more than 6,000 pounds gross vehicle weight; or
@@ -849,10 +853,14 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 [/us/stat/108/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1056
 [/us/pl/110/140/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa
 [/us/stat/121/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1501
+[/us/pl/113/291/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb
+[/us/stat/128/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3341
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/100/494/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs3
 [/us/usc/t42/s6374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6374
+[/us/pl/113/291/s318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb%2F1
+[/us/pl/113/291/s318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs318%2Fb%2F2
 [/us/pl/110/140/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F1
 [/us/usc/t49/s32908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908
 [/us/pl/110/140/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs103%2Fa%2F2
