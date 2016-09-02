@@ -911,6 +911,14 @@ Pacific Remote Islands Marine National Monument, Wake, Baker, Howland, and Jarvi
 
     <td> 
 
+Pacific Remote Islands Marine National Monument Expansion, Wake and Jarvis Islands, Johnston Atoll.—Proc. No. 9173, Sept. 25, 2014, 79 F.R. 58645.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Papago Saguaro National Monument, Arizona [Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, § 2873, Jan. 6, 2006, 119 Stat. 3535].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.  </td>
 
   </tr>
@@ -1008,6 +1016,14 @@ Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat
     <td> 
 
 Saguaro National Monument, Arizona [Monument abolished and incorporated in Saguaro National Park, see section 410zz–1 of this title].—Proc. No. 2032, Mar. 1, 1933, 47 Stat. 2557; Proc. No. 3439, Nov. 15, 1961, 76 Stat. 1437; Pub. L. 102–61, June 19, 1991, 105 Stat. 303; Pub. L. 103–364, § 3, Oct. 14, 1994, 108 Stat. 3467.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.  </td>
 
   </tr>
 
