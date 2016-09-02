@@ -15,7 +15,7 @@
 
 ### Rule 7064. Seizure of Person or Property
 
-    Rule 62 F.R.Civ.P. applies in adversary proceedings.
+    Rule 64 F.R.Civ.P. applies in adversary proceedings.
 
  __References in Text__ 
 

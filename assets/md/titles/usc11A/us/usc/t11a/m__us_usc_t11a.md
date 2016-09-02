@@ -15,15 +15,15 @@
 
 # Title 11—APPENDIXBANKRUPTCY RULES
 
-Current through 114-86u1
+Current through 114-93not92
 
  __FEDERAL RULES OF BANKRUPTCY PROCEDURE__ 
 
-(Effective August 1, 1983, as amended to January 5, 2015) __Historical Note__ 
+(Effective August 1, 1983, as amended to December 1, 2015) __Historical Note__ 
 
     The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-    The Rules have been amended Aug. 30, 1983, [Pub. L. 98–91, § 2(a)][/us/pl/98/91/s2/a], [97 Stat. 607][/us/stat/97/607], eff. Aug. 1, 1983; July 10, 1984, [Pub. L. 98–353, title III, § 321][/us/pl/98/353/s321], [98 Stat. 357][/us/stat/98/357]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], [108 Stat. 4118][/us/stat/108/4118]; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
+    The Rules have been amended Aug. 30, 1983, [Pub. L. 98–91, § 2(a)][/us/pl/98/91/s2/a], [97 Stat. 607][/us/stat/97/607], eff. Aug. 1, 1983; July 10, 1984, [Pub. L. 98–353, title III, § 321][/us/pl/98/353/s321], [98 Stat. 357][/us/stat/98/357]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], [108 Stat. 4118][/us/stat/108/4118]; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015.
 
 <table>
 

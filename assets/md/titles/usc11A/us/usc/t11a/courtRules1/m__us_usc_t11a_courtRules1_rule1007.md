@@ -17,9 +17,9 @@
 
     (a)  __Corporate Ownership Statement, List of Creditors and Equity Security Holders, and Other Lists__  __.__ 
 
-        (1) Voluntary Case. In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms. If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
+        (1) Voluntary Case. In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms. If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
 
-        (2) Involuntary Case. In an involuntary case, the debtor shall file, within seven days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms.
+        (2) Involuntary Case. In an involuntary case, the debtor shall file, within seven days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms.
 
         (3) Equity Security Holders. In a chapter 11 reorganization case, unless the court orders otherwise, the debtor shall file within 14 days after entry of the order for relief a list of the debtor’s equity security holders of each class showing the number and kind of interests registered in the name of each holder, and the last known address or place of business of each holder.
 
@@ -119,7 +119,7 @@
 
      If the debtor knows that a person on the list of creditors or schedules is an infant or incompetent person, the debtor also shall include the name, address, and legal relationship of any person upon whom process would be served in an adversary proceeding against the infant or incompetent person in accordance with Rule 7004(b)(2).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -270,6 +270,10 @@
     Subdivision (b)(7) is amended to relieve an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. Course providers approved under § 111 of the Code may be permitted to file this notification electronically with the court immediately upon the debtor’s completion of the course. If the provider does not notify the court, the debtor must file the statement, prepared as prescribed by the appropriate Official Form, within the time period specified by subdivision (c).
 
     Changes Made After Publication and Comment. No changes were made after publication and comment.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    In subdivisions (a)(1) and (a)(2), the references to Schedules are amended to reflect the new designations adopted as part of the Forms Modernization Project.
 
 ----------
 
