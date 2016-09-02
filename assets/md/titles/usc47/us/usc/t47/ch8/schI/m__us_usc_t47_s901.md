@@ -69,6 +69,12 @@
 
     Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under [section 305 of this title][/us/usc/t47/s305].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–74, title X, § 1001][/us/pl/114/74/s1001], Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that: 
+
+> “This title \[amending sections 309, 923, and 928 of this title and enacting provisions set out as a note under [section 921 of this title][/us/usc/t47/s921]\] may be cited as the ‘Spectrum Pipeline Act of 2015’.”
+
  __Short Title of 2007 Amendment__ 
 
 [Pub. L. 110–53, title XXIII, § 2301][/us/pl/110/53/s2301], Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543], as amended by [Pub. L. 110–161, div. B, title V, § 539][/us/pl/110/161/s539], Dec. 26, 2007, [121 Stat. 1934][/us/stat/121/1934], provided that: 
@@ -183,6 +189,9 @@ By the authority vested in me as President by the Constitution of the United Sta
 [/us/stat/76/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F419
 [/us/usc/t47/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs701
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
+[/us/pl/114/74/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1001
+[/us/stat/129/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F621
+[/us/usc/t47/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921
 [/us/pl/110/53/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2301
 [/us/stat/121/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F543
 [/us/pl/110/161/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs539

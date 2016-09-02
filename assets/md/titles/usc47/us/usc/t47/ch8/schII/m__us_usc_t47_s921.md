@@ -29,6 +29,62 @@
 
     The Communications Act of 1934, referred to in par. (3), is [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], as amended, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
+ __Identification, Reallocation, and Auction of Federal Spectrum__ 
+
+[Pub. L. 114–74, title X][/us/pl/114/74], §§ 1002–1004, Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that:
+
+> “SEC. 1002. __DEFINITIONS.__ 
+
+> “In this title \[see Short Title of 2015 Amendment note set out under [section 901 of this title][/us/usc/t47/s901]\]:
+
+>     “(1)  __Assistant secretary__  __.—__ 
+
+>     The term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information.
+
+>     “(2)  __Commission__  __.—__ 
+
+>     The term ‘Commission’ means the Federal Communications Commission.
+
+>     “(3)  __Federal entity__  __.—__ 
+
+>     The term ‘Federal entity’ has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923][/us/usc/t47/s923](l)).
+
+>     “(4)  __Secretary__  __.—__ 
+
+>     The term ‘Secretary’ means the Secretary of Commerce.
+
+> “SEC. 1003. __RULE OF CONSTRUCTION.__ 
+
+>     “Each range of frequencies described in this title shall be construed to be inclusive of the upper and lower frequencies in the range.
+
+> “SEC. 1004. __IDENTIFICATION, REALLOCATION, AND AUCTION OF FEDERAL SPECTRUM.__ 
+
+>     “(a)  __Identification of Spectrum__  __.—__ 
+
+>     Not later than January 1, 2022, the Secretary shall submit to the President and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof.
+
+>     “(b)  __Clearing of Spectrum__  __.—__ 
+
+>     The President shall—
+
+>         “(1) not later than January 1, 2022, begin the process of withdrawing or modifying the assignment to a Federal Government station of the electromagnetic spectrum identified under subsection (a); and
+
+>         “(2) not later than 30 days after completing the withdrawal or modification, notify the Commission that the withdrawal or modification is complete.
+
+>     “(c) __Reallocation and Auction.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Commission shall—
+
+>             “(A) reallocate the electromagnetic spectrum identified under subsection (a) for non-Federal use or shared Federal and non-Federal use, or a combination thereof; and
+
+>             “(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)][/us/usc/t47/s309/j]), not later than July 1, 2024, begin a system of competitive bidding under such section to grant new initial licenses for the use of such spectrum, subject to flexible-use service rules.
+
+>         “(2)  __Proceeds to cover 110 percent of federal relocation or sharing costs__  __.—__ 
+
+>         Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(16)(B)][/us/usc/t47/s309/j/16/B]).”
+
  __Study and Report on Current and Future Spectrum Use__ 
 
 [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–73, provided in part: 
@@ -107,6 +163,12 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/stat/129/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F621
+[/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
+[/us/usc/t47/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923
+[/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
+[/us/usc/t47/s309/j/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F16%2FB
 [/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1

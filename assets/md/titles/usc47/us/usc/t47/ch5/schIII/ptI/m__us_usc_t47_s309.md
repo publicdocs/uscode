@@ -369,7 +369,7 @@
 
         (11) __Termination__ 
 
-            The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022.
+            The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025.
 
         (12) __Evaluation__ 
 
@@ -619,7 +619,7 @@
 
         (3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 309, [48 Stat. 1085][/us/stat/48/1085]; [July 16, 1952, ch. 879, § 7][/us/act/1952-07-16/ch879/s7], [66 Stat. 715][/us/stat/66/715]; [Mar. 26, 1954, ch. 110][/us/act/1954-03-26/ch110], [68 Stat. 35][/us/stat/68/35]; [Jan. 20, 1956, ch. 1][/us/act/1956-01-20/ch1], [70 Stat. 3][/us/stat/70/3]; [Pub. L. 86–752, § 4(a)][/us/pl/86/752/s4/a], Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 88–306][/us/pl/88/306], May 14, 1964, [78 Stat. 193][/us/stat/78/193]; [Pub. L. 88–307][/us/pl/88/307], May 14, 1964, [78 Stat. 194][/us/stat/78/194]; [Pub. L. 97–35, title XII, § 1242(a)][/us/pl/97/35/s1242/a], Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 114, 115, Sept. 13, 1982, [96 Stat. 1094][/us/stat/96/1094]; [Pub. L. 98–549, § 6(b)(1)][/us/pl/98/549/s6/b/1], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 103–66, title VI, § 6002(a)][/us/pl/103/66/s6002/a], (b)(1), Aug. 10, 1993, [107 Stat. 387][/us/stat/107/387], 392; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(16), (17), 304(a)(9), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295], 4297; [Pub. L. 103–465, title VIII, § 801][/us/pl/103/465/s801], Dec. 8, 1994, [108 Stat. 5050][/us/stat/108/5050]; [Pub. L. 104–104, title II, § 204(a)][/us/pl/104/104/s204/a], title IV, § 403(j), title VII, §§ 707(a), 710(c), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 131, 154, 161; [Pub. L. 105–33, title III][/us/pl/105/33], §§ 3002(a)(1)–(3), 3003, Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258], 260, 265; [Pub. L. 107–195, § 3(a)][/us/pl/107/195/s3/a], (b)(1), June 19, 2002, [116 Stat. 716][/us/stat/116/716], 717; [Pub. L. 108–494, title II, § 203][/us/pl/108/494/s203], Dec. 23, 2004, [118 Stat. 3993][/us/stat/118/3993]; [Pub. L. 109–171, title III][/us/pl/109/171], §§ 3002(a), 3003, 3004, Feb. 8, 2006, [120 Stat. 21][/us/stat/120/21], 22; [Pub. L. 111–4][/us/pl/111/4], §§ 2(b)(2), 5, Feb. 11, 2009, [123 Stat. 112][/us/stat/123/112], 114; [Pub. L. 112–96, title VI][/us/pl/112/96], §§ 6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, [126 Stat. 223][/us/stat/126/223], 224, 230, 245, 252.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 309, [48 Stat. 1085][/us/stat/48/1085]; [July 16, 1952, ch. 879, § 7][/us/act/1952-07-16/ch879/s7], [66 Stat. 715][/us/stat/66/715]; [Mar. 26, 1954, ch. 110][/us/act/1954-03-26/ch110], [68 Stat. 35][/us/stat/68/35]; [Jan. 20, 1956, ch. 1][/us/act/1956-01-20/ch1], [70 Stat. 3][/us/stat/70/3]; [Pub. L. 86–752, § 4(a)][/us/pl/86/752/s4/a], Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 88–306][/us/pl/88/306], May 14, 1964, [78 Stat. 193][/us/stat/78/193]; [Pub. L. 88–307][/us/pl/88/307], May 14, 1964, [78 Stat. 194][/us/stat/78/194]; [Pub. L. 97–35, title XII, § 1242(a)][/us/pl/97/35/s1242/a], Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 114, 115, Sept. 13, 1982, [96 Stat. 1094][/us/stat/96/1094]; [Pub. L. 98–549, § 6(b)(1)][/us/pl/98/549/s6/b/1], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 103–66, title VI, § 6002(a)][/us/pl/103/66/s6002/a], (b)(1), Aug. 10, 1993, [107 Stat. 387][/us/stat/107/387], 392; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(16), (17), 304(a)(9), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295], 4297; [Pub. L. 103–465, title VIII, § 801][/us/pl/103/465/s801], Dec. 8, 1994, [108 Stat. 5050][/us/stat/108/5050]; [Pub. L. 104–104, title II, § 204(a)][/us/pl/104/104/s204/a], title IV, § 403(j), title VII, §§ 707(a), 710(c), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 131, 154, 161; [Pub. L. 105–33, title III][/us/pl/105/33], §§ 3002(a)(1)–(3), 3003, Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258], 260, 265; [Pub. L. 107–195, § 3(a)][/us/pl/107/195/s3/a], (b)(1), June 19, 2002, [116 Stat. 716][/us/stat/116/716], 717; [Pub. L. 108–494, title II, § 203][/us/pl/108/494/s203], Dec. 23, 2004, [118 Stat. 3993][/us/stat/118/3993]; [Pub. L. 109–171, title III][/us/pl/109/171], §§ 3002(a), 3003, 3004, Feb. 8, 2006, [120 Stat. 21][/us/stat/120/21], 22; [Pub. L. 111–4][/us/pl/111/4], §§ 2(b)(2), 5, Feb. 11, 2009, [123 Stat. 112][/us/stat/123/112], 114; [Pub. L. 112–96, title VI][/us/pl/112/96], §§ 6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, [126 Stat. 223][/us/stat/126/223], 224, 230, 245, 252; [Pub. L. 114–74, title X, § 1007][/us/pl/114/74/s1007], Nov. 2, 2015, [129 Stat. 624][/us/stat/129/624].)
 
  __References in Text__ 
 
@@ -627,7 +627,11 @@
 
     The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of [Pub. L. 102–538][/us/pl/102/538], Oct. 27, 1992, [106 Stat. 3533][/us/stat/106/3533]. Part B of the Act is classified generally to subchapter II (§ 921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title][/us/usc/t47/s901] and Tables.
 
+    Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)(11), is [section 1004(a) of Pub. L. 114–74][/us/pl/114/74/s1004/a], which is set out as a note under [section 921 of this title][/us/usc/t47/s921].
+
  __Amendments__ 
+
+    2015—Subsec. (j)(11). [Pub. L. 114–74][/us/pl/114/74] inserted before period at end “, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025”.
 
     2012—Subsec. (j)(3)(F). [Pub. L. 112–96, § 6701(b)][/us/pl/112/96/s6701/b], substituted “relocation or sharing costs” for “relocation costs”.
 
@@ -987,12 +991,17 @@
 [/us/stat/123/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F112
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/stat/126/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F223
+[/us/pl/114/74/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1007
+[/us/stat/129/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F624
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/stat/106/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3533
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
+[/us/pl/114/74/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1004%2Fa
+[/us/usc/t47/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/112/96/s6701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fb
 [/us/pl/112/96/s6401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401%2Fc%2F1
 [/us/pl/112/96/s6401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401%2Fc%2F2

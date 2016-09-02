@@ -181,7 +181,7 @@
 
         (1) __Eligible Federal entities__ 
 
-            Any Federal entity that operates a Federal Government station authorized to use a band of eligible frequencies described in paragraph (2) and that incurs relocation or sharing costs because of planning for an auction of spectrum frequencies or the reallocation of spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and [section 928 of this title][/us/usc/t47/s928]. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
+            Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and [section 928 of this title][/us/usc/t47/s928]. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
 
         (2) __Eligible frequencies__ 
 
@@ -195,7 +195,7 @@
 
             (A) __In general__ 
 
-            For purposes of this section and [section 928 of this title][/us/usc/t47/s928], the term “relocation or sharing costs” means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+            For purposes of this section and [section 928 of this title][/us/usc/t47/s928], the term “relocation or sharing costs” means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
 
                 (i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
 
@@ -249,7 +249,7 @@
 
         (1) __Development of transition plan by Federal entity__ 
 
-            Not later than 240 days before the commencement of any auction of eligible frequencies described in subsection (g)(2), a Federal entity authorized to use any such frequency shall submit to the NTIA and to the Technical Panel established by paragraph (3) a transition plan for the implementation by such entity of the relocation or sharing arrangement. The NTIA shall specify, after public input, a common format for all Federal entities to follow in preparing transition plans under this paragraph.
+            Not later than 240 days before the commencement of any auction of eligible frequencies described in subsection (g)(2), a Federal entity shall submit to the NTIA and to the Technical Panel established by paragraph (3) a transition plan for the implementation by such entity of the relocation or sharing arrangement. The NTIA shall specify, after public input, a common format for all Federal entities to follow in preparing transition plans under this paragraph.
 
         (2) __Contents of transition plan__ 
 
@@ -321,7 +321,7 @@
 
             (C) __Administrative support__ 
 
-                The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection and subsection (i).
+                The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection, subsection (i), and [section 928(g)(2)(E) of this title][/us/usc/t47/s928/g/2/E].
 
             (D) __Regulations__ 
 
@@ -453,7 +453,7 @@
 
         For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act ([47 U.S.C. 305][/us/usc/t47/s305]).
 
-([Pub. L. 102–538, title I, § 113][/us/pl/102/538/s113], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380]; amended [Pub. L. 105–33, title III, § 3002(d)(1)][/us/pl/105/33/s3002/d/1], (e)(1)–(3), Aug. 5, 1997, [111 Stat. 262][/us/stat/111/262], 264, 265; [Pub. L. 105–261, div. A, title X, § 1064(c)][/us/pl/105/261/s1064/c], Oct. 17, 1998, [112 Stat. 2132][/us/stat/112/2132]; [Pub. L. 106–65, div. A, title X, § 1062(c)(2)][/us/pl/106/65/s1062/c/2], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768]; [Pub. L. 108–494, title II, § 202][/us/pl/108/494/s202], Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991]; [Pub. L. 112–96, title VI, § 6701(a)][/us/pl/112/96/s6701/a], Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245].)
+([Pub. L. 102–538, title I, § 113][/us/pl/102/538/s113], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380]; amended [Pub. L. 105–33, title III, § 3002(d)(1)][/us/pl/105/33/s3002/d/1], (e)(1)–(3), Aug. 5, 1997, [111 Stat. 262][/us/stat/111/262], 264, 265; [Pub. L. 105–261, div. A, title X, § 1064(c)][/us/pl/105/261/s1064/c], Oct. 17, 1998, [112 Stat. 2132][/us/stat/112/2132]; [Pub. L. 106–65, div. A, title X, § 1062(c)(2)][/us/pl/106/65/s1062/c/2], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768]; [Pub. L. 108–494, title II, § 202][/us/pl/108/494/s202], Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991]; [Pub. L. 112–96, title VI, § 6701(a)][/us/pl/112/96/s6701/a], Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245]; [Pub. L. 114–74, title X, § 1005(b)][/us/pl/114/74/s1005/b], (c), Nov. 2, 2015, [129 Stat. 623][/us/stat/129/623], 624.)
 
  __References in Text__ 
 
@@ -464,6 +464,14 @@
     The Federal Advisory Committee Act, referred to in subsecs. (h)(3)(E) and (i)(9), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (g)(1). [Pub. L. 114–74, § 1005(c)(1)(A)][/us/pl/114/74/s1005/c/1/A], struck out “authorized to use a band of eligible frequencies described in paragraph (2) and” after “Federal Government station” and inserted “eligible” after “auction of” and after “reallocation of”.
+
+    Subsec. (g)(3)(A). [Pub. L. 114–74, § 1005(c)(1)(B)][/us/pl/114/74/s1005/c/1/B], substituted “or the sharing of spectrum frequencies” for “previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity”.
+
+    Subsec. (h)(1). [Pub. L. 114–74, § 1005(c)(2)][/us/pl/114/74/s1005/c/2], struck out “authorized to use any such frequency” after “a Federal entity”.
+
+    Subsec. (h)(3)(C). [Pub. L. 114–74, § 1005(b)][/us/pl/114/74/s1005/b], substituted “this subsection, subsection (i), and [section 928(g)(2)(E) of this title][/us/usc/t47/s928/g/2/E]” for “this subsection and subsection (i)”.
 
     2012—Subsec. (g). [Pub. L. 112–96, § 6701(a)(1)(A)][/us/pl/112/96/s6701/a/1/A], substituted “Relocation of and spectrum sharing by Federal Government stations” for “Relocation of Federal Government stations” in heading.
 
@@ -540,6 +548,7 @@
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/usc/t47/s928/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fd%2F2%2FC
 [/us/usc/t47/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928
+[/us/usc/t47/s928/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fg%2F2%2FE
 [/us/usc/t18/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs798%2Fb
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
 [/us/pl/102/538/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs113
@@ -555,11 +564,18 @@
 [/us/stat/118/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3991
 [/us/pl/112/96/s6701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa
 [/us/stat/126/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F245
+[/us/pl/114/74/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fb
+[/us/stat/129/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F623
 [/us/usc/t47/s921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921%2F3
 [/us/pl/105/33/s3002/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fc%2F5
 [/us/usc/t47/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs925
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/114/74/s1005/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F1%2FA
+[/us/pl/114/74/s1005/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F1%2FB
+[/us/pl/114/74/s1005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F2
+[/us/pl/114/74/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fb
+[/us/usc/t47/s928/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fg%2F2%2FE
 [/us/pl/112/96/s6701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FA
 [/us/pl/112/96/s6701/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FB
 [/us/usc/t47/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928
