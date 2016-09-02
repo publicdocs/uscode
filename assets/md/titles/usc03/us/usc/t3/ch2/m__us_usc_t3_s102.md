@@ -271,157 +271,205 @@
 
 >                 “(ii) consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
 
-    \[See main edition for text of (4)\]
+> “SEC. 4. __TRANSITION SERVICES AND ACTIVITIES BEFORE ELECTION.__ 
 
-    “SEC. 4. TRANSITION SERVICES AND ACTIVITIES BEFORE ELECTION.
+>     “(a)  __Definitions__  __.—__ 
 
-    “(a) Definitions.—In this section—
+>     In this section—
 
-    “(1) the term ‘Administrator’ means the Administrator of General Services;
+>         “(1) the term ‘Administrator’ means the Administrator of General Services;
 
-    “(2) the term ‘agency’ means an Executive agency, as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code;
+>         “(2) the term ‘agency’ means an Executive agency, as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code;
 
-    “(3) the term ‘eligible candidate’ has the meaning given that term in section 3(h)(4); and
+>         “(3) the term ‘eligible candidate’ has the meaning given that term in section 3(h)(4); and
 
-    “(4) the term ‘Presidential election’ means a general election held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+>         “(4) the term ‘Presidential election’ means a general election held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
-    “(b) General Duties.—The President shall take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including by—
+>     “(b)  __General Duties__  __.—__ 
 
-    “(1) establishing and operating a White House transition coordinating council in accordance with subsection (d); and
+>     The President shall take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including by—
 
-    “(2) establishing and operating an agency transition directors council in accordance with subsection (e).
+>         “(1) establishing and operating a White House transition coordinating council in accordance with subsection (d); and
 
-    “(c) Federal Transition Coordinator.—The Administrator shall designate an employee of the General Services Administration who is a senior career appointee to—
+>         “(2) establishing and operating an agency transition directors council in accordance with subsection (e).
 
-    “(1) carry out the duties and authorities of the General Services Administration relating to Presidential transitions under this Act \[see [section 1 of Pub. L. 114–136][/us/pl/114/136/s1], set out as a Short Title of 2016 Amendment note under [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees\] or any other provision of law;
+>     “(c)  __Federal Transition Coordinator__  __.—__ 
 
-    “(2) serve as the Federal Transition Coordinator with responsibility for coordinating transition planning across agencies, including through the agency transition directors council established under subsection (e);
+>     The Administrator shall designate an employee of the General Services Administration who is a senior career appointee to—
 
-    “(3) ensure agencies comply with all statutory requirements relating to transition planning and reporting; and
+>         “(1) carry out the duties and authorities of the General Services Administration relating to Presidential transitions under this Act \[see [section 1 of Pub. L. 114–136][/us/pl/114/136/s1], set out as a Short Title of 2016 Amendment note under [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees\] or any other provision of law;
 
-    “(4) act as a liaison to eligible candidates.
+>         “(2) serve as the Federal Transition Coordinator with responsibility for coordinating transition planning across agencies, including through the agency transition directors council established under subsection (e);
 
-    “(d) White House Transition Coordinating Council.—
+>         “(3) ensure agencies comply with all statutory requirements relating to transition planning and reporting; and
 
-    “(1) Establishment.—Not later than 6 months before the date of a Presidential election, the President shall establish a White House transition coordinating council for purposes of facilitating the Presidential transition.
+>         “(4) act as a liaison to eligible candidates.
 
-    “(2) Duties.—The White House transition coordinating council shall—
+>     “(d) __White House Transition Coordinating Council.—__ 
 
-    “(A) provide guidance to agencies and the Federal Transition Coordinator regarding preparations for the Presidential transition, including succession planning and preparation of briefing materials;
+>         “(1)  __Establishment__  __.—__ 
 
-    “(B) facilitate communication and information sharing between the transition representatives of eligible candidates and senior employees in agencies and the Executive Office of the President; and
+>         Not later than 6 months before the date of a Presidential election, the President shall establish a White House transition coordinating council for purposes of facilitating the Presidential transition.
 
-    “(C) prepare and host interagency emergency preparedness and response exercises.
+>         “(2)  __Duties__  __.—__ 
 
-    “(3) Membership.—The members of the White House transition coordinating council shall include—
+>         The White House transition coordinating council shall—
 
-    “(A) senior employees of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States;
+>             “(A) provide guidance to agencies and the Federal Transition Coordinator regarding preparations for the Presidential transition, including succession planning and preparation of briefing materials;
 
-    “(B) the Federal Transition Coordinator;
+>             “(B) facilitate communication and information sharing between the transition representatives of eligible candidates and senior employees in agencies and the Executive Office of the President; and
 
-    “(C) the transition representative for each eligible candidate, who shall serve in an advisory capacity; and
+>             “(C) prepare and host interagency emergency preparedness and response exercises.
 
-    “(D) any other individual the President determines appropriate.
+>         “(3)  __Membership__  __.—__ 
 
-    “(4) Chairperson.—The Chairperson of the White House transition coordinating council shall be a senior employee in the Executive Office of the President, designated by the President.
+>         The members of the White House transition coordinating council shall include—
 
-    “(e) Agency Transition Directors Council.—
+>             “(A) senior employees of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States;
 
-    “(1) In general.—The President shall establish and operate an agency transition directors council, which shall—
+>             “(B) the Federal Transition Coordinator;
 
-    “(A) ensure the Federal Government has an integrated strategy for addressing interagency challenges and responsibilities around Presidential transitions and turnover of noncareer appointees;
+>             “(C) the transition representative for each eligible candidate, who shall serve in an advisory capacity; and
 
-    “(B) coordinate transition activities between the Executive Office of the President, agencies, and the transition team of eligible candidates and the President-elect and Vice-President-elect; and
+>             “(D) any other individual the President determines appropriate.
 
-    “(C) draw on guidance provided by the White House transition coordinating council and lessons learned from previous Presidential transitions in carrying out its duties.
+>         “(4)  __Chairperson__  __.—__ 
 
-    “(2) Duties.—As part of carrying out the responsibilities under paragraph (1), the agency transition directors council shall—
+>         The Chairperson of the White House transition coordinating council shall be a senior employee in the Executive Office of the President, designated by the President.
 
-    “(A) assist the Federal Transition Coordinator in identifying and carrying out the responsibilities of the Federal Transition Coordinator relating to a Presidential transition;
+>     “(e) __Agency Transition Directors Council.—__ 
 
-    “(B) provide guidance to agencies in gathering briefing materials and information relating to the Presidential transition that may be requested by eligible candidates;
+>         “(1)  __In general__  __.—__ 
 
-    “(C) ensure materials and information described in subparagraph (B) are prepared not later than November 1 of a year during which a Presidential election is held;
+>         The President shall establish and operate an agency transition directors council, which shall—
 
-    “(D) ensure agencies adequately prepare career employees who are designated to fill non-career positions under subsection (f) during a Presidential transition; and
+>             “(A) ensure the Federal Government has an integrated strategy for addressing interagency challenges and responsibilities around Presidential transitions and turnover of noncareer appointees;
 
-    “(E) consult with the President’s Management Council, or any successor thereto, in carrying out the duties of the agency transition directors council.
+>             “(B) coordinate transition activities between the Executive Office of the President, agencies, and the transition team of eligible candidates and the President-elect and Vice-President-elect; and
 
-    “(3) Membership.—The members of the agency transition directors council shall include—
+>             “(C) draw on guidance provided by the White House transition coordinating council and lessons learned from previous Presidential transitions in carrying out its duties.
 
-    “(A) the Federal Transition Coordinator and the Deputy Director for Management of the Office of Management and Budget, who shall serve as Co-Chairpersons of the agency transition directors council;
+>         “(2)  __Duties__  __.—__ 
 
-    “(B) other senior employees serving in the Executive Office of the President, as determined by the President;
+>         As part of carrying out the responsibilities under paragraph (1), the agency transition directors council shall—
 
-    “(C) a senior representative from each agency described in [section 901(b)(1) of title 31][/us/usc/t31/s901/b/1], United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
+>             “(A) assist the Federal Transition Coordinator in identifying and carrying out the responsibilities of the Federal Transition Coordinator relating to a Presidential transition;
 
-    “(D) a senior representative from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
+>             “(B) provide guidance to agencies in gathering briefing materials and information relating to the Presidential transition that may be requested by eligible candidates;
 
-    “(E) during a year during which a Presidential election will be held, a transition representative for each eligible candidate, who shall serve in an advisory capacity.
+>             “(C) ensure materials and information described in subparagraph (B) are prepared not later than November 1 of a year during which a Presidential election is held;
 
-    “(4) Meetings.—The agency transition directors council shall meet—
+>             “(D) ensure agencies adequately prepare career employees who are designated to fill non-career positions under subsection (f) during a Presidential transition; and
 
-    “(A) subject to subparagraph (B), not less than once per year; and
+>             “(E) consult with the President’s Management Council, or any successor thereto, in carrying out the duties of the agency transition directors council.
 
-    “(B) during the period beginning on the date that is 6 months before a Presidential election and ending on the date on which the President-elect is inaugurated, on a regular basis as necessary to carry out the duties and authorities of the agency transition directors council.
+>         “(3)  __Membership__  __.—__ 
 
-    “(f) Interim Agency Leadership for Transitions.—
+>         The members of the agency transition directors council shall include—
 
-    “(1) Oversight and implementation of transition.—Not later than 6 months before the date of a Presidential election, the head of each agency shall designate a senior career employee of the agency and a senior career employee of each major component and subcomponent of the agency to oversee and implement the activities of the agency, component, or subcomponent relating to the Presidential transition.
+>             “(A) the Federal Transition Coordinator and the Deputy Director for Management of the Office of Management and Budget, who shall serve as Co-Chairpersons of the agency transition directors council;
 
-    “(2) Acting officers.—Not later than September 15 of a year during which a Presidential election occurs, and in accordance with subchapter III of chapter 33 of title 5, United States Code, for each noncareer position in an agency that the head of the agency determines is critical, the head of the agency shall designate a qualified career employee to serve in the position in an acting capacity if the position becomes vacant.
+>             “(B) other senior employees serving in the Executive Office of the President, as determined by the President;
 
-    “(g) Memorandums of Understanding.—
+>             “(C) a senior representative from each agency described in [section 901(b)(1) of title 31][/us/usc/t31/s901/b/1], United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
 
-    “(1) In general.—Not later than November 1 of a year during which a Presidential election occurs, the President (acting through the Federal Transition Coordinator) shall, to the maximum extent practicable, negotiate a memorandum of understanding with the transition representative of each eligible candidate, which shall include, at a minimum, the conditions of access to employees, facilities, and documents of agencies by transition staff.
+>             “(D) a senior representative from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
 
-    “(2) Existing resources.—To the maximum extent practicable, the memorandums of understanding negotiated under paragraph (1) shall be based on memorandums of understanding from previous Presidential transitions.
+>             “(E) during a year during which a Presidential election will be held, a transition representative for each eligible candidate, who shall serve in an advisory capacity.
 
-    “(h) Equity in Assistance.—Any information or other assistance provided to eligible candidates under this section shall be offered on an equal basis and without regard to political affiliation.
+>         “(4)  __Meetings__  __.—__ 
 
-    “(i) Reports.—
+>         The agency transition directors council shall meet—
 
-    “(1) In general.—The President, acting through the Federal Transition Coordinator, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and agencies to prepare for the transfer of power to a new President.
+>             “(A) subject to subparagraph (B), not less than once per year; and
 
-    “(2) Timing.—The reports under paragraph (1) shall be provided 6 months and 3 months before the date of a Presidential election.
+>             “(B) during the period beginning on the date that is 6 months before a Presidential election and ending on the date on which the President-elect is inaugurated, on a regular basis as necessary to carry out the duties and authorities of the agency transition directors council.
 
-“services and facilities authorized to be provided to former presidents and former vice presidents
+>     “(f) __Interim Agency Leadership for Transitions.—__ 
 
-    “Sec. 5. The Administrator is authorized to provide, upon request, to each former President and each former Vice President, for a period not to exceed seven months from 30 days before the date of the expiration of his term of office as President or Vice President, for use in connection with winding up the affairs of his office, necessary services and facilities of the same general character as authorized by this Act to be provided to Presidents-elect and Vice-Presidents-elect. Any person appointed or detailed to serve a former President or former Vice President under authority of this section shall be appointed or detailed in accordance with, and shall be subject to, all of the provisions of section 3 of this Act applicable to persons appointed or detailed under authority of that section. The provisions of the Act of August 25, 1958 ([72 Stat. 838][/us/stat/72/838]; [3 U.S.C. 102][/us/usc/t3/s102], note), other than subsections (a) and (e) shall not become effective with respect to a former President until six months after the expiration of his term of office as President.
+>         “(1)  __Oversight and implementation of transition__  __.—__ 
 
-“disclosures of financing and personnel; limitation on acceptance of donations
+>         Not later than 6 months before the date of a Presidential election, the head of each agency shall designate a senior career employee of the agency and a senior career employee of each major component and subcomponent of the agency to oversee and implement the activities of the agency, component, or subcomponent relating to the Presidential transition.
 
-    “Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+>         “(2)  __Acting officers__  __.—__ 
 
-    “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
+>         Not later than September 15 of a year during which a Presidential election occurs, and in accordance with subchapter III of chapter 33 of title 5, United States Code, for each noncareer position in an agency that the head of the agency determines is critical, the head of the agency shall designate a qualified career employee to serve in the position in an acting capacity if the position becomes vacant.
 
-    “(3) Disclosures made under paragraph (1) shall be—
+>     “(g) __Memorandums of Understanding.—__ 
 
-    “(A) in the form of a report to the Administrator within 30 days after the inauguration of the President-elect as President and the Vice-President-elect as Vice President; and
+>         “(1)  __In general__  __.—__ 
 
-    “(B) made available to the public by the Administrator upon receipt by the Administrator.
+>         Not later than November 1 of a year during which a Presidential election occurs, the President (acting through the Federal Transition Coordinator) shall, to the maximum extent practicable, negotiate a memorandum of understanding with the transition representative of each eligible candidate, which shall include, at a minimum, the conditions of access to employees, facilities, and documents of agencies by transition staff.
 
-    “(b)(1) The President-elect and Vice-President-elect (as a condition for receiving services provided under section 3 and funds provided under section 7(a)(1)) shall make available to the public—
+>         “(2)  __Existing resources__  __.—__ 
 
-    “(A) the names and most recent employment of all transition personnel (full-time or part-time, public or private, or volunteer) who are members of the President-elect or Vice-President-elect’s Federal department or agency transition teams; and
+>         To the maximum extent practicable, the memorandums of understanding negotiated under paragraph (1) shall be based on memorandums of understanding from previous Presidential transitions.
 
-    “(B) information regarding the sources of funding which support the transition activities of each transition team member.
+>     “(h)  __Equity in Assistance__  __.—__ 
 
-    “(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
+>     Any information or other assistance provided to eligible candidates under this section shall be offered on an equal basis and without regard to political affiliation.
 
-    “(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+>     “(i) __Reports.—__ 
 
-“authorization of appropriations
+>         “(1)  __In general__  __.—__ 
 
-    “Sec. 7. (a) There are hereby authorized to be appropriated to the Administrator such funds as may be necessary for carrying out the purposes of this Act, except that with respect to any one Presidential transition—
+>         The President, acting through the Federal Transition Coordinator, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and agencies to prepare for the transfer of power to a new President.
 
-    “(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
+>         “(2)  __Timing__  __.—__ 
 
-    “(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 5, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+>         The reports under paragraph (1) shall be provided 6 months and 3 months before the date of a Presidential election.
 
-    The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
+>  __“services and facilities authorized to be provided to former presidents and former vice presidents__ 
 
-    “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
+> “Sec. 5. The Administrator is authorized to provide, upon request, to each former President and each former Vice President, for a period not to exceed seven months from 30 days before the date of the expiration of his term of office as President or Vice President, for use in connection with winding up the affairs of his office, necessary services and facilities of the same general character as authorized by this Act to be provided to Presidents-elect and Vice-Presidents-elect. Any person appointed or detailed to serve a former President or former Vice President under authority of this section shall be appointed or detailed in accordance with, and shall be subject to, all of the provisions of section 3 of this Act applicable to persons appointed or detailed under authority of that section. The provisions of the Act of August 25, 1958 ([72 Stat. 838][/us/stat/72/838]; [3 U.S.C. 102][/us/usc/t3/s102], note), other than subsections (a) and (e) shall not become effective with respect to a former President until six months after the expiration of his term of office as President.
+
+>  __“disclosures of financing and personnel; limitation on acceptance of donations__ 
+
+> “Sec. 6.
+
+>      (a)
+
+>         (1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+
+>         “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
+
+>         “(3)
+
+>          Disclosures made under paragraph (1) shall be—
+
+>             “(A) in the form of a report to the Administrator within 30 days after the inauguration of the President-elect as President and the Vice-President-elect as Vice President; and
+
+>             “(B) made available to the public by the Administrator upon receipt by the Administrator.
+
+>     “(b)
+
+>         (1)
+
+>          The President-elect and Vice-President-elect (as a condition for receiving services provided under section 3 and funds provided under section 7(a)(1)) shall make available to the public—
+
+>             “(A) the names and most recent employment of all transition personnel (full-time or part-time, public or private, or volunteer) who are members of the President-elect or Vice-President-elect’s Federal department or agency transition teams; and
+
+>             “(B) information regarding the sources of funding which support the transition activities of each transition team member.
+
+>         “(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
+
+>     “(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+
+>  __“authorization of appropriations__ 
+
+> “Sec. 7.
+
+>      (a)
+
+>      There are hereby authorized to be appropriated to the Administrator such funds as may be necessary for carrying out the purposes of this Act, except that with respect to any one Presidential transition—
+
+>         “(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
+
+>         “(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 5, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+
+>         The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
+
+>     “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
 
 \[[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7601(d), Dec. 17, 2004, [118 Stat. 3858][/us/stat/118/3858], provided that: 
 
