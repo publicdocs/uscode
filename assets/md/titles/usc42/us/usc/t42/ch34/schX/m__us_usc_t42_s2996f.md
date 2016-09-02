@@ -99,7 +99,7 @@
 
         (9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client’s legal rights and responsibilities;
 
-        (10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+        (10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
         (11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[[42 U.S.C. 14401][/us/usc/t42/s14401] et seq.\].
 
@@ -143,7 +143,7 @@
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (b)(10), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix and Tables.
+    The Military Selective Service Act, referred to in subsec. (b)(10), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)(11), is [Pub. L. 105–12][/us/pl/105/12], Apr. 30, 1997, [111 Stat. 23][/us/stat/111/23], which is classified principally to chapter 138 (§ 14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of this title][/us/usc/t42/s14401] and Tables.
 
@@ -211,6 +211,7 @@
 ----------
 
 [/us/usc/t42/s2996j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996j
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/pl/88/452/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1007
 [/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
@@ -225,7 +226,6 @@
 [/us/stat/124/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2282
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401

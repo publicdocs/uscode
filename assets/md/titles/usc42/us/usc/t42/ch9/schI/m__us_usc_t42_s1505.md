@@ -29,7 +29,7 @@
 
 > “The provisions of title I of this Act shall not apply to this title \[this subchapter\].”
 
- The provisions of title I of act June 28, 1940, enacted section 1262a of former Title 10, Armed Forces, section 546e of former Title 34, Navy, and former sections 1151 to 1162 of the Appendix to Title 50, War and National Defense, and amended section 40 of former Title 41, Public Contracts.
+ The provisions of title I of act June 28, 1940, enacted section 1262a of former Title 10, Armed Forces, section 546e of former Title 34, Navy, and former sections 1151 to 1162 of the former Appendix to Title 50, War and National Defense, and amended section 40 of former Title 41, Public Contracts.
 
 ----------
 

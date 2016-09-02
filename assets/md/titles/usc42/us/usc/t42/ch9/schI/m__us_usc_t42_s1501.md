@@ -31,7 +31,7 @@
 
 [Act Sept. 1, 1951, ch. 378, § 1][/us/act/1951-09-01/ch378/s1], [65 Stat. 293][/us/stat/65/293], provided: 
 
-> “That this Act \[enacting sections 1507, 1589a, 1589b, and 1591 to 1593e of this title, sections 1701g–1 to 1701g–3, 1701i–1, 1715g, 1715h, 1716a, 1748g–1, 1750, 1750a, and 1750b to 1750g of Title 12, Banks and Banking, section 2136 of the Appendix to Title 50, War and National Defense, amended sections 1584 and 1585 of this title, sections 371, 1430, 1701g, 1701j, 1702, 1706, 1710, 1713, 1715c, 1715d, 1715f, 1716, 1743, 1747a, 1747f, and 1747l, 1748b of Title 12, [section 2135 of Title 50][/us/usc/t50/s2135], App., and enacted provisions set out as notes under [section 1591 of this title][/us/usc/t42/s1591] and [section 1748b of Title 12][/us/usc/t12/s1748b]\] may be cited as the ‘Defense Housing and Community Facilities and Services Act’.”
+> “That this Act \[enacting sections 1507, 1589a, 1589b, and 1591 to 1593e of this title, sections 1701g–1 to 1701g–3, 1701i–1, 1715g, 1715h, 1716a, 1748g–1, 1750, 1750a, and 1750b to 1750g of Title 12, Banks and Banking, and former section 2136 of the former Appendix to Title 50, War and National Defense, amended sections 1584 and 1585 of this title, sections 371, 1430, 1701g, 1701j, 1702, 1706, 1710, 1713, 1715c, 1715d, 1715f, 1716, 1743, 1747a, 1747f, and 1747l, 1748b of Title 12, and former section 2135 of the former Appendix to Title 50, and enacted provisions set out as notes under [section 1591 of this title][/us/usc/t42/s1591] and [section 1748b of Title 12][/us/usc/t12/s1748b]\] may be cited as the ‘Defense Housing and Community Facilities and Services Act’.”
 
  __Short Title__ 
 
@@ -71,7 +71,6 @@
 [/us/stat/70A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F1
 [/us/act/1951-09-01/ch378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378%2Fs1
 [/us/stat/65/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F293
-[/us/usc/t50/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2135
 [/us/usc/t42/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1591
 [/us/usc/t12/s1748b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1748b
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862

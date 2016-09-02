@@ -41,7 +41,7 @@
 
     (e) __Active service deemed active military service with respect to Servicemembers Civil Relief Act__ 
 
-        Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.).
+        Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq. \[now [50 U.S.C. 3901][/us/usc/t50/s3901] et seq.\]).
 
     (f) __Active service deemed active military service with respect to anti-discrimination laws__ 
 
@@ -53,7 +53,7 @@
 
     The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is [act Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. I, [65 Stat. 33][/us/stat/65/33], which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by [act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 502(9), [70 Stat. 886][/us/stat/70/886].
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (e), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (e), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -129,6 +129,7 @@
 ----------
 
 [/us/usc/t42/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs417
+[/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F689
 [/us/act/1954-07-15/ch507/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-15%2Fch507%2Fs14%2Fa
@@ -149,7 +150,6 @@
 [/us/stat/70/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F886
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54

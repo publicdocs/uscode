@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2262 of Title 50][/us/usc/t50/s2262], Appendix, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2262 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
 
 ----------
 
@@ -42,7 +42,6 @@
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/usc/t50/s2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2262
 [/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
 
 

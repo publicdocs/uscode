@@ -35,7 +35,7 @@
 
                 (iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students;
 
-                (iv) if required under [section 453 of title 50][/us/usc/t50/s453], Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
+                (iv) if required under [section 3802 of title 50][/us/usc/t50/s3802] to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
 
                 (v) in the case of a pharmacy student, has satisfactorily completed three years of training; or
 
@@ -49,7 +49,7 @@
 
                 (iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart; and
 
-                (iv) if required under [section 453 of title 50][/us/usc/t50/s453], Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
+                (iv) if required under [section 3802 of title 50][/us/usc/t50/s3802] to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
 
         (2)
 
@@ -166,8 +166,8 @@
 ----------
 ----------
 
-[/us/usc/t50/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs453
-[/us/usc/t50/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs453
+[/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
+[/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/usc/t20/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002%2Fa
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951

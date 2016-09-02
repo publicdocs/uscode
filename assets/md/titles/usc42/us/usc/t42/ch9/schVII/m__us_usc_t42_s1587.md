@@ -41,7 +41,7 @@
 
     (e) __Veterans’ preference__ 
 
-        Any housing disposed of in accordance with this section shall after such disposal be deemed to be housing accommodations the construction of which was completed after June 30, 1947, within the meaning of section 1884 of Appendix to title 50, relating to preference or priority to veterans of World War II or their families.
+        Any housing disposed of in accordance with this section shall after such disposal be deemed to be housing accommodations the construction of which was completed after June 30, 1947, within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans of World War II or their families.
 
     (f) __Terms of sales__ 
 
@@ -54,6 +54,8 @@
 ([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 607, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended [Mar. 10, 1954, ch. 61][/us/act/1954-03-10/ch61], [68 Stat. 26][/us/stat/68/26]; [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 805(2), [68 Stat. 644][/us/stat/68/644]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 102–54, § 13(q)(6)(B)][/us/pl/102/54/s13/q/6/B], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __References in Text__ 
+
+    Section 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (e), is section 4 of [act June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], title I, [61 Stat. 195][/us/stat/61/195], which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
 
     The Housing Act of 1950, referred to in subsec. (g), is [act Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], [64 Stat. 48][/us/stat/64/48], as amended. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking, and Tables.
 
@@ -89,6 +91,8 @@
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/pl/102/54/s13/q/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F6%2FB
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
+[/us/act/1947-06-30/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch163
+[/us/stat/61/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F195
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F48
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701

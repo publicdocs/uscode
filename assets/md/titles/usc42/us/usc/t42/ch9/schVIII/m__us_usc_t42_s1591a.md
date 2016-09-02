@@ -23,7 +23,7 @@
 
     (b) __Suspension of credit restrictions__ 
 
-        second, residential credit restrictions under the Defense Production Act of 1950, as amended \[[50 U.S.C. 2061][/us/usc/t50/s2061] App. et seq.\], (1) as to housing to be sold at $12,000 or less per unit or to be rented at $85 or less per unit per month, shall be suspended with respect to the number and types of housing units at the sales prices or rentals which the President determines to be needed in such area for defense workers or military personnel, and (2) as to all other housing, shall be relaxed in such manner and to such extent as the President determines to be necessary and appropriate to obtain the production of such housing needed in such area for defense workers or military personnel;
+        second, residential credit restrictions under the Defense Production Act of 1950, as amended \[[50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], (1) as to housing to be sold at $12,000 or less per unit or to be rented at $85 or less per unit per month, shall be suspended with respect to the number and types of housing units at the sales prices or rentals which the President determines to be needed in such area for defense workers or military personnel, and (2) as to all other housing, shall be relaxed in such manner and to such extent as the President determines to be necessary and appropriate to obtain the production of such housing needed in such area for defense workers or military personnel;
 
     (c) __Mortgage insurance__ 
 
@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    The Defense Production Act of 1950, referred to in subsec. (b), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], as amended, which is classified to section 2061 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 2061 of Title 50][/us/usc/t50/s2061], Appendix, and Tables.
+    The Defense Production Act of 1950, referred to in subsec. (b), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], which is classified to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     This Act, referred to in subsecs. (c) and (d), means [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], [65 Stat. 293][/us/stat/65/293], as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. Title II of this Act enacted subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking, and amended sections 371, 1430, 1702, 1706, 1715c, 1715f, 1716, and 1743 of Title 12. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title][/us/usc/t42/s1501] and Tables.
 
@@ -53,14 +53,13 @@
 ----------
 
 [/us/usc/t42/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1591
-[/us/usc/t50/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2061
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F294
 [/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
-[/us/usc/t50/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2061
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F293
 [/us/usc/t42/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1501

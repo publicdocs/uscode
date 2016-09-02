@@ -83,7 +83,7 @@ Sec. 3. Functions of the Secretary of the Interior. In accordance with the trans
 
     Sec. 5. Special Provisions Relating to Emergency Preparedness and Mobilization Functions.
 
-    (a) Executive Order No. 10480, as amended \[formerly set out as a note under 50 U.S.C. App. 2153\], is further amended by adding thereto the following new Sections:
+    (a) Executive Order No. 10480, as amended \[formerly set out as a note under former 50 U.S.C. App. 2153\], is further amended by adding thereto the following new Sections:
 
     “Sec. 609. Effective October 1, 1977, the Secretary of Energy shall exercise all authority and discharge all responsibility herein delegated to or conferred upon (a) the Atomic Energy Commission, and (b) with respect to petroleum, gas, solid fuels and electric power, upon the Secretary of the Interior.
 

@@ -73,13 +73,13 @@
 
 [Pub. L. 106–469, title I, § 101][/us/pl/106/469/s101], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
 
-> “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264, 6281 and 6282 of this title, and repealing provisions set out as notes under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
+> “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264, 6281 and 6282 of this title, and repealing provisions set out as notes under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
 
  __Short Title of 1998 Amendment__ 
 
 [Pub. L. 105–388, § 1][/us/pl/105/388/s1], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477], provided that: 
 
-> “This Act \[enacting [section 13220 of this title][/us/usc/t42/s13220], amending sections 2296a, 2296a–2, 2297g–1, 6241, 6291, 6292, 6294, 6295, 6306, 6316, 6322, 6325, 6371, 6371c, 6371f, 6371i, 6372c, 6372h, 6374, 6383, 6422, 6802, 6872, 8217, 8231, 8235e, 8259, 8287, 8287c, and 13218 of this title and [section 3503 of Title 25][/us/usc/t25/s3503], Indians, enacting provisions set out as notes under [section 6241 of this title][/us/usc/t42/s6241], and amending and repealing provisions set out as notes under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be cited as the ‘Energy Conservation Reauthorization Act of 1998’.”
+> “This Act \[enacting [section 13220 of this title][/us/usc/t42/s13220], amending sections 2296a, 2296a–2, 2297g–1, 6241, 6291, 6292, 6294, 6295, 6306, 6316, 6322, 6325, 6371, 6371c, 6371f, 6371i, 6372c, 6372h, 6374, 6383, 6422, 6802, 6872, 8217, 8231, 8235e, 8259, 8287, 8287c, and 13218 of this title and [section 3503 of Title 25][/us/usc/t25/s3503], Indians, enacting provisions set out as notes under [section 6241 of this title][/us/usc/t42/s6241], and amending and repealing provisions set out as notes under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy Conservation Reauthorization Act of 1998’.”
 
  __Short Title of 1994 Amendment__ 
 
@@ -99,15 +99,15 @@
 
 [Pub. L. 101–383, § 1][/us/pl/101/383/s1], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], provided that: 
 
-> “This Act \[enacting sections 6249 to 6249c of this title, amending sections 6202, 6232, 6239 to 6241, 6247, 6251, and 6285 of this title, and amending provisions set out as a note under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Amendments of 1990’.”
+> “This Act \[enacting sections 6249 to 6249c of this title, amending sections 6202, 6232, 6239 to 6241, 6247, 6251, and 6285 of this title, and amending provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Amendments of 1990’.”
 
 [Pub. L. 101–360, § 1][/us/pl/101/360/s1], Aug. 10, 1990, [104 Stat. 421][/us/stat/104/421], provided: 
 
-> “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Short-Term Extension Amendment of 1990’.”
+> “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Short-Term Extension Amendment of 1990’.”
 
 [Pub. L. 101–262, § 1][/us/pl/101/262/s1], Mar. 31, 1990, [104 Stat. 124][/us/stat/104/124], provided: 
 
-> “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Extension Amendment of 1990’.”
+> “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Extension Amendment of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
@@ -129,7 +129,7 @@
 
 [Pub. L. 99–58, § 1][/us/pl/99/58/s1], July 2, 1985, [99 Stat. 102][/us/stat/99/102], provided that: 
 
-> “This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing [section 6401 of this title][/us/usc/t42/s6401], enacting provisions set out as notes under [section 7277 of this title][/us/usc/t42/s7277], and amending provisions set out as a note under [section 2071 of Title 50][/us/usc/t50/s2071], Appendix, War and National Defense\] may be cited as the ‘Energy and Conservation Amendments Act of 1985’.”
+> “This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing [section 6401 of this title][/us/usc/t42/s6401], enacting provisions set out as notes under [section 7277 of this title][/us/usc/t42/s7277], and amending provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy and Conservation Amendments Act of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
@@ -153,7 +153,7 @@
 
 [Pub. L. 94–163, § 1][/us/pl/94/163/s1], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], provided in part: 
 
-> “That this Act \[enacting this chapter and sections 757 to 760h and 2001 to 2012 of Title 15, Commerce and Trade, amending sections 753, 754, 755, 792, 796, and 1901 of Title 15 and section 2071 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under this section, sections 753 and 796 of Title 15, and [section 2071 of Title 50][/us/usc/t50/s2071] App., and repealing provisions formerly set out as a note under [section 1904 of Title 12][/us/usc/t12/s1904], Banks and Banking\] may be cited as the ‘Energy Policy and Conservation Act’.”
+> “That this Act \[enacting this chapter and sections 757 to 760h and 2001 to 2012 of Title 15, Commerce and Trade, amending sections 753, 754, 755, 792, 796, and 1901 of Title 15 and [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense, enacting provisions set out as notes under this section, sections 753 and 796 of Title 15, and [section 4511 of Title 50][/us/usc/t50/s4511], and repealing provisions formerly set out as a note under [section 1904 of Title 12][/us/usc/t12/s1904], Banks and Banking\] may be cited as the ‘Energy Policy and Conservation Act’.”
 
  __National Oilheat Research Alliance__ 
 
@@ -1061,7 +1061,7 @@
 
     Ex. Ord. No. 11912, April 13, 1976, 41 F.R. 15825, as amended by Ex. Ord. No. 12003, July 20, 1977, 42 F.R. 37523; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 4323 Ex. Ord. No. 12375, Aug. 4, 1982, 47 F.R. 34105; Ex. Ord. No. 12919, § 904(a)(7), June 3, 1994, 59 F.R. 29533, provided:
 
-By virtue of the authority vested in me by the Constitution and the statutes of the United States of America, including the Energy Policy and Conservation Act ([Public Law 94–163][/us/pl/94/163], [89 Stat. 8][/us/stat/89/8], [42 U.S.C. 6201][/us/usc/t42/s6201] et seq.), the Motor Vehicle Information and Cost Savings Act, as amended ([15 U.S.C. 1901][/us/usc/t15/s1901] et seq.), the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.), and [section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+    By virtue of the authority vested in me by the Constitution and the statutes of the United States of America, including the Energy Policy and Conservation Act ([Public Law 94–163][/us/pl/94/163], [89 Stat. 8][/us/stat/89/8], [42 U.S.C. 6201][/us/usc/t42/s6201] et seq.), the Motor Vehicle Information and Cost Savings Act, as amended ([15 U.S.C. 1901][/us/usc/t15/s1901] et seq.), the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], and [section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
     Section 1. (a) The Administrator of General Services is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by Section 510 of the Motor Vehicle Information and Cost Savings Act, as amended ([89 Stat. 915][/us/stat/89/915], [15 U.S.C. 2010][/us/usc/t15/s2010]). The Administrator shall exercise that authority to ensure that passenger automobiles acquired by all Executive agencies in each fiscal year achieve a fleet average fuel economy standard that is not less than the average fuel economy standard for automobiles manufactured for the model year which includes January 1 of each fiscal year.
 
@@ -1069,7 +1069,7 @@ By virtue of the authority vested in me by the Constitution and the statutes of 
 
     (c) In performing these functions, the Administrator of General Services shall consult with the Secretary of Transportation and the Secretary of Energy.
 
-    Sec. 2. The Secretary of Commerce is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by section 103 of the Energy Policy and Conservation Act ([89 Stat. 877][/us/stat/89/877], [42 U.S.C. 6212][/us/usc/t42/s6212]). In performing each of these functions, the Secretary of Commerce shall consult with appropriate Executive agencies, as set forth in the provisions of section 5(a) of the Export Administration Act of 1969, as amended (50 U.S.C. App. 2404(a)).
+    Sec. 2. The Secretary of Commerce is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by section 103 of the Energy Policy and Conservation Act ([89 Stat. 877][/us/stat/89/877], [42 U.S.C. 6212][/us/usc/t42/s6212]). In performing each of these functions, the Secretary of Commerce shall consult with appropriate Executive agencies, as set forth in the provisions of section 5(a) of the Export Administration Act of 1969, as amended (50 U.S.C. App. 2404(a)) \[now [50 U.S.C. 4604(a)][/us/usc/t50/s4604/a]\].
 
     Sec. 3. The Administrator of the Office of Federal Procurement Policy, in the exercise of his statutory responsibility to provide overall direction of procurement policy ([41 U.S.C. 405][/us/usc/t41/s405]), shall, after consultation with the heads of appropriate agencies, including those responsible for developing energy conservation and efficiency standards, and to the extent he considers appropriate and with due regard to the program activities of the Executive agencies, provide policy guidance governing the application of energy conservation and efficiency standards in the Federal procurement process in accord with section 381(a)(1) of the Energy Policy and Conservation Act ([89 Stat. 939][/us/stat/89/939], [42 U.S.C. 6361(a)(1)][/us/usc/t42/s6361/a/1]).
 
@@ -1081,7 +1081,7 @@ By virtue of the authority vested in me by the Constitution and the statutes of 
 
 Sec. 6. The Secretary of Energy is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by:
 
-    (a) Section 251 of the Energy Policy and Conservation Act ([89 Stat. 894][/us/stat/89/894], [42 U.S.C. 6271][/us/usc/t42/s6271]), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and provided that the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
+    (a) Section 251 of the Energy Policy and Conservation Act ([89 Stat. 894][/us/stat/89/894], [42 U.S.C. 6271][/us/usc/t42/s6271]), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and provided that the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[former 50 U.S.C. App. 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
 
     (b) Section 253(c) of the Energy Policy and Conservation Act ([89 Stat. 898][/us/stat/89/898], [42 U.S.C. 6273][/us/usc/t42/s6273]);
 
@@ -1177,13 +1177,13 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/pl/106/469/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs101
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/105/388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs1
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
 [/us/usc/t42/s13220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13220
 [/us/usc/t25/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3503
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/103/406/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406%2Fs1
 [/us/stat/108/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4209
 [/us/pl/103/406/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406%2Fs101
@@ -1193,13 +1193,13 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
 [/us/pl/101/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs1
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/101/360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F360%2Fs1
 [/us/stat/104/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F421
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/101/262/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F262%2Fs1
 [/us/stat/104/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F124
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/100/494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs1
 [/us/stat/102/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2441
 [/us/usc/t15/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2013
@@ -1212,7 +1212,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/stat/99/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F102
 [/us/usc/t42/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6401
 [/us/usc/t42/s7277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7277
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/98/370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370%2Fs1
 [/us/stat/98/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1211
 [/us/usc/t42/s6276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6276
@@ -1224,7 +1224,8 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/usc/t42/s6247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6247
 [/us/pl/94/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs1
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
-[/us/usc/t50/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/usc/t12/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1904
 [/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/stat/114/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2043
@@ -1242,6 +1243,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/stat/89/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F8
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t15/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1901
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/stat/89/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F915
 [/us/usc/t15/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2010
@@ -1249,6 +1251,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/usc/t15/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2002%2Fb
 [/us/stat/89/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F877
 [/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
+[/us/usc/t50/s4604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fa
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
 [/us/stat/89/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F939
 [/us/usc/t42/s6361/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6361%2Fa%2F1

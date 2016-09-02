@@ -93,7 +93,7 @@
 
     (h) __Applicability of Defense Production Act of 1950__ 
 
-    [Section 2158 of title 50][/us/usc/t50/s2158], Appendix, shall not apply to any agreement or action undertaken for the purpose of developing or carrying out—
+    [Section 4558 of title 50][/us/usc/t50/s4558] shall not apply to any agreement or action undertaken for the purpose of developing or carrying out—
 
         (1) the international energy program; or
 
@@ -282,7 +282,7 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
-[/us/usc/t50/s2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2158
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/usc/t42/s6274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6274
 [/us/pl/94/163/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs252
 [/us/stat/89/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F894

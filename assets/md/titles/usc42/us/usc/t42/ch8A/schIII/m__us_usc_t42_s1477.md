@@ -33,7 +33,7 @@
 
  __Continuation of Provisions__ 
 
-    Joint Res. [July 3, 1952, ch. 570, § 1(a)(20)][/us/act/1952-07-03/ch570/s1/a/20], [66 Stat. 332][/us/stat/66/332], as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Appendix to Title 50, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
+    Joint Res. [July 3, 1952, ch. 570, § 1(a)(20)][/us/act/1952-07-03/ch570/s1/a/20], [66 Stat. 332][/us/stat/66/332], as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
  __Repeal of Prior Acts Continuing Section__ 
 
@@ -62,6 +62,7 @@
 [/us/stat/66/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F332
 [/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204
 [/us/stat/66/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F54
 [/us/act/1952-05-28/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-28%2Fch339

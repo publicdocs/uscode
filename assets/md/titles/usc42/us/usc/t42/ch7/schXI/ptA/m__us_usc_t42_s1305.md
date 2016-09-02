@@ -441,7 +441,7 @@
 
 [Pub. L. 96–611, § 6][/us/pl/96/611/s6], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568], provided that: 
 
-> “Sections 6 to 10 of this Act \[enacting [section 663 of this title][/us/usc/t42/s663], and [section 1738A of Title 28][/us/usc/t28/s1738A], Judiciary and Judicial Procedure, amending sections 654 and 655 of this title, and enacting provisions set out as notes under [section 1073 of Title 18][/us/usc/t18/s1073], Crimes and Criminal Procedure, [section 1738A of Title 28][/us/usc/t28/s1738A], and [section 663 of this title][/us/usc/t42/s663]\] may be cited as the ‘Parental Kidnapping Prevention Act of 1980’.”
+> “Sections 6 to 10 of this Act \[enacting [section 663 of this title][/us/usc/t42/s663], and [section 1738A of Title 28][/us/usc/t28/s1738A], Judiciary and Judicial Procedure, amending sections 654 and 655 of this title, and enacting provisions set out as notes under [section 1073 of Title 18][/us/usc/t18/s1073], Crimes and Criminal Procedure, [section 1738A of Title 28][/us/usc/t28/s1738A], and [section 663 of this title][/us/usc/t42/s663]\] may be cited as the ‘Parental Kidnaping Prevention Act of 1980’.”
 
 [Pub. L. 96–499, title IX, § 900][/us/pl/96/499/s900], Dec. 5, 1980, [94 Stat. 2609][/us/stat/94/2609], provided that: 
 

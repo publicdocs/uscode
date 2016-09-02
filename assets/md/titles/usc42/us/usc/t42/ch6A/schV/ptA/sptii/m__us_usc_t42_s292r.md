@@ -31,7 +31,7 @@
 
         (1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
 
-        (2) who, if required under [section 453 of title 50][/us/usc/t50/s453], Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+        (2) who, if required under [section 3802 of title 50][/us/usc/t50/s3802] to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
 
     (c) __Repayment; exclusions from repayment period__ 
 
@@ -167,7 +167,7 @@
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q
 [/us/usc/t42/s292s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292s
-[/us/usc/t50/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs453
+[/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t42/s292q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292q

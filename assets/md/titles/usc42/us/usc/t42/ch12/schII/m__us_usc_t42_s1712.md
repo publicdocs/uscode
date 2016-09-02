@@ -21,7 +21,7 @@
 
  __National Emergency Declared on__  __May 27, 1941__ 
 
-    The national emergency declared by the President on May 27, 1941, by Proc. No. 2487, 6 F.R. 2617, [55 Stat. 1647][/us/stat/55/1647], was terminated April 28, 1952 by Proc. No. 2974, Apr. 30, 1952, 17 F.R. 3813, 66 Stat. c31, set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+    The national emergency declared by the President on May 27, 1941, by Proc. No. 2487, 6 F.R. 2617, [55 Stat. 1647][/us/stat/55/1647], was terminated April 28, 1952 by Proc. No. 2974, Apr. 30, 1952, 17 F.R. 3813, 66 Stat. c31, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 ----------
 
@@ -33,5 +33,6 @@
 [/us/act/1942-12-02/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-02%2Fch668
 [/us/stat/56/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1034
 [/us/stat/55/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F1647
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 
 

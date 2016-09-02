@@ -125,7 +125,7 @@
 
 [Act Aug. 6, 1947, ch. 510, § 4][/us/act/1947-08-06/ch510/s4], [61 Stat. 794][/us/stat/61/794], provided that: 
 
-> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 603 of [act Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], former 50 U.S.C. App. 1651 note\] (terminating the provisions of such Act \[50 U.S.C. App. 1651 et seq.\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act to the Social Security Act \[amending this section and [section 1321 of this title][/us/usc/t42/s1321]\].”
+> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 603 of [act Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], former 50 U.S.C. App. 1651 note\] (terminating the provisions of such Act \[former 50 U.S.C. App. 1651 et seq.\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act to the Social Security Act \[amending this section and [section 1321 of this title][/us/usc/t42/s1321]\].”
 
  __Payments to States__ 
 

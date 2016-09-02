@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2251 of Title 50][/us/usc/t50/s2251], Appendix, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2251 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
 
  __Transfer of Functions__ 
 
@@ -135,7 +135,7 @@
 
  __Sec. 6. Abolitions__ 
 
-    The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 ([67 Stat. 634][/us/stat/67/634]) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194].\]
+    The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (\[former\] 50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 ([67 Stat. 634][/us/stat/67/634]) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194].\]
 
  __Sec. 7. Records, Property, Personnel, and Funds__ 
 
@@ -207,7 +207,7 @@
 
     (2) The functions of the Director of the Office of Emergency Preparedness with respect to being a member of the National Security Council.
 
-    (3) The Civil Defense Advisory Council, created by section 102(a) of the Federal Civil Defense Act of 1950 (50 U.S.C. App. 2272(a)), together with its functions.
+    (3) The Civil Defense Advisory Council, created by section 102(a) of the Federal Civil Defense Act of 1950 (\[former\] 50 U.S.C. App. 2272(a)), together with its functions.
 
     (4) The National Aeronautics and Space Council, created by section 201 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2471][/us/usc/t42/s2471]), including the office of Executive Secretary of the Council, together with its functions.
 
@@ -289,7 +289,7 @@
 
     (1) the functions of the Director of the Office of Emergency Preparedness with respect to being a member of the National Security Council (Sec. 101, National Security Act of 1947, as amended, [50 U.S.C. 402][/us/usc/t50/s402] \[now [50 U.S.C. 3021][/us/usc/t50/s3021]\]; and Sec. 4, Reorganization Plan No. 1 of 1958);
 
-    (2) the functions of the Civil Defense Advisory Council (Sec. 102(a) Federal Civil Defense Act of 1950; 50 U.S.C. App. 2272(a)); and
+    (2) the functions of the Civil Defense Advisory Council (Sec. 102(a) Federal Civil Defense Act of 1950; \[former\] 50 U.S.C. App. 2272(a)); and
 
     (3) the functions of the National Aeronautics and Space Council (Sec. 201, National Aeronautics and Space Act of 1958; [42 U.S.C. 2471][/us/usc/t42/s2471]).
 
@@ -307,7 +307,7 @@
 
  __Executive Order No. 10222__ 
 
-    Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, formerly set out as a note under [section 2153 of Title 50][/us/usc/t50/s2153], Appendix, War and National Defense.
+    Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, formerly set out as a note under section 2153 of the Appendix to Title 50, War and National Defense.
 
  __Executive Order No. 10346__ 
 
@@ -437,7 +437,7 @@
 
     Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R. 53071; Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073; Ex. Ord. No. 12381, Sept. 8, 1982, 47 F.R. 39795; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571; Ex. Ord. No. 12919, § 904(a)(8), June 3, 1994, 59 F.R. 29533; Ex. Ord. No. 13286, § 52, Feb. 28, 2003, 68 F.R. 10628, provided:
 
-    By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1970, as amended (42 U.S.C. Chapter 58 note), the Disaster Relief Act of 1974 ([88 Stat. 143][/us/stat/88/143]; [42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701][/us/usc/t42/s7701] et seq.), [Section 4 of Public Law 92–385][/us/pl/92/385/s4] ([86 Stat. 556][/us/stat/86/556]), [Section 43 of the Act of August 10, 1956][/us/act/1956-08-10/s43], as amended (50 U.S.C. App. 2285), the National Security Act of 1947, as amended \[see Tables for classification\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], the Strategic and Critical Materials Stock Piling Act, as amended ([50 U.S.C. 98][/us/usc/t50/s98] et seq.), Section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c][/us/usc/t31/s581c]) \[[31 U.S.C. 1531][/us/usc/t31/s1531]\], and [Section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and in order to transfer emergency functions to the Department of Homeland Security, it is hereby ordered as follows:
+    By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (\[former\] 50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1970, as amended (42 U.S.C. Chapter 58 note), the Disaster Relief Act of 1974 ([88 Stat. 143][/us/stat/88/143]; [42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701][/us/usc/t42/s7701] et seq.), [Section 4 of Public Law 92–385][/us/pl/92/385/s4] ([86 Stat. 556][/us/stat/86/556]), [Section 43 of the Act of August 10, 1956][/us/act/1956-08-10/s43], as amended (50 U.S.C. App. 2285) \[now [6 U.S.C. 765][/us/usc/t6/s765]\], the National Security Act of 1947, as amended \[see Tables for classification\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], the Strategic and Critical Materials Stock Piling Act, as amended ([50 U.S.C. 98][/us/usc/t50/s98] et seq.), Section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c][/us/usc/t31/s581c]) \[[31 U.S.C. 1531][/us/usc/t31/s1531]\], and [Section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and in order to transfer emergency functions to the Department of Homeland Security, it is hereby ordered as follows:
 
  __Section 1. Transfers or Reassignments__ 
 
@@ -507,15 +507,15 @@
 
     4–101. \[Revoked by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R. 53071.\]
 
-    4–102. The functions vested in the Director of the Office of Defense Mobilization by Sections 103 and 303 of the National Security Act of 1947, as amended by Sections 8 and 50 of the Act of September 3, 1954 (Public Law 779; [68 Stat. 1228][/us/stat/68/1228] and 1244) ([50 U.S.C. 404][/us/usc/t50/s404] and 405) \[now [50 U.S.C. 3042][/us/usc/t50/s3042] and 3073\], were transferred to the President by Section 1(a) of Reorganization Plan No. 1 of 1958, as amended (50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
+    4–102. The functions vested in the Director of the Office of Defense Mobilization by Sections 103 and 303 of the National Security Act of 1947, as amended by Sections 8 and 50 of the Act of September 3, 1954 (Public Law 779; [68 Stat. 1228][/us/stat/68/1228] and 1244) ([50 U.S.C. 404][/us/usc/t50/s404] and 405) \[now [50 U.S.C. 3042][/us/usc/t50/s3042] and 3073\], were transferred to the President by Section 1(a) of Reorganization Plan No. 1 of 1958, as amended (\[former\] 50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
 
-    4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
+    4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended (\[former\] 50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
 
-    (b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[[5 U.S.C. 3376][/us/usc/t5/s3376] note\].
+    (b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (\[former\] 50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[[5 U.S.C. 3376][/us/usc/t5/s3376] note\].
 
     4–104. The Secretary of Homeland Security is authorized to redelegate, in accord with the provisions of Section 1(b) of Reorganization Plan No. 1 of 1958 (50 U.S.C. App. 2271 note) \[now set out above\], any of the functions delegated by Sections 4–101, 4–102, and 4–103 of this Order.
 
-    4–105. The functions vested in the Administrator of the Federal Civil Defense Administration by [Section 43 of the Act of August 10, 1956][/us/act/1956-08-10/s43] ([70A Stat. 636][/us/stat/70A/636]) \[50 U.S.C. App. 2285\], were transferred to the President by Reorganization Plan No. 1 of 1958, as amended (50 U.S.C. App. 2271 note) \[now set out above\], were subsequently revested in the Director of the Office of Civil and Defense Mobilization by [Section 512 of Public Law 86–500][/us/pl/86/500/s512] (50 U.S.C. App. 2285) \[the office was changed to Office of Emergency Planning by [Public Law 87–296][/us/pl/87/296] ([75 Stat. 630][/us/stat/75/630]) and then to the Office of Emergency Preparedness by [Section 402 of Public Law 90–608][/us/pl/90/608/s402] ([82 Stat. 1194][/us/stat/82/1194])\], were again transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
+    4–105. The functions vested in the Administrator of the Federal Civil Defense Administration by [Section 43 of the Act of August 10, 1956][/us/act/1956-08-10/s43] ([70A Stat. 636][/us/stat/70A/636]) \[former 50 U.S.C. App. 2285\], were transferred to the President by Reorganization Plan No. 1 of 1958, as amended (\[former\] 50 U.S.C. App. 2271 note) \[now set out above\], were subsequently revested in the Director of the Office of Civil and Defense Mobilization by [Section 512 of Public Law 86–500][/us/pl/86/500/s512] (50 U.S.C. App. 2285) \[the office was changed to Office of Emergency Planning by [Public Law 87–296][/us/pl/87/296] ([75 Stat. 630][/us/stat/75/630]) and then to the Office of Emergency Preparedness by [Section 402 of Public Law 90–608][/us/pl/90/608/s402] ([82 Stat. 1194][/us/stat/82/1194])\], were again transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (\[former\] 50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
 
     4–106. The functions vested in the Director of the Office of Emergency Preparedness by [Section 16 of the Act of September 23, 1950][/us/act/1950-09-23/s16], as amended ([20 U.S.C. 646][/us/usc/t20/s646]), and by [Section 7 of the Act of September 30, 1950][/us/act/1950-09-30/s7], as amended ([20 U.S.C. 241–1][/us/usc/t20/s241–1]), were transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) \[now set out above\], and they are hereby delegated to the Secretary of Homeland Security.
 
@@ -535,7 +535,7 @@
 
     4–206. Effective July 30, 1979, the functions vested in the President by Section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 485(f)][/us/usc/t40/s485/f]) \[now [40 U.S.C. 574(d)][/us/usc/t40/s574/d]\], are hereby delegated to the Secretary of Homeland Security.
 
-    4–207. The functions vested in the President by Section 502 of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2302), are delegated to the Secretary of Homeland Security.
+    4–207. The functions vested in the President by Section 502 of the Federal Civil Defense Act of 1950, as amended (\[former\] 50 U.S.C. App. 2302), are delegated to the Secretary of Homeland Security.
 
  __Sec. 5. Other Executive Orders__ 
 
@@ -571,13 +571,13 @@
 
     5–201. Executive Order No. 10421, as amended, relating to physical security of defense facilities \[formerly set out under [50 U.S.C. 404][/us/usc/t50/s404], which was reclassified and renumbered as [50 U.S.C. 3042][/us/usc/t50/s3042]\] is further amended by (a) substituting the “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 1(a), 1(c), and 6(b); and, (b) substituting “Federal Emergency Management Agency” for “Office of Emergency Planning” in Sections 6(b) and 7(b).
 
-    5–202. Executive Order No. 10480, as amended \[50 U.S.C. App. 2153 note\], is further amended by (a) substituting “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 101(a), 101(b), 201(a), 201(b), 301, 304, 307, 308, 310(b), 311(b), 312, 313, 401(b), 401(e), and 605; and, (b) substituting “Director of the Federal Emergency Management Agency” for “Administrator of General Services” in Sections 305, 501, and 610.
+    5–202. Executive Order No. 10480, as amended \[former 50 U.S.C. App. 2153 note\], is further amended by (a) substituting “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 101(a), 101(b), 201(a), 201(b), 301, 304, 307, 308, 310(b), 311(b), 312, 313, 401(b), 401(e), and 605; and, (b) substituting “Director of the Federal Emergency Management Agency” for “Administrator of General Services” in Sections 305, 501, and 610.
 
     5–203. Section 3(d) of Executive Order No. 10582, as amended \[[41 U.S.C. 8303][/us/usc/t41/s8303] note\], which relates to determinations under the Buy American Act is amended by deleting “Director of the Office of Emergency Planning” and substituting therefor “Director of the Federal Emergency Management Agency”.
 
     5–204. Paragraph 21 of Executive Order No. 10789, as amended \[[50 U.S.C. 1431][/us/usc/t50/s1431] note\], is further amended by adding “The Federal Emergency Management Agency” after “Government Printing Office”.
 
-    5–205. Executive Order No. 11179, as amended, concerning the National Defense Executive Reserve \[50 U.S.C. App. 2153 note\], is further amended by deleting “Director of the Office of Emergency Planning” in Section 2 and substituting therefor “Director of the Federal Emergency Management Agency”.
+    5–205. Executive Order No. 11179, as amended, concerning the National Defense Executive Reserve \[former 50 U.S.C. App. 2153 note\], is further amended by deleting “Director of the Office of Emergency Planning” in Section 2 and substituting therefor “Director of the Federal Emergency Management Agency”.
 
     5–206. Section 7 of Executive Order No. 11912, as amended, concerning energy policy and conservation \[[42 U.S.C. 6201][/us/usc/t42/s6201] note\], is further amended by deleting “Administrator of General Services” and substituting therefor “Director of the Federal Emergency Management Agency”.
 
@@ -635,7 +635,7 @@
 
     WHEREAS the Congress has directed the development of such national security emergency preparedness plans and has provided funds for the accomplishment thereof;
 
-NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and pursuant to Reorganization Plan No. 1 of 1958 ([72 Stat. 1799][/us/stat/72/1799]) \[set out above\], the National Security Act of 1947, as amended \[[50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\], the Defense Production Act of 1950, as amended \[see 50 U.S.C. App. 2061\], and the Federal Civil Defense Act, as amended, it is hereby ordered that the responsibilities of the Federal departments and agencies in national security emergencies shall be as follows:
+NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and pursuant to Reorganization Plan No. 1 of 1958 ([72 Stat. 1799][/us/stat/72/1799]) \[set out above\], the National Security Act of 1947, as amended \[[50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\], the Defense Production Act of 1950, as amended \[see [50 U.S.C. 4501][/us/usc/t50/s4501]\], and the Federal Civil Defense Act, as amended, it is hereby ordered that the responsibilities of the Federal departments and agencies in national security emergencies shall be as follows:
 
  __PART 1—Preamble__ 
 
@@ -1367,7 +1367,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 
     Ex. Ord. No. 12657, Nov. 18, 1988, 53 F.R. 47513, as amended by Ex. Ord. No. 13286, § 41, Feb. 28, 2003, 68 F.R. 10626, provided:
 
-    By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1974, as amended ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], and [Section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies at commercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
+    By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (\[former\] 50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1974, as amended ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], and [Section 301 of Title 3][/us/usc/t3/s301] of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies at commercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
 
     Section 1. Scope. (a) This Order applies whenever State or local governments, either individually or together, decline or fail to prepare commercial nuclear power plant radiological emergency preparedness plans that are sufficient to satisfy Nuclear Regulatory Commission (“NRC”) licensing requirements or to participate adequately in the preparation, demonstration, testing, exercise, or use of such plans.
 
@@ -1891,7 +1891,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/93/288/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs601
 [/us/pl/103/337/s3411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F3
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/usc/t50/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2251
 [/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
@@ -1948,13 +1947,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 [/us/usc/t42/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2471
-[/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7701
 [/us/pl/92/385/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385%2Fs4
 [/us/stat/86/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F556
 [/us/act/1956-08-10/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs43
+[/us/usc/t6/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs765
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
@@ -2001,6 +2001,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/101/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1247
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t42/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2133
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs111

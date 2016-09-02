@@ -55,7 +55,7 @@
 
         (2) section 14(b) of the Federal Energy Administration Act of 1974 \[[15 U.S.C. 773(b)][/us/usc/t15/s773/b]\];
 
-        (3) section 12 of the Export Administration Act of 1979 \[50 U.S.C. App. 2411\];
+        (3) section 12 of the Export Administration Act of 1979 \[[50 U.S.C. 4614][/us/usc/t50/s4614]\];
 
         (4) [section 9 of title 13][/us/usc/t13/s9];
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see section 2418 of Appendix to Title 50, War and National Defense.
+    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see [section 4621 of Title 50][/us/usc/t50/s4621], War and National Defense.
 
 ----------
 
@@ -90,6 +90,7 @@
 [/us/usc/t15/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs772
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
 [/us/usc/t15/s773/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs773%2Fb
+[/us/usc/t50/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
 [/us/usc/t15/s176a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs176a
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
@@ -108,5 +109,6 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
+[/us/usc/t50/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4621
 
 

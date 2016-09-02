@@ -83,7 +83,7 @@
 
     Ex. Ord. No. 11879, Sept. 17, 1975, 40 F.R. 43197, provided:
 
-    By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] ([88 Stat. 1680][/us/stat/88/1680], [42 U.S.C. 300j][/us/usc/t42/s300j]), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[[42 U.S.C. 300j][/us/usc/t42/s300j]\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[formerly set out as a note under [section 2153 of Title 50][/us/usc/t50/s2153], Appendix, War and National Defense\], for the allocation of similar chemicals or substances.
+    By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] ([88 Stat. 1680][/us/stat/88/1680], [42 U.S.C. 300j][/us/usc/t42/s300j]), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[[42 U.S.C. 300j][/us/usc/t42/s300j]\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[former 50 U.S.C. App. 2153 note\], for the allocation of similar chemicals or substances.
 
                               Gerald R. Ford.
 
@@ -112,6 +112,5 @@
 [/us/stat/88/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1680
 [/us/usc/t42/s300j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j
 [/us/usc/t42/s300j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j
-[/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
 
 

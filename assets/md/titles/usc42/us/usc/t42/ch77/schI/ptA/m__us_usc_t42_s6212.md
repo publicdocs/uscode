@@ -31,7 +31,7 @@
 
     (c) __Implementing restrictions__ 
 
-        In order to implement any rule promulgated under subsection (a) of this section, the President may request and, if so, the Secretary of Commerce shall, pursuant to the procedures established by the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] (but without regard to the phrase “and to reduce the serious inflationary impact of foreign demand” in section 3(2)(C) of such Act \[50 U.S.C. App. 2402(2)(C)\]), impose such restrictions as specified in any rule under subsection (a) of this section on exports of coal, petroleum products, natural gas, or petrochemical feedstocks, and such supplies of materials and equipment.
+        In order to implement any rule promulgated under subsection (a) of this section, the President may request and, if so, the Secretary of Commerce shall, pursuant to the procedures established by the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] (but without regard to the phrase “and to reduce the serious inflationary impact of foreign demand” in section 3(2)(C) of such Act \[[50 U.S.C. 4602(2)(C)][/us/usc/t50/s4602/2/C]\]), impose such restrictions as specified in any rule under subsection (a) of this section on exports of coal, petroleum products, natural gas, or petrochemical feedstocks, and such supplies of materials and equipment.
 
     (d) __Restrictions and national interest__ 
 
@@ -57,9 +57,9 @@
 
     This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (c), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (c), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-    The Export Administration Act of 1969, referred to in subsec. (e)(3), is [Pub. L. 91–184][/us/pl/91/184], Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841], as amended, which was formerly classified to sections 2401 to 2413 of Title 50, Appendix, and was terminated on Sept. 30, 1979, pursuant to the terms of that Act.
+    The Export Administration Act of 1969, referred to in subsec. (e)(3), is [Pub. L. 91–184][/us/pl/91/184], Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841], which was formerly classified to sections 2401 to 2413 of the former Appendix to Title 50, and was terminated on Sept. 30, 1979, pursuant to the terms of that Act. See chapter 56 (§ 4601 et seq.) of Title 50.
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon expiration of Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which Congress by concurrent resolution or President by proclamation designated, see section 2418 of the Appendix to Title 50, War and National Defense.
+    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon expiration of Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which Congress by concurrent resolution or President by proclamation designated, see [section 4621 of Title 50][/us/usc/t50/s4621], War and National Defense.
 
 ----------
 
@@ -80,6 +80,8 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
+[/us/usc/t50/s4602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FC
 [/us/pl/94/163/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs103
 [/us/stat/89/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F877
 [/us/pl/96/72/s22/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs22%2Fb%2F1
@@ -89,12 +91,12 @@
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F841
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
+[/us/usc/t50/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4621
 
 

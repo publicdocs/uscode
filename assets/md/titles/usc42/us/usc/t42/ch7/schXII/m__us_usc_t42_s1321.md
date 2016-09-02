@@ -85,7 +85,7 @@
 
 [Act Aug. 6, 1947, ch. 510, § 4][/us/act/1947-08-06/ch510/s4], [61 Stat. 794][/us/stat/61/794], provided that: 
 
-> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and [section 1104 of this title][/us/usc/t42/s1104]\].”
+> “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of the former Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of the former Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of the former Appendix to Title 50\] to the Social Security Act \[this section and [section 1104 of this title][/us/usc/t42/s1104]\].”
 
  __Applications for Transfer of Funds Under Former Provisions of Section 1321(a); Limitations__ 
 

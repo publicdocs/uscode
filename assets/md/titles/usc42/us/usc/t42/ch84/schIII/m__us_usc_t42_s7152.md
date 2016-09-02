@@ -205,7 +205,7 @@
 
 >     “(i)  __Disposal__  __.—__ 
 
->     The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] ([40 U.S.C. 484][/us/usc/t40/s484]) \[now [40 U.S.C. 541–555][/us/usc/t40/s541–555]\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
+>     The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] ([40 U.S.C. 484][/us/usc/t40/s484]) \[now [40 U.S.C. 541–555][/us/usc/t40/s541–555]\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622) \[now [40 U.S.C. 545][/us/usc/t40/s545] note\].
 
 > “SEC. 105. __OTHER FEDERAL HYDROELECTRIC PROJECTS.__ 
 
@@ -278,6 +278,7 @@
 [/us/usc/t42/s7152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fa
 [/us/usc/t40/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484
 [/us/usc/t40/s541–555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541%E2%80%93555
+[/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/pl/102/377/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs505
 [/us/stat/106/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1343

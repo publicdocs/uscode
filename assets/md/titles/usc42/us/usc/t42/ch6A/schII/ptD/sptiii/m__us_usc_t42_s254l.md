@@ -249,9 +249,9 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Section 228 of Pub. L. 99–129][/us/pl/99/129/s228] provided that:
+[Pub. L. 99–129, title II, § 228][/us/pl/99/129/s228], Oct. 22, 1985, [99 Stat. 548][/us/stat/99/548], provided that:
 
->     “(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under [section 298b–5 of this title][/us/usc/t42/s298b–5]\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
+>     “(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and [section 3811 of Title 50][/us/usc/t50/s3811], War and National Defense, and amending provisions set out as a note under [section 298b–5 of this title][/us/usc/t42/s298b–5]\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
 
 >     “(b)
 
@@ -393,6 +393,8 @@
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/99/129/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs228
+[/us/stat/99/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F548
+[/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
 [/us/usc/t42/s298b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs298b%E2%80%935
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 [/us/usc/t42/s294e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294e

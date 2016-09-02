@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2286 of Title 50][/us/usc/t50/s2286], Appendix, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
+    Provisions similar to those in this section were contained in section 2286 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 103–337, § 3412(a)][/us/pl/103/337/s3412/a].
 
  __Amendments__ 
 
@@ -130,7 +130,6 @@
 [/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
 [/us/pl/109/295/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F2
-[/us/usc/t50/s2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2286
 [/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/109/295/s631/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs631%2F1

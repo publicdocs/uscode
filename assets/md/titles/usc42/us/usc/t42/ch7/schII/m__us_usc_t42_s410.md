@@ -407,7 +407,7 @@
 
             (A) who has been provisionally accepted for such duty; or
 
-            (B) who, under the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\], has been selected for active military, naval, or air service;
+            (B) who, under the Military Selective Service Act \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\], has been selected for active military, naval, or air service;
 
             and has been ordered or directed to proceed to such place.
 
@@ -513,7 +513,7 @@
 
     [Section 1141j(g) of title 12][/us/usc/t12/s1141j/g], referred to in subsec. (f)(3), was redesignated section 1141j(f) by [Pub. L. 110–246, title I, § 1610][/us/pl/110/246/s1610], June 18, 2008, [122 Stat. 1746][/us/stat/122/1746].
 
-    The Military Selective Service Act, referred to in subsec. (m)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to section 451 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (m)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     The Peace Corps Act, referred to in subsec. (o), is [Pub. L. 87–293][/us/pl/87/293], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612], which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under [section 2501 of Title 22][/us/usc/t22/s2501] and Tables.
 
@@ -1142,6 +1142,7 @@
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t45/s231b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231b%2Fi
 [/us/usc/t38/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F27
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t5/s5351/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5351%2F2
 [/us/usc/t42/s418/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418%2Fc%2F8%2FB
@@ -1265,7 +1266,6 @@
 [/us/stat/122/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1746
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
