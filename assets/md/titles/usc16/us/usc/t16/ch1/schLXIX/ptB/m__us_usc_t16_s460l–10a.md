@@ -33,6 +33,8 @@
 
 Provisions rescinding contract authority provided for specific fiscal years by [16 U.S.C. 460][/us/usc/t16/s460]l–10a were contained in the following appropriation acts:
 
+    [Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2402][/us/stat/128/2402].
+
     [Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 295][/us/stat/128/295].
 
     [Pub. L. 113–6, div. F, title IV, § 1402][/us/pl/113/6/s1402], Mar. 26, 2013, [127 Stat. 419][/us/stat/127/419].
@@ -111,6 +113,8 @@ Provisions rescinding contract authority provided for specific fiscal years by [
 [/us/pl/93/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F303
 [/us/pl/91/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F308
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2402
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F295
 [/us/pl/113/6/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1402

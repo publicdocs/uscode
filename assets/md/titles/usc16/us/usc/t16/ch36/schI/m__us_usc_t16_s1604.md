@@ -163,11 +163,13 @@
 
  __Revision of Forest Plans__ 
 
-[Pub. L. 113–76, div. G, title IV, § 407][/us/pl/113/76/s407], Jan. 17, 2014, [128 Stat. 338][/us/stat/128/338], provided that: 
+[Pub. L. 113–235, div. F, title IV, § 408][/us/pl/113/235/s408], Dec. 16, 2014, [128 Stat. 2445][/us/stat/128/2445], provided that: 
 
 > “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)][/us/usc/t16/s1604/f/5/A]) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. G, title IV, § 407][/us/pl/113/76/s407], Jan. 17, 2014, [128 Stat. 338][/us/stat/128/338].
 
     [Pub. L. 112–74, div. E, title IV, § 409][/us/pl/112/74/s409], Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].
 
@@ -231,10 +233,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
 [/us/pl/94/588/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs6
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
-[/us/pl/113/76/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs407
-[/us/stat/128/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F338
+[/us/pl/113/235/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs408
+[/us/stat/128/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2445
 [/us/usc/t16/s1604/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604%2Ff%2F5%2FA
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
+[/us/pl/113/76/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs407
+[/us/stat/128/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F338
 [/us/pl/112/74/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs409
 [/us/stat/125/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1039
 [/us/pl/111/88/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs410

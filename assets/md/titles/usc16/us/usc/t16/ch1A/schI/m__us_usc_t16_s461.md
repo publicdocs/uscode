@@ -1203,7 +1203,7 @@ Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.�
 
     <td> 
 
-Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, § 157, Oct. 11, 2000, 114 Stat. 963.  </td>
+Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, § 157, Oct. 11, 2000, 114 Stat. 963; Pub. L. 113–235, div. F, title I, § 120(b), Dec. 16, 2014, 128 Stat. 2421.  </td>
 
   </tr>
 

@@ -15,13 +15,17 @@
 
 ## § 6809. Sunset provision
 
-    The authority of the Secretary to carry out this chapter shall terminate 10 years after December 8, 2004.
+    The authority of the Secretary to carry out this chapter shall terminate on September 30, 2016.
 
-([Pub. L. 108–447, div. J, title VIII, § 810][/us/pl/108/447/s810], Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389].)
+([Pub. L. 108–447, div. J, title VIII, § 810][/us/pl/108/447/s810], Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389]; [Pub. L. 113–235, div. F, title IV, § 422][/us/pl/113/235/s422], Dec. 16, 2014, [128 Stat. 2449][/us/stat/128/2449].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of [Pub. L. 108–447][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t16/s6801] and Tables.
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “on September 30, 2016” for “10 years after December 8, 2004”.
 
 ----------
 
@@ -32,8 +36,11 @@
 
 [/us/pl/108/447/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs810
 [/us/stat/118/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3389
+[/us/pl/113/235/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs422
+[/us/stat/128/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2449
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/usc/t16/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6801
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

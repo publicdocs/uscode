@@ -59,7 +59,7 @@
 
  __Research and Development Program To Improve Salmon Survival__ 
 
-[Pub. L. 104–303, title V, § 511][/us/pl/104/303/s511], Oct. 12, 1996, [110 Stat. 3761][/us/stat/110/3761], as amended by [Pub. L. 106–53, title V, § 582][/us/pl/106/53/s582], Aug. 17, 1999, [113 Stat. 375][/us/stat/113/375]; [Pub. L. 110–114, title V, § 5025][/us/pl/110/114/s5025], Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203], provided that:
+[Pub. L. 104–303, title V, § 511][/us/pl/104/303/s511], Oct. 12, 1996, [110 Stat. 3761][/us/stat/110/3761], as amended by [Pub. L. 106–53, title V, § 582][/us/pl/106/53/s582], Aug. 17, 1999, [113 Stat. 375][/us/stat/113/375]; [Pub. L. 110–114, title V, § 5025][/us/pl/110/114/s5025], Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203]; [Pub. L. 113–235, div. D, title I, § 104][/us/pl/113/235/s104], Dec. 16, 2014, [128 Stat. 2307][/us/stat/128/2307], provided that:
 
 >     “(a) __Salmon Survival Activities.—__ 
 
@@ -107,7 +107,7 @@
 
 >         “(6)  __Authorization of appropriations__  __.—__ 
 
->         There is authorized to be appropriated $25,000,000 to carry out research and development activities under paragraph (3).
+>         There is authorized to be appropriated $43,400,000 to carry out research and development activities under paragraph (3).
 
 >     “(b) __Advanced Turbine Development.—__ 
 
@@ -151,5 +151,7 @@
 [/us/stat/113/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F375
 [/us/pl/110/114/s5025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5025
 [/us/stat/121/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1203
+[/us/pl/113/235/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104
+[/us/stat/128/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2307
 
 
