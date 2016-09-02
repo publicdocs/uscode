@@ -851,7 +851,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
->     “(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
+>     “(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), \[former\] 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
 >     “(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 ([Public Law 100–180][/us/pl/100/180]; [10 U.S.C. 113][/us/usc/t10/s113] note).
 

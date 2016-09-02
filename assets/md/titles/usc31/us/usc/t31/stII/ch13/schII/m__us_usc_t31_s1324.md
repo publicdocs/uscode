@@ -167,7 +167,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 
  __Effective Date of 2009 Amendment__ 
 
-    Amendment by [section 1001(e)(2) of Pub. L. 111–5][/us/pl/111/5/s1001/e/2] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as an Effective Date note under [section 6211 of Title 26][/us/usc/t26/s6211], Internal Revenue Code.
+    Amendment by [section 1001(e)(2) of Pub. L. 111–5][/us/pl/111/5/s1001/e/2] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as a note under [section 6211 of Title 26][/us/usc/t26/s6211], Internal Revenue Code.
 
     Amendment by [section 1004(b)(8) of Pub. L. 111–5][/us/pl/111/5/s1004/b/8] applicable to taxable years beginning after Dec. 31, 2008, see [section 1004(d) of Pub. L. 111–5][/us/pl/111/5/s1004/d], set out as an Effective and Termination Dates of 2009 Amendment note under [section 24 of Title 26][/us/usc/t26/s24], Internal Revenue Code.
 
