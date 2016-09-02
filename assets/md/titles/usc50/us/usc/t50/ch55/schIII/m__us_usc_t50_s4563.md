@@ -25,7 +25,7 @@
 
  __References in Text__ 
 
-    This chapter and the chapter, referred to in text, were in the original “this Act”, and “the Act”, respectively, meaning [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title][/us/usc/t50/s4501] and Tables.
+    This chapter and the chapter, referred to in text, were in the original “this Act” and “the Act”, respectively, meaning [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title][/us/usc/t50/s4501] and Tables.
 
  __Codification__ 
 

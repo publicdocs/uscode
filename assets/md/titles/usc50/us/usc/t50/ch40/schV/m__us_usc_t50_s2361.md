@@ -21,9 +21,9 @@
 
      contract directly with suppliers in independent states of the former Soviet Union when such action would—
 
-        (A) result in significant savings of the programs referred to in subchapter III of this chapter; and
+        (A) result in significant savings of the programs referred to in subchapter III; and
 
-        (B) substantially expedite completion of the programs referred to in subchapter III of this chapter; and
+        (B) substantially expedite completion of the programs referred to in subchapter III; and
 
     (2) seek means to use innovative contracting approaches to avoid delay and increase the effectiveness of such programs and of the exercise of such authorities.
 

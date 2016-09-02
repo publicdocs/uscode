@@ -21,11 +21,11 @@
 
     (b) __Designation__ 
 
-        The element established under subsection (a) of this section shall be known as the National Virtual Translation Center.
+        The element established under subsection (a) shall be known as the National Virtual Translation Center.
 
     (c) __Function__ 
 
-    The element established under subsection (a) of this section shall provide for timely and accurate translations of foreign intelligence for all elements of the intelligence community through—
+    The element established under subsection (a) shall provide for timely and accurate translations of foreign intelligence for all elements of the intelligence community through—
 
         (1) the integration of the translation capabilities of the intelligence community;
 
@@ -35,13 +35,13 @@
 
     (d) __Administrative matters__ 
 
-        (1) The Director shall retain direct supervision and control over the element established under subsection (a) of this section.
+        (1) The Director shall retain direct supervision and control over the element established under subsection (a).
 
-        (2) The element established under subsection (a) of this section shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
+        (2) The element established under subsection (a) shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
 
         (3)
 
-         Personnel of the element established under subsection (a) of this section may carry out the duties and functions of the element at any location that—
+         Personnel of the element established under subsection (a) may carry out the duties and functions of the element at any location that—
 
             (A) has been certified as a secure facility by a department or agency of the United States Government; or
 
@@ -49,7 +49,7 @@
 
     (e) __Deadline for establishment__ 
 
-        The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
+        The element required by subsection (a) shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
 ([Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 313, Nov. 27, 2002, [116 Stat. 2391][/us/stat/116/2391]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(2)(A)(i), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 108–487, title III][/us/pl/108/487/tIII], § 304, Dec. 23, 2004, [118 Stat. 3944][/us/stat/118/3944].)
 

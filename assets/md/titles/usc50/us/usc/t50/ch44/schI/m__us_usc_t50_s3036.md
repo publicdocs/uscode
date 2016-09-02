@@ -29,7 +29,7 @@
 
         (1) serve as the head of the Central Intelligence Agency; and
 
-        (2) carry out the responsibilities specified in subsection (d) of this section.
+        (2) carry out the responsibilities specified in subsection (d).
 
     (d) __Responsibilities__ 
 

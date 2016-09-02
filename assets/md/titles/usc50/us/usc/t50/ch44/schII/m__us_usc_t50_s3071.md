@@ -27,7 +27,7 @@
 
         (2)
 
-         the term “employee” means an employee of the National Security Agency, serving under an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c) of this section, except that such term does not include—
+         the term “employee” means an employee of the National Security Agency, serving under an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c), except that such term does not include—
 
             (A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
 
@@ -101,7 +101,7 @@
 
     (j) __Notification of exercise of authority__ 
 
-        The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h) of this section, and includes  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “including”. </sup></sup>  the proposed regulations issued pursuant to subsection (i) of this section.
+        The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and includes  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “including”. </sup></sup>  the proposed regulations issued pursuant to subsection (i).
 
     (k) __Remittance of funds__ 
 

@@ -21,17 +21,17 @@
 
     (b) __Other countries__ 
 
-        The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
+        The Secretary of Defense may carry out programs under subsection (a) in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
 
     (c) __Assistance to states of former Soviet Union__ 
 
-        Assistance under programs referred to in subsection (a) of this section may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
+        Assistance under programs referred to in subsection (a) may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
 
 ([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1424, Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1211(a), Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–375][/us/pl/108/375] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a) of this section.”
+    2004—Subsec. (b). [Pub. L. 108–375][/us/pl/108/375] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a).”
 
  __Change of Name__ 
 

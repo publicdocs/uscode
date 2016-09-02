@@ -17,11 +17,11 @@
 
     (a) __Prohibition__ 
 
-        Except as provided in subsection (b) of this section, no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
+        Except as provided in subsection (b), no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
 
     (b) __Exception__ 
 
-        The prohibition contained in subsection (a) of this section shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\].
+        The prohibition contained in subsection (a) shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\].
 
 ([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1132\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–493).
 

@@ -29,7 +29,7 @@
 
     (b) __Election of classified or unclassified form__ 
 
-        Amounts set forth under subsection (a) of this section may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
+        Amounts set forth under subsection (a) may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506, as added [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 311(a), Nov. 27, 2002, [116 Stat. 2390][/us/stat/116/2390]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1074(b)(1)(A), Dec. 17, 2004, [118 Stat. 3694][/us/stat/118/3694]; [Pub. L. 112–87, title V][/us/pl/112/87/tV], § 505(2), Jan. 3, 2012, [125 Stat. 1897][/us/stat/125/1897].)
 

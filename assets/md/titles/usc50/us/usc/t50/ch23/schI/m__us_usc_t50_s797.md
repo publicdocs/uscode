@@ -59,7 +59,7 @@
 
     (b) __Posting__ 
 
-        Any regulation or order covered by subsection (a) of this section shall be posted in conspicuous and appropriate places.
+        Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.
 
 ([Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 21, [64 Stat. 1005][/us/stat/64/1005]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1053, Jan. 6, 2006, [119 Stat. 3435][/us/stat/119/3435].)
 

@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    2004—Subsecs. (b), (c). [Pub. L. 108–487][/us/pl/108/487] added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “Amounts appropriated pursuant to the authorization of appropriations under subsection (a) of this section shall remain available until expended.”
+    2004—Subsecs. (b), (c). [Pub. L. 108–487][/us/pl/108/487] added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended.”
 
  __Effective Date__ 
 

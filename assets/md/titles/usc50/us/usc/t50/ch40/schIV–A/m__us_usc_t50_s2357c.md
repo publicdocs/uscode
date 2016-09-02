@@ -35,7 +35,7 @@
 
     (b) __Authority__ 
 
-    In carrying out the responsibilities described in subsection (a) of this section, the coordination mechanism established pursuant to [section 2357b of this title][/us/usc/t50/s2357b] should have, at a minimum, the authority to—
+    In carrying out the responsibilities described in subsection (a), the coordination mechanism established pursuant to [section 2357b of this title][/us/usc/t50/s2357b] should have, at a minimum, the authority to—
 
         (1) establish such subcommittees and working groups as it deems necessary;
 

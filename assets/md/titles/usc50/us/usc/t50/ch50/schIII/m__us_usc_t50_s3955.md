@@ -111,7 +111,7 @@
 
     (h) __Misdemeanor__ 
 
-        Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+        Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
     (i) __Definitions__ 
 
@@ -143,7 +143,7 @@
 
     Subsec. (b)(1)(B). [Pub. L. 108–454][/us/pl/108/454], § 704(c), inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
 
-    Subsec. (b)(2)(B). [Pub. L. 108–454][/us/pl/108/454], § 704(b)(1), substituted “military orders—” for “military orders for a permanent change of station outside of the continental United States or to deploy”, added cl.(i), and inserted “(ii) to deploy” before “with a military unit”.
+    Subsec. (b)(2)(B). [Pub. L. 108–454][/us/pl/108/454], § 704(b)(1), substituted “military orders—” for “military orders for a permanent change of station outside of the continental United States or to deploy”, added cl. (i), and inserted “(ii) to deploy” before “with a military unit”.
 
     Subsec. (b)(2)(B)(ii). [Pub. L. 108–454][/us/pl/108/454], § 704(c), inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
 

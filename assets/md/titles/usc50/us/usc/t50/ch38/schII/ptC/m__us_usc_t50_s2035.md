@@ -17,7 +17,7 @@
 
     (a) __Retirement annuity__ 
 
-    An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
+    An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to an annuity—
 
         (1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -79,7 +79,7 @@
 
     (d) __Restoration of annuities__ 
 
-        Notwithstanding subsection (c)(4)(A) of this section, the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B) of this section.
+        Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
 
     (e) __Savings provision__ 
 

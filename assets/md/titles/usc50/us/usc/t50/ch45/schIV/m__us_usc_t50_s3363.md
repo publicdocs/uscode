@@ -23,13 +23,13 @@
 
             (A) establish and maintain a list of individuals who are known or suspected international terrorists, and of organizations that are known or suspected international terrorist organizations; and
 
-            (B) ensure that pertinent information on the list is shared with the departments, agencies, and organizations described by subsection (c) of this section.
+            (B) ensure that pertinent information on the list is shared with the departments, agencies, and organizations described by subsection (c).
 
         (2) The list under paragraph (1), and the mechanisms for sharing information on the list, shall be known as the “Terrorist Identification Classification System”.
 
     (b) __Administration__ 
 
-        (1) The Director shall prescribe requirements for the inclusion of an individual or organization on the list required by subsection (a) of this section, and for the deletion or omission from the list of an individual or organization currently on the list.
+        (1) The Director shall prescribe requirements for the inclusion of an individual or organization on the list required by subsection (a), and for the deletion or omission from the list of an individual or organization currently on the list.
 
         (2) The Director shall ensure that the information utilized to determine the inclusion, or deletion or omission, of an individual or organization on or from the list is derived from all-source intelligence.
 
@@ -41,13 +41,13 @@
 
     (d) __Report on criteria for information sharing__ 
 
-        (1) Not later then  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “than”. </sup></sup>  March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
+        (1) Not later then  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “than”. </sup></sup>  March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
 
-        (2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
+        (2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) would be inappropriate due to the concerns addressed by section 403–3(c)(7)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
 
     (e) __System administration requirements__ 
 
-        (1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section.
+        (1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
 
         (2) The Director shall ensure that the System utilizes technologies that are effective in aiding the identification of individuals in the field.
 
@@ -89,7 +89,7 @@
 
     2010—Subsecs. (d) to (h). [Pub. L. 111–259][/us/pl/111/259] redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
 
-    “(1) The Director shall review on an annual basis the information provided by various departments and agencies for purposes of the list under subsection (a) of this section in order to determine whether or not the information so provided is derived from the widest possible range of intelligence available to such departments and agencies.
+    “(1) The Director shall review on an annual basis the information provided by various departments and agencies for purposes of the list under subsection (a) in order to determine whether or not the information so provided is derived from the widest possible range of intelligence available to such departments and agencies.
 
     “(2) The Director shall, as a result of each review under paragraph (1), certify whether or not the elements of the intelligence community responsible for the collection of intelligence related to the list have provided information for purposes of the list that is derived from the widest possible range of intelligence available to such department and agencies.”
 

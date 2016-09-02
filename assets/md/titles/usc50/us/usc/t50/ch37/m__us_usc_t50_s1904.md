@@ -17,7 +17,7 @@
 
     (a) __Establishment of Fund__ 
 
-        There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
+        There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e).
 
     (b) __Availability of sums in Fund__ 
 

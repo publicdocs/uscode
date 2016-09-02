@@ -21,11 +21,11 @@
 
     (b) __Administration__ 
 
-        If the Director of National Intelligence carries out the program under subsection (a) of this section, the Director of National Intelligence shall administer the program through the Office of the Director of National Intelligence.
+        If the Director of National Intelligence carries out the program under subsection (a), the Director of National Intelligence shall administer the program through the Office of the Director of National Intelligence.
 
     (c) __Identification of fields of study__ 
 
-        If the Director of National Intelligence carries out the program under subsection (a) of this section, the Director shall identify fields of study under subsection (a) of this section in consultation with the other heads of the elements of the intelligence community.
+        If the Director of National Intelligence carries out the program under subsection (a), the Director shall identify fields of study under subsection (a) in consultation with the other heads of the elements of the intelligence community.
 
     (d) __Eligibility for participation__ 
 
@@ -39,13 +39,13 @@
 
             (B) meets criteria for eligibility for employment in the intelligence community that are established by the Director of National Intelligence;
 
-        (2) is accepted in a graduate degree program in a field of study in science or technology identified under subsection (a) of this section; and
+        (2) is accepted in a graduate degree program in a field of study in science or technology identified under subsection (a); and
 
         (3) is eligible for a security clearance at the level of Secret or above.
 
     (e) __Regulations__ 
 
-        If the Director of National Intelligence carries out the program under subsection (a) of this section, the Director shall prescribe regulations for purposes of the administration of this section.
+        If the Director of National Intelligence carries out the program under subsection (a), the Director shall prescribe regulations for purposes of the administration of this section.
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1001, as added [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 331(a)(3), Nov. 27, 2002, [116 Stat. 2394][/us/stat/116/2394]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(a)(1)(MM), (3)(C)–(F), 1072(a)(8), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690, 3692.)
 

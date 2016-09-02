@@ -311,7 +311,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
  __Codification__ 
 
-    Chapter is comprised of the portions of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], as amended, that had not previously been repealed when the Act was editorially reclassifed as this chapter. As enacted, this Act contained titles I through VII. Titles II, IV, V, and VI of the Act were repealed by [Pub. L. 111–67][/us/pl/111/67], § 2(a)(2), Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007]. Titles I, III, and VII of the Act have been codified in this chapter to appear as subchapters I to III, respectively. For complete classification of this Act to the Code, see Tables.
+    Chapter is comprised of the portions of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], as amended, that had not previously been repealed when the Act was editorially reclassified as this chapter. As enacted, this Act contained titles I through VII. Titles II, IV, V, and VI of the Act were repealed by [Pub. L. 111–67][/us/pl/111/67], § 2(a)(2), Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007]. Titles I, III, and VII of the Act have been codified in this chapter to appear as subchapters I to III, respectively. For complete classification of this Act to the Code, see Tables.
 
  __Termination Date__ 
 

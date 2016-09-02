@@ -193,7 +193,7 @@
 
     Subsec. (b)(4). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(13), struck out reference to [section 3803(g) of this title][/us/usc/t50/s3803/g].
 
-    Subsec. (d)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(14), substituted “Secretary of Transportation” for “Secretary of the Treasury” and “[section 651 of Title 10][/us/usc/t10/s651]” for “[section 3803(d)(3) of this title][/us/usc/t50/s3803/d/3]”, respectively.
+    Subsec. (d)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(14), substituted “Secretary of Transportation” for “Secretary of the Treasury” and “[section 651 of Title 10][/us/usc/t10/s651]” for “[section 3803(d)(3) of this title][/us/usc/t50/s3803/d/3]”.
 
     Subsec. (d)(5). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(15), reflected creation of National Oceanic and Atmospheric Administration and transfer to such newly created Administration of former Coast and Geodetic Survey.
 

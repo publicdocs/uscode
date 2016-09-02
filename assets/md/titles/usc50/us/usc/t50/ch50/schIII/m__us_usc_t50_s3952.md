@@ -33,7 +33,7 @@
 
     (b) __Misdemeanor__ 
 
-        A person who knowingly resumes possession of property in violation of subsection (a), or in violation of [section 3918 of this title][/us/usc/t50/s3918], or who knowingly attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+        A person who knowingly resumes possession of property in violation of subsection (a), or in violation of [section 3918 of this title][/us/usc/t50/s3918], or who knowingly attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
     (c) __Authority of court__ 
 

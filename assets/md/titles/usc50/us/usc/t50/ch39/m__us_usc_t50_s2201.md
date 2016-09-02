@@ -21,7 +21,7 @@
 
     (b) __Terms and conditions__ 
 
-        Any transfer pursuant to subsection (a) of this section shall be subject to all of the terms, conditions, and requirements applicable to the transfer of property of the same type otherwise owned by the United States.
+        Any transfer pursuant to subsection (a) shall be subject to all of the terms, conditions, and requirements applicable to the transfer of property of the same type otherwise owned by the United States.
 
 ([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 552, Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482].)
 

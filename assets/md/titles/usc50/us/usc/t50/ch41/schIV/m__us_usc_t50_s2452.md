@@ -29,7 +29,7 @@
 
     The Administrator shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], each of the following:
 
-        (1) The plan required by subsection (b) of this section prepared with respect to that budget.
+        (1) The plan required by subsection (b) prepared with respect to that budget.
 
         (2)
 

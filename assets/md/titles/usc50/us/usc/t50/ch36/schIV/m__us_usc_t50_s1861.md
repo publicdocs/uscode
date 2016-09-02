@@ -181,7 +181,9 @@
 
     (g) __Minimization procedures__ 
 
-        (1) __In generalThe Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.__ 
+        (1) __In general__ 
+
+            The Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.
 
         (2) __Defined__ 
 
@@ -361,7 +363,7 @@
 
     Subsec. (d)(2)(B). [Pub. L. 114–23][/us/pl/114/23], § 102(b)(2)(B), substituted “an order or emergency production” for “an order”.
 
-    Subsec. (e). [Pub. L. 114–23][/us/pl/114/23], § 105, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A person who, in good faith, produces tangible things under an order pursuant to this section shall not be liable to any other person for such production. Such production shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.”
+    Subsec. (e). [Pub. L. 114–23][/us/pl/114/23], § 105, amended subsec. (e) generally. Prior to amendment, text read as follows: “A person who, in good faith, produces tangible things under an order pursuant to this section shall not be liable to any other person for such production. Such production shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.”
 
     Subsec. (f)(2)(A)(i). [Pub. L. 114–23][/us/pl/114/23], § 104(b)(1), substituted “the production order or any nondisclosure order imposed in connection with the production order” for “that order” and struck out at end “Not less than 1 year after the date of the issuance of the production order, the recipient of a production order may challenge the nondisclosure order imposed in connection with such production order by filing a petition to modify or set aside such nondisclosure order, consistent with the requirements of subparagraph (C), with the pool established by [section 1803(e)(1) of this title][/us/usc/t50/s1803/e/1].”
 
@@ -421,7 +423,7 @@
 
     Amendment by [section 102(b)(1) of Pub. L. 109–177][/us/pl/109/177/s102/b/1] effective Dec. 15, 2019, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 15, 2019, or with respect to any particular offense or potential offense that began or occurred before Dec. 15, 2019, see [section 102(b) of Pub. L. 109–177][/us/pl/109/177/s102/b], set out as a note under [section 1805 of this title][/us/usc/t50/s1805].
 
- __Rule of Construction__ 
+ __Construction of__  __[__  __Pub. L. 114–23__  __][/us/pl/114/23]__ 
 
 [Pub. L. 114–23, title I][/us/pl/114/23/tI], § 109(b), June 2, 2015, [129 Stat. 276][/us/stat/129/276], provided that: 
 
@@ -553,6 +555,7 @@
 [/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
 [/us/pl/109/177/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/114/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtI
 [/us/stat/129/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F276
 [/us/usc/t50/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1861

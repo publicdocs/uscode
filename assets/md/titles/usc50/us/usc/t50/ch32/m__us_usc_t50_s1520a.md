@@ -25,7 +25,7 @@
 
     (b) __Exceptions__ 
 
-    Subject to subsections (c), (d), and (e) of this section, the prohibition in subsection (a) of this section does not apply to a test or experiment carried out for any of the following purposes:
+    Subject to subsections (c), (d), and (e), the prohibition in subsection (a) does not apply to a test or experiment carried out for any of the following purposes:
 
         (1) Any peaceful purpose that is related to a medical, therapeutic, pharmaceutical, agricultural, industrial, or research activity.
 
@@ -35,7 +35,7 @@
 
     (c) __Informed consent required__ 
 
-        The Secretary of Defense may conduct a test or experiment described in subsection (b) of this section only if informed consent to the testing was obtained from each human subject in advance of the testing on that subject.
+        The Secretary of Defense may conduct a test or experiment described in subsection (b) only if informed consent to the testing was obtained from each human subject in advance of the testing on that subject.
 
     (d) __Prior notice to Congress__ 
 

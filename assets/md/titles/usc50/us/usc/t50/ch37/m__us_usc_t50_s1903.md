@@ -43,7 +43,7 @@
 
     (c) __Term of appointees__ 
 
-        Each individual appointed to the Board pursuant to subsection (b)(7) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+        Each individual appointed to the Board pursuant to subsection (b)(7) shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
 
     (d) __Functions__ 
 

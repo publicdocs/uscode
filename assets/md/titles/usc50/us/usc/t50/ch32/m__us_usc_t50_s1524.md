@@ -21,7 +21,7 @@
 
     (b) __Report__ 
 
-        Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the feasibility of providing Department of Defense support for vaccination programs under subsection (a) of this section and shall identify resource requirements that are not within the Department’s capability.
+        Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the feasibility of providing Department of Defense support for vaccination programs under subsection (a) and shall identify resource requirements that are not within the Department’s capability.
 
 ([Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1705, Nov. 30, 1993, [107 Stat. 1856][/us/stat/107/1856].)
 

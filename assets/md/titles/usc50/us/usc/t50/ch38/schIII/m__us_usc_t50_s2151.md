@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        Except as provided in subsections (b) and (c) of this section, all employees of the Agency, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
+        Except as provided in subsections (b) and (c), all employees of the Agency, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
 
     (b) __Exception for pre-1984 employees__ 
 
@@ -49,7 +49,7 @@
 
     (e) __Special rules__ 
 
-        The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) of this section shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+        The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
 
 ([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 301, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3243][/us/stat/106/3243].)
 

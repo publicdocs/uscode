@@ -21,13 +21,13 @@
 
          Notwithstanding any other provision of law, money appropriated to the Department of Commerce for expenses to carry out the purposes of this chapter may be obligated or expended only if—
 
-            (A) the appropriation thereof has been previously authorized by law enacted on or after the date of the enactment of the Export Administration Amendments Act of 1985; or
+            (A) the appropriation thereof has been previously authorized by law enacted on or after July 12, 1985; or
 
             (B) the amount of all such obligations and expenditures does not exceed an amount previously prescribed by law enacted on or after such date.
 
         (2) To the extent that legislation enacted after the making of an appropriation to carry out the purposes of this chapter authorizes the obligation or expenditure thereof, the limitation contained in paragraph (1) shall have no effect.
 
-        (3) The provisions of this subsection shall not be superseded except by a provision of law enacted after the date of the enactment of the Export Administration Amendments Act of 1985 which specifically repeals, modifies, or supersedes the provisions of this subsection.
+        (3) The provisions of this subsection shall not be superseded except by a provision of law enacted after July 12, 1985, which specifically repeals, modifies, or supersedes the provisions of this subsection.
 
     (b) __Authorization__ 
 
@@ -48,8 +48,6 @@
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
-
-    The date of the enactment of the Export Administration Amendments Act of 1985, referred to in subsec. (a)(1)(A), (3), is the date of enactment of titles I and II of [Pub. L. 99–64][/us/pl/99/64], which Act was approved July 12, 1985.
 
  __Codification__ 
 
@@ -116,7 +114,6 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604

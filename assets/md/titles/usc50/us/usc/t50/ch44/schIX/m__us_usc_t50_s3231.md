@@ -21,7 +21,7 @@
 
     (b) __Authorized intelligence activities__ 
 
-        An intelligence activity shall be treated as authorized for purposes of subsection (a) of this section if the intelligence activity is authorized by an appropriate official of the United States Government, acting within the scope of the official duties of that official and in compliance with Federal law and any applicable Presidential directive.
+        An intelligence activity shall be treated as authorized for purposes of subsection (a) if the intelligence activity is authorized by an appropriate official of the United States Government, acting within the scope of the official duties of that official and in compliance with Federal law and any applicable Presidential directive.
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1101, formerly title X, § 1001, as added [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 308(a), Dec. 27, 2000, [114 Stat. 2839][/us/stat/114/2839]; renumbered title XI, § 1101, [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 331(a)(1), (2), Nov. 27, 2002, [116 Stat. 2394][/us/stat/116/2394].)
 

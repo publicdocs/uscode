@@ -21,7 +21,7 @@
 
     (b) __Requirements and priorities__ 
 
-        The Director of National Intelligence shall establish requirements and priorities governing the collection of national intelligence by the National Geospatial-Intelligence Agency under subsection (a) of this section.
+        The Director of National Intelligence shall establish requirements and priorities governing the collection of national intelligence by the National Geospatial-Intelligence Agency under subsection (a).
 
     (c) __Correction of deficiencies__ 
 

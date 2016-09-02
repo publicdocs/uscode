@@ -205,11 +205,11 @@
 
     [Act Mar. 31, 1947, ch. 26][/us/act/1947-03-31/ch26], [61 Stat. 31][/us/stat/61/31]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 507(c), Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919], related to liquidation of the Selective Service System established by the Selective Training and Service Act of 1940 \[[act Sept. 16, 1940, ch. 720][/us/act/1940-09-16/ch720], [54 Stat. 885][/us/stat/54/885], see Tables for classification\] and establishment of the Office of Selective Service Records for the preservation of Selective Service records accumulated under the 1940 Act, prior to termination of the Office and transfer of its functions and the functions of its Director to the Selective Service System under this chapter and the Director of Selective Service under this chapter. See subsec. (a)(4) of this section.
 
-    [Act Mar. 31, 1947, ch. 26][/us/act/1947-03-31/ch26], classified as a note above, was formerly classified to sections 321 to 329 of the former Appendix to this title prior to editorial reclassification as this note.
+    \[[Act Mar. 31, 1947, ch. 26][/us/act/1947-03-31/ch26], classified as a note above, was formerly classified to sections 321 to 329 of the former Appendix to this title prior to editorial reclassification as this note.\]
 
     [Pub. L. 85–844, title I][/us/pl/85/844/tI], Aug. 28, 1958, [72 Stat. 1073][/us/stat/72/1073], related to use of Selective Service System appropriations for destruction of records accumulated under the Selective Training and Service Act of 1940 \[[act Sept. 16, 1940, ch. 720][/us/act/1940-09-16/ch720], [54 Stat. 885][/us/stat/54/885], see Tables for classification\].
 
-    Title I of [Pub. L. 85–844][/us/pl/85/844], classified as a note above, was formerly classified to section 330 of the former Appendix to this title prior to editorial reclassification as this note.
+    \[Title I of [Pub. L. 85–844][/us/pl/85/844], classified as a note above, was formerly classified to section 330 of the former Appendix to this title prior to editorial reclassification as this note.\]
 
  __Ex. Ord. No. 10271. Delegation of President’s Authority__ 
 

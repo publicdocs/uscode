@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    Section 301(e), referred to in subsec. (a)(2)(D), probably should be a reference to section 304(e), meaning [section 304(e) of Pub. L. 95–511][/us/pl/95/511/s304/e], which is classified to [section 1824(e) of this title][/us/usc/t50/s1824/e] and relates to authorizations and orders for emergency physical searches. [Section 301 of Pub. L. 95–511][/us/pl/95/511/s301], which is classified to [section 1821 of this title][/us/usc/t50/s1821], relates to definitions for terms used in subchapter II of this chapter and does not contain a subsec. (e).
+    Section 301, referred to in subsec. (a)(2)(D), means [section 301 of Pub. L. 95–511][/us/pl/95/511/s301], which is classified to [section 1821 of this title][/us/usc/t50/s1821], relates to definitions for terms used in subchapter II of this chapter, and does not contain a subsec. (e). [Section 304(e) of Pub. L. 95–511][/us/pl/95/511/s304/e], which is classified to [section 1824(e) of this title][/us/usc/t50/s1824/e], relates to authorizations and orders for emergency physical searches.
 
     This chapter, referred to in subsec. (b), was in the original “this Act”, meaning [Pub. L. 95–511][/us/pl/95/511], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
@@ -83,10 +83,10 @@
 [/us/stat/122/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2462
 [/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F297
-[/us/pl/95/511/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs304%2Fe
-[/us/usc/t50/s1824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824%2Fe
 [/us/pl/95/511/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs301
 [/us/usc/t50/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1821
+[/us/pl/95/511/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs304%2Fe
+[/us/usc/t50/s1824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824%2Fe
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

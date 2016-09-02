@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+        An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
             (A) the unreduced amount of the participant’s or retired participant’s annuity, as computed under [section 2031(a) of this title][/us/usc/t50/s2031/a]; or
 
@@ -77,7 +77,7 @@
 
     (e) __Restoration of annuity__ 
 
-        Notwithstanding subsection (d)(1) of this section, the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
+        Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).
 
 ([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 224, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3217][/us/stat/106/3217]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(6), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 

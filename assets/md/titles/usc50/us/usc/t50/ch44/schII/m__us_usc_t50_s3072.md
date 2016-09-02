@@ -21,7 +21,7 @@
 
     (b) __Inapplicability of certain requirements__ 
 
-        Contracts under subsection (a) of this section shall not be subject to the annuity offset requirements of sections 8344 and 8468 of title 5, the requirements of [section 3109 of title 5][/us/usc/t5/s3109], or any law or regulation requiring competitive contracting.
+        Contracts under subsection (a) shall not be subject to the annuity offset requirements of sections 8344 and 8468 of title 5, the requirements of [section 3109 of title 5][/us/usc/t5/s3109], or any law or regulation requiring competitive contracting.
 
     (c) __Contract to be appropriate means of securing services__ 
 

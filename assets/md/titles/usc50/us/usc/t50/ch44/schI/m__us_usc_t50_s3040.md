@@ -27,7 +27,7 @@
 
     (c) __Procedures__ 
 
-        The Attorney General shall develop procedures for the administration of this section, including the disclosure of foreign intelligence by elements of the Department of Justice, and elements of other departments and agencies of the Federal Government, under subsection (a) of this section and the provision of notice with respect to criminal investigations under subsection (b) of this section.
+        The Attorney General shall develop procedures for the administration of this section, including the disclosure of foreign intelligence by elements of the Department of Justice, and elements of other departments and agencies of the Federal Government, under subsection (a) and the provision of notice with respect to criminal investigations under subsection (b).
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105B, as added [Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 905(a)(2), Oct. 26, 2001, [115 Stat. 388][/us/stat/115/388]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(G), (H), (2)(B), (C), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690.)
 

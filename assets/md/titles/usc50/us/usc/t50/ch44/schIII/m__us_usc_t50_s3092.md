@@ -25,7 +25,7 @@
 
     (b) __Form and contents of certain reports__ 
 
-    Any report relating to a significant anticipated intelligence activity or a significant intelligence failure that is submitted to the congressional intelligence committees for purposes of subsection (a)(1) of this section shall be in writing, and shall contain the following:
+    Any report relating to a significant anticipated intelligence activity or a significant intelligence failure that is submitted to the congressional intelligence committees for purposes of subsection (a)(1) shall be in writing, and shall contain the following:
 
         (1) A concise statement of any facts pertinent to such report.
 
@@ -33,7 +33,7 @@
 
     (c) __Standards and procedures for certain reports__ 
 
-        The Director of National Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a) of this section, shall establish standards and procedures applicable to reports covered by subsection (b) of this section.
+        The Director of National Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a), shall establish standards and procedures applicable to reports covered by subsection (b).
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 502, as added [Pub. L. 102–88, title VI][/us/pl/102/88/tVI], § 602(a)(2), Aug. 14, 1991, [105 Stat. 442][/us/stat/105/442]; amended [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 305, Dec. 28, 2001, [115 Stat. 1398][/us/stat/115/1398]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(3)(B), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(W), (X), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 331(b), Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685].)
 

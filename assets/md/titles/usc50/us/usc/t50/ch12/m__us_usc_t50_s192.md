@@ -29,13 +29,13 @@
 
     (d) __In rem liability__ 
 
-        Any vessel that is used in violation of this title,1 or of any regulation issued under this title,1 shall be liable in rem for any civil penalty assessed pursuant to subsection (c) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+        Any vessel that is used in violation of this title,1 or of any regulation issued under this title,1 shall be liable in rem for any civil penalty assessed pursuant to subsection (c) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
     (e) __Withholding of clearance__ 
 
         (1) __In general__ 
 
-            If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by [section 60105 of title 46][/us/usc/t46/s60105].
+            If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by [section 60105 of title 46][/us/usc/t46/s60105].
 
         (2) __Clearance upon filing of bond or other surety__ 
 

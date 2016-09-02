@@ -239,7 +239,7 @@
 
     (c) __Confidentiality of information__ 
 
-        Any information or documentary material filed with the President or the President’s designee pursuant to this section shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552] and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this subsection shall be construed to prevent disclosure to either House of Congress or to any duly authorized committee or subcommittee of the Congress.
+        Any information or documentary material filed with the President or the President’s designee pursuant to this section shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this subsection shall be construed to prevent disclosure to either House of Congress or to any duly authorized committee or subcommittee of the Congress.
 
     (d) __Action by the President__ 
 

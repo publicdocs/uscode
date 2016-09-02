@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
+            Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a), such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
 
         (2) __Pro rata share for former spouse__ 
 
@@ -81,19 +81,19 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under [section 2054 of this title][/us/usc/t50/s2054] dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c) of this section.
+            Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under [section 2054 of this title][/us/usc/t50/s2054] dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c).
 
         (2) __Limitation__ 
 
-            In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b) of this section, the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
+            In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b), the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
 
     (e) __Termination of all annuity rights__ 
 
-        If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c) of this section.
+        If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c).
 
     (f) __Payment of accrued and unpaid annuity when retired participant dies__ 
 
-        If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c) of this section.
+        If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c).
 
     (g) __Termination of survivor annuity__ 
 

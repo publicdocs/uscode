@@ -23,7 +23,7 @@
 
     The Attorney General shall cover into the Treasury, to the credit of miscellaneous receipts, all sums from property vested in or transferred to the Attorney General under this chapter—
 
-        (1) which the Attorney General receives after the date of the enactment of the Export Enhancement Act of 1988, or
+        (1) which the Attorney General receives after August 23, 1988, or
 
         (2) which the Attorney General received before that date and which, as of that date, the Attorney General had not covered into the Treasury for deposit in the War Claims Fund, other than any such sums which the Attorney General determines in his or her discretion are the subject matter of any judicial action or proceeding.
 
@@ -38,8 +38,6 @@
     This chapter, referred to in text, was in the original “this Act”, meaning [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title][/us/usc/t50/s4301] and Tables.
 
     The Philippine Property Act of 1946, referred to in subsec. (a), is [act July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], [60 Stat. 418][/us/stat/60/418], which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1381 of Title 22][/us/usc/t22/s1381] and Tables.
-
-    The date of the enactment of the Export Enhancement Act of 1988, referred to in subsec. (b)(1), is the date of enactment of title II of [Pub. L. 100–418][/us/pl/100/418], which was approved Aug. 23, 1988.
 
  __Codification__ 
 
@@ -94,7 +92,6 @@
 [/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F418
 [/us/usc/t22/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1381
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/89/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F619

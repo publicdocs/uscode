@@ -21,7 +21,7 @@
 
     (b) __Availability of funds__ 
 
-        Amounts made available under subsection (a) of this section shall remain available until expended.
+        Amounts made available under subsection (a) shall remain available until expended.
 
 ([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 812, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 603(b), Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954].)
 

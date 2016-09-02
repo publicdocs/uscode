@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter. All funds appropriated for the administrative expenses of the National Security Training Commission shall be appropriated directly to the Commission and all funds appropriated to pay the expenses of training carried out by the military departments designated by the Commission shall be appropriated directly to the Department of Defense.
 
-    (c) Notwithstanding any other provisions of this chapter, no person shall be inducted for training and service in the Armed Forces after July 1, 1973, except persons now or hereafter deferred under [section 3806 of this title][/us/usc/t50/s3806] after the basis for such deferment ceases to exist.
+    (c) Notwithstanding any other provisions of this chapter, no person shall be inducted for training and service in the Armed Forces after July 1, 1973, except persons now or hereafter deferred under section 3806 of this chapter after the basis for such deferment ceases to exist.
 
 ([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 17, [62 Stat. 625][/us/stat/62/625]; [June 23, 1950, ch. 351][/us/act/1950-06-23/ch351], [64 Stat. 254][/us/stat/64/254]; [June 30, 1950, ch. 445][/us/act/1950-06-30/ch445], § 1, [64 Stat. 318][/us/stat/64/318]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(w), [65 Stat. 87][/us/stat/65/87]; [June 30, 1955, ch. 250][/us/act/1955-06-30/ch250], title I, § 102, [69 Stat. 224][/us/stat/69/224]; [Pub. L. 86–4][/us/pl/86/4], § 1, Mar. 23, 1959, [73 Stat. 13][/us/stat/73/13]; [Pub. L. 88–2][/us/pl/88/2], § 1, Mar. 28, 1963, [77 Stat. 4][/us/stat/77/4]; [Pub. L. 90–40][/us/pl/90/40], § 1(12), June 30, 1967, [81 Stat. 105][/us/stat/81/105]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(35), Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353].)
 
@@ -64,7 +64,6 @@
 ----------
 ----------
 
-[/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F625
 [/us/act/1950-06-23/ch351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-23%2Fch351

@@ -25,7 +25,7 @@
 
     (c) __Referral to other House committee__ 
 
-        Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) of this section and shall be reported out not later than fourteen calendar days before the expiration of the sixty-day period specified in [section 1544(b) of this title][/us/usc/t50/s1544/b]. The joint resolution or bill so reported shall become the pending business of the House in question and shall be voted on within three calendar days after it has been reported, unless such House shall otherwise determine by yeas and nays.
+        Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out not later than fourteen calendar days before the expiration of the sixty-day period specified in [section 1544(b) of this title][/us/usc/t50/s1544/b]. The joint resolution or bill so reported shall become the pending business of the House in question and shall be voted on within three calendar days after it has been reported, unless such House shall otherwise determine by yeas and nays.
 
     (d) __Disagreement between Houses__ 
 

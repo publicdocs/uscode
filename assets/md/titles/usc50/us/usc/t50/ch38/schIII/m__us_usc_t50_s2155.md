@@ -21,7 +21,7 @@
 
     (b) __Exception__ 
 
-        Notwithstanding subsection (a) of this section, [section 8461(e) of title 5][/us/usc/t5/s8461/e] shall apply with respect to employees of the Agency who are not participants in the Central Intelligence Agency Retirement and Disability System and are not designated under [section 2152(a) of this title][/us/usc/t50/s2152/a].
+        Notwithstanding subsection (a), [section 8461(e) of title 5][/us/usc/t5/s8461/e] shall apply with respect to employees of the Agency who are not participants in the Central Intelligence Agency Retirement and Disability System and are not designated under [section 2152(a) of this title][/us/usc/t50/s2152/a].
 
 ([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 305, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3251][/us/stat/106/3251].)
 

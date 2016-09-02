@@ -17,7 +17,7 @@
 
     (a) __General definitions__ 
 
-    When used in subchapter II of this chapter:
+    When used in subchapter II:
 
         (1) __Former participant__ 
 
@@ -131,7 +131,7 @@
 
         (3) __“Dependent” defined__ 
 
-            For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
+            For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II.
 
         (4) __Exclusion of stepchildren from lump-sum payment__ 
 

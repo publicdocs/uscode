@@ -69,7 +69,7 @@
 
     (c) __Misdemeanor__ 
 
-        Except as provided in subsection (a), a person who knowingly takes part in an eviction or distress described in subsection (a), or who knowingly attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+        Except as provided in subsection (a), a person who knowingly takes part in an eviction or distress described in subsection (a), or who knowingly attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
     (d) __Rent allotment from pay of servicemember__ 
 

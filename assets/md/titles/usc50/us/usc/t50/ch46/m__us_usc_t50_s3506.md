@@ -37,7 +37,7 @@
 
         (1)
 
-         The authority to enter into a multiyear lease under subsection (a)(7) of this section shall be subject to appropriations provided in advance for—
+         The authority to enter into a multiyear lease under subsection (a)(7) shall be subject to appropriations provided in advance for—
 
             (A) the entire lease; or
 

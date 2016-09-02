@@ -45,7 +45,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 103 of acts [Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, [54 Stat. 1179][/us/stat/54/1179]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], §§ 2, 3, [56 Stat. 769][/us/stat/56/769]; [Pub. L. 102–12][/us/pl/102/12], § 9(3), Mar. 18, 1991, [105 Stat. 39][/us/stat/105/39], related to protection of persons secondarily liable, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 103 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, [54 Stat. 1179][/us/stat/54/1179]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], §§ 2, 3, [56 Stat. 769][/us/stat/56/769]; [Pub. L. 102–12][/us/pl/102/12], § 9(3), Mar. 18, 1991, [105 Stat. 39][/us/stat/105/39], related to protection of persons secondarily liable, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 

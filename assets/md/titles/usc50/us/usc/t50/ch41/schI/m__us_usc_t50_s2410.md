@@ -37,7 +37,7 @@
 
     (c) __Construction of section__ 
 
-    Subsections (a) and (b) of this section may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
+    Subsections (a) and (b) may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
 
         (1) the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility; and
 

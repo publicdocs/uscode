@@ -17,17 +17,17 @@
 
     (a) __Inventory of rapid response assets__ 
 
-        (1) The head of each Federal Response Plan agency shall develop and maintain an inventory of physical equipment and assets under the jurisdiction of that agency that could be made available to aid State and local officials in search and rescue and other disaster management and mitigation efforts associated with an emergency involving weapons of mass destruction. The agency head shall submit a copy of the inventory, and any updates of the inventory, to the Administrator of the Federal Emergency Management Agency for inclusion in the master inventory required under subsection (b) of this section.
+        (1) The head of each Federal Response Plan agency shall develop and maintain an inventory of physical equipment and assets under the jurisdiction of that agency that could be made available to aid State and local officials in search and rescue and other disaster management and mitigation efforts associated with an emergency involving weapons of mass destruction. The agency head shall submit a copy of the inventory, and any updates of the inventory, to the Administrator of the Federal Emergency Management Agency for inclusion in the master inventory required under subsection (b).
 
         (2) Each inventory shall include a separate listing of any equipment that is excess to the needs of that agency and could be considered for disposal as excess or surplus property for use for response and training with regard to emergencies involving weapons of mass destruction.
 
     (b) __Master inventory__ 
 
-        The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a) of this section. The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
+        The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
 
     (c) __Addition to Federal response plan__ 
 
-        Not later than December 31, 1997, the Administrator of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and programs prepared under [section 5196(b) of title 42][/us/usc/t42/s5196/b] guidance on accessing and using the physical equipment and assets included in the master list developed under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b) of this section”. </sup></sup>  to respond to emergencies involving weapons of mass destruction.
+        Not later than December 31, 1997, the Administrator of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and programs prepared under [section 5196(b) of title 42][/us/usc/t42/s5196/b] guidance on accessing and using the physical equipment and assets included in the master list developed under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b)”. </sup></sup>  to respond to emergencies involving weapons of mass destruction.
 
     (d) __Database on chemical and biological materials__ 
 

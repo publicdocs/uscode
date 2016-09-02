@@ -47,7 +47,7 @@
 
     (5) the term “Board” means the Civil Liberties Public Education Fund Board of Directors established in [section 4216 of this title][/us/usc/t50/s4216]; and
 
-    (6) the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act.
+    (6) the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act ([Public Law 96–317][/us/pl/96/317]; 50 U.S.C. App. 1981 note). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
 ([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 108, Aug. 10, 1988, [102 Stat. 910][/us/stat/102/910]; [Pub. L. 102–371][/us/pl/102/371], § 3, Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167].)
 
@@ -57,7 +57,7 @@
 
     The Act entitled “An Act to provide a penalty for violation of restrictions or orders with respect to persons entering, remaining in, leaving, or committing any act in military areas or zones”, approved March 21, 1942 ([56 Stat. 173][/us/stat/56/173]), referred to in par. (2)(B)(i)(II), is [act Mar. 21, 1942, ch. 191][/us/act/1942-03-21/ch191], [56 Stat. 173][/us/stat/56/173], which was classified to section 97a of former Title 18, Criminal Code and Criminal Procedure, and was repealed by [act of June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 868][/us/stat/62/868] and reenacted as [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure. [Section 1383 of Title 18][/us/usc/t18/s1383] was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(e), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
-    The Commission on Wartime Relocation and Internment of Civilians Act, referred to in par. (6), is [Pub. L. 96–317][/us/pl/96/317], July 31, 1980, [94 Stat. 964][/us/stat/94/964], which was classified as a note under section 1981 of the former Appendix to this title and was omitted from the Code due to termination of Commission not later than 90 days after June 30, 1983.
+    The Commission on Wartime Relocation and Internment of Civilians Act, referred to in par. (6), is [Pub. L. 96–317][/us/pl/96/317], July 31, 1980, [94 Stat. 964][/us/stat/94/964], which was classified as a note under section 1981 of the former Appendix to this title and was omitted from the Code due to termination of the Commission not later than 90 days after June 30, 1983.
 
  __Codification__ 
 
@@ -77,6 +77,7 @@
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
 [/us/usc/t50/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4214
 [/us/usc/t50/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4216
+[/us/pl/96/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F317
 [/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F910
 [/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371

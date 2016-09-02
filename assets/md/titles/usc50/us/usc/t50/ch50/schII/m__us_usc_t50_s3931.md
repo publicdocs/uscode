@@ -43,7 +43,7 @@
 
     (c) __Penalty for making or using false affidavit__ 
 
-        A person who makes or uses an affidavit permitted under subsection (b) (or a statement, declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+        A person who makes or uses an affidavit permitted under subsection (b) (or a statement, declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
     (d) __Stay of proceedings__ 
 

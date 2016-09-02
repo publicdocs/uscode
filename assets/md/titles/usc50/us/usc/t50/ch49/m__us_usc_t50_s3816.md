@@ -25,7 +25,7 @@
 
     (c) __Failure to give precedence; Government possession__ 
 
-    In case any person with whom an order is placed pursuant to the provisions of subsection (a) of this section refuses or fails—
+    In case any person with whom an order is placed pursuant to the provisions of subsection (a) refuses or fails—
 
         (1) to give such order such precedence with respect to all other orders (Government or private) theretofore or thereafter placed with such person as the President may have prescribed;
 
@@ -39,7 +39,7 @@
 
     (d) __Payment of compensation by United States__ 
 
-        Fair and just compensation shall be paid by the United States (1) for any articles or materials furnished pursuant to an order placed under subsection (a) of this section, or (2) as rental for any plant, mine, or other facility of which possession is taken under subsection (c).
+        Fair and just compensation shall be paid by the United States (1) for any articles or materials furnished pursuant to an order placed under subsection (a), or (2) as rental for any plant, mine, or other facility of which possession is taken under subsection (c).
 
     (e) __Application of Federal and State laws governing employees__ 
 

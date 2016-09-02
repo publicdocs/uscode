@@ -17,7 +17,7 @@
 
     (a) __Under Secretary of Commerce__ 
 
-        The President shall appoint, by and with the advice and consent of the Senate, an Under Secretary of Commerce for Export Administration who shall carry out all functions of the Secretary under this chapter and such other statutes that relate to national security which were delegated to the office of the Assistant Secretary of Commerce for Trade Administration before the date of the enactment of the Export Administration Amendments Act of 1985, and such other functions under this chapter which were delegated to such office before such date of enactment, as the Secretary may delegate. The President shall appoint, by and with the advice and consent of the Senate, two Assistant Secretaries of Commerce to assist the Under Secretary in carrying out such functions.
+        The President shall appoint, by and with the advice and consent of the Senate, an Under Secretary of Commerce for Export Administration who shall carry out all functions of the Secretary under this chapter and such other statutes that relate to national security which were delegated to the office of the Assistant Secretary of Commerce for Trade Administration before July 12, 1985, and such other functions under this chapter which were delegated to such office before such date of enactment, as the Secretary may delegate. The President shall appoint, by and with the advice and consent of the Senate, two Assistant Secretaries of Commerce to assist the Under Secretary in carrying out such functions.
 
     (b) __Issuance of regulations__ 
 
@@ -36,8 +36,6 @@
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
-
-    The date of the enactment of the Export Administration Amendments Act of 1985, referred to in subsec. (a), is the date of enactment of titles I and II of [Pub. L. 99–64][/us/pl/99/64], which Act was approved July 12, 1985.
 
  __Codification__ 
 
@@ -86,7 +84,6 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64

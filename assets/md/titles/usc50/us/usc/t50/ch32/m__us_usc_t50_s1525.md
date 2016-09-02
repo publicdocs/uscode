@@ -21,7 +21,7 @@
 
     (b) __Reimbursement requirement__ 
 
-        The Secretary may provide assistance under subsection (a) of this section only to the extent that the Secretary determines that the Department of Defense will be reimbursed for costs incurred in providing the assistance. The United States National Authority may provide such reimbursement from amounts available to it. Any such reimbursement shall be credited to amounts available for the On-Site Inspection Agency.
+        The Secretary may provide assistance under subsection (a) only to the extent that the Secretary determines that the Department of Defense will be reimbursed for costs incurred in providing the assistance. The United States National Authority may provide such reimbursement from amounts available to it. Any such reimbursement shall be credited to amounts available for the On-Site Inspection Agency.
 
     (c) __Definitions__ 
 

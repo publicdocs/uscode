@@ -71,9 +71,7 @@
 
     1956—Subsec. (h). Act Aug. 6, 1956, added subsec. (h).
 
-    1952—Subsec. (a). Subsec. constituted entire section prior to amendment by act Apr. 9, 1952.
-
-    Subsecs. (b) to (g). Act Apr. 9, 1952, added subsecs. (b) to (g).
+    1952—Act Apr. 9, 1952, designated existing provisions as subsec. (a) and added subsecs. (b) to (g).
 
  __Transfer of Functions__ 
 

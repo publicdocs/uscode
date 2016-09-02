@@ -193,13 +193,13 @@
 
         (3) For purposes of this subsection, the term “barter agreement” means any agreement which is made for the exchange, without monetary consideration, of any goods produced in the United States for any goods produced outside of the United States.
 
-        (4) This subsection shall apply only with respect to barter agreements entered into after September 30, 1979.
+        (4) This subsection shall apply only with respect to barter agreements entered into after the effective date of this Act \[September 30, 1979\].
 
     (i) __Unprocessed red cedar__ 
 
         (1)
 
-         The Secretary shall require a validated license, under the authority contained in subsection (a) of this section, for the export of unprocessed western red cedar (Thuja plicata) logs, harvested from State or Federal lands. The Secretary shall impose quantitative restrictions upon the export of unprocessed western red cedar logs during the 3-year period beginning on September 30, 1979, as follows:
+         The Secretary shall require a validated license, under the authority contained in subsection (a) of this section, for the export of unprocessed western red cedar (Thuja plicata) logs, harvested from State or Federal lands. The Secretary shall impose quantitative restrictions upon the export of unprocessed western red cedar logs during the 3-year period beginning on the effective date of this Act \[September 30, 1979\] as follows:
 
             (A) Not more than thirty million board feet scribner of such logs may be exported during the first year of such 3-year period.
 
@@ -258,6 +258,8 @@
     Section 7(g)(3) of the Export Administration Act of 1979, referred to in subsec. (g)(4)(A), is [section 7(g)(3) of Pub. L. 96–72][/us/pl/96/72/s7/g/3], which is classified to subsec. (g)(3) of this section.
 
     Section 601(b)(4) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g)(4)(E), is [section 601(b)(4) of Pub. L. 94–329][/us/pl/94/329/s601/b/4], June 30, 1976, [90 Stat. 729][/us/stat/90/729], which made provision for expedited procedures in the Senate, and is not classified to the Code.
+
+    For the effective date of this Act, referred to in subsecs. (h)(4) and (i)(1), as Sept. 30, 1979, see [section 4621 of this title][/us/usc/t50/s4621] and References in Text notes set out thereunder.
 
  __Codification__ 
 
@@ -385,6 +387,7 @@ In making continuing appropriations for fiscal year 1981, [Pub. L. 96–536][/us
 [/us/pl/96/72/s7/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs7%2Fg%2F3
 [/us/pl/94/329/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb%2F4
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
+[/us/usc/t50/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4621
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F845
 [/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI

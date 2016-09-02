@@ -43,13 +43,13 @@
 
     (c) __National security waiver__ 
 
-        The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) of this section are being met.
+        The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) are being met.
 
     (d) __Report to Congress__ 
 
         (1) Not later than nine months after the implementation of this chapter, the President shall submit to Congress, in classified form if necessary, the findings and recommendations of the President’s Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counter Proliferation Center.
 
-        (2) If the President decides not to exercise the waiver authority granted by subsection (c) of this section, the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counter Proliferation Center.
+        (2) If the President decides not to exercise the waiver authority granted by subsection (c), the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counter Proliferation Center.
 
     (e) __Sense of Congress__ 
 

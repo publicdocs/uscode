@@ -29,7 +29,7 @@
 
     Subject to the direction and control of the Director of National Intelligence, the duties of the National Counterintelligence Executive are as follows:
 
-        (1) To carry out the mission referred to in subsection (b) of this section.
+        (1) To carry out the mission referred to in subsection (b).
 
         (2) To act as chairperson of the National Counterintelligence Policy Board under [section 3381 of this title][/us/usc/t50/s3381].
 

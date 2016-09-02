@@ -21,7 +21,7 @@
 
     (b) __Authority for reimbursement of costs of tuition and training__ 
 
-        (1) The Director of National Intelligence may reimburse an employee assigned under subsection (a) of this section for the total cost of the training described in that subsection, including costs of educational and supplementary reading materials.
+        (1) The Director of National Intelligence may reimburse an employee assigned under subsection (a) for the total cost of the training described in that subsection, including costs of educational and supplementary reading materials.
 
         (2) The authority under paragraph (1) shall apply to employees who are assigned on a full-time or part-time basis.
 

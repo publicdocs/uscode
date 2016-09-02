@@ -101,7 +101,7 @@
 
     Proc. No. 8271, June 26, 2008, 73 F.R. 36785, provided:
 
-    I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including [section 101(b) of Public Law 95–223][/us/pl/95/223/s101/b] ([91 Stat. 1625][/us/stat/91/1625]; 50 U.S.C. App. 5(b) note) \[now [50 U.S.C. 4305][/us/usc/t50/s4305] note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 1][/us/usc/t50/s1] et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September 13, 2007 (72 FR 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
+    I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including [section 101(b) of Public Law 95–223][/us/pl/95/223/s101/b] ([91 Stat. 1625][/us/stat/91/1625]; 50 U.S.C. App. 5(b) note) \[now [50 U.S.C. 4305][/us/usc/t50/s4305] note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September 13, 2007 (72 FR 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
 
     Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500, and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
 
@@ -468,7 +468,7 @@ A. All of the following transactions are prohibited, except as specifically auth
 [/us/pl/95/223/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs101%2Fb
 [/us/stat/91/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1625
 [/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
-[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1917-10-06/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5%2Fb
 [/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb

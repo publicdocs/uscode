@@ -25,7 +25,7 @@
 
     (b) __Annual revisions of programs__ 
 
-        The Secretary of Homeland Security shall revise the program developed under subsection (a) of this section not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
+        The Secretary of Homeland Security shall revise the program developed under subsection (a) not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
 
 ([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1415, Sept. 23, 1996, [110 Stat. 2720][/us/stat/110/2720]; [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3154(a), Dec. 2, 2002, [116 Stat. 2738][/us/stat/116/2738]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1032, Jan. 6, 2006, [119 Stat. 3428][/us/stat/119/3428].)
 
@@ -39,7 +39,7 @@
 
     Subsec. (a)(3). [Pub. L. 109–163][/us/pl/109/163], § 1032(a)(4), inserted “the Secretary of Defense,” before “the Director of the Federal Bureau of Investigation” and struck out “the Director of the Federal Emergency Management Agency,” before “the Secretary of Energy,”.
 
-    Subsecs. (b), (c). [Pub. L. 109–163][/us/pl/109/163], § 1032(b), (c), redesignated subsec. (c) as (b), substituted “The Secretary of Homeland Security shall revise the program developed under subsection (a) of this section” for “The official responsible for carrying out a program developed under subsection (a) or (b) of this section shall revise the program” in first sentence and “the Secretary” for “the official” in second sentence, and struck out heading and text of former subsec. (b) which related to emergencies involving nuclear and radiological weapons.
+    Subsecs. (b), (c). [Pub. L. 109–163][/us/pl/109/163], § 1032(b), (c), redesignated subsec. (c) as (b), substituted “The Secretary of Homeland Security shall revise the program developed under subsection (a)” for “The official responsible for carrying out a program developed under subsection (a) or (b) shall revise the program” in first sentence and “the Secretary” for “the official” in second sentence, and struck out heading and text of former subsec. (b) which related to emergencies involving nuclear and radiological weapons.
 
     Subsecs. (d), (e). [Pub. L. 109–163][/us/pl/109/163], § 1032(d), struck out heading and text of subsecs. (d) and (e) which related to option to transfer responsibility for programs under this section and to funding, respectively.
 

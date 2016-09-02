@@ -21,7 +21,7 @@
 
     (b) __Other facilities__ 
 
-        The Secretary of Energy shall, at each Administration facility not described in subsection (a) of this section at which Restricted Data is located, assign an employee of the Office of Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
+        The Secretary of Energy shall, at each Administration facility not described in subsection (a) at which Restricted Data is located, assign an employee of the Office of Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
 
 ([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3233, Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961]; [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3117(a)(2)(C), (c), Oct. 17, 2006, [120 Stat. 2507][/us/stat/120/2507], 2508; [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3121, Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710].)
 

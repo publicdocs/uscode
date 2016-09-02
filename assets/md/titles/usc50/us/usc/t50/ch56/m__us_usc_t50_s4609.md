@@ -143,7 +143,7 @@
 
     (m) __Small business assistance__ 
 
-        Not later than 120 days after July 12, 1985, the Secretary shall develop and transmit to the Congress a plan to assist small businesses in the export licensing application process under this chapter. The plan shall include, among other things, arrangements for counseling small businesses on filing applications and identifying goods or technology on the control list, proposals for seminars and conferences to educate small businesses on export controls and licensing procedures, and the preparation of informational brochures. The Secretary shall, not later than 120 days after the date of the enactment of the Export Enhancement Act of 1988, report to the Congress on steps taken to implement the plan developed under this subsection to assist small businesses in the export licensing application process.
+        Not later than 120 days after July 12, 1985, the Secretary shall develop and transmit to the Congress a plan to assist small businesses in the export licensing application process under this chapter. The plan shall include, among other things, arrangements for counseling small businesses on filing applications and identifying goods or technology on the control list, proposals for seminars and conferences to educate small businesses on export controls and licensing procedures, and the preparation of informational brochures. The Secretary shall, not later than 120 days after August 23, 1988, report to the Congress on steps taken to implement the plan developed under this subsection to assist small businesses in the export licensing application process.
 
     (n) __Reports on license applications__ 
 
@@ -229,7 +229,7 @@
 
         (4) Nothing in this subsection shall affect the scope or availability of licenses authorizing multiple exports set forth in [section 4603(a)(2) of this title][/us/usc/t50/s4603/a/2].
 
-        (5) The provisions of this subsection shall take effect 4 months after the date of the enactment of the Export Administration Amendments Act of 1985.
+        (5) The provisions of this subsection shall take effect 4 months after July 12, 1985.
 
 ([Pub. L. 96–72][/us/pl/96/72], § 10, Sept. 29, 1979, [93 Stat. 525][/us/stat/93/525]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 111, July 12, 1985, [99 Stat. 142][/us/stat/99/142]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2425(a), (c), Aug. 23, 1988, [102 Stat. 1360][/us/stat/102/1360], 1361.)
 
@@ -240,10 +240,6 @@
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1), (f)(3)(D), (l)(2), and (m), was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
-
-    The date of the enactment of the Export Enhancement Act of 1988, referred to in subsec. (m), is the date of enactment of title II of [Pub. L. 100–418][/us/pl/100/418], which was approved Aug. 23, 1988.
-
-    The date of the enactment of the Export Administration Amendments Act of 1985, referred to in subsec. (o)(5), is the date of enactment of titles I and II of [Pub. L. 99–64][/us/pl/99/64], which Act was approved July 12, 1985.
 
  __Codification__ 
 
@@ -261,9 +257,9 @@
 
     1985—[Pub. L. 99–64][/us/pl/99/64], § 111(e)(1), inserted “; other inquiries” in section catchline.
 
-    Subsec. (c). [Pub. L. 99–94][/us/pl/99/94], § 111(a)(2), (b)(1), substituted “Except as provided in subsection (o) of this section, in each case” for “In each case” and “60” for “90”.
+    Subsec. (c). [Pub. L. 99–94][/us/pl/99/94], § 111(a)(2), (b)(1), substituted “Except as provided in subsection (o), in each case” for “In each case” and “60” for “90”.
 
-    Subsec. (d). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), (b)(2), substituted “Except in the case of exports described in subsection (o) of this section, in each case” for “In each case” and “20” for “30” in provisions preceding par. (1), and inserted flush provision following par. (2) relating to exports described in subsec. (o) when it becomes necessary to refer an application to another department or agency for information and recommendations.
+    Subsec. (d). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), (b)(2), substituted “Except in the case of exports described in subsection (o), in each case” for “In each case” and “20” for “30” in provisions preceding par. (1), and inserted flush provision following par. (2) relating to exports described in subsec. (o) when it becomes necessary to refer an application to another department or agency for information and recommendations.
 
     Subsec. (e)(1). [Pub. L. 99–64][/us/pl/99/64], § 111(b)(3)(A), substituted “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary the information or recommendations requested with respect to the application” for “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary, within 30 days after its receipt of the application, the information or recommendations requested with respect to such application” and inserted sentence directing that information or recommendations be submitted within 20 days after the department or agency receives the application or, in the case of exports described in subsection (o), before the expiration of the time periods permitted by that subsection.
 
@@ -316,8 +312,6 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
 [/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500

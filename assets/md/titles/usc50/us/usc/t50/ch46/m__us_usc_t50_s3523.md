@@ -19,7 +19,7 @@
 
     In this section—
 
-        (1) the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b) of this section; and
+        (1) the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b); and
 
         (2) the term “Federal retirement system” includes the Central Intelligence Agency Retirement and Disability System, and the Federal Employees’ Retirement System (including the Thrift Savings Plan).
 
@@ -49,7 +49,7 @@
 
     (c) __Compensation__ 
 
-        The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i) of this section, retain any salary, allowances, and other benefits provided under this section.
+        The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i), retain any salary, allowances, and other benefits provided under this section.
 
     (d) __Retirement benefits__ 
 
@@ -219,7 +219,7 @@
 
     (i) __Regulations__ 
 
-        The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+        The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 
     (j) __Finality of decisions__ 
 

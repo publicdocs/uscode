@@ -21,7 +21,7 @@
 
         (1) Each cost-of-living annuity increase under this section shall be identical to the corresponding percentage increase under [section 8340(b) of title 5][/us/usc/t5/s8340/b].
 
-        (2) A cost-of-living increase made under paragraph (1) shall become effective under this section on the effective date of each such increase under [section 8340(b) of title 5][/us/usc/t5/s8340/b]. Except as provided in subsection (b) of this section, each such increase shall be applied to each annuity payable from the fund which has a commencing date not later than the effective date of the increase.
+        (2) A cost-of-living increase made under paragraph (1) shall become effective under this section on the effective date of each such increase under [section 8340(b) of title 5][/us/usc/t5/s8340/b]. Except as provided in subsection (b), each such increase shall be applied to each annuity payable from the fund which has a commencing date not later than the effective date of the increase.
 
     (b) __Eligibility__ 
 
@@ -29,9 +29,9 @@
 
         (1)
 
-         The first cost-of-living increase (if any) made under subsection (a) of this section to an annuity which is payable from the fund to a participant who retires, to the surviving spouse, former spouse, or previous spouse of a participant who dies in service, or to the surviving spouse, former spouse, previous spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (a) of this section, shall be equal to the product (adjusted to the nearest ⅒ of one percent) of—
+         The first cost-of-living increase (if any) made under subsection (a) to an annuity which is payable from the fund to a participant who retires, to the surviving spouse, former spouse, or previous spouse of a participant who dies in service, or to the surviving spouse, former spouse, previous spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (a), shall be equal to the product (adjusted to the nearest ⅒ of one percent) of—
 
-            (A) 1⁄12 of the applicable percent change computed under subsection (a) of this section, multiplied by
+            (A) 1⁄12 of the applicable percent change computed under subsection (a), multiplied by
 
             (B)
 

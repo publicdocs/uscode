@@ -17,7 +17,7 @@
 
     (a) __Persons eligible__ 
 
-    Except as provided in subsection (e) of this section, any individual—
+    Except as provided in subsection (e), any individual—
 
         (1) formerly married to an employee or former employee of the Agency, whose marriage was dissolved by divorce or annulment before May 7, 1985;
 
@@ -31,7 +31,7 @@
 
         (1)
 
-         Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+         Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
             (A) files an election for such enrollment; and
 
@@ -41,7 +41,7 @@
 
          The Director of the Central Intelligence Agency shall, as soon as possible, take all steps practicable—
 
-            (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a) of this section; and
+            (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a); and
 
             (B) to notify each such former spouse of that individual’s rights under this section.
 
@@ -51,7 +51,7 @@
 
         (1)
 
-         Notwithstanding subsections (a) and (b) of this section and except as provided in subsections (d), (e), and (f) of this section, an individual—
+         Notwithstanding subsections (a) and (b) and except as provided in subsections (d), (e), and (f), an individual—
 
             (A) who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or the Federal Employees Retirement System Special Category;
 
@@ -61,17 +61,17 @@
 
             is eligible for coverage under a health benefits plan.
 
-        (2) A former spouse eligible for coverage under paragraph (1) may enroll in a health benefits plan in accordance with subsection (b)(1) of this section, except that the election for such enrollment must be submitted within 60 days after the date on which the Director notifies the former spouse of such individual’s eligibility for health insurance coverage under this subsection.
+        (2) A former spouse eligible for coverage under paragraph (1) may enroll in a health benefits plan in accordance with subsection (b)(1), except that the election for such enrollment must be submitted within 60 days after the date on which the Director notifies the former spouse of such individual’s eligibility for health insurance coverage under this subsection.
 
     (d) __Continuation of eligibility__ 
 
-        Notwithstanding subsections (a), (b), and (c) of this section and except as provided in subsections (e) and (f) of this section, an individual divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees’ Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
+        Notwithstanding subsections (a), (b), and (c) and except as provided in subsections (e) and (f), an individual divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees’ Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
 
     (e) __Remarriage before age fifty-five; continued enrollment; restored eligibility__ 
 
-        (1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1) of this section.
+        (1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1).
 
-        (2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
+        (2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) or to subsection (d) may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
 
         (3)
 
@@ -111,7 +111,7 @@
 
     Subsecs. (c), (d). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(1), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(2)(B), inserted “or to subsection (d) of this section” after “subsection (b)(1) of this section” in par. (2).
+    Subsec. (e). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(2)(B), inserted “or to subsection (d)” after “subsection (b)(1)” in par. (2).
 
     [Pub. L. 103–178][/us/pl/103/178], § 203(c)(1)(A), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 

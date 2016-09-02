@@ -69,7 +69,7 @@
 
             (D) a certification that the Inspector General has had full and direct access to all information relevant to the performance of his functions;
 
-            (E) a description of the exercise of the subpoena authority under subsection (e)(5) of this section by the Inspector General during the reporting period; and
+            (E) a description of the exercise of the subpoena authority under subsection (e)(5) by the Inspector General during the reporting period; and
 
             (F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
 
@@ -155,7 +155,7 @@
 
                     (II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-                    (III) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5][/us/usc/t5/s2302/a/2/A], constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee’s reporting an urgent concern in accordance with this paragraph.
+                    (III) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5][/us/usc/t5/s2302/a/2/A], constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
 
                 (ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 

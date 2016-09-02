@@ -95,7 +95,7 @@
 
     (h) __Prior convictions__ 
 
-        (1) No person convicted of a violation of this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], section 793, 794, or 798 of title 18, [section 783(a) of this title][/us/usc/t50/s783/a], <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or [section 2778 of title 22][/us/usc/t22/s2778] shall be eligible, at the discretion of the Secretary, to apply for or use any export license under this chapter for a period of up to 10 years from the date of the conviction. The Secretary may revoke any export license under this chapter in which such person has an interest at the time of the conviction.
+        (1) No person convicted of a violation of this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], section 793, 794, or 798 of title 18, section 783(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, or [section 2778 of title 22][/us/usc/t22/s2778] shall be eligible, at the discretion of the Secretary, to apply for or use any export license under this chapter for a period of up to 10 years from the date of the conviction. The Secretary may revoke any export license under this chapter in which such person has an interest at the time of the conviction.
 
         (2) The Secretary may exercise the authority under paragraph (1) with respect to any person related, through affiliation, ownership, control, or position of responsibility, to any person convicted of any violation of law set forth in paragraph (1), upon a showing of such relationship with the convicted party, and subject to the procedures set forth in [section 4615(c) of this title][/us/usc/t50/s4615/c].
 
@@ -121,7 +121,7 @@
 
     The International Emergency Economic Powers Act, referred to in subsec. (h)(1), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t50/s1701] and Tables.
 
-    [Section 783(a) of this title][/us/usc/t50/s783/a], referred to in subsec. (h)(1), was in the original “section 4(b) of the Internal Security Act of 1950 ([50 U.S.C. 783(b)][/us/usc/t50/s783/b])”, which was translated as meaning section 4(a) of [act Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], to reflect the probable intent of Congress and the redesignation of section 4(b) of the Act as 4(a) by [Pub. L. 103–199, title VIII][/us/pl/103/199/tVIII], § 803(2)(B), Dec. 17, 1993, [107 Stat. 2329][/us/stat/107/2329].
+    [Section 783(b) of this title][/us/usc/t50/s783/b], referred to in subsec. (h)(1), was redesignated [section 783(a) of this title][/us/usc/t50/s783/a] by [Pub. L. 103–199, title VIII][/us/pl/103/199/tVIII], § 803(2)(B), Dec. 17, 1993, [107 Stat. 2329][/us/stat/107/2329].
 
  __Codification__ 
 
@@ -181,7 +181,6 @@
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t18/s1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1963
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s783/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fa
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s4615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4615%2Fc
 [/us/usc/t22/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401%2Fb
@@ -200,9 +199,8 @@
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s783/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fa
 [/us/usc/t50/s783/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fb
-[/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
+[/us/usc/t50/s783/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fa
 [/us/pl/103/199/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVIII
 [/us/stat/107/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2329
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184

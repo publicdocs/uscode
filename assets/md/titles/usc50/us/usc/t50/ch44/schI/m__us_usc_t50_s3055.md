@@ -31,7 +31,7 @@
 
     (c) __Submittal date of reports to congressional intelligence committees__ 
 
-        In the case of the reports required to be submitted under subsection (a) of this section to the congressional intelligence committees, the submittal dates for such reports shall be as provided in [section 3106 of this title][/us/usc/t50/s3106].
+        In the case of the reports required to be submitted under subsection (a) to the congressional intelligence committees, the submittal dates for such reports shall be as provided in [section 3106 of this title][/us/usc/t50/s3106].
 
     (d) __Appropriate congressional committees defined__ 
 

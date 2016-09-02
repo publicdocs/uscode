@@ -17,7 +17,7 @@
 
     (a) __Exemption from legal process__ 
 
-        Except as provided in subsections (b), (c), and (e) of this section, none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
+        Except as provided in subsections (b), (c), and (e), none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
 
     (b) __Payment to former spouses under court order or spousal agreement__ 
 
@@ -37,9 +37,9 @@
 
     (d) __Prospective payments; bar to recovery__ 
 
-        (1) Subsections (b) and (c) of this section apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
+        (1) Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
 
-        (2) Any payment under subsection (b) or (c) of this section to an individual bars recovery by any other individual.
+        (2) Any payment under subsection (b) or (c) to an individual bars recovery by any other individual.
 
     (e) __Allotments__ 
 

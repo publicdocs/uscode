@@ -1087,7 +1087,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
  __Ex. Ord. No. 10431. National Security Medal__ 
 
-    Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709, §§ 1, 2, Oct. 2, 2015, 80 F.R. 60793, provided:
+    Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709, § 1, Oct. 2, 2015, 80 F.R. 60793, provided:
 
     1. There is hereby established a medal to be known as the National Security Medal with accompanying ribbons and appurtenances. The medal and its appurtenances shall be of appropriate design, approved by the Executive Secretary of the National Security Council.
 

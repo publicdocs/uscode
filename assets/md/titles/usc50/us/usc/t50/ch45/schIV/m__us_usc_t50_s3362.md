@@ -21,11 +21,11 @@
 
     (b) __Designation__ 
 
-        The element established under subsection (a) of this section shall be known as the Foreign Terrorist Asset Tracking Center.
+        The element established under subsection (a) shall be known as the Foreign Terrorist Asset Tracking Center.
 
     (c) __Deadline for establishment__ 
 
-        The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
+        The element required by subsection (a) shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
 ([Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 341, Nov. 27, 2002, [116 Stat. 2398][/us/stat/116/2398]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(2)(C), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
 

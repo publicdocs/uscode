@@ -21,11 +21,11 @@
 
     (b) __Voluntary and mandatory retirement__ 
 
-        The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a) of this section, except that the retirement benefits shall be determined under chapter 84 of title 5.
+        The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a), except that the retirement benefits shall be determined under chapter 84 of title 5.
 
     (c) __Recall__ 
 
-        (1) Except as provided in paragraph (2), [section 2111 of this title][/us/usc/t50/s2111] shall apply to an employee referred to in subsection (a) of this section.
+        (1) Except as provided in paragraph (2), [section 2111 of this title][/us/usc/t50/s2111] shall apply to an employee referred to in subsection (a).
 
         (2) Contributions during recall service shall be made as provided in [section 8422 of title 5][/us/usc/t5/s8422].
 

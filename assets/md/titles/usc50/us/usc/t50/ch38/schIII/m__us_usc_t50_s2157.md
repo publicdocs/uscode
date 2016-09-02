@@ -21,7 +21,7 @@
 
     (b) __Congressional review__ 
 
-        The Director shall submit regulations prescribed under subsection (a) of this section to the congressional intelligence committees before they take effect.
+        The Director shall submit regulations prescribed under subsection (a) to the congressional intelligence committees before they take effect.
 
 ([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 307, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3251][/us/stat/106/3251].)
 

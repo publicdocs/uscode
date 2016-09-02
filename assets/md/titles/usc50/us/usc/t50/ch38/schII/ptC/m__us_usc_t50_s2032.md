@@ -49,7 +49,7 @@
 
                 (i) the survivor annuity for any spouse, former spouse, or other survivor under this subchapter; and
 
-                (ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or under [section 2031(b) of this title][/us/usc/t50/s2031/b].
+                (ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or under [section 2031(b) of this title][/us/usc/t50/s2031/b].
 
             (B) __Treatment when annuitant returns to service__ 
 
@@ -117,7 +117,7 @@
 
         (1) __In general__ 
 
-        In the case of any participant providing a survivor annuity under subsection (b) of this section for a former spouse—
+        In the case of any participant providing a survivor annuity under subsection (b) for a former spouse—
 
             (A) such participant may elect, or
 

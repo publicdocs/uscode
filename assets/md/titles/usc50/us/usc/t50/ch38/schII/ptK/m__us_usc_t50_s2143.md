@@ -25,11 +25,11 @@
 
     (c) __Lump-sum credit__ 
 
-        Any lump-sum credit provided pursuant to an election under subsection (a) of this section shall not preclude an individual from receiving other benefits provided under that subsection.
+        Any lump-sum credit provided pursuant to an election under subsection (a) shall not preclude an individual from receiving other benefits provided under that subsection.
 
     (d) __Submission of regulations to congressional intelligence committees__ 
 
-        The Director shall submit the regulations prescribed under subsection (a) of this section to the congressional intelligence committees before the regulations take effect.
+        The Director shall submit the regulations prescribed under subsection (a) to the congressional intelligence committees before the regulations take effect.
 
 ([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 294, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3242][/us/stat/106/3242]; amended [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11002(c), Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
 

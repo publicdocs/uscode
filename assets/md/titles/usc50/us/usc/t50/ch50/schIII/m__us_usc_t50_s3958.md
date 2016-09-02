@@ -37,7 +37,7 @@
 
     (c) __Misdemeanor__ 
 
-        A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+        A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
 ([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 307, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2851][/us/stat/117/2851]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(7), Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
 

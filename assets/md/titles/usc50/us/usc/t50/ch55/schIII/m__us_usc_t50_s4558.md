@@ -151,7 +151,7 @@
 
             (A) the Attorney General (after consultation with the Chairman of the Federal Trade Commission and the individual designated by the President in subsection (c)(2) to administer a voluntary agreement or plan of action), or
 
-            (B) the individual designated by the President in subsection (c)(2), to administer a voluntary agreement or plan of action (after consultation with the Attorney General and the Chairman of the Federal Trade Commission),
+            (B) the individual designated by the President in subsection (c)(2) to administer a voluntary agreement or plan of action (after consultation with the Attorney General and the Chairman of the Federal Trade Commission),
 
             may terminate or modify, in writing, the voluntary agreement or plan of action at any time, and that effective, immediately upon such termination or modification, any antitrust immunity conferred upon the participants in the voluntary agreement or plan of action by subsection (j) shall not apply to any act or omission occurring after the time of such termination or modification;
 

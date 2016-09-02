@@ -25,7 +25,7 @@
 
     (b) __Refund of contributions if former participant dies before age 62__ 
 
-        If a participant who qualifies under subsection (a) of this section to receive a deferred annuity commencing at age 62 dies before reaching age 62, the participant’s contributions to the fund, with interest, shall be paid in accordance with the provisions of [section 2071 of this title][/us/usc/t50/s2071].
+        If a participant who qualifies under subsection (a) to receive a deferred annuity commencing at age 62 dies before reaching age 62, the participant’s contributions to the fund, with interest, shall be paid in accordance with the provisions of [section 2071 of this title][/us/usc/t50/s2071].
 
 ([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 234, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3225][/us/stat/106/3225]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(10), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 

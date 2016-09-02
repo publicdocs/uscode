@@ -33,7 +33,7 @@
 
             (B) any period of service for which a refund of contributions has been made, or
 
-            (C) any period of service for which contributions were not transferred pursuant to subsection (c)(1) of this section;
+            (C) any period of service for which contributions were not transferred pursuant to subsection (c)(1);
 
             unless the participant makes a deposit to the fund in an amount equal to the percentages of basic pay received for such service as specified in the table contained in [section 8334(c) of title 5][/us/usc/t5/s8334/c], together with interest computed in accordance with section 8334(e) of such title. The deposit may be made in one or more installments (including by allotment from pay), as determined by the Director.
 
@@ -55,7 +55,7 @@
 
         (4) __Entitlement under another system__ 
 
-            Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
+            Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c).
 
     (c) __Transfer from other Government retirement systems__ 
 
@@ -85,13 +85,13 @@
 
         (1) __Application to obtain credit__ 
 
-            If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of this section, by applying for it to the Director before retirement or separation from the Agency.
+            If a deposit required to obtain credit for prior military service described in subsection (a)(2) was not made to another Government retirement fund and transferred under subsection (c)(1), the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h), by applying for it to the Director before retirement or separation from the Agency.
 
         (2) __Employment starting before, on, or after__  __October 1, 1982__ 
 
         Except as provided in paragraph (3)—
 
-            (A) the service of a participant who first became a Federal employee before October 1, 1982, shall include credit for each period of military service performed before the date of separation on which entitlement to an annuity under this subchapter is based, subject to subsection (f) of this section; and
+            (A) the service of a participant who first became a Federal employee before October 1, 1982, shall include credit for each period of military service performed before the date of separation on which entitlement to an annuity under this subchapter is based, subject to subsection (f); and
 
             (B)
 
@@ -99,7 +99,7 @@
 
                 (i) each period of military service performed before January 1, 1957, and
 
-                (ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h) of this section.
+                (ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h).
 
         (3) __Effect of receipt of military retired pay__ 
 
@@ -135,9 +135,9 @@
 
         The provisions of paragraph (1) relating to credit for military service do not apply to—
 
-            (A) any period of military service of a participant with respect to which the participant has made a deposit with interest, if any, under subsection (h) of this section; or
+            (A) any period of military service of a participant with respect to which the participant has made a deposit with interest, if any, under subsection (h); or
 
-            (B) the military service of any participant described in subsection (e)(2)(B) of this section.
+            (B) the military service of any participant described in subsection (e)(2)(B).
 
         (3) __Effect of entitlement before__  __September 8, 1982__ 
 
@@ -155,7 +155,7 @@
 
     (g) __Deposits paid by survivors__ 
 
-        For the purpose of survivor annuities, deposits authorized by subsections (b) and (h) of this section may also be made by the survivor of a participant.
+        For the purpose of survivor annuities, deposits authorized by subsections (b) and (h) may also be made by the survivor of a participant.
 
     (h) __Deposits for periods of military service__ 
 

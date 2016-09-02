@@ -41,7 +41,7 @@
 
     Not later than 180 days after September 23, 1996, the Secretary of Defense shall submit to Congress—
 
-        (1) a plan for the program under subsection (a) of this section;
+        (1) a plan for the program under subsection (a);
 
         (2) an estimate of the United States funding that is necessary for carrying out the activities under the program for each fiscal year covered by the program; and
 

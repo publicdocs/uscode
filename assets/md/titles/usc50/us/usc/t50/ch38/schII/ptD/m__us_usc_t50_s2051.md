@@ -19,7 +19,7 @@
 
         (1) __Eligibility__ 
 
-            A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b) of this section.
+            A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b).
 
         (2) __Standard for disability determination__ 
 
@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), an annuity payable under subsection (a) of this section shall be computed under [section 2031(a) of this title][/us/usc/t50/s2031/a]. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
+            Except as provided in paragraph (2), an annuity payable under subsection (a) shall be computed under [section 2031(a) of this title][/us/usc/t50/s2031/a]. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
 
         (2) __Coordination with military retired pay and veterans’ compensation and pension__ 
 

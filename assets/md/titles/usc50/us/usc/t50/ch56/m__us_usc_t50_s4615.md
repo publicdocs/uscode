@@ -31,7 +31,7 @@
 
         (3) The order of the Secretary under paragraph (1) shall be final, except that the charged party may, within 15 days after the order is issued, appeal the order in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of the appeal. The court may, while the appeal is pending, stay the order of the Secretary. The court may review only those issues necessary to determine liability for the civil penalty or other sanction involved. In an appeal filed under this paragraph, the court shall set aside any finding of fact for which the court finds there is not substantial evidence on the record and any conclusion of law which the court finds to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-        (4) An administrative law judge referred to in this subsection shall be appointed by the Secretary from among those considered qualified for selection and appointment under [section 3105 of title 5][/us/usc/t5/s3105]. Any person who, for at least 2 of the 10 years immediately preceding the date of the enactment of the Export Administration Amendments Act of 1985, has served as a hearing commissioner of the Department of Commerce shall be included among those considered as qualified for selection and appointment to such position.
+        (4) An administrative law judge referred to in this subsection shall be appointed by the Secretary from among those considered qualified for selection and appointment under [section 3105 of title 5][/us/usc/t5/s3105]. Any person who, for at least 2 of the 10 years immediately preceding July 12, 1985, has served as a hearing commissioner of the Department of Commerce shall be included among those considered as qualified for selection and appointment to such position.
 
     (d) __Imposition of temporary denial orders__ 
 
@@ -54,8 +54,6 @@
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
-
-    The date of the enactment of the Export Administration Amendments Act of 1985, referred to in subsec. (c)(4), is the date of enactment of titles I and II of [Pub. L. 99–64][/us/pl/99/64], which Act was approved July 12, 1985.
 
  __Codification__ 
 
@@ -104,7 +102,6 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F847
 [/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI

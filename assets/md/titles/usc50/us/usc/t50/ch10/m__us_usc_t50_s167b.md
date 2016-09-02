@@ -21,7 +21,7 @@
 
     (b) __Cessation of production, refining, and marketing__ 
 
-        Not later than 18 months after October 9, 1996, the Secretary shall cease producing, refining, and marketing refined helium and shall cease carrying out all other activities relating to helium which the Secretary was authorized to carry out under this chapter before October 9, 1996, except activities described in subsection (a) of this section.
+        Not later than 18 months after October 9, 1996, the Secretary shall cease producing, refining, and marketing refined helium and shall cease carrying out all other activities relating to helium which the Secretary was authorized to carry out under this chapter before October 9, 1996, except activities described in subsection (a).
 
     (c) __Disposal of facilities__ 
 
@@ -39,7 +39,7 @@
 
         (4) __Costs__ 
 
-            All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) of this section shall be paid from amounts available in the helium production fund established under [section 167d(e) of this title][/us/usc/t50/s167d/e].
+            All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) shall be paid from amounts available in the helium production fund established under [section 167d(e) of this title][/us/usc/t50/s167d/e].
 
         (5) __Exception__ 
 
@@ -49,7 +49,7 @@
 
         (1) __In general__ 
 
-            All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996, shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b) of this section.
+            All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996, shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
 
         (2) __Costs__ 
 

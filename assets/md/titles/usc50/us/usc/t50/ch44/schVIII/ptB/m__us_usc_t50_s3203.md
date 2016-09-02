@@ -17,13 +17,13 @@
 
     (a) __Authority to accept services__ 
 
-        Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342] and subject to subsection (b) of this section, the Foreign Languages Program under [section 3201 of this title][/us/usc/t50/s3201] shall include authority for the head of a covered element of the intelligence community to accept from any dedicated personnel voluntary services in support of the activities authorized by this part.
+        Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342] and subject to subsection (b), the Foreign Languages Program under [section 3201 of this title][/us/usc/t50/s3201] shall include authority for the head of a covered element of the intelligence community to accept from any dedicated personnel voluntary services in support of the activities authorized by this part.
 
     (b) __Requirements and limitations__ 
 
         (1)
 
-         In accepting voluntary services from an individual under subsection (a) of this section, the head of a covered element of the intelligence community shall—
+         In accepting voluntary services from an individual under subsection (a), the head of a covered element of the intelligence community shall—
 
             (A) supervise the individual to the same extent as the head of the element would supervise a compensated employee of that element providing similar services; and
 
@@ -31,7 +31,7 @@
 
         (2)
 
-         In accepting voluntary services from an individual under subsection (a) of this section, the head of a covered element of the intelligence community may not—
+         In accepting voluntary services from an individual under subsection (a), the head of a covered element of the intelligence community may not—
 
             (A) place the individual in a policymaking position, or other position performing inherently governmental functions; or
 
@@ -39,13 +39,13 @@
 
     (c) __Authority to recruit and train individuals providing services__ 
 
-        The head of a covered element of the intelligence community may recruit and train individuals to provide voluntary services under subsection (a) of this section.
+        The head of a covered element of the intelligence community may recruit and train individuals to provide voluntary services under subsection (a).
 
     (d) __Status of individuals providing services__ 
 
         (1)
 
-         Subject to paragraph (2), while providing voluntary services under subsection (a) of this section or receiving training under subsection (c) of this section, an individual shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
+         Subject to paragraph (2), while providing voluntary services under subsection (a) or receiving training under subsection (c), an individual shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
 
             (A) [Section 552a of title 5][/us/usc/t5/s552a] (relating to maintenance of records on individuals).
 
@@ -61,13 +61,13 @@
 
     (e) __Reimbursement of incidental expenses__ 
 
-        (1) The head of a covered element of the intelligence community may reimburse an individual for incidental expenses incurred by the individual in providing voluntary services under subsection (a) of this section. The head of a covered element of the intelligence community shall determine which expenses are eligible for reimbursement under this subsection.
+        (1) The head of a covered element of the intelligence community may reimburse an individual for incidental expenses incurred by the individual in providing voluntary services under subsection (a). The head of a covered element of the intelligence community shall determine which expenses are eligible for reimbursement under this subsection.
 
         (2) Reimbursement under paragraph (1) may be made from appropriated or nonappropriated funds.
 
     (f) __Authority to install equipment__ 
 
-        (1) The head of a covered element of the intelligence community may install telephone lines and any necessary telecommunication equipment in the private residences of individuals who provide voluntary services under subsection (a) of this section.
+        (1) The head of a covered element of the intelligence community may install telephone lines and any necessary telecommunication equipment in the private residences of individuals who provide voluntary services under subsection (a).
 
         (2) The head of a covered element of the intelligence community may pay the charges incurred for the use of equipment installed under paragraph (1) for authorized purposes.
 

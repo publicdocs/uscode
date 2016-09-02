@@ -31,7 +31,7 @@
 
     (c) __Allocation of funds__ 
 
-        Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3) of this section.
+        Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3).
 
 ([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1441, Sept. 23, 1996, [110 Stat. 2727][/us/stat/110/2727]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(2), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 

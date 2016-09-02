@@ -41,9 +41,9 @@
 
         Such reduction shall be effective as of—
 
-            (A) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1) of this section; or
+            (A) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1); or
 
-            (B) November 15, 1982, in the case of an election under subsection (b)(2) of this section.
+            (B) November 15, 1982, in the case of an election under subsection (b)(2).
 
 ([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 223, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3216][/us/stat/106/3216].)
 

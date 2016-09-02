@@ -35,7 +35,7 @@
 
     (b) __Determination of probable cause__ 
 
-        In determining whether or not probable cause exists for purposes of an order under subsection (a)(2) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+        In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
     (c) __Specifications and directions of orders__ 
 

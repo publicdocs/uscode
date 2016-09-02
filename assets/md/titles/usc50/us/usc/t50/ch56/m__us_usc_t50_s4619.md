@@ -39,7 +39,7 @@
 
     (f) __Agricultural Act of 1970__ 
 
-        Nothing in this chapter shall affect the provisions of the last sentence of section 612c–3  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7.
+        Nothing in this chapter shall affect the provisions of the last sentence of section 812  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Agricultural Act of 1970 ([7 U.S.C. 612c–3][/us/usc/t7/s612c–3]).
 
 ([Pub. L. 96–72][/us/pl/96/72], § 17, Sept. 29, 1979, [93 Stat. 534][/us/stat/93/534]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 118, July 12, 1985, [99 Stat. 154][/us/stat/99/154].)
 
@@ -53,7 +53,7 @@
 
     The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (e), is [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], [65 Stat. 644][/us/stat/65/644], which was classified generally to chapter 20A (§ 1611 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its supersedure by subsec. (e) of this section. For complete classification of this Act to the Code, see Tables.
 
-    [Section 612c–3 of title 7][/us/usc/t7/s612c–3], referred to in subsec. (a)(13)(A), was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712].
+    Section 812 of the Agricultural Act of 1970, referred to in subsec. (f), which was classified to [section 612c–3 of Title 7][/us/usc/t7/s612c–3], Agriculture, was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. Provisions similar to those in the last sentence of former [section 612c–3 of Title 7][/us/usc/t7/s612c–3] are contained in [section 5712(c) of Title 7][/us/usc/t7/s5712/c].
 
  __Codification__ 
 
@@ -85,6 +85,7 @@
 [/us/usc/t50/s4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609
 [/us/usc/t50/s4609/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609%2Fj
 [/us/usc/t22/s1611–161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1611%E2%80%93161
+[/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F534
 [/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
@@ -98,7 +99,8 @@
 [/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
 [/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
-[/us/usc/t7/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712
+[/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
+[/us/usc/t7/s5712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712%2Fc
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff

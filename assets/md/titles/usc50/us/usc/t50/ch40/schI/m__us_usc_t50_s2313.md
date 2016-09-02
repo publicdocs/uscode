@@ -25,11 +25,11 @@
 
         (1) the coordination of Department of Energy assistance to Federal, State, and local officials in responding to threats involving nuclear, chemical, and biological weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of nuclear weapons and related materials and technologies; and
 
-        (2) the coordination of Department of Energy assistance to the Department of Defense in carrying out that department’s responsibilities under subsection (a) of this section.
+        (2) the coordination of Department of Energy assistance to the Department of Defense in carrying out that department’s responsibilities under subsection (a).
 
     (c) __Funding__ 
 
-        Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $15,000,000 is available for providing assistance described in subsection (a) of this section.
+        Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $15,000,000 is available for providing assistance described in subsection (a).
 
 ([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1413, Sept. 23, 1996, [110 Stat. 2719][/us/stat/110/2719]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1031, Jan. 6, 2006, [119 Stat. 3428][/us/stat/119/3428].)
 
@@ -43,7 +43,7 @@
 
     “(1) the coordination of Department of Defense assistance to Federal, State, and local officials in responding to threats involving biological or chemical weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of biological and chemical weapons and related materials and technologies; and
 
-    “(2) the coordination of Department of Defense assistance to the Department of Energy in carrying out that department’s responsibilities under subsection (b) of this section.”
+    “(2) the coordination of Department of Defense assistance to the Department of Energy in carrying out that department’s responsibilities under subsection (b).”
 
  __Transfer of Technology Items and Equipment in Support of Homeland Security__ 
 

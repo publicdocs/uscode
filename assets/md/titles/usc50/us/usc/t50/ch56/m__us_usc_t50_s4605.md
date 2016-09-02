@@ -45,7 +45,7 @@
 
             (E) the United States has the ability to enforce the proposed controls effectively.
 
-        (2) With respect to those export controls in effect under this section on the date of the enactment of the Export Administration Amendments Act of 1985, the President, in determining whether to extend those controls, as required by subsection (a)(3) of this section, shall consider the criteria set forth in paragraph (1) of this subsection and shall consider the foreign policy consequences of modifying the export controls.
+        (2) With respect to those export controls in effect under this section on July 12, 1985, the President, in determining whether to extend those controls, as required by subsection (a)(3) of this section, shall consider the criteria set forth in paragraph (1) of this subsection and shall consider the foreign policy consequences of modifying the export controls.
 
     (c) __Consultation with industry__ 
 
@@ -87,7 +87,7 @@
 
     (g) __Exclusion for medicine and medical supplies and for certain food exports__ 
 
-        This section does not authorize export controls on medicine or medical supplies. This section also does not authorize export controls on donations of goods (including, but not limited to, food, educational materials, seeds and hand tools, medicines and medical supplies, water resources equipment, clothing and shelter materials, and basic household supplies) that are intended to meet basic human needs. Before export controls on food are imposed, expanded, or extended under this section, the Secretary shall notify the Secretary of State in the case of export controls applicable with respect to any developed country and shall notify the Administrator of the Agency for International Development in the case of export controls applicable with respect to any developing country. The Secretary of State with respect to developed countries, and the Administrator with respect to developing countries, shall determine whether the proposed export controls on food would cause measurable malnutrition and shall inform the Secretary of that determination. If the Secretary is informed that the proposed export controls on food would cause measurable malnutrition, then those controls may not be imposed, expanded, or extended, as the case may be, unless the President determines that those controls are necessary to protect the national security interests of the United States, or unless the President determines that arrangements are insufficient to ensure that the food will reach those most in need. Each such determination by the Secretary of State or the Administrator of the Agency for International Development, and any such determination by the President, shall be reported to the Congress, together with a statement of the reasons for that determination. It is the intent of Congress that the President not impose export controls under this section on any goods or technology if he determines that the principal effect of the export of such goods or technology would be to help meet basic human needs. This subsection shall not be construed to prohibit the President from imposing restrictions on the export of medicine or medical supplies or of food under the International Emergency Economic Powers Act \[50 U.S.C 1701 et seq.\]. This subsection shall not apply to any export control on medicine, medical supplies, or food, except for donations, which is in effect on the date of the enactment of the Export Administration Amendments Act of 1985. Notwithstanding the preceding provisions of this subsection, the President may impose export controls under this section on medicine, medical supplies, food, and donations of goods in order to carry out the policy set forth in paragraph (13) of [section 4602 of this title][/us/usc/t50/s4602].
+        This section does not authorize export controls on medicine or medical supplies. This section also does not authorize export controls on donations of goods (including, but not limited to, food, educational materials, seeds and hand tools, medicines and medical supplies, water resources equipment, clothing and shelter materials, and basic household supplies) that are intended to meet basic human needs. Before export controls on food are imposed, expanded, or extended under this section, the Secretary shall notify the Secretary of State in the case of export controls applicable with respect to any developed country and shall notify the Administrator of the Agency for International Development in the case of export controls applicable with respect to any developing country. The Secretary of State with respect to developed countries, and the Administrator with respect to developing countries, shall determine whether the proposed export controls on food would cause measurable malnutrition and shall inform the Secretary of that determination. If the Secretary is informed that the proposed export controls on food would cause measurable malnutrition, then those controls may not be imposed, expanded, or extended, as the case may be, unless the President determines that those controls are necessary to protect the national security interests of the United States, or unless the President determines that arrangements are insufficient to ensure that the food will reach those most in need. Each such determination by the Secretary of State or the Administrator of the Agency for International Development, and any such determination by the President, shall be reported to the Congress, together with a statement of the reasons for that determination. It is the intent of Congress that the President not impose export controls under this section on any goods or technology if he determines that the principal effect of the export of such goods or technology would be to help meet basic human needs. This subsection shall not be construed to prohibit the President from imposing restrictions on the export of medicine or medical supplies or of food under the International Emergency Economic Powers Act \[50 U.S.C 1701 et seq.\]. This subsection shall not apply to any export control on medicine, medical supplies, or food, except for donations, which is in effect on July 12, 1985. Notwithstanding the preceding provisions of this subsection, the President may impose export controls under this section on medicine, medical supplies, food, and donations of goods in order to carry out the policy set forth in paragraph (13) of [section 4602 of this title][/us/usc/t50/s4602].
 
     (h) __Foreign availability__ 
 
@@ -95,7 +95,7 @@
 
         (2) Before extending any export control pursuant to subsection (a)(3) of this section, the President shall evaluate the results of his actions under paragraph (1) of this subsection and shall include the results of that evaluation in his report to the Congress pursuant to subsection (f) of this section.
 
-        (3) If, within 6 months after the date on which export controls under this section are imposed or expanded, or within 6 months after the date of the enactment of the Export Administration Amendments Act of 1985 in the case of export controls in effect on such date of enactment, the President’s efforts under paragraph (1) are not successful in securing the cooperation of foreign governments described in paragraph (1) with respect to those export controls, the Secretary shall thereafter take into account the foreign availability of the goods or technology subject to the export controls. If the Secretary affirmatively determines that a good or technology subject to the export controls is available in sufficient quantity and comparable quality from sources outside the United States to countries subject to the export controls so that denial of an export license would be ineffective in achieving the purposes of the controls, then the Secretary shall, during the period of such foreign availability, approve any license application which is required for the export of the good or technology and which meets all requirements for such a license. The Secretary shall remove the good or technology from the list established pursuant to subsection (l) of this section if the Secretary determines that such action is appropriate.
+        (3) If, within 6 months after the date on which export controls under this section are imposed or expanded, or within 6 months after July 12, 1985, in the case of export controls in effect on such date of enactment, the President’s efforts under paragraph (1) are not successful in securing the cooperation of foreign governments described in paragraph (1) with respect to those export controls, the Secretary shall thereafter take into account the foreign availability of the goods or technology subject to the export controls. If the Secretary affirmatively determines that a good or technology subject to the export controls is available in sufficient quantity and comparable quality from sources outside the United States to countries subject to the export controls so that denial of an export license would be ineffective in achieving the purposes of the controls, then the Secretary shall, during the period of such foreign availability, approve any license application which is required for the export of the good or technology and which meets all requirements for such a license. The Secretary shall remove the good or technology from the list established pursuant to subsection (l) of this section if the Secretary determines that such action is appropriate.
 
         (4) In making a determination of foreign availability under paragraph (3) of this subsection, the Secretary shall follow the procedures set forth in [section 4604(f)(3) of this title][/us/usc/t50/s4604/f/3].
 
@@ -115,7 +115,7 @@
 
         (2) The Secretary and the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate at least 30 days before issuing any validated license required by paragraph (1).
 
-        (3) Each determination of the Secretary of State under paragraph (1)(A), including each determination in effect on the date of the enactment of the Antiterrorism and Arms Export Amendments Act of 1989, shall be published in the Federal Register.
+        (3) Each determination of the Secretary of State under paragraph (1)(A), including each determination in effect on December 12, 1989, shall be published in the Federal Register.
 
         (4)
 
@@ -263,7 +263,7 @@
 
          Crime control and detection instruments and equipment shall be approved for export by the Secretary only pursuant to a validated export license. Notwithstanding any other provision of this chapter—
 
-            (A) any determination of the Secretary of what goods or technology shall be included on the list established pursuant to subsection (o)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section as a result of the export restrictions imposed by this subsection shall be made with the concurrence of the Secretary of State, and
+            (A) any determination of the Secretary of what goods or technology shall be included on the list established pursuant to subsection (l)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section as a result of the export restrictions imposed by this subsection shall be made with the concurrence of the Secretary of State, and
 
             (B) any determination of the Secretary to approve or deny an export license application to export crime control or detection instruments or equipment shall be made in concurrence with the recommendations of the Secretary of State submitted to the Secretary with respect to the application pursuant to [section 4609(e) of this title][/us/usc/t50/s4609/e],
 
@@ -297,7 +297,7 @@
 
     (r) __Expanded authority to impose controls__ 
 
-        (1) In any case in which the President determines that it is necessary to impose controls under this section without any limitation contained in subsection (c), (d), (e), (g), (h), or (p) 1 of this section, the President may impose those controls only if the President submits that determination to the Congress, together with a report pursuant to subsection (f) of this section with respect to the proposed controls, and only if a law is enacted authorizing the imposition of those controls. If a joint resolution authorizing the imposition of those controls is introduced in either House of Congress within 30 days after the Congress receives the determination and report of the President, that joint resolution shall be referred to the Committee on Banking, Housing, and Urban Affairs of the Senate and to the appropriate committee of the House of Representatives. If either such committee has not reported the joint resolution at the end of 30 days after its referral, the committee shall be discharged from further consideration of the joint resolution.
+        (1) In any case in which the President determines that it is necessary to impose controls under this section without any limitation contained in subsection (c), (d), (e), (g), (h), or (m) 1 of this section, the President may impose those controls only if the President submits that determination to the Congress, together with a report pursuant to subsection (f) of this section with respect to the proposed controls, and only if a law is enacted authorizing the imposition of those controls. If a joint resolution authorizing the imposition of those controls is introduced in either House of Congress within 30 days after the Congress receives the determination and report of the President, that joint resolution shall be referred to the Committee on Banking, Housing, and Urban Affairs of the Senate and to the appropriate committee of the House of Representatives. If either such committee has not reported the joint resolution at the end of 30 days after its referral, the committee shall be discharged from further consideration of the joint resolution.
 
         (2) For purposes of this subsection, the term “joint resolution” means a joint resolution the matter after the resolving clause of which is as follows: “That the Congress, having received on             a determination of the President under section 6(o)(1) 1 of the Export Administration Act of 1979 with respect to the export controls which are set forth in the report submitted to the Congress with that determination, authorizes the President to impose those export controls.”, with the date of the receipt of the determination and report inserted in the blank.
 
@@ -317,21 +317,15 @@
 
  __References in Text__ 
 
-    The date of the enactment of the Export Administration Amendments Act of 1985, referred to in subsecs. (b)(2), (g), and (h)(3), is the date of enactment of titles I and II of [Pub. L. 99–64][/us/pl/99/64], which Act was approved July 12, 1985.
-
     The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t50/s1701] and Tables.
-
-    The date of the enactment of the Antiterrorism and Arms Export Amendments Act of 1989, referred to in subsec. (j)(3), probably means the date of enactment of the Anti-Terrorism and Arms Export Amendments Act of 1989, [Pub. L. 101–222][/us/pl/101/222], which was approved December 12, 1989.
 
     The Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, referred to in subsec. (m)(3)(B), is title III of [Pub. L. 102–182][/us/pl/102/182], Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245], which is classified principally to chapter 65 (§ 5601 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 22][/us/usc/t22/s5601] and Tables.
 
     This chapter, referred to in subsecs. (n)(1) and (p)(2), was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
 
-    Subsection (o) of this section, referred to in subsec. (n)(1)(A), was in the original “subsection (l) of this section”, and was translated as meaning subsec. (o) to reflect the probable intent of Congress and the redesignation of subsec. (l) as (n) by [Pub. L. 101–510][/us/pl/101/510] and the redesignation of subsec. (n) as (o) by [Pub. L. 102–182][/us/pl/102/182]. See 1990 and 1991 Amendment notes below.
+    Subsections (l) and (m) of this section, referred to in subsecs. (n)(1)(A) and (r)(1), were redesignated as subsecs. (o) and (p), respectively, by [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1702(a)(1), Nov. 5, 1990, [104 Stat. 1739][/us/stat/104/1739], and [Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 304(b), Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246].
 
-    Subsection (p) of this section, referred to in subsec. (r)(1), was in the original a reference to subsec. (m) of this section, and was translated as meaning subsec. (p) to reflect the probable intent of Congress and the redesignation of subsec. (m) as (o) by [Pub. L. 101–510][/us/pl/101/510] and the redesignation of subsec. (o) as (p) by [Pub. L. 102–182][/us/pl/102/182]. See 1990 and 1991 Amendment notes below.
-
-    Section 6(o)(1) of the Export Administration Act of 1979, referred to in subsec. (r)(2), is section 6(o)(1) of [Pub. L. 96–72][/us/pl/96/72], which was classified to subsec. (o)(1) of this section, prior to its redesignation as subsec. (q)(1) by [Pub. L. 101–510][/us/pl/101/510] and as subsec. (r)(1) by [Pub. L. 102–182][/us/pl/102/182], without corresponding amendments being made. See 1990 and 1991 Amendment notes below.
+    Section 6(o)(1) of the Export Administration Act of 1979, referred to in subsec. (r)(2), is subsec. (o)(1) of this section, which was redesignated as subsec. (r)(1) by [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1702(a)(1), Nov. 5, 1990, [104 Stat. 1739][/us/stat/104/1739], and [Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 304(b), Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246].
 
  __Codification__ 
 
@@ -513,24 +507,23 @@
 [/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3776
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/stat/105/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1245
 [/us/usc/t22/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5601
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
-[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
+[/us/stat/104/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1739
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
+[/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
+[/us/stat/104/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1739
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
+[/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F844
 [/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI

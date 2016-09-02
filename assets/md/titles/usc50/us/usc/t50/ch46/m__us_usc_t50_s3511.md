@@ -29,7 +29,7 @@
 
     (b)
 
-     Any payment under subsection (a) of this section—
+     Any payment under subsection (a)—
 
         (1) shall be in an amount equal to the amount of the annual salary of the officer or employee concerned at the time of death;
 

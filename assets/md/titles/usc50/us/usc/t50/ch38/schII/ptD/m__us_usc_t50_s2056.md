@@ -21,11 +21,11 @@
 
     (b) __Refund of contributions for time not allowed for credit__ 
 
-        If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a) of this section, any amounts deducted from the participant’s pay during the period for which no eligibility is established based on the separation shall be returned to the participant on the separation.
+        If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a), any amounts deducted from the participant’s pay during the period for which no eligibility is established based on the separation shall be returned to the participant on the separation.
 
     (c) __Exception__ 
 
-        Failure to meet the service and pay status requirement of subsection (a) of this section shall not deprive the participant or the participant’s survivors of any annuity to which they may be entitled under this subchapter based on a previous separation.
+        Failure to meet the service and pay status requirement of subsection (a) shall not deprive the participant or the participant’s survivors of any annuity to which they may be entitled under this subchapter based on a previous separation.
 
 ([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 236, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3226][/us/stat/106/3226].)
 

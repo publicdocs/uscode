@@ -51,13 +51,13 @@
 
     (c) __Report__ 
 
-        (1) At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a) of this section.
+        (1) At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a).
 
         (2)
 
          The report shall include the following:
 
-            (A) The specific plans for the program that are required under subsection (b) of this section.
+            (A) The specific plans for the program that are required under subsection (b).
 
             (B) Estimates of the funds necessary, by agency or department, for carrying out such plans in fiscal year 1998 and the following five fiscal years.
 

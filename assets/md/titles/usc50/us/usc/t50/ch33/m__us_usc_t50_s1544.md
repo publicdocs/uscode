@@ -25,7 +25,7 @@
 
     (c) __Concurrent resolution for removal by President of United States Armed Forces__ 
 
-        Notwithstanding subsection (b) of this section, at any time that United States Armed Forces are engaged in hostilities outside the territory of the United States, its possessions and territories without a declaration of war or specific statutory authorization, such forces shall be removed by the President if the Congress so directs by concurrent resolution.
+        Notwithstanding subsection (b), at any time that United States Armed Forces are engaged in hostilities outside the territory of the United States, its possessions and territories without a declaration of war or specific statutory authorization, such forces shall be removed by the President if the Congress so directs by concurrent resolution.
 
 ([Pub. L. 93–148][/us/pl/93/148], § 5, Nov. 7, 1973, [87 Stat. 556][/us/stat/87/556].)
 

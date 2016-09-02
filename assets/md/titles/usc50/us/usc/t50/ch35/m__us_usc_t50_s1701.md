@@ -21,6 +21,12 @@
 
 ([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 202, Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626].)
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–194][/us/pl/114/194], § 1, July 15, 2016, [130 Stat. 674][/us/stat/130/674], provided that: 
+
+> “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Venezuela Defense of Human Rights and Civil Society Extension Act of 2016’.”
+
  __Short Title of 2007 Amendment__ 
 
 [Pub. L. 110–96][/us/pl/110/96], § 1, Oct. 16, 2007, [121 Stat. 1011][/us/stat/121/1011], provided that: 
@@ -83,7 +89,7 @@
 
 >     “(2) utilize all available diplomatic, legislative, and executive avenues to combat the global criminal activities of Hizballah as a means to block that organization’s ability to fund its global terrorist activities.
 
-> TITLE I—PREVENTION OF ACCESS BY HIZBALLAH TO INTERNATIONAL FINANCIAL AND OTHER INSTITUTIONS
+> “TITLE I— __PREVENTION OF ACCESS BY HIZBALLAH TO INTERNATIONAL FINANCIAL AND OTHER INSTITUTIONS__ 
 
 > “SEC. 101. __REPORT ON IMPOSITION OF SANCTIONS ON CERTAIN SATELLITE PROVIDERS THAT CARRY AL-MANAR TV.__ 
 
@@ -195,7 +201,7 @@
 
 >     “(f) __Definitions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In this section:
 
@@ -241,7 +247,7 @@
 
 >         The President may further define the terms used in this section in the regulations prescribed under this section.
 
->     TITLE II—REPORTS AND BRIEFINGS ON NARCOTICS TRAFFICKING AND SIGNIFICANT TRANSNATIONAL CRIMINAL ACTIVITIES OF HIZBALLAH
+> “TITLE II— __REPORTS AND BRIEFINGS ON NARCOTICS TRAFFICKING AND SIGNIFICANT TRANSNATIONAL CRIMINAL ACTIVITIES OF HIZBALLAH__ 
 
 > “SEC. 201. __REPORT AND BRIEFING ON NARCOTICS TRAFFICKING BY HIZBALLAH.__ 
 
@@ -383,7 +389,7 @@
 
 >         “(2) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate.
 
->     TITLE III—MISCELLANEOUS PROVISIONS
+> “TITLE III— __MISCELLANEOUS PROVISIONS__ 
 
 > “SEC. 301. __RULE OF CONSTRUCTION.__ 
 
@@ -417,7 +423,7 @@
 
  __Venezuela Defense of Human Rights and Civil Society__ 
 
-[Pub. L. 113–278][/us/pl/113/278], Dec. 18, 2014, [128 Stat. 3011][/us/stat/128/3011], provided that:
+[Pub. L. 113–278][/us/pl/113/278], Dec. 18, 2014, [128 Stat. 3011][/us/stat/128/3011], as amended by [Pub. L. 114–194][/us/pl/114/194], § 2, July 15, 2016, [130 Stat. 674][/us/stat/130/674], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -533,7 +539,7 @@
 
 >     “(e)  __Termination__  __.—__ 
 
->     The requirement to impose sanctions under this section shall terminate on December 31, 2016.
+>     The requirement to impose sanctions under this section shall terminate on December 31, 2019.
 
 >     “(f)  __Definitions__  __.—__ 
 
@@ -6244,6 +6250,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
 [/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
+[/us/pl/114/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F194
+[/us/stat/130/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F674
 [/us/pl/110/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F96
 [/us/stat/121/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1011
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
@@ -6279,6 +6287,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/113/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F278
 [/us/stat/128/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3011
+[/us/pl/114/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F194
+[/us/stat/130/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F674
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t8/s1201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201%2Fi
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705

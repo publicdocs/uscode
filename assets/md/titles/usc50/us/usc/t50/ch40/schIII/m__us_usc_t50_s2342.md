@@ -21,7 +21,7 @@
 
     (b) __Program elements__ 
 
-    In carrying out the program required by subsection (a) of this section, the Administrator shall—
+    In carrying out the program required by subsection (a), the Administrator shall—
 
         (1) conduct research and development of technology for protection from nuclear or radiological terrorism, including technology for the detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
 
@@ -41,7 +41,7 @@
 
     (c) __Consultation__ 
 
-    In carrying out activities in accordance with subsection (b)(2) of this section, the Administrator shall consult with—
+    In carrying out activities in accordance with subsection (b)(2), the Administrator shall consult with—
 
         (1) the Secretary of Defense, Secretary of State, and Secretary of Commerce; and
 

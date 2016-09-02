@@ -19,7 +19,7 @@
 
     (b)
 
-     On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) of this section and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
+     On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
 
         (1) the total number of applications made for orders approving the use of pen registers or trap and trace devices under this subchapter;
 

@@ -41,7 +41,7 @@
 
     (c) __Use of agency Inspectors General__ 
 
-        When appropriate, the Civil Liberties Protection Officer may refer complaints to the Office of Inspector General having responsibility for the affected element of the department or agency of the intelligence community to conduct an investigation under paragraph (3) of subsection (b) of this section.
+        When appropriate, the Civil Liberties Protection Officer may refer complaints to the Office of Inspector General having responsibility for the affected element of the department or agency of the intelligence community to conduct an investigation under paragraph (3) of subsection (b).
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103D, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3658][/us/stat/118/3658].)
 
