@@ -41,25 +41,11 @@
 
     (g) __Omitted__ 
 
-    (h) __Lessee or designee interest__ 
+    (h) __Estimated payment__ 
 
-        Interest shall be allowed and paid or credited on any overpayment, with such interest to accrue from the date such overpayment was made, at a rate equal to the sum of the Federal short-term rate determined under [section 6621(b) of title 26][/us/usc/t26/s6621/b] plus 1 percentage point. Interest which has accrued on any overpayment may be applied to reduce an underpayment. This subsection applies to overpayments made later than six months after August 13, 1996, or September 1, 1996, whichever is later. Such interest shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the Mineral Leasing Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], and the Outer Continental Shelf Lands Act \[[43 U.S.C. 1331][/us/usc/t43/s1331] et seq.\], which are not payable to a State or the Reclamation Fund. The portion of any such interest payment attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any other recipient designated by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
+        A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”) that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
 
-    (i) __Limitation on interest__ 
-
-        (1) __In general__ 
-
-            Interest shall not be paid on any excessive overpayment.
-
-        (2) __Excessive overpayment defined__ 
-
-            For purposes of this chapter, an “excessive overpayment” shall be the amount that any overpayment a lessee or its designee pays for a given reporting month (excluding payments for demands for obligations determined to be due as a result of judicial or administrative proceedings or agreed to be paid pursuant to settlement agreements) for the aggregate of all of its Federal leases exceeds 10 percent of the total royalties paid that month for those leases.
-
-    (j) __Estimated payment__ 
-
-        A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”) that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
-
-    (k) __Volume allocation of oil and gas production__ 
+    (i) __Volume allocation of oil and gas production__ 
 
         (1)
 
@@ -79,25 +65,29 @@
 
         (5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report and pay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
 
-    (l) __Production allocation__ 
+    (j) __Production allocation__ 
 
         The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
-([Pub. L. 97–451, title I, § 111][/us/pl/97/451/s111], Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a]–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3]–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421]; [Pub. L. 113–67, div. A, title III, § 305(a)][/us/pl/113/67/s305/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183]; [Pub. L. 113–291, div. B, title XXX, § 3021(c)(2)][/us/pl/113/291/s3021/c/2], Dec. 19, 2014, [128 Stat. 3761][/us/stat/128/3761].)
+([Pub. L. 97–451, title I, § 111][/us/pl/97/451/s111], Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a]–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3]–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421]; [Pub. L. 113–67, div. A, title III, § 305(a)][/us/pl/113/67/s305/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183]; [Pub. L. 113–291, div. B, title XXX, § 3021(c)(2)][/us/pl/113/291/s3021/c/2], Dec. 19, 2014, [128 Stat. 3761][/us/stat/128/3761]; [Pub. L. 114–94, div. C, title XXXII, § 32301][/us/pl/114/94/s32301], Dec. 4, 2015, [129 Stat. 1741][/us/stat/129/1741].)
 
  __References in Text__ 
 
     The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is [Pub. L. 93–159][/us/pl/93/159], Nov. 27, 1973, [87 Stat. 628][/us/stat/87/628], as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15][/us/usc/t15/s760g], which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
-
-    The Mineral Leasing Act, referred to in subsec. (h), is [act Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], [41 Stat. 437][/us/stat/41/437], as amended, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title][/us/usc/t30/s181] and Tables.
-
-    The Outer Continental Shelf Lands Act, referred to in subsec. (h), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
  __Codification__ 
 
     Section is comprised of [section 111 of Pub. L. 97–451][/us/pl/97/451/s111]. Subsec. (g) of [section 111 of Pub. L. 97–451][/us/pl/97/451/s111] amended [section 191(a) of this title][/us/usc/t30/s191/a].
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–94][/us/pl/114/94] redesignated subsec. (j) as (h), struck out “If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment.” after “underpaid amount.”, and struck out former subsec. (h) which related to lessee or designee interest.
+
+    Subsec. (i). [Pub. L. 114–94, § 32301(1)][/us/pl/114/94/s32301/1], (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
+
+    Subsec. (j). [Pub. L. 114–94, § 32301(2)][/us/pl/114/94/s32301/2], redesignated subsec. (l) as (j). Former subsec. (j) redesignated (h).
+
+    Subsecs. (k), (l). [Pub. L. 114–94, § 32301(2)][/us/pl/114/94/s32301/2], redesignated subsecs. (k) and (l) as (i) and (j), respectively.
 
     2014—Subsec. (h). [Pub. L. 113–291][/us/pl/113/291] substituted “a rate equal to the sum of the Federal short-term rate determined under [section 6621(b) of title 26][/us/usc/t26/s6621/b] plus 1 percentage point.” for “the rate obtained by applying the provisions of subparagraphs (A) and (B) of [section 6621(a)(1) of title 26][/us/usc/t26/s6621/a/1], but determined without regard to the sentence following subparagraph (B) of section 6621(a)(1).”
 
@@ -157,9 +147,6 @@
 [/us/usc/t30/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1714
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
-[/us/usc/t26/s6621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fb
-[/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/stat/96/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2455
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
@@ -172,18 +159,18 @@
 [/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
 [/us/pl/113/291/s3021/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fc%2F2
 [/us/stat/128/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3761
+[/us/pl/114/94/s32301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301
+[/us/stat/129/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1741
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
-[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
-[/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
-[/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
-[/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/usc/t30/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s32301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F1
+[/us/pl/114/94/s32301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F2
+[/us/pl/114/94/s32301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F2
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t26/s6621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fb
 [/us/usc/t26/s6621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fa%2F1

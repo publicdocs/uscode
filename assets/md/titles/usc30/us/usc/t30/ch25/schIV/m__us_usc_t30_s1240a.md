@@ -79,7 +79,17 @@
 
             (C) __Schedule__ 
 
-                Payments under subparagraph (A) shall be made in 7 equal annual installments, beginning with fiscal year 2008.
+                (i) __In general__ 
+
+                    Payments under subparagraph (A) shall be made in 7 equal annual installments, beginning with fiscal year 2008.
+
+                (ii) __Certain payments required__ 
+
+                Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7 equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
+
+                    (I) the final 2 installments in 2 separate payments of $82,700,000 each; and
+
+                    (II) 2 separate payments of $38,250,000 each.
 
             (D) __Use of funds__ 
 
@@ -125,29 +135,7 @@
 
                 The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under [section 1232(g)(5) of this title][/us/usc/t30/s1232/g/5].
 
-        (5) __Limitation on annual payments__ 
-
-            Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
-
-        (6) __Supplemental funding__ 
-
-            (A) __Waiver of limitation__ 
-
-                Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
-
-            (B) __Limitation on waiver__ 
-
-                Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
-
-            (C) __Insufficient amounts__ 
-
-            If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
-
-                (i) give priority to making payments under paragraph (2); and
-
-                (ii) use any remaining funds to make payments under paragraph (1).
-
-([Pub. L. 95–87, title IV, § 411][/us/pl/95/87/s411], as added [Pub. L. 101–508, title VI, § 6010(2)][/us/pl/101/508/s6010/2], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I, § 100125][/us/pl/112/141/s100125], July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175, § 142][/us/pl/112/175/s142], Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321]; [Pub. L. 113–40, § 10(d)][/us/pl/113/40/s10/d], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546].)
+([Pub. L. 95–87, title IV, § 411][/us/pl/95/87/s411], as added [Pub. L. 101–508, title VI, § 6010(2)][/us/pl/101/508/s6010/2], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I, § 100125][/us/pl/112/141/s100125], July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175, § 142][/us/pl/112/175/s142], Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321]; [Pub. L. 113–40, § 10(d)][/us/pl/113/40/s10/d], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546]; [Pub. L. 114–94, div. D, title XLIII, § 43001][/us/pl/114/94/s43001], Dec. 4, 2015, [129 Stat. 1762][/us/stat/129/1762].)
 
  __References in Text__ 
 
@@ -160,6 +148,10 @@
     A prior [section 411 of Pub. L. 95–87][/us/pl/95/87/s411] was renumbered section 412 and was classified to [section 1241 of this title][/us/usc/t30/s1241], prior to being omitted from the Code.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(1)(C). [Pub. L. 114–94, § 43001(1)][/us/pl/114/94/s43001/1], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+    Subsec. (h)(5), (6). [Pub. L. 114–94, § 43001(2)][/us/pl/114/94/s43001/2], struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
 
     2013—Subsec. (h)(6). [Pub. L. 113–40][/us/pl/113/40] added par. (6).
 
@@ -219,6 +211,8 @@
 [/us/stat/126/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1321
 [/us/pl/113/40/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fd
 [/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
+[/us/pl/114/94/s43001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001
+[/us/stat/129/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1762
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021
 [/us/usc/t42/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7901
@@ -227,6 +221,8 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/95/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs411
 [/us/usc/t30/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1241
+[/us/pl/114/94/s43001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001%2F1
+[/us/pl/114/94/s43001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001%2F2
 [/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/112/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175
 [/us/usc/t30/s1232/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F1
