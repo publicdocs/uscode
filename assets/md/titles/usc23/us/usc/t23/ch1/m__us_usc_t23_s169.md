@@ -71,17 +71,25 @@
 
     (f)  __Consideration in Project Development and Permitting__  __.—__ 
 
-    If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project may use the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
+    If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project shall give substantial weight to the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) or other Federal environmental law.
 
     (g)  __Preservation of Existing Authorities__  __.—__ 
 
     Nothing in this section limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-(Added [Pub. L. 112–141, div. A, title I, § 1311(a)][/us/pl/112/141/s1311/a], July 6, 2012, [126 Stat. 543][/us/stat/126/543].)
+(Added [Pub. L. 112–141, div. A, title I, § 1311(a)][/us/pl/112/141/s1311/a], July 6, 2012, [126 Stat. 543][/us/stat/126/543]; amended [Pub. L. 114–94, div. A, title I, § 1306][/us/pl/114/94/s1306], Dec. 4, 2015, [129 Stat. 1389][/us/stat/129/1389].)
 
  __References in Text__ 
 
     The National Environmental Policy Act of 1969, referred to in subsecs. (f) and (g), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] substituted “shall give substantial weight to” for “may use” and inserted “or other Federal environmental law” before period at end.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -98,9 +106,15 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1311%2Fa
 [/us/stat/126/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F543
+[/us/pl/114/94/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1306
+[/us/stat/129/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1389
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

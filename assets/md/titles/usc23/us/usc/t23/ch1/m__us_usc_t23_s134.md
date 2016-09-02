@@ -19,7 +19,7 @@
 
     It is in the national interest—
 
-        (1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
+        (1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight, foster economic growth and development within and between States and urbanized areas, and take into consideration resiliency needs while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
 
         (2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 135(d).
 
@@ -63,7 +63,7 @@
 
         (2)  __Contents__  __.—__ 
 
-        The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
+        The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
 
         (3)  __Process of development__  __.—__ 
 
@@ -89,7 +89,21 @@
 
             (C) appropriate State officials.
 
-        (3)  __Limitation on statutory construction__  __.—__ 
+        (3) __Representation.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Designation or selection of officials or representatives under paragraph (2) shall be determined by the metropolitan planning organization according to the bylaws or enabling statute of the organization.
+
+            (B)  __Public transportation representative__  __.—__ 
+
+            Subject to the bylaws or enabling statute of the metropolitan planning organization, a representative of a provider of public transportation may also serve as a representative of a local municipality.
+
+            (C)  __Powers of certain officials__  __.—__ 
+
+            An official described in paragraph (2)(B) shall have responsibilities, actions, duties, voting rights, and any other authority commensurate with other officials described in paragraph (2).
+
+        (4)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this subsection shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities—
 
@@ -97,11 +111,11 @@
 
             (B) to develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
 
-        (4)  __Continuing designation__  __.—__ 
+        (5)  __Continuing designation__  __.—__ 
 
-        A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitan planning organization is redesignated under paragraph (5).
+        A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitan planning organization is redesignated under paragraph (6).
 
-        (5) __Redesignation procedures.—__ 
+        (6) __Redesignation procedures.—__ 
 
             (A)  __In general__  __.—__ 
 
@@ -111,7 +125,7 @@
 
             A metropolitan planning organization may be restructured to meet the requirements of paragraph (2) without undertaking a redesignation.
 
-        (6)  __Designation of more than 1 metropolitan planning organization__  __.—__ 
+        (7)  __Designation of more than 1 metropolitan planning organization__  __.—__ 
 
         More than 1 metropolitan planning organization may be designated within an existing metropolitan planning area only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the existing metropolitan planning area make designation of more than 1 metropolitan planning organization for the area appropriate.
 
@@ -141,7 +155,7 @@
 
             (B)  __Exception__  __.—__ 
 
-            The boundaries described in subparagraph (A) may be adjusted by agreement of the Governor and affected metropolitan planning organizations in the manner described in subsection (d)(5).
+            The boundaries described in subparagraph (A) may be adjusted by agreement of the Governor and affected metropolitan planning organizations in the manner described in subsection (d)(6).
 
         (5)  __New metropolitan planning areas in nonattainment__  __.—__ 
 
@@ -187,7 +201,7 @@
 
             (A)  __In general__  __.—__ 
 
-            The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
+            The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
 
             (B)  __Requirements__  __.—__ 
 
@@ -217,15 +231,19 @@
 
             (F) enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
 
-            (G) promote efficient system management and operation; and
+            (G) promote efficient system management and operation;
 
-            (H) emphasize the preservation of the existing transportation system.
+            (H) emphasize the preservation of the existing transportation system;
+
+            (I) improve the resiliency and reliability of the transportation system and reduce or mitigate stormwater impacts of surface transportation; and
+
+            (J) enhance travel and tourism.
 
         (2) __Performance-based approach.—__ 
 
             (A)  __In general__  __.—__ 
 
-            The metropolitan transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of this title][/us/usc/t23/s150/b] and in [section 5301(c) of title 49][/us/usc/t49/s5301/c].
+            The metropolitan transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of this title][/us/usc/t23/s150/b] and the general purposes described in [section 5301 of title 49][/us/usc/t49/s5301].
 
             (B) __Performance targets.—__ 
 
@@ -285,7 +303,7 @@
 
                 (i)  __In general__  __.—__ 
 
-                An identification of transportation facilities (including major roadways, transit, multimodal and intermodal facilities, nonmotorized transportation facilities, and intermodal connectors) that should function as an integrated metropolitan transportation system, giving emphasis to those facilities that serve important national and regional transportation functions.
+                An identification of transportation facilities (including major roadways, public transportation facilities, intercity bus facilities, multimodal and intermodal facilities, nonmotorized transportation facilities, and intermodal connectors) that should function as an integrated metropolitan transportation system, giving emphasis to those facilities that serve important national and regional transportation functions.
 
                 (ii)  __Factors__  __.—__ 
 
@@ -339,11 +357,11 @@
 
             (G)  __Capital investment and other strategies__  __.—__ 
 
-            Capital investment and other strategies to preserve the existing and projected future metropolitan transportation infrastructure and provide for multimodal capacity increases based on regional priorities and needs.
+            Capital investment and other strategies to preserve the existing and projected future metropolitan transportation infrastructure, provide for multimodal capacity increases based on regional priorities and needs, and reduce the vulnerability of the existing transportation infrastructure to natural disasters.
 
             (H)  __Transportation and transit enhancement activities__  __.—__ 
 
-            Proposed transportation and transit enhancement activities.
+            Proposed transportation and transit enhancement activities including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated.
 
         (3)  __Coordination with clean air act agencies__  __.—__ 
 
@@ -393,7 +411,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Each metropolitan planning organization shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan.
+            Each metropolitan planning organization shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan.
 
             (B)  __Contents of participation plan__  __.—__ 
 
@@ -419,7 +437,7 @@
 
         (8)  __Selection of projects from illustrative list__  __.—__ 
 
-        Notwithstanding paragraph (2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(C).
+        Notwithstanding paragraph (2)(E), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(E).
 
     (j) __Metropolitan TIP.—__ 
 
@@ -571,11 +589,25 @@
 
             (A)  __In general__  __.—__ 
 
-            Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this title and chapter 53 of title 49 through the use of travel demand reduction and operational management strategies.
+            Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this title and chapter 53 of title 49 through the use of travel demand reduction (including intercity bus operators, employer-based commuting programs such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), job access projects, and operational management strategies.
 
             (B)  __Schedule__  __.—__ 
 
             The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than 1 year after the identification of a transportation management area.
+
+            (C) __Congestion management plan.—__ 
+
+            A metropolitan planning organization serving a transportation management area may develop a plan that includes projects and strategies that will be considered in the TIP of such metropolitan planning organization. Such plan shall—
+
+                (i) develop regional goals to reduce vehicle miles traveled during peak commuting hours and improve transportation connections between areas with high job concentration and areas with high concentrations of low-income households;
+
+                (ii) identify existing public transportation services, employer-based commuter programs, and other existing transportation services that support access to jobs in the region; and
+
+                (iii) identify proposed projects and programs to reduce congestion and increase job access opportunities.
+
+            (D) __Participation.—__ 
+
+            In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and nonprofit providers of public transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
 
         (4) __Selection of projects.—__ 
 
@@ -623,7 +655,7 @@
 
         (1)  __In general__  __.—__ 
 
-        The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection
+        The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection.
 
         (2)  __Report__  __.—__ 
 
@@ -635,7 +667,7 @@
 
             (C) the extent to which metropolitan planning organizations have achieved, or are currently making substantial progress toward achieving, the performance targets specified under this section and whether metropolitan planning organizations are developing meaningful performance targets; and
 
-            (D) the technical capacity of metropolitan planning organizations that operate within a metropolitan planning area of less than 200,000 and their ability to carry out the requirements of this section.
+            (D) the technical capacity of metropolitan planning organizations that operate within a metropolitan planning area with a population of 200,000 or less and their ability to carry out the requirements of this section.
 
         (3)  __Publication__  __.—__ 
 
@@ -655,7 +687,7 @@
 
         (1)  __In general__  __.—__ 
 
-        Notwithstanding any other provisions of this title or chapter 53 of title, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title 49,”. </sup></sup>  for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
+        Notwithstanding any other provisions of this title or chapter 53 of title 49, for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
 
         (2)  __Applicability__  __.—__ 
 
@@ -667,13 +699,45 @@
 
     (p)  __Funding__  __.—__ 
 
-    Funds set aside under [section 104(f) of this title][/us/usc/t23/s104/f] or [section 5305(g) of title 49][/us/usc/t49/s5305/g] shall be available to carry out this section.
+    Funds apportioned under paragraphs (5)(D) and (6) of [section 104(b) of this title][/us/usc/t23/s104/b] or [section 5305(g) of title 49][/us/usc/t49/s5305/g] shall be available to carry out this section.
 
     (q)  __Continuation of Current Review Practice__  __.—__ 
 
     Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under that Act.
 
-(Added [Pub. L. 87–866, § 9(a)][/us/pl/87/866/s9/a], Oct. 23, 1962, [76 Stat. 1148][/us/stat/76/1148]; amended [Pub. L. 91–605, title I, § 143][/us/pl/91/605/s143], Dec. 31, 1970, [84 Stat. 1737][/us/stat/84/1737]; [Pub. L. 95–599, title I, § 169][/us/pl/95/599/s169], Nov. 6, 1978, [92 Stat. 2723][/us/stat/92/2723]; [Pub. L. 102–240, title I, § 1024(a)][/us/pl/102/240/s1024/a], Dec. 18, 1991, [105 Stat. 1955][/us/stat/105/1955]; [Pub. L. 102–388, title V, § 502(b)][/us/pl/102/388/s502/b], Oct. 6, 1992, [106 Stat. 1566][/us/stat/106/1566]; [Pub. L. 103–429, § 3(5)][/us/pl/103/429/s3/5], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 317][/us/pl/104/59/s317], Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588]; [Pub. L. 105–178, title I, § 1203(a)][/us/pl/105/178/s1203/a]–(m), (o), June 9, 1998, [112 Stat. 170–179][/us/stat/112/170-179]; [Pub. L. 105–206, title IX, § 9003(c)][/us/pl/105/206/s9003/c], July 22, 1998, [112 Stat. 839][/us/stat/112/839]; [Pub. L. 109–59, title VI, § 6001(a)][/us/pl/109/59/s6001/a], Aug. 10, 2005, [119 Stat. 1839][/us/stat/119/1839]; [Pub. L. 110–244, title I, § 101(n)][/us/pl/110/244/s101/n], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 112–141, div. A, title I, § 1201(a)][/us/pl/112/141/s1201/a], July 6, 2012, [126 Stat. 500][/us/stat/126/500].)
+    (r) __Bi-State Metropolitan Planning Organization.—__ 
+
+        (1)  __Definition of bi-state mpo region__  __.—__ 
+
+        In this subsection, the term “Bi-State MPO Region” has the meaning given the term “region” in subsection (a) of Article II of the Lake Tahoe Regional Planning Compact ([Public Law 96–551][/us/pl/96/551]; [94 Stat. 3234][/us/stat/94/3234]).
+
+        (2)  __Treatment__  __.—__ 
+
+        For the purpose of this title, the Bi-State MPO Region shall be treated as—
+
+            (A) a metropolitan planning organization;
+
+            (B) a transportation management area under subsection (k); and
+
+            (C) an urbanized area, which is comprised of a population of 145,000 in the State of California and a population of 65,000 in the State of Nevada.
+
+        (3) __Suballocated funding.—__ 
+
+            (A)  __Planning__  __.—__ 
+
+            In determining the amounts under subparagraph (A) of section 133(d)(1) that shall be obligated for a fiscal year in the States of California and Nevada under clauses (i), (ii), and (iii) of that subparagraph, the Secretary shall, for each of those States—
+
+                (i) calculate the population under each of those clauses;
+
+                (ii) decrease the amount under section 133(d)(1)(A)(iii) by the population specified in paragraph (2) of this subsection for the Bi-State MPO Region in that State; and
+
+                (iii) increase the amount under section 133(d)(1)(A)(i) by the population specified in paragraph (2) of this subsection for the Bi-State MPO Region in that State.
+
+            (B)  __STBGP set aside__  __.—__ 
+
+            In determining the amounts under paragraph (2) of section 133(h) that shall be obligated for a fiscal year in the States of California and Nevada, the Secretary shall, for the purpose of that subsection, calculate the populations for each of those States in a manner consistent with subparagraph (A).
+
+(Added [Pub. L. 87–866, § 9(a)][/us/pl/87/866/s9/a], Oct. 23, 1962, [76 Stat. 1148][/us/stat/76/1148]; amended [Pub. L. 91–605, title I, § 143][/us/pl/91/605/s143], Dec. 31, 1970, [84 Stat. 1737][/us/stat/84/1737]; [Pub. L. 95–599, title I, § 169][/us/pl/95/599/s169], Nov. 6, 1978, [92 Stat. 2723][/us/stat/92/2723]; [Pub. L. 102–240, title I, § 1024(a)][/us/pl/102/240/s1024/a], Dec. 18, 1991, [105 Stat. 1955][/us/stat/105/1955]; [Pub. L. 102–388, title V, § 502(b)][/us/pl/102/388/s502/b], Oct. 6, 1992, [106 Stat. 1566][/us/stat/106/1566]; [Pub. L. 103–429, § 3(5)][/us/pl/103/429/s3/5], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 317][/us/pl/104/59/s317], Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588]; [Pub. L. 105–178, title I, § 1203(a)][/us/pl/105/178/s1203/a]–(m), (o), June 9, 1998, [112 Stat. 170–179][/us/stat/112/170-179]; [Pub. L. 105–206, title IX, § 9003(c)][/us/pl/105/206/s9003/c], July 22, 1998, [112 Stat. 839][/us/stat/112/839]; [Pub. L. 109–59, title VI, § 6001(a)][/us/pl/109/59/s6001/a], Aug. 10, 2005, [119 Stat. 1839][/us/stat/119/1839]; [Pub. L. 110–244, title I, § 101(n)][/us/pl/110/244/s101/n], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 112–141, div. A, title I, § 1201(a)][/us/pl/112/141/s1201/a], July 6, 2012, [126 Stat. 500][/us/stat/126/500]; [Pub. L. 114–94, div. A, title I, § 1201][/us/pl/114/94/s1201], Dec. 4, 2015, [129 Stat. 1371][/us/stat/129/1371].)
 
  __References in Text__ 
 
@@ -686,6 +750,48 @@
     The National Environmental Policy Act of 1969, referred to in subsec. (q), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 1201(1)][/us/pl/114/94/s1201/1], substituted “people and freight,” for “people and freight and” and inserted “and take into consideration resiliency needs” after “urbanized areas,”.
+
+    Subsec. (c)(2). [Pub. L. 114–94, § 1201(2)][/us/pl/114/94/s1201/2], substituted “, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers” for “and bicycle transportation facilities”.
+
+    Subsec. (d)(3), (4). [Pub. L. 114–94, § 1201(3)(A)][/us/pl/114/94/s1201/3/A], (B), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+
+    Subsec. (d)(5). [Pub. L. 114–94, § 1201(A)][/us/pl/114/94/s1201/A], (C), redesignated par. (4) as (5) and substituted “paragraph (6)” for “paragraph (5)”. Former par. (5) redesignated (6).
+
+    Subsec. (d)(6), (7). [Pub. L. 114–94, § 1201(3)(A)][/us/pl/114/94/s1201/3/A], redesignated pars. (5) and (6) as (6) and (7), respectively.
+
+    Subsec. (e)(4)(B). [Pub. L. 114–94, § 1201(4)][/us/pl/114/94/s1201/4], substituted “subsection (d)(6)” for “subsection (d)(5)”.
+
+    Subsec. (g)(3)(A). [Pub. L. 114–94, § 1201(5)][/us/pl/114/94/s1201/5], inserted “tourism, natural disaster risk reduction,” after “economic development,”.
+
+    Subsec. (h)(1)(I), (J). [Pub. L. 114–94, § 1201(6)(A)][/us/pl/114/94/s1201/6/A], added subpars. (I) and (J).
+
+    Subsec. (h)(2)(A). [Pub. L. 114–94, § 1201(6)(B)][/us/pl/114/94/s1201/6/B], substituted “and the general purposes described in [section 5301 of title 49][/us/usc/t49/s5301]” for “and in [section 5301(c) of title 49][/us/usc/t49/s5301/c]”.
+
+    Subsec. (i)(2)(A)(i). [Pub. L. 114–94, § 1201(7)(A)(i)][/us/pl/114/94/s1201/7/A/i], substituted “public transportation facilities, intercity bus facilities,” for “transit,”.
+
+    Subsec. (i)(2)(G). [Pub. L. 114–94, § 1201(7)(A)(ii)][/us/pl/114/94/s1201/7/A/ii], substituted “, provide” for “and provide” and inserted “, and reduce the vulnerability of the existing transportation infrastructure to natural disasters” before period at end.
+
+    Subsec. (i)(2)(H). [Pub. L. 114–94, § 1201(7)(A)(iii)][/us/pl/114/94/s1201/7/A/iii], inserted before period at end “including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated”.
+
+    Subsec. (i)(6)(A). [Pub. L. 114–94, § 1201(7)(B)][/us/pl/114/94/s1201/7/B], inserted “public ports,” before “freight shippers,” and “(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)” after “private providers of transportation”.
+
+    Subsec. (i)(8). [Pub. L. 114–94, § 1201(7)(C)][/us/pl/114/94/s1201/7/C], substituted “paragraph (2)(E)” for “paragraph (2)(C)” in two places.
+
+    Subsec. (k)(3)(A). [Pub. L. 114–94, § 1201(8)(A)][/us/pl/114/94/s1201/8/A], inserted “(including intercity bus operators, employer-based commuting programs such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), job access projects,” after “reduction”.
+
+    Subsec. (k)(3)(C), (D). [Pub. L. 114–94, § 1201(8)(B)][/us/pl/114/94/s1201/8/B], added subpars. (C) and (D).
+
+    Subsec. (l)(1). [Pub. L. 114–94, § 1201(9)(A)][/us/pl/114/94/s1201/9/A], added period at end.
+
+    Subsec. (l)(2)(D). [Pub. L. 114–94, § 1201(9)(B)][/us/pl/114/94/s1201/9/B], substituted “with a population of 200,000 or less” for “of less than 200,000”.
+
+    Subsec. (n)(1). [Pub. L. 114–94, § 1201(10)][/us/pl/114/94/s1201/10], inserted “49” after “chapter 53 of title”.
+
+    Subsec. (p). [Pub. L. 114–94, § 1201(11)][/us/pl/114/94/s1201/11], substituted “Funds apportioned under paragraphs (5)(D) and (6) of section 104(b)” for “Funds set aside under section 104(f)”.
+
+    Subsec. (r). [Pub. L. 114–94, § 1201(12)][/us/pl/114/94/s1201/12], added subsec. (r).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to metropolitan transportation planning and consisted of subsecs. (a) to (p).
 
@@ -779,6 +885,10 @@
 
     1970—[Pub. L. 91–605][/us/pl/91/605] designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or more population unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the proj­ect, and added subsec. (b).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -824,16 +934,18 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t23/s150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs150%2Fb
-[/us/usc/t49/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301%2Fc
+[/us/usc/t49/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
 [/us/usc/t42/s7407/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd%2F3
 [/us/usc/t42/s7505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7505a
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/usc/t23/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Ff
+[/us/usc/t23/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb
 [/us/usc/t49/s5305/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5305%2Fg
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/96/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F551
+[/us/stat/94/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3234
 [/us/pl/87/866/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866%2Fs9%2Fa
 [/us/stat/76/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1148
 [/us/pl/91/605/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs143
@@ -858,6 +970,8 @@
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
 [/us/pl/112/141/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1201%2Fa
 [/us/stat/126/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F500
+[/us/pl/114/94/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201
+[/us/stat/129/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1371
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -867,6 +981,29 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F1
+[/us/pl/114/94/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F2
+[/us/pl/114/94/s1201/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F3%2FA
+[/us/pl/114/94/s1201/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2FA
+[/us/pl/114/94/s1201/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F3%2FA
+[/us/pl/114/94/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F4
+[/us/pl/114/94/s1201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F5
+[/us/pl/114/94/s1201/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F6%2FA
+[/us/pl/114/94/s1201/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F6%2FB
+[/us/usc/t49/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301
+[/us/usc/t49/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301%2Fc
+[/us/pl/114/94/s1201/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F7%2FA%2Fi
+[/us/pl/114/94/s1201/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F7%2FA%2Fii
+[/us/pl/114/94/s1201/7/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F7%2FA%2Fiii
+[/us/pl/114/94/s1201/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F7%2FB
+[/us/pl/114/94/s1201/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F7%2FC
+[/us/pl/114/94/s1201/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F8%2FA
+[/us/pl/114/94/s1201/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F8%2FB
+[/us/pl/114/94/s1201/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F9%2FA
+[/us/pl/114/94/s1201/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F9%2FB
+[/us/pl/114/94/s1201/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F10
+[/us/pl/114/94/s1201/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F11
+[/us/pl/114/94/s1201/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1201%2F12
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244/s101/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fn%2F1
 [/us/pl/110/244/s101/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fn%2F2
@@ -917,6 +1054,9 @@
 [/us/pl/95/599/s169/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs169%2Fa
 [/us/pl/95/599/s169/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs169%2Fb
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

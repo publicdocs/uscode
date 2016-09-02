@@ -73,7 +73,15 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs207" data-uslm-ref="/us/usc/t23/s207">207</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs209" data-uslm-ref="/us/usc/t23/s209">209.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs207" data-uslm-ref="/us/usc/t23/s207">207.</a>  </td>
+
+    <td> Tribal transportation self-governance program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs208" data-uslm-ref="/us/usc/t23/s208">208</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs209" data-uslm-ref="/us/usc/t23/s209">209.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,23 +97,7 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs211" data-uslm-ref="/us/usc/t23/s211">211</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs212" data-uslm-ref="/us/usc/t23/s212">212.</a>  </td>
-
-    <td> Repealed.]  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs213" data-uslm-ref="/us/usc/t23/s213">213.</a>  </td>
-
-    <td> Transportation alternatives  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs214" data-uslm-ref="/us/usc/t23/s214">214</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs216" data-uslm-ref="/us/usc/t23/s216">216.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs211" data-uslm-ref="/us/usc/t23/s211">211</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs216" data-uslm-ref="/us/usc/t23/s216">216.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -139,6 +131,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(6)(B), 1121(b), Dec. 4, 2015, [129 Stat. 1344][/us/stat/129/1344], 1368, added item 207 and struck out item 213 “Transportation alternatives”.
+
     2012—[Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1114(b)(2)(B), 1119(c)(1), 1122(b), 1519(c)(1)(B), July 6, 2012, [126 Stat. 468][/us/stat/126/468], 491, 497, 575, substituted “Federal lands and tribal transportation programs” for “Authorizations” in item 201, “Tribal transportation program” for “Allocations” in item 202, “Federal lands transportation program” for “Availability of funds” in item 203, and “Federal lands access program” for “Federal lands highways program” in item 204, struck out item 212 “Inter-American Highway”, added item 213, and struck out items 214 “Public lands development roads and trails”, 215 “Territorial highway program”, and 216 “Darien Gap Highway”.
 
     2005—[Pub. L. 109–59, title I, § 1118(b)(3)][/us/pl/109/59/s1118/b/3], Aug. 10, 2005, [119 Stat. 1181][/us/stat/119/1181], substituted “Territorial highway program” for “Territories highway development program” in item 215.
@@ -170,6 +164,8 @@
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1344
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F468
 [/us/pl/109/59/s1118/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1118%2Fb%2F3

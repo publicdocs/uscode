@@ -17,7 +17,7 @@
 
     (a) The Congress hereby finds and declares that the establishment and use and maintenance of junkyards in areas adjacent to the Interstate System and the primary system should be controlled in order to protect the public investment in such highways, to promote the safety and recreational value of public travel, and to preserve natural beauty.
 
-    (b) Federal-aid highway funds apportioned on or after January 1, 1968, to any State which the Secretary determines has not made provision for effective control of the establishment and maintenance along the Interstate System and the primary system of outdoor junkyards, which are within one thousand feet of the nearest edge of the right-of-way and visible from the main traveled way of the system, shall be reduced by amounts equal to 7 percent of the amounts which would otherwise be apportioned to such State under paragraphs (1) through (5) of section 104(b), until such time as such State shall provide for such effective control. Any amount which is withheld from apportionment to any State hereunder shall be reapportioned to the other States. Whenever he determines it to be in the public interest, the Secretary may suspend, for such periods as he deems necessary, the application of this subsection to a State.
+    (b) Federal-aid highway funds apportioned on or after January 1, 1968, to any State which the Secretary determines has not made provision for effective control of the establishment and maintenance along the Interstate System and the primary system of outdoor junkyards, which are within one thousand feet of the nearest edge of the right-of-way and visible from the main traveled way of the system, shall be reduced by amounts equal to 7 percent of the amounts which would otherwise be apportioned to such State under paragraphs (1) through (6) of section 104(b), until such time as such State shall provide for such effective control. Any amount which is withheld from apportionment to any State hereunder shall be reapportioned to the other States. Whenever he determines it to be in the public interest, the Secretary may suspend, for such periods as he deems necessary, the application of this subsection to a State.
 
     (c) Effective control means that by January 1, 1968, such junkyards shall be screened by natural objects, plantings, fences, or other appropriate means so as not to be visible from the main traveled way of the system, or shall be removed from sight.
 
@@ -45,9 +45,11 @@
 
     For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean any highway that is on the National Highway System, which includes the Interstate Highway System.
 
-(Added [Pub. L. 89–285, title II, § 201][/us/pl/89/285/s201], Oct. 22, 1965, [79 Stat. 1030][/us/stat/79/1030]; amended [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(e)][/us/pl/90/495/s6/e], Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 91–605, title I, § 122(b)][/us/pl/91/605/s122/b], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 110][/us/pl/93/643/s110], Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 112–141, div. A, title I, § 1404(b)][/us/pl/112/141/s1404/b], July 6, 2012, [126 Stat. 557][/us/stat/126/557].)
+(Added [Pub. L. 89–285, title II, § 201][/us/pl/89/285/s201], Oct. 22, 1965, [79 Stat. 1030][/us/stat/79/1030]; amended [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(e)][/us/pl/90/495/s6/e], Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 91–605, title I, § 122(b)][/us/pl/91/605/s122/b], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 110][/us/pl/93/643/s110], Jan. 4, 1975, [88 Stat. 2285][/us/stat/88/2285]; [Pub. L. 112–141, div. A, title I, § 1404(b)][/us/pl/112/141/s1404/b], July 6, 2012, [126 Stat. 557][/us/stat/126/557]; [Pub. L. 114–94, div. A, title I, § 1104(e)(4)][/us/pl/114/94/s1104/e/4], Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] substituted “paragraphs (1) through (6) of section 104(b)” for “paragraphs (1) through (5) of section 104(b)”.
 
     2012—Subsec. (b). [Pub. L. 112–141, § 1404(b)(1)][/us/pl/112/141/s1404/b/1], substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
 
@@ -60,6 +62,10 @@
     1968—Subsec. (m). [Pub. L. 90–495][/us/pl/90/495] inserted provision authorizing an appropriation of not to exceed $3,000,000 for the fiscal year ending June 30, 1970.
 
     1966—Subsec. (m). [Pub. L. 89–574][/us/pl/89/574] substituted provisions making applicable to the funds authorized to be appropriated to carry out this section after June 30, 1967, the provisions of chapter 1 of this title relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this section.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -96,6 +102,9 @@
 [/us/stat/88/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2285
 [/us/pl/112/141/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb
 [/us/stat/126/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F557
+[/us/pl/114/94/s1104/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F4
+[/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s1404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb%2F1
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/112/141/s1404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fb%2F2
@@ -103,6 +112,9 @@
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

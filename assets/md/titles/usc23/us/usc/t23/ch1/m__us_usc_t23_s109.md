@@ -29,13 +29,15 @@
 
         (1)  __In general__  __.—__ 
 
-        A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) may take into account, in addition to the criteria described in subsection (a)—
+        A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) shall consider, in addition to the criteria described in subsection (a)—
 
             (A) the constructed and natural environment of the area;
 
-            (B) the environmental, scenic, aesthetic, historic, community, and preservation impacts of the activity; and
+            (B) the environmental, scenic, aesthetic, historic, community, and preservation impacts of the activity;
 
-            (C) access for other modes of transportation.
+            (C) cost savings by utilizing flexibility that exists in current design guidance and regulations; and
+
+            (D) access for other modes of transportation.
 
         (2)  __Development of criteria__  __.—__ 
 
@@ -45,9 +47,13 @@
 
             (B) the publication entitled “Flexibility in Highway Design” of the Federal Highway Administration;
 
-            (C) “Eight Characteristics of Process to Yield Excellence and the Seven Qualities of Excellence in Transportation Design” developed by the conference held during 1998 entitled “Thinking Beyond the Pavement National Workshop on Integrating Highway Development with Communities and the Environment while Maintaining Safety and Performance”; and
+            (C) “Eight Characteristics of Process to Yield Excellence and the Seven Qualities of Excellence in Transportation Design” developed by the conference held during 1998 entitled “Thinking Beyond the Pavement National Workshop on Integrating Highway Development with Communities and the Environment while Maintaining Safety and Performance”;
 
-            (D) any other material that the Secretary determines to be appropriate.
+            (D) the publication entitled “Highway Safety Manual” of the American Association of State Highway and Transportation Officials;
+
+            (E) the publication entitled “Urban Street Design Guide” of the National Association of City Transportation Officials; and
+
+            (F) any other material that the Secretary determines to be appropriate.
 
     (d) On any highway project in which Federal funds hereafter participate, or on any such proj­ect constructed since December 20, 1944, the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State transportation department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safe and efficient utilization of the highways.
 
@@ -61,7 +67,7 @@
 
         No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2, unless proper temporary traffic control devices to improve safety in work zones will be installed and maintained during construction, utility, and maintenance operations on that portion of the highway with respect to which such expenditures are to be made. Installation and maintenance of the devices shall be in accordance with the Manual on Uniform Traffic Control Devices.
 
-    (f) The Secretary shall not, as a condition precedent to his approval under [section 106 of this title][/us/usc/t23/s106], require any State to acquire title to, or control of, any marginal land along the proposed highway in addition to that reasonably necessary for road surfaces, median strips, bikeways, gutters, ditches, and side slopes, and of sufficient width to provide service roads for adjacent property to permit safe access at controlled locations in order to expedite traffic, promote safety, and minimize roadside parking.
+    (f) The Secretary shall not, as a condition precedent to his approval under [section 106 of this title][/us/usc/t23/s106], require any State to acquire title to, or control of, any marginal land along the proposed highway in addition to that reasonably necessary for road surfaces, median strips, bikeways, pedestrian walkways, gutters, ditches, and side slopes, and of sufficient width to provide service roads for adjacent property to permit safe access at controlled locations in order to expedite traffic, promote safety, and minimize roadside parking.
 
     (g) Not later than January 30, 1971, the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
@@ -141,11 +147,19 @@
 
     The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 894][/us/stat/72/894]; [Pub. L. 88–157, § 4][/us/pl/88/157/s4], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–574][/us/pl/89/574], §§ 5(a), 14, Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767], 771; [Pub. L. 91–605, title I, § 136(a)][/us/pl/91/605/s136/a], (b), Dec. 31, 1970, [84 Stat. 1734][/us/stat/84/1734]; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 114, 152(2), 156, Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257], 276, 277; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 113, 116(d), 141(f), (g), Nov. 6, 1978, [92 Stat. 2696][/us/stat/92/2696], 2699, 2711; [Pub. L. 96–106, § 3][/us/pl/96/106/s3], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I, § 110(a)][/us/pl/97/424/s110/a], Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105]; [Pub. L. 102–240, title I, § 1016(c)][/us/pl/102/240/s1016/c]–(f)(1), Dec. 18, 1991, [105 Stat. 1946][/us/stat/105/1946]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 304, 305(a), Nov. 28, 1995, [109 Stat. 579][/us/stat/109/579], 580; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1202(c), 1212(a)(2)(A), 1306, June 9, 1998, [112 Stat. 169][/us/stat/112/169], 193, 229; [Pub. L. 109–59, title I, § 1110(a)][/us/pl/109/59/s1110/a], (c), title VI, § 6008, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1171, 1874; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1504, 1519(c)(4), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 575.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 894][/us/stat/72/894]; [Pub. L. 88–157, § 4][/us/pl/88/157/s4], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–574][/us/pl/89/574], §§ 5(a), 14, Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767], 771; [Pub. L. 91–605, title I, § 136(a)][/us/pl/91/605/s136/a], (b), Dec. 31, 1970, [84 Stat. 1734][/us/stat/84/1734]; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 114, 152(2), 156, Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257], 276, 277; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 113, 116(d), 141(f), (g), Nov. 6, 1978, [92 Stat. 2696][/us/stat/92/2696], 2699, 2711; [Pub. L. 96–106, § 3][/us/pl/96/106/s3], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I, § 110(a)][/us/pl/97/424/s110/a], Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105]; [Pub. L. 102–240, title I, § 1016(c)][/us/pl/102/240/s1016/c]–(f)(1), Dec. 18, 1991, [105 Stat. 1946][/us/stat/105/1946]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 304, 305(a), Nov. 28, 1995, [109 Stat. 579][/us/stat/109/579], 580; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1202(c), 1212(a)(2)(A), 1306, June 9, 1998, [112 Stat. 169][/us/stat/112/169], 193, 229; [Pub. L. 109–59, title I, § 1110(a)][/us/pl/109/59/s1110/a], (c), title VI, § 6008, Aug. 10, 2005, [119 Stat. 1170][/us/stat/119/1170], 1171, 1874; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1504, 1519(c)(3), formerly § 1519(c)(4), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 575, renumbered § 1519(c)(3), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I, § 1404(a)][/us/pl/114/94/s1404/a], Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409].)
 
  __Amendments__ 
 
-    2012—Subsec. (q). [Pub. L. 112–141, § 1519(c)(4)][/us/pl/112/141/s1519/c/4], struck out “in accordance with section 303 or” after “system established”.
+    2015—Subsec. (c)(1). [Pub. L. 114–94, § 1404(a)(1)(A)(i)][/us/pl/114/94/s1404/a/1/A/i], substituted “shall consider” for “may take into account” in introductory provisions.
+
+    Subsec. (c)(1)(C), (D). [Pub. L. 114–94, § 1404(a)(1)(A)(ii)][/us/pl/114/94/s1404/a/1/A/ii]–(iv), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+    Subsec. (c)(2)(D) to (F). [Pub. L. 114–94, § 1404(a)(1)(B)][/us/pl/114/94/s1404/a/1/B], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+
+    Subsec. (f). [Pub. L. 114–94, § 1404(a)(2)][/us/pl/114/94/s1404/a/2], inserted “pedestrian walkways,” after “bikeways,”.
+
+    2012—Subsec. (q). [Pub. L. 112–141, § 1519(c)(3)][/us/pl/112/141/s1519/c/3], formerly § 1519(c)(4), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out “in accordance with section 303 or” after “system established”.
 
     Subsec. (r). [Pub. L. 112–141, § 1504][/us/pl/112/141/s1504], added subsec. (r).
 
@@ -215,6 +229,12 @@
 
     1963—Subsec. (b). [Pub. L. 88–157][/us/pl/88/157] substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under [section 106 of this title][/us/usc/t23/s106], of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -222,6 +242,104 @@
  __Effective Date of 1991 Amendment__ 
 
     Amendment by [Pub. L. 102–240][/us/pl/102/240] effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as a note under [section 104 of this title][/us/usc/t23/s104].
+
+ __Retroactive Application of Adjustment to Criteria for Categorical Exclusion for Projects of Limited Federal Assistance__ 
+
+[Pub. L. 114–94, div. A, title I, § 1314(b)][/us/pl/114/94/s1314/b], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
+
+> “The first adjustment made pursuant to the amendments made by subsection (a) \[amending [section 1317 of Pub. L. 112–141][/us/pl/112/141/s1317], set out below\] shall—
+
+>     “(1) be carried out not later than 60 days after the date of enactment of this Act \[Dec. 4, 2015\]; and
+
+>     “(2) reflect the increase in the Consumer Price Index since July 1, 2012.”
+
+ __Categorical Exclusion Determinations__ 
+
+[Pub. L. 114–94, div. A, title I, § 1315(b)][/us/pl/114/94/s1315/b], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
+
+> “Not later than 30 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise section 771.117(g) of title 23, Code of Federal Regulations, to allow a programmatic agreement under this section \[see [section 1318(e) of Pub. L. 112–141][/us/pl/112/141/s1318/e], set out below\] to include responsibility for making categorical exclusion determinations—
+
+>     “(1) for actions described in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations; and
+
+>     “(2) that meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act), and are identified in the programmatic agreement.”
+
+ __Roadway Design Standard Flexibility__ 
+
+[Pub. L. 114–94, div. A, title I, § 1404(b)][/us/pl/114/94/s1404/b], Dec. 4, 2015, [129 Stat. 1409][/us/stat/129/1409], provided that: 
+
+> “Notwithstanding section 109(o) of title 23, United States Code, a State may allow a local jurisdiction to use a roadway design publication that is different from the roadway design publication used by the State in which the local jurisdiction is located for the design of a project on a roadway under the ownership of the local jurisdiction (other than a highway on the Interstate System) if—
+
+>     “(1) the local jurisdiction is a direct recipient of Federal funds for the project;
+
+>     “(2)
+
+>      the roadway design publication—
+
+>         “(A) is recognized by the Federal Highway Administration; and
+
+>         “(B) is adopted by the local jurisdiction; and
+
+>     “(3) the design complies with all other applicable Federal laws.”
+
+ __Emergency Exemptions__ 
+
+[Pub. L. 114–94, div. A, title I, § 1432][/us/pl/114/94/s1432], Dec. 4, 2015, [129 Stat. 1429][/us/stat/129/1429], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Any road, highway, railway, bridge, or transit facility that is damaged by an emergency that is declared by the Governor of the State, with the concurrence of the Secretary of Homeland Security, or declared as an emergency by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), and that is in operation or under construction on the date on which the emergency occurs may be reconstructed in the same location with the same capacity, dimensions, and design as before the emergency subject to the exemptions and expedited procedures under subsection (b).
+
+>     “(b) __Exemptions and Expedited Procedures.—__ 
+
+>         “(1)  __Alternative arrangements__  __.—__ 
+
+>         Alternative arrangements for an emergency under section 1506.11 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered necessary to control the immediate impacts of the emergency.
+
+>         “(2)  __Stormwater discharge permits__  __.—__ 
+
+>         A general permit for stormwater discharges from construction activities, if available, issued by the Administrator of the Environmental Protection Agency or the director of a State program under section 402(p) of the Federal Water Pollution Control Act ([33 U.S.C. 1342(p)][/us/usc/t33/s1342/p]), as applicable, shall apply to reconstruction under subsection (a), on submission of a notice of intent to be subject to the permit.
+
+>         “(3)  __Emergency procedures__  __.—__ 
+
+>         The emergency procedures for issuing permits in accordance with section 325.2(e)(4) of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered an emergency under that regulation.
+
+>         “(4)  __National historic preservation act exemption__  __.—__ 
+
+>         Reconstruction under subsection (a) is eligible for an exemption from the requirements of the National Historic Preservation Act of 1966 \[[Pub. L. 89–665][/us/pl/89/665], see Tables for classification\] pursuant to part 78 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]).
+
+>         “(5)  __Endangered species act exemption__  __.—__ 
+
+>         An exemption from the requirements of the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.) pursuant to section 7(p) of that Act ([16 U.S.C. 1536(p)][/us/usc/t16/s1536/p]) shall apply to reconstruction under subsection (a) and, if the President makes the determination required under section 7(p) of that Act, the determinations required under subsections (g) and (h) of that section shall be deemed to be made.
+
+>         “(6)  __Expedited consultation under endangered species act__  __.—__ 
+
+>         Expedited consultation pursuant to section 402.05 of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a).
+
+>         “(7)  __Other exemptions__  __.—__ 
+
+>         Any reconstruction that is exempt under paragraph (5) shall also be exempt from requirements under—
+
+>             “(A) the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703] et seq.);
+
+>             “(B) the Wild and Scenic Rivers Act ([16 U.S.C. 1271][/us/usc/t16/s1271] et seq.); and
+
+>             “(C) the Fish and Wildlife Coordination Act ([16 U.S.C. 661][/us/usc/t16/s661] et seq.).”
+
+ __Safety for Users__ 
+
+[Pub. L. 114–94, div. A, title I, § 1442][/us/pl/114/94/s1442], Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall encourage each State and metropolitan planning organization to adopt standards for the design of Federal surface transportation projects that provide for the safe and adequate accommodation (as determined by the State) of all users of the surface transportation network, including motorized and nonmotorized users, in all phases of project planning, development, and operation.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall make available to the public a report cataloging examples of State law or State transportation policy that provide for the safe and adequate accommodation of all users of the surface transportation network, in all phases of project planning, development, and operation.
+
+>     “(c)  __Best Practices__  __.—__ 
+
+>     Based on the report under subsection (b), the Secretary shall identify and disseminate examples of best practices where States have adopted measures that have successfully provided for the safe and adequate accommodation of all users of the surface transportation network in all phases of project planning, development, and operation.”
 
  __Categorical Exclusions in Emergencies__ 
 
@@ -263,7 +381,7 @@
 
  __Categorical Exclusion for Projects of Limited Federal Assistance__ 
 
-[Pub. L. 112–141, div. A, title I, § 1317][/us/pl/112/141/s1317], July 6, 2012, [126 Stat. 550][/us/stat/126/550], provided that: 
+[Pub. L. 112–141, div. A, title I, § 1317][/us/pl/112/141/s1317], July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I, § 1314(a)][/us/pl/114/94/s1314/a], Dec. 4, 2015, [129 Stat. 1402][/us/stat/129/1402], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary \[of Transportation\] shall—
 
@@ -271,15 +389,15 @@
 
 >      designate as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(c) of title 23, Code of Federal Regulations, any project—
 
->         “(A) that receives less than $5,000,000 of Federal funds; or
+>         “(A) that receives less than $5,000,000 (as adjusted annually by the Secretary \[of Transportation\] to reflect any increases in the Consumer Price Index prepared by the Department of Labor) of Federal funds; or
 
->         “(B) with a total estimated cost of not more than $30,000,000 and Federal funds comprising less than 15 percent of the total estimated project cost; and
+>         “(B) with a total estimated cost of not more than $30,000,000 (as adjusted annually by the Secretary to reflect any increases in the Consumer Price Index prepared by the Department of Labor) and Federal funds comprising less than 15 percent of the total estimated project cost; and
 
 >     “(2) not later than 150 days after the date of enactment of this Act, promulgate regulations to carry out paragraph (1).”
 
  __Programmatic Agreements and Additional Categorical Exclusions__ 
 
-[Pub. L. 112–141, div. A, title I, § 1318][/us/pl/112/141/s1318], July 6, 2012, [126 Stat. 550][/us/stat/126/550], provided that:
+[Pub. L. 112–141, div. A, title I, § 1318][/us/pl/112/141/s1318], July 6, 2012, [126 Stat. 550][/us/stat/126/550], as amended by [Pub. L. 114–94, div. A, title I, § 1315(a)][/us/pl/114/94/s1315/a], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -323,7 +441,25 @@
 
 >         “(3)  __Determinations__  __.—__ 
 
->         An agreement described in paragraph (2) may include determinations by the Secretary \[of Transportation\] of the types of projects categorically excluded (consistent with section 1508.4 of title 40, Code of Federal Regulations) in the State in addition to the types listed in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act).”
+>         An agreement described in paragraph (2) may include determinations by the Secretary \[of Transportation\] of the types of projects categorically excluded (consistent with section 1508.4 of title 40, Code of Federal Regulations) in the State in addition to the types listed in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+>     “(e) __Programmatic Agreement Template.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary \[of Transportation\] shall develop a template programmatic agreement described in subsection (d) that provides for efficient and adequate procedures for evaluating Federal actions described in section 771.117(c) of title 23, Code of Federal Regulations (as in effect on the date of enactment of this subsection \[Dec. 4, 2015\]).
+
+>         “(2)  __Use of template__  __.—__ 
+
+>         The Secretary \[of Transportation\]—
+
+>             “(A) on receipt of a request from a State, shall use the template programmatic agreement developed under paragraph (1) in carrying out this section; and
+
+>             “(B) on consent of the applicable State, may modify the template as necessary to address the unique needs and characteristics of the State.
+
+>         “(3)  __Outcome measurements__  __.—__ 
+
+>         The Secretary shall establish a method to verify that actions described in section 771.117(c) of title 23, Code of Federal Regulations (as in effect on the date of enactment of this subsection), are evaluated and documented in a consistent manner by the State that uses the template programmatic agreement under this subsection.”
 
  __Engineering Judgment__ 
 
@@ -636,7 +772,16 @@
 [/us/stat/119/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1170
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F564
-[/us/pl/112/141/s1519/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F4
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa
+[/us/stat/129/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1409
+[/us/pl/114/94/s1404/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FA%2Fi
+[/us/pl/114/94/s1404/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FA%2Fii
+[/us/pl/114/94/s1404/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F1%2FB
+[/us/pl/114/94/s1404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fa%2F2
+[/us/pl/112/141/s1519/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F3
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/112/141/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1504
 [/us/pl/109/59/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6008
 [/us/pl/109/59/s1110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1110%2Fa
@@ -670,12 +815,38 @@
 [/us/pl/89/574/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs14
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/usc/t23/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs106
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
+[/us/pl/114/94/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1314%2Fb
+[/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
+[/us/pl/112/141/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1317
+[/us/pl/114/94/s1315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1315%2Fb
+[/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
+[/us/pl/112/141/s1318/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1318%2Fe
+[/us/pl/114/94/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1404%2Fb
+[/us/stat/129/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1409
+[/us/pl/114/94/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1432
+[/us/stat/129/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1429
+[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/usc/t33/s1342/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342%2Fp
+[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
+[/us/usc/t16/s1536/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536%2Fp
+[/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
+[/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
+[/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
+[/us/pl/114/94/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1442
+[/us/stat/129/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1436
 [/us/pl/112/141/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1315
 [/us/stat/126/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F549
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -689,10 +860,14 @@
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
 [/us/pl/112/141/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1317
 [/us/stat/126/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F550
+[/us/pl/114/94/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1314%2Fa
+[/us/stat/129/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1402
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1318
 [/us/stat/126/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F550
+[/us/pl/114/94/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1315%2Fa
+[/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

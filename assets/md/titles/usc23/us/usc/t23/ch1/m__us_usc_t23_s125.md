@@ -85,9 +85,11 @@
 
         The costs of debris removal shall be an eligible expense under this section only for—
 
-            (A) an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.); or
+            (A) an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.);
 
-            (B) an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ([42 U.S.C. 5170b][/us/usc/t42/s5170b], 5173, 5192).
+            (B) an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ([42 U.S.C. 5170b][/us/usc/t42/s5170b], 5173, 5192); or
+
+            (C) projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
 
         (4)  __Territories__  __.—__ 
 
@@ -99,9 +101,23 @@
 
     (e) __Tribal Transportation Facilities, Federal Lands Transportation Facilities, and Public Roads on Federal Lands.—__ 
 
-        (1)  __Definition of open to public travel__  __.—__ 
+        (1)  __Definitions__  __.—__ 
 
-        In this subsection, the term “open to public travel” means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road is open to the general public for use with a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.
+        In this subsection, the following definitions apply:
+
+            (A)  __Open to public travel__  __.—__ 
+
+            The term “open to public travel” means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road—
+
+                (i) is maintained;
+
+                (ii) is open to the general public; and
+
+                (iii) can accommodate travel by a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.
+
+            (B)  __Standard passenger vehicle__  __.—__ 
+
+            The term “standard passenger vehicle” means a vehicle with 6 inches of clearance from the lowest point of the frame, body, suspension, or differential to the ground.
 
         (2)  __Expenditure of funds__  __.—__ 
 
@@ -129,13 +145,17 @@
 
     The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 901][/us/stat/72/901]; [Pub. L. 86–342, title I, § 107(a)][/us/pl/86/342/s107/a], Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 89–574, § 9(b)][/us/pl/89/574/s9/b], (c), Sept. 13, 1966, [80 Stat. 769][/us/stat/80/769]; [Pub. L. 90–495, § 27(a)][/us/pl/90/495/s27/a], Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 91–605, title I, § 109(a)][/us/pl/91/605/s109/a], Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718]; [Pub. L. 92–361][/us/pl/92/361], Aug. 3, 1972, [86 Stat. 503][/us/stat/86/503]; [Pub. L. 94–280, title I, § 119][/us/pl/94/280/s119], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 95–599, title I, § 119][/us/pl/95/599/s119], Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700]; [Pub. L. 96–106, § 19][/us/pl/96/106/s19], Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–424, title I, § 153(a)][/us/pl/97/424/s153/a], (c), (d), (h), Jan. 6, 1983, [96 Stat. 2132][/us/stat/96/2132], 2133; [Pub. L. 99–190, § 101(e)][/us/pl/99/190/s101/e] \[title III, § 334\], Dec. 19, 1985, [99 Stat. 1267][/us/stat/99/1267], 1290; [Pub. L. 99–272, title IV, § 4103][/us/pl/99/272/s4103], Apr. 7, 1986, [100 Stat. 114][/us/stat/100/114]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, [101 Stat. 156][/us/stat/101/156], 171; [Pub. L. 100–707, § 109(k)][/us/pl/100/707/s109/k], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 102–240, title I, § 1022(b)][/us/pl/102/240/s1022/b], Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951]; [Pub. L. 102–302, § 101][/us/pl/102/302/s101], June 22, 1992, [106 Stat. 252][/us/stat/106/252]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1113(b), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 151][/us/stat/112/151], 193; [Pub. L. 112–141, div. A, title I, § 1107][/us/pl/112/141/s1107], July 6, 2012, [126 Stat. 437][/us/stat/126/437].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 901][/us/stat/72/901]; [Pub. L. 86–342, title I, § 107(a)][/us/pl/86/342/s107/a], Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 89–574, § 9(b)][/us/pl/89/574/s9/b], (c), Sept. 13, 1966, [80 Stat. 769][/us/stat/80/769]; [Pub. L. 90–495, § 27(a)][/us/pl/90/495/s27/a], Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 91–605, title I, § 109(a)][/us/pl/91/605/s109/a], Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718]; [Pub. L. 92–361][/us/pl/92/361], Aug. 3, 1972, [86 Stat. 503][/us/stat/86/503]; [Pub. L. 94–280, title I, § 119][/us/pl/94/280/s119], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 95–599, title I, § 119][/us/pl/95/599/s119], Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700]; [Pub. L. 96–106, § 19][/us/pl/96/106/s19], Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–424, title I, § 153(a)][/us/pl/97/424/s153/a], (c), (d), (h), Jan. 6, 1983, [96 Stat. 2132][/us/stat/96/2132], 2133; [Pub. L. 99–190, § 101(e)][/us/pl/99/190/s101/e] \[title III, § 334\], Dec. 19, 1985, [99 Stat. 1267][/us/stat/99/1267], 1290; [Pub. L. 99–272, title IV, § 4103][/us/pl/99/272/s4103], Apr. 7, 1986, [100 Stat. 114][/us/stat/100/114]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, [101 Stat. 156][/us/stat/101/156], 171; [Pub. L. 100–707, § 109(k)][/us/pl/100/707/s109/k], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 102–240, title I, § 1022(b)][/us/pl/102/240/s1022/b], Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951]; [Pub. L. 102–302, § 101][/us/pl/102/302/s101], June 22, 1992, [106 Stat. 252][/us/stat/106/252]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1113(b), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 151][/us/stat/112/151], 193; [Pub. L. 112–141, div. A, title I, § 1107][/us/pl/112/141/s1107], July 6, 2012, [126 Stat. 437][/us/stat/126/437]; [Pub. L. 114–94, div. A, title I, § 1107][/us/pl/114/94/s1107], Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337].)
 
  __References in Text__ 
 
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1)(A), (3), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(3)(C). [Pub. L. 114–94, § 1107(a)][/us/pl/114/94/s1107/a], added subpar. (C).
+
+    Subsec. (e)(1). [Pub. L. 114–94, § 1107(b)][/us/pl/114/94/s1107/b], amended par. (1) generally. Prior to amendment, text read as follows: “In this subsection, the term ‘open to public travel’ means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road is open to the general public for use with a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.”
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to emergency relief and consisted of subsecs. (a) to (f).
 
@@ -206,6 +226,10 @@
     Subsec. (c). [Pub. L. 89–574, § 9(b)][/us/pl/89/574/s9/b], added parkways, public lands highways, public lands development roads, and trails to the list of types of roads the repair or reconstruction of which may be paid for out of the emergency fund.
 
     1959—[Pub. L. 86–342][/us/pl/86/342], among other changes, made expenditures from the emergency fund subject to the provisions of [section 120 of this title][/us/usc/t23/s120], and permitted the Secretary to expend funds from the emergency fund, either independently or in cooperation with any other branch of the Government, State agency, organization, or person, for the repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservation roads, whether or not such highways, roads, or trails are on any of the Federal-aid highway systems.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -293,9 +317,13 @@
 [/us/stat/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F151
 [/us/pl/112/141/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1107
 [/us/stat/126/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F437
+[/us/pl/114/94/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1107
+[/us/stat/129/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1337
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/114/94/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1107%2Fa
+[/us/pl/114/94/s1107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1107%2Fb
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178/s1113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1113%2Fb%2F2
 [/us/pl/105/178/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1113%2Fb%2F1
@@ -335,6 +363,9 @@
 [/us/pl/89/574/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs9%2Fb
 [/us/pl/86/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

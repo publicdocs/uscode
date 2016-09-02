@@ -17,9 +17,9 @@
 
     (a) __In General.—__ 
 
-        (1)  __Authority of state agencies__  __.—__ 
+        (1)  __authority of public authorities__  __.—__ 
 
-        A State agency that has jurisdiction over the operation of a HOV facility shall establish the occupancy requirements of vehicles operating on the facility.
+        A public authority that has jurisdiction over the operation of a HOV facility shall establish the occupancy requirements of vehicles operating on the facility.
 
         (2)  __Occupancy requirement__  __.—__ 
 
@@ -29,19 +29,19 @@
 
         (1)  __In general__  __.—__ 
 
-        Notwithstanding the occupancy requirement of subsection (a)(2), the exceptions in paragraphs (2) through (5) shall apply with respect to a State agency operating a HOV facility.
+        Notwithstanding the occupancy requirement of subsection (a)(2), the exceptions in paragraphs (2) through (5) shall apply with respect to a public authority operating a HOV facility.
 
         (2) __Motorcycles and bicycles.—__ 
 
             (A)  __In general__  __.—__ 
 
-            Subject to subparagraph (B), the State agency shall allow motorcycles and bicycles to use the HOV facility.
+            Subject to subparagraph (B), the public authority shall allow motorcycles and bicycles to use the HOV facility.
 
             (B)  __Safety exception__  __.—__ 
 
                 (i)  __In general__  __.—__ 
 
-                A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
+                A public authority may restrict use of the HOV facility by motorcycles or bicycles (or both) if the authority certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
 
                 (ii)  __Acceptance of certification__  __.—__ 
 
@@ -49,15 +49,17 @@
 
         (3)  __Public transportation vehicles__  __.—__ 
 
-        The State agency may allow public transportation vehicles to use the HOV facility if the agency—
+        The public authority may allow public transportation vehicles to use the HOV facility if the authority—
 
-            (A) establishes requirements for clearly identifying the vehicles; and
+            (A) establishes requirements for clearly identifying the vehicles;
 
-            (B) establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
+            (B) establishes procedures for enforcing the restrictions on the use of the facility by the vehicles; and
+
+            (C) provides equal access under the same rates, terms, and conditions for all public transportation vehicles and over-the-road buses serving the public.
 
         (4)  __High occupancy toll vehicles__  __.—__ 
 
-        The State agency may allow vehicles not otherwise exempt pursuant to this subsection to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
+        The public authority may allow vehicles not otherwise exempt pursuant to this subsection to use the HOV facility if the operators of the vehicles pay a toll charged by the authority for use of the facility and the authority—
 
             (A) establishes a program that addresses how motorists can enroll and participate in the toll program;
 
@@ -67,19 +69,25 @@
 
              establishes policies and procedures to—
 
-                (i) manage the demand to use the facility by varying the toll amount that is charged; and
+                (i) manage the demand to use the facility by varying the toll amount that is charged;
 
-                (ii) enforce violations of use of the facility.
+                (ii) enforce violations of use of the facility; and
+
+                (iii) ensure that over-the-road buses serving the public are provided access to the facility under the same rates, terms, and conditions as public transportation buses.
 
         (5) __Low emission and energy-efficient vehicles.—__ 
 
-            (A)  __Inherently low emission vehicle__  __.—__ 
+            (A)  __Special rule__  __.—__ 
 
-            Before September 30, 2017, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
+            Before September 30, 2025, if a public authority establishes procedures for enforcing the restrictions on the use of a HOV facility by vehicles described in clauses (i) and (ii), the public authority may allow the use of the HOV facility by—
+
+                (i) alternative fuel vehicles; and
+
+                (ii) any motor vehicle described in section 30D(d)(1) of the Internal Revenue Code of 1986.
 
             (B)  __Other low emission and energy-efficient vehicles__  __.—__ 
 
-            Before September 30, 2017, the State agency may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
+            Before September 30, 2019, the public authority may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the authority for use of the facility and the authority—
 
                 (i) establishes a program that addresses the selection of vehicles under this paragraph; and
 
@@ -87,19 +95,15 @@
 
             (C)  __Amount of tolls__  __.—__ 
 
-            Under this paragraph, a State agency may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
+            Under this paragraph, a public authority may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
 
     (c) __Requirements Applicable to Tolls.—__ 
 
         (1)  __In general__  __.—__ 
 
-        Tolls may be charged under paragraphs (4) and (5) of subsection (b) notwithstanding section 301 and, except as provided in paragraphs (2) and (3), subject to the requirements of section 129.
+        Notwithstanding section 301, tolls may be charged under paragraphs (4) and (5) of subsection (b), subject to the requirements of section 129.
 
-        (2) __HOV__  __facilities on the interstate system__  __.—__ 
-
-        Notwithstanding section 129, tolls may be charged under paragraphs (4) and (5) of subsection (b) on a HOV facility on the Interstate System.
-
-        (3)  __Toll revenue__  __.—__ 
+        (2)  __Toll revenue__  __.—__ 
 
         Toll revenue collected under this section is subject to the requirements of section 129(a)(3).
 
@@ -107,7 +111,7 @@
 
         (1)  __In general__  __.—__ 
 
-        A State agency that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the agency will carry out the following responsibilities with respect to the facility:
+        A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
 
             (A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
@@ -115,21 +119,51 @@
 
             (C) Limiting or discontinuing the use of the facility by the vehicles whenever the operation of the facility is degraded.
 
-            (D)  __Maintenance of operating performance__  __.—__ 
+            (D) __Maintenance of operating performance.—__ 
 
-            Not later than 180 days after the date on which a facility is degraded pursuant to the standard specified in paragraph (2), the State agency with jurisdiction over the facility shall bring the facility into compliance with the minimum average operating speed performance standard through changes to operation of the facility, including—
+                (i)  __Submission of plan__  __.—__ 
 
-                (i) increasing the occupancy requirement for HOV lanes;
+                Not later than 180 days after the date on which a facility is degraded under paragraph (2), the public authority with jurisdiction over the facility shall submit to the Secretary for approval a plan that details the actions the public authority will take to make significant progress toward bringing the facility into compliance with the minimum average operating speed performance standard through changes to the operation of the facility, including—
 
-                (ii) varying the toll charged to vehicles allowed under subsection (b) to reduce demand;
+                    (I) increasing the occupancy requirement for HOV lanes;
 
-                (iii) discontinuing allowing non-HOV vehicles to use HOV lanes under subsection (b); or
+                    (II) varying the toll charged to vehicles allowed under subsection (b) to reduce demand;
 
-                (iv) increasing the available capacity of the HOV facility.
+                    (III) discontinuing allowing non-HOV vehicles to use HOV lanes under subsection (b); or
+
+                    (IV) increasing the available capacity of the HOV facility.
+
+                (ii)  __Notice of approval or disapproval__  __.—__ 
+
+                Not later than 60 days after the date of receipt of a plan under clause (i), the Secretary shall provide to the public authority a written notice indicating whether the Secretary has approved or disapproved the plan based on a determination of whether the implementation of the plan will make significant progress toward bringing the HOV facility into compliance with the minimum average operating speed performance standard.
+
+                (iii)  __Annual progress updates__  __.—__ 
+
+                Until the date on which the Secretary determines that the public authority has brought the HOV facility into compliance with this subsection, the public authority shall submit annual updates that describe—
+
+                    (I) the actions taken to bring the HOV facility into compliance; and
+
+                    (II) the progress made by those actions.
 
             (E)  __Compliance__  __.—__ 
 
-            If the State fails to bring a facility into compliance under subparagraph (D), the Secretary shall subject the State to appropriate program sanctions under section 1.36 of title 23, Code of Federal Regulations (or successor regulations), until the performance is no longer degraded.
+            If the public authority fails to bring a facility into compliance under subparagraph (D), the Secretary shall subject the public authority to appropriate program sanctions under section 1.36 of title 23, Code of Federal Regulations (or successor regulations), until the performance is no longer degraded.
+
+            (F) __Waiver.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                Upon the request of a public authority, the Secretary may waive the compliance requirements of subparagraph (E), if the Secretary determines that—
+
+                    (I) the waiver is in the best interest of the traveling public;
+
+                    (II) the public authority is meeting the conditions under subparagraph (D); and
+
+                    (III) the public authority has made a good faith effort to improve the performance of the facility.
+
+                (ii)  __Condition__  __.—__ 
+
+                The Secretary may require, as a condition of providing a waiver under this subparagraph, that a public authority take additional actions, as determined by the Secretary, to maximize the operating speed performance of the facility, even if such performance is below the level set under paragraph (2).
 
         (2) __Degraded facility.—__ 
 
@@ -147,7 +181,7 @@
 
             (C)  __Management of low emission and energy-efficient vehicles__  __.—__ 
 
-            In managing the use of HOV lanes by low emission and energy-efficient vehicles that do not meet applicable occupancy requirements, a State agency may increase the percentages described in subsection (f)(3)(B)(i).
+            In managing the use of HOV lanes by low emission and energy-efficient vehicles that do not meet applicable occupancy requirements, a public authority may increase the percentages described in subsection (f)(3)(B)(i).
 
     (e)  __Certification of Low Emission and Energy-Efficient Vehicles__  __.—__ 
 
@@ -163,7 +197,7 @@
 
         (1)  __Alternative fuel vehicle__  __.—__ 
 
-        The term “alternative fuel vehicle” means a vehicle that is operating on—
+        The term “alternative fuel vehicle” means a vehicle that is solely operating on—
 
             (A) methanol, denatured ethanol, or other alcohols;
 
@@ -199,7 +233,15 @@
 
                 (ii) is an alternative fuel vehicle.
 
-        (4)  __Public transportation vehicle__  __.—__ 
+        (4)  __Over-the-road bus__  __.—__ 
+
+        The term “over-the-road bus” has the meaning given the term in section 301 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12181][/us/usc/t42/s12181]).
+
+        (5)  __Public authority__  __.—__ 
+
+        The term “public authority” as used with respect to a HOV facility, means a State, interstate compact of States, public entity designated by a State, or local government having jurisdiction over the operation of the facility.
+
+        (6)  __Public transportation vehicle__  __.—__ 
 
         The term “public transportation vehicle” means a vehicle that—
 
@@ -211,25 +253,61 @@
 
                 (ii) is operated under a contract with a public entity; or
 
-                (iii) is operated pursuant to a license by the Secretary or a State agency to provide motorbus or school vehicle transportation services to the public.
+                (iii) is operated pursuant to a license by the Secretary or a public authority to provide motorbus or school vehicle transportation services to the public.
 
-        (5) __State agency.—__ 
+    (g)  __Consultation of MPO__  __.—__ 
 
-            (A)  __In general__  __.—__ 
+    If a HOV facility charging tolls under paragraph (4) or (5) of subsection (b) is on the Interstate System and located in a metropolitan planning area established in accordance with section 134, the public authority shall consult with the metropolitan planning organization for the area concerning the placement and amount of tolls on the facility.
 
-            The term “State agency”, as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
-
-            (B)  __Inclusion__  __.—__ 
-
-            The term “State agency” includes a State transportation department.
-
-(Added [Pub. L. 109–59, title I, § 1121(a)][/us/pl/109/59/s1121/a], Aug. 10, 2005, [119 Stat. 1192][/us/stat/119/1192]; amended [Pub. L. 110–244, title I, § 101(p)][/us/pl/110/244/s101/p], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 112–141, div. A, title I, § 1514][/us/pl/112/141/s1514], July 6, 2012, [126 Stat. 572][/us/stat/126/572].)
+(Added [Pub. L. 109–59, title I, § 1121(a)][/us/pl/109/59/s1121/a], Aug. 10, 2005, [119 Stat. 1192][/us/stat/119/1192]; amended [Pub. L. 110–244, title I, § 101(p)][/us/pl/110/244/s101/p], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 112–141, div. A, title I, § 1514][/us/pl/112/141/s1514], July 6, 2012, [126 Stat. 572][/us/stat/126/572]; [Pub. L. 114–94, div. A, title I, § 1411(b)][/us/pl/114/94/s1411/b], Dec. 4, 2015, [129 Stat. 1413][/us/stat/129/1413].)
 
  __References in Text__ 
+
+    Section 30D(d)(1) of the Internal Revenue Code of 1986, referred to in subsec. (b)(5)(A)(ii), is classified to [section 30D(d)(1) of Title 26][/us/usc/t26/s30D/d/1], Internal Revenue Code.
 
     The date of enactment of this section, referred to in subsec. (e), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, § 1411(b)(1)][/us/pl/114/94/s1411/b/1], substituted “the authority” for “the agency” wherever appearing.
+
+    Subsec. (a)(1). [Pub. L. 114–94, § 1411(b)(2)][/us/pl/114/94/s1411/b/2], substituted “authority of public authorities” for “Authority of state agencies” in heading and “public authority” for “State agency” in text.
+
+    Subsec. (b). [Pub. L. 114–94, § 1411(b)(3)(A)][/us/pl/114/94/s1411/b/3/A], substituted “public authority” for “State agency” wherever appearing.
+
+    Subsec. (b)(3)(C). [Pub. L. 114–94, § 1411(b)(3)(B)][/us/pl/114/94/s1411/b/3/B], added subpar. (C).
+
+    Subsec. (b)(4)(C)(iii). [Pub. L. 114–94, § 1411(b)(3)(C)][/us/pl/114/94/s1411/b/3/C], added cl. (iii).
+
+    Subsec. (b)(5)(A). [Pub. L. 114–94, § 1411(b)(3)(D)(i)][/us/pl/114/94/s1411/b/3/D/i], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Before September 30, 2017, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.”
+
+    Subsec. (b)(5)(B). [Pub. L. 114–94, § 1411(b)(3)(D)(ii)][/us/pl/114/94/s1411/b/3/D/ii], substituted “2019” for “2017” in introductory provisions.
+
+    Subsec. (c)(1). [Pub. L. 114–94, § 1411(b)(4)(A)][/us/pl/114/94/s1411/b/4/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Tolls may be charged under paragraphs (4) and (5) of subsection (b) notwithstanding section 301 and, except as provided in paragraphs (2) and (3), subject to the requirements of section 129.”
+
+    Subsec. (c)(2), (3). [Pub. L. 114–94, § 1411(b)(4)(B)][/us/pl/114/94/s1411/b/4/B], redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Notwithstanding section 129, tolls may be charged under paragraphs (4) and (5) of subsection (b) on a HOV facility on the Interstate System.”
+
+    Subsec. (d)(1). [Pub. L. 114–94, § 1411(b)(5)(A)][/us/pl/114/94/s1411/b/5/A], substituted “public authority” for “State agency” in introductory provisions.
+
+    Subsec. (d)(1)(D) to (F). [Pub. L. 114–94, § 1411(b)(5)(B)][/us/pl/114/94/s1411/b/5/B], added subpars. (D) to (F) and struck out former subpars. (D) and (E), which related to maintenance of operating performance and compliance, respectively.
+
+    Subsec. (d)(2)(C). [Pub. L. 114–94, § 1411(b)(5)(A)][/us/pl/114/94/s1411/b/5/A], substituted “public authority” for “State agency”.
+
+    Subsec. (f)(1). [Pub. L. 114–94, § 1411(b)(6)(A)][/us/pl/114/94/s1411/b/6/A], inserted “solely” before “operating” in introductory provisions.
+
+    Subsec. (f)(4). [Pub. L. 114–94, § 1411(b)(6)(E)][/us/pl/114/94/s1411/b/6/E], added par. (4). Former par. (4) redesignated (6).
+
+    Subsec. (f)(4)(B)(iii). [Pub. L. 114–94, § 1411(b)(6)(B)][/us/pl/114/94/s1411/b/6/B], substituted “public authority” for “State agency”.
+
+    Subsec. (f)(5). [Pub. L. 114–94, § 1411(b)(6)(C)][/us/pl/114/94/s1411/b/6/C], (E), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows:
+
+    “(A) In general.—The term ‘State agency’, as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
+
+    “(B) Inclusion.—The term ‘State agency’ includes a State transportation department.”
+
+    Subsec. (f)(6). [Pub. L. 114–94, § 1411(b)(6)(D)][/us/pl/114/94/s1411/b/6/D], redesignated par. (4) as (6).
+
+    Subsec. (g). [Pub. L. 114–94, § 1411(b)(7)][/us/pl/114/94/s1411/b/7], added subsec. (g).
 
     2012—Subsec. (b)(5)(A), (B). [Pub. L. 112–141, § 1514(1)(A)][/us/pl/112/141/s1514/1/A], (B), substituted “2017” for “2009”.
 
@@ -247,6 +325,10 @@
 
     2008—Subsec. (b)(5)(C). [Pub. L. 110–244][/us/pl/110/244] substituted “paragraph (4)” for “paragraph (3)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -261,6 +343,7 @@
 [/us/usc/t49/s32908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32908%2Fb
 [/us/usc/t10/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs490
 [/us/usc/t42/s7521/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fi
+[/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141
 [/us/pl/109/59/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1121%2Fa
 [/us/stat/119/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1192
@@ -268,7 +351,28 @@
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
 [/us/pl/112/141/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514
 [/us/stat/126/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F572
+[/us/pl/114/94/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb
+[/us/stat/129/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1413
+[/us/usc/t26/s30D/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30D%2Fd%2F1
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94/s1411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F1
+[/us/pl/114/94/s1411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F2
+[/us/pl/114/94/s1411/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F3%2FA
+[/us/pl/114/94/s1411/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F3%2FB
+[/us/pl/114/94/s1411/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F3%2FC
+[/us/pl/114/94/s1411/b/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F3%2FD%2Fi
+[/us/pl/114/94/s1411/b/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F3%2FD%2Fii
+[/us/pl/114/94/s1411/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F4%2FA
+[/us/pl/114/94/s1411/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F4%2FB
+[/us/pl/114/94/s1411/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F5%2FA
+[/us/pl/114/94/s1411/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F5%2FB
+[/us/pl/114/94/s1411/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F5%2FA
+[/us/pl/114/94/s1411/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F6%2FA
+[/us/pl/114/94/s1411/b/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F6%2FE
+[/us/pl/114/94/s1411/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F6%2FB
+[/us/pl/114/94/s1411/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F6%2FC
+[/us/pl/114/94/s1411/b/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F6%2FD
+[/us/pl/114/94/s1411/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fb%2F7
 [/us/pl/112/141/s1514/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514%2F1%2FA
 [/us/pl/112/141/s1514/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514%2F1%2FC
 [/us/pl/112/141/s1514/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514%2F2
@@ -277,6 +381,9 @@
 [/us/pl/112/141/s1514/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514%2F3%2FC
 [/us/pl/112/141/s1514/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1514%2F3%2FD
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

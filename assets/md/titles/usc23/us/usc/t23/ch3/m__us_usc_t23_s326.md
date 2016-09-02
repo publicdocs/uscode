@@ -49,7 +49,17 @@
 
         The Secretary and the State, after providing public notice and opportunity for comment, shall enter into a memorandum of understanding setting forth the responsibilities to be assigned under this section and the terms and conditions under which the assignments are made, including establishment of the circumstances under which the Secretary would reassume responsibility for categorical exclusion determinations.
 
-        (2)  __Term__  __.—__ 
+        (2)  __Assistance to states__  __.—__ 
+
+        On request of a Governor of a State, the Secretary shall provide to the State technical assistance, training, or other support relating to—
+
+            (A) assuming responsibility under subsection (a);
+
+            (B) developing a memorandum of understanding under this subsection; or
+
+            (C) addressing a responsibility in need of corrective action under subsection (d)(1)(B).
+
+        (3)  __Term__  __.—__ 
 
         A memorandum of understanding—
 
@@ -57,11 +67,11 @@
 
             (B) shall be renewable.
 
-        (3)  __Acceptance of jurisdiction__  __.—__ 
+        (4)  __Acceptance of jurisdiction__  __.—__ 
 
         In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
-        (4)  __Monitoring__  __.—__ 
+        (5)  __Monitoring__  __.—__ 
 
         The Secretary shall—
 
@@ -71,9 +81,23 @@
 
     (d)  __Termination__  __.—__ 
 
-        (1)  __Termination by the secretary__  __.—__ 
+        (1)  __Termination by secretary__  __.—__ 
 
-        The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+        The Secretary may terminate the participation of any State in the program if—
+
+            (A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+            (B)
+
+             the Secretary provides to the State—
+
+                (i) a notification of the determination of noncompliance;
+
+                (ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+                (iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
+
+            (C) the State, after the notification and period described in clauses (i) and (ii) of subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
         (2)  __Termination by the state__  __.—__ 
 
@@ -87,7 +111,7 @@
 
     A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.
 
-(Added [Pub. L. 109–59, title VI, § 6004(a)][/us/pl/109/59/s6004/a], Aug. 10, 2005, [119 Stat. 1867][/us/stat/119/1867]; amended [Pub. L. 112–141, div. A, title I, § 1312][/us/pl/112/141/s1312], July 6, 2012, [126 Stat. 545][/us/stat/126/545].)
+(Added [Pub. L. 109–59, title VI, § 6004(a)][/us/pl/109/59/s6004/a], Aug. 10, 2005, [119 Stat. 1867][/us/stat/119/1867]; amended [Pub. L. 112–141, div. A, title I, § 1312][/us/pl/112/141/s1312], July 6, 2012, [126 Stat. 545][/us/stat/126/545]; [Pub. L. 114–94, div. A, title I, § 1307][/us/pl/114/94/s1307], Dec. 4, 2015, [129 Stat. 1390][/us/stat/129/1390].)
 
  __References in Text__ 
 
@@ -99,11 +123,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(2) to (5). [Pub. L. 114–94, § 1307(1)][/us/pl/114/94/s1307/1], added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+    Subsec. (d)(1). [Pub. L. 114–94, § 1307(2)][/us/pl/114/94/s1307/2], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+
     2012—Subsec. (a)(4). [Pub. L. 112–141, § 1312(1)][/us/pl/112/141/s1312/1], added par. (4).
 
     Subsec. (d). [Pub. L. 112–141, § 1312(2)][/us/pl/112/141/s1312/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
     Subsec. (f). [Pub. L. 112–141, § 1312(3)][/us/pl/112/141/s1312/3], added subsec. (f).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -122,6 +154,8 @@
 [/us/stat/119/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1867
 [/us/pl/112/141/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312
 [/us/stat/126/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F545
+[/us/pl/114/94/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307
+[/us/stat/129/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1390
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -131,9 +165,14 @@
 [/us/stat/111/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2558
 [/us/pl/105/178/s5119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5119%2Fb
 [/us/stat/112/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F452
+[/us/pl/114/94/s1307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307%2F1
+[/us/pl/114/94/s1307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1307%2F2
 [/us/pl/112/141/s1312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F1
 [/us/pl/112/141/s1312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F2
 [/us/pl/112/141/s1312/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1312%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

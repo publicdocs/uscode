@@ -19,13 +19,13 @@
 
     (b) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 
-(Added [Pub. L. 93–87, title I, § 127(a)(1)][/us/pl/93/87/s127/a/1], Aug. 13, 1973, [87 Stat. 264][/us/stat/87/264]; amended [Pub. L. 94–147][/us/pl/94/147], Dec. 12, 1975, [89 Stat. 803][/us/stat/89/803]; [Pub. L. 97–424, title I, § 158][/us/pl/97/424/s158], Jan. 6, 1983, [96 Stat. 2135][/us/stat/96/2135]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 316\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–468; [Pub. L. 108–7, div. I, title III, § 327][/us/pl/108/7/s327], Feb. 20, 2003, [117 Stat. 413][/us/stat/117/413]; [Pub. L. 109–59, title IV, § 4409][/us/pl/109/59/s4409], Aug. 10, 2005, [119 Stat. 1778][/us/stat/119/1778]; [Pub. L. 112–141, div. A, title I, § 1519(c)(11)][/us/pl/112/141/s1519/c/11], July 6, 2012, [126 Stat. 576][/us/stat/126/576].)
+(Added [Pub. L. 93–87, title I, § 127(a)(1)][/us/pl/93/87/s127/a/1], Aug. 13, 1973, [87 Stat. 264][/us/stat/87/264]; amended [Pub. L. 94–147][/us/pl/94/147], Dec. 12, 1975, [89 Stat. 803][/us/stat/89/803]; [Pub. L. 97–424, title I, § 158][/us/pl/97/424/s158], Jan. 6, 1983, [96 Stat. 2135][/us/stat/96/2135]; [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 316\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–468; [Pub. L. 108–7, div. I, title III, § 327][/us/pl/108/7/s327], Feb. 20, 2003, [117 Stat. 413][/us/stat/117/413]; [Pub. L. 109–59, title IV, § 4409][/us/pl/109/59/s4409], Aug. 10, 2005, [119 Stat. 1778][/us/stat/119/1778]; [Pub. L. 112–141, div. A, title I, § 1519(c)(10)][/us/pl/112/141/s1519/c/10], formerly § 1519(c)(11), July 6, 2012, [126 Stat. 576][/us/stat/126/576], renumbered § 1519(c)(10), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 1519(c)(11)(A)][/us/pl/112/141/s1519/c/11/A], designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
+    2012—Subsec. (a). [Pub. L. 112–141, § 1519(c)(10)(A)][/us/pl/112/141/s1519/c/10/A], formerly § 1519(c)(11)(A), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
 
-    Subsecs. (b), (c). [Pub. L. 112–141, § 1519(c)(11)(B)][/us/pl/112/141/s1519/c/11/B], (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
+    Subsecs. (b), (c). [Pub. L. 112–141, § 1519(c)(10)(B)][/us/pl/112/141/s1519/c/10/B], (C), formerly § 1519(c)(11)(B), (C), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
 
     2005—Subsec. (a). [Pub. L. 109–59, § 4409(1)][/us/pl/109/59/s4409/1], struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
 
@@ -40,6 +40,10 @@
     1983—Subsec. (a). [Pub. L. 97–424][/us/pl/97/424] inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
     1975—Subsec. (a)(1). [Pub. L. 94–147][/us/pl/94/147] struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
+
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -78,10 +82,14 @@
 [/us/stat/117/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F413
 [/us/pl/109/59/s4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4409
 [/us/stat/119/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1778
-[/us/pl/112/141/s1519/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F11
+[/us/pl/112/141/s1519/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F10
 [/us/stat/126/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F576
-[/us/pl/112/141/s1519/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F11%2FA
-[/us/pl/112/141/s1519/c/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F11%2FB
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141/s1519/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F10%2FA
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F10%2FB
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/109/59/s4409/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4409%2F1
 [/us/pl/109/59/s4409/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4409%2F2
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -89,6 +97,9 @@
 [/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/94/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F147
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

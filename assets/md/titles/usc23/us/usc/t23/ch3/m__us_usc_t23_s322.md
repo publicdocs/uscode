@@ -157,7 +157,7 @@
 
         (3)  __Other federal funds__  __.—__ 
 
-        Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+        Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
         (4)  __Other assistance__  __.—__ 
 
@@ -183,7 +183,7 @@
 
                 (ii) shall remain available until expended.
 
-(Added and amended [Pub. L. 105–178, title I, § 1218(a)][/us/pl/105/178/s1218/a], (c), June 9, 1998, [112 Stat. 216][/us/stat/112/216]; [Pub. L. 105–206, title IX, § 9003(i)][/us/pl/105/206/s9003/i], July 22, 1998, [112 Stat. 841][/us/stat/112/841].)
+(Added and amended [Pub. L. 105–178, title I, § 1218(a)][/us/pl/105/178/s1218/a], (c), June 9, 1998, [112 Stat. 216][/us/stat/112/216]; [Pub. L. 105–206, title IX, § 9003(i)][/us/pl/105/206/s9003/i], July 22, 1998, [112 Stat. 841][/us/stat/112/841]; [Pub. L. 114–94, div. A, title I, § 1109(c)(3)][/us/pl/114/94/s1109/c/3], Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343].)
 
  __References in Text__ 
 
@@ -199,6 +199,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (h)(3). [Pub. L. 114–94][/us/pl/114/94] substituted “surface transportation block grant program” for “surface transportation program”.
+
     1998—Subsec. (a)(3). [Pub. L. 105–178, § 1218(c)(1)][/us/pl/105/178/s1218/c/1], as added by [Pub. L. 105–206, § 9003(i)][/us/pl/105/206/s9003/i], struck out “or under 50 miles per hour” before period at end.
 
     Subsec. (d)(1). [Pub. L. 105–178, § 1218(c)(2)(A)][/us/pl/105/178/s1218/c/2/A], as added by [Pub. L. 105–206, § 9003(i)][/us/pl/105/206/s9003/i], struck out “or low-speed” after “high-speed”.
@@ -211,11 +213,19 @@
 
     Subsec. (i). [Pub. L. 105–178, § 1218(c)(4)][/us/pl/105/178/s1218/c/4], as added by [Pub. L. 105–206, § 9003(i)][/us/pl/105/206/s9003/i], added subsec. (i).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 1998 Amendment__ 
 
     Title IX of [Pub. L. 105–206][/us/pl/105/206] effective simultaneously with enactment of [Pub. L. 105–178][/us/pl/105/178] and to be treated as included in [Pub. L. 105–178][/us/pl/105/178] at time of enactment, and provisions of [Pub. L. 105–178][/us/pl/105/178], as in effect on day before July 22, 1998, that are amended by title IX of [Pub. L. 105–206][/us/pl/105/206] to be treated as not enacted, see [section 9016 of Pub. L. 105–206][/us/pl/105/206/s9016], set out as a note under [section 101 of this title][/us/usc/t23/s101].
 
  __Deployment of Magnetic Levitation Transportation Projects__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11315(c)][/us/pl/114/94/s11315/c], Dec. 4, 2015, [129 Stat. 1675][/us/stat/129/1675], provided that: 
+
+> “A project described in 1307(a)(3) of SAFETEA–LU ([Public Law 109–59][/us/pl/109/59]) \[set out in a note below\] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[[45 U.S.C. 822][/us/usc/t45/s822], 823\].”
 
 [Pub. L. 109–59, title I, § 1307][/us/pl/109/59/s1307], Aug. 10, 2005, [119 Stat. 1217][/us/stat/119/1217], as amended by [Pub. L. 110–244, title I, § 102(b)][/us/pl/110/244/s102/b], (c), June 6, 2008, [122 Stat. 1577][/us/stat/122/1577], provided that:
 
@@ -322,6 +332,8 @@
 [/us/stat/112/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F216
 [/us/pl/105/206/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fi
 [/us/stat/112/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F841
+[/us/pl/114/94/s1109/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F3
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/pl/102/240/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1036
 [/us/stat/105/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1978
 [/us/usc/t49/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs309
@@ -342,6 +354,7 @@
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
 [/us/pl/100/17/s133/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fe%2F1
 [/us/stat/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F173
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/105/178/s1218/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1218%2Fc%2F1
 [/us/pl/105/206/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fi
 [/us/pl/105/178/s1218/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1218%2Fc%2F2%2FA
@@ -354,6 +367,9 @@
 [/us/pl/105/206/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fi
 [/us/pl/105/178/s1218/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1218%2Fc%2F4
 [/us/pl/105/206/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fi
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
@@ -361,6 +377,10 @@
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9016
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s11315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fc
+[/us/stat/129/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1675
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/pl/109/59/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1307
 [/us/stat/119/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1217
 [/us/pl/110/244/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs102%2Fb

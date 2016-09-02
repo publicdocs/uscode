@@ -43,7 +43,7 @@
 
             (B)  __Inclusions__  __.—__ 
 
-            The term “highway safety improvement project” includes, but is not limited to, a project for 1 or more of the following:
+            The term “highway safety improvement project” only includes a project for 1 or more of the following:
 
                 (i) An intersection safety improvement.
 
@@ -93,6 +93,14 @@
 
                 (xxiv) Systemic safety improvements.
 
+                (xxv) Installation of vehicle-to-infrastructure communication equipment.
+
+                (xxvi) Pedestrian hybrid beacons.
+
+                (xxvii) Roadway improvements that provide separation between pedestrians and motor vehicles, including medians and pedestrian crossing islands.
+
+                (xxviii) A physical infrastructure safety project not described in clauses (i) through (xxvii).
+
         (5)  __Model inventory of roadway elements__  __.—__ 
 
         The term “model inventory of roadway elements” means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
@@ -119,27 +127,11 @@
 
             The term “safety data” includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
 
-        (10) __Safety project under any other section.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            The term “safety project under any other section” means a project carried out for the purpose of safety under any other section of this title.
-
-            (B)  __Inclusion__  __.—__ 
-
-            The term “safety project under any other section” includes—
-
-                (i) a project consistent with the State strategic highway safety plan that promotes the awareness of the public and educates the public concerning highway safety matters (including motorcycle safety);
-
-                (ii) a project to enforce highway safety laws; and
-
-                (iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services.
-
-        (11)  __State highway safety improvement program__  __.—__ 
+        (10)  __State highway safety improvement program__  __.—__ 
 
         The term “State highway safety improvement program” means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
 
-        (12)  __State strategic highway safety plan__  __.—__ 
+        (11)  __State strategic highway safety plan__  __.—__ 
 
         The term “State strategic highway safety plan” means a comprehensive plan, based on safety data, developed by a State transportation department that—
 
@@ -183,7 +175,7 @@
 
             (I) is updated and submitted to the Secretary for approval as required under subsection (d)(2).
 
-        (13)  __Systemic safety improvement__  __.—__ 
+        (12)  __Systemic safety improvement__  __.—__ 
 
         The term “systemic safety improvement” means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 
@@ -203,7 +195,7 @@
 
         To obligate funds apportioned under section 104(b)(3) to carry out this section, a State shall have in effect a State highway safety improvement program under which the State—
 
-            (A) develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(12) and (d);
+            (A) develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(11) and (d);
 
             (B) produces a program of projects or strategies to reduce identified safety problems; and
 
@@ -323,7 +315,7 @@
 
             The Secretary shall not approve the process for an updated strategic highway safety plan unless—
 
-                (i) the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(12); and
+                (i) the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(11); and
 
                 (ii) the process used is consistent with the requirements of this subsection.
 
@@ -435,13 +427,13 @@
 
     (i)  __State Performance Targets__  __.—__ 
 
-    If the Secretary determines that a State has not met or made significant progress toward meeting the performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets, the State shall—
+    If the Secretary determines that a State has not met or made significant progress toward meeting the safety performance targets of the State established under section 150(d), the State shall—
 
-        (1) use obligation authority equal to the apportionment of the State for the prior year under section 104(b)(3) only for highway safety improvement projects under this section until the Secretary determines that the State has met or made significant progress toward meeting the performance targets of the State; and
+        (1) use obligation authority equal to the apportionment of the State for the prior year under section 104(b)(3) only for highway safety improvement projects under this section until the Secretary determines that the State has met or made significant progress toward meeting the safety performance targets of the State; and
 
         (2)
 
-         submit annually to the Secretary, until the Secretary determines that the State has met or made significant progress toward meeting the performance targets of the State, an implementation plan that—
+         submit annually to the Secretary, until the Secretary determines that the State has met or made significant progress toward meeting the safety performance targets of the State, an implementation plan that—
 
             (A) identifies roadway features that constitute a hazard to road users;
 
@@ -449,15 +441,29 @@
 
             (C) describes how highway safety improvement program funds will be allocated, including projects, activities, and strategies to be implemented;
 
-            (D) describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety performance targets of the State; and
+            (D) describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety safety  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  performance targets of the State; and
 
-            (E) describes the actions the State will undertake to meet the performance targets of the State.
+            (E) describes the actions the State will undertake to meet the safety performance targets of the State.
 
     (j)  __Federal Share of Highway Safety Improvement Projects__  __.—__ 
 
     Except as provided in sections 120 and 130, the Federal share of the cost of a highway safety improvement project carried out with funds apportioned to a State under section 104(b)(3) shall be 90 percent.
 
-(Added [Pub. L. 93–87, title I, § 129(b)][/us/pl/93/87/s129/b], Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; amended [Pub. L. 95–599, title I][/us/pl/95/599], §§ 125, 129(d), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705], 2707; [Pub. L. 109–59, title I, § 1401(a)(1)][/us/pl/109/59/s1401/a/1], Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219]; [Pub. L. 112–141, div. A, title I, § 1112(a)][/us/pl/112/141/s1112/a], July 6, 2012, [126 Stat. 450][/us/stat/126/450].)
+    (k) __Data Collection on Unpaved Public Roads.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        A State may elect not to collect fundamental data elements for the model inventory of roadway elements on public roads that are gravel roads or otherwise unpaved if—
+
+            (A) the State does not use funds provided to carry out this section for a project on any such roads until the State completes a collection of the required model inventory of roadway elements for the applicable road segment; and
+
+            (B) the State demonstrates that the State consulted with affected Indian tribes before ceasing to collect data with respect to such roads that are included in the National Tribal Transportation Facility Inventory under [section 202(b)(1) of this title][/us/usc/t23/s202/b/1].
+
+        (2)  __Rule of construction__  __.—__ 
+
+        Nothing in this subsection may be construed to allow a State to cease data collection related to serious injuries or fatalities.
+
+(Added [Pub. L. 93–87, title I, § 129(b)][/us/pl/93/87/s129/b], Aug. 13, 1973, [87 Stat. 265][/us/stat/87/265]; amended [Pub. L. 95–599, title I][/us/pl/95/599], §§ 125, 129(d), Nov. 6, 1978, [92 Stat. 2705][/us/stat/92/2705], 2707; [Pub. L. 109–59, title I, § 1401(a)(1)][/us/pl/109/59/s1401/a/1], Aug. 10, 2005, [119 Stat. 1219][/us/stat/119/1219]; [Pub. L. 112–141, div. A, title I, § 1112(a)][/us/pl/112/141/s1112/a], July 6, 2012, [126 Stat. 450][/us/stat/126/450]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1113(a), 1406(b), Dec. 4, 2015, [129 Stat. 1347][/us/stat/129/1347], 1410.)
 
  __References in Text__ 
 
@@ -466,6 +472,32 @@
     The date of enactment of the MAP–21, referred to in subsecs. (d)(1)(A) and (g)(1), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]. Subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21, means subsec. (f) of this section as in effect on the day before the date of enactment of [Pub. L. 112–141][/us/pl/112/141], which amended this section generally.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(B). [Pub. L. 114–94, § 1113(a)(1)(A)(i)][/us/pl/114/94/s1113/a/1/A/i], substituted “only includes” for “includes, but is not limited to,” in introductory provisions.
+
+    Subsec. (a)(4)(B)(xxv) to (xxviii). [Pub. L. 114–94, § 1113(a)(1)(A)(ii)][/us/pl/114/94/s1113/a/1/A/ii], added cls. (xxv) to (xxviii).
+
+    Subsec. (a)(10) to (13). [Pub. L. 114–94, § 1113(a)(1)(B)][/us/pl/114/94/s1113/a/1/B], (C), redesignated pars. (11) to (13) as (10) to (12) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows:
+
+    “(A) In general.—The term ‘safety project under any other section’ means a project carried out for the purpose of safety under any other section of this title.
+
+    “(B) Inclusion.—The term ‘safety project under any other section’ includes—
+
+    “(i) a project consistent with the State strategic highway safety plan that promotes the awareness of the public and educates the public concerning highway safety matters (including motorcycle safety);
+
+    “(ii) a project to enforce highway safety laws; and
+
+    “(iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services.”
+
+    Subsec. (c)(1)(A). [Pub. L. 114–94, § 1113(a)(2)][/us/pl/114/94/s1113/a/2], substituted “subsections (a)(11)” for “subsections (a)(12)”.
+
+    Subsec. (d)(2)(B)(i). [Pub. L. 114–94, § 1113(a)(3)][/us/pl/114/94/s1113/a/3], substituted “subsection (a)(11)” for “subsection (a)(12)”.
+
+    Subsec. (i). [Pub. L. 114–94, § 1406(b)(1)][/us/pl/114/94/s1406/b/1], substituted “safety performance targets of the State established under section 150(d)” for “performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets” in introductory provisions.
+
+    Subsec. (i)(1), (2). [Pub. L. 114–94, § 1406(b)(2)][/us/pl/114/94/s1406/b/2], inserted “safety” before “performance targets” wherever appearing.
+
+    Subsec. (k). [Pub. L. 114–94, § 1113(a)(4)][/us/pl/114/94/s1113/a/4], added subsec. (k).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to highway safety improvement program and consisted of subsecs. (a) to (h).
 
@@ -476,6 +508,10 @@
     Subsec. (e). [Pub. L. 95–599, § 129(d)][/us/pl/95/599/s129/d], substituted “75 per centum” for “70 per centum”.
 
     Subsec. (h). [Pub. L. 95–599, § 125(a)][/us/pl/95/599/s125/a], added subsec. (h).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -563,6 +599,7 @@
 ----------
 
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
+[/us/usc/t23/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs202%2Fb%2F1
 [/us/pl/93/87/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs129%2Fb
 [/us/stat/87/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F265
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
@@ -571,16 +608,29 @@
 [/us/stat/119/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1219
 [/us/pl/112/141/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1112%2Fa
 [/us/stat/126/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F450
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1347
 [/us/pl/112/141/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1401
 [/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s1113/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FA%2Fi
+[/us/pl/114/94/s1113/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FA%2Fii
+[/us/pl/114/94/s1113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F1%2FB
+[/us/pl/114/94/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F2
+[/us/pl/114/94/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F3
+[/us/pl/114/94/s1406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fb%2F1
+[/us/pl/114/94/s1406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fb%2F2
+[/us/pl/114/94/s1113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1113%2Fa%2F4
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/95/599/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs125%2Fb
 [/us/pl/95/599/s129/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs129%2Fd
 [/us/pl/95/599/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs125%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

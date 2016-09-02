@@ -57,17 +57,17 @@
 
         (2)  __Availability of funds__  __.—__ 
 
-        Notwithstanding section 118(b)(2),1 the funds authorized by this subsection shall remain available until expended.
+        Notwithstanding section 118(b), the funds authorized by this subsection shall remain available until expended.
 
-(Added [Pub. L. 105–178, title I, § 1404(a)][/us/pl/105/178/s1404/a], June 9, 1998, [112 Stat. 240][/us/stat/112/240]; amended [Pub. L. 108–88, § 6(a)(2)][/us/pl/108/88/s6/a/2], Sept. 30, 2003, [117 Stat. 1119][/us/stat/117/1119]; [Pub. L. 108–202, § 6(b)][/us/pl/108/202/s6/b], Feb. 29, 2004, [118 Stat. 483][/us/stat/118/483]; [Pub. L. 108–224, § 5(b)][/us/pl/108/224/s5/b], Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 5(b)][/us/pl/108/263/s5/b], June 30, 2004, [118 Stat. 703][/us/stat/118/703]; [Pub. L. 108–280, § 5(b)][/us/pl/108/280/s5/b], July 30, 2004, [118 Stat. 881][/us/stat/118/881]; [Pub. L. 108–310, § 6(a)(2)][/us/pl/108/310/s6/a/2], Sept. 30, 2004, [118 Stat. 1152][/us/stat/118/1152]; [Pub. L. 109–14, § 5(a)(2)][/us/pl/109/14/s5/a/2], May 31, 2005, [119 Stat. 329][/us/stat/119/329]; [Pub. L. 109–20, § 5(a)(2)][/us/pl/109/20/s5/a/2], July 1, 2005, [119 Stat. 351][/us/stat/119/351]; [Pub. L. 109–35, § 5(a)(2)][/us/pl/109/35/s5/a/2], July 20, 2005, [119 Stat. 384][/us/stat/119/384]; [Pub. L. 109–37, § 5(a)(2)][/us/pl/109/37/s5/a/2], July 22, 2005, [119 Stat. 399][/us/stat/119/399]; [Pub. L. 109–40, § 5(a)(2)][/us/pl/109/40/s5/a/2], July 28, 2005, [119 Stat. 416][/us/stat/119/416]; [Pub. L. 109–59, title I, § 1407(a)][/us/pl/109/59/s1407/a], (b), Aug. 10, 2005, [119 Stat. 1231][/us/stat/119/1231]; [Pub. L. 112–141, div. A, title I, § 1404(i)][/us/pl/112/141/s1404/i], July 6, 2012, [126 Stat. 559][/us/stat/126/559].)
+(Added [Pub. L. 105–178, title I, § 1404(a)][/us/pl/105/178/s1404/a], June 9, 1998, [112 Stat. 240][/us/stat/112/240]; amended [Pub. L. 108–88, § 6(a)(2)][/us/pl/108/88/s6/a/2], Sept. 30, 2003, [117 Stat. 1119][/us/stat/117/1119]; [Pub. L. 108–202, § 6(b)][/us/pl/108/202/s6/b], Feb. 29, 2004, [118 Stat. 483][/us/stat/118/483]; [Pub. L. 108–224, § 5(b)][/us/pl/108/224/s5/b], Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 5(b)][/us/pl/108/263/s5/b], June 30, 2004, [118 Stat. 703][/us/stat/118/703]; [Pub. L. 108–280, § 5(b)][/us/pl/108/280/s5/b], July 30, 2004, [118 Stat. 881][/us/stat/118/881]; [Pub. L. 108–310, § 6(a)(2)][/us/pl/108/310/s6/a/2], Sept. 30, 2004, [118 Stat. 1152][/us/stat/118/1152]; [Pub. L. 109–14, § 5(a)(2)][/us/pl/109/14/s5/a/2], May 31, 2005, [119 Stat. 329][/us/stat/119/329]; [Pub. L. 109–20, § 5(a)(2)][/us/pl/109/20/s5/a/2], July 1, 2005, [119 Stat. 351][/us/stat/119/351]; [Pub. L. 109–35, § 5(a)(2)][/us/pl/109/35/s5/a/2], July 20, 2005, [119 Stat. 384][/us/stat/119/384]; [Pub. L. 109–37, § 5(a)(2)][/us/pl/109/37/s5/a/2], July 22, 2005, [119 Stat. 399][/us/stat/119/399]; [Pub. L. 109–40, § 5(a)(2)][/us/pl/109/40/s5/a/2], July 28, 2005, [119 Stat. 416][/us/stat/119/416]; [Pub. L. 109–59, title I, § 1407(a)][/us/pl/109/59/s1407/a], (b), Aug. 10, 2005, [119 Stat. 1231][/us/stat/119/1231]; [Pub. L. 112–141, div. A, title I, § 1404(i)][/us/pl/112/141/s1404/i], July 6, 2012, [126 Stat. 559][/us/stat/126/559]; [Pub. L. 114–94, div. A, title I, § 1446(a)(9)][/us/pl/114/94/s1446/a/9], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __References in Text__ 
 
     Section 104, referred to in subsec. (e)(1), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
-    [Section 118(b) of this title][/us/usc/t23/s118/b], referred to in subsec. (f)(2), was amended by [section 1519(c)(5) of Pub. L. 112–141][/us/pl/112/141/s1519/c/5] and no longer contains a par. (2).
-
  __Amendments__ 
+
+    2015—Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94] substituted “118(b)” for “118(b)(2)”.
 
     2012—Subsec. (e)(1), (2). [Pub. L. 112–141][/us/pl/112/141] added pars. (1) and (2) and struck out former pars. (1) and (2) which related to penalty generally and amount to be withheld, respectively.
 
@@ -98,6 +98,10 @@
     [Pub. L. 108–202][/us/pl/108/202] substituted “$70,000,000 for the period of October 1, 2003, through April 30, 2004” for “$50,000,000 for the period of October 1, 2003, through February 29, 2004”.
 
     2003—Subsec. (e)(1). [Pub. L. 108–88][/us/pl/108/88] struck out “and” after “2002,” and inserted before period at end “, and $50,000,000 for the period of October 1, 2003, through February 29, 2004”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -142,10 +146,11 @@
 [/us/stat/119/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1231
 [/us/pl/112/141/s1404/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fi
 [/us/stat/126/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F559
+[/us/pl/114/94/s1446/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F9
+[/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
-[/us/usc/t23/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs118%2Fb
-[/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1407%2Fa%2F2
 [/us/pl/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F40
@@ -161,6 +166,9 @@
 [/us/pl/108/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F224
 [/us/pl/108/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F202
 [/us/pl/108/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F88
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

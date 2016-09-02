@@ -21,7 +21,7 @@
 
         (1) carry out research, development, and deployment activities that encompass the entire innovation lifecycle; and
 
-        (2) ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508.
+        (2) ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (b)  __Highway Research and Development Program__  __.—__ 
 
@@ -445,19 +445,257 @@
 
             (C)  __Funding__  __.—__ 
 
-            The Secretary shall obligate for each of fiscal years 2013 through 2014 from funds made available to carry out this subsection $12,000,000 to accelerate the deployment and implementation of pavement technology.
+            The Secretary shall obligate for each of fiscal years 2016 through 2020 from funds made available to carry out this subsection $12,000,000 to accelerate the deployment and implementation of pavement technology.
 
-(Added [Pub. L. 105–178, title V, § 5103][/us/pl/105/178/s5103], June 9, 1998, [112 Stat. 427][/us/stat/112/427]; amended [Pub. L. 109–59, title V][/us/pl/109/59], §§ 5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, [119 Stat. 1786–1789][/us/stat/119/1786-1789]; [Pub. L. 112–141, div. E, title II, § 52003(a)][/us/pl/112/141/s52003/a], July 6, 2012, [126 Stat. 872][/us/stat/126/872].)
+            (D) __Publication.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                Not less frequently than annually, the Secretary shall issue and make available to the public on an Internet website a report on the cost and benefits from deployment of new technology and innovations that substantially and directly resulted from the program established under this paragraph.
+
+                (ii)  __Inclusions__  __.—__ 
+
+                The report under clause (i) may include an analysis of—
+
+                    (I) Federal, State, and local cost savings;
+
+                    (II) project delivery time improvements;
+
+                    (III) reduced fatalities; and
+
+                    (IV) congestion impacts.
+
+        (4) __Advanced transportation technologies deployment.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Not later than 6 months after the date of enactment of this paragraph, the Secretary shall establish an advanced transportation and congestion management technologies deployment initiative to provide grants to eligible entities to develop model deployment sites for large scale installation and operation of advanced transportation technologies to improve safety, efficiency, system performance, and infrastructure return on investment.
+
+            (B)  __Criteria__  __.—__ 
+
+            The Secretary shall develop criteria for selection of an eligible entity to receive a grant under this paragraph, including how the deployment of technology will—
+
+                (i) reduce costs and improve return on investments, including through the enhanced use of existing transportation capacity;
+
+                (ii) deliver environmental benefits that alleviate congestion and streamline traffic flow;
+
+                (iii) measure and improve the operational performance of the applicable transportation network;
+
+                (iv) reduce the number and severity of traffic crashes and increase driver, passenger, and pedestrian safety;
+
+                (v) collect, disseminate, and use real-time traffic, transit, parking, and other transportation-related information to improve mobility, reduce congestion, and provide for more efficient and accessible transportation;
+
+                (vi) monitor transportation assets to improve infrastructure management, reduce maintenance costs, prioritize investment decisions, and ensure a state of good repair;
+
+                (vii) deliver economic benefits by reducing delays, improving system performance, and providing for the efficient and reliable movement of goods and services; or
+
+                (viii) accelerate the deployment of vehicle-to-vehicle, vehicle-to-infrastructure, autonomous vehicles, and other technologies.
+
+            (C) __Applications.—__ 
+
+                (i)  __Request__  __.—__ 
+
+                Not later than 6 months after the date of enactment of this paragraph, and for every fiscal year thereafter, the Secretary shall request applications in accordance with clause (ii).
+
+                (ii)  __Contents__  __.—__ 
+
+                An application submitted under this subparagraph shall include the following:
+
+                    (I)  __Plan__  __.—__ 
+
+                    A plan to deploy and provide for the long-term operation and maintenance of advanced transportation and congestion management technologies to improve safety, efficiency, system performance, and return on investment.
+
+                    (II)  __Objectives__  __.—__ 
+
+                    Quantifiable system performance improvements, such as—
+
+                        (aa) reducing traffic-related crashes, congestion, and costs;
+
+                        (bb) optimizing system efficiency; and
+
+                        (cc) improving access to transportation services.
+
+                    (III)  __Results__  __.—__ 
+
+                    Quantifiable safety, mobility, and environmental benefit projections such as data-driven estimates of how the project will improve the region’s transportation system efficiency and reduce traffic congestion.
+
+                    (IV)  __Partnerships__  __.—__ 
+
+                    A plan for partnering with the private sector or public agencies, including multimodal and multijurisdictional entities, research institutions, organizations representing transportation and technology leaders, or other transportation stakeholders.
+
+                    (V)  __Leveraging__  __.—__ 
+
+                    A plan to leverage and optimize existing local and regional advanced transportation technology investments.
+
+            (D) __Grant selection.—__ 
+
+                (i)  __Grant awards__  __.—__ 
+
+                Not later than 1 year after the date of enactment of this paragraph, and for every fiscal year thereafter, the Secretary shall award grants to not less than 5 and not more than 10 eligible entities.
+
+                (ii)  __Geographic diversity__  __.—__ 
+
+                In awarding a grant under this paragraph, the Secretary shall ensure, to the extent practicable, that grant recipients represent diverse geographic areas of the United States, including urban and rural areas.
+
+                (iii)  __Technology diversity__  __.—__ 
+
+                In awarding a grant under this paragraph, the Secretary shall ensure, to the extent practicable, that grant recipients represent diverse technology solutions.
+
+            (E)  __Use of grant funds__  __.—__ 
+
+            A grant recipient may use funds awarded under this paragraph to deploy advanced transportation and congestion management technologies, including—
+
+                (i) advanced traveler information systems;
+
+                (ii) advanced transportation management technologies;
+
+                (iii) infrastructure maintenance, monitoring, and condition assessment;
+
+                (iv) advanced public transportation systems;
+
+                (v) transportation system performance data collection, analysis, and dissemination systems;
+
+                (vi) advanced safety systems, including vehicle-to-vehicle and vehicle-to-infrastructure communications, technologies associated with autonomous vehicles, and other collision avoidance technologies, including systems using cellular technology;
+
+                (vii) integration of intelligent transportation systems with the Smart Grid and other energy distribution and charging systems;
+
+                (viii) electronic pricing and payment systems; or
+
+                (ix) advanced mobility and access technologies, such as dynamic ridesharing and information systems to support human services for elderly and disabled individuals.
+
+            (F)  __Report to secretary__  __.—__ 
+
+            For each eligible entity that receives a grant under this paragraph, not later than 1 year after the entity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
+
+                (i) deployment and operational costs of the project compared to the benefits and savings the project provides; and
+
+                (ii)
+
+                 how the project has met the original expectations projected in the deployment plan submitted with the application, such as—
+
+                    (I) data on how the project has helped reduce traffic crashes, congestion, costs, and other benefits of the deployed systems;
+
+                    (II) data on the effect of measuring and improving transportation system performance through the deployment of advanced technologies;
+
+                    (III) the effectiveness of providing real-time integrated traffic, transit, and multimodal transportation information to the public to make informed travel decisions; and
+
+                    (IV) lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+
+            (G)  __Report__  __.—__ 
+
+            Not later than 3 years after the date that the first grant is awarded under this paragraph, and each year thereafter, the Secretary shall make available to the public on an Internet website a report that describes the effectiveness of grant recipients in meeting their projected deployment plans, including data provided under subparagraph (F) on how the program has—
+
+                (i) reduced traffic-related fatalities and injuries;
+
+                (ii) reduced traffic congestion and improved travel time reliability;
+
+                (iii) reduced transportation-related emissions;
+
+                (iv) optimized multimodal system performance;
+
+                (v) improved access to transportation alternatives;
+
+                (vi) provided the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions;
+
+                (vii) provided cost savings to transportation agencies, businesses, and the traveling public; or
+
+                (viii) provided other benefits to transportation users and the general public.
+
+            (H)  __Additional grants__  __.—__ 
+
+            The Secretary may cease to provide additional grant funds to a recipient of a grant under this paragraph if—
+
+                (i) the Secretary determines from such recipient’s report that the recipient is not carrying out the requirements of the grant; and
+
+                (ii) the Secretary provides written notice 60 days prior to withholding funds to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate.
+
+            (I) __Funding.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                From funds made available to carry out subsection (b), this subsection, and sections 512 through 518, the Secretary shall set aside for grants awarded under subparagraph (D) $60,000,000 for each of fiscal years 2016 through 2020.
+
+                (ii)  __Expenses for the secretary__  __.—__ 
+
+                Of the amounts set aside under clause (i), the Secretary may set aside $2,000,000 each fiscal year for program reporting, evaluation, and administrative costs related to this paragraph.
+
+            (J)  __Federal share__  __.—__ 
+
+            The Federal share of the cost of a project for which a grant is awarded under this subsection shall not exceed 50 percent of the cost of the project.
+
+            (K)  __Grant limitation__  __.—__ 
+
+            The Secretary may not award more than 20 percent of the amount described under subparagraph (I) in a fiscal year to a single grant recipient.
+
+            (L)  __Expenses for grant recipients__  __.—__ 
+
+            A grant recipient under this paragraph may use not more than 5 percent of the funds awarded each fiscal year to carry out planning and reporting requirements.
+
+            (M) __Grant flexibility.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+
+                    (I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
+
+                    (II) an amount of obligation limitation equal to the amount of funds that the Secretary transfers under subclause (I).
+
+                (ii)  __Programs__  __.—__ 
+
+                The programs referred to in clause (i) are—
+
+                    (I) the program under subsection (b);
+
+                    (II) the program under this subsection; and
+
+                    (III) the programs under sections 512 through 518.
+
+                (iii)  __Distribution__  __.—__ 
+
+                Any transfer of funds and obligation limitation under clause (i) shall be divided among the programs referred to in that clause in the same proportions as the Secretary originally reserved funding from the programs for the fiscal year under subparagraph (I).
+
+            (N)  __Definitions__  __.—__ 
+
+            In this paragraph, the following definitions apply:
+
+                (i)  __Eligible entity__  __.—__ 
+
+                The term “eligible entity” means a State or local government, a transit agency, metropolitan planning organization representing a population of over 200,000, or other political subdivision of a State or local government or a multijurisdictional group or a consortia of research institutions or academic institutions.
+
+                (ii)  __Advanced and congestion management transportation technologies__  __.—__ 
+
+                The term “advanced transportation and congestion management technologies” means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
+
+                (iii)  __Multijurisdictional group__  __.—__ 
+
+                The term “multijurisdictional group” means a any  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State for which each member of the group—
+
+                    (I) has signed a written agreement to implement the advanced transportation technologies deployment initiative across jurisdictional boundaries; and
+
+                    (II) is an eligible entity under this paragraph.
+
+(Added [Pub. L. 105–178, title V, § 5103][/us/pl/105/178/s5103], June 9, 1998, [112 Stat. 427][/us/stat/112/427]; amended [Pub. L. 109–59, title V][/us/pl/109/59], §§ 5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, [119 Stat. 1786–1789][/us/stat/119/1786-1789]; [Pub. L. 112–141, div. E, title II, § 52003(a)][/us/pl/112/141/s52003/a], July 6, 2012, [126 Stat. 872][/us/stat/126/872]; [Pub. L. 114–94, div. A, title VI][/us/pl/114/94], §§ 6003, 6004, Dec. 4, 2015, [129 Stat. 1562][/us/stat/129/1562].)
 
  __References in Text__ 
 
+    Section 508, referred to in subsec. (a)(2), was repealed by [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A)][/us/pl/114/94/s6019/d/1/A], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], effective Oct. 1, 2015.
+
     The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (b)(3)(E), is the date of enactment of div. E of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
+
+    The date of enactment of this paragraph, referred to in subsec. (c)(4)(A), (C)(i), (D)(i), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
  __Prior Provisions__ 
 
     A prior section 503, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 831][/us/stat/82/831], related to administration of highway relocation assistance program, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3)(C). [Pub. L. 114–94, § 6003(1)][/us/pl/114/94/s6003/1], substituted “2016 through 2020” for “2013 through 2014”.
+
+    Subsec. (c)(3)(D). [Pub. L. 114–94, § 6003(2)][/us/pl/114/94/s6003/2], added subpar. (D).
+
+    Subsec. (c)(4). [Pub. L. 114–94, § 6004][/us/pl/114/94/s6004], added par. (4).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to technology deployment.
 
@@ -501,9 +739,111 @@
 
     Subsec. (e). [Pub. L. 109–59, § 5203(d)][/us/pl/109/59/s5203/d], added subsec. (e).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
+
+ __Surface Transportation System Funding Alternatives__ 
+
+[Pub. L. 114–94, div. A, title VI, § 6020][/us/pl/114/94/s6020], Dec. 4, 2015, [129 Stat. 1582][/us/stat/129/1582], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall establish a program to provide grants to States to demonstrate user-based alternative revenue mechanisms that utilize a user fee structure to maintain the long-term solvency of the Highway Trust Fund.
+
+>     “(b)  __Application__  __.—__ 
+
+>     To be eligible for a grant under this section, a State or group of States shall submit to the Secretary an application in such form and containing such information as the Secretary may require.
+
+>     “(c)  __Objectives__  __.—__ 
+
+>     The Secretary shall ensure that the activities carried out using funds provided under this section meet the following objectives:
+
+>         “(1) To test the design, acceptance, and implementation of 2 or more future user-based alternative revenue mechanisms.
+
+>         “(2) To improve the functionality of such user-based alternative revenue mechanisms.
+
+>         “(3) To conduct outreach to increase public awareness regarding the need for alternative funding sources for surface transportation programs and to provide information on possible approaches.
+
+>         “(4) To provide recommendations regarding adoption and implementation of user-based alternative revenue mechanisms.
+
+>         “(5) To minimize the administrative cost of any potential user-based alternative revenue mechanisms.
+
+>     “(d)  __Use of Funds__  __.—__ 
+
+>     A State or group of States receiving funds under this section to test the design, acceptance, and implementation of a user-based alternative revenue mechanism—
+
+>         “(1)
+
+>          shall address—
+
+>             “(A) the implementation, interoperability, public acceptance, and other potential hurdles to the adoption of the user-based alternative revenue mechanism;
+
+>             “(B) the protection of personal privacy;
+
+>             “(C) the use of independent and private third-party vendors to collect fees and operate the user-based alternative revenue mechanism;
+
+>             “(D) market-based congestion mitigation, if appropriate;
+
+>             “(E) equity concerns, including the impacts of the user-based alternative revenue mechanism on differing income groups, various geographic areas, and the relative burdens on rural and urban drivers;
+
+>             “(F) ease of compliance for different users of the transportation system; and
+
+>             “(G) the reliability and security of technology used to implement the user-based alternative revenue mechanism; and
+
+>         “(2)
+
+>          may address—
+
+>             “(A) the flexibility and choices of user-based alternative revenue mechanisms, including the ability of users to select from various technology and payment options;
+
+>             “(B) the cost of administering the user-based alternative revenue mechanism; and
+
+>             “(C) the ability of the administering entity to audit and enforce user compliance.
+
+>     “(e)  __Consideration__  __.—__ 
+
+>     The Secretary shall consider geographic diversity in awarding grants under this section.
+
+>     “(f)  __Limitations on Revenue Collected__  __.—__ 
+
+>     Any revenue collected through a user-based alternative revenue mechanism established using funds provided under this section shall not be considered a toll under [section 301 of title 23][/us/usc/t23/s301], United States Code.
+
+>     “(g)  __Federal Share__  __.—__ 
+
+>     The Federal share of the cost of an activity carried out under this section may not exceed 50 percent of the total cost of the activity.
+
+>     “(h)  __Report to Secretary__  __.—__ 
+
+>     Not later than 1 year after the date on which the first eligible entity receives a grant under this section, and each year thereafter, each recipient of a grant under this section shall submit to the Secretary a report that describes—
+
+>         “(1) how the demonstration activities carried out with grant funds meet the objectives described in subsection (c); and
+
+>         “(2) lessons learned for future deployment of alternative revenue mechanisms that utilize a user fee structure.
+
+>     “(i)  __Biennial Reports__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], and every 2 years thereafter until the completion of the demonstration activities under this section, the Secretary shall make available to the public on an Internet website a report describing the progress of the demonstration activities.
+
+>     “(j)  __Funding__  __.—__ 
+
+>     Of the funds authorized to carry out [section 503(b) of title 23][/us/usc/t23/s503/b], United States Code—
+
+>         “(1) $15,000,000 shall be used to carry out this section for fiscal year 2016; and
+
+>         “(2) $20,000,000 shall be used to carry out this section for each of fiscal years 2017 through 2020.
+
+>     “(k)  __Grant Flexibility__  __.—__ 
+
+>     If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements of this section for a fiscal year, \[the\] Secretary shall transfer to the program under [section 503(b) of title 23][/us/usc/t23/s503/b], United States Code—
+
+>         “(1) any of the funds reserved for the fiscal year under subsection (j) that the Secretary has not yet awarded under this section; and
+
+>         “(2) an amount of obligation limitation equal to the amount of funds that the Secretary transfers under paragraph (1).”
 
  __High Performing Steel Bridge Research and Technology Transfer__ 
 
@@ -546,11 +886,19 @@
 [/us/stat/119/1786-1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1786-1789
 [/us/pl/112/141/s52003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52003%2Fa
 [/us/stat/126/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F872
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1562
+[/us/pl/114/94/s6019/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FA
+[/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
 [/us/stat/82/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F831
 [/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/114/94/s6003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6003%2F1
+[/us/pl/114/94/s6003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6003%2F2
+[/us/pl/114/94/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6004
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s5203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5203%2Fa%2F1
 [/us/pl/109/59/s5203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5203%2Fa%2F2
@@ -561,9 +909,17 @@
 [/us/pl/109/59/s5203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5203%2Fb%2F1
 [/us/pl/109/59/s5203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5203%2Fc%2F1
 [/us/pl/109/59/s5203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5203%2Fd
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s6020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6020
+[/us/stat/129/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1582
+[/us/usc/t23/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs301
+[/us/usc/t23/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fb
+[/us/usc/t23/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fb
 [/us/pl/109/59/s5202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5202%2Fc
 [/us/stat/119/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1786
 [/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779

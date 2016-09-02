@@ -65,23 +65,7 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs506" data-uslm-ref="/us/usc/t23/s506">506</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs507" data-uslm-ref="/us/usc/t23/s507">507.</a>  </td>
-
-    <td> Repealed.]  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs508" data-uslm-ref="/us/usc/t23/s508">508.</a>  </td>
-
-    <td> Transportation research and development strategic planning.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs509" data-uslm-ref="/us/usc/t23/s509">509.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs506" data-uslm-ref="/us/usc/t23/s506">506</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs509" data-uslm-ref="/us/usc/t23/s509">509.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -107,7 +91,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs512" data-uslm-ref="/us/usc/t23/s512">512.</a>  </td>
 
-    <td> National ITS Program Plan. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> National ITS program plan.  </td>
 
   </tr>
 
@@ -159,6 +143,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs519" data-uslm-ref="/us/usc/t23/s519">519.</a>  </td>
+
+    <td> Infrastructure development.  </td>
+
+  </tr>
+
 </table>
 
  __Prior Provisions__ 
@@ -166,6 +158,8 @@
     A prior chapter 5, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 830][/us/stat/82/830], consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of [Pub. L. 91–646][/us/pl/91/646], set out as notes under sections 4601 and 4621, respectively, of Title 42.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title VI][/us/pl/114/94], §§ 6010(b), 6019(d)(1)(B), Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568], 1581, struck out item 508 “Transportation research and development strategic planning”, substituted “National ITS program plan” for “National ITS Program Plan” in item 512, and added item 519.
 
     2012—[Pub. L. 112–141, div. E, title II][/us/pl/112/141], §§ 52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§ 53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, [126 Stat. 872][/us/stat/126/872], 880, 882, 899, 901–903, 905, substituted “Surface transportation research, development, and technology” for “Surface transportation research” in item 502 and “Research and technology development and deployment” for “Technology deployment program” in item 503, struck out items 506 “International highway transportation outreach program”, 507 “Surface transportation environment and planning cooperative research program”, and 509 “National cooperative freight transportation research program”, and added items 514 to 518.
 
@@ -187,6 +181,8 @@
 [/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1568
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F872
 [/us/pl/110/244/s111/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs111%2Fb%2F2%2FB

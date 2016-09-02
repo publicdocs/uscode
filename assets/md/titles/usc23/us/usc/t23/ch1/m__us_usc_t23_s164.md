@@ -137,13 +137,91 @@
 
         Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added [Pub. L. 105–178, title I, § 1406(a)][/us/pl/105/178/s1406/a], as added [Pub. L. 105–206, title IX, § 9005(a)][/us/pl/105/206/s9005/a], July 22, 1998, [112 Stat. 845][/us/stat/112/845]; amended [Pub. L. 109–59, title I, § 1401(a)(3)(C)][/us/pl/109/59/s1401/a/3/C], Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 110–244, title I, § 115][/us/pl/110/244/s115], June 6, 2008, [122 Stat. 1606][/us/stat/122/1606]; [Pub. L. 112–141, div. A, title I, § 1403][/us/pl/112/141/s1403], July 6, 2012, [126 Stat. 556][/us/stat/126/556].)
+(Added [Pub. L. 105–178, title I, § 1406(a)][/us/pl/105/178/s1406/a], as added [Pub. L. 105–206, title IX, § 9005(a)][/us/pl/105/206/s9005/a], July 22, 1998, [112 Stat. 845][/us/stat/112/845]; amended [Pub. L. 109–59, title I, § 1401(a)(3)(C)][/us/pl/109/59/s1401/a/3/C], Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 110–244, title I, § 115][/us/pl/110/244/s115], June 6, 2008, [122 Stat. 1606][/us/stat/122/1606]; [Pub. L. 112–141, div. A, title I, § 1403][/us/pl/112/141/s1403], July 6, 2012, [126 Stat. 556][/us/stat/126/556]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1414, 1446(a)(10), Dec. 4, 2015, [129 Stat. 1420][/us/stat/129/1420], 1437.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1414, 1446(a)(10), title IV, § 4015, Dec. 4, 2015, [129 Stat. 1420][/us/stat/129/1420], 1437, 1513, provided that, effective Oct. 1, 2016, this section is amended:
+
+    (1) in subsection (a)—
+
+    (a) by redesignating paragraphs (1) to (4) as paragraphs (2) to (5), respectively;
+
+    (b) by adding paragraph (1) to read as follows:
+
+    “(1) 24-7 sobriety program.—The term ‘24-7 sobriety program’ has the meaning given the term in section 405(d)(7)(A).”;
+
+    (c) in paragraph (5), as redesignated—
+
+    (i) by inserting “or combination of laws or programs” after “State law” in the introductory provisions;
+
+    (ii) by amending subparagraph (A) to read as follows:
+
+    “(A) receive, for a period of not less than 1 year—
+
+    “(i) a suspension of all driving privileges;
+
+    “(ii) a restriction on driving privileges that limits the individual to operating only motor vehicles with an ignition interlock device installed, unless a special exception applies;
+
+    “(iii) a restriction on driving privileges that limits the individual to operating motor vehicles only if participating in, and complying with, a 24-7 sobriety program; or
+
+    “(iv) any combination of clauses (i) through (iii);”;
+
+    (iii) by striking subparagraph (B);
+
+    (iv) by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively;
+
+    (v) in subparagraph (C), as redesignated—
+
+    (I) by inserting “(unless the State certifies that the general practice is that such an individual will be incarcerated)” before the semicolon in clause (i)(II); and
+
+    (II) by inserting “(unless the State certifies that the general practice is that such an individual will receive 10 days of incarceration)” before the period at the end in clause (ii)(II); and
+
+    (d) by adding paragraph (6) to read as follows:
+
+    “(6) Special exception.—The term ‘special exception’ means an exception under a State alcohol-ignition interlock law for the following circumstances:
+
+    “(A) The individual is required to operate an employer’s motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.
+
+    “(B) The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.”; and
+
+    (2) in subsection (b)—
+
+    (a) by striking “transferred” and inserting “reserved” in paragraph (3)(A); and
+
+    (b) by inserting “or released” after “transferred” in paragraph (5).
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
     Section 104, referred to in subsec. (b)(1), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1) to (4). [Pub. L. 114–94, § 1414(1)][/us/pl/114/94/s1414/1], (2), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
+
+    Subsec. (a)(5). [Pub. L. 114–94, § 1414(1)][/us/pl/114/94/s1414/1], (3)(A), redesignated par. (4) as (5) and inserted “or combination of laws or programs” after “State law” in introductory provisions.
+
+    Subsec. (a)(5)(A). [Pub. L. 114–94, § 1414(3)(B)][/us/pl/114/94/s1414/3/B], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “receive—
+
+    “(i) a suspension of all driving privileges for not less than 1 year; or
+
+    “(ii) a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;”
+
+    Subsec. (a)(5)(B). [Pub. L. 114–94, § 1414(3)(C)][/us/pl/114/94/s1414/3/C], (D), redesignated subpar. (C) as (B) and struck out former subpar. (B), which read as follows: “be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;”.
+
+    Subsec. (a)(5)(C). [Pub. L. 114–94, § 1414(3)(D)][/us/pl/114/94/s1414/3/D], redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+
+    Subsec. (a)(5)(C)(i)(II). [Pub. L. 114–94, § 1414(3)(E)(i)][/us/pl/114/94/s1414/3/E/i], inserted before semicolon “(unless the State certifies that the general practice is that such an individual will be incarcerated)”.
+
+    Subsec. (a)(5)(C)(ii)(II). [Pub. L. 114–94, § 1414(3)(E)(ii)][/us/pl/114/94/s1414/3/E/ii], inserted before period at end “(unless the State certifies that the general practice is that such an individual will receive 10 days of incarceration)”.
+
+    Subsec. (a)(6). [Pub. L. 114–94, § 1414(4)][/us/pl/114/94/s1414/4], added par. (6).
+
+    Subsec. (b)(3)(A). [Pub. L. 114–94, § 1446(a)(10)(A)][/us/pl/114/94/s1446/a/10/A], substituted “reserved” for “transferred”.
+
+    Subsec. (b)(5). [Pub. L. 114–94, § 1446(a)(10)(B)][/us/pl/114/94/s1446/a/10/B], inserted “or released” after “transferred” in introductory provisions.
 
     2012—Subsec. (a)(3). [Pub. L. 112–141, § 1403(a)(1)][/us/pl/112/141/s1403/a/1], (2), redesignated par. (4) as (3) and struck out former par. (3) which defined “license suspension”.
 
@@ -177,6 +255,12 @@
 
     2005—Subsec. (b)(3). [Pub. L. 109–59][/us/pl/109/59] substituted “148” for “152”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. A, title IV, § 4015][/us/pl/114/94/s4015], Dec. 4, 2015, [129 Stat. 1513][/us/stat/129/1513], provided that: 
+
+> “Notwithstanding any other provision of this Act \[div. A of [Pub. L. 114–94][/us/pl/114/94], see Tables for classification\], except for the technical corrections in section 4014 \[amending sections 402, 403, and 405 of this title\], the amendments made by this Act to sections 164, 402, and 405 of title 23, United States Code, shall be effective on October 1, 2016.”
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -201,8 +285,22 @@
 [/us/stat/122/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1606
 [/us/pl/112/141/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1403
 [/us/stat/126/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F556
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1420
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1420
 [/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
+[/us/pl/114/94/s1414/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F1
+[/us/pl/114/94/s1414/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F1
+[/us/pl/114/94/s1414/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F3%2FB
+[/us/pl/114/94/s1414/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F3%2FC
+[/us/pl/114/94/s1414/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F3%2FD
+[/us/pl/114/94/s1414/3/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F3%2FE%2Fi
+[/us/pl/114/94/s1414/3/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F3%2FE%2Fii
+[/us/pl/114/94/s1414/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1414%2F4
+[/us/pl/114/94/s1446/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F10%2FA
+[/us/pl/114/94/s1446/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F10%2FB
 [/us/pl/112/141/s1403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1403%2Fa%2F1
 [/us/pl/112/141/s1403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1403%2Fa%2F2
 [/us/pl/112/141/s1403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1403%2Fa%2F2
@@ -211,6 +309,9 @@
 [/us/pl/112/141/s1403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1403%2Fb%2F3
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4015
+[/us/stat/129/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1513
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

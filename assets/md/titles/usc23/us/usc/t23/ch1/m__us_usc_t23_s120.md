@@ -49,11 +49,11 @@
 
             (A)  __In general__  __.—__ 
 
-            Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), or (5) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
+            Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), (5)(D), or (6) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
 
                 (i) contains innovative project delivery methods that improve work zone safety for motorists or workers and the quality of the facility;
 
-                (ii) contains innovative technologies, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
+                (ii) contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
 
                 (iii) accelerates project delivery while complying with other applicable Federal laws (including regulations) and not causing any significant adverse environmental impact; or
 
@@ -67,17 +67,19 @@
 
                 (ii) innovative construction equipment, materials, or techniques, including the use of in-place recycling technology and digital 3-dimensional modeling technologies;
 
-                (iii) innovative contracting methods, including the design-build and the construction manager-general contractor contracting methods;
+                (iii) innovative contracting methods, including the design-build and the construction manager-general contractor contracting methods and alternative bidding;
 
-                (iv) intelligent compaction equipment; or
+                (iv) intelligent compaction equipment;
 
-                (v) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
+                (v) innovative pavement materials that have a demonstrated life cycle of 75 or more years, are manufactured with reduced greenhouse gas emissions, and reduce construction-related congestion by rapidly curing; or
+
+                (vi) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
 
             (C) __Limitations.—__ 
 
                 (i)  __In general__  __.—__ 
 
-                In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), and (5) of section 104(b).
+                In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), (5)(D), and (6) of section 104(b).
 
                 (ii)  __Federal share increase__  __.—__ 
 
@@ -91,7 +93,7 @@
 
         (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the cost of the repairs;
 
-        (2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, Federal land access transportation facilities, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
+        (2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, other Federally owned roads that are open to public travel, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
 
         (3) the Secretary shall extend the time period in paragraph (1) taking into consideration any delay in the ability of the State to access damaged facilities to evaluate damage and the cost of repair; and
 
@@ -157,9 +159,21 @@
 
     Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 898][/us/stat/72/898]; [Pub. L. 86–70, § 21(d)(4)][/us/pl/86/70/s21/d/4], (e)(4), June 25, 1959, [73 Stat. 145][/us/stat/73/145], 146; [Pub. L. 86–342, title I, § 107(b)][/us/pl/86/342/s107/b], Sept. 21, 1959, [73 Stat. 613][/us/stat/73/613]; [Pub. L. 86–657, § 3][/us/pl/86/657/s3], July 14, 1960, [74 Stat. 522][/us/stat/74/522]; [Pub. L. 88–658][/us/pl/88/658], Oct. 13, 1964, [78 Stat. 1090][/us/stat/78/1090]; [Pub. L. 89–574, § 9(a)][/us/pl/89/574/s9/a], Sept. 13, 1966, [80 Stat. 769][/us/stat/80/769]; [Pub. L. 90–495][/us/pl/90/495], §§ 27(b), 34, Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829], 835; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(f), 108(a), 109(b), 128, Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718], 1719, 1731; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 117, 129(a)–(c), (i), Nov. 6, 1978, [92 Stat. 2699][/us/stat/92/2699], 2707, 2708; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105], 2109, 2113, 2133, 2134; [Pub. L. 98–78, title III, § 318][/us/pl/98/78/s318], Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473]; [Pub. L. 100–17, title I, § 117(a)][/us/pl/100/17/s117/a]–(c)(1), (d), (e), Apr. 2, 1987, [101 Stat. 155][/us/stat/101/155], 156; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1021(a), (b), 1022(a), Dec. 18, 1991, [105 Stat. 1950][/us/stat/105/1950], 1951; [Pub. L. 104–59, title III, § 310(a)][/us/pl/104/59/s310/a], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 104–205, title III, § 353(a)][/us/pl/104/205/s353/a], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, [112 Stat. 145][/us/stat/112/145], 151, 152, 154, 193; [Pub. L. 105–206, title IX][/us/pl/105/206], §§ 9002(i), 9006(a)(2), July 22, 1998, [112 Stat. 836][/us/stat/112/836], 848; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1177, 1181, 1467, 1513; [Pub. L. 110–140, title XI, § 1131][/us/pl/110/140/s1131], Dec. 19, 2007, [121 Stat. 1763][/us/stat/121/1763]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1304(b), 1508, July 6, 2012, [126 Stat. 532][/us/stat/126/532], 565.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 898][/us/stat/72/898]; [Pub. L. 86–70, § 21(d)(4)][/us/pl/86/70/s21/d/4], (e)(4), June 25, 1959, [73 Stat. 145][/us/stat/73/145], 146; [Pub. L. 86–342, title I, § 107(b)][/us/pl/86/342/s107/b], Sept. 21, 1959, [73 Stat. 613][/us/stat/73/613]; [Pub. L. 86–657, § 3][/us/pl/86/657/s3], July 14, 1960, [74 Stat. 522][/us/stat/74/522]; [Pub. L. 88–658][/us/pl/88/658], Oct. 13, 1964, [78 Stat. 1090][/us/stat/78/1090]; [Pub. L. 89–574, § 9(a)][/us/pl/89/574/s9/a], Sept. 13, 1966, [80 Stat. 769][/us/stat/80/769]; [Pub. L. 90–495][/us/pl/90/495], §§ 27(b), 34, Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829], 835; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(f), 108(a), 109(b), 128, Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718], 1719, 1731; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 117, 129(a)–(c), (i), Nov. 6, 1978, [92 Stat. 2699][/us/stat/92/2699], 2707, 2708; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, [96 Stat. 2105][/us/stat/96/2105], 2109, 2113, 2133, 2134; [Pub. L. 98–78, title III, § 318][/us/pl/98/78/s318], Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473]; [Pub. L. 100–17, title I, § 117(a)][/us/pl/100/17/s117/a]–(c)(1), (d), (e), Apr. 2, 1987, [101 Stat. 155][/us/stat/101/155], 156; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1021(a), (b), 1022(a), Dec. 18, 1991, [105 Stat. 1950][/us/stat/105/1950], 1951; [Pub. L. 104–59, title III, § 310(a)][/us/pl/104/59/s310/a], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 104–205, title III, § 353(a)][/us/pl/104/205/s353/a], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, [112 Stat. 145][/us/stat/112/145], 151, 152, 154, 193; [Pub. L. 105–206, title IX][/us/pl/105/206], §§ 9002(i), 9006(a)(2), July 22, 1998, [112 Stat. 836][/us/stat/112/836], 848; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1177, 1181, 1467, 1513; [Pub. L. 110–140, title XI, § 1131][/us/pl/110/140/s1131], Dec. 19, 2007, [121 Stat. 1763][/us/stat/121/1763]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1304(b), 1508, July 6, 2012, [126 Stat. 532][/us/stat/126/532], 565; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1104(e)(2), 1408, Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332], 1410.)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3)(A). [Pub. L. 114–94, § 1104(e)(2)(A)][/us/pl/114/94/s1104/e/2/A], substituted “(5)(D), or (6)” for “or (5)” in introductory provisions.
+
+    Subsec. (c)(3)(A)(ii). [Pub. L. 114–94, § 1408(a)(1)][/us/pl/114/94/s1408/a/1], inserted “engineering or design approaches,” after “technologies,” and “or project delivery” after “or contracting”.
+
+    Subsec. (c)(3)(B)(iii). [Pub. L. 114–94, § 1408(a)(2)(A)][/us/pl/114/94/s1408/a/2/A], inserted “and alternative bidding” before semicolon at end.
+
+    Subsec. (c)(3)(B)(v), (vi). [Pub. L. 114–94, § 1408(a)(2)(B)][/us/pl/114/94/s1408/a/2/B]–(D), added cl. (v) and redesignated former cl. (v) as (vi).
+
+    Subsec. (c)(3)(C)(i). [Pub. L. 114–94, § 1104(e)(2)(B)][/us/pl/114/94/s1104/e/2/B], substituted “(5)(D), and (6)” for “and (5)”.
+
+    Subsec. (e)(2). [Pub. L. 114–94, § 1408(b)][/us/pl/114/94/s1408/b], substituted “other Federally owned roads that are open to public travel” for “Federal land access transportation facilities”.
 
     2012—Subsec. (c)(1). [Pub. L. 112–141, § 1508(1)][/us/pl/112/141/s1508/1], inserted “maintaining minimum levels of retroreflectivity of highway signs or pavement markings,” after “traffic control signalization,” and “shoulder and centerline rumble strips and stripes,” after “pavement marking,” and substituted “Federal-aid programs” for “Federal-aid systems”.
 
@@ -302,6 +316,10 @@
     Subsec. (f). [Pub. L. 86–342][/us/pl/86/342] provided that the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservation roads may amount to 100 per centum of the cost thereof, whether or not such highways, roads or trails are on any Federal-aid highway system.
 
     Subsec. (h). [Pub. L. 86–70, § 21(d)(4)][/us/pl/86/70/s21/d/4], repealed subsec. (h) which related to contributions by the Territory of Alaska and to the expenditure of Federal funds apportioned to the Territory of Alaska and funds contributed by the Territory.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -506,6 +524,14 @@
 [/us/stat/121/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1763
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F532
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
+[/us/pl/114/94/s1104/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F2%2FA
+[/us/pl/114/94/s1408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fa%2F1
+[/us/pl/114/94/s1408/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fa%2F2%2FA
+[/us/pl/114/94/s1408/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fa%2F2%2FB
+[/us/pl/114/94/s1104/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F2%2FB
+[/us/pl/114/94/s1408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fb
 [/us/pl/112/141/s1508/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1508%2F1
 [/us/pl/112/141/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1304%2Fb
 [/us/pl/112/141/s1508/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1508%2F2
@@ -592,6 +618,9 @@
 [/us/pl/86/70/s21/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe%2F4
 [/us/pl/86/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342
 [/us/pl/86/70/s21/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

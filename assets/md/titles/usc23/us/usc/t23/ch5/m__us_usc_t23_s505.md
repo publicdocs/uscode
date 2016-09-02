@@ -17,7 +17,7 @@
 
     (a)  __General Rule__  __.—__ 
 
-    Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (4) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+    Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (5) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
         (1) Engineering and economic surveys and investigations.
 
@@ -65,13 +65,15 @@
 
     Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
 
-(Added [Pub. L. 105–178, title V, § 5105][/us/pl/105/178/s5105], June 9, 1998, [112 Stat. 432][/us/stat/112/432]; amended [Pub. L. 109–59, title V, § 5205][/us/pl/109/59/s5205], Aug. 10, 2005, [119 Stat. 1795][/us/stat/119/1795]; [Pub. L. 112–141, div. E, title II, § 52005][/us/pl/112/141/s52005], July 6, 2012, [126 Stat. 882][/us/stat/126/882].)
+(Added [Pub. L. 105–178, title V, § 5105][/us/pl/105/178/s5105], June 9, 1998, [112 Stat. 432][/us/stat/112/432]; amended [Pub. L. 109–59, title V, § 5205][/us/pl/109/59/s5205], Aug. 10, 2005, [119 Stat. 1795][/us/stat/119/1795]; [Pub. L. 112–141, div. E, title II, § 52005][/us/pl/112/141/s52005], July 6, 2012, [126 Stat. 882][/us/stat/126/882]; [Pub. L. 114–94, div. A, title I, § 1104(e)(6)][/us/pl/114/94/s1104/e/6], Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
 
  __Prior Provisions__ 
 
     A prior section 505, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 831][/us/stat/82/831], related to highway relocation assistance payments, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] substituted “through (5)” for “through (4)” in introductory provisions.
 
     2012—Subsec. (a). [Pub. L. 112–141, § 52005(1)(A)][/us/pl/112/141/s52005/1/A], substituted “paragraphs (1) through (4) of section 104(b)” for “section 104 (other than sections 104(f) and 104(h)) and under section 144” in introductory provisions.
 
@@ -84,6 +86,10 @@
     2005—Subsec. (a)(7). [Pub. L. 109–59, § 5205(1)][/us/pl/109/59/s5205/1], added par. (7).
 
     Subsec. (d). [Pub. L. 109–59, § 5205(2)][/us/pl/109/59/s5205/2], substituted “for the period described in section 118(b)(2)” for “for the same period as funds apportioned under section 104(b)(1)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -140,16 +146,22 @@
 [/us/stat/119/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1795
 [/us/pl/112/141/s52005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52005
 [/us/stat/126/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F882
+[/us/pl/114/94/s1104/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F6
+[/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
 [/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
 [/us/stat/82/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F831
 [/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s52005/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52005%2F1%2FA
 [/us/pl/112/141/s52005/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52005%2F1%2FB
 [/us/pl/112/141/s52005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52005%2F2
 [/us/pl/112/141/s52005/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52005%2F2
 [/us/pl/109/59/s5205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5205%2F1
 [/us/pl/109/59/s5205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5205%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

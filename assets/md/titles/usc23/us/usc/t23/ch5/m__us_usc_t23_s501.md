@@ -95,6 +95,74 @@
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
+ __Authorization of Appropriations__ 
+
+[Pub. L. 114–94, div. A, title VI, § 6002][/us/pl/114/94/s6002], Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The following amounts are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account):
+
+>         “(1)  __Highway research and development program__  __.—__ 
+
+>         To carry out [section 503(b) of title 23][/us/usc/t23/s503/b], United States Code, $125,000,000 for each of fiscal years 2016 through 2020.
+
+>         “(2)  __Technology and innovation deployment program__  __.—__ 
+
+>         To carry out [section 503(c) of title 23][/us/usc/t23/s503/c], United States Code—
+
+>             “(A) $67,000,000 for fiscal year 2016;
+
+>             “(B) $67,500,000 for fiscal year 2017;
+
+>             “(C) $67,500,000 for fiscal year 2018;
+
+>             “(D) $67,500,000 for fiscal year 2019; and
+
+>             “(E) $67,500,000 for fiscal year 2020.
+
+>         “(3)  __Training and education__  __.—__ 
+
+>         To carry out [section 504 of title 23][/us/usc/t23/s504], United States Code, $24,000,000 for each of fiscal years 2016 through 2020.
+
+>         “(4)  __Intelligent transportation systems program__  __.—__ 
+
+>         To carry out sections 512 through 518 of title 23, United States Code, $100,000,000 for each of fiscal years 2016 through 2020.
+
+>         “(5)  __University transportation centers program__  __.—__ 
+
+>         To carry out [section 5505 of title 49][/us/usc/t49/s5505], United States Code—
+
+>             “(A) $72,500,000 for fiscal year 2016;
+
+>             “(B) $75,000,000 for fiscal year 2017;
+
+>             “(C) $75,000,000 for fiscal year 2018;
+
+>             “(D) $77,500,000 for fiscal year 2019; and
+
+>             “(E) $77,500,000 for fiscal year 2020.
+
+>         “(6)  __Bureau of transportation statistics__  __.—__ 
+
+>         To carry out chapter 63 of title 49, United States Code, $26,000,000 for each of fiscal years 2016 through 2020.
+
+>     “(b)  __Administration__  __.—__ 
+
+>     The Federal Highway Administration shall—
+
+>         “(1) administer the programs described in paragraphs (1), (2), and (3) of subsection (a); and
+
+>         “(2) in consultation with relevant modal administrations, administer the programs described in subsection (a)(4).
+
+>     “(c)  __Applicability of Title __  __23__  __, United States Code__  __.—__ 
+
+>     Funds authorized to be appropriated by subsection (a) shall—
+
+>         “(1) be available for obligation in the same manner as if those funds were apportioned under chapter 1 of title 23, United States Code, except that the Federal share of the cost of a project or activity carried out using those funds shall be 80 percent, unless otherwise expressly provided by this Act \[div. A of [Pub. L. 114–94][/us/pl/114/94], see Tables for classification\] (including the amendments by this Act) or otherwise determined by the Secretary \[of Transportation\]; and
+
+>         “(2) remain available until expended and not be transferable, except as otherwise provided in this Act.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_ch5.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s502.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs501)
@@ -114,5 +182,12 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6002
+[/us/stat/129/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1561
+[/us/usc/t23/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fb
+[/us/usc/t23/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs503%2Fc
+[/us/usc/t23/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs504
+[/us/usc/t49/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5505
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 
 

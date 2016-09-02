@@ -79,11 +79,11 @@
 
             (B) authorize political subdivisions of the State to carry out local highway safety programs within their jurisdictions as a part of the State highway safety program if such local highway safety programs are approved by the Governor and are in accordance with the minimum standards established by the Secretary under this section;
 
-            (C) except as provided in paragraph (3), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs authorized in accordance with subparagraph (B);
+            (C) except as provided in paragraph (2), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs authorized in accordance with subparagraph (B);
 
             (D) provide adequate and reasonable access for the safe and convenient movement of individuals with disabilities, including those in wheelchairs, across curbs constructed or replaced on or after July 1, 1976, at all pedestrian crosswalks throughout the State;
 
-            (E) beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 in which a State submits its highway safety plan under subsection (f), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;
+            (E) beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;
 
             (F)
 
@@ -215,7 +215,7 @@
 
         (4)  __Performance measures__  __.—__ 
 
-        For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (2)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, “Traffic Safety Performance Measures for States and Federal Agencies” (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.
+        For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, “Traffic Safety Performance Measures for States and Federal Agencies” (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.
 
         (5)  __Review of highway safety plans__  __.—__ 
 
@@ -311,7 +311,67 @@
 
         (2) such recommendations as the Secretary may have for improvements to activities carried out under subsection (k).
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 731][/us/stat/80/731]; amended [Pub. L. 90–495, § 13][/us/pl/90/495/s13], Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822]; [Pub. L. 91–605, title II][/us/pl/91/605], §§ 202(c), (d), (e), 203(a), Dec. 31, 1970, [84 Stat. 1740][/us/stat/84/1740], 1741; [Pub. L. 93–87, title II][/us/pl/93/87], §§ 207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, [87 Stat. 285][/us/stat/87/285], 290, 293, 294; [Pub. L. 94–280, title II][/us/pl/94/280], §§ 204, 208(a), 211, 212, May 5, 1976, [90 Stat. 453][/us/stat/90/453], 454, 455; [Pub. L. 95–599, title II, § 207(a)][/us/pl/95/599/s207/a], (b)(1), (c), (d), Nov. 6, 1978, [92 Stat. 2731][/us/stat/92/2731], 2732; [Pub. L. 97–35, title XI, § 1107(c)][/us/pl/97/35/s1107/c]–(e), Aug. 13, 1981, [95 Stat. 626][/us/stat/95/626]; [Pub. L. 97–424, title II, § 208][/us/pl/97/424/s208], Jan. 6, 1983, [96 Stat. 2140][/us/stat/96/2140]; [Pub. L. 98–363][/us/pl/98/363], §§ 3(a), 5, July 17, 1984, [98 Stat. 436][/us/stat/98/436]; [Pub. L. 100–17, title I, § 133(b)(20)][/us/pl/100/17/s133/b/20], title II, § 206, Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172], 221; [Pub. L. 102–240, title II, § 2002][/us/pl/102/240/s2002], Dec. 18, 1991, [105 Stat. 2070][/us/stat/105/2070]; [Pub. L. 104–66, title I, § 1121(d)][/us/pl/104/66/s1121/d], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], title II, § 2001(a)–(e), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 323, 324; [Pub. L. 109–59, title II, § 2002(a)][/us/pl/109/59/s2002/a]–(d), Aug. 10, 2005, [119 Stat. 1521][/us/stat/119/1521]; [Pub. L. 110–244, title III, § 303(a)][/us/pl/110/244/s303/a]–(c)(1), June 6, 2008, [122 Stat. 1619][/us/stat/122/1619]; [Pub. L. 112–141, div. C, title I, § 31102][/us/pl/112/141/s31102], July 6, 2012, [126 Stat. 734][/us/stat/126/734].)
+(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 731][/us/stat/80/731]; amended [Pub. L. 90–495, § 13][/us/pl/90/495/s13], Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822]; [Pub. L. 91–605, title II][/us/pl/91/605], §§ 202(c), (d), (e), 203(a), Dec. 31, 1970, [84 Stat. 1740][/us/stat/84/1740], 1741; [Pub. L. 93–87, title II][/us/pl/93/87], §§ 207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, [87 Stat. 285][/us/stat/87/285], 290, 293, 294; [Pub. L. 94–280, title II][/us/pl/94/280], §§ 204, 208(a), 211, 212, May 5, 1976, [90 Stat. 453][/us/stat/90/453], 454, 455; [Pub. L. 95–599, title II, § 207(a)][/us/pl/95/599/s207/a], (b)(1), (c), (d), Nov. 6, 1978, [92 Stat. 2731][/us/stat/92/2731], 2732; [Pub. L. 97–35, title XI, § 1107(c)][/us/pl/97/35/s1107/c]–(e), Aug. 13, 1981, [95 Stat. 626][/us/stat/95/626]; [Pub. L. 97–424, title II, § 208][/us/pl/97/424/s208], Jan. 6, 1983, [96 Stat. 2140][/us/stat/96/2140]; [Pub. L. 98–363][/us/pl/98/363], §§ 3(a), 5, July 17, 1984, [98 Stat. 436][/us/stat/98/436]; [Pub. L. 100–17, title I, § 133(b)(20)][/us/pl/100/17/s133/b/20], title II, § 206, Apr. 2, 1987, [101 Stat. 172][/us/stat/101/172], 221; [Pub. L. 102–240, title II, § 2002][/us/pl/102/240/s2002], Dec. 18, 1991, [105 Stat. 2070][/us/stat/105/2070]; [Pub. L. 104–66, title I, § 1121(d)][/us/pl/104/66/s1121/d], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], title II, § 2001(a)–(e), June 9, 1998, [112 Stat. 193][/us/stat/112/193], 323, 324; [Pub. L. 109–59, title II, § 2002(a)][/us/pl/109/59/s2002/a]–(d), Aug. 10, 2005, [119 Stat. 1521][/us/stat/119/1521]; [Pub. L. 110–244, title III, § 303(a)][/us/pl/110/244/s303/a]–(c)(1), June 6, 2008, [122 Stat. 1619][/us/stat/122/1619]; [Pub. L. 112–141, div. C, title I, § 31102][/us/pl/112/141/s31102], July 6, 2012, [126 Stat. 734][/us/stat/126/734]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4002, 4014(1), Dec. 4, 2015, [129 Stat. 1499][/us/stat/129/1499], 1513.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4002, 4015, Dec. 4, 2015, [129 Stat. 1499][/us/stat/129/1499], 1513, provided that, effective Oct. 1, 2016, this section is amended as follows:
+
+    (1) in subsection (a)(2)(A)—
+
+    (A) in clause (vi) by striking “and” at the end;
+
+    (B) in clause (vii) by inserting “and” after the semicolon; and
+
+    (C) by adding at the end the following:
+
+    “(viii) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;”;
+
+    (2) in subsection (c)(4), by adding at the end the following:
+
+    “(C) Survey.—A State in which an automated traffic enforcement system is installed shall expend funds apportioned to that State under this section to conduct a biennial survey that the Secretary shall make publicly available through the Internet Web site of the Department of Transportation that includes—
+
+    “(i) a list of automated traffic enforcement systems in the State;
+
+    “(ii) adequate data to measure the transparency, accountability, and safety attributes of each automated traffic enforcement system; and
+
+    “(iii) a comparison of each automated traffic enforcement system with—
+
+    “(I) Speed Enforcement Camera Systems Operational Guidelines (DOT HS 810 916, March 2008); and
+
+    “(II) Red Light Camera Systems Operational Guidelines (FHWA–SA–05–002, January 2005).”
+
+    (3) by striking subsection (g) and inserting the following:
+
+    “(g) Restriction.—Nothing in this section may be construed to authorize the appropriation or expenditure of funds for highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines).”
+
+    (4) in subsection (k)—
+
+    (A) by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively;
+
+    (B) by inserting after paragraph (2) the following:
+
+    “(3) Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit highway safety plans under this subsection, including any attachments to the plans, in electronic form.”
+
+    (C) in paragraph (6)(A), as so redesignated, by striking “60 days” and inserting “45 days”; and
+
+    (5) in subsection (m)(2)(B)—
+
+    (A) in clause (vii) by striking “and” at the end;
+
+    (B) in clause (viii) by striking the period at the end and inserting a semicolon; and
+
+    (C) by adding at the end the following:
+
+    “(ix) increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities; and
+
+    “(x) support for school-based driver’s education classes to improve teen knowledge about—
+
+    “(I) safe driving practices; and
+
+    “(II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.”
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
@@ -322,6 +382,38 @@
     The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(A)(viii). [Pub. L. 114–94, § 4002(1)][/us/pl/114/94/s4002/1], added cl. (viii).
+
+    Subsec. (b)(1)(C). [Pub. L. 114–94, § 4014(1)(A)(i)][/us/pl/114/94/s4014/1/A/i], substituted “paragraph (2)” for “paragraph (3)”.
+
+    Subsec. (b)(1)(E). [Pub. L. 114–94, § 4014(1)(A)(ii)][/us/pl/114/94/s4014/1/A/ii], substituted “for which” for “in which” and “under subsection (k)” for “under subsection (f)”.
+
+    Subsec. (c)(4)(C). [Pub. L. 114–94, § 4002(2)][/us/pl/114/94/s4002/2], added subpar. (C).
+
+    Subsec. (g). [Pub. L. 114–94, § 4002(3)][/us/pl/114/94/s4002/3], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows:
+
+    “(1) In general.—Except as provided under paragraph (2), nothing in this section may be construed to authorize the appropriation or expenditure of funds for—
+
+    “(A) highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines); or
+
+    “(B) any purpose for which funds are authorized under section 403.
+
+    “(2) Demonstration projects.—A State may use funds made available to carry out this section to assist in demonstration projects carried out by the Secretary under section 403.”
+
+    Subsec. (k)(3). [Pub. L. 114–94, § 4002(4)(B)][/us/pl/114/94/s4002/4/B], added par. (3). Former par. (3) redesignated (4).
+
+    Subsec. (k)(4). [Pub. L. 114–94, § 4014(1)(B)][/us/pl/114/94/s4014/1/B], which directed substitution of “under paragraph (3)(A)” for “under paragraph (2)(A)” in par. (5) as redesignated by [Pub. L. 114–94, § 4002(4)(A)][/us/pl/114/94/s4002/4/A], was executed by making substitution to par. (4), pending future execution of [Pub. L. 114–94, § 4002][/us/pl/114/94/s4002], to reflect the probable intent of Congress. See Effective Date of 2015 Amendment note below.
+
+    [Pub. L. 114–94, § 4002(4)(A)][/us/pl/114/94/s4002/4/A] redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+    Subsec. (k)(5). [Pub. L. 114–94, § 4002(4)(A)][/us/pl/114/94/s4002/4/A], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+    Subsec. (k)(6). [Pub. L. 114–94, § 4002(4)(A)][/us/pl/114/94/s4002/4/A], redesignated par. (5) as (6).
+
+    Subsec. (k)(6)(A). [Pub. L. 114–94, § 4002(4)(C)][/us/pl/114/94/s4002/4/C], substituted “45 days” for “60 days”.
+
+    Subsec. (m)(2)(B)(ix), (x). [Pub. L. 114–94, § 4002(5)][/us/pl/114/94/s4002/5], added cls. (ix) and (x).
 
     2012—Subsec. (a). [Pub. L. 112–141, § 31102(a)][/us/pl/112/141/s31102/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to State highway programs designed to reduce traffic accidents and deaths in accordance with uniform guidelines promulgated by the Secretary.
 
@@ -471,6 +563,12 @@
 
     1968—Subsec. (c). [Pub. L. 90–495][/us/pl/90/495] substituted “December 31, 1969” for “December 31, 1968” as the last day on which the Secretary may apportion funds to States which are not implementing highway safety programs approved by the Secretary and substituted “January 1, 1970” for “January 1, 1969” as the date after which funds apportioned to States not having approved safety programs shall be reduced until a safety program is implemented.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    Amendment by [section 4002 of Pub. L. 114–94][/us/pl/114/94/s4002] effective Oct. 1, 2016, see [section 4015 of Pub. L. 114–94][/us/pl/114/94/s4015], set out as a note under under [section 164 of this title][/us/usc/t23/s164].
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -517,21 +615,37 @@
 
     Amendment by [Pub. L. 90–495][/us/pl/90/495] effective Aug. 23, 1968, see [section 37 of Pub. L. 90–495][/us/pl/90/495/s37], set out as a note under [section 101 of this title][/us/usc/t23/s101].
 
+ __Increasing Public Awareness of the Dangers of Drug-Impaired Driving__ 
+
+[Pub. L. 114–94, div. A, title IV, § 4009][/us/pl/114/94/s4009], Dec. 4, 2015, [129 Stat. 1511][/us/stat/129/1511], provided that:
+
+>     “(a)  __Additional Actions__  __.—__ 
+
+>     The Administrator of the National Highway Traffic Safety Administration, in consultation with the White House Office of National Drug Control Policy, the Secretary of Health and Human Services, State highway safety offices, and other interested parties, as determined by the Administrator, shall identify and carry out additional actions that should be undertaken by the Administration to assist States in their efforts to increase public awareness of the dangers of drug-impaired driving, including the dangers of driving while under the influence of heroin or prescription opioids.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 60 days after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the additional actions undertaken by the Administration pursuant to subsection (a).”
+
  __Regulatory Authority; State Matching Requirements; Grant Application and Deadline__ 
 
-[Pub. L. 112–141, div. C, title I, § 31101(d)][/us/pl/112/141/s31101/d]–(f), July 6, 2012, [126 Stat. 733][/us/stat/126/733], provided that:
+[Pub. L. 114–94, div. A, title IV, § 4001(d)][/us/pl/114/94/s4001/d]–(f), Dec. 4, 2015, [129 Stat. 1498][/us/stat/129/1498], provided that:
 
 >     “(d)  __Regulatory Authority__  __.—__ 
 
->     Grants awarded under this subtitle \[subtitle A (§§ 31101–31109) of title I of div. C of [Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] shall be in accordance with regulations issued by the Secretary \[of Transportation\].
+>     Grants awarded under this title \[title IV of div. A of [Pub. L. 114–94][/us/pl/114/94], see Tables for classification\] shall be carried out in accordance with regulations issued by the Secretary \[of Transportation\].
 
 >     “(e)  __State Matching Requirements__  __.—__ 
 
->     If a grant awarded under this subtitle requires a State to share in the cost, the aggregate of all expenditures for highway safety activities made during any fiscal year by the State and its political subdivisions (exclusive of Federal funds) for carrying out the grant (other than planning and administration) shall be available for the purpose of crediting the State during such fiscal year for the non-Federal share of the cost of any project under this subtitle (other than planning or administration) without regard to whether such expenditures were actually made in connection with such project.
+>     If a grant awarded under chapter 4 of title 23, United States Code, requires a State to share in the cost, the aggregate of all expenditures for highway safety activities made during a fiscal year by the State and its political subdivisions (exclusive of Federal funds) for carrying out the grant (other than planning and administration) shall be available for the purpose of crediting the State during such fiscal year for the non-Federal share of the cost of any other project carried out under chapter 4 of title 23, United States Code (other than planning or administration), without regard to whether such expenditures were made in connection with such project.
 
 >     “(f)  __Grant Application and Deadline__  __.—__ 
 
->     To receive a grant under this subtitle, a State shall submit an application, and the Secretary shall establish a single deadline for such applications to enable the award of grants early in the next fiscal year.”
+>     To receive a grant under chapter 4 of title 23, United States Code, a State shall submit an application, and the Secretary shall establish a single deadline for such applications to enable the award of grants early in the next fiscal year.”
+
+Similar provisions were contained in the following prior acts:
+
+    [Pub. L. 112–141, div. C, title I, § 31101(d)][/us/pl/112/141/s31101/d]–(f), July 6, 2012, [126 Stat. 733][/us/stat/126/733].
 
  __Safe Routes to School Program__ 
 
@@ -703,53 +817,25 @@
 
  __Grant Program To Prohibit Racial Profiling__ 
 
-[Pub. L. 109–59, title I, § 1906][/us/pl/109/59/s1906], Aug. 10, 2005, [119 Stat. 1468][/us/stat/119/1468], provided that:
+[Pub. L. 109–59, title I, § 1906][/us/pl/109/59/s1906], Aug. 10, 2005, [119 Stat. 1468][/us/stat/119/1468], as amended by [Pub. L. 114–94, div. A, title IV, § 4011][/us/pl/114/94/s4011], Dec. 4, 2015, [129 Stat. 1512][/us/stat/129/1512], provided that:
 
 >     “(a)  __Grants__  __.—__ 
 
 >     Subject to the requirements of this section, the Secretary \[of Transportation\] shall make grants to a State that—
 
->         “(1)
-
->             (A) has enacted and is enforcing a law that prohibits the use of racial profiling in the enforcement of State laws regulating the use of Federal-aid highways; and
-
->             “(B) is maintaining and allows public inspection of statistical information for each motor vehicle stop made by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver and any passengers; or
+>         “(1) is maintaining and allows public inspection of statistical information for each motor vehicle stop made by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver; or
 
 >         “(2) provides assurances satisfactory to the Secretary that the State is undertaking activities to comply with the requirements of paragraph (1).
 
->     “(b)  __Eligible Activities__  __.—__ 
+>     “(b)  __Use of Grant Funds__  __.—__ 
 
->     A grant received by a State under subsection (a) shall be used by the State—
+>     A grant received by a State under subsection (a) shall be used by the State for the costs of—
 
->         “(1)
+>         “(1) collecting and maintaining data on traffic stops; and
 
->          in the case of a State eligible under subsection (a)(1), for costs of—
+>         “(2) evaluating the results of the data.
 
->             “(A) collecting and maintaining of data on traffic stops;
-
->             “(B) evaluating the results of the data; and
-
->             “(C) developing and implementing programs to reduce the occurrence of racial profiling, including programs to train law enforcement officers; and
-
->         “(2)
-
->          in the case of a State eligible under subsection (a)(2), for costs of—
-
->             “(A) activities to comply with the requirements of subsection (a)(1); and
-
->             “(B) any eligible activity under paragraph (1).
-
->     “(c) __Racial Profiling.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         To meet the requirement of subsection (a)(1), a State law shall prohibit, in the enforcement of State laws regulating the use of Federal-aid highways, a State or local law enforcement officer from using the race or ethnicity of the driver or passengers to any degree in making routine or spontaneous law enforcement decisions, such as ordinary traffic stops on Federal-aid highways.
-
->         “(2)  __Limitation__  __.—__ 
-
->         Nothing in this subsection shall alter the manner in which a State or local law enforcement officer considers race or ethnicity whenever there is trustworthy information, relevant to the locality or time frame, that links persons of a particular race or ethnicity to an identified criminal incident, scheme, or organization.
-
->     “(d) __Limitations.—__ 
+>     “(c) __Limitations.—__ 
 
 >         “(1)  __Maximum amount of grants__  __.—__ 
 
@@ -757,17 +843,19 @@
 
 >         “(2)  __Eligibility__  __.—__ 
 
->         A State may not receive a grant under subsection (a)(2) in more than 2 fiscal years.
+>         On or after October 1, 2015, a State may not receive a grant under subsection (a)(2) in more than 2 fiscal years.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(d) __Funding.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $7,500,000 for each of fiscal years 2005 through 2009.
+>         From funds made available under [section 403 of title 23][/us/usc/t23/s403], United States Code, the Secretary shall set aside $7,500,000 for each of fiscal years 2017 through 2020 to carry out this section.
 
 >         “(2)  __Contract authority__  __.—__ 
 
->         Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent, and such funds shall remain available until expended and shall not be transferable.”
+>         Funds made available under this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent.”
+
+    “(3) Other uses.—The Secretary may reallocate, before the last day of any fiscal year, amounts remaining available under paragraph (1) to increase the amounts made available to carry out any of other activities authorized under [section 403 of title 23][/us/usc/t23/s403], United States Code, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
 
  __High Visibility Enforcement Program__ 
 
@@ -1178,10 +1266,28 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/122/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1619
 [/us/pl/112/141/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31102
 [/us/stat/126/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F734
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1499
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1499
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/stat/87/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F250
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94/s4002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F1
+[/us/pl/114/94/s4014/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F1%2FA%2Fi
+[/us/pl/114/94/s4014/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F1%2FA%2Fii
+[/us/pl/114/94/s4002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F2
+[/us/pl/114/94/s4002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F3
+[/us/pl/114/94/s4002/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FB
+[/us/pl/114/94/s4014/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F1%2FB
+[/us/pl/114/94/s4002/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FA
+[/us/pl/114/94/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002
+[/us/pl/114/94/s4002/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FA
+[/us/pl/114/94/s4002/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FA
+[/us/pl/114/94/s4002/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FA
+[/us/pl/114/94/s4002/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F4%2FC
+[/us/pl/114/94/s4002/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002%2F5
 [/us/pl/112/141/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31102%2Fa
 [/us/pl/112/141/s31102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31102%2Fb%2F1%2FA
 [/us/pl/112/141/s31102/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31102%2Fb%2F1%2FD%2Fi
@@ -1255,6 +1361,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/91/605/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs202%2Fd
 [/us/pl/91/605/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs202%2Fe
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4002
+[/us/pl/114/94/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4015
+[/us/usc/t23/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs164
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -1285,9 +1397,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4009
+[/us/stat/129/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1511
+[/us/pl/114/94/s4001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4001%2Fd
+[/us/stat/129/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1498
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s31101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31101%2Fd
 [/us/stat/126/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F733
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1404
 [/us/stat/119/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1228
 [/us/pl/110/244/s101/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fs%2F2
@@ -1296,6 +1412,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/119/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1234
 [/us/pl/109/59/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1906
 [/us/stat/119/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1468
+[/us/pl/114/94/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4011
+[/us/stat/129/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1512
+[/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
+[/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
 [/us/pl/109/59/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2009
 [/us/stat/119/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1535
 [/us/pl/111/147/s421/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs421%2Fh%2F1

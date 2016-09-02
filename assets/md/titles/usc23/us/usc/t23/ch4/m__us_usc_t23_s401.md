@@ -177,9 +177,9 @@
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2005 through 2009.”
 
- __Work Zone Safety Grants__ 
+ __Work Zone and Guard Rail Safety Training__ 
 
-[Pub. L. 109–59, title I, § 1409(a)][/us/pl/109/59/s1409/a]–(c), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], provided that:
+[Pub. L. 109–59, title I, § 1409(a)][/us/pl/109/59/s1409/a]–(c), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], as amended by [Pub. L. 114–94, div. A, title I, § 1417(a)(2)][/us/pl/114/94/s1417/a/2], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -195,6 +195,8 @@
 
 >         “(3) Training for State and local government transportation agencies and other groups implementing guidelines for the prevention of highway work zone injuries and fatalities.
 
+>         “(4) Development, updating, and delivery of training courses on guard rail installation, maintenance, and inspection.
+
 >     “(c) __Funding.—__ 
 
 >         “(1)  __In general__  __.—__ 
@@ -207,17 +209,19 @@
 
  __Prohibition on Other Uses__ 
 
-[Pub. L. 112–141, div. C, title I, § 31101(b)][/us/pl/112/141/s31101/b], July 6, 2012, [126 Stat. 733][/us/stat/126/733], provided that: 
+[Pub. L. 114–94, div. A, title IV, § 4001(b)][/us/pl/114/94/s4001/b], Dec. 4, 2015, [129 Stat. 1498][/us/stat/129/1498], provided that: 
 
-> “Except as otherwise provided in chapter 4 of title 23, United States Code, in this subtitle \[subtitle A (§§ 31101–31109) of title I of div. C of [Pub. L. 112–141][/us/pl/112/141], see Tables for classification\], and in the amendments made by this subtitle, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter—
+> “Except as otherwise provided in chapter 4 of title 23, United States Code, and chapter 303 of title 49, United States Code, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapters—
 
 >     “(1) shall only be used to carry out such program; and
 
 >     “(2) may not be used by States or local governments for construction purposes.”
 
-[Pub. L. 109–59, title II, § 2001(b)][/us/pl/109/59/s2001/b], Aug. 10, 2005, [119 Stat. 1520][/us/stat/119/1520], provided that: 
+Similar provisions were contained in the following prior acts:
 
-> “Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting [section 412 of this title][/us/usc/t23/s412] and [section 39 of Title 18][/us/usc/t18/s39], Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes.”
+    [Pub. L. 112–141, div. C, title I, § 31101(b)][/us/pl/112/141/s31101/b], July 6, 2012, [126 Stat. 733][/us/stat/126/733].
+
+    [Pub. L. 109–59, title II, § 2001(b)][/us/pl/109/59/s2001/b], Aug. 10, 2005, [119 Stat. 1520][/us/stat/119/1520].
 
  __Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects__ 
 
@@ -456,13 +460,14 @@
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
 [/us/pl/109/59/s1409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1409%2Fa
 [/us/stat/119/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1232
+[/us/pl/114/94/s1417/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1417%2Fa%2F2
+[/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
+[/us/pl/114/94/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4001%2Fb
+[/us/stat/129/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1498
 [/us/pl/112/141/s31101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31101%2Fb
 [/us/stat/126/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F733
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2001%2Fb
 [/us/stat/119/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1520
-[/us/usc/t23/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs412
-[/us/usc/t18/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs39
 [/us/pl/105/178/s1213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fc
 [/us/stat/112/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F200
 [/us/pl/104/59/s358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs358%2Fc

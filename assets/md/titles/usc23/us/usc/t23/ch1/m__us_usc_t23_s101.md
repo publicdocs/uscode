@@ -97,15 +97,19 @@
 
         The term “maintenance area” means an area that was designated as an air quality nonattainment area, but was later redesignated by the Administrator of the Environmental Protection Agency as an air quality attainment area, under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]).
 
-        (15)  __National Highway System__  __.—__ 
+        (15)  __National highway freight network__  __.—__ 
+
+        The term “National Highway Freight Network” means the National Highway Freight Network established under section 167.
+
+        (16)  __National Highway System__  __.—__ 
 
         The term “National Highway System” means the Federal-aid highway system described in section 103(b).
 
-        (16)  __Operating costs for traffic monitoring, management, and control__  __.—__ 
+        (17)  __Operating costs for traffic monitoring, management, and control__  __.—__ 
 
         The term “operating costs for traffic monitoring, management, and control” includes labor costs, administrative costs, costs of utilities and rent, and other costs associated with the continuous operation of traffic control, such as integrated traffic control systems, incident management programs, and traffic control centers.
 
-        (17)  __Operational improvement__  __.—__ 
+        (18)  __Operational improvement__  __.—__ 
 
         The term “operational improvement”—
 
@@ -113,81 +117,49 @@
 
             (B) does not include resurfacing, restoring, or rehabilitating improvements, construction of additional lanes, interchanges, and grade separations, and construction of a new facility on a new location.
 
-        (18)  __Project__  __.—__ 
+        (19)  __Project__  __.—__ 
 
         The term “project” means any undertaking eligible for assistance under this title.
 
-        (19)  __Project agreement__  __.—__ 
+        (20)  __Project agreement__  __.—__ 
 
         The term “project agreement” means the formal instrument to be executed by the Secretary and the recipient as required by section 106.
 
-        (20)  __Public authority__  __.—__ 
+        (21)  __Public authority__  __.—__ 
 
         The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
 
-        (21)  __Public road__  __.—__ 
+        (22)  __Public road__  __.—__ 
 
         The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
 
-        (22)  __Rural areas__  __.—__ 
+        (23)  __Rural areas__  __.—__ 
 
         The term “rural areas” means all areas of a State not included in urban areas.
 
-        (23)  __Safety improvement project__  __.—__ 
+        (24)  __Safety improvement project__  __.—__ 
 
         The term “safety improvement project” means a strategy, activity, or project on a public road that is consistent with the State strategic highway safety plan and corrects or improves a roadway feature that constitutes a hazard to road users or addresses a highway safety problem.
 
-        (24)  __Secretary__  __.—__ 
+        (25)  __Secretary__  __.—__ 
 
         The term “Secretary” means Secretary of Transportation.
 
-        (25)  __State__  __.—__ 
+        (26)  __State__  __.—__ 
 
         The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
 
-        (26)  __State funds__  __.—__ 
+        (27)  __State funds__  __.—__ 
 
         The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
 
-        (27)  __State strategic highway safety plan__  __.—__ 
+        (28)  __State strategic highway safety plan__  __.—__ 
 
         The term “State strategic highway safety plan” has the same meaning given such term in section 148(a).
 
-        (28)  __State transportation department__  __.—__ 
+        (29)  __State transportation department__  __.—__ 
 
         The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
-
-        (29)  __Transportation alternatives__  __.—__ 
-
-        The term “transportation alternatives” means any of the following activities when carried out as part of any program or project authorized or funded under this title, or as an independent program or project related to surface transportation:
-
-            (A) Construction, planning, and design of on-road and off-road trail facilities for pedestrians, bicyclists, and other nonmotorized forms of transportation, including sidewalks, bicycle infrastructure, pedestrian and bicycle signals, traffic calming techniques, lighting and other safety-related infrastructure, and transportation projects to achieve compliance with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.).
-
-            (B) Construction, planning, and design of infrastructure-related projects and systems that will provide safe routes for non-drivers, including children, older adults, and individuals with disabilities to access daily needs.
-
-            (C) Conversion and use of abandoned railroad corridors for trails for pedestrians, bicyclists, or other nonmotorized transportation users.
-
-            (D) Construction of turnouts, overlooks, and viewing areas.
-
-            (E)
-
-             Community improvement activities, including—
-
-                (i) inventory, control, or removal of outdoor advertising;
-
-                (ii) historic preservation and rehabilitation of historic transportation facilities;
-
-                (iii) vegetation management practices in transportation rights-of-way to improve roadway safety, prevent against invasive species, and provide erosion control; and
-
-                (iv) archaeological activities relating to impacts from implementation of a transportation project eligible under this title.
-
-            (F)
-
-             Any environmental mitigation activity, including pollution prevention and pollution abatement activities and mitigation to—
-
-                (i) address stormwater management, control, and water pollution prevention or abatement related to highway construction or due to highway runoff, including activities described in sections 133(b)(11), 328(a), and 329; or
-
-                (ii) reduce vehicle-caused wildlife mortality or to restore and maintain connectivity among terrestrial or aquatic habitats.
 
         (30)  __Transportation systems management and operations__  __.—__ 
 
@@ -283,15 +255,15 @@
 
     (e) It is the national policy that to the maximum extent possible the procedures to be utilized by the Secretary and all other affected heads of Federal departments, agencies, and instrumentalities for carrying out this title and any other provision of law relating to the Federal highway programs shall encourage the substantial minimization of paperwork and interagency decision procedures and the best use of available manpower and funds so as to prevent needless duplication and unnecessary delays at all levels of government.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]; [Pub. L. 86–70, § 21(e)(1)][/us/pl/86/70/s21/e/1], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624, § 17(a)][/us/pl/86/624/s17/a], July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 6(a)][/us/pl/87/866/s6/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 88–423, § 3][/us/pl/88/423/s3], Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397]; [Pub. L. 89–574, § 4(a)][/us/pl/89/574/s4/a], Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767]; [Pub. L. 90–495][/us/pl/90/495], §§ 4(a), 8, 15, Aug. 23, 1968, [82 Stat. 816][/us/stat/82/816], 819, 822; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716, 1718, 1724, 1732, 1737; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 105, 106(a), 107, 108, 152(1), Aug. 13, 1973, [87 Stat. 253–255][/us/stat/87/253-255], 276; [Pub. L. 93–643, § 102(b)][/us/pl/93/643/s102/b], Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 107(a), 108, May 5, 1976, [90 Stat. 430][/us/stat/90/430], 431; [Pub. L. 95–599, title I, § 106][/us/pl/95/599/s106], Nov. 6, 1978, [92 Stat. 2693][/us/stat/92/2693]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 126(c), 159, Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115], 2135; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, [101 Stat. 135][/us/stat/101/135], 146, 171; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916], 1922, 1927, 1931; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 301(b), 311(b), Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578], 583; [Pub. L. 105–178, title I, § 1201][/us/pl/105/178/s1201], June 9, 1998, [112 Stat. 164][/us/stat/112/164]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1122, 1909(a), Aug. 10, 2005, [119 Stat. 1196][/us/stat/119/1196], 1470; [Pub. L. 110–244, title I, § 101(h)][/us/pl/110/244/s101/h], June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1103, 1301(c), 1501, July 6, 2012, [126 Stat. 419][/us/stat/126/419], 528, 560.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]; [Pub. L. 86–70, § 21(e)(1)][/us/pl/86/70/s21/e/1], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624, § 17(a)][/us/pl/86/624/s17/a], July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 6(a)][/us/pl/87/866/s6/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 88–423, § 3][/us/pl/88/423/s3], Aug. 13, 1964, [78 Stat. 397][/us/stat/78/397]; [Pub. L. 89–574, § 4(a)][/us/pl/89/574/s4/a], Sept. 13, 1966, [80 Stat. 767][/us/stat/80/767]; [Pub. L. 90–495][/us/pl/90/495], §§ 4(a), 8, 15, Aug. 23, 1968, [82 Stat. 816][/us/stat/82/816], 819, 822; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, [84 Stat. 1714][/us/stat/84/1714], 1716, 1718, 1724, 1732, 1737; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 105, 106(a), 107, 108, 152(1), Aug. 13, 1973, [87 Stat. 253–255][/us/stat/87/253-255], 276; [Pub. L. 93–643, § 102(b)][/us/pl/93/643/s102/b], Jan. 4, 1975, [88 Stat. 2281][/us/stat/88/2281]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 107(a), 108, May 5, 1976, [90 Stat. 430][/us/stat/90/430], 431; [Pub. L. 95–599, title I, § 106][/us/pl/95/599/s106], Nov. 6, 1978, [92 Stat. 2693][/us/stat/92/2693]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 126(c), 159, Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115], 2135; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, [101 Stat. 135][/us/stat/101/135], 146, 171; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, [105 Stat. 1916][/us/stat/105/1916], 1922, 1927, 1931; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 301(b), 311(b), Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578], 583; [Pub. L. 105–178, title I, § 1201][/us/pl/105/178/s1201], June 9, 1998, [112 Stat. 164][/us/stat/112/164]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1122, 1909(a), Aug. 10, 2005, [119 Stat. 1196][/us/stat/119/1196], 1470; [Pub. L. 110–244, title I, § 101(h)][/us/pl/110/244/s101/h], June 6, 2008, [122 Stat. 1574][/us/stat/122/1574]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1103, 1301(c), 1501, July 6, 2012, [126 Stat. 419][/us/stat/126/419], 528, 560; [Pub. L. 114–94, div. A, title I, § 1103][/us/pl/114/94/s1103], Dec. 4, 2015, [129 Stat. 1328][/us/stat/129/1328].)
 
  __References in Text__ 
-
-    The Americans with Disabilities Act of 1990, referred to in subsec. subsec. (a)(29)(A), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
     Section 108(b) of the Federal-Aid Highway Act of 1956 ([70 Stat. 374][/us/stat/70/374]), referred to in subsec. (b)(2), is section 108(b) of [act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], [70 Stat. 378][/us/stat/70/378], which is set out below.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(15) to (29). [Pub. L. 114–94][/us/pl/114/94] added par. (15), redesignated pars. (15) to (28) as (16) to (29), respectively, and struck out former par. (29) which defined transportation alternatives.
 
     2012—Subsec. (a)(2). [Pub. L. 112–141, § 1103(a)(3)][/us/pl/112/141/s1103/a/3], added par. (2). Former par. (2) redesignated (3).
 
@@ -485,6 +457,10 @@
 
     1959—Subsec. (a). [Pub. L. 86–70][/us/pl/86/70] substituted “forty-nine States, the District of Columbia, Hawaii” for “forty-eight States, the District of Columbia, Hawaii, Alaska” in definition of “State”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
 [Pub. L. 112–141, § 3(a)][/us/pl/112/141/s3/a], July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
@@ -549,15 +525,23 @@
 
 [Pub. L. 90–495, § 37][/us/pl/90/495/s37], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], as amended by [Pub. L. 91–605, title I, § 120][/us/pl/91/605/s120], Dec. 31, 1970, [84 Stat. 1725][/us/stat/84/1725], provided that:
 
->     “(a) Except as otherwise provided in subsection (b) of this section, this Act and the amendments made by this Act \[enacting sections 135, 139, 140, 141, and 501 to 511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, [section 636 of Title 15][/us/usc/t15/s636], Commerce and Trade, and section 1653 of former Title 49, Transportation, repealing [section 133 of this title][/us/usc/t23/s133], enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] shall take effect on the date of its enactment \[Aug. 23, 1968\], except that until July 1, 1970, sections 502, 505, 506, 507, and 508 of title 23, United States Code, as added by this Act, shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. Except as otherwise provided in subsection (b) of this section, after July 1, 1970, such sections shall be completely applicable to all States. [Section 133 of title 23][/us/usc/t23/s133], United States Code, shall not apply to any State if sections 502, 505, 506, 507, and 508 of title 23, United States Code, are applicable in that State, and effective July 1, 1970, such section 133 is repealed.
+>     “(a) Except as otherwise provided in subsection (b) of this section, this Act and the amendments made by this Act \[enacting sections 135, 139, 140, 141, and 501 to 511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, [section 636 of Title 15][/us/usc/t15/s636], Commerce and Trade, and section 1653 of former Title 49, Transportation, repealing [section 133 of this title][/us/usc/t23/s133], enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] shall take effect on the date of its enactment \[Aug. 23, 1968\], except that until July 1, 1970, sections 502, 505, 506, 507, and \[former\] 508 of title 23, United States Code, as added by this Act, shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. Except as otherwise provided in subsection (b) of this section, after July 1, 1970, such sections shall be completely applicable to all States. [Section 133 of title 23][/us/usc/t23/s133], United States Code, shall not apply to any State if sections 502, 505, 506, 507, and \[former\] 508 of title 23, United States Code, are applicable in that State, and effective July 1, 1970, such section 133 is repealed.
 
->     “(b) In the case of any State (1) which is required to amend its constitution to comply with sections 502, 505, 506, 507, and 508 of title 23, United States Code, and (2) which cannot submit the required constitutional amendment for ratification prior to July 1, 1970, the date of July 1, 1970, contained in subsection (a) of this section shall be extended to July 1, 1972.”
+>     “(b) In the case of any State (1) which is required to amend its constitution to comply with sections 502, 505, 506, 507, and \[former\] 508 of title 23, United States Code, and (2) which cannot submit the required constitutional amendment for ratification prior to July 1, 1970, the date of July 1, 1970, contained in subsection (a) of this section shall be extended to July 1, 1972.”
 
  __Effective Date of 1959 Amendment__ 
 
     [Pub. L. 86–70, § 21(e)][/us/pl/86/70/s21/e], June 25, 1959, [73 Stat. 146][/us/stat/73/146], provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
 
  __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–94, § 1(a)][/us/pl/114/94/s1/a], Dec. 4, 2015, [129 Stat. 1312][/us/stat/129/1312], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Fixing America’s Surface Transportation Act’ or the ‘FAST Act’.”
+
+[Pub. L. 114–94, div. A, title VI, § 6001][/us/pl/114/94/s6001], Dec. 4, 2015, [129 Stat. 1561][/us/stat/129/1561], provided that: 
+
+> “This title \[enacting [section 519 of this title][/us/usc/t23/s519] and sections 6314 and 6501 to 6503 of Title 49, Transportation, amending sections 502, 503, 512, 514, 515, 517, and 518 of this title, sections 5313, 5315, and 5316 of Title 5, Government Organization and Employees, and sections 102, 330, 5115, 5118, 5505, 6302, and 6307 of Title 49, repealing [section 508 of this title][/us/usc/t23/s508] and sections 112 and 5503 of Title 49, enacting provisions set out as notes under sections 150, 501, and 503 of this title and sections 301 and 6501 of Title 49, and amending provisions set out as notes under sections 502 and 512 of this title\] may be cited as the ‘Transportation for Tomorrow Act of 2015’.”
 
 [Pub. L. 114–87, § 1(a)][/us/pl/114/87/s1/a], Nov. 20, 2015, [129 Stat. 677][/us/stat/129/677], provided that: 
 
@@ -861,6 +845,108 @@
 
     Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce under this title and under specific related laws and parts of laws set out in the notes in this title relating generally to highways and highway and traffic safety transferred to and vested in Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931], which created Department of Transportation. See [section 102 of Title 49][/us/usc/t49/s102], Transportation, and [Pub. L. 97–449, § 2][/us/pl/97/449/s2], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].
 
+ __Flexibility for Projects__ 
+
+[Pub. L. 114–94, div. A, title I, § 1420][/us/pl/114/94/s1420], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
+
+>     “(a)  __Authority__  __.—__ 
+
+>     With respect to projects eligible for funding under title 23, United States Code, subject to subsection (b) and on request by a State, the Secretary \[of Transportation\] may—
+
+>         “(1)
+
+>          exercise all existing flexibilities under and exceptions to—
+
+>             “(A) the requirements of title 23, United States Code; and
+
+>             “(B) other requirements administered by the Secretary, in whole or part; and
+
+>         “(2) otherwise provide additional flexibility or expedited processing with respect to the requirements described in paragraph (1).
+
+>     “(b)  __Maintaining Protections__  __.—__ 
+
+>     Nothing in this section—
+
+>         “(1) waives the requirements of section 113 or 138 of title 23, United States Code;
+
+>         “(2)
+
+>          supersedes, amends, or modifies—
+
+>             “(A) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) or any other Federal environmental law; or
+
+>             “(B) any requirement of title 23 or title 49, United States Code; or
+
+>         “(3) affects the responsibility of any Federal officer to comply with or enforce any law or requirement described in this subsection.”
+
+ __Productive and Timely Expenditure of Funds__ 
+
+[Pub. L. 114–94, div. A, title I, § 1421][/us/pl/114/94/s1421], Dec. 4, 2015, [129 Stat. 1424][/us/stat/129/1424], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall develop guidance that encourages the use of programmatic approaches to project delivery, expedited and prudent procurement techniques, and other best practices to facilitate productive, effective, and timely expenditure of funds for projects eligible for funding under title 23, United States Code.
+
+>     “(b)  __Implementation__  __.—__ 
+
+>     The Secretary shall work with States to ensure that any guidance developed under subsection (a) is consistently implemented by States and the Federal Highway Administration to—
+
+>         “(1) avoid unnecessary delays in completing projects;
+
+>         “(2) minimize cost overruns; and
+
+>         “(3) ensure the effective use of Federal funding.”
+
+ __Use of Durable, Resilient, and Sustainable Materials and Practices__ 
+
+[Pub. L. 114–94, div. A, title I, § 1428][/us/pl/114/94/s1428], Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
+
+> “To the extent practicable, the Secretary \[of Transportation\] shall encourage the use of durable, resilient, and sustainable materials and practices, including the use of geosynthetic materials and other innovative technologies, in carrying out the activities of the Federal Highway Administration.”
+
+ __Every Day Counts Initiative__ 
+
+[Pub. L. 114–94, div. A, title I, § 1444][/us/pl/114/94/s1444], Dec. 4, 2015, [129 Stat. 1436][/us/stat/129/1436], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     It is in the national interest for the Department \[of Transportation\], State departments of transportation, and all other recipients of Federal transportation funds—
+
+>         “(1) to identify, accelerate, and deploy innovation aimed at shortening project delivery, enhancing the safety of the roadways of the United States, and protecting the environment;
+
+>         “(2) to ensure that the planning, design, engineering, construction, and financing of transportation projects is done in an efficient and effective manner;
+
+>         “(3) to promote the rapid deployment of proven solutions that provide greater accountability for public investments and encourage greater private sector involvement; and
+
+>         “(4) to create a culture of innovation within the highway community.
+
+>     “(b)  __Every Day Counts Initiative__  __.—__ 
+
+>     To advance the policy described in subsection (a), the Administrator of the Federal Highway Administration shall continue the Every Day Counts initiative to work with States, local transportation agencies, and industry stakeholders to identify and deploy proven innovative practices and products that—
+
+>         “(1) accelerate innovation deployment;
+
+>         “(2) shorten the project delivery process;
+
+>         “(3) improve environmental sustainability;
+
+>         “(4) enhance roadway safety; and
+
+>         “(5) reduce congestion.
+
+>     “(c) __Innovation Deployment.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         At least every 2 years, the Administrator shall work collaboratively with stakeholders to identify a new collection of innovations, best practices, and data to be deployed to highway stakeholders through case studies, webinars, and demonstration projects.
+
+>         “(2)  __Requirements__  __.—__ 
+
+>         In identifying a collection described in paragraph (1), the Secretary \[of Transportation\] shall take into account market readiness, impacts, benefits, and ease of adoption of the innovation or practice.
+
+>     “(d)  __Publication__  __.—__ 
+
+>     Each collection identified under subsection (c) shall be published by the Administrator on a publicly available Web site.”
+
  __Findings__ 
 
 [Pub. L. 113–159, § 2][/us/pl/113/159/s2], Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
@@ -953,6 +1039,28 @@
 
  __Report on Highway Trust Fund Expenditures__ 
 
+[Pub. L. 114–94, div. A, title I, § 1433][/us/pl/114/94/s1433], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
+
+>     “(a)  __Initial Report__  __.—__ 
+
+>     Not later than 150 days after the date of enactment of this Act \[Dec. 4, 2015\], the Comptroller General of the United States shall submit to Congress a report describing the administrative expenses of the Federal Highway Administration funded from the Highway Trust Fund during the 3 most recent fiscal years.
+
+>     “(b)  __Updates__  __.—__ 
+
+>     Not later than 5 years after the date on which the report is submitted under subsection (a) and every 5 years thereafter, the Comptroller General shall submit to Congress a report that updates the information provided in the report under that subsection for the preceding 5-year period.
+
+>     “(c)  __Inclusions__  __.—__ 
+
+>     Each report submitted under subsection (a) or (b) shall include a description of—
+
+>         “(1) the types of administrative expenses of programs and offices funded by the Highway Trust Fund;
+
+>         “(2) the tracking and monitoring of administrative expenses;
+
+>         “(3) the controls in place to ensure that funding for administrative expenses is used as efficiently as practicable; and
+
+>         “(4) the flexibility of the Department \[of Transportation\] to reallocate amounts from the Highway Trust Fund between full-time equivalent employees and other functions.”
+
 [Pub. L. 112–141, div. A, title I, § 1535][/us/pl/112/141/s1535], July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
@@ -969,287 +1077,7 @@
 
  __Projects of National and Regional Significance__ 
 
-[Pub. L. 109–59, title I, § 1301][/us/pl/109/59/s1301], Aug. 10, 2005, [119 Stat. 1198][/us/stat/119/1198], as amended by [Pub. L. 110–244, title I, § 103(a)][/us/pl/110/244/s103/a], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I, § 1120][/us/pl/112/141/s1120], July 6, 2012, [126 Stat. 492][/us/stat/126/492], provided that:
-
->     “(a)  __Findings__  __.—__ 
-
->     Congress finds the following:
-
->         “(1) Under current law, surface transportation programs rely primarily on formula capital apportionments to States.
-
->         “(2) Despite the significant increase for surface transportation program funding in the Transportation Equity Act of the 21st Century \[[Pub. L. 105–178][/us/pl/105/178], see Tables for classification\], current levels of investment are insufficient to fund critical high-cost transportation infrastructure facilities that address critical national economic and transportation needs.
-
->         “(3) Critical high-cost transportation infrastructure facilities often include multiple levels of government, agencies, modes of transportation, and transportation goals and planning processes that are not easily addressed or funded within existing surface transportation program categories.
-
->         “(4) Projects of national and regional significance have national and regional benefits, including improving economic productivity by facilitating international trade, relieving congestion, and improving transportation safety by facilitating passenger and freight movement.
-
->         “(5) The benefits of projects described in paragraph (4) accrue to local areas, States, and the Nation as a result of the effect such projects have on the national transportation system.
-
->         “(6) A program dedicated to constructing projects of national and regional significance is necessary to improve the safe, secure, and efficient movement of people and goods throughout the United States and improve the health and welfare of the national economy.
-
->     “(b)  __Establishment of Program__  __.—__ 
-
->     The Secretary \[of Transportation\] shall establish a program to provide grants to eligible applicants for projects of national and regional significance.
-
->     “(c)  __Definitions__  __.—__ 
-
->     In this section, the following definitions apply:
-
->         “(1)  __Eligible project costs__  __.—__ 
-
->         The term ‘eligible project costs’ means the costs of—
-
->             “(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, preliminary engineering and design work, and other preconstruction activities; and
-
->             “(B) construction, reconstruction, rehabilitation, and acquisition of real property (including land related to the project and improvements to land), environmental mitigation, construction contingencies, acquisition of equipment, and operational improvements.
-
->         “(2)  __Eligible project__  __.—__ 
-
->         The term ‘eligible project’ means any surface transportation project eligible for Federal assistance under title 23, United States Code, including freight railroad projects and activities eligible under such title.
-
->         “(3)  __Eligible applicant__  __.—__ 
-
->         The term ‘eligible applicant’ means—
-
->             “(A) a State department of transportation or a group of State departments of transportation;
-
->             “(B) a tribal government or consortium of tribal governments;
-
->             “(C) a transit agency; or
-
->             “(D) a multi-State or multi-jurisdictional group of the agencies described in subparagraphs (A) through (C).
-
->     “(d)  __Eligibility__  __.—__ 
-
->     To be eligible for assistance under this section, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
-
->         “(1) $500,000,000; or
-
->         “(2) 50 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
-
->     “(e)  __Applications__  __.—__ 
-
->     Each eligible applicant seeking to receive a grant under this section for an eligible project shall submit to the Secretary \[of Transportation\] an application in such form and in accordance with such requirements as the Secretary shall establish.
-
->     “(f) __Competitive Grant Selection and Criteria for Grants.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary \[of Transportation\] shall—
-
->             “(A) establish criteria for selecting among projects that meet the eligibility criteria specified in subsection (d);
-
->             “(B) conduct a national solicitation for applications; and
-
->             “(C) award grants on a competitive basis.
-
->         “(2)  __Criteria for grants__  __.—__ 
-
->         The Secretary may approve a grant under this section for a project only if the Secretary determines that the project—
-
->             “(A) is based on the results of preliminary engineering;
-
->             “(B)
-
->              is justified based on the ability of the project—
-
->                 “(i) to generate national economic benefits, including creating jobs, expanding business opportunities, and impacting the gross domestic product;
-
->                 “(ii) to reduce congestion, including impacts in the State, region, and Nation;
-
->                 “(iii) to improve transportation safety, including reducing transportation accidents, injuries, and fatalities;
-
->                 “(iv) to otherwise enhance the national transportation system; and
-
->                 “(v) to garner support for non-Federal financial commitments and provide evidence of stable and dependable financing sources to construct, maintain, and operate the infrastructure facility; and
-
->             “(C) is supported by an acceptable degree of non-Federal financial commitments, including evidence of stable and dependable financing sources to construct, maintain, and operate the infrastructure facility.
-
->         “(3)  __Selection considerations__  __.—__ 
-
->         In selecting a project under this section, the Secretary shall consider the extent to which the project—
-
->             “(A) leverages Federal investment by encouraging non-Federal contributions to the project, including contributions from public-private partnerships;
-
->             “(B) improves roadways vital to national energy security; and
-
->             “(C) helps maintain or protect the environment.
-
->         “(4)  __Preliminary engineering__  __.—__ 
-
->         In evaluating a project under paragraph (2)(A), the Secretary shall analyze and consider the results of preliminary engineering for the project.
-
->         “(5) __Non-federal financial commitment.—__ 
-
->             “(A)  __Evaluation of project__  __.—__ 
-
->             In evaluating a project under paragraph (2)(C), the Secretary shall require that—
-
->                 “(i) the proposed project plan provides for the availability of contingency amounts that the Secretary determines to be reasonable to cover unanticipated cost increases; and
-
->                 “(ii) each proposed non-Federal source of capital and operating financing is stable, reliable, and available within the proposed project timetable.
-
->             “(B)  __Considerations__  __.—__ 
-
->             In assessing the stability, reliability, and availability of proposed sources of non-Federal financing under subparagraph (A), the Secretary shall consider—
-
->                 “(i) existing financial commitments;
-
->                 “(ii) the degree to which financing sources are dedicated to the purposes proposed;
-
->                 “(iii) any debt obligation that exists or is proposed by the recipient for the proposed project; and
-
->                 “(iv) the extent to which the project has a non-Federal financial commitment that exceeds the required non-Federal share of the cost of the project.
-
->         “(6)  __Regulations__  __.—__ 
-
->         Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall issue regulations on the manner in which the Secretary will evaluate and rate the projects based on the results of preliminary engineering, project justification, and the degree of non-Federal financial commitment, as required under this subsection.
-
->         “(7) __Project evaluation and rating.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             A proposed project may advance from preliminary engineering to final design and construction only if the Secretary finds that the project meets the requirements of this subsection and there is a reasonable likelihood that the project will continue to meet such requirements.
-
->             “(B)  __Evaluation and rating__  __.—__ 
-
->             In making such findings, the Secretary shall evaluate and rate the project as ‘highly recommended’, ‘recommended’, or ‘not recommended’ based on the results of preliminary engineering, the project justification criteria, and the degree of non-Federal financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established under the regulations issued under paragraph (6).
-
->     “(g) __Letters of Intent and Full Funding Grant Agreements.—__ 
-
->         “(1) __Letter of intent.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             The Secretary \[of Transportation\] may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project.
-
->             “(B)  __Notification__  __.—__ 
-
->             At least 60 days before issuing a letter under subparagraph (A) or entering into a full funding grant agreement, the Secretary shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
-
->             “(C)  __Not an obligation__  __.—__ 
-
->             The issuance of a letter is deemed not to be an obligation under sections 1108(c), 1108(d), 1501, and 1502(a) of title 31, United States Code, or an administrative commitment.
-
->             “(D)  __Obligation or commitment__  __.—__ 
-
->             An obligation or administrative commitment may be made only when contract authority is allocated to a project.
-
->             “(E)  __Congressional approval__  __.—__ 
-
->             The Secretary may not issue a letter of intent, enter into a full funding grant agreement under paragraph (2), or make any other obligation or commitment to fund a project under this section if a joint resolution of disapproval is enacted disapproving funding for the project before the last day of the 60-day period described in subparagraph (B).
-
->         “(2) __Full funding grant agreement.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             A project financed under this subsection shall be carried out through a full funding grant agreement. The Secretary shall enter into a full funding grant agreement based on the evaluations and ratings required under subsection (f)(7).
-
->             “(B)  __Terms__  __.—__ 
-
->             If the Secretary makes a full funding grant agreement with an applicant, the agreement shall—
-
->                 “(i) establish the terms of participation by the United States Government in a project under this section;
-
->                 “(ii) establish the maximum amount of Government financial assistance for the project;
-
->                 “(iii) cover the period of time for completing the project, including a period extending beyond the period of an authorization; and
-
->                 “(iv) make timely and efficient management of the project easier according to the laws of the United States.
-
->             “(C)  __Agreement__  __.—__ 
-
->             An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
-
->         “(3)  __Amounts__  __.—__ 
-
->         The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent and full funding grant agreements may be not more than the greater of the amount authorized to carry out this section or an amount equivalent to the last 2 fiscal years of funding authorized to carry out this section less an amount the Secretary reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements may be not more than a limitation specified in law.
-
->     “(h) __Grant Requirements.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         A grant for a project under this section shall be subject to all of the requirements of title 23, United States Code.
-
->         “(2)  __Other terms and conditions__  __.—__ 
-
->         The Secretary \[of Transportation\] shall require that all grants under this section be subject to all terms, conditions, and requirements that the Secretary decides are necessary or appropriate for purposes of this section, including requirements for the disposition of net increases in value of real property resulting from the project assisted under this section.
-
->     “(i)  __Government’s Share of Project Cost__  __.—__ 
-
->     Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary \[of Transportation\] shall estimate the cost of a project receiving assistance under this section. A grant for the project is for 80 percent of the project cost, unless the grant recipient requests a lower grant percentage. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
-
->     “(j)  __Fiscal Capacity Considerations__  __.—__ 
-
->     If the Secretary \[of Transportation\] gives priority consideration to financing projects that include more than the non-Government share required under subsection (i) the Secretary shall give equal consideration to differences in the fiscal capacity of State and local governments.
-
->     “(k) __Reports.—__ 
-
->         “(1)  __Annual report__  __.—__ 
-
->         Not later than the first Monday in February of each year, the Secretary \[of Transportation\] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a proposal on the allocation of amounts to be made available to finance grants under this section.
-
->         “(2)  __Recommendations on funding__  __.—__ 
-
->         The annual report under this paragraph \[subsection\] shall include evaluations and ratings, as required under subsection (f). The report shall also include recommendations of projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years and for the next 10 fiscal years based on information currently available to the Secretary.
-
->         “(3)  __Project selection justifications__  __.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Not later than 30 days after the date on which the Secretary selects a project for funding under this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes the reasons for selecting the project, based on the criteria described in subsection (f).
-
->             “(B)  __Inclusions__  __.—__ 
-
->             The report submitted under subparagraph (A) shall specify each criteria described in subsection (f) that the project meets.
-
->             “(C)  __Availability__  __.—__ 
-
->             The Secretary shall make available on the website of the Department the report submitted under subparagraph (A).
-
->     “(l)  __Report__  __.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 2 years after the date of enactment of the MAP–21 \[deemed to be Oct. 1, 2012\], the Secretary \[of Transportation\] shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate regarding projects of national and regional significance.
-
->         “(2)  __Purpose__  __.—__ 
-
->         The purpose of the report issued under this subsection shall be to identify projects of national and regional significance that—
-
->             “(A) will significantly improve the performance of the Federal-aid highway system, nationally or regionally;
-
->             “(B)
-
->              is able to—
-
->                 “(i) generate national economic benefits that reasonably exceed the costs of the projects, including increased access to jobs, labor, and other critical economic inputs;
-
->                 “(ii) reduce long-term congestion, including impacts in the State, region, and the United States, and increase speed, reliability, and accessibility of the movement of people or freight; and
-
->                 “(iii) improve transportation safety, including reducing transportation accidents, and serious injuries and fatalities; and
-
->             “(C) can be supported by an acceptable degree of non-Federal financial commitments.
-
->         “(3)  __Contents__  __.—__ 
-
->         The report issued under this subsection shall include—
-
->             “(A)
-
->              a comprehensive list of each project of national and regional significance that—
-
->                 “(i) has been complied \[sic\] through a survey of State departments of transportation; and
-
->                 “(ii) has been classified by the Secretary as a project of regional or national significance in accordance with this section;
-
->             “(B) an analysis of the information collected under paragraph (1), including a discussion of the factors supporting each classification of a project as a project of regional or national significance; and
-
->             “(C) recommendations on financing for eligible project costs.
-
->     “(m)  __Authorization of Appropriations__  __.—__ 
-
->     There is authorized to be appropriated to carry out this section $500,000,000 for fiscal year 2013, to remain available until expended.”
+    [Pub. L. 109–59, title I, § 1301][/us/pl/109/59/s1301], Aug. 10, 2005, [119 Stat. 1198][/us/stat/119/1198], as amended by [Pub. L. 110–244, title I, § 103(a)][/us/pl/110/244/s103/a], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I, § 1120][/us/pl/112/141/s1120], July 6, 2012, [126 Stat. 492][/us/stat/126/492], which provided for the establishment of a program to provide grants to eligible applicants for surface transportation programs of national and regional significance, set out criteria for selection for such grants and grant requirements, and authorized appropriations for the implementation of the program, was repealed by [Pub. L. 114–94, div. A, title I, § 1105(c)][/us/pl/114/94/s1105/c], Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337].
 
  __National Corridor Infrastructure Improvement Program__ 
 
@@ -1330,6 +1158,16 @@
 >         Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended.”
 
  __Motorcyclist Advisory Council__ 
+
+[Pub. L. 114–94, div. A, title I, § 1426][/us/pl/114/94/s1426], Dec. 4, 2015, [129 Stat. 1426][/us/stat/129/1426], provided that: 
+
+> “The Secretary \[of Transportation\], acting through the Administrator of the Federal Highway Administration, shall appoint a Motorcyclist Advisory Council to coordinate with and advise the Administrator on infrastructure issues of concern to motorcyclists, including—
+
+>     “(1) barrier design;
+
+>     “(2) road design, construction, and maintenance practices; and
+
+>     “(3) the architecture and implementation of intelligent transportation system technologies.”
 
 [Pub. L. 109–59, title I, § 1914][/us/pl/109/59/s1914], Aug. 10, 2005, [119 Stat. 1478][/us/stat/119/1478], provided that:
 
@@ -1467,7 +1305,41 @@
 
 >     In this section, the term ‘State’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 
- __Coordinated Border Infrastructure Program__ 
+ __Border Infrastructure__ 
+
+[Pub. L. 114–94, div. A, title I, § 1437][/us/pl/114/94/s1437], Dec. 4, 2015, [129 Stat. 1432][/us/stat/129/1432], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     After consultation with relevant transportation planning organizations, the Governor of a State that shares a land border with Canada or Mexico may designate for each fiscal year not more than 5 percent of the funds made available to the State under [section 133(d)(1)(B) of title 23][/us/usc/t23/s133/d/1/B], United States Code, for border infrastructure projects eligible under section 1303 of SAFETEA–LU ([23 U.S.C. 101][/us/usc/t23/s101] note; [119 Stat. 1207][/us/stat/119/1207]).
+
+>     “(b)  __Use of Funds__  __.—__ 
+
+>     Funds designated under this section shall be available under the requirements of section 1303 of SAFETEA–LU ([23 U.S.C. 101][/us/usc/t23/s101] note; [119 Stat. 1207][/us/stat/119/1207]).
+
+>     “(c)  __Certification__  __.—__ 
+
+>     Before making a designation under subsection (a), the Governor shall certify that the designation is consistent with transportation planning requirements under title 23, United States Code.
+
+>     “(d)  __Notification__  __.—__ 
+
+>     Not later than 30 days after making a designation under subsection (a), the Governor shall submit to the relevant transportation planning organizations within the border region a written notification of any suballocated or distributed amount of funds available for obligation by jurisdiction.
+
+>     “(e)  __Limitation__  __.—__ 
+
+>     This section applies only to funds apportioned to a State after the date of enactment of this Act \[Dec. 4, 2015\].
+
+>     “(f)  __Deadline for Designation__  __.—__ 
+
+>     A designation under subsection (a) shall—
+
+>         “(1) be submitted to the Secretary \[of Transportation\] not later than 30 days before the first day of the fiscal year for which the designation is being made; and
+
+>         “(2) remain in effect for the funds designated under subsection (a) for a fiscal year until the Governor of the State notifies the Secretary of the termination of the designation.
+
+>     “(g)  __Unobligated Funds After Termination__  __.—__ 
+
+>     Effective beginning on the date of a termination under subsection (f)(2), all remaining unobligated funds that were designated under subsection (a) for the fiscal year for which the designation is being terminated shall be made available to the State for the purposes described in [section 133(d)(1)(B) of title 23][/us/usc/t23/s133/d/1/B], United States Code.”
 
 [Pub. L. 109–59, title I, § 1303][/us/pl/109/59/s1303], Aug. 10, 2005, [119 Stat. 1207][/us/stat/119/1207], provided that:
 
@@ -1925,13 +1797,13 @@
 
  __Disadvantaged Business Enterprises__ 
 
-[Pub. L. 112–141, div. A, title I, § 1101(b)][/us/pl/112/141/s1101/b], July 6, 2012, [126 Stat. 414][/us/stat/126/414], provided that:
+[Pub. L. 114–94, div. A, title I, § 1101(b)][/us/pl/114/94/s1101/b], Dec. 4, 2015, [129 Stat. 1323][/us/stat/129/1323], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
->         “(A) while significant progress has occurred due to the establishment of the disadvantaged business enterprise program, discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in federally-assisted surface transportation markets across the United States;
+>         “(A) while significant progress has occurred due to the establishment of the disadvantaged business enterprise program, discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in federally assisted surface transportation markets across the United States;
 
 >         “(B) the continuing barriers described in subparagraph (A) merit the continuation of the disadvantaged business enterprise program;
 
@@ -1945,7 +1817,7 @@
 
 >     In this subsection, the following definitions apply:
 
->         “(A)  __Small business concern__  __.—__ 
+>         “(A) __Small business concern.—__ 
 
 >             “(i)  __In general__  __.—__ 
 
@@ -1953,7 +1825,7 @@
 
 >             “(ii)  __Exclusions__  __.—__ 
 
->             The term ‘small business concern’ does not include any concern or group of concerns controlled by the same socially and economically disadvantaged individual or individuals that have average annual gross receipts during the preceding 3 fiscal years in excess of $22,410,000, as adjusted annually by the Secretary \[of Transportation\] for inflation.
+>             The term ‘small business concern’ does not include any concern or group of concerns controlled by the same socially and economically disadvantaged individual or individuals that have average annual gross receipts during the preceding 3 fiscal years in excess of $23,980,000, as adjusted annually by the Secretary \[of Transportation\] for inflation.
 
 >         “(B)  __Socially and economically disadvantaged individuals__  __.—__ 
 
@@ -1961,13 +1833,13 @@
 
 >     “(3)  __Amounts for small business concerns__  __.—__ 
 
->     Except to the extent that the Secretary determines otherwise, not less than 10 percent of the amounts made available for any program under divisions A and B of this Act \[see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, shall be expended through small business concerns owned and controlled by socially and economically disadvantaged individuals.
+>     Except to the extent that the Secretary determines otherwise, not less than 10 percent of the amounts made available for any program under titles I, II, III, and VI of this Act \[div. A of [Pub. L. 114–94][/us/pl/114/94], see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, shall be expended through small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 >     “(4)  __Annual listing of disadvantaged business enterprises__  __.—__ 
 
 >     Each State shall annually—
 
->         “(A) survey and compile a list of the small business concerns referred to in paragraph (2) in the State, including the location of the small business concerns in the State; and
+>         “(A) survey and compile a list of the small business concerns referred to in paragraph (3) in the State, including the location of the small business concerns in the State; and
 
 >         “(B)
 
@@ -1979,7 +1851,7 @@
 
 >             “(iii) individuals who are women and are otherwise socially and economically disadvantaged individuals.
 
->     “(5)  __Uniform certification__  __.—__ 
+>     “(5) __Uniform certification.—__ 
 
 >         “(A)  __In general__  __.—__ 
 
@@ -2011,17 +1883,27 @@
 
 >     “(6)  __Reporting__  __.—__ 
 
->     The Secretary shall establish minimum requirements for use by State governments in reporting to the Secretary—
+>     The Secretary \[of Transportation\] shall establish minimum requirements for use by State governments in reporting to the Secretary—
 
 >         “(A) information concerning disadvantaged business enterprise awards, commitments, and achievements; and
 
->         “(B) such other information as the Secretary \[of Transportation\] determines to be appropriate for the proper monitoring of the disadvantaged business enterprise program.
+>         “(B) such other information as the Secretary determines to be appropriate for the proper monitoring of the disadvantaged business enterprise program.
 
 >     “(7)  __Compliance with court orders__  __.—__ 
 
->     Nothing in this subsection limits the eligibility of an individual or entity to receive funds made available under divisions A and B of this Act \[see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, if the entity or person is prevented, in whole or in part, from complying with paragraph (2) because a Federal court issues a final order in which the court finds that a requirement or the implementation of paragraph (2) is unconstitutional.”
+>     Nothing in this subsection limits the eligibility of an individual or entity to receive funds made available under titles I, II, III, and VI of this Act \[div. A of [Pub. L. 114–94][/us/pl/114/94], see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, if the entity or person is prevented, in whole or in part, from complying with paragraph (3) because a Federal court issues a final order in which the court finds that a requirement or the implementation of paragraph (3) is unconstitutional.
+
+>     “(8)  __Sense of congress on prompt payment of dbe subcontractors__  __.—__ 
+
+>     It is the sense of Congress that—
+
+>         “(A) the Secretary should take additional steps to ensure that recipients comply with section 26.29 of title 49, Code of Federal Regulations (the disadvantaged business enterprises prompt payment rule), or any corresponding regulation, in awarding federally funded transportation contracts under laws and regulations administered by the Secretary; and
+
+>         “(B) such additional steps should include increasing the Department’s ability to track and keep records of complaints and to make that information publicly available.”
 
 Similar provisions were contained in the following prior acts:
+
+    [Pub. L. 112–141, div. A, title I, § 1101(b)][/us/pl/112/141/s1101/b], July 6, 2012, [126 Stat. 414][/us/stat/126/414].
 
     [Pub. L. 111–147, title IV, § 451][/us/pl/111/147/s451], Mar. 18, 2010, [124 Stat. 96][/us/stat/124/96].
 
@@ -2325,6 +2207,18 @@ Similar provisions were contained in the following prior acts:
 
  __Definitions of “Department”, “Interstate System”, “Secretary”, and “State” for Purposes of Certain Acts__ 
 
+[Pub. L. 114–94, div. A, § 1001][/us/pl/114/94/s1001], Dec. 4, 2015, [129 Stat. 1321][/us/stat/129/1321], provided that: 
+
+> “In this division \[see Tables for classification\], the following definitions apply:
+
+>     “(1)  __Department__  __.—__ 
+
+>     The term ‘Department’ means the Department of Transportation.
+
+>     “(2)  __Secretary__  __.—__ 
+
+>     The term ‘Secretary’ means the Secretary of Transportation.”
+
 [Pub. L. 112–141, § 2][/us/pl/112/141/s2], July 6, 2012, [126 Stat. 413][/us/stat/126/413], provided that: 
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
@@ -2389,7 +2283,6 @@ Similar provisions were contained in the following prior acts:
 ----------
 
 [/us/usc/t42/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7407%2Fd
-[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/stat/70/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F374
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F885
@@ -2433,12 +2326,12 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/122/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1574
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F419
-[/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
-[/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
-[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/114/94/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1103
+[/us/stat/129/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1328
 [/us/stat/70/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F374
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F378
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s1103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1103%2Fa%2F2
@@ -2539,6 +2432,9 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/87/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
 [/us/pl/112/141/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fb
@@ -2578,6 +2474,12 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
 [/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
+[/us/pl/114/94/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1%2Fa
+[/us/stat/129/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1312
+[/us/pl/114/94/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6001
+[/us/stat/129/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1561
+[/us/usc/t23/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs519
+[/us/usc/t23/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs508
 [/us/pl/114/87/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1%2Fa
 [/us/stat/129/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F677
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
@@ -2831,6 +2733,15 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t49/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs102
 [/us/pl/97/449/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
+[/us/pl/114/94/s1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1420
+[/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1421
+[/us/stat/129/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1424
+[/us/pl/114/94/s1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1428
+[/us/stat/129/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1426
+[/us/pl/114/94/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1444
+[/us/stat/129/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1436
 [/us/pl/113/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2
 [/us/stat/128/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1839
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -2841,6 +2752,8 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1304%2Fa
 [/us/stat/126/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F532
+[/us/pl/114/94/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1433
+[/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
 [/us/pl/112/141/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1535
 [/us/stat/126/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F584
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -2850,7 +2763,8 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/122/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1578
 [/us/pl/112/141/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1120
 [/us/stat/126/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F492
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1105%2Fc
+[/us/stat/129/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1337
 [/us/pl/109/59/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1302
 [/us/stat/119/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1204
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
@@ -2860,6 +2774,8 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/109/59/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1308
 [/us/stat/119/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1218
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
+[/us/pl/114/94/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1426
+[/us/stat/129/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1426
 [/us/pl/109/59/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1914
 [/us/stat/119/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1478
 [/us/pl/105/178/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1118
@@ -2869,6 +2785,14 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1437
+[/us/stat/129/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1432
+[/us/usc/t23/s133/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133%2Fd%2F1%2FB
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/stat/119/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1207
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/stat/119/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1207
+[/us/usc/t23/s133/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133%2Fd%2F1%2FB
 [/us/pl/109/59/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1303
 [/us/stat/119/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1207
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
@@ -2919,13 +2843,17 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/104/59/s359/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs359%2Fc
 [/us/stat/109/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F627
 [/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
-[/us/pl/112/141/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1101%2Fb
-[/us/stat/126/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F414
+[/us/pl/114/94/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1101%2Fb
+[/us/stat/129/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1323
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
+[/us/pl/112/141/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1101%2Fb
+[/us/stat/126/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F414
 [/us/pl/111/147/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs451
 [/us/stat/124/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F96
 [/us/pl/109/59/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1101%2Fb
@@ -3117,6 +3045,8 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/108/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2494
 [/us/pl/97/424/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs127%2Fb
 [/us/stat/96/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2118
+[/us/pl/114/94/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1001
+[/us/stat/129/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1321
 [/us/pl/112/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2
 [/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
 [/us/pl/112/141/s31002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31002

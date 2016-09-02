@@ -13,109 +13,81 @@
 
 [Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s132.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s134.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133)
 
-## § 133. Surface transportation program
+## § 133. Surface transportation block grant program
 
     (a)  __Establishment__  __.—__ 
 
-    The Secretary shall establish a surface transportation program in accordance with this section.
+    The Secretary shall establish a surface transportation block grant program in accordance with this section to provide flexible funding to address State and local transportation needs.
 
     (b)  __Eligible Projects__  __.—__ 
 
-    A State may obligate funds apportioned to it under section 104(b)(2) for the surface transportation program only for the following:
+    Funds apportioned to a State under section 104(b)(2) for the surface transportation block grant program may be obligated for the following:
 
-        (1) Construction, reconstruction, rehabilitation, resurfacing, restoration, preservation, or operational improvements for highways, including construction of designated routes of the Appalachian development highway system and local access roads under [section 14501 of title 40][/us/usc/t40/s14501].
+        (1)
 
-        (2) Replacement (including replacement with fill material), rehabilitation, preservation, protection (including painting, scour countermeasures, seismic retrofits, impact protection measures, security countermeasures, and protection against extreme events) and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing compositions for bridges (and approaches to bridges and other elevated structures) and tunnels on public roads of all functional classifications, including any such construction or reconstruction necessary to accommodate other transportation modes.
+         Construction of—
 
-        (3) Construction of a new bridge or tunnel at a new location on a Federal-aid highway.
+            (A) highways, bridges, tunnels, including designated routes of the Appalachian development highway system and local access roads under [section 14501 of title 40][/us/usc/t40/s14501];
 
-        (4) Inspection and evaluation of bridges and tunnels and training of bridge and tunnel inspectors (as defined in section 144), and inspection and evaluation of other highway assets (including signs, retaining walls, and drainage structures).
+            (B) ferry boats and terminal facilities eligible for funding under section 129(c);
 
-        (5) Capital costs for transit projects eligible for assistance under chapter 53 of title 49, including vehicles and facilities, whether publicly or privately owned, that are used to provide intercity passenger service by bus.
+            (C) transit capital projects eligible for assistance under chapter 53 of title 49;
 
-        (6) Carpool projects, fringe and corridor parking facilities and programs, including electric vehicle and natural gas vehicle infrastructure in accordance with section 137, bicycle transportation and pedestrian walkways in accordance with section 217, and the modifications of public sidewalks to comply with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.).
+            (D) infrastructure-based intelligent transportation systems capital improvements, including the installation of vehicle-to-infrastructure communication equipment;
 
-        (7) Highway and transit safety infrastructure improvements and programs, installation of safety barriers and nets on bridges, hazard eliminations, projects to mitigate hazards caused by wildlife, and railway-highway grade crossings.
+            (E) truck parking facilities eligible for funding under section 1401 of MAP–21 ([23 U.S.C. 137][/us/usc/t23/s137] note); and
 
-        (8) Highway and transit research and development and technology transfer programs.
+            (F) border infrastructure projects eligible for funding under section 1303 of SAFETEA–LU ([23 U.S.C. 101][/us/usc/t23/s101] note).
 
-        (9) Capital and operating costs for traffic monitoring, management, and control facilities and programs, including advanced truck stop electrification systems.
+        (2) Operational improvements and capital and operating costs for traffic monitoring, management, and control facilities and programs.
 
-        (10) Surface transportation planning programs.
+        (3) Environmental measures eligible under sections 119(g), 328, and 329 and transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi) of that section) of the Clean Air Act ([42 U.S.C. 7408(f)(1)(A)][/us/usc/t42/s7408/f/1/A]).
 
-        (11) Transportation alternatives.
+        (4) Highway and transit safety infrastructure improvements and programs, including railway-highway grade crossings.
 
-        (12) Transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi)) of the Clean Air Act ([42 U.S.C. 7408(f)(1)(A)][/us/usc/t42/s7408/f/1/A]).
+        (5) Fringe and corridor parking facilities and programs in accordance with section 137 and carpool projects in accordance with section 146.
 
-        (13) Development and establishment of management systems  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
+        (6) Recreational trails projects eligible for funding under section 206, pedestrian and bicycle projects in accordance with section 217 (including modifications to comply with accessibility requirements under the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.)), and the safe routes to school program under section 1404 of SAFETEA–LU ([23 U.S.C. 402][/us/usc/t23/s402] note).
 
-        (14) Environmental mitigation efforts relating to projects funded under this title in the same manner and to the same extent as such activities are eligible under section 119(g).
+        (7) Planning, design, or construction of boulevards and other roadways largely in the right-of-way of former Interstate System routes or other divided highways.
 
-        (15)
+        (8) Development and implementation of a State asset management plan for the National Highway System and a performance-based management program for other public roads.
 
-         Projects relating to intersections that—
+        (9) Protection (including painting, scour countermeasures, seismic retrofits, impact protection measures, security countermeasures, and protection against extreme events) for bridges (including approaches to bridges and other elevated structures) and tunnels on public roads, and inspection and evaluation of bridges and tunnels and other highway assets.
 
-            (A) have disproportionately high accident rates;
+        (10) Surface transportation planning programs, highway and transit research and development and technology transfer programs, and workforce development, training, and education under chapter 5 of this title.
 
-            (B)
+        (11) Surface transportation infrastructure modifications to facilitate direct intermodal interchange, transfer, and access into and out of a port terminal.
 
-             have high levels of congestion, as evidenced by—
+        (12) Projects and strategies designed to support congestion pricing, including electronic toll collection and travel demand management strategies and programs.
 
-                (i) interrupted traffic flow at the intersection; and
+        (13) At the request of a State, and upon Secretarial approval of credit assistance under chapter 6, subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
 
-                (ii) a level of service rating that is not better than “F” during peak travel hours, calculated in accordance with the Highway Capacity Manual issued by the Transportation Research Board; and
+        (14) The creation and operation by a State of an office to assist in the design, implementation, and oversight of public-private partnerships eligible to receive funding under this title and chapter 53 of title 49, and the payment of a stipend to unsuccessful private bidders to offset their proposal development costs, if necessary to encourage robust competition in public-private partnership procurements.
 
-            (C) are located on a Federal-aid highway.
-
-        (16) Infrastructure-based intelligent transportation systems capital improvements.
-
-        (17) Environmental restoration and pollution abatement in accordance with section 328.
-
-        (18) Control of noxious weeds and aquatic noxious weeds and establishment of native species in accordance with section 329.
-
-        (19) Projects and strategies designed to support congestion pricing, including electric toll collection and travel demand management strategies and programs.
-
-        (20) Recreational trails projects eligible for funding under section 206.
-
-        (21) Construction of ferry boats and ferry terminal facilities eligible for funding under section 129(c).
-
-        (22) Border infrastructure projects eligible for funding under section 1303 of the SAFETEA–LU ([23 U.S.C. 101][/us/usc/t23/s101] note; [Public Law 109–59][/us/pl/109/59]).
-
-        (23) Truck parking facilities eligible for funding under section 1401 of the MAP–21.
-
-        (24) Development and implementation of a State asset management plan for the National Highway System in accordance with section 119, including data collection, maintenance, and integration and the costs associated with obtaining, updating, and licensing software and equipment required for risk based asset management and performance based management, and for similar activities related to the development and implementation of a performance based management program for other public roads.
-
-        (25) A project that, if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port.
-
-        (26)
-
-         Construction and operational improvements for any minor collector if—
-
-            (A) the minor collector, and the project to be carried out with respect to the minor collector, are in the same corridor as, and in proximity to, a Federal-aid highway designated as part of the National Highway System;
-
-            (B) the construction or improvements will enhance the level of service on the Federal-aid highway described in subparagraph (A) and improve regional traffic flow; and
-
-            (C) the construction or improvements are more cost-effective, as determined by a benefit-cost analysis, than an improvement to the Federal-aid highway described in subparagraph (A).
+        (15) Any type of project eligible under this section as in effect on the day before the date of enactment of the FAST Act, including projects described under section 101(a)(29) as in effect on such day.
 
     (c)  __Location of Projects__  __.—__ 
 
-    Surface transportation program projects may not be undertaken on roads functionally classified as local or rural minor collectors unless the roads were on a Federal-aid highway system on January 1, 1991, except—
+    A surface transportation block grant project may not be undertaken on a road functionally classified as a local road or a rural minor collector unless the road was on a Federal-aid highway system on January 1, 1991, except—
 
-        (1) as provided in subsection (g);
+        (1) for a bridge or tunnel project (other than the construction of a new bridge or tunnel at a new location);
 
-        (2) for projects described in paragraphs (2), (4), (6), (7), (11), (20), (25), and (26) of subsection (b); and
+        (2) for a project described in paragraphs (4) through (11) of subsection (b);
 
-        (3) as approved by the Secretary.
+        (3) for a project described in section 101(a)(29), as in effect on the day before the date of enactment of the FAST Act; and
+
+        (4) as approved by the Secretary.
 
     (d) __Allocations of Apportioned Funds to Areas Based on Population.—__ 
 
         (1)  __Calculation__  __.—__ 
 
-        Of the funds apportioned to a State under section 104(b)(2)—
+        Of the funds apportioned to a State under section 104(b)(2) (after the reservation of funds under subsection (h))—
 
             (A)
 
-             50 percent for a fiscal year shall be obligated under this section, in proportion to their relative shares of the population of the State—
+             the percentage specified in paragraph (6) for a fiscal year shall be obligated under this section, in proportion to their relative shares of the population of the State—
 
                 (i) in urbanized areas of the State with an urbanized area population of over 200,000;
 
@@ -123,7 +95,7 @@
 
                 (iii) in other areas of the State; and
 
-            (B) 50 percent may be obligated in any area of the State.
+            (B) the remainder may be obligated in any area of the State.
 
         (2)  __Metropolitan areas__  __.—__ 
 
@@ -131,7 +103,7 @@
 
         (3)  __Consultation with regional transportation planning organizations__  __.—__ 
 
-        For purposes of paragraph (1)(A)(ii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
+        For purposes of paragraph (1)(A)(iii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
 
         (4) __Distribution among urbanized areas of over 200,000 population.—__ 
 
@@ -147,29 +119,25 @@
 
         Programming and expenditure of funds for projects under this section shall be consistent with sections 134 and 135.
 
-    (e) __Administration.—__ 
+        (6)  __Percentage__  __.—__ 
 
-        (1)  __Submission of project agreement__  __.—__ 
+        The percentage referred to in paragraph (1)(A) is—
 
-        For each fiscal year, each State shall submit a project agreement that—
+            (A) for fiscal year 2016, 51 percent;
 
-            (A) certifies that the State will meet all the requirements of this section; and
+            (B) for fiscal year 2017, 52 percent;
 
-            (B) notifies the Secretary of the amount of obligations needed to carry out the program under this section.
+            (C) for fiscal year 2018, 53 percent;
 
-        (2)  __Request for adjustments of amounts__  __.—__ 
+            (D) for fiscal year 2019, 54 percent; and
 
-        Each State shall request from the Secretary such adjustments to the amount of obligations referred to in paragraph (1)(B) as the State determines to be necessary.
+            (E) for fiscal year 2020, 55 percent.
 
-        (3)  __Effect of approval by the secretary__  __.—__ 
-
-        Approval by the Secretary of a project agreement under paragraph (1) shall be deemed a contractual obligation of the United States to pay surface transportation program funds made available under this title.
-
-    (f) __Obligation Authority.—__ 
+    (e) __Obligation Authority.—__ 
 
         (1)  __In general__  __.—__ 
 
-        A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall make available during the period of fiscal years 2011 through 2014 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
+        A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(2) shall make available during the period of fiscal years 2016 through 2020 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
 
             (A) the aggregate amount of funds that the State is required to obligate in the area under subsection (d) during the period; and
 
@@ -185,7 +153,7 @@
 
         Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with paragraph (1).
 
-    (g) __Bridges Not on Federal-aid Highways.—__ 
+    (f) __Bridges Not on Federal-aid Highways.—__ 
 
         (1)  __Definition of off-system bridge__  __.—__ 
 
@@ -209,31 +177,169 @@
 
             (B) that crediting shall be conducted in accordance with procedures established by the Secretary.
 
-    (h)  __Special Rule for Areas of Less Than__  __5,000 Population.—__ 
+    (g)  __Special Rule for Areas of Less Than__  __5,000 Population.—__ 
 
         (1)  __Special rule__  __.—__ 
 
-        Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(iii) for each of fiscal years 2013 through 2014 may be obligated on roads functionally classified as minor collectors.
+        Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(ii) for each of fiscal years 2016 through 2020 may be obligated on roads functionally classified as minor collectors.
 
         (2)  __Suspension__  __.—__ 
 
         The Secretary may suspend the application of paragraph (1) with respect to a State if the Secretary determines that the authority provided under paragraph (1) is being used excessively by the State.
 
-(Added [Pub. L. 102–240, title I, § 1007(a)(1)][/us/pl/102/240/s1007/a/1], Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927]; amended [Pub. L. 103–429, § 3(4)][/us/pl/103/429/s3/4], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 315, 316, Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586], 587; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 138–140][/us/stat/112/138-140], 193; [Pub. L. 109–59, title I, § 1113(a)][/us/pl/109/59/s1113/a]–(b)(2), (c)–(e), title VI, § 6006(a)(2), Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1172, 1872; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1108, 1519(c)(8), July 6, 2012, [126 Stat. 440][/us/stat/126/440], 576.)
+    (h) __STP Set-Aside.—__ 
+
+        (1)  __Reservation of funds__  __.—__ 
+
+        Of the funds apportioned to a State under section 104(b)(2) for each fiscal year, the Secretary shall reserve an amount such that—
+
+            (A)
+
+             the Secretary reserves a total under this subsection of—
+
+                (i) $835,000,000 for each of fiscal years 2016 and 2017; and
+
+                (ii) $850,000,000 for each of fiscal years 2018 through 2020; and
+
+            (B)
+
+             the State’s share of that total is determined by multiplying the amount under subparagraph (A) by the ratio that—
+
+                (i) the amount apportioned to the State for the transportation enhancements program for fiscal year 2009 under section 133(d)(2), as in effect on the day before the date of enactment of MAP–21; bears to
+
+                (ii) the total amount of funds apportioned to all States for the transportation enhancements program for fiscal year 2009.
+
+        (2)  __Allocation within a state__  __.—__ 
+
+        Funds reserved for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), except that, for purposes of this paragraph (after funds are made available under paragraph (5))—
+
+            (A) for each fiscal year, the percentage referred to in paragraph (1)(A) of that subsection shall be deemed to be 50 percent; and
+
+            (B)
+
+             the following provisions shall not apply:
+
+                (i) Paragraph (3) of subsection (d).
+
+                (ii) Subsection (e).
+
+        (3)  __Eligible projects__  __.—__ 
+
+        Funds reserved under this subsection may be obligated for projects or activities described in section 101(a)(29) or 213, as such provisions were in effect on the day before the date of enactment of the FAST Act.
+
+        (4) __Access to funds.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            A State or metropolitan planning organization required to obligate funds in accordance with paragraph (2) shall develop a competitive process to allow eligible entities to submit projects for funding that achieve the objectives of this subsection. A metropolitan planning organization for an area described in subsection (d)(1)(A)(i) shall select projects under such process in consultation with the relevant State.
+
+            (B)  __Eligible entity defined__  __.—__ 
+
+            In this paragraph, the term “eligible entity” means—
+
+                (i) a local government;
+
+                (ii) a regional transportation authority;
+
+                (iii) a transit agency;
+
+                (iv) a natural resource or public land agency;
+
+                (v) a school district, local education agency, or school;
+
+                (vi) a tribal government;
+
+                (vii) a nonprofit entity responsible for the administration of local transportation safety programs; and
+
+                (viii) any other local or regional governmental entity with responsibility for or oversight of transportation or recreational trails (other than a metropolitan planning organization or a State agency) that the State determines to be eligible, consistent with the goals of this subsection.
+
+        (5)  __Continuation of certain recreational trails projects__  __.—__ 
+
+        For each fiscal year, a State shall—
+
+            (A) obligate an amount of funds reserved under this section equal to the amount of the funds apportioned to the State for fiscal year 2009 under section 104(h)(2), as in effect on the day before the date of enactment of MAP–21, for projects relating to recreational trails under section 206;
+
+            (B) return 1 percent of those funds to the Secretary for the administration of that program; and
+
+            (C) comply with the provisions of the administration of the recreational trails program under section 206, including the use of apportioned funds described in subsection (d)(3)(A) of that section.
+
+        (6) __State flexibility.—__ 
+
+            (A)  __Recreational trails__  __.—__ 
+
+            A State may opt out of the recreational trails program under paragraph (5) if the Governor of the State notifies the Secretary not later than 30 days prior to apportionments being made for any fiscal year.
+
+            (B)  __Large urbanized areas__  __.—__ 
+
+            A metropolitan planning area may use not to exceed 50 percent of the funds reserved under this subsection for an urbanized area described in subsection (d)(1)(A)(i) for any purpose eligible under subsection (b).
+
+        (7) __Annual reports.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Each State or metropolitan planning organization responsible for carrying out the requirements of this subsection shall submit to the Secretary an annual report that describes—
+
+                (i)
+
+                 the number of project applications received for each fiscal year, including—
+
+                    (I) the aggregate cost of the projects for which applications are received; and
+
+                    (II) the types of projects to be carried out, expressed as percentages of the total apportionment of the State under this subsection; and
+
+                (ii) the number of projects selected for funding for each fiscal year, including the aggregate cost and location of projects selected.
+
+            (B)  __Public availability__  __.—__ 
+
+            The Secretary shall make available to the public, in a user-friendly format on the Web site of the Department of Transportation, a copy of each annual report submitted under subparagraph (A).
+
+    (i)  __Treatment of Projects__  __.—__ 
+
+    Notwithstanding any other provision of law, projects funded under this section (excluding those carried out under subsection (h)(5)) shall be treated as projects on a Federal-aid highway under this chapter.
+
+(Added [Pub. L. 102–240, title I, § 1007(a)(1)][/us/pl/102/240/s1007/a/1], Dec. 18, 1991, [105 Stat. 1927][/us/stat/105/1927]; amended [Pub. L. 103–429, § 3(4)][/us/pl/103/429/s3/4], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 315, 316, Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586], 587; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 138–140][/us/stat/112/138-140], 193; [Pub. L. 109–59, title I, § 1113(a)][/us/pl/109/59/s1113/a]–(b)(2), (c)–(e), title VI, § 6006(a)(2), Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1172, 1872; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1108, 1519(c)(7), formerly § 1519(c)(8), July 6, 2012, [126 Stat. 440][/us/stat/126/440], 576, renumbered § 1519(c)(7), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, [129 Stat. 1338][/us/stat/129/1338], 1410, 1438.)
 
  __References in Text__ 
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
-    Section 1401 of the MAP–21, referred to in subsec. (b)(23), is [section 1401 of Pub. L. 112–141][/us/pl/112/141/s1401], which is set out as a note under [section 137 of this title][/us/usc/t23/s137].
+    The date of enactment of the FAST Act, referred to in subsecs. (b)(15), (c)(3), and (h)(3), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 104, referred to in subsec. (f)(1), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+    The date of enactment of MAP–21, referred to in subsec. (h)(1)(B)(i), (5)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
  __Prior Provisions__ 
 
     A prior section 133, [Pub. L. 87–866, § 5(a)][/us/pl/87/866/s5/a], Oct. 23, 1962, [76 Stat. 1146][/us/stat/76/1146], provided for relocation assistance for persons displaced by Federal-aid highway construction, prior to repeal by [Pub. L. 90–495, § 37][/us/pl/90/495/s37], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], effective July 1, 1970. See section 501 et seq. of this title.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, § 1109(b)(2)][/us/pl/114/94/s1109/b/2], substituted “Surface transportation block grant program” for “Surface transportation program” in section catchline.
+
+    Subsecs. (a), (b). [Pub. L. 114–94, § 1109(b)(1)][/us/pl/114/94/s1109/b/1], amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) to (b) related to establishment of surface transportation program and eligible projects, respectively.
+
+    Subsec. (b)(1)(D). [Pub. L. 114–94, § 1407(b)][/us/pl/114/94/s1407/b], inserted “, including the installation of vehicle-to-infrastructure communication equipment” after “capital improvements”.
+
+    Subsec. (b)(13). [Pub. L. 114–94, § 1446(d)(5)(C)][/us/pl/114/94/s1446/d/5/C], amended directory language of [Pub. L. 112–141][/us/pl/112/141], §1519(c)(7). See 2012 Amendment note below.
+
+    Subsecs. (c), (d). [Pub. L. 114–94, § 1109(b)(1)][/us/pl/114/94/s1109/b/1], amended subsecs. (c) and (d) generally. Prior to amendment, subsecs. (c) and (d) related to location of projects and allocations of apportioned funds to areas based on population, respectively.
+
+    Subsec. (e). [Pub. L. 114–94, § 1109(b)(3)][/us/pl/114/94/s1109/b/3]–(5), redesignated subsec. (f) as (e), substituted “104(b)(2)” for “104(b)(3)” and “fiscal years 2016 through 2020” for fiscal years 2011 through 2014” in (e)(1), and struck out former subsec. (e). Text of former subsec. (e) read as follows:
+
+    “(1) Submission of project agreement.—For each fiscal year, each State shall submit a project agreement that—
+
+    “(A) certifies that the State will meet all the requirements of this section; and
+
+    “(B) notifies the Secretary of the amount of obligations needed to carry out the program under this section.
+
+    “(2) Request for adjustments of amounts.—Each State shall request from the Secretary such adjustments to the amount of obligations referred to in paragraph (1)(B) as the State determines to be necessary.
+
+    “(3) Effect of approval by the secretary.—Approval by the Secretary of a project agreement under paragraph (1) shall be deemed a contractual obligation of the United States to pay surface transportation program funds made available under this title.”
+
+    Subsec. (f). [Pub. L. 114–94, § 1109(b)(4)][/us/pl/114/94/s1109/b/4], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+    Subsec. (g). [Pub. L. 114–94, § 1109(b)(4)][/us/pl/114/94/s1109/b/4], (6), redesignated subsec. (h) as (g) and substituted “under subsection (d)(1)(A)(ii) for each of fiscal years 2016 through 2020” for “under subsection (d)(1)(A)(iii) for each of fiscal years 2013 through 2014”. Former subsec. (g) redesignated (f).
+
+    Subsecs. (h), (i). [Pub. L. 114–94, § 1109(b)(7)][/us/pl/114/94/s1109/b/7], added subsecs. (h) and (i).
 
     2012—Subsec. (b). [Pub. L. 112–141, § 1108(a)(1)][/us/pl/112/141/s1108/a/1], substituted “section 104(b)(2)” for “section 104(b)(3)” in introductory provisions.
 
@@ -257,7 +363,7 @@
 
     Subsec. (b)(12). [Pub. L. 112–141, § 1108(a)(3)][/us/pl/112/141/s1108/a/3], redesignated par. (9) as (12). Former par. (12) redesignated (15).
 
-    Subsec. (b)(13). [Pub. L. 112–141][/us/pl/112/141], §§ 1108(a)(3), 1519(c)(8), redesignated par. (10) as (13) and struck out “under section 303.” at end. Former par. (13) redesignated (16).
+    Subsec. (b)(13). [Pub. L. 112–141][/us/pl/112/141], §§ 1108(a)(3), 1519(c)(7), formerly § 1519(c)(8), as renumbered and amended by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], (C), redesignated par. (10) as (13) and struck out “under section 303” before period at end. Former par. (13) redesignated (16).
 
     Subsec. (b)(14). [Pub. L. 112–141, § 1108(a)(8)][/us/pl/112/141/s1108/a/8], added par. (14) and struck out former par. (14) which related to obligating funds for the surface transportation program for projects related to participation in natural habitat and wetlands mitigation efforts.
 
@@ -339,6 +445,12 @@
 
     1994—Subsec. (b)(2). [Pub. L. 103–429][/us/pl/103/429] substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B), (C) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -356,6 +468,24 @@
  __Effective Date__ 
 
     Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as an Effective Date of 1991 Amendment note under [section 104 of this title][/us/usc/t23/s104].
+
+ __Congressional Findings Regarding Surface Transportation Block Grant Program__ 
+
+[Pub. L. 114–94, div. A, title I, § 1109(a)][/us/pl/114/94/s1109/a], Dec. 4, 2015, [129 Stat. 1338][/us/stat/129/1338], provided that: 
+
+> “Congress finds that—
+
+>     “(1) the benefits of the surface transportation block grant program accrue principally to the residents of each State and municipality where the funds are obligated;
+
+>     “(2) decisions about how funds should be obligated are best determined by the States and municipalities to respond to unique local circumstances and implement the most efficient solutions; and
+
+>     “(3) reforms of the program to promote flexibility will enhance State and local control over transportation decisions.”
+
+ __References to Surface Transportation Program__ 
+
+[Pub. L. 114–94, div. A, title I, § 1109(c)(7)][/us/pl/114/94/s1109/c/7], Dec. 4, 2015, [129 Stat. 1344][/us/stat/129/1344], provided that: 
+
+> “Any reference in any other law, regulation, document, paper, or other record of the United States to the surface transportation program under [section 133 of title 23][/us/usc/t23/s133], United States Code, shall be deemed to be a reference to the surface transportation block grant program under such section.”
 
  __Division of STP Funds for Areas of Less Than 5,000 Population__ 
 
@@ -383,10 +513,11 @@
 ----------
 
 [/us/usc/t40/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14501
-[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/usc/t42/s7408/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408%2Ff%2F1%2FA
+[/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/usc/t42/s7408/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408%2Ff%2F1%2FA
+[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
 [/us/pl/102/240/s1007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1007%2Fa%2F1
 [/us/stat/105/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1927
 [/us/pl/103/429/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs3%2F4
@@ -399,17 +530,30 @@
 [/us/stat/119/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1171
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F440
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1338
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/112/141/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1401
-[/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
-[/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/87/866/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F866%2Fs5%2Fa
 [/us/stat/76/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1146
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/stat/82/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F836
+[/us/pl/114/94/s1109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F2
+[/us/pl/114/94/s1109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F1
+[/us/pl/114/94/s1407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1407%2Fb
+[/us/pl/114/94/s1446/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FC
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s1109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F1
+[/us/pl/114/94/s1109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F3
+[/us/pl/114/94/s1109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F4
+[/us/pl/114/94/s1109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F4
+[/us/pl/114/94/s1109/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fb%2F7
 [/us/pl/112/141/s1108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F1
 [/us/pl/112/141/s1108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F2
 [/us/pl/112/141/s1108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F4
@@ -423,6 +567,7 @@
 [/us/pl/112/141/s1108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F3
 [/us/pl/112/141/s1108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/112/141/s1108/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F8
 [/us/pl/112/141/s1108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F3
 [/us/pl/112/141/s1108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1108%2Fa%2F3
@@ -465,6 +610,12 @@
 [/us/pl/104/59/s316/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs316%2F1
 [/us/pl/104/59/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs316%2F2
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -476,6 +627,11 @@
 [/us/stat/119/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1172
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
+[/us/pl/114/94/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fa
+[/us/stat/129/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1338
+[/us/pl/114/94/s1109/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F7
+[/us/stat/129/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1344
+[/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
 [/us/pl/105/178/s1108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1108%2Ff
 [/us/stat/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F141
 [/us/pl/110/244/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs113%2Fa

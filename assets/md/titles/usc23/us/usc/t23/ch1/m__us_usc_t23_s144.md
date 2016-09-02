@@ -63,7 +63,7 @@
 
         Section 502(b) of the General Bridge Act of 1946 ([33 U.S.C. 525(b)][/us/usc/t33/s525/b]) and [section 9 of the Act of March 3, 1899][/us/act/1899-03-03/s9] ([33 U.S.C. 401][/us/usc/t33/s401]), shall not apply to any bridge constructed, reconstructed, rehabilitated, or replaced with assistance under this title, if the bridge is over waters that—
 
-            (A) are not used and are not susceptible to use in the natural condition of the bridge or by reasonable improvement as a means to transport interstate or foreign commerce; and
+            (A) are not used and are not susceptible to use in the natural condition of the water or by reasonable improvement as a means to transport interstate or foreign commerce; and
 
             (B)
 
@@ -281,19 +281,59 @@
 
         The training program shall be revised from time to time to take into account new and improved techniques.
 
-    (j)  __Availability of Funds__  __.—__ 
+    (j) __Bundling of Bridge Projects.—__ 
+
+        (1)  __Purpose__  __.—__ 
+
+        The purpose of this subsection is to save costs and time by encouraging States to bundle multiple bridge projects as 1 project.
+
+        (2)  __Eligible entity defined__  __.—__ 
+
+        In this subsection, the term “eligible entity” means an entity eligible to carry out a bridge project under section 119 or 133.
+
+        (3)  __Bundling of bridge projects__  __.—__ 
+
+        An eligible entity may bundle 2 or more similar bridge projects that are—
+
+            (A) eligible projects under section 119 or 133;
+
+            (B) included as a bundled project in a transportation improvement program under section 134(j) or a statewide transportation improvement program under section 135, as applicable; and
+
+            (C) awarded to a single contractor or consultant pursuant to a contract for engineering and design or construction between the contractor and an eligible entity.
+
+        (4)  __Itemization__  __.—__ 
+
+        Notwithstanding any other provision of law (including regulations), a bundling of bridge projects under this subsection may be listed as—
+
+            (A) 1 project for purposes of sections 134 and 135; and
+
+            (B) a single project.
+
+        (5)  __Financial characteristics__  __.—__ 
+
+        Projects bundled under this subsection shall have the same financial characteristics, including—
+
+            (A) the same funding category or subcategory; and
+
+            (B) the same Federal share.
+
+        (6)  __Engineering cost reimbursement__  __.—__ 
+
+        The provisions of section 102(b) do not apply to projects carried out under this subsection.
+
+    (k)  __Availability of Funds__  __.—__ 
 
     In carrying out this section—
 
         (1) the Secretary may use funds made available to the Secretary under sections 104(a) and 503;
 
-        (2) a State may use amounts apportioned to the State under section 104(b)(1) and 104(b)(3);
+        (2) a State may use amounts apportioned to the State under section 104(b)(1) and 104(b)(2);
 
         (3) an Indian tribe may use funds made available to the Indian tribe under section 202; and
 
         (4) a Federal agency may use funds made available to the agency under section 503.
 
-(Added [Pub. L. 91–605, title II, § 204(a)][/us/pl/91/605/s204/a], Dec. 31, 1970, [84 Stat. 1741][/us/stat/84/1741]; amended [Pub. L. 93–87, title II, § 204][/us/pl/93/87/s204], Aug. 13, 1973, [87 Stat. 284][/us/stat/87/284]; [Pub. L. 93–643, § 113][/us/pl/93/643/s113], Jan. 4, 1975, [88 Stat. 2286][/us/stat/88/2286]; [Pub. L. 95–599, title I, § 124(a)][/us/pl/95/599/s124/a], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 96–106][/us/pl/96/106], §§ 7, 8(a), Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–327, § 5(c)][/us/pl/97/327/s5/c], Oct. 15, 1982, [96 Stat. 1612][/us/stat/96/1612]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 121(a), 122(a), Jan. 6, 1983, [96 Stat. 2111][/us/stat/96/2111], 2112; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, [101 Stat. 161–163][/us/stat/101/161-163], 167, 172; [Pub. L. 102–240, title I, § 1028(a)][/us/pl/102/240/s1028/a]–(f), Dec. 18, 1991, [105 Stat. 1967][/us/stat/105/1967], 1968; [Pub. L. 103–220, § 1][/us/pl/103/220/s1], Mar. 17, 1994, [108 Stat. 100][/us/stat/108/100]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 318, 325(b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 592; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1109, 1115(f)(3); June 9, 1998, [112 Stat. 141][/us/stat/112/141]; [Pub. L. 105–206, title IX, § 9002(i)][/us/pl/105/206/s9002/i], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 108–88, § 2(b)(5)][/us/pl/108/88/s2/b/5], Sept. 30, 2003, [117 Stat. 1111][/us/stat/117/1111]; [Pub. L. 108–202, § 2(b)(3)][/us/pl/108/202/s2/b/3], Feb. 29, 2004, [118 Stat. 478][/us/stat/118/478]; [Pub. L. 108–224, § 2(b)(2)][/us/pl/108/224/s2/b/2], Apr. 30, 2004, [118 Stat. 627][/us/stat/118/627]; [Pub. L. 108–263, § 2(b)(2)][/us/pl/108/263/s2/b/2], June 30, 2004, [118 Stat. 698][/us/stat/118/698]; [Pub. L. 108–280, § 2(b)(2)][/us/pl/108/280/s2/b/2], July 30, 2004, [118 Stat. 876][/us/stat/118/876]; [Pub. L. 108–310, § 2(b)(5)][/us/pl/108/310/s2/b/5], Sept. 30, 2004, [118 Stat. 1145][/us/stat/118/1145]; [Pub. L. 109–14, § 2(b)(3)][/us/pl/109/14/s2/b/3], May 31, 2005, [119 Stat. 324][/us/stat/119/324]; [Pub. L. 109–20, § 2(b)(2)][/us/pl/109/20/s2/b/2], July 1, 2005, [119 Stat. 346][/us/stat/119/346]; [Pub. L. 109–35, § 2(b)(2)][/us/pl/109/35/s2/b/2], July 20, 2005, [119 Stat. 379][/us/stat/119/379]; [Pub. L. 109–37, § 2(b)(2)][/us/pl/109/37/s2/b/2], July 22, 2005, [119 Stat. 394][/us/stat/119/394]; [Pub. L. 109–40, § 2(b)(2)][/us/pl/109/40/s2/b/2], July 28, 2005, [119 Stat. 410][/us/stat/119/410]; [Pub. L. 109–59, title I, § 1114][/us/pl/109/59/s1114], Aug. 10, 2005, [119 Stat. 1172][/us/stat/119/1172]; [Pub. L. 110–244, title I, § 101(m)(1)][/us/pl/110/244/s101/m/1], June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 112–141, div. A, title I, § 1111(a)][/us/pl/112/141/s1111/a], July 6, 2012, [126 Stat. 445][/us/stat/126/445].)
+(Added [Pub. L. 91–605, title II, § 204(a)][/us/pl/91/605/s204/a], Dec. 31, 1970, [84 Stat. 1741][/us/stat/84/1741]; amended [Pub. L. 93–87, title II, § 204][/us/pl/93/87/s204], Aug. 13, 1973, [87 Stat. 284][/us/stat/87/284]; [Pub. L. 93–643, § 113][/us/pl/93/643/s113], Jan. 4, 1975, [88 Stat. 2286][/us/stat/88/2286]; [Pub. L. 95–599, title I, § 124(a)][/us/pl/95/599/s124/a], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 96–106][/us/pl/96/106], §§ 7, 8(a), Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–327, § 5(c)][/us/pl/97/327/s5/c], Oct. 15, 1982, [96 Stat. 1612][/us/stat/96/1612]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 121(a), 122(a), Jan. 6, 1983, [96 Stat. 2111][/us/stat/96/2111], 2112; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, [101 Stat. 161–163][/us/stat/101/161-163], 167, 172; [Pub. L. 102–240, title I, § 1028(a)][/us/pl/102/240/s1028/a]–(f), Dec. 18, 1991, [105 Stat. 1967][/us/stat/105/1967], 1968; [Pub. L. 103–220, § 1][/us/pl/103/220/s1], Mar. 17, 1994, [108 Stat. 100][/us/stat/108/100]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 318, 325(b), Nov. 28, 1995, [109 Stat. 588][/us/stat/109/588], 592; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1109, 1115(f)(3); June 9, 1998, [112 Stat. 141][/us/stat/112/141]; [Pub. L. 105–206, title IX, § 9002(i)][/us/pl/105/206/s9002/i], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 108–88, § 2(b)(5)][/us/pl/108/88/s2/b/5], Sept. 30, 2003, [117 Stat. 1111][/us/stat/117/1111]; [Pub. L. 108–202, § 2(b)(3)][/us/pl/108/202/s2/b/3], Feb. 29, 2004, [118 Stat. 478][/us/stat/118/478]; [Pub. L. 108–224, § 2(b)(2)][/us/pl/108/224/s2/b/2], Apr. 30, 2004, [118 Stat. 627][/us/stat/118/627]; [Pub. L. 108–263, § 2(b)(2)][/us/pl/108/263/s2/b/2], June 30, 2004, [118 Stat. 698][/us/stat/118/698]; [Pub. L. 108–280, § 2(b)(2)][/us/pl/108/280/s2/b/2], July 30, 2004, [118 Stat. 876][/us/stat/118/876]; [Pub. L. 108–310, § 2(b)(5)][/us/pl/108/310/s2/b/5], Sept. 30, 2004, [118 Stat. 1145][/us/stat/118/1145]; [Pub. L. 109–14, § 2(b)(3)][/us/pl/109/14/s2/b/3], May 31, 2005, [119 Stat. 324][/us/stat/119/324]; [Pub. L. 109–20, § 2(b)(2)][/us/pl/109/20/s2/b/2], July 1, 2005, [119 Stat. 346][/us/stat/119/346]; [Pub. L. 109–35, § 2(b)(2)][/us/pl/109/35/s2/b/2], July 20, 2005, [119 Stat. 379][/us/stat/119/379]; [Pub. L. 109–37, § 2(b)(2)][/us/pl/109/37/s2/b/2], July 22, 2005, [119 Stat. 394][/us/stat/119/394]; [Pub. L. 109–40, § 2(b)(2)][/us/pl/109/40/s2/b/2], July 28, 2005, [119 Stat. 410][/us/stat/119/410]; [Pub. L. 109–59, title I, § 1114][/us/pl/109/59/s1114], Aug. 10, 2005, [119 Stat. 1172][/us/stat/119/1172]; [Pub. L. 110–244, title I, § 101(m)(1)][/us/pl/110/244/s101/m/1], June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 112–141, div. A, title I, § 1111(a)][/us/pl/112/141/s1111/a], July 6, 2012, [126 Stat. 445][/us/stat/126/445]; [Pub. L. 114–94, div. A, title I, § 1111][/us/pl/114/94/s1111], Dec. 4, 2015, [129 Stat. 1344][/us/stat/129/1344].)
 
  __References in Text__ 
 
@@ -304,6 +344,12 @@
     The date of enactment of the MAP–21, referred to in subsecs. (d)(2) and (h)(5)(A), (6), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(A). [Pub. L. 114–94, § 1111(1)][/us/pl/114/94/s1111/1], substituted “the natural condition of the water” for “the natural condition of the bridge”.
+
+    Subsecs. (j), (k). [Pub. L. 114–94, § 1111(2)][/us/pl/114/94/s1111/2], (3), added subsec. (j) and redesignated former subsec. (j) as (k).
+
+    Subsec. (k)(2). [Pub. L. 114–94, § 1111(4)][/us/pl/114/94/s1111/4], substituted “104(b)(2)” for “104(b)(3)”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to highway bridge program.
 
@@ -483,6 +529,10 @@
 
     Subsecs. (f) to (h). [Pub. L. 93–87, § 204(b)][/us/pl/93/87/s204/b], (c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -652,12 +702,17 @@
 [/us/stat/122/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1575
 [/us/pl/112/141/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1111%2Fa
 [/us/stat/126/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F445
+[/us/pl/114/94/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1111
+[/us/stat/129/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1344
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F847
 [/us/usc/t33/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs525
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1111%2F1
+[/us/pl/114/94/s1111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1111%2F2
+[/us/pl/114/94/s1111/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1111%2F4
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244/s101/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fm%2F1%2FA
 [/us/pl/110/244/s101/m/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fm%2F1%2FB
@@ -748,6 +803,9 @@
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/93/87/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs204%2Fa
 [/us/pl/93/87/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs204%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

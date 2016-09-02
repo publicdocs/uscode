@@ -81,7 +81,11 @@
 
         The Secretary may not make publicly available a program, report, or review under paragraph (2) that is directed to a State highway safety agency until after the date on which the program, report, or review is submitted to that agency under this chapter.
 
-(Added [Pub. L. 109–59, title II, § 2008(a)][/us/pl/109/59/s2008/a], Aug. 10, 2005, [119 Stat. 1533][/us/stat/119/1533]; amended [Pub. L. 112–141, div. C, title I, § 31107][/us/pl/112/141/s31107], July 6, 2012, [126 Stat. 755][/us/stat/126/755].)
+    (f)  __Tracking Process__  __.—__ 
+
+    The Secretary shall develop a process to identify and mitigate possible systemic issues across States and regional offices by reviewing oversight findings and recommended actions identified in triennial State management reviews.
+
+(Added [Pub. L. 109–59, title II, § 2008(a)][/us/pl/109/59/s2008/a], Aug. 10, 2005, [119 Stat. 1533][/us/stat/119/1533]; amended [Pub. L. 112–141, div. C, title I, § 31107][/us/pl/112/141/s31107], July 6, 2012, [126 Stat. 755][/us/stat/126/755]; [Pub. L. 114–94, div. A, title IV, § 4006][/us/pl/114/94/s4006], Dec. 4, 2015, [129 Stat. 1510][/us/stat/129/1510].)
 
  __References in Text__ 
 
@@ -89,9 +93,15 @@
 
  __Amendments__ 
 
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] added subsec. (f).
+
     2012—Subsec. (a). [Pub. L. 112–141, § 31107(1)][/us/pl/112/141/s31107/1], amended subsec. (a) generally. Prior to amendment, text read as follows: “At least once every 3 years the Secretary shall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs.”
 
     Subsec. (f). [Pub. L. 112–141, § 31107(2)][/us/pl/112/141/s31107/2], struck out subsec. (f) which related to GAO review.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -108,9 +118,15 @@
 [/us/stat/119/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1533
 [/us/pl/112/141/s31107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31107
 [/us/stat/126/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F755
+[/us/pl/114/94/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4006
+[/us/stat/129/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1510
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s31107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31107%2F1
 [/us/pl/112/141/s31107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31107%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

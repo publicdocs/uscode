@@ -17,7 +17,7 @@
 
     (a)  __Requirement__  __.—__ 
 
-    The Secretary shall establish a uniform system to service the Federal credit instruments made available under this chapter.
+    The Secretary shall establish a uniform system to service the Federal credit instruments made available under the TIFIA program.
 
     (b)  __Fees__  __.—__ 
 
@@ -47,11 +47,25 @@
 
     (e)  __Expedited Processing__  __.—__ 
 
-    The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under this chapter.
+    The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the TIFIA program.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 185; renumbered § 605 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 619][/us/stat/126/619].)
+    (f) __Assistance to Small Projects.—__ 
+
+        (1)  __Reservation of funds__  __.—__ 
+
+        Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(5), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.
+
+        (2)  __Release of funds__  __.—__ 
+
+        Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
+
+(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 185; renumbered § 605 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, [119 Stat. 1241][/us/stat/119/1241], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 619][/us/stat/126/619]; [Pub. L. 114–94, div. A, title II, § 2001(d)][/us/pl/114/94/s2001/d], Dec. 4, 2015, [129 Stat. 1443][/us/stat/129/1443].)
 
  __Amendments__ 
+
+    2015—Subsecs. (a), (e). [Pub. L. 114–94, § 2001(d)(1)][/us/pl/114/94/s2001/d/1], substituted “the TIFIA program” for “this chapter”.
+
+    Subsec. (f). [Pub. L. 114–94, § 2001(d)(2)][/us/pl/114/94/s2001/d/2], added subsec. (f).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to program administration, consisting of subsecs. (a) to (d).
 
@@ -60,6 +74,10 @@
     [Pub. L. 109–59, § 1601(f)][/us/pl/109/59/s1601/f], amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 
     Subsec. (a). [Pub. L. 109–59, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], substituted “this chapter” for “this subchapter”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -78,11 +96,18 @@
 [/us/stat/119/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1241
 [/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
 [/us/stat/126/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F619
+[/us/pl/114/94/s2001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd
+[/us/stat/129/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1443
+[/us/pl/114/94/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd%2F1
+[/us/pl/114/94/s2001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fd%2F2
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
 [/us/usc/t23/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs185
 [/us/pl/109/59/s1601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Ff
 [/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

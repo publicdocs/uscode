@@ -57,9 +57,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs105" data-uslm-ref="/us/usc/t23/s105">105.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs105" data-uslm-ref="/us/usc/t23/s105">105.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Additional deposits into Highway Trust Fund.  </td>
 
   </tr>
 
@@ -153,9 +153,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs117" data-uslm-ref="/us/usc/t23/s117">117.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs117" data-uslm-ref="/us/usc/t23/s117">117.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Nationally significant freight and highway projects.  </td>
 
   </tr>
 
@@ -283,7 +283,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs133" data-uslm-ref="/us/usc/t23/s133">133.</a>  </td>
 
-    <td> Surface transportation program.  </td>
+    <td> Surface transportation block grant program.  </td>
 
   </tr>
 
@@ -425,9 +425,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs151" data-uslm-ref="/us/usc/t23/s151">151.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs151" data-uslm-ref="/us/usc/t23/s151">151.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors.  </td>
 
   </tr>
 
@@ -555,7 +555,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs167" data-uslm-ref="/us/usc/t23/s167">167.</a>  </td>
 
-    <td> National freight program. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> National highway freight program.  </td>
 
   </tr>
 
@@ -587,9 +587,11 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, [126 Stat. 427][/us/stat/126/427], 437, 450, 468, 472, 524, 543, 545, 567, 574, 575, substituted “National Highway System” for “Federal-aid systems” in item 103, struck out items 105 “Equity bonus program”, 110 “Revenue aligned budget authority”, and 117 “High priority projects program”, substituted “National highway performance program” for “Interstate maintenance program” in item 119, struck out item 124 “Advances to States”, substituted “Transferability of Federal-aid highway funds” for “Uniform transferability of Federal-aid highway funds” in item 126, “Statewide and nonmetropolitan transportation planning” for “Statewide transportation planning” in item 135, and “National bridge and tunnel inventory and inspection standards” for “Highway bridge program” in item 144, struck out items 151 “National bridge inspection program”, 155 “Access highways to public recreation areas on certain lakes”, 157 “Safety incentive grants for use of seat belts”, and 160 “Reimbursement for segments of the Interstate System constructed without Federal assistance”, substituted “Territorial and Puerto Rico highway program” for “Puerto Rico highway program” in item 165, and added items 167 to 170.
+    2015—[Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337], 1344, 1356, 1409, 1418, substituted “Surface transportation block grant program” for “Surface transportation program” in item 133, “National highway freight program” for “National freight program” in item 167, and added items 105, 117, and 151.
 
-    [Pub. L. 112–141, div. A, title I, § 1203(b)][/us/pl/112/141/s1203/b], July 6, 2012, [126 Stat. 526][/us/stat/126/526], which directed striking out item 150 and inserting new item 150, was executed by adding item 150 to reflect the probable intent of Congress and the prior striking of item 150 by [Pub. L. 105–178][/us/pl/105/178]. See 1998 Amendment note below.
+    [Pub. L. 114–94, div. A, title I, § 1446(d)(2)(B)][/us/pl/114/94/s1446/d/2/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], amended [section 1203(b) of Pub. L. 112–141][/us/pl/112/141/s1203/b], effective July 6, 2012, as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted. See 2012 Amendment note below.
+
+    2012—[Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1203(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, [126 Stat. 427][/us/stat/126/427], 437, 450, 468, 472, 524, 526, 543, 545, 567, 574, 575, as amended by [Pub. L. 114–94, div. A, title I, § 1446(d)(2)(B)][/us/pl/114/94/s1446/d/2/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], substituted “National Highway System” for “Federal-aid systems” in item 103, struck out items 105 “Equity bonus program”, 110 “Revenue aligned budget authority”, and 117 “High priority projects program”, substituted “National highway performance program” for “Interstate maintenance program” in item 119, struck out item 124 “Advances to States”, substituted “Transferability of Federal-aid highway funds” for “Uniform transferability of Federal-aid highway funds” in item 126, “Statewide and nonmetropolitan transportation planning” for “Statewide transportation planning” in item 135, and “National bridge and tunnel inventory and inspection standards” for “Highway bridge program” in item 144, added item 150, struck out items 151 “National bridge inspection program”, 155 “Access highways to public recreation areas on certain lakes”, 157 “Safety incentive grants for use of seat belts”, and 160 “Reimbursement for segments of the Interstate System constructed without Federal assistance”, substituted “Territorial and Puerto Rico highway program” for “Puerto Rico highway program” in item 165, and added items 167 to 170.
 
     2008—[Pub. L. 110–244, title I, § 101(m)(3)(C)][/us/pl/110/244/s101/m/3/C], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576], struck out “replacement and rehabilitation” after “Highway bridge” in item 144.
 
@@ -652,11 +654,16 @@
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1337
+[/us/pl/114/94/s1446/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F2%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1203%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
-[/us/pl/112/141/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1203%2Fb
-[/us/stat/126/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F526
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s1446/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F2%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/110/244/s101/m/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fm%2F3%2FC
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
 [/us/pl/109/59/s1801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1801%2Fb

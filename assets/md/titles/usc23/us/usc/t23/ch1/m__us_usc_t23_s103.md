@@ -63,11 +63,15 @@
 
             (A)  __In general__  __.—__ 
 
-            The Secretary may make any modification, including any modification consisting of a connector to a major intermodal terminal, to the National Highway System that is proposed by a State if the Secretary determines that the modification—
+            The Secretary may make any modification to the National Highway System, including any modification consisting of a connector to a major intermodal terminal or the withdrawal of a road from that system, that is proposed by a State if the Secretary determines that the modification—
 
                 (i) meets the criteria established for the National Highway System under this title after the date of enactment of the MAP–21; and
 
-                (ii) enhances the national transportation characteristics of the National Highway System.
+                (ii)
+
+                    (I) enhances the national transportation characteristics of the National Highway System; or
+
+                    (II) in the case of the withdrawal of a road, is reasonable and appropriate.
 
             (B)  __Cooperation__  __.—__ 
 
@@ -177,7 +181,7 @@
 
             Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable, and [section 306108 of title 54][/us/usc/t54/s306108].
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 86–70, § 21(d)(1)][/us/pl/86/70/s21/d/1], June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624, § 17(b)][/us/pl/86/624/s17/b], (c), July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 8(a)][/us/pl/87/866/s8/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 90–238][/us/pl/90/238], Jan. 2, 1968, [81 Stat. 772][/us/stat/81/772]; [Pub. L. 90–495][/us/pl/90/495], §§ 14, 21, Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822], 826; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(b), 124, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1729; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, [87 Stat. 255][/us/stat/87/255], 256, 268, 274; [Pub. L. 93–643, § 125][/us/pl/93/643/s125], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 109, 110, 111(a), May 5, 1976, [90 Stat. 431][/us/stat/90/431], 433; [Pub. L. 95–599, title I, § 107(a)][/us/pl/95/599/s107/a], (b), (f)(1), Nov. 6, 1978, [92 Stat. 2694][/us/stat/92/2694], 2695; [Pub. L. 96–106][/us/pl/96/106], §§ 1, 2(a), (c), Nov. 9, 1979, [93 Stat. 796][/us/stat/93/796]; [Pub. L. 96–144, § 2][/us/pl/96/144/s2], Dec. 13, 1979, [93 Stat. 1084][/us/stat/93/1084]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, [96 Stat. 2101–2104][/us/stat/96/2101-2104]; [Pub. L. 100–17, title I, § 103(b)][/us/pl/100/17/s103/b], (f)(1), Apr. 2, 1987, [101 Stat. 136][/us/stat/101/136], 141; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1006(a), (b), (d), 1011, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1923][/us/stat/105/1923], 1925, 1935, 2088; [Pub. L. 103–272, § 5(f)(1)][/us/pl/103/272/s5/f/1], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429][/us/pl/103/429], §§ 3(1), 7(a)(4)(B), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377], 4389; [Pub. L. 104–59, title I, § 101][/us/pl/104/59/s101], title III, § 301(a), Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], 578; [Pub. L. 104–287, § 2][/us/pl/104/287/s2], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–178, title I, § 1106(b)][/us/pl/105/178/s1106/b], June 9, 1998, [112 Stat. 131][/us/stat/112/131]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1106, 1118(b)(1), title VI, §§ 6006(a)(1), 6007, Aug. 10, 2005, [119 Stat. 1166][/us/stat/119/1166], 1181, 1872, 1873; [Pub. L. 112–141, div. A, title I, § 1104(a)][/us/pl/112/141/s1104/a], July 6, 2012, [126 Stat. 422][/us/stat/126/422]; [Pub. L. 113–287, § 5(f)(1)][/us/pl/113/287/s5/f/1], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 86–70, § 21(d)(1)][/us/pl/86/70/s21/d/1], June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624, § 17(b)][/us/pl/86/624/s17/b], (c), July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 8(a)][/us/pl/87/866/s8/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 90–238][/us/pl/90/238], Jan. 2, 1968, [81 Stat. 772][/us/stat/81/772]; [Pub. L. 90–495][/us/pl/90/495], §§ 14, 21, Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822], 826; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(b), 124, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1729; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, [87 Stat. 255][/us/stat/87/255], 256, 268, 274; [Pub. L. 93–643, § 125][/us/pl/93/643/s125], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 109, 110, 111(a), May 5, 1976, [90 Stat. 431][/us/stat/90/431], 433; [Pub. L. 95–599, title I, § 107(a)][/us/pl/95/599/s107/a], (b), (f)(1), Nov. 6, 1978, [92 Stat. 2694][/us/stat/92/2694], 2695; [Pub. L. 96–106][/us/pl/96/106], §§ 1, 2(a), (c), Nov. 9, 1979, [93 Stat. 796][/us/stat/93/796]; [Pub. L. 96–144, § 2][/us/pl/96/144/s2], Dec. 13, 1979, [93 Stat. 1084][/us/stat/93/1084]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, [96 Stat. 2101–2104][/us/stat/96/2101-2104]; [Pub. L. 100–17, title I, § 103(b)][/us/pl/100/17/s103/b], (f)(1), Apr. 2, 1987, [101 Stat. 136][/us/stat/101/136], 141; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1006(a), (b), (d), 1011, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1923][/us/stat/105/1923], 1925, 1935, 2088; [Pub. L. 103–272, § 5(f)(1)][/us/pl/103/272/s5/f/1], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429][/us/pl/103/429], §§ 3(1), 7(a)(4)(B), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377], 4389; [Pub. L. 104–59, title I, § 101][/us/pl/104/59/s101], title III, § 301(a), Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], 578; [Pub. L. 104–287, § 2][/us/pl/104/287/s2], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–178, title I, § 1106(b)][/us/pl/105/178/s1106/b], June 9, 1998, [112 Stat. 131][/us/stat/112/131]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1106, 1118(b)(1), title VI, §§ 6006(a)(1), 6007, Aug. 10, 2005, [119 Stat. 1166][/us/stat/119/1166], 1181, 1872, 1873; [Pub. L. 112–141, div. A, title I, § 1104(a)][/us/pl/112/141/s1104/a], July 6, 2012, [126 Stat. 422][/us/stat/126/422]; [Pub. L. 113–287, § 5(f)(1)][/us/pl/113/287/s5/f/1], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268]; [Pub. L. 114–94, div. A, title I, § 1122(e)][/us/pl/114/94/s1122/e], Dec. 4, 2015, [129 Stat. 1369][/us/stat/129/1369].)
 
  __References in Text__ 
 
@@ -188,6 +192,10 @@
     Another [section 1106(b) of Pub. L. 105–178][/us/pl/105/178/s1106/b] is set out as a note below.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(A). [Pub. L. 114–94, § 1122(e)(1)][/us/pl/114/94/s1122/e/1], in introductory provisions, struck out “, including any modification consisting of a connector to a major intermodal terminal,” after “any modification” and inserted “, including any modification consisting of a connector to a major intermodal terminal or the withdrawal of a road from that system,” after “the National Highway System”.
+
+    Subsec. (b)(3)(A)(ii). [Pub. L. 114–94, § 1122(e)(2)][/us/pl/114/94/s1122/e/2], designated existing provisions as subcl. (I), substituted “; or” for period at end of subcl. (I), and added subcl. (II).
 
     2014—Subsec. (c)(5)(B)(i). [Pub. L. 113–287, § 5(f)(1)(A)][/us/pl/113/287/s5/f/1/A], substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])”.
 
@@ -351,6 +359,10 @@
 
     Subsec. (g). [Pub. L. 86–624, § 17(b)][/us/pl/86/624/s17/b], repealed subsec. (g) which provided that the systems of highways on which funds apportioned to the Territory of Hawaii under this chapter shall be expended may be determined and agreed upon by the Governor of said Territory and the Secretary.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -390,6 +402,46 @@
  __Effective Date of 1959 Amendment__ 
 
     [Pub. L. 86–70, § 21(d)][/us/pl/86/70/s21/d], June 25, 1959, [73 Stat. 145][/us/stat/73/145], provided that the repeal of subsec. (f) of this section, sections 116(d), 119, and 120(h) of this title, and sections 321a to 321d and 322 to 325 of Title 48, Territories and Insular Possessions, is effective July 1, 1959.
+
+ __State Flexibility for National Highway System Modifications__ 
+
+[Pub. L. 114–94, div. A, title I, § 1122(a)][/us/pl/114/94/s1122/a]–(d), Dec. 4, 2015, [129 Stat. 1368][/us/stat/129/1368], 1369, provided that:
+
+>     “(a)  __National Highway System Flexibility__  __.—__ 
+
+>     Not later than 90 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall issue guidance relating to working with State departments of transportation that request assistance from the division offices of the Federal Highway Administration—
+
+>         “(1) to review roads classified as principal arterials in the State that were added to the National Highway System as of October 1, 2012, so as to comply with [section 103 of title 23][/us/usc/t23/s103], United States Code; and
+
+>         “(2) to identify any necessary functional classification changes to rural and urban principal arterials.
+
+>     “(b)  __Administrative Actions__  __.—__ 
+
+>     The Secretary shall direct the division offices of the Federal Highway Administration to work with the applicable State department of transportation that requests assistance under this section—
+
+>         “(1) to assist in the review of roads in accordance with guidance issued under subsection (a);
+
+>         “(2) to expeditiously review and facilitate requests from States to reclassify roads classified as principal arterials; and
+
+>         “(3) in the case of a State that requests the withdrawal of reclassified roads from the National Highway System under [section 103(b)(3) of title 23][/us/usc/t23/s103/b/3], United States Code, to carry out that withdrawal if the inclusion of the reclassified road in the National Highway System is not consistent with the needs and priorities of the community or region in which the reclassified road is located.
+
+>     “(c)  __National Highway System Modification Regulations__  __.—__ 
+
+>     The Secretary shall—
+
+>         “(1) review the National Highway System modification process described in appendix D of part 470 of title 23, Code of Federal Regulations (or successor regulations); and
+
+>         “(2) take any action necessary to ensure that a State may submit to the Secretary a request to modify the National Highway System by withdrawing a road from the National Highway System.
+
+>     “(d)  __Report to Congress__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes a description of—
+
+>         “(1) each request for reclassification of National Highway System roads;
+
+>         “(2) the status of each request; and
+
+>         “(3) if applicable, the justification for the denial by the Secretary of a request.”
 
  __Real-time System Management Information Program__ 
 
@@ -580,9 +632,13 @@
 [/us/stat/126/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F422
 [/us/pl/113/287/s5/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F1
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
+[/us/pl/114/94/s1122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1122%2Fe
+[/us/stat/129/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1369
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/105/178/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1106%2Fb
+[/us/pl/114/94/s1122/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1122%2Fe%2F1
+[/us/pl/114/94/s1122/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1122%2Fe%2F2
 [/us/pl/113/287/s5/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F1%2FA
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
@@ -678,6 +734,9 @@
 [/us/pl/86/624/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs17%2Fc
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/624/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs17%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -703,6 +762,10 @@
 [/us/stat/76/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1147
 [/us/pl/86/70/s21/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd
 [/us/stat/73/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F145
+[/us/pl/114/94/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1122%2Fa
+[/us/stat/129/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1368
+[/us/usc/t23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103
+[/us/usc/t23/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs103%2Fb%2F3
 [/us/pl/109/59/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1201
 [/us/stat/119/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1196
 [/us/pl/109/59/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1306

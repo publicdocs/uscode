@@ -17,7 +17,7 @@
 
     (a)  __Definitions__  __.—__ 
 
-    In this chapter, the following definitions apply:
+    The following definitions apply to sections 601 through 609:
 
         (1)  __Contingent commitment__  __.—__ 
 
@@ -33,13 +33,15 @@
 
             (A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-            (B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+            (B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment;
 
-            (C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
+            (C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction; and
+
+            (D) capitalizing a rural projects fund.
 
         (3)  __Federal credit instrument__  __.—__ 
 
-        The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under this chapter with respect to a project.
+        The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under the TIFIA program with respect to a project.
 
         (4)  __Investment-grade rating__  __.—__ 
 
@@ -87,9 +89,15 @@
 
         (10)  __Master credit agreement__  __.—__ 
 
-        The term “master credit agreement” means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—
+        The term “master credit agreement” means a conditional agreement to extend credit assistance for a program of related projects secured by a common security pledge covered under section 602(b)(2)(A) or for a single project covered under section 602(b)(2)(B) that does not provide for a current obligation of Federal funds, and that would—
 
-            (A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to the availability of future funds being made available to carry out this chapter;
+            (A)
+
+             make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to—
+
+                (i) the availability of future funds being made available to carry out the TIFIA program; and
+
+                (ii) the satisfaction of all of the conditions for the provision of credit assistance under the TIFIA program, including section 603(b)(1);
 
             (B) establish the maximum amounts and general terms and conditions of the secured loans or other Federal credit instruments;
 
@@ -101,9 +109,11 @@
 
                 (i) completion of an environmental impact statement or similar analysis required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.);
 
-                (ii) compliance with such other requirements as are specified in section 602(c); and
+                (ii) receiving an investment grade rating from a rating agency;
 
-                (iii) the availability of funds to carry out this chapter; and
+                (iii) compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
+
+                (iv) the availability of funds to carry out the TIFIA program; and
 
             (E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
 
@@ -123,7 +133,7 @@
 
             (B) a project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible;
 
-            (C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems; and
+            (C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems;
 
             (D)
 
@@ -147,7 +157,11 @@
 
                 (iii) if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and
 
-                (iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge.
+                (iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;
+
+            (E) a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in [section 5302(3)(G)(v) of title 49][/us/usc/t49/s5302/3/G/v], and related infrastructure; and
+
+            (F) the capitalization of a rural projects fund.
 
         (13)  __Project obligation__  __.—__ 
 
@@ -159,17 +173,31 @@
 
         (15)  __Rural infrastructure project__  __.—__ 
 
-        The term “rural infrastructure project” means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.
+        The term “rural infrastructure project” means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.
 
-        (16)  __Secured loan__  __.—__ 
+        (16)  __Rural projects fund__  __.—__ 
+
+        The term “rural projects fund” means a fund—
+
+            (A) established by a State infrastructure bank in accordance with section 610(d)(4);
+
+            (B) capitalized with the proceeds of a secured loan made to the bank in accordance with sections 602 and 603; and
+
+            (C) for the purpose of making loans to sponsors of rural infrastructure projects in accordance with section 610.
+
+        (17)  __Secured loan__  __.—__ 
 
         The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
 
-        (17)  __State__  __.—__ 
+        (18)  __State__  __.—__ 
 
         The term “State” has the meaning given the term in section 101.
 
-        (18)  __Subsidy amount__  __.—__ 
+        (19)  __State infrastructure bank__  __.—__ 
+
+        The term “State infrastructure bank” means an infrastructure bank established under section 610.
+
+        (20)  __Subsidy amount__  __.—__ 
 
         The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
 
@@ -177,7 +205,7 @@
 
             (B) excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 ([2 U.S.C. 661][/us/usc/t2/s661] et seq.).
 
-        (19)  __Substantial completion__  __.—__ 
+        (21)  __Substantial completion__  __.—__ 
 
         The term “substantial completion” means—
 
@@ -185,15 +213,15 @@
 
             (B) a comparable event, as determined by the Secretary and specified in the credit agreement.
 
-        (20)  __TIFIA program__  __.—__ 
+        (22)  __TIFIA program__  __.—__ 
 
-        The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department.
+        The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department established under sections 602 through 609.
 
     (b)  __Treatment of Chapter__  __.—__ 
 
     For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 241][/us/stat/112/241], § 181; renumbered § 601 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, [119 Stat. 1239][/us/stat/119/1239], 1246, 1247; [Pub. L. 109–291, § 4(b)(6)][/us/pl/109/291/s4/b/6], Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338]; [Pub. L. 110–244, title I, § 101(r)][/us/pl/110/244/s101/r], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 607][/us/stat/126/607].)
+(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 241][/us/stat/112/241], § 181; renumbered § 601 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, [119 Stat. 1239][/us/stat/119/1239], 1246, 1247; [Pub. L. 109–291, § 4(b)(6)][/us/pl/109/291/s4/b/6], Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338]; [Pub. L. 110–244, title I, § 101(r)][/us/pl/110/244/s101/r], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 607][/us/stat/126/607]; [Pub. L. 114–94, div. A, title II, § 2001(a)][/us/pl/114/94/s2001/a], Dec. 4, 2015, [129 Stat. 1439][/us/stat/129/1439].)
 
  __References in Text__ 
 
@@ -203,9 +231,31 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(18)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94, § 2001(a)(1)][/us/pl/114/94/s2001/a/1], in introductory provisions, substituted “The” for “In this chapter, the” and inserted “to sections 601 through 609” after “apply”.
+
+    Subsec. (a)(2)(D). [Pub. L. 114–94, § 2001(a)(2)][/us/pl/114/94/s2001/a/2], added subpar. (D).
+
+    Subsec. (a)(3). [Pub. L. 114–94, § 2001(a)(3)][/us/pl/114/94/s2001/a/3], substituted “the TIFIA program” for “this chapter”.
+
+    Subsec. (a)(10). [Pub. L. 114–94, § 2001(a)(4)(A)][/us/pl/114/94/s2001/a/4/A], added heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
+
+    Subsec. (a)(10)(A). [Pub. L. 114–94, § 2001(a)(4)(B)][/us/pl/114/94/s2001/a/4/B], substituted “subject to—” for “subject to the availability of future funds being made available to carry out this chapter;” and added cls. (i) and (ii).
+
+    Subsec. (a)(10)(D)(ii). [Pub. L. 114–94, § 2001(a)(4)(C)(ii)][/us/pl/114/94/s2001/a/4/C/ii], added cl. (ii). Former cl. (ii) redesignated (iii).
+
+    Subsec. (a)(10)(D)(iii). [Pub. L. 114–94, § 2001(a)(4)(C)(i)][/us/pl/114/94/s2001/a/4/C/i], (iii), redesignated cl. (ii) as (iii) and substituted “under the TIFIA program, including sections 602(c) and 603(b)(1)” for “in section 602(c)”. Former cl. (iii) redesignated (iv).
+
+    Subsec. (a)(10)(D)(iv). [Pub. L. 114–94, § 2001(a)(4)(C)(i)][/us/pl/114/94/s2001/a/4/C/i], (iv), redesignated cl. (iii) as (iv) and substituted “the TIFIA program” for “this chapter”.
+
+    Subsec. (a)(12)(E), (F). [Pub. L. 114–94, § 2001(a)(5)][/us/pl/114/94/s2001/a/5], added subpars. (E) and (F).
+
+    Subsec. (a)(15). [Pub. L. 114–94, § 2001(a)(6)][/us/pl/114/94/s2001/a/6], substituted “means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.” for “means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.”
+
+    Subsec. (a)(16) to (22). [Pub. L. 114–94, § 2001(a)(7)][/us/pl/114/94/s2001/a/7]–(10), added pars. (16) and (19), redesignated former pars. (16), (17), (18), (19), and (20) as pars. (17), (18), (20), (21), and (22), respectively, and inserted “established under sections 602 through 609” after “Department” in par. (22).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to generally applicable provisions.
 
@@ -233,9 +283,69 @@
 
     Pars. (11) to (15). [Pub. L. 109–59, § 1601(a)(2)][/us/pl/109/59/s1601/a/2], redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
+
+ __Regional Infrastructure Accelerator Demonstration Program__ 
+
+[Pub. L. 114–94, div. A, title I, § 1441][/us/pl/114/94/s1441], Dec. 4, 2015, [129 Stat. 1435][/us/stat/129/1435], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall establish a regional infrastructure demonstration program (referred to in this section as the ‘program’) to assist entities in developing improved infrastructure priorities and financing strategies for the accelerated development of a project that is eligible for funding under the TIFIA program under chapter 6 of title 23, United States Code.
+
+>     “(b)  __Designation of Regional Infrastructure Accelerators__  __.—__ 
+
+>     In carrying out the program, the Secretary may designate regional infrastructure accelerators that will—
+
+>         “(1) serve a defined geographic area; and
+
+>         “(2) act as a resource in the geographic area to qualified entities in accordance with this section.
+
+>     “(c)  __Application__  __.—__ 
+
+>     To be eligible for a designation under subsection (b), a proposed regional infrastructure accelerator shall submit to the Secretary \[of Transportation\] a proposal at such time, in such manner, and containing such information as the Secretary may require.
+
+>     “(d)  __Criteria__  __.—__ 
+
+>     In evaluating a proposal submitted under subsection (c), the Secretary shall consider—
+
+>         “(1) the need for geographic diversity among regional infrastructure accelerators; and
+
+>         “(2)
+
+>          the ability of the proposal to promote investment in covered infrastructure projects, which shall include a plan—
+
+>             “(A) to evaluate and promote innovative financing methods for local projects, including the use of the TIFIA program under chapter 6 of title 23, United States Code;
+
+>             “(B) to build capacity of State, local, and tribal governments to evaluate and structure projects involving the investment of private capital;
+
+>             “(C) to provide technical assistance and information on best practices with respect to financing the projects;
+
+>             “(D) to increase transparency with respect to infrastructure project analysis and using innovative financing for public infrastructure projects;
+
+>             “(E) to deploy predevelopment capital programs designed to facilitate the creation of a pipeline of infrastructure projects available for investment;
+
+>             “(F) to bundle smaller-scale and rural projects into larger proposals that may be more attractive for investment; and
+
+>             “(G) to reduce transaction costs for public project sponsors.
+
+>     “(e)  __Annual Report__  __.—__ 
+
+>     Not less frequently than once each year, the Secretary \[of Transportation\] shall submit to Congress a report that describes the findings and effectiveness of the program.
+
+>     “(f)  __Authorization of Appropriations__  __.—__ 
+
+>     There is authorized to be appropriated to carry out the program $12,000,000, of which the Secretary shall use—
+
+>         “(1) $11,750,000 for initial grants to regional infrastructure accelerators under subsection (b); and
+
+>         “(2) $250,000 for administrative costs of carrying out the program.”
 
  __Congressional Findings__ 
 
@@ -598,6 +708,7 @@
 
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t49/s5302/3/G/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302%2F3%2FG%2Fv
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/pl/105/178/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1503%2Fa
@@ -610,6 +721,8 @@
 [/us/stat/122/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1577
 [/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
 [/us/stat/126/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F607
+[/us/pl/114/94/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa
+[/us/stat/129/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1439
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
@@ -620,6 +733,17 @@
 [/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
+[/us/pl/114/94/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F1
+[/us/pl/114/94/s2001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F2
+[/us/pl/114/94/s2001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F3
+[/us/pl/114/94/s2001/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F4%2FA
+[/us/pl/114/94/s2001/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F4%2FB
+[/us/pl/114/94/s2001/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F4%2FC%2Fii
+[/us/pl/114/94/s2001/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F4%2FC%2Fi
+[/us/pl/114/94/s2001/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F4%2FC%2Fi
+[/us/pl/114/94/s2001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F5
+[/us/pl/114/94/s2001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F6
+[/us/pl/114/94/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fa%2F7
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
@@ -634,9 +758,14 @@
 [/us/pl/109/59/s1601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fa%2F2
 [/us/pl/109/59/s1601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fa%2F2
 [/us/pl/109/59/s1601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1441
+[/us/stat/129/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1435
 [/us/pl/105/178/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1502
 [/us/stat/112/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F241
 [/us/pl/105/178/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1511

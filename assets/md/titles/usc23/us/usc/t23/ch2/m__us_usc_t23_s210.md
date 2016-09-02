@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s207.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
 
 ## § 210. Defense access roads
 
@@ -81,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s206.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
+[Previous](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s207.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_s211.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210)
 
 ----------
 ----------

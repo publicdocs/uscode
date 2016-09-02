@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s518.md) | [Next](./../../../..//us/usc/t23/ch6/m__us_usc_t23_s601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch6)
+[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s519.md) | [Next](./../../../..//us/usc/t23/ch6/m__us_usc_t23_s601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch6)
 
 ## CHAPTER 6—INFRASTRUCTURE FINANCE
 
@@ -111,7 +111,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s518.md) | [Next](./../../../..//us/usc/t23/ch6/m__us_usc_t23_s601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch6)
+[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s519.md) | [Next](./../../../..//us/usc/t23/ch6/m__us_usc_t23_s601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch6)
 
 ----------
 ----------

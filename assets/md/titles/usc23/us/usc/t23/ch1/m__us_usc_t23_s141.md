@@ -21,13 +21,13 @@
 
         (1) Each State shall submit to the Secretary such information as the Secretary shall, by regulation, require as necessary, in his opinion, to verify the certification of such State under subsection (b) of this section.
 
-        (2) If a State fails to certify as required by subsection (b) of this section or if the Secretary determines that a State is not adequately enforcing all State laws respecting such maximum vehicle size and weights, notwithstanding such a certification, then Federal-aid highway funds apportioned to such State for such fiscal year shall be reduced by amounts equal to 7 percent of the amount which would otherwise be apportioned to such State under paragraphs (1) through (5) of section 104(b).
+        (2) If a State fails to certify as required by subsection (b) of this section or if the Secretary determines that a State is not adequately enforcing all State laws respecting such maximum vehicle size and weights, notwithstanding such a certification, then Federal-aid highway funds apportioned to such State for such fiscal year shall be reduced by amounts equal to 7 percent of the amount which would otherwise be apportioned to such State under paragraphs (1) through (6) of section 104(b).
 
         (3) If within one year from the date that the apportionment for any State is reduced in accordance with paragraph (2) of this subsection the Secretary determines that such State is enforcing all State laws respecting maximum size and weights, the apportionment of such State shall be increased by an amount equal to such reduction. If the Secretary does not make such a determination within such one-year period, the amounts so withheld shall be reapportioned to all other eligible States.
 
     (c) The Secretary shall reduce the State’s apportionment of Federal-aid highway funds under section 104(b)(1) in an amount up to 8 percent of the amount to be apportioned in any fiscal year beginning after September 30, 1984, during which heavy vehicles, subject to the use tax imposed by section 4481 of the Internal Revenue Code of 1986, may be lawfully registered in the State without having presented proof of payment, in such form as may be prescribed by the Secretary of the Treasury, of the use tax imposed by section 4481 of such Code. Amounts withheld from apportionment to a State under this subsection shall be apportioned to the other States pursuant to the formulas of section 104(b)(1) and shall be available in the same manner and to the same extent as other Interstate funds apportioned at the same time to other States.
 
-(Added [Pub. L. 93–643, § 107(a)][/us/pl/93/643/s107/a], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; amended [Pub. L. 95–599, title I, § 123(d)][/us/pl/95/599/s123/d], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 97–424, title I, § 143][/us/pl/97/424/s143], Jan. 6, 1983, [96 Stat. 2129][/us/stat/96/2129]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–240, title I, § 1023(c)][/us/pl/102/240/s1023/c], Dec. 18, 1991, [105 Stat. 1954][/us/stat/105/1954]; [Pub. L. 103–429, § 3(7)][/us/pl/103/429/s3/7], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–59, title II, § 205(d)(1)(A)][/us/pl/104/59/s205/d/1/A], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(C), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I, § 1404(c)][/us/pl/112/141/s1404/c], (d), July 6, 2012, [126 Stat. 558][/us/stat/126/558].)
+(Added [Pub. L. 93–643, § 107(a)][/us/pl/93/643/s107/a], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; amended [Pub. L. 95–599, title I, § 123(d)][/us/pl/95/599/s123/d], Nov. 6, 1978, [92 Stat. 2702][/us/stat/92/2702]; [Pub. L. 97–424, title I, § 143][/us/pl/97/424/s143], Jan. 6, 1983, [96 Stat. 2129][/us/stat/96/2129]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–240, title I, § 1023(c)][/us/pl/102/240/s1023/c], Dec. 18, 1991, [105 Stat. 1954][/us/stat/105/1954]; [Pub. L. 103–429, § 3(7)][/us/pl/103/429/s3/7], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–59, title II, § 205(d)(1)(A)][/us/pl/104/59/s205/d/1/A], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(C), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I, § 1404(c)][/us/pl/112/141/s1404/c], (d), July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I, § 1104(e)(5)][/us/pl/114/94/s1104/e/5], Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332].)
 
  __References in Text__ 
 
@@ -38,6 +38,8 @@
     A prior section 141, [Pub. L. 90–495, § 35(a)][/us/pl/90/495/s35/a], Aug. 23, 1968, [82 Stat. 836][/us/stat/82/836], related to real property acquisition policies, prior to repeal by [Pub. L. 91–646, title III, § 306][/us/pl/91/646/s306], Jan. 2, 1971, [84 Stat. 1907][/us/stat/84/1907], such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94] substituted “paragraphs (1) through (6) of section 104(b)” for “paragraphs (1) through (5) of section 104(b)”.
 
     2012—Subsec. (b)(2). [Pub. L. 112–141, § 1404(c)][/us/pl/112/141/s1404/c], substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “[section 104 of this title][/us/usc/t23/s104]”.
 
@@ -56,6 +58,10 @@
     1983—Subsec. (d). [Pub. L. 97–424][/us/pl/97/424] added subsec. (d).
 
     1978—[Pub. L. 95–599][/us/pl/95/599] designated existing provisions as subsecs. (a) and (b) and added subsec. (c).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -119,11 +125,14 @@
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
 [/us/pl/112/141/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fc
 [/us/stat/126/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F558
+[/us/pl/114/94/s1104/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F5
+[/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
 [/us/usc/t26/s4481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4481
 [/us/pl/90/495/s35/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs35%2Fa
 [/us/stat/82/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F836
 [/us/pl/91/646/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs306
 [/us/stat/84/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1907
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fc
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/112/141/s1404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fd
@@ -139,6 +148,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

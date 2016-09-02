@@ -91,11 +91,13 @@
 
     (e)  __Justification Reports__  __.—__ 
 
-    If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System, the Secretary may permit a State transportation department to approve the report.
+    If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System (including new or modified freeway-to-crossroad interchanges inside a transportation management area), the Secretary may permit a State transportation department to approve the report.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 87–61, title I, § 104(a)][/us/pl/87/61/s104/a], June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 95–599, title I, § 114][/us/pl/95/599/s114], Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 100–17, title I, § 110(a)][/us/pl/100/17/s110/a], Apr. 2, 1987, [101 Stat. 146][/us/stat/101/146]; [Pub. L. 104–59, title III, § 306][/us/pl/104/59/s306], Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1412][/us/pl/109/59/s1412], Aug. 10, 2005, [119 Stat. 1234][/us/stat/119/1234]; [Pub. L. 110–244, title I, § 104][/us/pl/110/244/s104], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1505, 1539(a), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 587.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 895][/us/stat/72/895]; [Pub. L. 87–61, title I, § 104(a)][/us/pl/87/61/s104/a], June 29, 1961, [75 Stat. 122][/us/stat/75/122]; [Pub. L. 95–599, title I, § 114][/us/pl/95/599/s114], Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 100–17, title I, § 110(a)][/us/pl/100/17/s110/a], Apr. 2, 1987, [101 Stat. 146][/us/stat/101/146]; [Pub. L. 104–59, title III, § 306][/us/pl/104/59/s306], Nov. 28, 1995, [109 Stat. 580][/us/stat/109/580]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1412][/us/pl/109/59/s1412], Aug. 10, 2005, [119 Stat. 1234][/us/stat/119/1234]; [Pub. L. 110–244, title I, § 104][/us/pl/110/244/s104], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1505, 1539(a), July 6, 2012, [126 Stat. 564][/us/stat/126/564], 587; [Pub. L. 114–94, div. A, title I, § 1405][/us/pl/114/94/s1405], Dec. 4, 2015, [129 Stat. 1410][/us/stat/129/1410].)
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–94][/us/pl/114/94] inserted “(including new or modified freeway-to-crossroad interchanges inside a transportation management area)” after “the Interstate System”.
 
     2012—Subsec. (a). [Pub. L. 112–141, § 1539(a)(1)][/us/pl/112/141/s1539/a/1], inserted “and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment” before period at end of second sentence.
 
@@ -116,6 +118,10 @@
     1978—[Pub. L. 95–599][/us/pl/95/599] inserted provision listing situations which would not require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users.
 
     1961—[Pub. L. 87–61][/us/pl/87/61] substituted “to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere” for “to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -202,6 +208,9 @@
 [/us/stat/122/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1578
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F564
+[/us/pl/114/94/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1405
+[/us/stat/129/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1410
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s1539/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fa%2F1
 [/us/pl/112/141/s1539/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fa%2F2
 [/us/pl/112/141/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1505
@@ -212,6 +221,9 @@
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

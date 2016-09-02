@@ -81,7 +81,7 @@
 
         (4)  __Set-aside; federal share__  __.—__ 
 
-        Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+        Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(2) for the surface transportation block grant program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
         (5) __Federal responsibility.—__ 
 
@@ -355,7 +355,7 @@
 
         (6)  __Use of funds__  __.—__ 
 
-        Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+        Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
     (h)  __Centers for Surface Transportation Excellence__  __.—__ 
 
@@ -391,17 +391,15 @@
 
                     (II) how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
 
-(Added [Pub. L. 105–178, title V, § 5104][/us/pl/105/178/s5104], June 9, 1998, [112 Stat. 429][/us/stat/112/429]; amended [Pub. L. 109–59, title V, § 5204(a)(1)][/us/pl/109/59/s5204/a/1], (b), (d)(1), (e), (h)(1), Aug. 10, 2005, [119 Stat. 1790][/us/stat/119/1790], 1792–1794; [Pub. L. 112–141, div. E, title II, § 52004][/us/pl/112/141/s52004], July 6, 2012, [126 Stat. 880][/us/stat/126/880].)
-
- __References in Text__ 
-
-    Section 104(b)(3), referred to in subsec. (a)(4), means section 104(b)(3) prior to the general amendment of section 104 by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+(Added [Pub. L. 105–178, title V, § 5104][/us/pl/105/178/s5104], June 9, 1998, [112 Stat. 429][/us/stat/112/429]; amended [Pub. L. 109–59, title V, § 5204(a)(1)][/us/pl/109/59/s5204/a/1], (b), (d)(1), (e), (h)(1), Aug. 10, 2005, [119 Stat. 1790][/us/stat/119/1790], 1792–1794; [Pub. L. 112–141, div. E, title II, § 52004][/us/pl/112/141/s52004], July 6, 2012, [126 Stat. 880][/us/stat/126/880]; [Pub. L. 114–94, div. A, title I, § 1109(c)(4)][/us/pl/114/94/s1109/c/4], Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343].)
 
  __Prior Provisions__ 
 
     A prior section 504, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 831][/us/stat/82/831], related to Federal reimbursement for highway relocation assistance, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–94][/us/pl/114/94] substituted “104(b)(2)” for “104(b)(3)” and “surface transportation block grant program” for “surface transportation program”.
 
     2012—Subsec. (a)(2)(A). [Pub. L. 112–141, § 52004(1)(A)][/us/pl/112/141/s52004/1/A], inserted “and the employees of any other applicable Federal agency” before the semicolon at end.
 
@@ -432,6 +430,10 @@
     Subsecs. (e), (f). [Pub. L. 109–59, § 5204(e)][/us/pl/109/59/s5204/e], added subsecs. (e) and (f).
 
     Subsec. (g). [Pub. L. 109–59, § 5204(h)(1)][/us/pl/109/59/s5204/h/1], added subsec. (g).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -507,12 +509,13 @@
 [/us/stat/119/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1790
 [/us/pl/112/141/s52004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52004
 [/us/stat/126/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F880
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
-[/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
+[/us/pl/114/94/s1109/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F4
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
 [/us/stat/82/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F831
 [/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s52004/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52004%2F1%2FA
 [/us/pl/112/141/s52004/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52004%2F1%2FB
 [/us/pl/112/141/s52004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52004%2F2
@@ -528,6 +531,9 @@
 [/us/pl/109/59/s5204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5204%2Fd%2F1
 [/us/pl/109/59/s5204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5204%2Fe
 [/us/pl/109/59/s5204/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5204%2Fh%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

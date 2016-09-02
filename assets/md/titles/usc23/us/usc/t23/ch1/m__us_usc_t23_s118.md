@@ -43,11 +43,11 @@
 
     (d) Funds made available to the State of Alaska and the Commonwealth of Puerto Rico under this title may be expended for construction of access and development roads that will serve resource development, recreational, residential, commercial, industrial, or other like purposes.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 897][/us/stat/72/897]; [Pub. L. 89–574, § 7(a)][/us/pl/89/574/s7/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 94–280, title I, § 117(a)][/us/pl/94/280/s117/a], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 95–599, title I, § 115(a)][/us/pl/95/599/s115/a], Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 96–106, § 5(a)][/us/pl/96/106/s5/a], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I, § 115][/us/pl/97/424/s115], Jan. 6, 1983, [96 Stat. 2107][/us/stat/96/2107]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, [101 Stat. 150–153][/us/stat/101/150-153]; [Pub. L. 102–240, title I, § 1020][/us/pl/102/240/s1020], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 102–388, title IV, § 409][/us/pl/102/388/s409], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 137; [Pub. L. 105–206, title IX, § 9003(a)][/us/pl/105/206/s9003/a], July 22, 1998, [112 Stat. 837][/us/stat/112/837]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1111(a), 1501(b), Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1235; [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(B)][/us/pl/112/141/s1519/b/1/B], (c)(5), July 6, 2012, [126 Stat. 575][/us/stat/126/575].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 897][/us/stat/72/897]; [Pub. L. 89–574, § 7(a)][/us/pl/89/574/s7/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 94–280, title I, § 117(a)][/us/pl/94/280/s117/a], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 95–599, title I, § 115(a)][/us/pl/95/599/s115/a], Nov. 6, 1978, [92 Stat. 2697][/us/stat/92/2697]; [Pub. L. 96–106, § 5(a)][/us/pl/96/106/s5/a], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 97–424, title I, § 115][/us/pl/97/424/s115], Jan. 6, 1983, [96 Stat. 2107][/us/stat/96/2107]; [Pub. L. 100–17, title I][/us/pl/100/17], §§ 114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, [101 Stat. 150–153][/us/stat/101/150-153]; [Pub. L. 102–240, title I, § 1020][/us/pl/102/240/s1020], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 102–388, title IV, § 409][/us/pl/102/388/s409], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 137; [Pub. L. 105–206, title IX, § 9003(a)][/us/pl/105/206/s9003/a], July 22, 1998, [112 Stat. 837][/us/stat/112/837]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1111(a), 1501(b), Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], 1235; [Pub. L. 112–141, div. A, title I, § 1519(b)(1)(B)][/us/pl/112/141/s1519/b/1/B], (c)(4), formerly (c)(5), July 6, 2012, [126 Stat. 575][/us/stat/126/575], renumbered § 1519(c)(4), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 1519(c)(5)][/us/pl/112/141/s1519/c/5], designated par. (2) as subsec. (b), struck out “(other than for Interstate construction)” after “this title”, and struck out former par. (1) relating to interstate construction funds and heading of former par. (2) which read “Other funds”.
+    2012—Subsec. (b). [Pub. L. 112–141, § 1519(c)(4)][/us/pl/112/141/s1519/c/4], formerly § 1519(c)(5), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], designated par. (2) as subsec. (b), struck out “(other than for Interstate construction)” after “this title”, and struck out former par. (1) relating to interstate construction funds and heading of former par. (2) which read “Other funds”.
 
     Subsecs. (c) to (e). [Pub. L. 112–141, § 1519(b)(1)(B)][/us/pl/112/141/s1519/b/1/B], redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to set asides for interstate discretionary projects.
 
@@ -108,6 +108,10 @@
     1976—Subsec. (b). [Pub. L. 94–280][/us/pl/94/280], in revising text, provided for a separate three year period of availability of sums apportioned to a Federal-aid system (other than the Interstate System), increased from the previously applicable two year period; continued the existing two year period for sums apportioned to the Interstate System; substituted provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4)(A), under [section 104(b)(5)(A) of this title][/us/usc/t23/s104/b/5/A] and for lapse of sums apportioned to the Interstate System under [section 104(b)(4)(B) of this title][/us/usc/t23/s104/b/4/B] for prior provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4) and (5), under [section 104(b)(5) of this title][/us/usc/t23/s104/b/5]; and substituted provisions deeming there to be an expenditure of sums apportioned to a Federal-aid system if a sum equal to the total of the sums apportioned to the State for the fiscal year and previous fiscal years is obligated for prior provision deeming an expenditure to exist if a sum equal to the total of the sums apportioned to the States for the fiscal year and previous fiscal years is covered by formal project agreements providing for the expenditure of funds authorized by each Act which contains provisions authorizing the appropriation of funds for Federal-aid highways.
 
     1966—Subsec. (d). [Pub. L. 89–574][/us/pl/89/574] added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -268,7 +272,10 @@
 [/us/stat/119/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1171
 [/us/pl/112/141/s1519/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FB
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
-[/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141/s1519/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F4
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/112/141/s1519/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fb%2F1%2FB
 [/us/pl/109/59/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1111%2Fa
 [/us/pl/109/59/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1501%2Fb
@@ -310,6 +317,9 @@
 [/us/usc/t23/s104/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F4%2FB
 [/us/usc/t23/s104/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5
 [/us/pl/89/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

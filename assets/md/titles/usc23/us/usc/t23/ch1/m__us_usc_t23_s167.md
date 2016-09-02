@@ -13,183 +13,381 @@
 
 [Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s166.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s168.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs167)
 
-## § 167. National freight policy
+## § 167. National highway freight program
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
-    It is the policy of the United States to improve the condition and performance of the national freight network to ensure that the national freight network provides the foundation for the United States to compete in the global economy and achieve each goal described in subsection (b).
+        (1)  __Policy__  __.—__ 
+
+        It is the policy of the United States to improve the condition and performance of the National Highway Freight Network established under this section to ensure that the Network provides the foundation for the United States to compete in the global economy and achieve the goals described in subsection (b).
+
+        (2)  __Establishment__  __.—__ 
+
+        In support of the goals described in subsection (b), the Administrator of the Federal Highway Administration shall establish a national highway freight program in accordance with this section to improve the efficient movement of freight on the National Highway Freight Network.
 
     (b)  __Goals__  __.—__ 
 
-    The goals of the national freight policy are—
+    The goals of the national highway freight program are—
 
         (1)
 
-         to invest in infrastructure improvements and to implement operational improvements that—
+         to invest in infrastructure improvements and to implement operational improvements on the highways of the United States that—
 
-            (A) strengthen the contribution of the national freight network to the economic competitiveness of the United States;
+            (A) strengthen the contribution of the National Highway Freight Network to the economic competitiveness of the United States;
 
-            (B) reduce congestion; and
+            (B) reduce congestion and bottlenecks on the National Highway Freight Network;
 
-            (C) increase productivity, particularly for domestic industries and businesses that create high-value jobs;
+            (C) reduce the cost of freight transportation;
 
-        (2) to improve the safety, security, and resilience of freight transportation;
+            (D) improve the year-round reliability of freight transportation; and
 
-        (3) to improve the state of good repair of the national freight network;
+            (E) increase productivity, particularly for domestic industries and businesses that create high-value jobs;
 
-        (4) to use advanced technology to improve the safety and efficiency of the national freight network;
+        (2) to improve the safety, security, efficiency, and resiliency of freight transportation in rural and urban areas;
 
-        (5) to incorporate concepts of performance, innovation, competition, and accountability into the operation and maintenance of the national freight network; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+        (3) to improve the state of good repair of the National Highway Freight Network;
 
-        (6) to improve the economic efficiency of the national freight network.1
+        (4) to use innovation and advanced technology to improve the safety, efficiency, and reliability of the National Highway Freight Network;
 
-        (7) to reduce the environmental impacts of freight movement on the national freight network; 1
+        (5) to improve the efficiency and productivity of the National Highway Freight Network;
 
-    (c) __Establishment of a National Freight Network.—__ 
+        (6) to improve the flexibility of States to support multi-State corridor planning and the creation of multi-State organizations to increase the ability of States to address highway freight connectivity; and
+
+        (7) to reduce the environmental impacts of freight movement on the National Highway Freight Network.
+
+    (c) __Establishment of National Highway Freight Network.—__ 
 
         (1)  __In general__  __.—__ 
 
-        The Secretary shall establish a national freight network in accordance with this section to assist States in strategically directing resources toward improved system performance for efficient movement of freight on highways, including national highway system, freight intermodal connectors and aerotropolis transportation systems.
+        The Administrator shall establish a National Highway Freight Network in accordance with this section to strategically direct Federal resources and policies toward improved performance of the Network.
 
         (2)  __Network components__  __.—__ 
 
-        The national freight network shall consist of—
+        The National Highway Freight Network shall consist of—
 
-            (A) the primary freight network, as designated by the Secretary under subsection (d) (referred to in this section as the “primary freight network”) as most critical to the movement of freight;
+            (A) the primary highway freight system, as designated under subsection (d);
 
-            (B) the portions of the Interstate System not designated as part of the primary freight network; and
+            (B) critical rural freight corridors established under subsection (e);
 
-            (C) critical rural freight corridors established under subsection (e).
+            (C) critical urban freight corridors established under subsection (f); and
 
-    (d) __Designation of Primary Freight Network.—__ 
+            (D) the portions of the Interstate System not designated as part of the primary highway freight system.
 
-        (1) __Initial designation of primary freight network.—__ 
+    (d)  __Designation and Redesignation of the Primary Highway Freight System__  __.—__ 
 
-            (A)  __Designation__  __.—__ 
+        (1)  __Initial designation of primary highway freight system__  __.—__ 
 
-            Not later than 1 year after the date of enactment of this section, the Secretary shall designate a primary freight network—
+        The initial designation of the primary highway freight system shall be the 41,518-mile network identified during the designation process for the primary freight network under [section 167(d) of this title][/us/usc/t23/s167/d], as in effect on the day before the date of enactment of the FAST Act.
 
-                (i) based on an inventory of national freight volume conducted by the Administrator of the Federal Highway Administration, in consultation with stakeholders, including system users, transport providers, and States; and
+        (2) __Redesignation of primary highway freight system.—__ 
 
-                (ii) that shall be comprised of not more than 27,000 centerline miles of existing roadways that are most critical to the movement of freight.
+            (A)  __In general__  __.—__ 
 
-            (B)  __Factors for designation__  __.—__ 
+            Beginning 5 years after the date of enactment of the FAST Act, and every 5 years thereafter, using the designation factors described in subparagraph (E), the Administrator shall redesignate the primary highway freight system.
 
-            In designating the primary freight network, the Secretary shall consider—
+            (B)  __Redesignation mileage__  __.—__ 
 
-                (i) the origins and destinations of freight movement in the United States;
+            Each redesignation may increase the mileage on the primary highway freight system by not more than 3 percent of the total mileage of the system.
 
-                (ii) the total freight tonnage and value of freight moved by highways;
+            (C)  __Use of measurable data__  __.—__ 
 
-                (iii) the percentage of annual average daily truck traffic in the annual average daily traffic on principal arterials;
+            In redesignating the primary highway freight system, to the maximum extent practicable, the Administrator shall use measurable data to assess the significance of goods movement, including consideration of points of origin, destinations, and linking components of the United States global and domestic supply chains.
 
-                (iv) the annual average daily truck traffic on principal arterials;
+            (D)  __Input__  __.—__ 
 
-                (v) land and maritime ports of entry;
+            In redesignating the primary highway freight system, the Administrator shall provide an opportunity for State freight advisory committees, as applicable, to submit additional miles for consideration.
 
-                (vi) access to energy exploration, development, installation, or production areas;
+            (E)  __Factors for redesignation__  __.—__ 
 
-                (vii) population centers; and
+            In redesignating the primary highway freight system, the Administrator shall consider—
 
-                (viii) network connectivity.
+                (i) changes in the origins and destinations of freight movement in, to, and from the United States;
 
-        (2)  __Additional miles on primary freight network__  __.—__ 
+                (ii) changes in the percentage of annual daily truck traffic in the annual average daily traffic on principal arterials;
 
-        In addition to the miles initially designated under paragraph (1), the Secretary may increase the number of miles designated as part of the primary freight network by not more than 3,000 additional centerline miles of roadways (which may include existing or planned roads) critical to future efficient movement of goods on the primary freight network.
+                (iii) changes in the location of key facilities;
 
-        (3)  __Redesignation of primary freight network__  __.—__ 
+                (iv) land and water ports of entry;
 
-        Effective beginning 10 years after the designation of the primary freight network and every 10 years thereafter, using the designation factors described in paragraph (1), the Secretary shall redesignate the primary freight network (including additional mileage described in paragraph (2)).
+                (v) access to energy exploration, development, installation, or production areas;
 
-    (e)  __Critical Rural Freight Corridors__  __.—__ 
+                (vi) access to other freight intermodal facilities, including rail, air, water, and pipelines facilities;
 
-    A State may designate a road within the borders of the State as a critical rural freight corridor if the road—
+                (vii) the total freight tonnage and value moved via highways;
 
-        (1) is a rural principal arterial roadway and has a minimum of 25 percent of the annual average daily traffic of the road measured in passenger vehicle equivalent units from trucks (FHWA vehicle class 8 to 13);
+                (viii) significant freight bottlenecks, as identified by the Administrator;
 
-        (2) provides access to energy exploration, development, installation, or production areas;
+                (ix) the significance of goods movement on principal arterials, including consideration of global and domestic supply chains;
 
-        (3)
+                (x) critical emerging freight corridors and critical commerce corridors; and
 
-         connects the primary freight network, a roadway described in paragraph (1) or (2), or Interstate System to facilities that handle more than—
+                (xi) network connectivity.
 
-            (A) 50,000 20-foot equivalent units per year; or
-
-            (B) 500,000 tons per year of bulk commodities.
-
-    (f) __National Freight Strategic Plan.—__ 
-
-        (1)  __Initial development of national freight strategic plan__  __.—__ 
-
-        Not later than 3 years after the date of enactment of this section, the Secretary shall, in consultation with State departments of transportation and other appropriate public and private transportation stakeholders, develop and post on the Department of Transportation public website a national freight strategic plan that shall include—
-
-            (A) an assessment of the condition and performance of the national freight network;
-
-            (B)
-
-             an identification of highway bottlenecks on the national freight network that create significant freight congestion problems, based on a quantitative methodology developed by the Secretary, which shall, at a minimum, include—
-
-                (i) information from the Freight Analysis Network of the Federal Highway Administration; and
-
-                (ii) to the maximum extent practicable, an estimate of the cost of addressing each bottleneck and any operational improvements that could be implemented;
-
-            (C) forecasts of freight volumes for the 20-year period beginning in the year during which the plan is issued;
-
-            (D) an identification of major trade gateways and national freight corridors that connect major population centers, trade gateways, and other major freight generators for current and forecasted traffic and freight volumes, the identification of which shall be revised, as appropriate, in subsequent plans;
-
-            (E) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved freight transportation performance (including opportunities for overcoming the barriers);
-
-            (F) an identification of routes providing access to energy exploration, development, installation, or production areas;
-
-            (G) best practices for improving the performance of the national freight network;
-
-            (H) best practices to mitigate the impacts of freight movement on communities;
-
-            (I) a process for addressing multistate projects and encouraging jurisdictions to collaborate; and
-
-            (J) strategies to improve freight intermodal connectivity.
-
-        (2)  __Updates to national freight strategic plan__  __.—__ 
-
-        Not later than 5 years after the date of completion of the first national freight strategic plan under paragraph (1), and every 5 years thereafter, the Secretary shall update and repost on the Department of Transportation public website a revised national freight strategic plan.
-
-    (g)  __Freight Transportation Conditions and Performance Reports__  __.—__ 
-
-    Not later than 2 years after the date of enactment of this section, and biennially thereafter, the Secretary shall prepare a report that contains a description of the conditions and performance of the national freight network in the United States.
-
-    (h) __Transportation Investment Data and Planning Tools.—__ 
+    (e) __Critical Rural Freight Corridors.—__ 
 
         (1)  __In general__  __.—__ 
 
-        Not later than 1 year after the date of enactment of this section, the Secretary shall—
+        A State may designate a public road within the borders of the State as a critical rural freight corridor if the public road is not in an urbanized area and—
+
+            (A) is a rural principal arterial roadway and has a minimum of 25 percent of the annual average daily traffic of the road measured in passenger vehicle equivalent units from trucks (Federal Highway Administration vehicle class 8 to 13);
+
+            (B) provides access to energy exploration, development, installation, or production areas;
+
+            (C)
+
+             connects the primary highway freight system, a roadway described in subparagraph (A) or (B), or the Interstate System to facilities that handle more than—
+
+                (i) 50,000 20-foot equivalent units per year; or
+
+                (ii) 500,000 tons per year of bulk commodities;
+
+            (D)
+
+             provides access to—
+
+                (i) a grain elevator;
+
+                (ii) an agricultural facility;
+
+                (iii) a mining facility;
+
+                (iv) a forestry facility; or
+
+                (v) an intermodal facility;
+
+            (E) connects to an international port of entry;
+
+            (F) provides access to significant air, rail, water, or other freight facilities in the State; or
+
+            (G) is, in the determination of the State, vital to improving the efficient movement of freight of importance to the economy of the State.
+
+        (2)  __Limitation__  __.—__ 
+
+        A State may designate as critical rural freight corridors a maximum of 150 miles of highway or 20 percent of the primary highway freight system mileage in the State, whichever is greater.
+
+    (f) __Critical Urban Freight Corridors.—__ 
+
+        (1)  __Urbanized area with population of 500,000 or more__  __.—__ 
+
+        In an urbanized area with a population of 500,000 or more individuals, the representative metropolitan planning organization, in consultation with the State, may designate a public road within the borders of that area of the State as a critical urban freight corridor.
+
+        (2)  __Urbanized area with a population less than 500,000__  __.—__ 
+
+        In an urbanized area with a population of less than 500,000 individuals, the State, in consultation with the representative metropolitan planning organization, may designate a public road within the borders of that area of the State as a critical urban freight corridor.
+
+        (3)  __Requirements for designation__  __.—__ 
+
+        A designation may be made under paragraph (1) or (2) if the public road—
+
+            (A) is in an urbanized area, regardless of population; and
+
+            (B)
+
+                (i)
+
+                 connects an intermodal facility to—
+
+                    (I) the primary highway freight system;
+
+                    (II) the Interstate System; or
+
+                    (III) an intermodal freight facility;
+
+                (ii) is located within a corridor of a route on the primary highway freight system and provides an alternative highway option important to goods movement;
+
+                (iii) serves a major freight generator, logistic center, or manufacturing and warehouse industrial land; or
+
+                (iv) is important to the movement of freight within the region, as determined by the metropolitan planning organization or the State.
+
+        (4)  __Limitation__  __.—__ 
+
+        For each State, a maximum of 75 miles of highway or 10 percent of the primary highway freight system mileage in the State, whichever is greater, may be designated as a critical urban freight corridor under paragraphs (1) and (2).
+
+    (g) __Designation and Certification.—__ 
+
+        (1)  __Designation__  __.—__ 
+
+        States and metropolitan planning organizations may designate corridors under subsections (e) and (f) and submit the designated corridors to the Administrator on a rolling basis.
+
+        (2)  __Certification__  __.—__ 
+
+        Each State or metropolitan planning organization that designates a corridor under subsection (e) or (f) shall certify to the Administrator that the designated corridor meets the requirements of the applicable subsection.
+
+    (h)  __Highway Freight Transportation Conditions and Performance Reports__  __.—__ 
+
+    Not later than 2 years after the date of enactment of the FAST Act, and biennially thereafter, the Administrator shall prepare and submit to Congress a report that describes the conditions and performance of the National Highway Freight Network in the United States.
+
+    (i) __Use of Apportioned Funds.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        A State shall obligate funds apportioned to the State under section 104(b)(5) to improve the movement of freight on the National Highway Freight Network.
+
+        (2)  __Formula__  __.—__ 
+
+        The Administrator shall calculate for each State the proportion that—
+
+            (A) the total mileage in the State designated as part of the primary highway freight system; bears to
+
+            (B) the total mileage of the primary highway freight system in all States.
+
+        (3) __Use of funds.—__ 
+
+            (A)  __States with high primary highway freight system mileage__  __.—__ 
+
+            If the proportion of a State under paragraph (2) is greater than or equal to 2 percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on—
+
+                (i) the primary highway freight system;
+
+                (ii) critical rural freight corridors; and
+
+                (iii) critical urban freight corridors.
+
+            (B)  __States with low primary highway freight system mileage__  __.—__ 
+
+            If the proportion of a State under paragraph (2) is less than 2 percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on any component of the National Highway Freight Network.
+
+        (4)  __Freight planning__  __.—__ 
+
+        Notwithstanding any other provision of law, effective beginning 2 years after the date of enactment of the FAST Act, a State may not obligate funds apportioned to the State under section 104(b)(5) unless the State has developed a freight plan in accordance with [section 70202 of title 49][/us/usc/t49/s70202], except that the multimodal component of the plan may be incomplete before an obligation may be made under this section.
+
+        (5) __Eligibility.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Except as provided in this subsection, for a project to be eligible for funding under this section the project shall—
+
+                (i) contribute to the efficient movement of freight on the National Highway Freight Network; and
+
+                (ii) be identified in a freight investment plan included in a freight plan of the State that is in effect.
+
+            (B)  __Other projects__  __.—__ 
+
+            For each fiscal year, a State may obligate not more than 10 percent of the total apportionment of the State under section 104(b)(5) for freight intermodal or freight rail projects, including projects—
+
+                (i) within the boundaries of public or private freight rail or water facilities (including ports); and
+
+                (ii) that provide surface transportation infrastructure necessary to facilitate direct intermodal interchange, transfer, and access into or out of the facility.
+
+            (C)  __Eligible projects__  __.—__ 
+
+            Funds apportioned to the State under section 104(b)(5) for the national highway freight program may be obligated to carry out 1 or more of the following:
+
+                (i) Development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, preliminary engineering and design work, and other preconstruction activities.
+
+                (ii) Construction, reconstruction, rehabilitation, acquisition of real property (including land relating to the project and improvements to land), construction contingencies, acquisition of equipment, and operational improvements directly relating to improving system performance.
+
+                (iii) Intelligent transportation systems and other technology to improve the flow of freight, including intelligent freight transportation systems.
+
+                (iv) Efforts to reduce the environmental impacts of freight movement.
+
+                (v) Environmental and community mitigation for freight movement.
+
+                (vi) Railway-highway grade separation.
+
+                (vii) Geometric improvements to interchanges and ramps.
+
+                (viii) Truck-only lanes.
+
+                (ix) Climbing and runaway truck lanes.
+
+                (x) Adding or widening of shoulders.
+
+                (xi) Truck parking facilities eligible for funding under section 1401 of MAP–21 ([23 U.S.C. 137][/us/usc/t23/s137] note).
+
+                (xii) Real-time traffic, truck parking, roadway condition, and multimodal transportation information systems.
+
+                (xiii) Electronic screening and credentialing systems for vehicles, including weigh-in-motion truck inspection technologies.
+
+                (xiv) Traffic signal optimization, including synchronized and adaptive signals.
+
+                (xv) Work zone management and information systems.
+
+                (xvi) Highway ramp metering.
+
+                (xvii) Electronic cargo and border security technologies that improve truck freight movement.
+
+                (xviii) Intelligent transportation systems that would increase truck freight efficiencies inside the boundaries of intermodal facilities.
+
+                (xix) Additional road capacity to address highway freight bottlenecks.
+
+                (xx) Physical separation of passenger vehicles from commercial motor freight.
+
+                (xxi) Enhancement of the resiliency of critical highway infrastructure, including highway infrastructure that supports national energy security, to improve the flow of freight.
+
+                (xxii) A highway or bridge project, other than a project described in clauses (i) through (xxi), to improve the flow of freight on the National Highway Freight Network.
+
+                (xxiii) Any other surface transportation project to improve the flow of freight into and out of a facility described in subparagraph (B).
+
+        (6)  __Other eligible costs__  __.—__ 
+
+        In addition to the eligible projects identified in paragraph (5), a State may use funds apportioned under section 104(b)(5) for—
+
+            (A) carrying out diesel retrofit or alternative fuel projects under section 149 for class 8 vehicles; and
+
+            (B)
+
+             the necessary costs of—
+
+                (i) conducting analyses and data collection related to the national highway freight program;
+
+                (ii) developing and updating performance targets to carry out this section; and
+
+                (iii) reporting to the Administrator to comply with the freight performance target under section 150.
+
+        (7)  __Applicability of planning requirements__  __.—__ 
+
+        Programming and expenditure of funds for projects under this section shall be consistent with the requirements of sections 134 and 135.
+
+    (j)  __State Performance Targets__  __.—__ 
+
+    If the Administrator determines that a State has not met or made significant progress toward meeting the performance targets related to freight movement of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets, the State shall include in the next report submitted under section 150(e) a description of the actions the State will undertake to achieve the targets, including—
+
+        (1) an identification of significant freight system trends, needs, and issues within the State;
+
+        (2) a description of the freight policies and strategies that will guide the freight-related transportation investments of the State;
+
+        (3) an inventory of freight bottlenecks within the State and a description of the ways in which the State is allocating national highway freight program funds to improve those bottlenecks; and
+
+        (4) a description of the actions the State will undertake to meet the performance targets of the State.
+
+    (k) __Intelligent Freight Transportation System.—__ 
+
+        (1)  __Definition of intelligent freight transportation system__  __.—__ 
+
+        In this section, the term “intelligent freight transportation system” means—
 
             (A)
 
-             begin development of new tools and improvement of existing tools or improve existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—
+             innovative or intelligent technological transportation systems, infrastructure, or facilities, including elevated freight transportation facilities—
 
-                (i) methodologies for systematic analysis of benefits and costs;
+                (i) in proximity to, or within, an existing right of way on a Federal-aid highway; or
 
-                (ii) tools for ensuring that the evaluation of freight-related and other transportation projects could consider safety, economic competitiveness, environmental sustainability, and system condition in the project selection process; and
+                (ii) that connect land ports-of entry to existing Federal-aid highways; or
 
-                (iii) other elements to assist in effective transportation planning;
+            (B) communications or information processing systems that improve the efficiency, security, or safety of freight movements on the Federal-aid highway system, including to improve the conveyance of freight on dedicated intelligent freight lanes.
 
-            (B) identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
+        (2)  __Operating standards__  __.—__ 
 
-            (C) at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
+        The Administrator shall determine whether there is a need for establishing operating standards for intelligent freight transportation systems.
 
-        (2)  __Consultation__  __.—__ 
+    (l)  __Treatment of Freight Projects__  __.—__ 
 
-        The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data in paragraph (1).
+    Notwithstanding any other provision of law, a freight project carried out under this section shall be treated as if the project were on a Federal-aid highway.
 
-    (i)  __Definition of Aerotropolis Transportation System__  __.—__ 
-
-    In this section, the term “aerotropolis transportation system” means a planned and coordinated multimodal freight and passenger transportation network that, as determined by the Secretary, provides efficient, cost-effective, sustainable, and intermodal connectivity to a defined region of economic significance centered around a major airport.
-
-(Added [Pub. L. 112–141, div. A, title I, § 1115(a)][/us/pl/112/141/s1115/a], July 6, 2012, [126 Stat. 468][/us/stat/126/468].)
+(Added [Pub. L. 112–141, div. A, title I, § 1115(a)][/us/pl/112/141/s1115/a], July 6, 2012, [126 Stat. 468][/us/stat/126/468]; amended [Pub. L. 114–94, div. A, title I, § 1116(a)][/us/pl/114/94/s1116/a], Dec. 4, 2015, [129 Stat. 1349][/us/stat/129/1349].)
 
  __References in Text__ 
 
-    The date of enactment of this section, referred to in subsecs. (d)(1)(A), (f)(1), (g), and (h)(1), is the date of enactment of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
+    The date of enactment of the FAST Act, referred to in subsecs. (d)(1), (2)(A), (h), and (i)(4), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94][/us/pl/114/94], amended section generally. Prior to amendment, section related to national freight policy.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -197,93 +395,7 @@
 
  __Freight Movement Projects, Advisory Committees, and Plans__ 
 
-[Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, provided that:
-
-> “SEC. 1116. __PRIORITIZATION OF PROJECTS TO IMPROVE FREIGHT MOVEMENT.__ 
-
->     “(a)  __In General__  __.—__ 
-
->     Notwithstanding [section 120 of title 23][/us/usc/t23/s120], United States Code, the Secretary may increase the Federal share payable for any project to 95 percent for projects on the Interstate System and 90 percent for any other project if the Secretary certifies that the project meets the requirements of this section.
-
->     “(b)  __Increased Funding__  __.—__ 
-
->     To be eligible for the increased Federal funding share under this section, a project shall—
-
->         “(1) demonstrate the improvement made by the project to the efficient movement of freight, including making progress towards meeting performance targets for freight movement established under [section 150(d) of title 23][/us/usc/t23/s150/d], United States Code; and
-
->         “(2) be identified in a State freight plan developed pursuant to section 1118.
-
->     “(c)  __Eligible Projects__  __.—__ 
-
->     Eligible projects to improve the movement of freight under this section may include, but are not limited to—
-
->         “(1) construction, reconstruction, rehabilitation, and operational improvements directly relating to improving freight movement;
-
->         “(2) intelligent transportation systems and other technology to improve the flow of freight;
-
->         “(3) efforts to reduce the environmental impacts of freight movement on the primary freight network;
-
->         “(4) railway-highway grade separation;
-
->         “(5) geometric improvements to interchanges and ramps. \[sic\]
-
->         “(6) truck-only lanes;
-
->         “(7) climbing and runaway truck lanes;
-
->         “(8) truck parking facilities eligible for funding under section 1401;
-
->         “(9) real-time traffic, truck parking, roadway condition, and multimodal transportation information systems;
-
->         “(10) improvements to freight intermodal connectors; and
-
->         “(11) improvements to truck bottlenecks.
-
-> “SEC. 1117. __STATE FREIGHT ADVISORY COMMITTEES.__ 
-
->     “(a)  __In General__  __.—__ 
-
->     The Secretary shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of ports, shippers, carriers, freight-related associations, the freight industry workforce, the transportation department of the State, and local governments.
-
->     “(b)  __Role of Committee__  __.—__ 
-
->     A freight advisory committee of a State described in subsection (a) shall—
-
->         “(1) advise the State on freight-related priorities, issues, projects, and funding needs;
-
->         “(2) serve as a forum for discussion for State transportation decisions affecting freight mobility;
-
->         “(3) communicate and coordinate regional priorities with other organizations;
-
->         “(4) promote the sharing of information between the private and public sectors on freight issues; and
-
->         “(5) participate in the development of the freight plan of the State described in section 1118.
-
-> “SEC. 1118. __STATE FREIGHT PLANS.__ 
-
->     “(a)  __In General__  __.—__ 
-
->     The Secretary shall encourage each State to develop a freight plan that provides a comprehensive plan for the immediate and long-range planning activities and investments of the State with respect to freight.
-
->     “(b)  __Plan Contents__  __.—__ 
-
->     A freight plan described in subsection (a) shall include, at a minimum—
-
->         “(1) an identification of significant freight system trends, needs, and issues with respect to the State;
-
->         “(2) a description of the freight policies, strategies, and performance measures that will guide the freight-related transportation investment decisions of the State;
-
->         “(3) a description of how the plan will improve the ability of the State to meet the national freight goals established under [section 167 of title 23][/us/usc/t23/s167], United States Code;
-
->         “(4) evidence of consideration of innovative technologies and operational strategies, including intelligent transportation systems, that improve the safety and efficiency of freight movement;
-
->         “(5) in the case of routes on which travel by heavy vehicles (including mining, agricultural, energy cargo or equipment, and timber vehicles) is projected to substantially deteriorate the condition of roadways, a description of improvements that may be required to reduce or impede the deterioration; and
-
->         “(6) an inventory of facilities with freight mobility issues, such as truck bottlenecks, within the State, and a description of the strategies the State is employing to address those freight mobility issues.
-
->     “(c)  __Relationship to Long-range Plan__  __.—__ 
-
->     A freight plan described in subsection (a) may be developed separate from or incorporated into the statewide strategic long-range transportation plan required by [section 135 of title 23][/us/usc/t23/s135], United States Code.”
+    [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, which related to prioritization of projects to improve freight movement, state freight advisory committees, and state freight plans, was repealed by [Pub. L. 114–94, div. A, title I, § 1116(c)][/us/pl/114/94/s1116/c], Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356].
 
 ----------
 
@@ -292,16 +404,23 @@
 ----------
 ----------
 
+[/us/usc/t23/s167/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs167%2Fd
+[/us/usc/t49/s70202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70202
+[/us/usc/t23/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs137
 [/us/pl/112/141/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1115%2Fa
 [/us/stat/126/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F468
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1116%2Fa
+[/us/stat/129/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1349
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F472
-[/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/usc/t23/s150/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs150%2Fd
-[/us/usc/t23/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs167
-[/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
+[/us/pl/114/94/s1116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1116%2Fc
+[/us/stat/129/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1356
 
 

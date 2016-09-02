@@ -15,7 +15,7 @@
 
 ## § 130. Railway-highway crossings
 
-    (a) Subject to section 120 and subsection (b) of this section, the entire cost of construction of projects for the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may be paid from sums apportioned in accordance with [section 104 of this title][/us/usc/t23/s104]. In any case when the elimination of the hazards of a railway-highway crossing can be effected by the relocation of a portion of a railway at a cost estimated by the Secretary to be less than the cost of such elimination by one of the methods mentioned in the first sentence of this section, then the entire cost of such relocation project, subject to section 120 and subsection (b) of this section, may be paid from sums apportioned in accordance with [section 104 of this title][/us/usc/t23/s104].
+    (a) Subject to section 120 and subsection (b) of this section, the entire cost of construction of projects for the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains, may be paid from sums apportioned in accordance with [section 104 of this title][/us/usc/t23/s104]. In any case when the elimination of the hazards of a railway-highway crossing can be effected by the relocation of a portion of a railway at a cost estimated by the Secretary to be less than the cost of such elimination by one of the methods mentioned in the first sentence of this section, then the entire cost of such relocation project, subject to section 120 and subsection (b) of this section, may be paid from sums apportioned in accordance with [section 104 of this title][/us/usc/t23/s104].
 
     (b) The Secretary may classify the various types of projects involved in the elimination of hazards of railway-highway crossings, and may set for each such classification a percentage of the costs of construction which shall be deemed to represent the net benefit to the railroad or railroads for the purpose of determining the railroad’s share of the cost of construction. The percentage so determined shall in no case exceed 10 per centum. The Secretary shall determine the appropriate classification of each project.
 
@@ -27,9 +27,29 @@
 
     (e)  __Funds for Protective Devices__  __.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
-        Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1].
+            (A)  __Set aside__  __.—__ 
+
+            Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, for the elimination of hazards and the installation of protective devices at railway-highway crossings at least—
+
+                (i) $225,000,000 for fiscal year 2016;
+
+                (ii) $230,000,000 for fiscal year 2017;
+
+                (iii) $235,000,000 for fiscal year 2018;
+
+                (iv) $240,000,000 for fiscal year 2019; and
+
+                (v) $245,000,000 for fiscal year 2020.
+
+            (B)  __Installation of protective devices__  __.—__ 
+
+            At least ½ of the funds set aside each fiscal year under subparagraph (A) shall be available for the installation of protective devices at railway-highway crossings.
+
+            (C)  __Obligation availability__  __.—__ 
+
+            Sums set aside each fiscal year under subparagraph (A) shall be available for obligation in the same manner as funds apportioned under section 104(b)(1).
 
         (2)  __Special rule__  __.—__ 
 
@@ -97,7 +117,7 @@
 
         On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 903][/us/stat/72/903]; [Pub. L. 100–17, title I, § 121(a)][/us/pl/100/17/s121/a], Apr. 2, 1987, [101 Stat. 159][/us/stat/101/159]; [Pub. L. 104–59, title III, § 325(a)][/us/pl/104/59/s325/a], Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 104–205, title III, § 353(b)][/us/pl/104/205/s353/b], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 146][/us/stat/112/146], 170, 193; [Pub. L. 109–59, title I, § 1401(c)][/us/pl/109/59/s1401/c], formerly § 1401(d), Aug. 10, 2005, [119 Stat. 1226][/us/stat/119/1226], renumbered § 1401(c), [Pub. L. 110–244, title I, § 101(s)(1)][/us/pl/110/244/s101/s/1], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 110–244, title I, § 101][/us/pl/110/244/s101](l), June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 110–432, div. A, title II, § 204(c)][/us/pl/110/432/s204/c], Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871]; [Pub. L. 112–141, div. A, title I, § 1519(c)(6)][/us/pl/112/141/s1519/c/6], July 6, 2012, [126 Stat. 575][/us/stat/126/575].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 903][/us/stat/72/903]; [Pub. L. 100–17, title I, § 121(a)][/us/pl/100/17/s121/a], Apr. 2, 1987, [101 Stat. 159][/us/stat/101/159]; [Pub. L. 104–59, title III, § 325(a)][/us/pl/104/59/s325/a], Nov. 28, 1995, [109 Stat. 591][/us/stat/109/591]; [Pub. L. 104–205, title III, § 353(b)][/us/pl/104/205/s353/b], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 146][/us/stat/112/146], 170, 193; [Pub. L. 109–59, title I, § 1401(c)][/us/pl/109/59/s1401/c], formerly § 1401(d), Aug. 10, 2005, [119 Stat. 1226][/us/stat/119/1226], renumbered § 1401(c), [Pub. L. 110–244, title I, § 101(s)(1)][/us/pl/110/244/s101/s/1], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577]; [Pub. L. 110–244, title I, § 101][/us/pl/110/244/s101](l), June 6, 2008, [122 Stat. 1575][/us/stat/122/1575]; [Pub. L. 110–432, div. A, title II, § 204(c)][/us/pl/110/432/s204/c], Oct. 16, 2008, [122 Stat. 4871][/us/stat/122/4871]; [Pub. L. 112–141, div. A, title I, § 1519(c)(5)][/us/pl/112/141/s1519/c/5], formerly § 1519(c)(6), July 6, 2012, [126 Stat. 575][/us/stat/126/575], renumbered § 1519(c)(5), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1108, 1412, Dec. 4, 2015, [129 Stat. 1338][/us/stat/129/1338], 1416.)
 
  __References in Text__ 
 
@@ -107,11 +127,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (e)(1). [Pub. L. 112–141, § 1519(c)(6)(A)][/us/pl/112/141/s1519/c/6/A], substituted “section 104(b)(3)” for “section 104(b)(5)”.
+    2015—Subsec. (a). [Pub. L. 114–94, § 1412][/us/pl/114/94/s1412], substituted “the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains” for “and the relocation of highways to eliminate grade crossings”.
 
-    Subsec. (f)(1). [Pub. L. 112–141, § 1519(c)(6)(B)][/us/pl/112/141/s1519/c/6/B], inserted “as in effect on the day before the date of enactment of the MAP–21” after “section 104(b)(3)(A)”.
+    Subsec. (e)(1). [Pub. L. 114–94, § 1108][/us/pl/114/94/s1108], amended par. (1) generally. Prior to amendment, text read as follows: “Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1].”
 
-    Subsec. (l)(3), (4). [Pub. L. 112–141, § 1519(c)(6)(C)][/us/pl/112/141/s1519/c/6/C], struck out pars. (3) and (4) which related to rulemaking authority and definitions.
+    2012—Subsec. (e)(1). [Pub. L. 112–141, § 1519(c)(5)(A)][/us/pl/112/141/s1519/c/5/A], formerly § 1519(c)(6)(A), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “section 104(b)(3)” for “section 104(b)(5)”.
+
+    Subsec. (f)(1). [Pub. L. 112–141, § 1519(c)(5)(B)][/us/pl/112/141/s1519/c/5/B], formerly § 1519(c)(6)(B), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], inserted “as in effect on the day before the date of enactment of the MAP–21” after “section 104(b)(3)(A)”.
+
+    Subsec. (l)(3), (4). [Pub. L. 112–141, § 1519(c)(5)(C)][/us/pl/112/141/s1519/c/5/C], formerly § 1519(c)(6)(C), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out pars. (3) and (4) which related to rulemaking authority and definitions.
 
     2008—Subsec. (e)(2). [Pub. L. 110–244, § 101][/us/pl/110/244/s101](l), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
 
@@ -136,6 +160,12 @@
     1995—Subsec. (g). [Pub. L. 104–59][/us/pl/104/59] substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
 
     1987—Subsecs. (d) to (h). [Pub. L. 100–17][/us/pl/100/17] added subsecs. (d) to (h).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -284,7 +314,6 @@ Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–
 
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F903
 [/us/pl/100/17/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs121%2Fa
@@ -303,16 +332,26 @@ Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–
 [/us/stat/122/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1575
 [/us/pl/110/432/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs204%2Fc
 [/us/stat/122/4871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4871
-[/us/pl/112/141/s1519/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6
+[/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1338
 [/us/usc/t23/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F3%2FA
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
-[/us/pl/112/141/s1519/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6%2FA
-[/us/pl/112/141/s1519/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6%2FB
-[/us/pl/112/141/s1519/c/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6%2FC
+[/us/pl/114/94/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1412
+[/us/pl/114/94/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1108
+[/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
+[/us/pl/112/141/s1519/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FA
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FB
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5%2FC
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/110/244/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/109/59/s1401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1401%2Fc%2F1
@@ -333,6 +372,12 @@ Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–
 [/us/pl/104/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

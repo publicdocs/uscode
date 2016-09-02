@@ -15,7 +15,7 @@
 
 ## § 147. Construction of ferry boats and ferry terminal facilities
 
-    (a)  __In General__  __.—__ 
+    (a)  __Program__  __.—__ 
 
     The Secretary shall carry out a program for construction of ferry boats and ferry terminal facilities in accordance with section 129(c).
 
@@ -29,47 +29,79 @@
 
     (d)  __Formula__  __.—__ 
 
-    Of the amounts allocated pursuant to subsection (c)—
+    Of the amounts allocated under subsection (c)—
 
         (1)
 
-         20 percent shall be allocated among eligible entities in the proportion that—
+         35 percent shall be allocated among eligible entities in the proportion that—
 
-            (A) the number of ferry passengers carried by each ferry system in the most recent fiscal year; bears to
+            (A) the number of ferry passengers, including passengers in vehicles, carried by each ferry system in the most recent calendar year for which data is available; bears to
 
-            (B) the number of ferry passengers carried by all ferry systems in the most recent fiscal year;
+            (B) the number of ferry passengers, including passengers in vehicles, carried by all ferry systems in the most recent calendar year for which data is available;
 
         (2)
 
-         45 percent shall be allocated among eligible entities in the proportion that—
+         35 percent shall be allocated among eligible entities in the proportion that—
 
-            (A) the number of vehicles carried by each ferry system in the most recent fiscal year; bears to
+            (A) the number of vehicles carried by each ferry system in the most recent calendar year for which data is available; bears to
 
-            (B) the number of vehicles carried by all ferry systems in the most recent fiscal year; and
+            (B) the number of vehicles carried by all ferry systems in the most recent calendar year for which data is available; and
 
         (3)
 
-         35 percent shall be allocated among eligible entities in the proportion that—
+         30 percent shall be allocated among eligible entities in the proportion that—
 
-            (A) the total route miles serviced by each ferry system; bears to
+            (A) the total route nautical miles serviced by each ferry system in the most recent calendar year for which data is available; bears to
 
-            (B) the total route miles serviced by all ferry systems.
+            (B) the total route nautical miles serviced by all ferry systems in the most recent calendar year for which data is available.
 
-    (e)  __Authorization of Appropriations__  __.—__ 
+    (e)  __Redistribution of Unobligated Amounts__  __.—__ 
 
-    There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $67,000,000 for each of fiscal years 2013 and 2014.
+    The Secretary shall—
 
-    (f)  __Period of Availability__  __.—__ 
+        (1) withdraw amounts allocated to an eligible entity under subsection (c) that remain unobligated by the end of the third fiscal year following the fiscal year for which the amounts were allocated; and
+
+        (2) in the subsequent fiscal year, redistribute the amounts referred to in paragraph (1) in accordance with the formula under subsection (d) among eligible entities for which no amounts were withdrawn under paragraph (1).
+
+    (f)  __Minimum Amount__  __.—__ 
+
+    Notwithstanding subsection (c), a State with an eligible entity that meets the requirements of this section shall receive not less than $100,000 under this section for a fiscal year.
+
+    (g) __Implementation.—__ 
+
+        (1) __Data collection.—__ 
+
+            (A)  __National ferry database__  __.—__ 
+
+            Amounts made available for a fiscal year under this section shall be allocated using the most recent data available, as collected and imputed in accordance with the national ferry database established under section 1801(e) of SAFETEA–LU ([23 U.S.C. 129][/us/usc/t23/s129] note).
+
+            (B)  __Eligibility for funding__  __.—__ 
+
+            To be eligible to receive funds under subsection (c), data shall have been submitted in the most recent collection of data for the national ferry database under section 1801(e) of SAFETEA–LU ([23 U.S.C. 129][/us/usc/t23/s129] note) for at least 1 ferry service within the State.
+
+        (2)  __Adjustments__  __.—__ 
+
+        On review of the data submitted under paragraph (1)(B), the Secretary may make adjustments to the data as the Secretary determines necessary to correct misreported or inconsistent data.
+
+    (h)  __Authorization of Appropriations__  __.—__ 
+
+    There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $80,000,000 for each of fiscal years 2016 through 2020.
+
+    (i)  __Period of Availability__  __.—__ 
 
     Notwithstanding section 118(b), funds made available to carry out this section shall remain available until expended.
 
-    (g)  __Applicability__  __.—__ 
+    (j)  __Applicability__  __.—__ 
 
     All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
 
-(Added [Pub. L. 93–87, title I, § 126(a)][/us/pl/93/87/s126/a], Aug. 13, 1973, [87 Stat. 263][/us/stat/87/263]; amended [Pub. L. 94–280, title I, § 130][/us/pl/94/280/s130], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1801(a)][/us/pl/109/59/s1801/a], Aug. 10, 2005, [119 Stat. 1455][/us/stat/119/1455]; [Pub. L. 112–141, div. A, title I, § 1121(a)][/us/pl/112/141/s1121/a], July 6, 2012, [126 Stat. 493][/us/stat/126/493].)
+(Added [Pub. L. 93–87, title I, § 126(a)][/us/pl/93/87/s126/a], Aug. 13, 1973, [87 Stat. 263][/us/stat/87/263]; amended [Pub. L. 94–280, title I, § 130][/us/pl/94/280/s130], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)][/us/pl/105/178/s1212/a/2/A/i], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 109–59, title I, § 1801(a)][/us/pl/109/59/s1801/a], Aug. 10, 2005, [119 Stat. 1455][/us/stat/119/1455]; [Pub. L. 112–141, div. A, title I, § 1121(a)][/us/pl/112/141/s1121/a], July 6, 2012, [126 Stat. 493][/us/stat/126/493]; [Pub. L. 114–94, div. A, title I, § 1112(a)][/us/pl/114/94/s1112/a], Dec. 4, 2015, [129 Stat. 1345][/us/stat/129/1345].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94, § 1112(a)(1)][/us/pl/114/94/s1112/a/1], substituted “Program” for “In General” in heading.
+
+    Subsecs. (d) to (j). [Pub. L. 114–94, § 1112(a)(2)][/us/pl/114/94/s1112/a/2], added subsecs. (d) to (j) and struck out former subsecs. (d) to (g) which related to formula for determining allocation amounts, authorization of appropriations, period of availability of funds, and applicability of chapter, respectively.
 
     2012—Subsecs. (c) to (g). [Pub. L. 112–141][/us/pl/112/141] added subsecs. (c) to (e), redesignated former subsecs. (e) and (f) as (f) and (g), respectively, and struck out former subsecs. (c) and (d) which related to allocation of funds and set-aside for projects on National Highway System, respectively.
 
@@ -78,6 +110,10 @@
     1998—Subsec. (a). [Pub. L. 105–178][/us/pl/105/178] substituted “State transportation department” for “State highway department”.
 
     1976—Subsec. (b). [Pub. L. 94–280][/us/pl/94/280] amended subsec. (b) generally, striking out apportionment provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -96,6 +132,8 @@
 ----------
 ----------
 
+[/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
+[/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
 [/us/pl/93/87/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs126%2Fa
 [/us/stat/87/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F263
 [/us/pl/94/280/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs130
@@ -106,10 +144,17 @@
 [/us/stat/119/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1455
 [/us/pl/112/141/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1121%2Fa
 [/us/stat/126/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F493
+[/us/pl/114/94/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa
+[/us/stat/129/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1345
+[/us/pl/114/94/s1112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa%2F1
+[/us/pl/114/94/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fa%2F2
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

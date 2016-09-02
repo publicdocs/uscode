@@ -17,7 +17,7 @@
 
     (a) Prior to approving any programs for projects as provided for in section 135, the Secretary shall require assurances from any State desiring to avail itself of the benefits of this chapter that employment in connection with proposed projects will be provided without regard to race, color, creed, national origin, or sex. The Secretary shall require that each State shall include in the advertised specifications, notification of the specific equal employment opportunity responsibilities of the successful bidder. In approving programs for projects on any of the Federal-aid systems, the Secretary  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  if necessary to ensure equal employment opportunity, shall require certification by any State desiring to avail itself of the benefits of this chapter that there are in existence and available on a regional, statewide, or local basis, apprenticeship, skill improvement or other upgrading programs, registered with the Department of Labor or the appropriate State agency, if any, which provide equal opportunity for training and employment without regard to race, color, creed, national origin, or sex. In implementing such programs, a State may reserve training positions for persons who receive welfare assistance from such State; except that the implementation of any such program shall not cause current employees to be displaced or current positions to be supplanted or preclude workers that are participating in an apprenticeship, skill improvement, or other upgrading program registered with the Department of Labor or the appropriate State agency from being referred to, or hired on, projects funded under this title without regard to the length of time of their participation in such program. The Secretary shall periodically obtain from the Secretary of Labor and the respective State transportation departments information which will enable the Secretary to judge compliance with the requirements of this section and the Secretary of Labor shall render to the Secretary such assistance and information as the Secretary of Transportation shall deem necessary to carry out the equal employment opportunity program required hereunder.
 
-    (b) The Secretary, in cooperation with any other department or agency of the Government, State agency, authority, association, institution, Indian tribal government, corporation (profit or nonprofit), or any other organization or person, is authorized to develop, conduct, and administer surface transportation and technology training, including skill improvement programs, and to develop and fund summer transportation institutes. From administrative funds made available under section 104(a), the Secretary shall deduct such sums as necessary, not to exceed $10,000,000 per fiscal year, for the administration of this subsection. Such sums so deducted shall remain available until expended. The provisions of section 6101(b) to (d) of title 41 shall not be applicable to contracts and agreements made under the authority herein granted to the Secretary. Notwithstanding any other provision of law, not to exceed ½ of 1 percent of funds apportioned to a State for the surface transportation program under section 104(b) may be available to carry out this subsection upon request of the State transportation department to the Secretary.
+    (b) The Secretary, in cooperation with any other department or agency of the Government, State agency, authority, association, institution, Indian tribal government, corporation (profit or nonprofit), or any other organization or person, is authorized to develop, conduct, and administer surface transportation and technology training, including skill improvement programs, and to develop and fund summer transportation institutes. From administrative funds made available under section 104(a), the Secretary shall deduct such sums as necessary, not to exceed $10,000,000 per fiscal year, for the administration of this subsection. Such sums so deducted shall remain available until expended. The provisions of section 6101(b) to (d) of title 41 shall not be applicable to contracts and agreements made under the authority herein granted to the Secretary. Notwithstanding any other provision of law, not to exceed ½ of 1 percent of funds apportioned to a State for the surface transportation block grant program under section 104(b) may be available to carry out this subsection upon request of the State transportation department to the Secretary.
 
     (c) The Secretary, in cooperation with any other department or agency of the Government, State agency, authority, association, institution, Indian tribal government, corporation (profit or nonprofit), or any other organization or person, is authorized to develop, conduct, and administer training programs and assistance programs in connection with any program under this title in order that minority businesses may achieve proficiency to compete, on an equal basis, for contracts and subcontracts. From administrative funds made available under section 104(a), the Secretary shall deduct such sums as necessary, not to exceed $10,000,000 per fiscal year, for the administration of this subsection. The provisions of section 6101(b) to (d) of title 41 shall not be applicable to contracts and agreements made under the authority herein granted to the Secretary notwithstanding the provisions of [section 3106 of title 41][/us/usc/t41/s3106].
 
@@ -25,11 +25,17 @@
 
     Consistent with section 703(i) of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–2(i)][/us/usc/t42/s2000e–2/i]), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on projects and contracts on Indian reservation roads. States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations. The Secretary shall cooperate with Indian tribal governments and the States to implement this subsection.
 
-(Added [Pub. L. 90–495, § 22(a)][/us/pl/90/495/s22/a], Aug. 23, 1968, [82 Stat. 826][/us/stat/82/826]; amended [Pub. L. 91–605, title I, § 110][/us/pl/91/605/s110], Dec. 31, 1970, [84 Stat. 1719][/us/stat/84/1719]; [Pub. L. 93–87, title I, § 120][/us/pl/93/87/s120], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 126][/us/pl/94/280/s126], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–424, title I, § 119][/us/pl/97/424/s119], Jan. 6, 1983, [96 Stat. 2110][/us/stat/96/2110]; [Pub. L. 100–17, title I, § 122][/us/pl/100/17/s122], Apr. 2, 1987, [101 Stat. 160][/us/stat/101/160]; [Pub. L. 102–240, title I, § 1026][/us/pl/102/240/s1026], Dec. 18, 1991, [105 Stat. 1965][/us/stat/105/1965]; [Pub. L. 102–388, title IV, § 412][/us/pl/102/388/s412], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1208, 1212(a)(2)(A), June 9, 1998, [112 Stat. 186][/us/stat/112/186], 193; [Pub. L. 109–59, title I, § 1922][/us/pl/109/59/s1922], Aug. 10, 2005, [119 Stat. 1481][/us/stat/119/1481]; [Pub. L. 111–350, § 5(e)(1)][/us/pl/111/350/s5/e/1], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–141, div. A, title I, § 1109][/us/pl/112/141/s1109], July 6, 2012, [126 Stat. 444][/us/stat/126/444].)
+(Added [Pub. L. 90–495, § 22(a)][/us/pl/90/495/s22/a], Aug. 23, 1968, [82 Stat. 826][/us/stat/82/826]; amended [Pub. L. 91–605, title I, § 110][/us/pl/91/605/s110], Dec. 31, 1970, [84 Stat. 1719][/us/stat/84/1719]; [Pub. L. 93–87, title I, § 120][/us/pl/93/87/s120], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 126][/us/pl/94/280/s126], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–424, title I, § 119][/us/pl/97/424/s119], Jan. 6, 1983, [96 Stat. 2110][/us/stat/96/2110]; [Pub. L. 100–17, title I, § 122][/us/pl/100/17/s122], Apr. 2, 1987, [101 Stat. 160][/us/stat/101/160]; [Pub. L. 102–240, title I, § 1026][/us/pl/102/240/s1026], Dec. 18, 1991, [105 Stat. 1965][/us/stat/105/1965]; [Pub. L. 102–388, title IV, § 412][/us/pl/102/388/s412], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1208, 1212(a)(2)(A), June 9, 1998, [112 Stat. 186][/us/stat/112/186], 193; [Pub. L. 109–59, title I, § 1922][/us/pl/109/59/s1922], Aug. 10, 2005, [119 Stat. 1481][/us/stat/119/1481]; [Pub. L. 111–350, § 5(e)(1)][/us/pl/111/350/s5/e/1], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–141, div. A, title I, § 1109][/us/pl/112/141/s1109], July 6, 2012, [126 Stat. 444][/us/stat/126/444]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(5), 1446(d)(1), Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1438.)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–141, § 1109(a)][/us/pl/112/141/s1109/a], substituted “From administrative funds made available under section 104(a),” for “Whenever apportionments are made under [section 104(b)(3) of this title][/us/usc/t23/s104/b/3],” and struck out “and the bridge program under section 144” after “section 104(b)”.
+    Subsec. (b). [Pub. L. 114–94, § 1446(d)(1)][/us/pl/114/94/s1446/d/1], amended directory language of [Pub. L. 112–141, § 1109(a)(2)][/us/pl/112/141/s1109/a/2]. See 2012 Amendment note below.
+
+    [Pub. L. 114–94, § 1109(c)(5)][/us/pl/114/94/s1109/c/5], substituted “surface transportation block grant program” for “surface transportation program”.
+
+    2012—Subsec. (b). [Pub. L. 112–141, § 1109(a)(1)][/us/pl/112/141/s1109/a/1], substituted “From administrative funds made available under section 104(a),” for “Whenever apportionments are made under [section 104(b)(3) of this title][/us/usc/t23/s104/b/3],”.
+
+    [Pub. L. 112–141, § 1109(a)(2)][/us/pl/112/141/s1109/a/2], as amended by [Pub. L. 114–94, § 1446(d)(1)][/us/pl/114/94/s1446/d/1], struck out “and the bridge program under section 144” after “section 104(b)”.
 
     Subsec. (c). [Pub. L. 112–141, § 1109(b)][/us/pl/112/141/s1109/b], substituted “From administrative funds made available under section 104(a),” for “Whenever apportionments are made under section 104(b)(3),”.
 
@@ -72,6 +78,12 @@
     1973—Subsec. (b). [Pub. L. 93–87][/us/pl/93/87] included apportionment of appropriated moneys for administration of subsec. (b) provisions for fiscal years 1974, 1975, and 1976, and substituted provisions which made available for such administration $5,000,000 per fiscal year for fiscal years 1972, and 1973, and $10,000,000 per fiscal year for fiscal years 1974, 1975, and 1976, for prior provision making available $5,000,000 per fiscal year for such administration.
 
     1970—[Pub. L. 91–605][/us/pl/91/605] designated existing provisions as subsec. (a) and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(1) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -118,8 +130,15 @@
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
 [/us/pl/112/141/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109
 [/us/stat/126/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F444
-[/us/pl/112/141/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
+[/us/pl/114/94/s1446/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F1
+[/us/pl/112/141/s1109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109%2Fa%2F2
+[/us/pl/114/94/s1109/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F5
+[/us/pl/112/141/s1109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109%2Fa%2F1
 [/us/usc/t23/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F3
+[/us/pl/112/141/s1109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109%2Fa%2F2
+[/us/pl/114/94/s1446/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F1
 [/us/pl/112/141/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1109%2Fb
 [/us/pl/111/350/s5/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fe%2F1%2FA
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
@@ -148,6 +167,12 @@
 [/us/usc/t23/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

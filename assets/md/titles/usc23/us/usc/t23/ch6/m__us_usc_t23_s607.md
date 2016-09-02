@@ -15,17 +15,23 @@
 
 ## § 607. Regulations
 
-    The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out this chapter
+    The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out the TIFIA program.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 187; renumbered § 607 and amended [Pub. L. 109–59, title I, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], (d), Aug. 10, 2005, [119 Stat. 1247][/us/stat/119/1247]; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 620][/us/stat/126/620].)
+(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 249][/us/stat/112/249], § 187; renumbered § 607 and amended [Pub. L. 109–59, title I, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], (d), Aug. 10, 2005, [119 Stat. 1247][/us/stat/119/1247]; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 620][/us/stat/126/620]; [Pub. L. 114–94, div. A, title II, § 2001(f)][/us/pl/114/94/s2001/f], Dec. 4, 2015, [129 Stat. 1444][/us/stat/129/1444].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94][/us/pl/114/94] substituted “the TIFIA program” for “this chapter”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section read as follows: “The Secretary may issue such regulations as the Secretary determines appropriate to carry out this chapter.”
 
     2005—[Pub. L. 109–59, § 1602(d)][/us/pl/109/59/s1602/d], renumbered [section 187 of this title][/us/usc/t23/s187] as this section.
 
     [Pub. L. 109–59, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], substituted “this chapter” for “this subchapter”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -44,10 +50,16 @@
 [/us/stat/119/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1247
 [/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
 [/us/stat/126/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F620
+[/us/pl/114/94/s2001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Ff
+[/us/stat/129/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1444
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
 [/us/usc/t23/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs187
 [/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

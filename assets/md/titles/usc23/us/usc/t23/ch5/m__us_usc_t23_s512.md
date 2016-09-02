@@ -49,9 +49,9 @@
 
     (b)  __Reporting__  __.—__ 
 
-    The National ITS program plan shall be submitted and biennially updated as part of the transportation research and development strategic plan developed under section 508.
+    The National ITS program plan shall be submitted and biennially updated.
 
-(Added [Pub. L. 109–59, title V, § 5301(a)][/us/pl/109/59/s5301/a], Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804].)
+(Added [Pub. L. 109–59, title V, § 5301(a)][/us/pl/109/59/s5301/a], Aug. 10, 2005, [119 Stat. 1804][/us/stat/119/1804]; amended [Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(D)][/us/pl/114/94/s6019/d/1/D], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581].)
 
  __References in Text__ 
 
@@ -61,9 +61,17 @@
 
     A prior section 512, formerly 511, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 834][/us/stat/82/834]; renumbered § 512, [Pub. L. 91–605, title I, § 117(a)][/us/pl/91/605/s117/a], Dec. 31, 1970, [84 Stat. 1724][/us/stat/84/1724], related to definitions for chapter, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
 
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] struck out “as part of the transportation research and development strategic plan developed under section 508” before period at end.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Intelligent Transportation System Program__ 
 
-[Pub. L. 109–59, title V][/us/pl/109/59], §§ 5303–5310, Aug. 10, 2005, [119 Stat. 1806–1813][/us/stat/119/1806-1813], provided that:
+[Pub. L. 109–59, title V][/us/pl/109/59], §§ 5303–5310, Aug. 10, 2005, [119 Stat. 1806–1813][/us/stat/119/1806-1813], as amended by [Pub. L. 114–94, div. A, title VI, § 6019(d)(3)][/us/pl/114/94/s6019/d/3], Dec. 4, 2015, [129 Stat. 1582][/us/stat/129/1582], provided that:
 
 > “SEC. 5303. __GOALS AND PURPOSES.__ 
 
@@ -197,7 +205,7 @@
 
 >         The Advisory Committee shall, at a minimum, perform the following duties:
 
->             “(A) Provide input into the development of the Intelligent Transportation System aspects of the strategic plan under [section 508 of title 23][/us/usc/t23/s508], United States Code.
+>             “(A) Provide input into the development of the Intelligent Transportation System aspects of the 5-year strategic plan under \[section\] 6503 of title 49, United States Code.
 
 >             “(B)
 
@@ -548,6 +556,8 @@
 
 [/us/pl/109/59/s5301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5301%2Fa
 [/us/stat/119/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1804
+[/us/pl/114/94/s6019/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F1%2FD
+[/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
 [/us/stat/82/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F834
@@ -555,13 +565,18 @@
 [/us/stat/84/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1724
 [/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
 [/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1806-1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1806-1813
+[/us/pl/114/94/s6019/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fd%2F3
+[/us/stat/129/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1582
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513
-[/us/usc/t23/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs508
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113

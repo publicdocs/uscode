@@ -37,7 +37,7 @@
 
         (1)  __Provision of state funds__  __.—__ 
 
-        The project agreement shall make provision for State funds required to pay the State’s non-Federal share of the cost of construction of the project and to pay for maintenance of the project after completion of construction.
+        The project agreement shall make provision for State funds required to pay the State’s non-Federal share of the cost of construction of the project (including payments made pursuant to a long-term concession agreement, such as availability payments) and to pay for maintenance of the project after completion of construction.
 
         (2)  __Representations of state__  __.—__ 
 
@@ -273,13 +273,15 @@
 
         The Secretary shall develop and publish on the public website of the Department of Transportation a detailed and comprehensive plan for the implementation of paragraph (2).
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 892][/us/stat/72/892]; [Pub. L. 88–157, § 7(a)][/us/pl/88/157/s7/a], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(e), 142, Dec. 31, 1970, [84 Stat. 1717][/us/stat/84/1717], 1737; [Pub. L. 94–280, title I, § 114][/us/pl/94/280/s114], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 100–17, title I, § 133(b)(4)][/us/pl/100/17/s133/b/4], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1016(b), 1018(a), Dec. 18, 1991, [105 Stat. 1945][/us/stat/105/1945], 1948; [Pub. L. 104–59, title III, § 303][/us/pl/104/59/s303], Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578]; [Pub. L. 105–178, title I, § 1305(a)][/us/pl/105/178/s1305/a]–(c), June 9, 1998, [112 Stat. 227–229][/us/stat/112/227-229]; [Pub. L. 109–59, title I, § 1904(a)][/us/pl/109/59/s1904/a], Aug. 10, 2005, [119 Stat. 1465][/us/stat/119/1465]; [Pub. L. 112–141, div. A, title I, § 1503(a)][/us/pl/112/141/s1503/a], July 6, 2012, [126 Stat. 561][/us/stat/126/561].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 892][/us/stat/72/892]; [Pub. L. 88–157, § 7(a)][/us/pl/88/157/s7/a], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(e), 142, Dec. 31, 1970, [84 Stat. 1717][/us/stat/84/1717], 1737; [Pub. L. 94–280, title I, § 114][/us/pl/94/280/s114], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 100–17, title I, § 133(b)(4)][/us/pl/100/17/s133/b/4], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1016(b), 1018(a), Dec. 18, 1991, [105 Stat. 1945][/us/stat/105/1945], 1948; [Pub. L. 104–59, title III, § 303][/us/pl/104/59/s303], Nov. 28, 1995, [109 Stat. 578][/us/stat/109/578]; [Pub. L. 105–178, title I, § 1305(a)][/us/pl/105/178/s1305/a]–(c), June 9, 1998, [112 Stat. 227–229][/us/stat/112/227-229]; [Pub. L. 109–59, title I, § 1904(a)][/us/pl/109/59/s1904/a], Aug. 10, 2005, [119 Stat. 1465][/us/stat/119/1465]; [Pub. L. 112–141, div. A, title I, § 1503(a)][/us/pl/112/141/s1503/a], July 6, 2012, [126 Stat. 561][/us/stat/126/561]; [Pub. L. 114–94, div. A, title II, § 2002(b)][/us/pl/114/94/s2002/b], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
 
  __References in Text__ 
 
     Executive Order No. 12893, referred to in subsec. (f)(1), is set out as a note under [section 501 of Title 31][/us/usc/t31/s501], Money and Finance.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–94, § 2002(b)][/us/pl/114/94/s2002/b], inserted “(including payments made pursuant to a long-term concession agreement, such as availability payments)” after “construction of the project”.
 
     2012—Subsec. (a)(2). [Pub. L. 112–141, § 1503(a)(1)][/us/pl/112/141/s1503/a/1], inserted “recipient” before “formalizing”.
 
@@ -361,6 +363,10 @@
 
     1963—Subsec. (c). [Pub. L. 88–157][/us/pl/88/157] substituted “a proj­ect financed with Federal-aid primary, secondary, or urban funds” for “the project” and provided for limitation, on items included in estimates for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of total estimated cost of the project where found by the Secretary to be necessary and for 10-percent limitation on projects financed with interstate funds.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -368,6 +374,18 @@
  __Effective Date of 1991 Amendment__ 
 
     Amendment by [Pub. L. 102–240][/us/pl/102/240] effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as a note under [section 104 of this title][/us/usc/t23/s104].
+
+ __Assumption of Authorities__ 
+
+[Pub. L. 114–94, div. A, title I, § 1316][/us/pl/114/94/s1316], Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall use the authority under [section 106(c) of title 23][/us/usc/t23/s106/c], United States Code, to the maximum extent practicable, to allow a State to assume the responsibilities of the Secretary for project design, plans, specifications, estimates, contract awards, and inspection of projects, on both a project-specific and programmatic basis.
+
+>     “(b)  __Submission of Recommendations__  __.—__ 
+
+>     Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in cooperation with the States, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate recommendations for legislation to permit the assumption of additional authorities by States, including with respect to real estate acquisition and project design.”
 
  __Consolidation of Grants__ 
 
@@ -516,7 +534,10 @@
 [/us/stat/119/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1465
 [/us/pl/112/141/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa
 [/us/stat/126/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F561
+[/us/pl/114/94/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2002%2Fb
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
+[/us/pl/114/94/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2002%2Fb
 [/us/pl/112/141/s1503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F1
 [/us/pl/112/141/s1503/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FA%2Fii
 [/us/pl/112/141/s1503/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FA%2Fi
@@ -548,12 +569,18 @@
 [/us/pl/91/605/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs106%2Fe
 [/us/pl/91/605/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs142
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
+[/us/pl/114/94/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1316
+[/us/stat/129/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1403
+[/us/usc/t23/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs106%2Fc
 [/us/pl/112/141/s1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1527
 [/us/stat/126/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F581
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309

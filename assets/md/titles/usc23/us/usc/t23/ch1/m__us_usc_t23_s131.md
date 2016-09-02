@@ -77,7 +77,7 @@
 
     For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean the Federal-aid primary system in existence on June 1, 1991, and any highway which is not on such system but which is on the National Highway System.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 904][/us/stat/72/904]; [Pub. L. 86–342, title I, § 106][/us/pl/86/342/s106], Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 87–61, title I, § 106][/us/pl/87/61/s106], June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 88–157, § 5][/us/pl/88/157/s5], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–285, title I, § 101][/us/pl/89/285/s101], Oct. 22, 1965, [79 Stat. 1028][/us/stat/79/1028]; [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(a)][/us/pl/90/495/s6/a]–(d), Aug. 23, 1968, [82 Stat. 817][/us/stat/82/817]; [Pub. L. 91–605, title I, § 122(a)][/us/pl/91/605/s122/a], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 109][/us/pl/93/643/s109], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I, § 122][/us/pl/94/280/s122], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 121, 122, Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700], 2701; [Pub. L. 96–106, § 6][/us/pl/96/106/s6], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 102–240, title I, § 1046(a)][/us/pl/102/240/s1046/a]–(c), Dec. 18, 1991, [105 Stat. 1995][/us/stat/105/1995], 1996; [Pub. L. 102–302, § 104][/us/pl/102/302/s104], June 22, 1992, [106 Stat. 253][/us/stat/106/253]; [Pub. L. 104–59, title III, § 314][/us/pl/104/59/s314], Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)][/us/pl/105/178/s1212/a/2/A], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1519(c)(7), 1539(b), July 6, 2012, [126 Stat. 576][/us/stat/126/576], 587.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 904][/us/stat/72/904]; [Pub. L. 86–342, title I, § 106][/us/pl/86/342/s106], Sept. 21, 1959, [73 Stat. 612][/us/stat/73/612]; [Pub. L. 87–61, title I, § 106][/us/pl/87/61/s106], June 29, 1961, [75 Stat. 123][/us/stat/75/123]; [Pub. L. 88–157, § 5][/us/pl/88/157/s5], Oct. 24, 1963, [77 Stat. 277][/us/stat/77/277]; [Pub. L. 89–285, title I, § 101][/us/pl/89/285/s101], Oct. 22, 1965, [79 Stat. 1028][/us/stat/79/1028]; [Pub. L. 89–574, § 8(a)][/us/pl/89/574/s8/a], Sept. 13, 1966, [80 Stat. 768][/us/stat/80/768]; [Pub. L. 90–495, § 6(a)][/us/pl/90/495/s6/a]–(d), Aug. 23, 1968, [82 Stat. 817][/us/stat/82/817]; [Pub. L. 91–605, title I, § 122(a)][/us/pl/91/605/s122/a], Dec. 31, 1970, [84 Stat. 1726][/us/stat/84/1726]; [Pub. L. 93–643, § 109][/us/pl/93/643/s109], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I, § 122][/us/pl/94/280/s122], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I][/us/pl/95/599], §§ 121, 122, Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700], 2701; [Pub. L. 96–106, § 6][/us/pl/96/106/s6], Nov. 9, 1979, [93 Stat. 797][/us/stat/93/797]; [Pub. L. 102–240, title I, § 1046(a)][/us/pl/102/240/s1046/a]–(c), Dec. 18, 1991, [105 Stat. 1995][/us/stat/105/1995], 1996; [Pub. L. 102–302, § 104][/us/pl/102/302/s104], June 22, 1992, [106 Stat. 253][/us/stat/106/253]; [Pub. L. 104–59, title III, § 314][/us/pl/104/59/s314], Nov. 28, 1995, [109 Stat. 586][/us/stat/109/586]; [Pub. L. 105–178, title I, § 1212(a)(2)(A)][/us/pl/105/178/s1212/a/2/A], June 9, 1998, [112 Stat. 193][/us/stat/112/193]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1519(c)(6), formerly 1519(c)(7), 1539(b), July 6, 2012, [126 Stat. 576][/us/stat/126/576], 587, renumbered § 1519(c)(6), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
     2012—Subsec. (i). [Pub. L. 112–141, § 1539(b)][/us/pl/112/141/s1539/b], inserted at end “A State may permit the installation of signs that acknowledge the sponsorship of rest areas within such rest areas or along the main traveled way of the system, provided that such signs shall not affect the safe and efficient utilization of the Interstate System and the primary system. The Secretary shall establish criteria for the installation of such signs on the main traveled way, including criteria pertaining to the placement of rest area sponsorship acknowledgment signs in relation to the placement of advance guide signs for rest areas.”
 
-    Subsec. (m). [Pub. L. 112–141, § 1519(c)(7)][/us/pl/112/141/s1519/c/7], substituted “A State” for “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State”.
+    Subsec. (m). [Pub. L. 112–141, § 1519(c)(6)][/us/pl/112/141/s1519/c/6], formerly § 1519(c)(7), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “A State” for “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State”.
 
     1998—Subsec. (i). [Pub. L. 105–178, § 1212(a)(2)(A)(ii)][/us/pl/105/178/s1212/a/2/A/ii], substituted “State transportation departments” for “State highway departments”.
 
@@ -161,6 +161,10 @@
 
     1959—Subsec. (b). [Pub. L. 86–342][/us/pl/86/342] substituted “Agreements entered into between the Secretary of Commerce and State highway departments under this section shall not apply to those segments of the Interstate System which traverse commercial or industrial zones within the presently existing boundaries of incorporated municipalities wherein the use of real property adjacent to the Interstate System is subject to municipal regulation or control, or which traverse other areas where the land use, as of the date of approval of this Act, is clearly established by State law as industrial or commercial” for “Upon application of the State, any such agreement may, within the discretion of the Secretary of Commerce consistent with the national policy, provide for excluding from application of the national standards segments of the Interstate System which traverse incorporated municipalities wherein the use of real property adjacent to the Interstate System is subject to municipal regulation or control, or which traverse other areas where the land use is clearly established by State law as industrial or commercial.”
 
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -172,6 +176,16 @@
  __Effective Date of 1968 Amendment__ 
 
     Amendment by [Pub. L. 90–495][/us/pl/90/495] effective Aug. 23, 1968, see [section 37 of Pub. L. 90–495][/us/pl/90/495/s37], set out as a note under [section 101 of this title][/us/usc/t23/s101].
+
+ __Service Club, Charitable Association, or Religious Service Signs__ 
+
+[Pub. L. 114–94, div. A, title I, § 1425][/us/pl/114/94/s1425], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
+
+> “Notwithstanding [section 131 of title 23][/us/usc/t23/s131], United States Code, and part 750 of title 23, Code of Federal Regulations (or successor regulations), if a State notifies the Federal Highway Administration, the State may allow the maintenance of a sign of a service club, charitable association, or religious service organization—
+
+>     “(1) that exists on the date of enactment of this Act \[Dec. 4, 2015\] (or was removed in the 3-year period ending on such date of enactment); and
+
+>     “(2) the area of which is less than or equal to 32 square feet.”
 
  __Study of State Practices on Specific Service Signing__ 
 
@@ -285,6 +299,8 @@
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F576
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/89/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F285
 [/us/stat/79/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1028
 [/us/usc/t23/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs136
@@ -294,7 +310,8 @@
 [/us/pl/102/240/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1047
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s1539/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1539%2Fb
-[/us/pl/112/141/s1519/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F7
+[/us/pl/112/141/s1519/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F6
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/105/178/s1212/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fii
 [/us/pl/105/178/s1212/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1212%2Fa%2F2%2FA%2Fi
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
@@ -330,6 +347,9 @@
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
 [/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
 [/us/pl/86/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -339,6 +359,9 @@
 [/us/pl/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1425
+[/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
+[/us/usc/t23/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs131
 [/us/pl/105/178/s1213/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1213%2Fg
 [/us/stat/112/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F202
 [/us/pl/102/240/s1046/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1046%2Fd

@@ -71,7 +71,7 @@
 
         (6)  __Administrative expenses__  __.—__ 
 
-        Of the funds authorized to be appropriated for the tribal transportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
+        Of the funds authorized to be appropriated for the tribal transportation program, not more than 5 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
 
         (7)  __Tribal technical assistance centers__  __.—__ 
 
@@ -189,7 +189,7 @@
 
                 (i)  __In general__  __.—__ 
 
-                After making the set asides authorized under subparagraph (C) and subsections (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
+                After making the set asides authorized under subparagraph (C) and subsections (a)(6), (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
 
                     (I)
 
@@ -283,7 +283,7 @@
 
                     (IV)  __Other amounts__  __.—__ 
 
-                    If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region’s funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).\]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing bracket probably should not appear. </sup></sup> 
+                    If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region’s funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).
 
         (4)  __Transferred funds__  __.—__ 
 
@@ -297,7 +297,7 @@
 
         (5)  __Health and safety assurances__  __.—__ 
 
-        Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “the”. </sup></sup>  Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), if the Indian tribal government—
+        Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “the”. </sup></sup>  Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), if the Indian tribal government—
 
             (A) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -309,7 +309,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 2 Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
+            Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 1 Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
 
             (B)  __Exclusion of agency participation__  __.—__ 
 
@@ -389,7 +389,7 @@
 
         (2)  __Funding__  __.—__ 
 
-        Before making any distribution under subsection (b), the Secretary shall set aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+        Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
 
             (A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
 
@@ -423,7 +423,7 @@
 
     Before approving as a project on a tribal transportation facility any project eligible for funds apportioned under section 104 in a State, the Secretary shall, for projects on tribal transportation facilities, determine that the obligation of funds for the project is supplementary to and not in lieu of the obligation of a fair and equitable share of funds apportioned to the State under section 104.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 476][/us/stat/126/476].)
+(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 476][/us/stat/126/476]; amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1118, 1446(a)(12), Dec. 4, 2015, [129 Stat. 1358][/us/stat/129/1358], 1438.)
 
  __References in Text__ 
 
@@ -436,6 +436,20 @@
  __Prior Provisions__ 
 
     A prior section 202, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 94–280, title I, § 133][/us/pl/94/280/s133], May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 97–424, title I, § 126(a)][/us/pl/97/424/s126/a], Jan. 6, 1983, [96 Stat. 2113][/us/stat/96/2113]; [Pub. L. 102–240, title I, § 1032(a)][/us/pl/102/240/s1032/a], Dec. 18, 1991, [105 Stat. 1974][/us/stat/105/1974]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, [112 Stat. 154][/us/stat/112/154], 158, 193; [Pub. L. 105–206, title IX, § 9002(i)][/us/pl/105/206/s9002/i], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 109–59, title I, § 1119(c)][/us/pl/109/59/s1119/c]–(g), Aug. 10, 2005, [119 Stat. 1182–1185][/us/stat/119/1182-1185], related to allocations, prior to repeal by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(6). [Pub. L. 114–94, § 1118(1)][/us/pl/114/94/s1118/1], substituted “5 percent” for “6 percent”.
+
+    Subsec. (b)(3)(A)(i). [Pub. L. 114–94, § 1446(a)(12)(A)][/us/pl/114/94/s1446/a/12/A], inserted “(a)(6),” after “subsections” in introductory provisions.
+
+    Subsec. (b)(3)(C)(ii)(IV). [Pub. L. 114–94, § 1446(a)(12)(B)][/us/pl/114/94/s1446/a/12/B], substituted “(III).” for “(III).\]”.
+
+    Subsec. (d)(2). [Pub. L. 114–94, § 1118(2)][/us/pl/114/94/s1118/2], substituted “3 percent” for “2 percent” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -742,6 +756,8 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F476
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1358
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
@@ -766,6 +782,13 @@
 [/us/stat/119/1182-1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1182-1185
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
+[/us/pl/114/94/s1118/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1118%2F1
+[/us/pl/114/94/s1446/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F12%2FA
+[/us/pl/114/94/s1446/a/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F12%2FB
+[/us/pl/114/94/s1118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1118%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1123

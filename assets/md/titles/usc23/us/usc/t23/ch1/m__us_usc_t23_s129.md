@@ -51,7 +51,7 @@
 
             (A)  __In general__  __.—__ 
 
-            A public authority with jurisdiction over a toll facility shall use all toll revenues received from operation of the toll facility only for—
+            A public authority with jurisdiction over a toll facility shall ensure that all toll revenues received from operation of the toll facility are used only for—
 
                 (i) debt service with respect to the projects on or for which the tolls are authorized, including funding of reasonable reserves and debt service on refinancing;
 
@@ -77,29 +77,7 @@
 
             If the Secretary concludes that a public authority has not complied with the limitations on the use of revenues described in subparagraph (A), the Secretary may require the public authority to discontinue collecting tolls until an agreement with the Secretary is reached to achieve compliance with the limitation on the use of revenues described in subparagraph (A).
 
-        (4) __Limitations on conversion of high occupancy vehicle facilities on interstate system.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            A public authority with jurisdiction over a high occupancy vehicle facility on the Interstate System may undertake reconstruction, restoration, or rehabilitation under paragraph (1)(G) on the facility, and may levy tolls on vehicles, excluding high occupancy vehicles, using the reconstructed, restored, or rehabilitated facility, if the public authority—
-
-                (i) in the case of a high occupancy vehicle facility that affects a metropolitan area, submits to the Secretary a written assurance that the metropolitan planning organization designated under section 5203  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section 5303”. </sup></sup>  of title 49 for the area has been consulted concerning the placement and amount of tolls on the converted facility;
-
-                (ii) develops, manages, and maintains a system that will automatically collect the toll; and
-
-                (iii)
-
-                 establishes policies and procedures—
-
-                    (I) to manage the demand to use the facility by varying the toll amount that is charged; and
-
-                    (II) to enforce sanctions for violations of use of the facility.
-
-            (B)  __Exemption from tolls__  __.—__ 
-
-            In levying tolls on a facility under subparagraph (A), a public authority may designate classes of vehicles that are exempt from the tolls or charge different toll rates for different classes of vehicles.
-
-        (5) __Special rule for funding.—__ 
+        (4) __Special rule for funding.—__ 
 
             (A)  __In general__  __.—__ 
 
@@ -107,17 +85,17 @@
 
             (B)  __Source__  __.—__ 
 
-            The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid system in the State on which the project is being carried out.
+            The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid highways in the State on which the project is being carried out.
 
-        (6)  __Limitation on federal share__  __.—__ 
+        (5)  __Limitation on federal share__  __.—__ 
 
         The Federal share payable for a project described in paragraph (1) shall be a percentage determined by the State, but not to exceed 80 percent.
 
-        (7)  __Modifications__  __.—__ 
+        (6)  __Modifications__  __.—__ 
 
         If a public authority (including a State transportation department) with jurisdiction over a toll facility subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991 ([105 Stat. 1915][/us/stat/105/1915]), requests modification of the agreement, the Secretary shall modify the agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
 
-        (8) __Loans.—__ 
+        (7) __Loans.—__ 
 
             (A) __In general.—__ 
 
@@ -165,9 +143,13 @@
 
             The Secretary shall establish procedures and guidelines for making loans under this paragraph.
 
-        (9)  __State law permitting tolling__  __.—__ 
+        (8)  __State law permitting tolling__  __.—__ 
 
         If a State does not have a highway, bridge, or tunnel toll facility as of the date of enactment of the MAP–21, before commencing any activity authorized under this section, the State shall have in effect a law that permits tolling on a highway, bridge, or tunnel.
+
+        (9)  __Equal access for over-the-road buses__  __.—__ 
+
+        An over-the-road bus that serves the public shall be provided access to a toll facility under the same rates, terms, and conditions as public transportation buses.
 
         (10)  __Definitions__  __.—__ 
 
@@ -187,11 +169,15 @@
 
                 The term “initial construction” does not include any improvement to a highway, bridge, tunnel, or other facility after it is open to traffic.
 
-            (C)  __Public authority__  __.—__ 
+            (C)  __Over-the-road bus__  __.—__ 
+
+            The term “over-the-road bus” has the meaning given the term in section 301 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12181][/us/usc/t42/s12181]).
+
+            (D)  __Public authority__  __.—__ 
 
             The term “public authority” means a State, interstate compact of States, or public entity designated by a State.
 
-            (D)  __Toll facility__  __.—__ 
+            (E)  __Toll facility__  __.—__ 
 
             The term “toll facility” means a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel constructed under this subsection.
 
@@ -203,17 +189,27 @@
 
         (1) It is not feasible to build a bridge, tunnel, combination thereof, or other normal highway structure in lieu of the use of such ferry.
 
-        (2) The operation of the ferry shall be on a route classified as a public road within the State and which has not been designated as a route on the Interstate System. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
+        (2) The operation of the ferry shall be on a route classified as a public road within the State and which has not been designated as a route on the Interstate System or on a public transit ferry eligible under chapter 53 of title 49. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
 
-        (3) Such ferry boat or ferry terminal facility shall be publicly owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.
+        (3)
 
-        (4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup>  repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
+            (A) The ferry boat or ferry terminal facility shall be publicly owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.
+
+            (B) Any Federal participation shall not involve the construction or purchase, for private ownership, of a ferry boat, ferry terminal facility, or other eligible project under this section.
+
+        (4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
         (5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
-        (6) No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.
+        (6) The ferry service shall be maintained in accordance with section 116.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–657][/us/pl/86/657], §§ 5, 8(a), July 14, 1960, [74 Stat. 523][/us/stat/74/523], 524; [Pub. L. 90–495, § 28][/us/pl/90/495/s28], Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 133, 139, Dec. 31, 1970, [84 Stat. 1732][/us/stat/84/1732], 1736; [Pub. L. 92–434, § 7][/us/pl/92/434/s7], Sept. 26, 1972, [86 Stat. 732][/us/stat/86/732]; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 118, 132, 139, Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259], 267, 270; [Pub. L. 93–643, § 108][/us/pl/93/643/s108], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I, § 121][/us/pl/94/280/s121], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I, § 120][/us/pl/95/599/s120], Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700]; [Pub. L. 100–17, title I, § 120(a)][/us/pl/100/17/s120/a], (b), Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157], 158; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(d)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 100–457, title III][/us/pl/100/457], §§ 326, 335, Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150], 2153; [Pub. L. 102–240, title I, § 1012(a)][/us/pl/102/240/s1012/a], (c), Dec. 18, 1991, [105 Stat. 1936][/us/stat/105/1936], 1938; [Pub. L. 102–388, title IV, § 410][/us/pl/102/388/s410], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 104–59, title III, § 313(a)][/us/pl/104/59/s313/a]–(c), Nov. 28, 1995, [109 Stat. 585][/us/stat/109/585], 586; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 185, 189; [Pub. L. 105–206, title IX, § 9003(d)(5)][/us/pl/105/206/s9003/d/5], July 22, 1998, [112 Stat. 840][/us/stat/112/840]; [Pub. L. 109–59, title I, § 1801(f)][/us/pl/109/59/s1801/f], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456]; [Pub. L. 112–141, div. A, title I, § 1512(a)][/us/pl/112/141/s1512/a], July 6, 2012, [126 Stat. 567][/us/stat/126/567].)
+        (7)
+
+            (A) No ferry boat or ferry terminal with Federal participation under this title may be sold, leased, or otherwise disposed of, except in accordance with part 200 of title 2, Code of Federal Regulations.
+
+            (B) The Federal share of any proceeds from a disposition referred to in subparagraph (A) shall be used for eligible purposes under this title.
+
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–657][/us/pl/86/657], §§ 5, 8(a), July 14, 1960, [74 Stat. 523][/us/stat/74/523], 524; [Pub. L. 90–495, § 28][/us/pl/90/495/s28], Aug. 23, 1968, [82 Stat. 829][/us/stat/82/829]; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 133, 139, Dec. 31, 1970, [84 Stat. 1732][/us/stat/84/1732], 1736; [Pub. L. 92–434, § 7][/us/pl/92/434/s7], Sept. 26, 1972, [86 Stat. 732][/us/stat/86/732]; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 118, 132, 139, Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259], 267, 270; [Pub. L. 93–643, § 108][/us/pl/93/643/s108], Jan. 4, 1975, [88 Stat. 2284][/us/stat/88/2284]; [Pub. L. 94–280, title I, § 121][/us/pl/94/280/s121], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 95–599, title I, § 120][/us/pl/95/599/s120], Nov. 6, 1978, [92 Stat. 2700][/us/stat/92/2700]; [Pub. L. 100–17, title I, § 120(a)][/us/pl/100/17/s120/a], (b), Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157], 158; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(d)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 100–457, title III][/us/pl/100/457], §§ 326, 335, Sept. 30, 1988, [102 Stat. 2150][/us/stat/102/2150], 2153; [Pub. L. 102–240, title I, § 1012(a)][/us/pl/102/240/s1012/a], (c), Dec. 18, 1991, [105 Stat. 1936][/us/stat/105/1936], 1938; [Pub. L. 102–388, title IV, § 410][/us/pl/102/388/s410], Oct. 6, 1992, [106 Stat. 1565][/us/stat/106/1565]; [Pub. L. 104–59, title III, § 313(a)][/us/pl/104/59/s313/a]–(c), Nov. 28, 1995, [109 Stat. 585][/us/stat/109/585], 586; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 185, 189; [Pub. L. 105–206, title IX, § 9003(d)(5)][/us/pl/105/206/s9003/d/5], July 22, 1998, [112 Stat. 840][/us/stat/112/840]; [Pub. L. 109–59, title I, § 1801(f)][/us/pl/109/59/s1801/f], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456]; [Pub. L. 112–141, div. A, title I, § 1512(a)][/us/pl/112/141/s1512/a], July 6, 2012, [126 Stat. 567][/us/stat/126/567]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1112(c), 1411(a), Dec. 4, 2015, [129 Stat. 1346][/us/stat/129/1346], 1412.)
 
  __References in Text__ 
 
@@ -222,6 +218,28 @@
     The date of enactment of the MAP–21, referred to in subsec. (a)(9), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(A). [Pub. L. 114–94, § 1411(a)(1)][/us/pl/114/94/s1411/a/1], in introductory provisions, substituted “shall ensure that” for “shall use” and inserted “are used” before “only for”.
+
+    Subsec. (a)(4). [Pub. L. 114–94, § 1411(a)(2)][/us/pl/114/94/s1411/a/2], redesignated par. (5) as (4) and struck out former par. (4) which related to limitations on conversion of high occupancy vehicle facilities on interstate system.
+
+    Subsec. (a)(4)(B). [Pub. L. 114–94, § 1411(a)(3)][/us/pl/114/94/s1411/a/3], substituted “Federal-aid highways” for “Federal-aid system”.
+
+    Subsec. (a)(5) to (8). [Pub. L. 114–94, § 1411(a)(2)][/us/pl/114/94/s1411/a/2], redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5) redesignated (4).
+
+    Subsec. (a)(9). [Pub. L. 114–94, § 1411(a)(4)][/us/pl/114/94/s1411/a/4], added par. (9).
+
+    [Pub. L. 114–94, § 1411(a)(2)][/us/pl/114/94/s1411/a/2], redesignated par. (9) as (8).
+
+    Subsec. (a)(10)(C) to (E). [Pub. L. 114–94, § 1411(a)(5)][/us/pl/114/94/s1411/a/5], added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+
+    Subsec. (c)(2). [Pub. L. 114–94, § 1112(c)(1)][/us/pl/114/94/s1112/c/1], inserted “or on a public transit ferry eligible under chapter 53 of title 49” after “Interstate System”.
+
+    Subsec. (c)(3). [Pub. L. 114–94, § 1112(c)(2)][/us/pl/114/94/s1112/c/2], designated existing provisions as subpar. (A), substituted “The ferry” for “Such ferry”, and added subpar. (B).
+
+    Subsec. (c)(4). [Pub. L. 114–94, § 1112(c)(3)][/us/pl/114/94/s1112/c/3], substituted “repair,” for “and repair,”.
+
+    Subsec. (c)(6), (7). [Pub. L. 114–94, § 1112(c)(4)][/us/pl/114/94/s1112/c/4], added pars. (6) and (7) and struck out former par. (6) which read as follows: “No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.”
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141] amended subsec. (a) generally. Prior to amendment, subsec. (a) related to basic program and consisted of pars. (1) to (8).
 
@@ -311,6 +329,10 @@
 
     Subsec. (e). [Pub. L. 86–657, § 5(a)][/us/pl/86/657/s5/a], added subsec. (e).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -335,7 +357,7 @@
 
  __Express Lanes Demonstration Program__ 
 
-[Pub. L. 109–59, title I, § 1604(b)][/us/pl/109/59/s1604/b], Aug. 10, 2005, [119 Stat. 1250][/us/stat/119/1250], provided that:
+[Pub. L. 109–59, title I, § 1604(b)][/us/pl/109/59/s1604/b], Aug. 10, 2005, [119 Stat. 1250][/us/stat/119/1250], as amended by [Pub. L. 114–94, div. A, title I, § 1419(b)][/us/pl/114/94/s1419/b], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -471,15 +493,13 @@
 
 >                 “(IV) use of revenues to meet transportation or impact mitigation needs.
 
->         “(B)  __Reports to congress__  __.—__ 
-
->         The Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
-
->             “(i) not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], and annually thereafter, a report that describes in detail the uses of funds under this subsection in accordance with paragraph (8)(D) \[no par. (8) has been enacted\]; and
-
->             “(ii) not later than 3 years after the date of enactment of this Act, and every 3 years thereafter, a report that describes any success of the program under this subsection in meeting congestion reduction and other performance goals established for express lane programs.”
+>             \[“(B) Repealed. [Pub. L. 114–94, div. A, title I, § 1419(b)][/us/pl/114/94/s1419/b], Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423].\]”
 
  __Interstate System Construction Toll Pilot Program__ 
+
+[Pub. L. 114–94, div. A, title I, § 1411(d)][/us/pl/114/94/s1411/d], Dec. 4, 2015, [129 Stat. 1416][/us/stat/129/1416], provided that: 
+
+> “The Secretary \[of Transporation\] may approve an application submitted under section 1604(c) of SAFETEA–LU ([Public Law 109–59][/us/pl/109/59]; [119 Stat. 1253][/us/stat/119/1253]) \[set out as a note below\] if the application, or any part of the application, was submitted before the deadline specified in section 1604(c)(8) of that Act.”
 
 [Pub. L. 109–59, title I, § 1604(c)][/us/pl/109/59/s1604/c], Aug. 10, 2005, [119 Stat. 1253][/us/stat/119/1253], provided that:
 
@@ -569,7 +589,7 @@
 
  __National Ferry Database__ 
 
-[Pub. L. 109–59, title I, § 1801(e)][/us/pl/109/59/s1801/e], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456], as amended by [Pub. L. 112–141, div. A, title I, § 1121(b)][/us/pl/112/141/s1121/b], July 6, 2012, [126 Stat. 494][/us/stat/126/494], provided that:
+[Pub. L. 109–59, title I, § 1801(e)][/us/pl/109/59/s1801/e], Aug. 10, 2005, [119 Stat. 1456][/us/stat/119/1456], as amended by [Pub. L. 112–141, div. A, title I, § 1121(b)][/us/pl/112/141/s1121/b], July 6, 2012, [126 Stat. 494][/us/stat/126/494]; [Pub. L. 114–94, div. A, title I, § 1112(b)][/us/pl/114/94/s1112/b], Dec. 4, 2015, [129 Stat. 1346][/us/stat/129/1346], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -593,7 +613,7 @@
 
 >         “(C) ensure that the database is consistent with the national transit database maintained by the Federal Transit Administration; and
 
->         “(D) make available, from the amounts made available for the Bureau of Transportation Statistics by section 5101 of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], not more than $500,000 for each of fiscal years 2006 through 2014 to establish and maintain the database.”
+>         “(D) make available, from the amounts made available for each fiscal year to carry out chapter 63 of title 49, not more than $500,000 to maintain the database.”
 
  __Ferry Transportation Study__ 
 
@@ -621,7 +641,7 @@
 
  __Interstate System Reconstruction and Rehabilitation Pilot Program__ 
 
-[Pub. L. 105–178, title I, § 1216(b)][/us/pl/105/178/s1216/b], June 9, 1998, [112 Stat. 212][/us/stat/112/212], provided that:
+[Pub. L. 105–178, title I, § 1216(b)][/us/pl/105/178/s1216/b], June 9, 1998, [112 Stat. 212][/us/stat/112/212], as amended by [Pub. L. 114–94, div. A, title I, § 1411(c)][/us/pl/114/94/s1411/c], Dec. 4, 2015, [129 Stat. 1415][/us/stat/129/1415], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -665,9 +685,11 @@
 
 >         “(C) the State plan for implementing tolls on the facility takes into account the interests of local, regional, and interstate travelers;
 
->         “(D) the State plan for reconstruction or rehabilitation of the facility using toll revenues is reasonable; and
+>         “(D) the State plan for reconstruction or rehabilitation of the facility using toll revenues is reasonable;
 
->         “(E) the State has given preference to the use of a public toll agency with demonstrated capability to build, operate, and maintain a toll expressway system meeting criteria for the Interstate System.
+>         “(E) the State has given preference to the use of a public toll agency with demonstrated capability to build, operate, and maintain a toll expressway system meeting criteria for the Interstate System; and
+
+>         “(F) the State has the authority required for the project to proceed.
 
 >     “(5)  __Limitations on use of revenues; audits__  __.—__ 
 
@@ -685,15 +707,47 @@
 
 >         “(B) regular audits will be conducted to ensure compliance with subparagraph (A) and the results of such audits will be transmitted to the Secretary.
 
->     “(6)  __Limitation on use of interstate maintenance funds__  __.—__ 
+>     “(6) __Requirements for project completion.—__ 
+
+>         “(A)  __General term for expiration of provisional application__  __.—__ 
+
+>         An application provisionally approved by the Secretary under this subsection shall expire 3 years after the date on which the application was provisionally approved if the State has not—
+
+>             “(i) submitted a complete application to the Secretary that fully satisfies the eligibility criteria under paragraph (3) and the selection criteria under paragraph (4);
+
+>             “(ii) completed the environmental review and permitting process under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) for the pilot project; and
+
+>             “(iii) executed a toll agreement with the Secretary.
+
+>         “(B)  __Exceptions to expiration__  __.—__ 
+
+>         Notwithstanding subparagraph (A), the Secretary may extend the provisional approval for not more than 1 additional year if the State demonstrates material progress toward implementation of the project as evidenced by—
+
+>             “(i) substantial progress in completing the environmental review and permitting process for the pilot project under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.);
+
+>             “(ii) funding and financing commitments for the pilot project;
+
+>             “(iii) expressions of support for the pilot project from State and local governments, community interests, and the public; and
+
+>             “(iv) submission of a facility management plan pursuant to paragraph (3)(D).
+
+>         “(C)  __Conditions for previously provisionally approved applications__  __.—__ 
+
+>         A State with a provisionally approved application for a pilot project as of the date of enactment of the FAST Act \[Dec. 4, 2015\] shall have 1 year after that date of enactment to meet the requirements of subparagraph (A) or receive an extension from the Secretary under subparagraph (B), or the application will expire.
+
+>     “(7)  __Definition__  __.—__ 
+
+>     In this subsection, the term ‘provisional approval’ or ‘provisionally approved’ means the approval by the Secretary of a partial application under this subsection, including the reservation of a slot in the pilot program.
+
+>     “(8)  __Limitation on use of interstate maintenance funds__  __.—__ 
 
 >     During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] [section 104(b)(4) of title 23][/us/usc/t23/s104/b/4], United States Code, may not be used on a facility for which tolls are being collected under the program.
 
->     “(7)  __Program term__  __.—__ 
+>     “(9)  __Program term__  __.—__ 
 
 >     The Secretary shall conduct the pilot program under this subsection for a term to be determined by the Secretary, but not less than 10 years.
 
->     “(8)  __Interstate system defined__  __.—__ 
+>     “(10)  __Interstate system defined__  __.—__ 
 
 >     In this subsection, the term ‘Interstate System’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 
@@ -701,7 +755,7 @@
 
 [Pub. L. 102–240, title I, § 1012(d)][/us/pl/102/240/s1012/d], Dec. 18, 1991, [105 Stat. 1939][/us/stat/105/1939], provided that: 
 
-> “Unless modified under section 129(a)(6) of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
+> “Unless modified under section 129(a)(6) \[now 129(a)(5)\] of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
 
  __Construction of Ferry Boats and Ferry Terminal Facilities__ 
 
@@ -725,6 +779,7 @@
 ----------
 
 [/us/stat/105/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1915
+[/us/usc/t42/s12181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181
 [/us/usc/t23/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs301
 [/us/usc/t23/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs301
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
@@ -765,10 +820,23 @@
 [/us/stat/119/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1456
 [/us/pl/112/141/s1512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1512%2Fa
 [/us/stat/126/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F567
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1346
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F1
+[/us/pl/114/94/s1411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F2
+[/us/pl/114/94/s1411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F3
+[/us/pl/114/94/s1411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F2
+[/us/pl/114/94/s1411/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F4
+[/us/pl/114/94/s1411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F2
+[/us/pl/114/94/s1411/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fa%2F5
+[/us/pl/114/94/s1112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fc%2F1
+[/us/pl/114/94/s1112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fc%2F2
+[/us/pl/114/94/s1112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fc%2F3
+[/us/pl/114/94/s1112/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fc%2F4
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178/s1106/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1106%2Fc%2F1%2FC
@@ -817,6 +885,9 @@
 [/us/pl/86/657/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs5%2Fb
 [/us/pl/86/657/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs8%2Fa
 [/us/pl/86/657/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657%2Fs5%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -839,9 +910,17 @@
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59/s1604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1604%2Fb
 [/us/stat/119/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1250
+[/us/pl/114/94/s1419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1419%2Fb
+[/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
 [/us/usc/t23/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs166
 [/us/usc/t23/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs149
+[/us/pl/114/94/s1419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1419%2Fb
+[/us/stat/129/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1423
+[/us/pl/114/94/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fd
+[/us/stat/129/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1416
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/stat/119/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1253
 [/us/pl/109/59/s1604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1604%2Fc
 [/us/stat/119/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1253
 [/us/usc/t23/s104/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F4
@@ -850,15 +929,20 @@
 [/us/stat/119/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1456
 [/us/pl/112/141/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1121%2Fb
 [/us/stat/126/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F494
+[/us/pl/114/94/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1112%2Fb
+[/us/stat/129/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1346
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t23/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs129
 [/us/stat/112/185-186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F185-186
-[/us/stat/119/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1779
 [/us/pl/105/178/s1207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1207%2Fc
 [/us/stat/112/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F185
 [/us/pl/105/178/s1216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1216%2Fb
 [/us/stat/112/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F212
+[/us/pl/114/94/s1411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1411%2Fc
+[/us/stat/129/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1415
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t23/s104/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F4
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/102/240/s1012/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1012%2Fd

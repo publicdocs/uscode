@@ -67,7 +67,7 @@
 
             (B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories;
 
-            (C) by entering into contracts, cooperative agreements, and other transactions with the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1); or
+            (C) by entering into contracts, cooperative agreements, and other transactions with the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, foreign government (in coordination with the Department of State) or person (as defined in chapter 1 of title 1); or
 
             (D) by making grants to the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1).
 
@@ -77,7 +77,7 @@
 
         To encourage innovative solutions to highway safety problems, stimulate voluntary improvements in highway safety, and stimulate the marketing of new highway safety related technology by private industry, the Secretary is authorized to carry out, on a cost-shared basis, collaborative research and development with—
 
-            (A) non-Federal entities, including State and local governments, colleges, universities, corporations, partnerships, sole proprietorships, organizations, and trade associations that are incorporated or established under the laws of any State or the United States; and
+            (A) non-Federal entities, including State and local governments, foreign governments, colleges, universities, corporations, partnerships, sole proprietorships, organizations, and trade associations that are incorporated or established under the laws of any State or the United States; and
 
             (B) Federal laboratories.
 
@@ -95,7 +95,7 @@
 
     (e)  __Prohibition on Certain Disclosures__  __.—__ 
 
-    Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 may only be made available to the public in a manner that does not identify individuals.
+    Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 of title 49 may only be made available to the public in a manner that does not identify individuals.
 
     (f)  __Cooperative Research and Evaluation__  __.—__ 
 
@@ -119,19 +119,19 @@
 
         (1)  __In general__  __.—__ 
 
-        The Administrator of the National Highway Traffic Safety Administration may carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
+        The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
 
         (2)  __Funding__  __.—__ 
 
-        Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).
+        The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2020 not more than $21,248,000 to conduct the research described in paragraph (1).
 
         (3)  __Privacy protection__  __.—__ 
 
-        If the Administrator utilizes the authority under paragraph (1), the Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
+        The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
 
         (4)  __Reports__  __.—__ 
 
-        If the Administrator conducts the research authorized under paragraph (1), the Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
+        The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
 
             (A) describes the progress made in carrying out the collaborative research effort; and
 
@@ -149,7 +149,15 @@
 
             The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I, § 1101(b)][/us/pl/114/41/s1101/b], July 31, 2015, [129 Stat. 448][/us/stat/129/448]; [Pub. L. 114–73, title I, § 1101(b)][/us/pl/114/73/s1101/b], Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571]; [Pub. L. 114–87, title I, § 1101(b)][/us/pl/114/87/s1101/b], Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680].)
+    (i)  __Limitation on Drug and Alcohol Survey Data__  __.—__ 
+
+    The Secretary shall establish procedures and guidelines to ensure that any person participating in a program or activity that collects data on drug or alcohol use by drivers of motor vehicles and is carried out under this section is informed that the program or activity is voluntary.
+
+    (j)  __Federal Share__  __.—__ 
+
+    The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.
+
+(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I, § 1101(b)][/us/pl/114/41/s1101/b], July 31, 2015, [129 Stat. 448][/us/stat/129/448]; [Pub. L. 114–73, title I, § 1101(b)][/us/pl/114/73/s1101/b], Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571]; [Pub. L. 114–87, title I, § 1101(b)][/us/pl/114/87/s1101/b], Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680]; [Pub. L. 114–94, div. A, title IV][/us/pl/114/94], §§ 4003, § 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, [129 Stat. 1500][/us/stat/129/1500], 1513, 1712.)
 
  __References in Text__ 
 
@@ -157,13 +165,29 @@
 
  __Amendments__ 
 
-    2015—Subsec. (f)(1). [Pub. L. 114–87][/us/pl/114/87] substituted “and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+    2015—Subsec. (b)(2)(C). [Pub. L. 114–94, § 24202(b)(1)][/us/pl/114/94/s24202/b/1], inserted “foreign government (in coordination with the Department of State)” after “institution,”.
+
+    Subsec. (c)(1)(A). [Pub. L. 114–94, § 24202(b)(2)][/us/pl/114/94/s24202/b/2], inserted “foreign governments,” after “local governments,”.
+
+    Subsec. (e). [Pub. L. 114–94, § 4014(2)][/us/pl/114/94/s4014/2], substituted “chapter 301 of title 49” for “chapter 301”.
+
+    Subsec. (f)(1). [Pub. L. 114–87][/us/pl/114/87] substituted “and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
     [Pub. L. 114–73][/us/pl/114/73] substituted “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015,”.
 
     [Pub. L. 114–41][/us/pl/114/41] substituted “each fiscal year ending before October 1, 2015, and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each fiscal year ending before October 1, 2014, and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+
+    Subsec. (h)(1). [Pub. L. 114–94, § 4003(1)(A)][/us/pl/114/94/s4003/1/A], substituted “shall carry” for “may carry”.
+
+    Subsec. (h)(2). [Pub. L. 114–94, § 4003(1)(B)][/us/pl/114/94/s4003/1/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).”
+
+    Subsec. (h)(3). [Pub. L. 114–94, § 4003(1)(C)][/us/pl/114/94/s4003/1/C], substituted “The” for “If the Administrator utilizes the authority under paragraph (1), the”.
+
+    Subsec. (h)(4). [Pub. L. 114–94, § 4003(1)(D)][/us/pl/114/94/s4003/1/D], substituted “The” for “If the Administrator conducts the research authorized under paragraph (1), the”.
+
+    Subsecs. (i), (j). [Pub. L. 114–94, § 4003(2)][/us/pl/114/94/s4003/2], added subsecs. (i) and (j).
 
     2014—Subsec. (f)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “each fiscal year”.
 
@@ -198,6 +222,10 @@
     Subsecs. (b), (c). [Pub. L. 93–87, § 208(a)][/us/pl/93/87/s208/a], added subsecs. (b) and (c).
 
     Subsecs. (d) to (f). [Pub. L. 93–87][/us/pl/93/87], §§ 221, 222, 226(a), added subsecs. (d) to (f).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by div. A of [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -481,13 +509,23 @@
 [/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
 [/us/pl/114/87/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1101%2Fb
 [/us/stat/129/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F680
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1500
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
+[/us/pl/114/94/s24202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24202%2Fb%2F1
+[/us/pl/114/94/s24202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24202%2Fb%2F2
+[/us/pl/114/94/s4014/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4014%2F2
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
+[/us/pl/114/94/s4003/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FA
+[/us/pl/114/94/s4003/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FB
+[/us/pl/114/94/s4003/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FC
+[/us/pl/114/94/s4003/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F1%2FD
+[/us/pl/114/94/s4003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4003%2F2
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/112/141/s31103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F1
 [/us/pl/112/141/s31103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F2
@@ -504,6 +542,9 @@
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/93/87/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs208%2Fa
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

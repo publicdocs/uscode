@@ -35,7 +35,7 @@
 
                 (ii) at the request of the State, the Secretary may also assign to the State, and the State may assume, the responsibilities of the Secretary with respect to 1 or more railroad, public transportation, or multimodal projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.);
 
-                (iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 13][/us/usc/t42/s13]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  4321 et seq.); but
+                (iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.); but.
 
                 (iv)
 
@@ -131,7 +131,7 @@
 
             (D) agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
 
-        (4) require the State to provide to the Secretary any information the Secretary considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
+        (4) require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
 
         (5) have a term of not more than 5 years; and
 
@@ -153,7 +153,7 @@
 
     (e)  __Effect of Assumption of Responsibility__  __.—__ 
 
-    A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
+    A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of and without further approval of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
 
     (f)  __Limitations on Agreements__  __.—__ 
 
@@ -163,11 +163,13 @@
 
         (1)  __In general__  __.—__ 
 
-        To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+        To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
 
-            (A) semiannual audits during each of the first 2 years of State participation; and
+            (A) not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
 
-            (B) annual audits during each of the third and fourth years of State participation.
+            (B) conduct annual audits during each of the first 4 years of State participation; and
+
+            (C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
 
         (2) __Public availability and comment.—__ 
 
@@ -179,6 +181,16 @@
 
             Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
 
+        (3) __Audit team.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            An audit conducted under paragraph (1) shall be carried out by an audit team determined by the Secretary, in consultation with the State, in accordance with subparagraph (B).
+
+            (B)  __Consultation__  __.—__ 
+
+            Consultation with the State under subparagraph (A) shall include a reasonable opportunity for the State to review and provide comments on the proposed members of the audit team.
+
     (h)  __Monitoring__  __.—__ 
 
     After the fourth year of the participation of a State in the program, the Secretary shall monitor compliance by the State with the written agreement, including the provision by the State of financial resources to carry out the written agreement.
@@ -189,7 +201,7 @@
 
     (j)  __Termination__  __.—__ 
 
-        (1)  __Termination by the secretary__  __.—__ 
+        (1)  __Termination by secretary__  __.—__ 
 
         The Secretary may terminate the participation of any State in the program if—
 
@@ -199,9 +211,11 @@
 
              the Secretary provides to the State—
 
-                (i) notification of the determination of noncompliance; and
+                (i) a notification of the determination of noncompliance;
 
-                (ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+                (ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+                (iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
 
             (C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
@@ -209,17 +223,63 @@
 
         The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
-(Added [Pub. L. 109–59, title VI, § 6005(a)][/us/pl/109/59/s6005/a], Aug. 10, 2005, [119 Stat. 1868][/us/stat/119/1868]; amended [Pub. L. 111–322, title II, § 2203(c)][/us/pl/111/322/s2203/c], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–140, title I, § 101(e)(1)][/us/pl/112/140/s101/e/1], June 29, 2012, [126 Stat. 392][/us/stat/126/392]; [Pub. L. 112–141, div. A, title I, § 1313(a)][/us/pl/112/141/s1313/a]–(h), July 6, 2012, [126 Stat. 545–547][/us/stat/126/545-547].)
+    (k)  __Capacity Building__  __.—__ 
+
+    The Secretary, in cooperation with representatives of State officials, may carry out education, training, peer-exchange, and other initiatives as appropriate—
+
+        (1) to assist States in developing the capacity to participate in the assignment program under this section; and
+
+        (2) to promote information sharing and collaboration among States that are participating in the assignment program under this section.
+
+    (l)  __Relationship to Locally Administered Projects__  __.—__ 
+
+    A State granted authority under this section may, as appropriate and at the request of a local government—
+
+        (1) exercise such authority on behalf of the local government for a locally administered project; or
+
+        (2) provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and any comparable requirements under State law.
+
+(Added [Pub. L. 109–59, title VI, § 6005(a)][/us/pl/109/59/s6005/a], Aug. 10, 2005, [119 Stat. 1868][/us/stat/119/1868]; amended [Pub. L. 111–322, title II, § 2203(c)][/us/pl/111/322/s2203/c], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–140, title I, § 101(e)(1)][/us/pl/112/140/s101/e/1], June 29, 2012, [126 Stat. 392][/us/stat/126/392]; [Pub. L. 112–141, div. A, title I, § 1313(a)][/us/pl/112/141/s1313/a]–(h), July 6, 2012, [126 Stat. 545–547][/us/stat/126/545-547]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1308, 1446(d)(3), Dec. 4, 2015, [129 Stat. 1390][/us/stat/129/1390], 1438.)
 
  __References in Text__ 
 
-    The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), (B)(ii), (iii), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (l)(2), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
     The date on which amendments to this section by the MAP-21 take effect, referred to in subsec. (b)(2), is Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, § 1313(a)(1)][/us/pl/112/141/s1313/a/1], struck out “pilot” before “program” in section catchline.
+    2015—[Pub. L. 114–94, § 1446(d)(3)][/us/pl/114/94/s1446/d/3], amended directory language of [Pub. L. 112–141, § 1313(a)(1)][/us/pl/112/141/s1313/a/1]. See 2012 Amendment note below.
+
+    Subsec. (a)(2)(B)(iii). [Pub. L. 114–94, § 1308(1)][/us/pl/114/94/s1308/1], substituted “([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.)” for “([42 U.S.C. 13][/us/usc/t42/s13] 4321 et seq.)”.
+
+    Subsec. (c)(4). [Pub. L. 114–94, § 1308(2)][/us/pl/114/94/s1308/2], inserted “reasonably” before “considers necessary”.
+
+    Subsec. (e). [Pub. L. 114–94, § 1308(3)][/us/pl/114/94/s1308/3], inserted “and without further approval of” after “in lieu of”.
+
+    Subsec. (g)(1). [Pub. L. 114–94, § 1308(4)(A)][/us/pl/114/94/s1308/4/A], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+
+    “(A) semiannual audits during each of the first 2 years of State participation; and
+
+    “(B) annual audits during each of the third and fourth years of State participation.”
+
+    Subsec. (g)(3). [Pub. L. 114–94, § 1308(4)(B)][/us/pl/114/94/s1308/4/B], added par. (3).
+
+    Subsec. (j)(1). [Pub. L. 114–94, § 1308(5)][/us/pl/114/94/s1308/5], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate the participation of any State in the program if—
+
+    “(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+    “(B) the Secretary provides to the State—
+
+    “(i) notification of the determination of noncompliance; and
+
+    “(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+
+    “(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.”
+
+    Subsecs. (k), (l). [Pub. L. 114–94, § 1308(6)][/us/pl/114/94/s1308/6], added subsecs. (k) and (l).
+
+    2012—[Pub. L. 112–141, § 1313(a)(1)][/us/pl/112/141/s1313/a/1], as amended by [Pub. L. 114–94, § 1446(d)(3)][/us/pl/114/94/s1446/d/3], struck out “pilot” before “program” in section catchline.
 
     Subsec. (a)(1). [Pub. L. 112–141, § 1313(a)(2)][/us/pl/112/141/s1313/a/2], struck out “pilot” before “program (referred to”.
 
@@ -253,6 +313,12 @@
 
     2010—Subsec. (i)(1). [Pub. L. 111–322][/us/pl/111/322] substituted “7 years after” for “6 years after”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -270,9 +336,10 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t42/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s7506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7506
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/109/59/s6005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6005%2Fa
 [/us/stat/119/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1868
 [/us/pl/111/322/s2203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs2203%2Fc
@@ -281,12 +348,26 @@
 [/us/stat/126/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F392
 [/us/pl/112/141/s1313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fa
 [/us/stat/126/545-547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F545-547
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1390
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1446/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F3
 [/us/pl/112/141/s1313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fa%2F1
+[/us/pl/114/94/s1308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F1
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t42/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13
+[/us/pl/114/94/s1308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F2
+[/us/pl/114/94/s1308/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F3
+[/us/pl/114/94/s1308/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F4%2FA
+[/us/pl/114/94/s1308/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F4%2FB
+[/us/pl/114/94/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F5
+[/us/pl/114/94/s1308/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1308%2F6
+[/us/pl/112/141/s1313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fa%2F1
+[/us/pl/114/94/s1446/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F3
 [/us/pl/112/141/s1313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fa%2F2
 [/us/pl/112/141/s1313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fb%2F1
 [/us/usc/t42/s7506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7506
@@ -302,6 +383,12 @@
 [/us/pl/112/141/s1313/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fh
 [/us/pl/112/141/s1313/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1313%2Fg%2F1
 [/us/pl/111/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

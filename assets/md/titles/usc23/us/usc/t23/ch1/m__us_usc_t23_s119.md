@@ -39,7 +39,7 @@
 
         (1)
 
-            (A) a project or part of a program of projects supporting progress toward the achievement of national performance goals for improving infrastructure condition, safety, mobility, or freight movement on the National Highway System; and
+            (A) a project or part of a program of projects supporting progress toward the achievement of national performance goals for improving infrastructure condition, safety, congestion reduction, system reliability, or freight movement on the National Highway System; and
 
             (B) consistent with sections 134 and 135; and
 
@@ -77,7 +77,7 @@
 
             (K) Development and implementation of a State asset management plan for the National Highway System in accordance with this section, including data collection, maintenance, and integration and the cost associated with obtaining, updating, and licensing software and equipment required for risk-based asset management and performance-based management.
 
-            (L) Infrastructure-based intelligent transportation systems capital improvements.
+            (L) Infrastructure-based intelligent transportation systems capital improvements, including the installation of vehicle-to-infrastructure communication equipment.
 
             (M) Environmental restoration and pollution abatement in accordance with section 328.
 
@@ -149,7 +149,7 @@
 
         (7)  __Performance achievement__  __.—__ 
 
-        A State that does not achieve or make significant progress toward achieving the targets of the State for performance measures described in section 150(d) for the National Highway System for 2 consecutive reports submitted under this paragraph shall include in the next report submitted a description of the actions the State will undertake to achieve the targets.
+        A State that does not achieve or make significant progress toward achieving the targets of the State for performance measures described in section 150(d) for the National Highway System shall include as part of the performance target report under section 150(e) a description of the actions the State will undertake to achieve the targets.
 
         (8)  __Process__  __.—__ 
 
@@ -161,7 +161,7 @@
 
             (A)  __Penalty__  __.—__ 
 
-            If, during 2 consecutive reporting periods, the condition of the Interstate System, excluding bridges on the Interstate System, in a State falls below the minimum condition level established by the Secretary under section 150(c)(3), the State shall be required, during the following fiscal year—
+            If a State reports that the condition of the Interstate System, excluding bridges on the Interstate System, has fallen below the minimum condition level established by the Secretary under section 150(c)(3), the State shall be required, during the following fiscal year—
 
                 (i) to obligate, from the amounts apportioned to the State under section 104(b)(1), an amount that is not less than the amount of funds apportioned to the State for fiscal year 2009 under the Interstate maintenance program for the purposes described in this section (as in effect on the day before the date of enactment of the MAP–21), except that for each year after fiscal year 2013, the amount required to be obligated under this clause shall be increased by 2 percent over the amount required to be obligated in the previous fiscal year; and
 
@@ -223,7 +223,35 @@
 
         At the discretion of the project sponsor, preference shall be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project, is approved by the applicable Federal agency.
 
-(Added [Pub. L. 95–599, title I, § 116(a)][/us/pl/95/599/s116/a], Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698]; amended [Pub. L. 96–106, § 18][/us/pl/96/106/s18], Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–134][/us/pl/97/134], §§ 6, 7, Dec. 29, 1981, [95 Stat. 1701][/us/stat/95/1701]; [Pub. L. 97–424, title I, § 116(a)(1)][/us/pl/97/424/s116/a/1], (2), (b), (c), Jan. 6, 1983, [96 Stat. 2109][/us/stat/96/2109]; [Pub. L. 98–229, § 8(b)][/us/pl/98/229/s8/b], Mar. 9, 1984, [98 Stat. 56][/us/stat/98/56]; [Pub. L. 99–190, § 101(e)][/us/pl/99/190/s101/e] \[title III, § 327\], Dec. 19, 1985, [99 Stat. 1267][/us/stat/99/1267], 1289; [Pub. L. 100–17, title I, § 116(a)][/us/pl/100/17/s116/a]–(c)(1), Apr. 2, 1987, [101 Stat. 154][/us/stat/101/154], 155; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(b)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 102–240, title I, § 1009(a)][/us/pl/102/240/s1009/a], (b), (e)(1), (3)–(5), Dec. 18, 1991, [105 Stat. 1933][/us/stat/105/1933], 1934; [Pub. L. 105–178, title I, § 1107(a)][/us/pl/105/178/s1107/a], (d), June 9, 1998, [112 Stat. 137][/us/stat/112/137]; [Pub. L. 105–206, title IX, § 9002(f)][/us/pl/105/206/s9002/f], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 112–141, div. A, title I, § 1106(a)][/us/pl/112/141/s1106/a], July 6, 2012, [126 Stat. 432][/us/stat/126/432].)
+    (h)  __TIFIA Program__  __.—__ 
+
+    Upon Secretarial approval of credit assistance under chapter 6, the Secretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+
+    (i) __Additional Funding Eligibility for Certain Bridges.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        Funds apportioned to a State to carry out the national highway performance program may be obligated for a project for the reconstruction, resurfacing, restoration, rehabilitation, or preservation of a bridge not on the National Highway System, if the bridge is on a Federal-aid highway.
+
+        (2)  __Limitation__  __.—__ 
+
+        A State required to make obligations under subsection (f) shall ensure such requirements are satisfied in order to use the flexibility under paragraph (1).
+
+    (j) __Critical Infrastructure.—__ 
+
+        (1)  __Critical infrastructure defined__  __.—__ 
+
+        In this subsection, the term “critical infrastructure” means those facilities the incapacity or failure of which would have a debilitating impact on national or regional economic security, national or regional energy security, national or regional public health or safety, or any combination of those matters.
+
+        (2)  __Consideration__  __.—__ 
+
+        The asset management plan of a State may include consideration of critical infrastructure from among those facilities in the State that are eligible under subsection (c).
+
+        (3)  __Risk reduction__  __.—__ 
+
+        A State may use funds apportioned under this section for projects intended to reduce the risk of failure of critical infrastructure in the State.
+
+(Added [Pub. L. 95–599, title I, § 116(a)][/us/pl/95/599/s116/a], Nov. 6, 1978, [92 Stat. 2698][/us/stat/92/2698]; amended [Pub. L. 96–106, § 18][/us/pl/96/106/s18], Nov. 9, 1979, [93 Stat. 799][/us/stat/93/799]; [Pub. L. 97–134][/us/pl/97/134], §§ 6, 7, Dec. 29, 1981, [95 Stat. 1701][/us/stat/95/1701]; [Pub. L. 97–424, title I, § 116(a)(1)][/us/pl/97/424/s116/a/1], (2), (b), (c), Jan. 6, 1983, [96 Stat. 2109][/us/stat/96/2109]; [Pub. L. 98–229, § 8(b)][/us/pl/98/229/s8/b], Mar. 9, 1984, [98 Stat. 56][/us/stat/98/56]; [Pub. L. 99–190, § 101(e)][/us/pl/99/190/s101/e] \[title III, § 327\], Dec. 19, 1985, [99 Stat. 1267][/us/stat/99/1267], 1289; [Pub. L. 100–17, title I, § 116(a)][/us/pl/100/17/s116/a]–(c)(1), Apr. 2, 1987, [101 Stat. 154][/us/stat/101/154], 155; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(b)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 102–240, title I, § 1009(a)][/us/pl/102/240/s1009/a], (b), (e)(1), (3)–(5), Dec. 18, 1991, [105 Stat. 1933][/us/stat/105/1933], 1934; [Pub. L. 105–178, title I, § 1107(a)][/us/pl/105/178/s1107/a], (d), June 9, 1998, [112 Stat. 137][/us/stat/112/137]; [Pub. L. 105–206, title IX, § 9002(f)][/us/pl/105/206/s9002/f], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 112–141, div. A, title I, § 1106(a)][/us/pl/112/141/s1106/a], July 6, 2012, [126 Stat. 432][/us/stat/126/432]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, [129 Stat. 1337][/us/stat/129/1337], 1410, 1437.)
 
  __References in Text__ 
 
@@ -236,6 +264,16 @@
     A prior section 119, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 899][/us/stat/72/899], related to administration of Federal aid for highways in Alaska, prior to repeal by [Pub. L. 86–70, § 21(d)(3)][/us/pl/86/70/s21/d/3], June 25, 1959, [73 Stat. 145][/us/stat/73/145], effective July 1, 1959.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1)(A). [Pub. L. 114–94, § 1446(a)(1)][/us/pl/114/94/s1446/a/1], substituted “congestion reduction, system reliability,” for “mobility,”.
+
+    Subsec. (d)(2)(L). [Pub. L. 114–94, § 1407(a)][/us/pl/114/94/s1407/a], inserted “, including the installation of vehicle-to-infrastructure communication equipment” after “capital improvements”.
+
+    Subsec. (e)(7). [Pub. L. 114–94, § 1406(a)(1)][/us/pl/114/94/s1406/a/1], substituted “shall include as part of the performance target report under section 150(e)” for “for 2 consecutive reports submitted under this paragraph shall include in the next report submitted”.
+
+    Subsec. (f)(1)(A). [Pub. L. 114–94, § 1406(a)(2)][/us/pl/114/94/s1406/a/2], substituted “If a State reports that the condition of the Interstate System, excluding bridges on the Interstate System, has fallen” for “If, during 2 consecutive reporting periods, the condition of the Interstate System, excluding bridges on the Interstate System, in a State falls” in introductory provisions.
+
+    Subsecs. (h) to (j). [Pub. L. 114–94, § 1106][/us/pl/114/94/s1106], added subsecs. (h) to (j).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to interstate maintenance program.
 
@@ -298,6 +336,10 @@
     Subsec. (b). [Pub. L. 97–134, § 6(b)][/us/pl/97/134/s6/b], added subsec. (b) providing that reconstruction may include the addition of travel lanes and the construction and reconstruction of interchanges and overcrossings along existing completed interstate routes, including the acquisition of right-of-way where necessary.
 
     1979—Subsec. (b). [Pub. L. 96–106][/us/pl/96/106] substituted “January 1st” for “October 1st” and “next apportionment of funds to such State” for “funds apportioned to such State for that fiscal year”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -366,6 +408,8 @@
 [/us/stat/112/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F836
 [/us/pl/112/141/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1106%2Fa
 [/us/stat/126/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F432
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1337
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t23/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs144
@@ -375,6 +419,11 @@
 [/us/stat/72/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F899
 [/us/pl/86/70/s21/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd%2F3
 [/us/stat/73/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F145
+[/us/pl/114/94/s1446/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F1
+[/us/pl/114/94/s1407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1407%2Fa
+[/us/pl/114/94/s1406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fa%2F1
+[/us/pl/114/94/s1406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1406%2Fa%2F2
+[/us/pl/114/94/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1106
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1107%2Fa%2F1
 [/us/usc/t23/s104/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5%2FB
@@ -424,6 +473,9 @@
 [/us/usc/t23/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fc
 [/us/pl/97/134/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F134%2Fs6%2Fb
 [/us/pl/96/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F106
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

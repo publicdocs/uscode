@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    The Secretary, from time to time as the work progresses, may make payments to a State for costs of construction incurred by the State on a project. Such payments may also be made for the value of the materials—
+    The Secretary, from time to time as the work progresses, may make payments to a State for costs of construction incurred by the State on a project (including payments made pursuant to a long-term concession agreement, such as availability payments). Such payments may also be made for the value of the materials—
 
         (1) that have been stockpiled in the vicinity of the construction in conformity to plans and specifications for the projects; and
 
@@ -29,9 +29,11 @@
 
     (c) Such payments shall be made to such official or officials or depository as may be designated by the State transportation department and authorized under the laws of the State to receive public funds of the State.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 899][/us/stat/72/899]; [Pub. L. 88–157, § 7(b)][/us/pl/88/157/s7/b], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 93–87, title I, § 117][/us/pl/93/87/s117], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 118(a)][/us/pl/94/280/s118/a], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 100–17, title I, § 133(b)(6)][/us/pl/100/17/s133/b/6], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I, § 1018(b)][/us/pl/102/240/s1018/b], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(A)(i), 1302, June 9, 1998, [112 Stat. 193][/us/stat/112/193], 226.)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 899][/us/stat/72/899]; [Pub. L. 88–157, § 7(b)][/us/pl/88/157/s7/b], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 93–87, title I, § 117][/us/pl/93/87/s117], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 118(a)][/us/pl/94/280/s118/a], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 100–17, title I, § 133(b)(6)][/us/pl/100/17/s133/b/6], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 102–240, title I, § 1018(b)][/us/pl/102/240/s1018/b], Dec. 18, 1991, [105 Stat. 1948][/us/stat/105/1948]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1212(a)(2)(A)(i), 1302, June 9, 1998, [112 Stat. 193][/us/stat/112/193], 226; [Pub. L. 114–94, div. A, title II, § 2002(a)][/us/pl/114/94/s2002/a], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] inserted “(including payments made pursuant to a long-term concession agreement, such as availability payments)” after “a project” in introductory provisions.
 
     1998—Subsec. (a). [Pub. L. 105–178, § 1302(1)][/us/pl/105/178/s1302/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.”
 
@@ -55,9 +57,57 @@
 
     1963—Subsec. (d). [Pub. L. 88–157][/us/pl/88/157] substituted “any project financed with Federal-aid primary, secondary, or urban funds” for “any one project” and provided for limitation, on payments for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of Federal share of cost of construction of the project where found by the Secretary to be necessary and for 10–percent limitation on projects financed with interstate funds.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 1991 Amendment__ 
 
     Amendment by [Pub. L. 102–240][/us/pl/102/240] effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as a note under [section 104 of this title][/us/usc/t23/s104].
+
+ __At-Risk Project Preagreement Authority__ 
+
+[Pub. L. 114–94, div. A, title I, § 1440][/us/pl/114/94/s1440], Dec. 4, 2015, [129 Stat. 1434][/us/stat/129/1434], provided that:
+
+>     “(a)  __Definition of Preliminary Engineering__  __.—__ 
+
+>     In this section, the term ‘preliminary engineering’ means allowable preconstruction project development and engineering costs.
+
+>     “(b)  __At-risk Project Preagreement Authority__  __.—__ 
+
+>     A recipient or subrecipient of Federal-aid funds under title 23, United States Code, may—
+
+>         “(1) incur preliminary engineering costs for an eligible project under title 23, United States Code, before receiving project authorization from the State, in the case of a subrecipient, and the Secretary \[of Transportation\] to proceed with the project; and
+
+>         “(2) request reimbursement of applicable Federal funds after the project authorization is received.
+
+>     “(c)  __Eligibility__  __.—__ 
+
+>     The Secretary may reimburse preliminary engineering costs incurred by a recipient or subrecipient under subsection (b)—
+
+>         “(1) if the costs meet all applicable requirements under title 23, United States Code, at the time the costs are incurred and the Secretary concurs that the requirements have been met;
+
+>         “(2) in the case of a project located within a designated nonattainment or maintenance area for air quality, if the conformity requirements of the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) have been met; and
+
+>         “(3) if the costs would have been allowable if incurred after the date of the project authorization by the Department.
+
+>     “(d)  __At-risk__  __.—__ 
+
+>     A recipient or subrecipient that elects to use the authority provided under this section shall—
+
+>         “(1) assume all risk for preliminary engineering costs incurred prior to project authorization; and
+
+>         “(2) be responsible for ensuring and demonstrating to the Secretary \[of Transportation\] that all applicable cost eligibility conditions are met after the authorization is received.
+
+>     “(e)  __Restrictions__  __.—__ 
+
+>     Nothing in this section—
+
+>         “(1) allows a recipient or subrecipient to use the authority under this section to advance a project beyond preliminary engineering prior to the completion of the environmental review process;
+
+>         “(2) waives the applicability of Federal requirements to a project other than the reimbursement of preliminary engineering costs incurred prior to an authorization to proceed in accordance with this section; or
+
+>         “(3) guarantees Federal funding of the project or the eligibility of the project for future Federal-aid highway funding.”
 
  __Submission of Recommendations to Congress for Reimbursement of States for Certain Highways__ 
 
@@ -84,6 +134,9 @@
 [/us/stat/105/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1948
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F193
+[/us/pl/114/94/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2002%2Fa
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/105/178/s1302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F1
 [/us/pl/105/178/s1302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F1
 [/us/pl/105/178/s1302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1302%2F2
@@ -96,9 +149,15 @@
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F157
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
+[/us/pl/114/94/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1440
+[/us/stat/129/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1434
+[/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/85/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F845
 [/us/stat/72/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1083
 

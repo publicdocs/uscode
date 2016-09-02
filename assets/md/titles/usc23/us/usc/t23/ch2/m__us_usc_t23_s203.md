@@ -45,11 +45,11 @@
 
                 (vii) other appropriate public road facilities, as determined by the Secretary;
 
-            (B) operation and maintenance of transit facilities;
+            (B) capital, operations, and maintenance of transit facilities;
 
             (C) any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
 
-            (D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv).
+            (D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
 
         (2)  __Contract__  __.—__ 
 
@@ -101,9 +101,13 @@
 
                 (iii) the United States Fish and Wildlife Service;
 
-                (iv) the Corps of Engineers; and
+                (iv) the Corps of Engineers;
 
-                (v) the Bureau of Land Management.
+                (v) the Bureau of Land Management;
+
+                (vi) the Bureau of Reclamation; and
+
+                (vii) independent Federal agencies with natural resource and land management responsibilities.
 
         (2)  __Applications__  __.—__ 
 
@@ -113,7 +117,7 @@
 
             (B)  __Consideration by secretary__  __.—__ 
 
-            In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support—
+            In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support performance management, including—
 
                 (i)
 
@@ -121,7 +125,7 @@
 
                     (I) a state of good repair of transportation facilities;
 
-                    (II) a reduction of bridge deficiencies, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup>  and
+                    (II) a reduction of bridge deficiencies; and
 
                     (III) an improvement of safety;
 
@@ -159,6 +163,8 @@
 
                 (v) The Corps of Engineers.
 
+                (vi) The Bureau of Reclamation.
+
         (3)  __Availability__  __.—__ 
 
         The inventories shall be made available to the Secretary.
@@ -175,7 +181,7 @@
 
     The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 
-(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 486][/us/stat/126/486].)
+(Added [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 486][/us/stat/126/486]; amended [Pub. L. 114–94, div. A, title I, § 1119][/us/pl/114/94/s1119], Dec. 4, 2015, [129 Stat. 1358][/us/stat/129/1358].)
 
  __References in Text__ 
 
@@ -184,6 +190,24 @@
  __Prior Provisions__ 
 
     A prior section 203, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 906][/us/stat/72/906]; [Pub. L. 86–657, § 8(b)][/us/pl/86/657/s8/b], July 14, 1960, [74 Stat. 524][/us/stat/74/524]; [Pub. L. 87–866, § 7][/us/pl/87/866/s7], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 94–280, title I, § 117(b)][/us/pl/94/280/s117/b], May 5, 1976, [90 Stat. 437][/us/stat/90/437]; [Pub. L. 97–424, title I, § 126(f)][/us/pl/97/424/s126/f], Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116]; [Pub. L. 102–240, title I, § 1032(f)][/us/pl/102/240/s1032/f], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 105–178, title I, § 1115(c)][/us/pl/105/178/s1115/c], (e)(3), June 9, 1998, [112 Stat. 156][/us/stat/112/156], 158, related to availability of funds, prior to repeal by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–94, § 1119(1)(A)][/us/pl/114/94/s1119/1/A], substituted “capital, operations,” for “operation”.
+
+    Subsec. (a)(1)(D). [Pub. L. 114–94, § 1119(1)(B)][/us/pl/114/94/s1119/1/B], substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
+
+    Subsec. (b)(1)(B)(vi), (vii). [Pub. L. 114–94, § 1119(2)(A)][/us/pl/114/94/s1119/2/A], added cls. (vi) and (vii).
+
+    Subsec. (b)(2)(B). [Pub. L. 114–94, § 1119(2)(B)(i)][/us/pl/114/94/s1119/2/B/i], inserted “performance management, including” after “support” in introductory provisions.
+
+    Subsec. (b)(2)(B)(i)(II). [Pub. L. 114–94, § 1119(2)(B)(ii)][/us/pl/114/94/s1119/2/B/ii], substituted “; and” for “, and”.
+
+    Subsec. (c)(2)(B)(vi). [Pub. L. 114–94, § 1119(3)][/us/pl/114/94/s1119/3], added cl. (vi).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -199,6 +223,8 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F486
+[/us/pl/114/94/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119
+[/us/stat/129/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1358
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -218,6 +244,15 @@
 [/us/stat/112/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F156
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
+[/us/pl/114/94/s1119/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F1%2FA
+[/us/pl/114/94/s1119/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F1%2FB
+[/us/pl/114/94/s1119/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FA
+[/us/pl/114/94/s1119/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FB%2Fi
+[/us/pl/114/94/s1119/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F2%2FB%2Fii
+[/us/pl/114/94/s1119/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1119%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

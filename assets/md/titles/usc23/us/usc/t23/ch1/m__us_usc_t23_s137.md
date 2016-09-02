@@ -75,6 +75,16 @@
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
+ __Relinquishment of Park-and-Ride lot Facilities__ 
+
+[Pub. L. 114–94, div. A, title I, § 1423][/us/pl/114/94/s1423], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
+
+> “A State transportation agency may relinquish park-and-ride lot facilities or portions of park-and-ride lot facilities to a local government agency for highway purposes if authorized to do so under State law if the agreement providing for the relinquishment provides that—
+
+>     “(1) rights-of-way on the Interstate System will remain available for future highway improvements; and
+
+>     “(2) modifications to the facilities that could impair the highway or interfere with the free and safe flow of traffic are subject to the approval of the Secretary \[of Transportation\].”
+
  __Jason’s Law__ 
 
 [Pub. L. 112–141, div. A, title I, § 1401][/us/pl/112/141/s1401], July 6, 2012, [126 Stat. 554][/us/stat/126/554], provided that:
@@ -185,6 +195,8 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1423
+[/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
 [/us/pl/112/141/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1401
 [/us/stat/126/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F554
 [/us/usc/t23/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fc

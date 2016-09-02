@@ -17,11 +17,11 @@
 
     (a)  __Use of STP and Congestion Mitigation Program Funds__  __.—__ 
 
-    Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
+    Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
 
     (b)  __Use of National Highway Performance Program Funds__  __.—__ 
 
-    Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) 1 of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
+    Subject to project approval by the Secretary, a State may obligate funds apportioned to it under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1] for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 
     (c)  __Use of Federal Lands Highway Funds__  __.—__ 
 
@@ -29,7 +29,7 @@
 
     (d)  __State Bicycle and Pedestrian Coordinators__  __.—__ 
 
-    Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) 1 of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+    Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
     (e)  __Bridges__  __.—__ 
 
@@ -87,13 +87,11 @@
 
         The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added [Pub. L. 93–87, title I, § 124(a)][/us/pl/93/87/s124/a], Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262]; amended [Pub. L. 94–280, title I, § 134][/us/pl/94/280/s134], May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I, § 141(h)][/us/pl/95/599/s141/h], Nov. 6, 1978, [92 Stat. 2712][/us/stat/92/2712]; [Pub. L. 97–424, title I, § 126A][/us/pl/97/424/s126A], formerly § 126, Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116], renumbered § 126A, [Pub. L. 100–17, title I, § 133(a)(2)][/us/pl/100/17/s133/a/2], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 127][/us/pl/100/17/s127], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 102–240, title I, § 1033][/us/pl/102/240/s1033], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 104–59, title III, § 310(b)][/us/pl/104/59/s310/b], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I, § 1202(a)][/us/pl/105/178/s1202/a], June 9, 1998, [112 Stat. 168][/us/stat/112/168]; [Pub. L. 109–59, title I, § 1954][/us/pl/109/59/s1954], Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515]; [Pub. L. 112–141, div. A, title I, § 1104(c)(4)][/us/pl/112/141/s1104/c/4], July 6, 2012, [126 Stat. 427][/us/stat/126/427].)
-
- __References in Text__ 
-
-    [Section 104 of this title][/us/usc/t23/s104], referred to in subsecs. (a), (b), and (d), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
+(Added [Pub. L. 93–87, title I, § 124(a)][/us/pl/93/87/s124/a], Aug. 13, 1973, [87 Stat. 262][/us/stat/87/262]; amended [Pub. L. 94–280, title I, § 134][/us/pl/94/280/s134], May 5, 1976, [90 Stat. 441][/us/stat/90/441]; [Pub. L. 95–599, title I, § 141(h)][/us/pl/95/599/s141/h], Nov. 6, 1978, [92 Stat. 2712][/us/stat/92/2712]; [Pub. L. 97–424, title I, § 126A][/us/pl/97/424/s126A], formerly § 126, Jan. 6, 1983, [96 Stat. 2116][/us/stat/96/2116], renumbered § 126A, [Pub. L. 100–17, title I, § 133(a)(2)][/us/pl/100/17/s133/a/2], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 127][/us/pl/100/17/s127], Apr. 2, 1987, [101 Stat. 167][/us/stat/101/167]; [Pub. L. 102–240, title I, § 1033][/us/pl/102/240/s1033], Dec. 18, 1991, [105 Stat. 1975][/us/stat/105/1975]; [Pub. L. 104–59, title III, § 310(b)][/us/pl/104/59/s310/b], Nov. 28, 1995, [109 Stat. 582][/us/stat/109/582]; [Pub. L. 105–178, title I, § 1202(a)][/us/pl/105/178/s1202/a], June 9, 1998, [112 Stat. 168][/us/stat/112/168]; [Pub. L. 109–59, title I, § 1954][/us/pl/109/59/s1954], Aug. 10, 2005, [119 Stat. 1515][/us/stat/119/1515]; [Pub. L. 112–141, div. A, title I, § 1104(c)(4)][/us/pl/112/141/s1104/c/4], July 6, 2012, [126 Stat. 427][/us/stat/126/427]; [Pub. L. 114–94, div. A, title I, § 1446(a)(13)][/us/pl/114/94/s1446/a/13], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] substituted “104(b)(4)” for “104(b)(3)”.
 
     2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141] substituted “National Highway Performance Program” for “National Highway System” in heading.
 
@@ -138,6 +136,10 @@
     1978—Subsec. (a). [Pub. L. 95–599][/us/pl/95/599] inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 
     1976—Subsec. (e). [Pub. L. 94–280][/us/pl/94/280] substituted “$45,000,000” for “$40,000,000” and “$2,500,000” for “$2,000,000”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -232,6 +234,7 @@
 ----------
 ----------
 
+[/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
 [/us/pl/93/87/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs124%2Fa
 [/us/stat/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F262
 [/us/pl/94/280/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs134
@@ -254,9 +257,9 @@
 [/us/stat/119/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1515
 [/us/pl/112/141/s1104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fc%2F4
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
-[/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
-[/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
-[/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
+[/us/pl/114/94/s1446/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F13
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178/s1202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1202%2Fa%2F1
@@ -280,6 +283,9 @@
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

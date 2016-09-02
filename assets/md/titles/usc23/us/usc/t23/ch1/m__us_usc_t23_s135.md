@@ -23,7 +23,7 @@
 
         (2)  __Contents__  __.—__ 
 
-        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways , bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
         (3)  __Process of development__  __.—__ 
 
@@ -65,15 +65,19 @@
 
             (F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
-            (G) promote efficient system management and operation; and
+            (G) promote efficient system management and operation;
 
-            (H) emphasize the preservation of the existing transportation system.
+            (H) emphasize the preservation of the existing transportation system;
+
+            (I) improve the resiliency and reliability of the transportation system and reduce or mitigate stormwater impacts of surface transportation; and
+
+            (J) enhance travel and tourism.
 
         (2) __Performance-based approach.—__ 
 
             (A)  __In general__  __.—__ 
 
-            The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of this title][/us/usc/t23/s150/b] and in [section 5301(c) of title 49][/us/usc/t49/s5301/c].
+            The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of this title][/us/usc/t23/s150/b] and the general purposes described in [section 5301 of title 49][/us/usc/t49/s5301].
 
             (B) __Performance targets.—__ 
 
@@ -89,11 +93,11 @@
 
                 (ii)  __Public transportation performance targets__  __.—__ 
 
-                In urbanized areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
+                In areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
 
             (C)  __Integration of other performance-based plans__  __.—__ 
 
-            A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to chapter 53 of title 49 by providers of public transportation in urbanized areas not represented by a metropolitan planning organization required as part of a performance-based program.
+            A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to chapter 53 of title 49 by providers of public transportation in areas not represented by a metropolitan planning organization required as part of a performance-based program.
 
             (D)  __Use of performance measures and targets__  __.—__ 
 
@@ -157,7 +161,7 @@
 
                 (i) nonmetropolitan local elected officials or, if applicable, through regional transportation planning organizations described in subsection (m), an opportunity to participate in accordance with subparagraph (B)(i); and
 
-                (ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+                (ii) citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
 
             (B)  __Methods__  __.—__ 
 
@@ -203,7 +207,7 @@
 
         (7)  __Performance-based approach__  __.—__ 
 
-        The statewide transportation plan should include—
+        The statewide transportation plan shall include—
 
             (A) a description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with subsection (d)(2); and
 
@@ -211,7 +215,7 @@
 
         (8)  __Existing system__  __.—__ 
 
-        The statewide transportation plan should include capital, operations and management strategies, investments, procedures, and other measures to ensure the preservation and most efficient use of the existing transportation system.
+        The statewide transportation plan should include capital, operations and management strategies, investments, procedures, and other measures to ensure the preservation and most efficient use of the existing transportation system, including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated.
 
         (9)  __Publication of long-range transportation plans__  __.—__ 
 
@@ -251,7 +255,7 @@
 
         (3)  __Participation by interested parties__  __.—__ 
 
-        In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+        In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators),, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
 
         (4)  __Performance target achievement__  __.—__ 
 
@@ -329,7 +333,7 @@
 
             (B)  __Other projects__  __.—__ 
 
-            Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310, 5311, 5316, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 5317  <sup>\[1\]</sup>  of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
+            Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310, 5311, 5316, <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and 5317  <sup>\[2\]</sup>  of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
 
         (7)  __Transportation improvement program approval__  __.—__ 
 
@@ -377,7 +381,7 @@
 
     (i)  __Funding__  __.—__ 
 
-    Funds apportioned under [section 104(b)(5) of this title][/us/usc/t23/s104/b/5] and set aside under [section 5305(g) of title 49][/us/usc/t49/s5305/g] shall be available to carry out this section.
+    Funds apportioned under paragraphs (5)(D) and (6) of [section 104(b) of this title][/us/usc/t23/s104/b] and set aside under [section 5305(g) of title 49][/us/usc/t49/s5305/g] shall be available to carry out this section.
 
     (j)  __Treatment of Certain State Laws as Congestion Management Processes__  __.—__ 
 
@@ -433,7 +437,7 @@
 
         If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Added [Pub. L. 90–495, § 10(a)][/us/pl/90/495/s10/a], Aug. 23, 1968, [82 Stat. 820][/us/stat/82/820]; amended [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(g), 125, Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718], 1729; [Pub. L. 93–87, title I, § 119][/us/pl/93/87/s119], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 123(a)][/us/pl/94/280/s123/a], May 5, 1976, [90 Stat. 439][/us/stat/90/439]; [Pub. L. 102–240, title I, § 1025(a)][/us/pl/102/240/s1025/a], Dec. 18, 1991, [105 Stat. 1962][/us/stat/105/1962]; [Pub. L. 103–429, § 3(6)][/us/pl/103/429/s3/6], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 105–178, title I, § 1204(a)][/us/pl/105/178/s1204/a]–(h), June 9, 1998, [112 Stat. 180–184][/us/stat/112/180-184]; [Pub. L. 109–59, title VI, § 6001(a)][/us/pl/109/59/s6001/a], Aug. 10, 2005, [119 Stat. 1851][/us/stat/119/1851]; [Pub. L. 112–141, div. A, title I, § 1202(a)][/us/pl/112/141/s1202/a], July 6, 2012, [126 Stat. 514][/us/stat/126/514].)
+(Added [Pub. L. 90–495, § 10(a)][/us/pl/90/495/s10/a], Aug. 23, 1968, [82 Stat. 820][/us/stat/82/820]; amended [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(g), 125, Dec. 31, 1970, [84 Stat. 1718][/us/stat/84/1718], 1729; [Pub. L. 93–87, title I, § 119][/us/pl/93/87/s119], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 123(a)][/us/pl/94/280/s123/a], May 5, 1976, [90 Stat. 439][/us/stat/90/439]; [Pub. L. 102–240, title I, § 1025(a)][/us/pl/102/240/s1025/a], Dec. 18, 1991, [105 Stat. 1962][/us/stat/105/1962]; [Pub. L. 103–429, § 3(6)][/us/pl/103/429/s3/6], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 105–178, title I, § 1204(a)][/us/pl/105/178/s1204/a]–(h), June 9, 1998, [112 Stat. 180–184][/us/stat/112/180-184]; [Pub. L. 109–59, title VI, § 6001(a)][/us/pl/109/59/s6001/a], Aug. 10, 2005, [119 Stat. 1851][/us/stat/119/1851]; [Pub. L. 112–141, div. A, title I, § 1202(a)][/us/pl/112/141/s1202/a], July 6, 2012, [126 Stat. 514][/us/stat/126/514]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1104(e)(3), 1202, Dec. 4, 2015, [129 Stat. 1332][/us/stat/129/1332], 1374.)
 
  __References in Text__ 
 
@@ -450,6 +454,24 @@
     A prior section 135, [Pub. L. 89–139, § 4(a)][/us/pl/89/139/s4/a], Aug. 28, 1965, [79 Stat. 578][/us/stat/79/578], called for a highway safety program in each State approved by the Secretary, prior to repeal by [Pub. L. 89–564, title I, § 102(a)][/us/pl/89/564/s102/a], Sept. 9, 1966, [80 Stat. 734][/us/stat/80/734]. See [section 402 of this title][/us/usc/t23/s402].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–94, § 1202(1)][/us/pl/114/94/s1202/1], substituted “, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers” for “and bicycle transportation facilities”.
+
+    Subsec. (d)(1)(I), (J). [Pub. L. 114–94, § 1202(2)(A)][/us/pl/114/94/s1202/2/A], added subpars. (I) and (J).
+
+    Subsec. (d)(2)(A). [Pub. L. 114–94, § 1202(2)(B)(i)][/us/pl/114/94/s1202/2/B/i], substituted “and the general purposes described in [section 5301 of title 49][/us/usc/t49/s5301]” for “and in [section 5301(c) of title 49][/us/usc/t49/s5301/c]”.
+
+    Subsec. (d)(2)(B)(ii), (C). [Pub. L. 114–94, § 1202(2)(B)(ii)][/us/pl/114/94/s1202/2/B/ii], (iii), struck out “urbanized” before “areas”.
+
+    Subsec. (f)(3)(A)(ii). [Pub. L. 114–94, § 1202(3)(A)][/us/pl/114/94/s1202/3/A], inserted “public ports,” before “freight shippers,” and “(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)” after “private providers of transportation”.
+
+    Subsec. (f)(7). [Pub. L. 114–94, § 1202(3)(B)][/us/pl/114/94/s1202/3/B], substituted “shall” for “should” in introductory provisions.
+
+    Subsec. (f)(8). [Pub. L. 114–94, § 1202(3)(C)][/us/pl/114/94/s1202/3/C], inserted before period at end “, including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated”.
+
+    Subsec. (g)(3). [Pub. L. 114–94, § 1202(4)][/us/pl/114/94/s1202/4], inserted “public ports,” before “freight shippers” and “(including intercity bus operators),” after “private providers of transportation”.
+
+    Subsec. (i). [Pub. L. 114–94, § 1104(e)(3)][/us/pl/114/94/s1104/e/3], substituted “paragraphs (5)(D) and (6) of section 104(b)” for “section 104(b)(5)”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to statewide transportation planning.
 
@@ -498,6 +520,10 @@
     1973—Subsecs. (c), (d). [Pub. L. 93–87][/us/pl/93/87] struck out subsec. (c) which provided for apportionment of sums authorized to carry out this section in accordance with [section 104(b)(3) of this title][/us/usc/t23/s104/b/3], and redesignated subsec. (d) as (c).
 
     1970—Subsec. (b). [Pub. L. 91–605][/us/pl/91/605] inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carried on in accordance with [section 134 of this title][/us/usc/t23/s134] only in urban areas of more than fifty thousand population.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -660,10 +686,10 @@
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t23/s150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs150%2Fb
-[/us/usc/t49/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301%2Fc
+[/us/usc/t49/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
-[/us/usc/t23/s104/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F5
+[/us/usc/t23/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb
 [/us/usc/t49/s5305/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5305%2Fg
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -685,6 +711,8 @@
 [/us/stat/119/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1851
 [/us/pl/112/141/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1202%2Fa
 [/us/stat/126/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F514
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1332
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -700,6 +728,17 @@
 [/us/pl/89/564/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F564%2Fs102%2Fa
 [/us/stat/80/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F734
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
+[/us/pl/114/94/s1202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F1
+[/us/pl/114/94/s1202/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F2%2FA
+[/us/pl/114/94/s1202/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F2%2FB%2Fi
+[/us/usc/t49/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301
+[/us/usc/t49/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5301%2Fc
+[/us/pl/114/94/s1202/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F2%2FB%2Fii
+[/us/pl/114/94/s1202/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F3%2FA
+[/us/pl/114/94/s1202/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F3%2FB
+[/us/pl/114/94/s1202/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F3%2FC
+[/us/pl/114/94/s1202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1202%2F4
+[/us/pl/114/94/s1104/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1104%2Fe%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1204%2Fa
@@ -724,6 +763,9 @@
 [/us/usc/t23/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F3
 [/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
 [/us/usc/t23/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

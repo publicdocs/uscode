@@ -23,13 +23,13 @@
 
         (1)  __In general__  __.—__ 
 
-        Funds that are subject to sections 104(d) and 133(d) shall not be transferred under this section.
+        Funds that are subject to sections 104(d) and 133(d)(1)(A) shall not be transferred under this section.
 
         (2)  __Funds transferred by states__  __.—__ 
 
-        Funds transferred by a State under this section of the funding reserved for the State under section 213 for a fiscal year may only come from the portion of those funds that are available for obligation in any area of the State under section 213(c)(1)(B).
+        Funds transferred by a State under this section of the funding reserved for the State under section 133(h) for a fiscal year may only come from the portion of those funds that are available for obligation in any area of the State under section 133(h).
 
-(Added [Pub. L. 105–178, title I, § 1310(a)][/us/pl/105/178/s1310/a], June 9, 1998, [112 Stat. 234][/us/stat/112/234], § 110; renumbered § 126, [Pub. L. 106–159, title I, § 102(a)(1)][/us/pl/106/159/s102/a/1], Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752]; amended [Pub. L. 109–59, title I, § 1401(a)(3)(B)][/us/pl/109/59/s1401/a/3/B], Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 112–141, div. A, title I, § 1509(a)][/us/pl/112/141/s1509/a], July 6, 2012, [126 Stat. 567][/us/stat/126/567].)
+(Added [Pub. L. 105–178, title I, § 1310(a)][/us/pl/105/178/s1310/a], June 9, 1998, [112 Stat. 234][/us/stat/112/234], § 110; renumbered § 126, [Pub. L. 106–159, title I, § 102(a)(1)][/us/pl/106/159/s102/a/1], Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752]; amended [Pub. L. 109–59, title I, § 1401(a)(3)(B)][/us/pl/109/59/s1401/a/3/B], Aug. 10, 2005, [119 Stat. 1225][/us/stat/119/1225]; [Pub. L. 112–141, div. A, title I, § 1509(a)][/us/pl/112/141/s1509/a], July 6, 2012, [126 Stat. 567][/us/stat/126/567]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(1), 1446(a)(2), Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1437.)
 
  __Prior Provisions__ 
 
@@ -37,11 +37,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (b)(1). [Pub. L. 114–94, § 1446(a)(2)][/us/pl/114/94/s1446/a/2], substituted “133(d)(1)(A)” for “133(d)”.
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 1109(c)(1)][/us/pl/114/94/s1109/c/1], substituted “for the State under section 133(h)” for “for the State under section 213” and “of the State under section 133(h)” for “of the State under section 213(c)(1)(B)”.
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to uniform transferability of Federal-aid highway funds.
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], which directed insertion of “under” after “State’s apportionment”, was executed by making the insertion after “State’s apportionment” the second place it appeared, to reflect the probable intent of Congress.
 
     1999—[Pub. L. 106–159][/us/pl/106/159] renumbered [section 110 of this title][/us/usc/t23/s110] as this section.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -62,6 +70,8 @@
 [/us/stat/119/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1225
 [/us/pl/112/141/s1509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1509%2Fa
 [/us/stat/126/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F567
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F901
 [/us/pl/93/87/s152/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs152%2F3
@@ -69,10 +79,15 @@
 [/us/pl/105/178/s1226/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1226%2Fd
 [/us/pl/105/206/s9003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fa
 [/us/stat/112/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F837
+[/us/pl/114/94/s1446/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F2
+[/us/pl/114/94/s1109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/usc/t23/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs110
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

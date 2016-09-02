@@ -23,7 +23,7 @@
 
     The projects described in section 1702 of the SAFETEA–LU, section 1602 of the Transportation Equity Act for the 21st Century, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 ([105 Stat. 2027][/us/stat/105/2027] et seq.), and section 149(a) of the Surface Transportation and Uniform Relocation Assistance Act of 1987 ([101 Stat. 181][/us/stat/101/181] et seq.) are intended to establish eligibility for Federal-aid highway funds made available for such projects by section 1101(a)(16) of the SAFETEA–LU, section 1101(a)(13) of the Transportation Equity Act for the 21st Century, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991, and subsections (b), (c), and (d) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987, respectively, and are not intended to define the scope or limits of Federal action in a manner inconsistent with subsection (a).
 
-(Added [Pub. L. 93–87, title I, § 123(a)][/us/pl/93/87/s123/a], Aug. 13, 1973, [87 Stat. 261][/us/stat/87/261]; amended [Pub. L. 105–178, title I, § 1601(b)][/us/pl/105/178/s1601/b], June 9, 1998, [112 Stat. 256][/us/stat/112/256]; [Pub. L. 109–59, title I, § 1701(e)][/us/pl/109/59/s1701/e], Aug. 10, 2005, [119 Stat. 1256][/us/stat/119/1256]; [Pub. L. 112–141, div. A, title I, § 1519(c)(10)][/us/pl/112/141/s1519/c/10], July 6, 2012, [126 Stat. 576][/us/stat/126/576].)
+(Added [Pub. L. 93–87, title I, § 123(a)][/us/pl/93/87/s123/a], Aug. 13, 1973, [87 Stat. 261][/us/stat/87/261]; amended [Pub. L. 105–178, title I, § 1601(b)][/us/pl/105/178/s1601/b], June 9, 1998, [112 Stat. 256][/us/stat/112/256]; [Pub. L. 109–59, title I, § 1701(e)][/us/pl/109/59/s1701/e], Aug. 10, 2005, [119 Stat. 1256][/us/stat/119/1256]; [Pub. L. 112–141, div. A, title I, § 1519(c)(9)][/us/pl/112/141/s1519/c/9], formerly § 1519(c)(10), July 6, 2012, [126 Stat. 576][/us/stat/126/576], renumbered § 1519(c)(9), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438].)
 
  __References in Text__ 
 
@@ -41,11 +41,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141] struck out “[section 117 of this title][/us/usc/t23/s117],” after “21st Century,” second time appearing.
+    2012—Subsec. (b). [Pub. L. 112–141, § 1519(c)(9)][/us/pl/112/141/s1519/c/9], formerly § 1519(c)(10), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out “[section 117 of this title][/us/usc/t23/s117],” after “21st Century,” second time appearing.
 
     2005—Subsec. (b). [Pub. L. 109–59][/us/pl/109/59] inserted “section 1702 of the SAFETEA–LU,” after “described in” and “section 1101(a)(16) of the SAFETEA–LU,” after “for such projects by” and substituted “[section 117 of this title][/us/usc/t23/s117],” for “117 of title 23, United States Code,”.
 
     1998—[Pub. L. 105–178][/us/pl/105/178] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -66,8 +70,10 @@
 [/us/stat/112/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F256
 [/us/pl/109/59/s1701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1701%2Fe
 [/us/stat/119/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1256
-[/us/pl/112/141/s1519/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F10
+[/us/pl/112/141/s1519/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9
 [/us/stat/126/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F576
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/109/59/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1702
 [/us/stat/119/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1256
 [/us/pl/105/178/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1602
@@ -80,11 +86,15 @@
 [/us/stat/119/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1155
 [/us/pl/105/178/s1101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1101%2Fa%2F13
 [/us/stat/112/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F113
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/s1519/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

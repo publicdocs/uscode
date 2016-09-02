@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch3/m__us_usc_t23_s329.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch4)
+[Previous](./../../../..//us/usc/t23/ch3/m__us_usc_t23_s330.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch4)
 
 ## CHAPTER 4—HIGHWAY SAFETY
 
@@ -51,7 +51,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft23%2Fs404" data-uslm-ref="/us/usc/t23/s404">404.</a>  </td>
 
-    <td> National Highway Safety Advisory Committee.  </td>
+    <td> High-visibility enforcement program.  </td>
 
   </tr>
 
@@ -99,6 +99,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94, div. A, title IV, § 4004(b)][/us/pl/114/94/s4004/b], Dec. 4, 2015, [129 Stat. 1501][/us/stat/129/1501], substituted “High-visibility enforcement program” for “National Highway Safety Advisory Committee” in item 404.
+
     2012—[Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31105(b), 31109(b)–(f), July 6, 2012, [126 Stat. 755–757][/us/stat/126/755-757], substituted “National priority safety programs” for “Occupant protection incentive grants” in item 405 and struck out items 406 “Safety belt performance grants”, 407 “Innovative project grants”, 408 “State traffic safety information system improvements”, 410 “Alcohol-impaired driving countermeasures”, and 411 “State highway safety data improvements”.
 
     2005—[Pub. L. 109–59, title II][/us/pl/109/59], §§ 2005(b), 2006(b), 2008(b), Aug. 10, 2005, [119 Stat. 1527][/us/stat/119/1527], 1529, 1535, substituted “Safety belt performance grants” for “School bus driver training” in item 406 and “State traffic safety information system improvements” for “Alcohol traffic safety programs” in item 408 and added item 412.
@@ -123,11 +125,13 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch3/m__us_usc_t23_s329.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch4)
+[Previous](./../../../..//us/usc/t23/ch3/m__us_usc_t23_s330.md) | [Next](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fch4)
 
 ----------
 ----------
 
+[/us/pl/114/94/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4004%2Fb
+[/us/stat/129/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1501
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/755-757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F755-757
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

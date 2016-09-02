@@ -95,7 +95,7 @@
 
         (2)  __Fiscal year 2012 and thereafter__  __.—__ 
 
-        If, at any time in a fiscal year beginning after September 30, 2011, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer an amount equal to 2 percent of the funds apportioned to the State for the succeeding fiscal year under each of paragraphs (1) through (3) of section 104(b) to the apportionment of the State under section 402.
+        If, at any time in a fiscal year beginning after September 30, 2011, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer an amount equal to 2 percent of the funds apportioned to the State for the succeeding fiscal year under each of paragraphs (1), (2), and (4) of section 104(b) to the apportionment of the State under section 402.
 
         (3)  __Federal share__  __.—__ 
 
@@ -145,7 +145,7 @@
 
     All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until ex­pended.
 
-(Added [Pub. L. 102–240, title I, § 1031(a)(1)][/us/pl/102/240/s1031/a/1], Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970]; amended [Pub. L. 104–59, title II, § 205(e)][/us/pl/104/59/s205/e], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 112–141, div. A, title I, § 1404(e)][/us/pl/112/141/s1404/e], July 6, 2012, [126 Stat. 558][/us/stat/126/558].)
+(Added [Pub. L. 102–240, title I, § 1031(a)(1)][/us/pl/102/240/s1031/a/1], Dec. 18, 1991, [105 Stat. 1970][/us/stat/105/1970]; amended [Pub. L. 104–59, title II, § 205(e)][/us/pl/104/59/s205/e], Nov. 28, 1995, [109 Stat. 577][/us/stat/109/577]; [Pub. L. 112–141, div. A, title I, § 1404(e)][/us/pl/112/141/s1404/e], July 6, 2012, [126 Stat. 558][/us/stat/126/558]; [Pub. L. 114–94, div. A, title I, § 1446(a)(7)][/us/pl/114/94/s1446/a/7], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
 
  __References in Text__ 
 
@@ -161,9 +161,15 @@
 
  __Amendments__ 
 
+    2015—Subsec. (h)(2). [Pub. L. 114–94, § 1446(a)(7)][/us/pl/114/94/s1446/a/7], substituted “paragraphs (1), (2), and (4)” for “paragraphs (1) through (3)”.
+
     2012—Subsec. (h)(1), (2). [Pub. L. 112–141][/us/pl/112/141] redesignated par. (2) as (1), substituted “Prior to fiscal year 2012” for “Thereafter” in par. heading, inserted “and before October 1, 2011,” after “September 30, 1994,” in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of [section 104 of this title][/us/usc/t23/s104] to the apportionment of the State under [section 402 of this title][/us/usc/t23/s402].”
 
     1995—Subsec. (h)(1), (2). [Pub. L. 104–59][/us/pl/104/59] struck out “a law described in subsection (a)(1) and” after “have in effect”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -176,6 +182,16 @@
  __Effective Date__ 
 
     Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as an Effective Date of 1991 Amendment note under [section 104 of this title][/us/usc/t23/s104].
+
+ __Stop Motorcycle Checkpoint Funding__ 
+
+[Pub. L. 114–94, div. A, title IV, § 4007][/us/pl/114/94/s4007], Dec. 4, 2015, [129 Stat. 1510][/us/stat/129/1510], provided that: 
+
+> “Notwithstanding [section 153 of title 23][/us/usc/t23/s153], United States Code, the Secretary \[of Transportation\] may not provide a grant or any funds to a State, county, town, township, Indian tribe, municipality, or other local government that may be used for any program—
+
+>     “(1) to check helmet usage; or
+
+>     “(2) to create checkpoints that specifically target motorcycle operators or motorcycle passengers.”
 
  __Study of Benefits of Safety Belts and Motorcycle Helmets to Individuals Involved in Crashes__ 
 
@@ -208,6 +224,8 @@
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
 [/us/pl/112/141/s1404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fe
 [/us/stat/126/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F558
+[/us/pl/114/94/s1446/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F7
+[/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/112/141/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1105%2Fa
@@ -224,10 +242,14 @@
 [/us/stat/90/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F441
 [/us/pl/95/599/s168/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs168%2Fb
 [/us/stat/92/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2723
+[/us/pl/114/94/s1446/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F7
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -235,6 +257,9 @@
 [/us/stat/109/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F577
 [/us/pl/102/240/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1100
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
+[/us/pl/114/94/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs4007
+[/us/stat/129/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1510
+[/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153
 [/us/pl/102/240/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1031%2Fb
 [/us/stat/105/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1973
 [/us/usc/t23/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs153

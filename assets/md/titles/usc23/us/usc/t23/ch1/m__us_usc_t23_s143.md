@@ -29,7 +29,7 @@
 
             (A)  __In general__  __.—__ 
 
-            From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.
+            From administrative funds made available under section 104(a), the Secretary may deduct such sums as are necessary, not to exceed $4,000,000 for each of fiscal years 2016 through 2020, to carry out this section.
 
             (B)  __Allocation of funds__  __.—__ 
 
@@ -73,13 +73,13 @@
 
         Funds authorized to carry out this section shall remain available for obligation for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
 
-        (8)  __Use of surface transportation program funding__  __.—__ 
+        (8)  __Use of surface transportation block grant program funding__  __.—__ 
 
         In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
 
         (9)  __Reports__  __.—__ 
 
-        The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
+        The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
 
     (c) __Excise Tax Fuel Reporting.—__ 
 
@@ -115,7 +115,7 @@
 
         Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
 
-(Added [Pub. L. 91–605, title I, § 127(a)][/us/pl/91/605/s127/a], Dec. 31, 1970, [84 Stat. 1729][/us/stat/84/1729]; amended [Pub. L. 93–87, title I, § 122][/us/pl/93/87/s122], Aug. 13, 1973, [87 Stat. 261][/us/stat/87/261]; [Pub. L. 105–178, title I, § 1114(a)][/us/pl/105/178/s1114/a], (c), June 9, 1998, [112 Stat. 152][/us/stat/112/152]; [Pub. L. 105–206, title IX, § 9002(h)][/us/pl/105/206/s9002/h], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 109–59, title I, § 1115(a)][/us/pl/109/59/s1115/a], (b), Aug. 10, 2005, [119 Stat. 1175][/us/stat/119/1175], 1176; [Pub. L. 112–141, div. A, title I, § 1110][/us/pl/112/141/s1110], July 6, 2012, [126 Stat. 444][/us/stat/126/444].)
+(Added [Pub. L. 91–605, title I, § 127(a)][/us/pl/91/605/s127/a], Dec. 31, 1970, [84 Stat. 1729][/us/stat/84/1729]; amended [Pub. L. 93–87, title I, § 122][/us/pl/93/87/s122], Aug. 13, 1973, [87 Stat. 261][/us/stat/87/261]; [Pub. L. 105–178, title I, § 1114(a)][/us/pl/105/178/s1114/a], (c), June 9, 1998, [112 Stat. 152][/us/stat/112/152]; [Pub. L. 105–206, title IX, § 9002(h)][/us/pl/105/206/s9002/h], July 22, 1998, [112 Stat. 836][/us/stat/112/836]; [Pub. L. 109–59, title I, § 1115(a)][/us/pl/109/59/s1115/a], (b), Aug. 10, 2005, [119 Stat. 1175][/us/stat/119/1175], 1176; [Pub. L. 112–141, div. A, title I, § 1110][/us/pl/112/141/s1110], July 6, 2012, [126 Stat. 444][/us/stat/126/444]; [Pub. L. 114–94, div. A, title I, § 1110][/us/pl/114/94/s1110], Dec. 4, 2015, [129 Stat. 1344][/us/stat/129/1344].)
 
  __References in Text__ 
 
@@ -130,6 +130,12 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
     Provisions similar to those in this section were contained in [Pub. L. 102–240, title I, § 1040][/us/pl/102/240/s1040], Dec. 18, 1991, [105 Stat. 1992][/us/stat/105/1992], as amended, which was set out as a note under [section 101 of this title][/us/usc/t23/s101], prior to repeal by [Pub. L. 105–178, § 1114(b)(2)][/us/pl/105/178/s1114/b/2].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(A). [Pub. L. 114–94, § 1110(1)][/us/pl/114/94/s1110/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.”
+
+    Subsec. (b)(8). [Pub. L. 114–94, § 1110(2)][/us/pl/114/94/s1110/2], inserted “block grant” after “surface transportation” in heading.
+
+    Subsec. (b)(9). [Pub. L. 114–94, § 1110(3)][/us/pl/114/94/s1110/3], inserted “, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate” after “the Secretary”.
 
     2012—Subsec. (b)(2). [Pub. L. 112–141, § 1110(1)(A)][/us/pl/112/141/s1110/1/A], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.”
 
@@ -162,6 +168,10 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
     Subsec. (d). [Pub. L. 93–87, § 122(a)][/us/pl/93/87/s122/a], substituted “highways on the Federal-aid system on which such development highway is located” for “Federal-aid primary highways”.
 
     Subsec. (e). [Pub. L. 93–87, § 122(b)][/us/pl/93/87/s122/b], inserted introductory text “Except as otherwise provided in subsection (c) of this section,” and substituted “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located” for “the Federal share of the cost of any proj­ect for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -201,6 +211,8 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
 [/us/stat/119/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1175
 [/us/pl/112/141/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1110
 [/us/stat/126/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F444
+[/us/pl/114/94/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1110
+[/us/stat/129/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1344
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1144
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -212,6 +224,9 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
 [/us/stat/105/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1992
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/105/178/s1114/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1114%2Fb%2F2
+[/us/pl/114/94/s1110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1110%2F1
+[/us/pl/114/94/s1110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1110%2F2
+[/us/pl/114/94/s1110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1110%2F3
 [/us/pl/112/141/s1110/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1110%2F1%2FA
 [/us/pl/112/141/s1110/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1110%2F1%2FB
 [/us/pl/112/141/s1110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1110%2F2
@@ -230,6 +245,9 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
 [/us/pl/93/87/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs122%2Fa
 [/us/pl/93/87/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs122%2Fa
 [/us/pl/93/87/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2Fs122%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

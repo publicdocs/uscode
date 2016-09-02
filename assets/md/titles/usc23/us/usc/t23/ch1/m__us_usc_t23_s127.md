@@ -29,7 +29,7 @@
 
         where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: Provided, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 
-        (3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+        (3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b).
 
         (4) This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974.
 
@@ -68,6 +68,10 @@
                 (i) the idle reduction technology is fully functional at all times; and
 
                 (ii) the 550-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
+
+        (13)  __Milk products__  __.—__ 
+
+        A vehicle carrying fluid milk products shall be considered a load that cannot be easily dismantled or divided.
 
     (b)  __Reasonable Access__  __.—__ 
 
@@ -205,13 +209,99 @@
 
             (B) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567; [Pub. L. 113–235, div. K, title I, § 125][/us/pl/113/235/s125], Dec. 16, 2014, [128 Stat. 2709][/us/stat/128/2709].)
+    (m) __Covered Heavy-duty Tow and Recovery Vehicles.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The vehicle weight limitations set forth in this section do not apply to a covered heavy-duty tow and recovery vehicle.
+
+        (2)  __Covered heavy-duty tow and recovery vehicle defined__  __.—__ 
+
+        In this subsection, the term “covered heavy-duty tow and recovery vehicle” means a vehicle that—
+
+            (A) is transporting a disabled vehicle from the place where the vehicle became disabled to the nearest appropriate repair facility; and
+
+            (B) has a gross vehicle weight that is equal to or exceeds the gross vehicle weight of the disabled vehicle being transported.
+
+    (n)  __Operation of Vehicles on Certain Highways in the State of Texas__  __.—__ 
+
+    If any segment in the State of Texas of United States Route 59, United States Route 77, United States Route 281, United States Route 84, Texas State Highway 44, or another roadway is designated as Interstate Route 69, a vehicle that could operate legally on that segment before the date of the designation may continue to operate on that segment, without regard to any requirement under this section.
+
+    (o) __Certain Logging Vehicles in the State of Wisconsin.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+
+        (2)  __Covered logging vehicle defined__  __.—__ 
+
+        In this subsection, the term “covered logging vehicle” means a vehicle that—
+
+            (A) is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+
+            (B) has a gross vehicle weight of not more than 98,000 pounds;
+
+            (C) has not less than 6 axles; and
+
+            (D) is operating on a segment of Interstate Route 39 in the State of Wisconsin from mile marker 175.8 to mile marker 189.
+
+    (p)  __Operation of Certain Specialized Vehicles on Certain Highways in the State of Arkansas__  __.—__ 
+
+    If any segment of United States Route 63 between the exits for highways 14 and 75 in the State of Arkansas is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits under subsection (a) and the width limitation under [section 31113(a) of title 49][/us/usc/t49/s31113/a] shall not apply to that segment with respect to the operation of any vehicle that could operate legally on that segment before the date of the designation.
+
+    (q) __Certain Logging Vehicles in the State of Minnesota.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+
+        (2)  __Covered logging vehicle defined__  __.—__ 
+
+        In this subsection, the term “covered logging vehicle” means a vehicle that—
+
+            (A) is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+
+            (B) has a gross vehicle weight of not more than 99,000 pounds;
+
+            (C) has not less than 6 axles; and
+
+            (D) is operating on a segment of Interstate Route 35 in the State of Minnesota from mile marker 235.4 to mile marker 259.552.
+
+    (r) __Emergency Vehicles.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        Notwithstanding subsection (a), a State shall not enforce against an emergency vehicle a vehicle weight limit (up to a maximum gross vehicle weight of 86,000 pounds) of less than—
+
+            (A) 24,000 pounds on a single steering axle;
+
+            (B) 33,500 pounds on a single drive axle;
+
+            (C) 62,000 pounds on a tandem axle; or
+
+            (D) 52,000 pounds on a tandem rear drive steer axle.
+
+        (2)  __Emergency vehicle defined__  __.—__ 
+
+        In this subsection, the term “emergency vehicle” means a vehicle designed to be used under emergency conditions—
+
+            (A) to transport personnel and equipment; and
+
+            (B) to support the suppression of fires and mitigation of other hazardous situations.
+
+    (s)  __Natural Gas Vehicles__  __.—__ 
+
+    A vehicle, if operated by an engine fueled primarily by natural gas, may exceed any vehicle weight limit (up to a maximum gross vehicle weight of 82,000 pounds) under this section by an amount that is equal to the difference between—
+
+        (1) the weight of the vehicle attributable to the natural gas tank and fueling system carried by that vehicle; and
+
+        (2) the weight of a comparable diesel tank and fueling system.
+
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567; [Pub. L. 113–235, div. K, title I, § 125][/us/pl/113/235/s125], Dec. 16, 2014, [128 Stat. 2709][/us/stat/128/2709]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1409, 1410, 1446(a)(3), Dec. 4, 2015, [129 Stat. 1411][/us/stat/129/1411], 1437.)
 
  __References in Text__ 
 
     The date of enactment of Federal-Aid Highway Amendments of 1974, referred to in subsec. (a)(2), (4), means Jan. 4, 1975, the date on which [Pub. L. 93–643][/us/pl/93/643] was approved.
-
-    [Section 118(b) of this title][/us/usc/t23/s118/b], referred to in subsec. (a)(3), was amended by [section 1519(c)(5) of Pub. L. 112–141][/us/pl/112/141/s1519/c/5] and no longer contains a par. (2).
 
     The date of the enactment of this subsection, referred to in subsec. (c), is the date of enactment of [Pub. L. 100–17][/us/pl/100/17], which was approved Apr. 2, 1987.
 
@@ -232,6 +322,12 @@
     Amendments by section 194(c), (f) of [Pub. L. 111–117][/us/pl/111/117] were executed as if the amendments by section 194(a), (d) of [Pub. L. 111–117][/us/pl/111/117] were still in effect, notwithstanding section 194(b), (e) of [Pub. L. 111–117][/us/pl/111/117] which provided that the amendments by section 194(a), (d) were only effective during the 1-year period beginning on the date of enactment of [Pub. L. 111–117][/us/pl/111/117]. See 2009 Amendment notes and Effective and Termination Dates of 2009 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3). [Pub. L. 114–94, § 1446(a)(3)][/us/pl/114/94/s1446/a/3], substituted “118(b)” for “118(b)(2) of this title”.
+
+    Subsec. (a)(13). [Pub. L. 114–94, § 1409][/us/pl/114/94/s1409], added par. (13).
+
+    Subsecs. (m) to (s). [Pub. L. 114–94, § 1410][/us/pl/114/94/s1410], added subsecs. (m) to (s).
 
     2014—Subsecs. (j) to (l). [Pub. L. 113–235][/us/pl/113/235] added subsecs. (j) to (l).
 
@@ -307,6 +403,10 @@
 
     1960—[Pub. L. 86–624][/us/pl/86/624] made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -327,7 +427,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [section 404 of Pub. L. 104–88][/us/pl/104/88/s404] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [section 404 of Pub. L. 104–88][/us/pl/104/88/s404] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
     [Pub. L. 104–88, title IV, § 405(a)][/us/pl/104/88/s405/a], Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956], provided that the amendment made by that section is effective Nov. 28, 1995.
 
@@ -468,6 +568,7 @@
 
 [/us/stat/104/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2186
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/usc/t49/s31113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31113%2Fa
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F902
 [/us/pl/86/624/s17/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs17%2Fe
@@ -514,9 +615,9 @@
 [/us/stat/126/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F557
 [/us/pl/113/235/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs125
 [/us/stat/128/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2709
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1411
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
-[/us/usc/t23/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs118%2Fb
-[/us/pl/112/141/s1519/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F5
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/101/516/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516%2Fs335
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
@@ -530,6 +631,9 @@
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/114/94/s1446/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F3
+[/us/pl/114/94/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1409
+[/us/pl/114/94/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1410
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/141/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fa
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1
@@ -571,6 +675,9 @@
 [/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -584,7 +691,7 @@
 [/us/stat/123/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3073
 [/us/pl/104/88/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs404
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs405%2Fa
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240

@@ -19,7 +19,7 @@
 
         (1)  __In general__  __.—__ 
 
-        A project shall be eligible to receive credit assistance under this chapter if—
+        A project shall be eligible to receive credit assistance under the TIFIA program if—
 
             (A) the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and
 
@@ -29,7 +29,7 @@
 
             (A)  __In general__  __.—__ 
 
-            To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
+            To be eligible for assistance under the TIFIA program, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
 
                 (i) a rate covenant, if applicable;
 
@@ -45,29 +45,45 @@
 
         (3)  __Inclusion in transportation plans and programs__  __.—__ 
 
-        A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+        A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under the TIFIA program.
 
         (4)  __Application__  __.—__ 
 
         A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
 
-        (5)  __Eligible project costs__  __.—__ 
+        (5) __Eligible project cost parameters.—__ 
 
             (A)  __In general__  __.—__ 
 
-            Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
+            Except as provided in subparagraph (B), a project under the TIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
-                (i)
+                (i) $50,000,000; and
 
-                    (I) $50,000,000; or
+                (ii) 33⅓ percent of the amount of Federal highway funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
-                    (II) in the case of a rural infrastructure project, $25,000,000; and
+            (B) __Exceptions.—__ 
 
-                (ii) 33⅓ percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
+                (i)  __Intelligent transportation systems__  __.—__ 
 
-            (B)  __Intelligent transportation system projects__  __.—__ 
+                In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
 
-            In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+                (ii)  __Transit-oriented development projects__  __.—__ 
+
+                In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000.
+
+                (iii)  __Rural projects__  __.—__ 
+
+                In the case of a rural infrastructure project or a project capitalizing a rural projects fund, eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000, but not to exceed $100,000,000.
+
+                (iv)  __Local infrastructure projects__  __.—__ 
+
+                Eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000 in the case of a project or program of projects—
+
+                    (I) in which the applicant is a local government, public authority, or instrumentality of local government;
+
+                    (II) located on a facility owned by a local government; or
+
+                    (III) for which the Secretary determines that a local government is substantially involved in the development of the project.
 
         (6)  __Dedicated revenue sources__  __.—__ 
 
@@ -95,7 +111,7 @@
 
         (9)  __Beneficial effects__  __.—__ 
 
-        The Secretary shall determine that financial assistance for the project under this chapter will—
+        The Secretary shall determine that financial assistance for the project under the TIFIA program will—
 
             (A) foster, if appropriate, partnerships that attract public and private investment for the project;
 
@@ -105,7 +121,13 @@
 
         (10)  __Project readiness__  __.—__ 
 
-        To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+            (A)  __In general__  __.—__ 
+
+            Except as provided in subparagraph (B), to be eligible for assistance under the TIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by no later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
+
+            (B)  __Rural projects fund__  __.—__ 
+
+            In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.
 
     (b)  __Selection Among Eligible Projects__  __.—__ 
 
@@ -113,13 +135,15 @@
 
         The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
-        (2)  __Adequate funding not available__  __.—__ 
+        (2) __Master credit agreements.—__ 
 
-        If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+            (A)  __Program of related projects__  __.—__ 
 
-            (A) the following fiscal year; and
+            The Secretary may enter into a master credit agreement for a program of related projects secured by a common security pledge on terms acceptable to the Secretary.
 
-            (B) the fiscal year during which additional funds are available to receive credit assistance.
+            (B)  __Adequate funding not available__  __.—__ 
+
+            If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait to execute a credit instrument until the fiscal year for which additional funds are available to receive credit assistance.
 
         (3)  __Preliminary rating opinion letter__  __.—__ 
 
@@ -133,7 +157,7 @@
 
         (1)  __In general__  __.—__ 
 
-        In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of [section 5333(a) of title 49][/us/usc/t49/s5333/a] for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
+        In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of [section 5333(a) of title 49][/us/usc/t49/s5333/a] for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
 
             (A) Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.).
 
@@ -161,9 +185,9 @@
 
     (e)  __Development Phase Activities__  __.—__ 
 
-    Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+    Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 243][/us/stat/112/243], § 182; renumbered § 602 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 611][/us/stat/126/611].)
+(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 243][/us/stat/112/243], § 182; renumbered § 602 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 611][/us/stat/126/611]; [Pub. L. 114–94, div. A, title II, § 2001(b)][/us/pl/114/94/s2001/b], Dec. 4, 2015, [129 Stat. 1440][/us/stat/129/1440].)
 
  __References in Text__ 
 
@@ -174,6 +198,36 @@
     The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, [Pub. L. 91–646][/us/pl/91/646], [84 Stat. 1894][/us/stat/84/1894], and which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42][/us/usc/t42/s4601] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1), (2)(A), (3). [Pub. L. 114–94, § 2001(b)(1)(A)][/us/pl/114/94/s2001/b/1/A]–(C), substituted “the TIFIA program” for “this chapter”.
+
+    Subsec. (a)(5). [Pub. L. 114–94, § 2001(b)(1)(D)(i)][/us/pl/114/94/s2001/b/1/D/i], substituted “Eligible project cost parameters” for “Eligible project costs” in heading.
+
+    Subsec. (a)(5)(A). [Pub. L. 114–94, § 2001(b)(1)(D)(ii)(I)][/us/pl/114/94/s2001/b/1/D/ii/I], substituted “subparagraph (B), a project under the TIFIA program” for “subparagraph (B), to be eligible for assistance under this chapter, a project” in introductory provisions.
+
+    Subsec. (a)(5)(A)(i). [Pub. L. 114–94, § 2001(b)(1)(D)(ii)(II)][/us/pl/114/94/s2001/b/1/D/ii/II], added cl. (i) and struck out former cl. (i) which read as follows:
+
+    “(I) $50,000,000; or
+
+    “(II) in the case of a rural infrastructure project, $25,000,000; and”.
+
+    Subsec. (a)(5)(A)(ii). [Pub. L. 114–94, § 2001(b)(1)(D)(ii)(III)][/us/pl/114/94/s2001/b/1/D/ii/III], struck out “assistance” after “highway”.
+
+    Subsec. (a)(5)(B). [Pub. L. 114–94, § 2001(b)(1)(D)(iii)(I)][/us/pl/114/94/s2001/b/1/D/iii/I], substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), added cl. (i) heading, and realigned margins.
+
+    Subsec. (a)(5)(B)(ii) to (iv). [Pub. L. 114–94, § 2001(b)(1)(D)(iii)(II)][/us/pl/114/94/s2001/b/1/D/iii/II], added cls. (ii) to (iv).
+
+    Subsec. (a)(9). [Pub. L. 114–94, § 2001(b)(1)(E)][/us/pl/114/94/s2001/b/1/E], substituted “the TIFIA program” for “this chapter” in introductory provisions.
+
+    Subsec. (a)(10). [Pub. L. 114–94, § 2001(b)(1)(F)][/us/pl/114/94/s2001/b/1/F], designated existing provisions as subpar. (A), added subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 2001(b)(2)][/us/pl/114/94/s2001/b/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+
+    “(A) the following fiscal year; and
+
+    “(B) the fiscal year during which additional funds are available to receive credit assistance.”
+
+    Subsecs. (c)(1), (e). [Pub. L. 114–94, § 2001(b)(3)][/us/pl/114/94/s2001/b/3], (4), substituted “the TIFIA program” for “this chapter”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to determination of eligibility and project selection, consisting of subsecs. (a) to (c).
 
@@ -211,6 +265,10 @@
 
     Subsec. (c). [Pub. L. 109–59, § 1602(b)(5)][/us/pl/109/59/s1602/b/5], substituted “this chapter” for “this subchapter” in introductory provisions.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -233,6 +291,8 @@
 [/us/stat/119/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1240
 [/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
 [/us/stat/126/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F611
+[/us/pl/114/94/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb
+[/us/stat/129/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1440
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
@@ -242,6 +302,17 @@
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
+[/us/pl/114/94/s2001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FA
+[/us/pl/114/94/s2001/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fi
+[/us/pl/114/94/s2001/b/1/D/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fii%2FI
+[/us/pl/114/94/s2001/b/1/D/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fii%2FII
+[/us/pl/114/94/s2001/b/1/D/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fii%2FIII
+[/us/pl/114/94/s2001/b/1/D/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fiii%2FI
+[/us/pl/114/94/s2001/b/1/D/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FD%2Fiii%2FII
+[/us/pl/114/94/s2001/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FE
+[/us/pl/114/94/s2001/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F1%2FF
+[/us/pl/114/94/s2001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F2
+[/us/pl/114/94/s2001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fb%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
 [/us/usc/t23/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs182
@@ -259,6 +330,9 @@
 [/us/pl/109/59/s1602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F2
 [/us/pl/109/59/s1601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fc%2F2
 [/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

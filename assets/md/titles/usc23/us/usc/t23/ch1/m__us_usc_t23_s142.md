@@ -35,7 +35,7 @@
 
         (1) For all purposes of this title, a project authorized by subsection (a)(1) of this section shall be deemed to be a highway project.
 
-        (2) Projects authorized by subsection (a)(2) shall be subject to, and governed in accordance with, all provisions of this title applicable to projects on the surface transportation program, except to the extent determined inconsistent by the Secretary.
+        (2) Projects authorized by subsection (a)(2) shall be subject to, and governed in accordance with, all provisions of this title applicable to projects on the surface transportation block grant program, except to the extent determined inconsistent by the Secretary.
 
         (3) The Federal share payable on account of projects authorized by subsection (a) of this section shall be that provided in [section 120 of this title][/us/usc/t23/s120].
 
@@ -49,7 +49,7 @@
 
     (i) The provisions of section 5323(a)(1)(D)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 49 shall apply in carrying out subsection (a)(2) of this section.
 
-(Added [Pub. L. 91–605, title I, § 111(a)][/us/pl/91/605/s111/a], Dec. 31, 1970, [84 Stat. 1719][/us/stat/84/1719]; amended [Pub. L. 93–87, title I, § 121(a)][/us/pl/93/87/s121/a], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 127][/us/pl/94/280/s127], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–424, title I, § 120][/us/pl/97/424/s120], Jan. 6, 1983, [96 Stat. 2111][/us/stat/96/2111]; [Pub. L. 102–240, title I, § 1027(a)][/us/pl/102/240/s1027/a]–(e), title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1966][/us/stat/105/1966], 2088; [Pub. L. 103–272, § 5(f)(2)][/us/pl/103/272/s5/f/2], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429, § 7(a)(4)(C)][/us/pl/103/429/s7/a/4/C], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(D), (4), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1513(b), 1519(c)(9), July 6, 2012, [126 Stat. 572][/us/stat/126/572], 576.)
+(Added [Pub. L. 91–605, title I, § 111(a)][/us/pl/91/605/s111/a], Dec. 31, 1970, [84 Stat. 1719][/us/stat/84/1719]; amended [Pub. L. 93–87, title I, § 121(a)][/us/pl/93/87/s121/a], Aug. 13, 1973, [87 Stat. 259][/us/stat/87/259]; [Pub. L. 94–280, title I, § 127][/us/pl/94/280/s127], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 97–424, title I, § 120][/us/pl/97/424/s120], Jan. 6, 1983, [96 Stat. 2111][/us/stat/96/2111]; [Pub. L. 102–240, title I, § 1027(a)][/us/pl/102/240/s1027/a]–(e), title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1966][/us/stat/105/1966], 2088; [Pub. L. 103–272, § 5(f)(2)][/us/pl/103/272/s5/f/2], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429, § 7(a)(4)(C)][/us/pl/103/429/s7/a/4/C], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389]; [Pub. L. 105–178, title I, § 1103][/us/pl/105/178/s1103](l)(3)(D), (4), June 9, 1998, [112 Stat. 126][/us/stat/112/126]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1513(b), 1519(c)(8), formerly § 1519(c)(9), July 6, 2012, [126 Stat. 572][/us/stat/126/572], 576, renumbered § 1519(c)(8), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(5), 1446(d)(5)(D), Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1438.)
 
  __References in Text__ 
 
@@ -57,19 +57,21 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], §§ 1513(b), 1519(c)(9)(A)(i)(II)–(IV), struck out “(hereafter in this section referred to as ‘buses’)” after “transportation of passengers”, substituted “of the Federal-aid highways” for “of the Federal-aid systems” and “Federal-aid highway” for “Federal-aid system”, and inserted “, which may include electric vehicle charging stations or natural gas vehicle refueling stations,” after “parking facilities”.
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 1446(d)(5)(D)][/us/pl/114/94/s1446/d/5/D], amended directory language of [Pub. L. 112–141, § 1519(c)(8)(A)(i)(I)][/us/pl/112/141/s1519/c/8/A/i/I]. See 2012 Amendment note below.
 
-    [Pub. L. 112–141, § 1519(c)(9)(A)(i)(I)][/us/pl/112/141/s1519/c/9/A/i/I], which directed substitution of “buses” for “motor vehicles (other than rail)”, was executed by making the substitution for “motor vehicles (other than on rail)”, to reflect the probable intent of Congress.
+    Subsec. (e)(2). [Pub. L. 114–94, § 1109(c)(5)][/us/pl/114/94/s1109/c/5], substituted “surface transportation block grant program” for “surface transportation program”.
 
-    Subsec. (a)(2). [Pub. L. 112–141, § 1519(c)(9)(A)(ii)][/us/pl/112/141/s1519/c/9/A/ii], struck out “as a project on the the surface transportation program for” after “Secretary may approve” and substituted “section 104(b)(2)” for “section 104(b)(3)”.
+    2012—Subsec. (a)(1). [Pub. L. 112–141][/us/pl/112/141], §§ 1513(b), 1519(c)(8)(A)(i), formerly § 1519(c)(9)(A)(i), as renumbered and amended by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], (D), substituted “buses” for “motor vehicles (other than on rail)”, struck out “(hereafter in this section referred to as ‘buses’)” after “transportation of passengers”, substituted “of the Federal-aid highways” for “of the Federal-aid systems” and “Federal-aid highway” for “Federal-aid system”, and inserted “, which may include electric vehicle charging stations or natural gas vehicle refueling stations,” after “parking facilities”..
 
-    Subsec. (b). [Pub. L. 112–141, § 1519(c)(9)(B)][/us/pl/112/141/s1519/c/9/B], substituted “104(b)(1)” for “104(b)(4)”.
+    Subsec. (a)(2). [Pub. L. 112–141, § 1519(c)(8)(A)(ii)][/us/pl/112/141/s1519/c/8/A/ii], formerly 1519(c)(9)(A)(ii), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], struck out “as a project on the the surface transportation program for” after “Secretary may approve” and substituted “section 104(b)(2)” for “section 104(b)(3)”.
 
-    Subsec. (c). [Pub. L. 112–141, § 1519(c)(9)(C)][/us/pl/112/141/s1519/c/9/C], substituted “highway” for “system” in two places and substituted “highways eligible under the program that is the source of the funds” for “highway facilities”.
+    Subsec. (b). [Pub. L. 112–141, § 1519(c)(8)(B)][/us/pl/112/141/s1519/c/8/B], formerly 1519(c)(9)(B), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “104(b)(1)” for “104(b)(4)”.
 
-    Subsec. (e)(2). [Pub. L. 112–141, § 1519(c)(9)(D)][/us/pl/112/141/s1519/c/9/D], substituted “Projects authorized by subsection (a)(2)” for “Notwithstanding section 209(f)(1) of the Highway Revenue Act of 1956, the Highway Trust Fund shall be available for making expenditures to meet obligations resulting from projects authorized by subsection (a)(2) of this section and such projects”.
+    Subsec. (c). [Pub. L. 112–141, § 1519(c)(8)(C)][/us/pl/112/141/s1519/c/8/C], formerly 1519(c)(9)(C), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “highway” for “system” in two places and substituted “highways eligible under the program that is the source of the funds” for “highway facilities”.
 
-    Subsec. (f). [Pub. L. 112–141, § 1519(c)(9)(E)][/us/pl/112/141/s1519/c/9/E], substituted “exists” for “exits”.
+    Subsec. (e)(2). [Pub. L. 112–141, § 1519(c)(8)(D)][/us/pl/112/141/s1519/c/8/D], formerly 1519(c)(9)(D), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “Projects authorized by subsection (a)(2)” for “Notwithstanding section 209(f)(1) of the Highway Revenue Act of 1956, the Highway Trust Fund shall be available for making expenditures to meet obligations resulting from projects authorized by subsection (a)(2) of this section and such projects”.
+
+    Subsec. (f). [Pub. L. 112–141, § 1519(c)(8)(E)][/us/pl/112/141/s1519/c/8/E], formerly 1519(c)(9)(E), as renumbered by [Pub. L. 114–94, § 1446(d)(5)(B)][/us/pl/114/94/s1446/d/5/B], substituted “exists” for “exits”.
 
     1998—Subsec. (b). [Pub. L. 105–178, § 1103][/us/pl/105/178/s1103](l)(4), substituted “section 104(b)(4)” for “paragraph (5) of subsection (b) of [section 104 of this title][/us/usc/t23/s104]”.
 
@@ -133,6 +135,12 @@
 
     Subsecs. (g) to (k). [Pub. L. 93–87][/us/pl/93/87] added subsecs. (g) to (k).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    [Pub. L. 114–94, div. A, title I, § 1446(d)][/us/pl/114/94/s1446/d], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], provided that the amendment made by section 1446(d)(5)(B), (D) is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -191,17 +199,29 @@
 [/us/stat/112/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F126
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F572
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/usc/t49/s5323/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5323%2Fa%2F1%2FD
 [/us/usc/t49/s5323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5323%2Fa%2F1
 [/us/pl/109/59/s3023/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fa%2F1
 [/us/stat/119/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1615
+[/us/pl/114/94/s1446/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FD
+[/us/pl/112/141/s1519/c/8/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FA%2Fi%2FI
+[/us/pl/114/94/s1109/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F5
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141/s1519/c/9/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FA%2Fi%2FI
-[/us/pl/112/141/s1519/c/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FA%2Fii
-[/us/pl/112/141/s1519/c/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FB
-[/us/pl/112/141/s1519/c/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FC
-[/us/pl/112/141/s1519/c/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FD
-[/us/pl/112/141/s1519/c/9/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F9%2FE
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FA%2Fii
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FB
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FC
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FD
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
+[/us/pl/112/141/s1519/c/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1519%2Fc%2F8%2FE
+[/us/pl/114/94/s1446/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F5%2FB
 [/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/105/178/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1103
@@ -246,6 +266,12 @@
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
 [/us/pl/93/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1446/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

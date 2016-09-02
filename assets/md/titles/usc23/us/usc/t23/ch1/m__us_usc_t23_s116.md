@@ -91,6 +91,32 @@
 
     Amendment by [section 21(e)(3) of Pub. L. 86–70][/us/pl/86/70/s21/e/3] effective July 1, 1959, see [section 21(e) of Pub. L. 86–70][/us/pl/86/70/s21/e], set out as a note under [section 101 of this title][/us/usc/t23/s101].
 
+ __Pilot Program__ 
+
+[Pub. L. 114–94, div. A, title I, § 1424][/us/pl/114/94/s1424], Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Administrator of the Federal Highway Administration (referred to in this section as the ‘Administrator’) may establish a pilot program that allows a State to utilize innovative approaches to maintain the right-of-way of Federal-aid highways within the State.
+
+>     “(b)  __Limitation__  __.—__ 
+
+>     A pilot program established under subsection (a) shall—
+
+>         “(1) terminate after not more than 4 years;
+
+>         “(2) include not more than 5 States; and
+
+>         “(3) be subject to guidelines published by the Administrator.
+
+>     “(c)  __Report__  __.—__ 
+
+>     If the Administrator establishes a pilot program under subsection (a), the Administrator shall, not more than 1 year after the completion of the pilot program, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the pilot program.
+
+>     “(d)  __Savings Provision__  __.—__ 
+
+>     Nothing in this section may be construed to affect the requirements of [section 111 of title 23][/us/usc/t23/s111], United States Code.”
+
  __Establishment of Minimum Federal Guidelines for Maintenance; Study by National Academy of Sciences and Report__ 
 
     [Pub. L. 100–17, title I, § 163][/us/pl/100/17/s163], Apr. 2, 1987, [101 Stat. 213][/us/stat/101/213], directed Secretary to enter into appropriate arrangements with the National Academy of Sciences to conduct a complete investigation of the appropriateness of establishing minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems and, not later than 18 months after entering into appropriate arrangements, the National Academy of Sciences was to submit to Secretary and Congress a report on the results of the investigation and study together with recommendations (including legislative and administrative recommendations) concerning establishment of minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems.
@@ -150,6 +176,9 @@
 [/us/pl/86/70/s21/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe%2F3
 [/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1424
+[/us/stat/129/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1425
+[/us/usc/t23/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs111
 [/us/pl/100/17/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs163
 [/us/stat/101/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F213
 

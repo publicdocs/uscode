@@ -37,7 +37,11 @@
 
         (2)  __Limitation on refinancing of interim construction financing__  __.—__ 
 
-        A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.
+        A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B)—
+
+            (A) if the maturity of such interim construction financing is later than 1 year after the substantial completion of the project; and
+
+            (B) later than 1 year after the date of substantial completion of the project.
 
         (3)  __Risk assessment__  __.—__ 
 
@@ -51,7 +55,13 @@
 
         (2)  __Maximum amount__  __.—__ 
 
-        The amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+            (A)  __In general__  __.—__ 
+
+            Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+
+            (B)  __Rural projects fund__  __.—__ 
+
+            In the case of a project capitalizing a rural projects fund, the maximum amount of a secured loan made to a State infrastructure bank shall be determined in accordance with section 602(a)(5)(B)(iii).
 
         (3)  __Payment__  __.—__ 
 
@@ -69,9 +79,11 @@
 
                     (II) user fees;
 
-                    (III) payments owing to the obligor under a public-private partnership; or
+                    (III) payments owing to the obligor under a public-private partnership;
 
-                    (IV) other dedicated revenue sources that also secure the senior project obligations; and
+                    (IV) other dedicated revenue sources that also secure the senior project obligations; or
+
+                    (V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
                 (ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -87,11 +99,11 @@
 
                 (i)  __In general__  __.—__ 
 
-                The interest rate of a loan offered to a rural infrastructure project under this chapter shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
+                The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
                 (ii)  __Application__  __.—__ 
 
-                The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects under section 608(a)(3)(A).
+                The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects and rural project funds under section 608(a)(3)(A).
 
             (C)  __Limited buydowns__  __.—__ 
 
@@ -103,11 +115,17 @@
 
         (5)  __Maturity date__  __.—__ 
 
-        The final maturity date of the secured loan shall be the lesser of—
+            (A)  __In general__  __.—__ 
 
-            (A) 35 years after the date of substantial completion of the project; and
+            Except as provided in subparagraph (B), the final maturity date of the secured loan shall be the lesser of—
 
-            (B) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+                (i) 35 years after the date of substantial completion of the project; and
+
+                (ii) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+
+            (B)  __Rural projects fund__  __.—__ 
+
+            In the case of a project capitalizing a rural projects fund, the final maturity date of the secured loan shall not exceed 35 years after the date on which the secured loan is obligated.
 
         (6)  __Nonsubordination__  __.—__ 
 
@@ -141,11 +159,17 @@
 
         (8)  __Non-federal share__  __.—__ 
 
-        The proceeds of a secured loan under this chapter may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
+        The proceeds of a secured loan under the TIFIA program may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
 
         (9)  __Maximum federal involvement__  __.—__ 
 
-        The total Federal assistance provided on a project receiving a loan under this chapter shall not exceed 80 percent of the total project cost.
+            (A)  __In general__  __.—__ 
+
+            The total Federal assistance provided for a project receiving a loan under the TIFIA program shall not exceed 80 percent of the total project cost.
+
+            (B)  __Rural projects fund__  __.—__ 
+
+            A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).
 
     (c)  __Repayment__  __.—__ 
 
@@ -215,9 +239,47 @@
 
         The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
 
-(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 245][/us/stat/112/245], § 183; renumbered § 603 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 614][/us/stat/126/614].)
+    (f) __Streamlined Application Process.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        Not later than 180 days after the date of enactment of the FAST Act, the Secretary shall make available an expedited application process or processes available at the request of entities seeking secured loans under the TIFIA program that use a set or sets of conventional terms established pursuant to this section.
+
+        (2)  __Terms__  __.—__ 
+
+        In establishing the streamlined application process required by this subsection, the Secretary may include terms commonly included in prior credit agreements and allow for an expedited application period, including—
+
+            (A) the secured loan is in an amount of not greater than $100,000,000;
+
+            (B) the secured loan is secured and payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge, tax increment financing, or a system-backed pledge of project revenues; and
+
+            (C) repayment of the loan commences not later than 5 years after disbursement.
+
+(Added [Pub. L. 105–178, title I, § 1503(a)][/us/pl/105/178/s1503/a], June 9, 1998, [112 Stat. 245][/us/stat/112/245], § 183; renumbered § 603 and amended [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, [119 Stat. 1240][/us/stat/119/1240], 1247; [Pub. L. 112–141, div. A, title II, § 2002][/us/pl/112/141/s2002], July 6, 2012, [126 Stat. 614][/us/stat/126/614]; [Pub. L. 114–94, div. A, title II, § 2001(c)][/us/pl/114/94/s2001/c], Dec. 4, 2015, [129 Stat. 1442][/us/stat/129/1442].)
+
+ __References in Text__ 
+
+    The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–94, § 2001(c)(1)][/us/pl/114/94/s2001/c/1], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 2001(c)(2)(A)][/us/pl/114/94/s2001/c/2/A], designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
+
+    Subsec. (b)(3)(A)(i)(V). [Pub. L. 114–94, § 2001(c)(2)(B)][/us/pl/114/94/s2001/c/2/B], added subcl. (V).
+
+    Subsec. (b)(4)(B)(i). [Pub. L. 114–94, § 2001(c)(2)(C)(i)][/us/pl/114/94/s2001/c/2/C/i], substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
+
+    Subsec. (b)(4)(B)(ii). [Pub. L. 114–94, § 2001(c)(2)(C)(ii)][/us/pl/114/94/s2001/c/2/C/ii], inserted “and rural project funds” after “rural infrastructure projects”.
+
+    Subsec. (b)(5). [Pub. L. 114–94, § 2001(c)(2)(D)][/us/pl/114/94/s2001/c/2/D], designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+
+    Subsec. (b)(8). [Pub. L. 114–94, § 2001(c)(2)(E)][/us/pl/114/94/s2001/c/2/E], substituted “the TIFIA program” for “this chapter”.
+
+    Subsec. (b)(9). [Pub. L. 114–94, § 2001(c)(2)(F)][/us/pl/114/94/s2001/c/2/F], designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
+
+    Subsec. (f). [Pub. L. 114–94, § 2001(c)(3)][/us/pl/114/94/s2001/c/3], added subsec. (f).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to secured loans.
 
@@ -243,6 +305,10 @@
 
     Subsec. (c)(3) to (5). [Pub. L. 109–59, § 1601(d)(4)][/us/pl/109/59/s1601/d/4], redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
@@ -260,6 +326,18 @@
 [/us/stat/119/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1240
 [/us/pl/112/141/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2002
 [/us/stat/126/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F614
+[/us/pl/114/94/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc
+[/us/stat/129/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1442
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s2001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F1
+[/us/pl/114/94/s2001/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FA
+[/us/pl/114/94/s2001/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FB
+[/us/pl/114/94/s2001/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FC%2Fi
+[/us/pl/114/94/s2001/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FC%2Fii
+[/us/pl/114/94/s2001/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FD
+[/us/pl/114/94/s2001/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FE
+[/us/pl/114/94/s2001/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F2%2FF
+[/us/pl/114/94/s2001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs2001%2Fc%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fd
 [/us/usc/t23/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs183
@@ -271,6 +349,9 @@
 [/us/pl/109/59/s1601/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F3%2FC
 [/us/pl/109/59/s1602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F5
 [/us/pl/109/59/s1601/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1601%2Fd%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

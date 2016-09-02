@@ -19,9 +19,9 @@
 
     Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
 
-        (1) $150,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+        (1) $158,000,000 shall be for the Puerto Rico highway program under subsection (b); and
 
-        (2) $40,000,000 shall be for the territorial highway program under subsection (c).
+        (2) $42,000,000 shall be for the territorial highway program under subsection (c).
 
     (b) __Puerto Rico Highway Program.—__ 
 
@@ -51,7 +51,7 @@
 
                 (ii)  __Exception__  __.—__ 
 
-                Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
+                Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation block grant program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
 
             (B)  __Penalty__  __.—__ 
 
@@ -175,7 +175,7 @@
 
             Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
 
-                (i) Eligible surface transportation program projects described in section 133(b).
+                (i) Eligible surface transportation block grant program projects described in section 133(b).
 
                 (ii) Cost-effective, preventive maintenance consistent with section 116(e).
 
@@ -195,9 +195,9 @@
 
         (7)  __Location of projects__  __.—__ 
 
-        Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.
+        Territorial highway program projects (other than those described in paragraphs (1) through (4) of section 133(c) and section 133(b)(12)) may not be undertaken on roads functionally classified as local.
 
-(Added [Pub. L. 109–59, title I, § 1120(a)][/us/pl/109/59/s1120/a], Aug. 10, 2005, [119 Stat. 1191][/us/stat/119/1191]; amended [Pub. L. 112–141, div. A, title I, § 1114(a)][/us/pl/112/141/s1114/a], July 6, 2012, [126 Stat. 464][/us/stat/126/464].)
+(Added [Pub. L. 109–59, title I, § 1120(a)][/us/pl/109/59/s1120/a], Aug. 10, 2005, [119 Stat. 1191][/us/stat/119/1191]; amended [Pub. L. 112–141, div. A, title I, § 1114(a)][/us/pl/112/141/s1114/a], July 6, 2012, [126 Stat. 464][/us/stat/126/464]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1109(c)(5), 1115, 1446(a)(11), Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343], 1349, 1438.)
 
  __References in Text__ 
 
@@ -205,7 +205,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 1115(1)][/us/pl/114/94/s1115/1], substituted “$158,000,000” for “$150,000,000”.
+
+    Subsec. (a)(2). [Pub. L. 114–94, § 1115(2)][/us/pl/114/94/s1115/2], substituted “$42,000,000” for “$40,000,000”.
+
+    Subsecs. (b)(2)(A)(ii), (c)(6)(A)(i). [Pub. L. 114–94, § 1109(c)(5)][/us/pl/114/94/s1109/c/5], substituted “surface transportation block grant program” for “surface transportation program”.
+
+    Subsec. (c)(7). [Pub. L. 114–94, § 1446(a)(11)][/us/pl/114/94/s1446/a/11], substituted “paragraphs (1) through (4) of section 133(c) and section 133(b)(12)” for “paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)”.
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to Puerto Rico highway program.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -223,10 +235,19 @@
 [/us/stat/119/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1191
 [/us/pl/112/141/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1114%2Fa
 [/us/stat/126/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F464
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/usc/t23/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs215
 [/us/usc/t23/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs215
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s1115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1115%2F1
+[/us/pl/114/94/s1115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1115%2F2
+[/us/pl/114/94/s1109/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F5
+[/us/pl/114/94/s1446/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F11
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -37,13 +37,13 @@
 
         Subject to paragraph (3), funds apportioned to a State under this title may be used to participate in the payment of—
 
-            (A) costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation program funds; and
+            (A) costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation block grant program funds; and
 
             (B) costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
 
         (3)  __Terms and conditions__  __.—__ 
 
-        The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
+        The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation block grant program funds, if the State demonstrates to the Secretary and the Secretary finds that—
 
             (A) any land acquired, and relocation assistance provided, complied with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
 
@@ -143,7 +143,7 @@
 
             The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 893][/us/stat/72/893]; [Pub. L. 86–35, § 1][/us/pl/86/35/s1], May 29, 1959, [73 Stat. 62][/us/stat/73/62]; [Pub. L. 90–495, § 7(a)][/us/pl/90/495/s7/a], (b), Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 93–87, title I, § 113][/us/pl/93/87/s113], Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257]; [Pub. L. 94–280, title I, § 115][/us/pl/94/280/s115], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 102–240, title I, § 1017(a)][/us/pl/102/240/s1017/a], (b), Dec. 18, 1991, [105 Stat. 1947][/us/stat/105/1947]; [Pub. L. 102–388, title III, § 346][/us/pl/102/388/s346], Oct. 6, 1992, [106 Stat. 1553][/us/stat/106/1553]; [Pub. L. 103–429, § 3(2)][/us/pl/103/429/s3/2], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1211(e)(1), 1301(a), June 9, 1998, [112 Stat. 188][/us/stat/112/188], 225; [Pub. L. 112–141, div. A, title I, § 1302][/us/pl/112/141/s1302], July 6, 2012, [126 Stat. 528][/us/stat/126/528].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 893][/us/stat/72/893]; [Pub. L. 86–35, § 1][/us/pl/86/35/s1], May 29, 1959, [73 Stat. 62][/us/stat/73/62]; [Pub. L. 90–495, § 7(a)][/us/pl/90/495/s7/a], (b), Aug. 23, 1968, [82 Stat. 818][/us/stat/82/818]; [Pub. L. 93–87, title I, § 113][/us/pl/93/87/s113], Aug. 13, 1973, [87 Stat. 257][/us/stat/87/257]; [Pub. L. 94–280, title I, § 115][/us/pl/94/280/s115], May 5, 1976, [90 Stat. 436][/us/stat/90/436]; [Pub. L. 102–240, title I, § 1017(a)][/us/pl/102/240/s1017/a], (b), Dec. 18, 1991, [105 Stat. 1947][/us/stat/105/1947]; [Pub. L. 102–388, title III, § 346][/us/pl/102/388/s346], Oct. 6, 1992, [106 Stat. 1553][/us/stat/106/1553]; [Pub. L. 103–429, § 3(2)][/us/pl/103/429/s3/2], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1211(e)(1), 1301(a), June 9, 1998, [112 Stat. 188][/us/stat/112/188], 225; [Pub. L. 112–141, div. A, title I, § 1302][/us/pl/112/141/s1302], July 6, 2012, [126 Stat. 528][/us/stat/126/528]; [Pub. L. 114–94, div. A, title I, § 1109(c)(5)][/us/pl/114/94/s1109/c/5], Dec. 4, 2015, [129 Stat. 1343][/us/stat/129/1343].)
 
  __References in Text__ 
 
@@ -160,6 +160,8 @@
     Section 7 of the Endangered Species Act, referred to in subsec. (c)(3)(F), probably means section 7 of the Endangered Species Act of 1973, which is classified to [section 1536 of Title 16][/us/usc/t16/s1536], Conservation.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(A), (3). [Pub. L. 114–94][/us/pl/114/94] substituted “surface transportation block grant program” for “surface transportation program” in par. (2)(A) and in introductory provisions of par. (3).
 
     2012—Subsec. (a). [Pub. L. 112–141, § 1302(a)(1)][/us/pl/112/141/s1302/a/1], substituted “real property interests” for “real property” wherever appearing.
 
@@ -210,6 +212,10 @@
     Subsec. (c). [Pub. L. 90–495, § 7(b)][/us/pl/90/495/s7/b], added subsec. (c).
 
     1959—Subsec. (a). [Pub. L. 86–35][/us/pl/86/35] increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -291,6 +297,8 @@
 [/us/stat/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F188
 [/us/pl/112/141/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1302
 [/us/stat/126/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F528
+[/us/pl/114/94/s1109/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1109%2Fc%2F5
+[/us/stat/129/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1343
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -307,6 +315,7 @@
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
 [/us/usc/t16/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s1302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1302%2Fa%2F1
 [/us/pl/112/141/s1302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1302%2Fa%2F3
 [/us/pl/112/141/s1302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1302%2Fb%2F1
@@ -333,6 +342,9 @@
 [/us/pl/90/495/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs7%2Fa
 [/us/pl/90/495/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs7%2Fb
 [/us/pl/86/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F35
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
