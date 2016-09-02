@@ -1,0 +1,130 @@
+---
+---
+
+# 38 U.S.C., USLM ref /us/usc/t38/ptV/ch78
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t38/ptV/ch77/schII/m__us_usc_t38_s7734.md) | [Next](./../../../../..//us/usc/t38/ptV/ch78/m__us_usc_t38_s7801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch78)
+
+### CHAPTER 78—VETERANS’ CANTEEN SERVICE
+
+<table>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7801.  </td>
+
+    <td> Purpose of Veterans’ Canteen Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7802.  </td>
+
+    <td> Duties of Secretary with respect to Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7803.  </td>
+
+    <td> Operation of Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7804.  </td>
+
+    <td> Financing of Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7805.  </td>
+
+    <td> Revolving fund.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7806.  </td>
+
+    <td> Budget of Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7807.  </td>
+
+    <td> Audit of accounts.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7808.  </td>
+
+    <td> Service to be independent unit.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7809.  </td>
+
+    <td> Child-care centers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 7810.  </td>
+
+    <td> Exemption from personnel ceilings.  </td>
+
+  </tr>
+
+</table>
+
+ __Amendments__ 
+
+    1991—[Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405, substituted “Secretary” for “Administrator” in item 7802.
+
+    [Pub. L. 102–40, title IV, § 402(a)][/us/pl/102/40/s402/a], (c)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239, redesignated chapter 75 of this title as this chapter and renumbered items 4201 to 4210 as 7801 to 7810, respectively.
+
+    1988—[Pub. L. 100–322, title IV][/us/pl/100/322], §§ 412(b), 414(b)(2), May 20, 1988, [102 Stat. 548][/us/stat/102/548], 549, added items 4209 and 4210.
+
+----------
+
+[Previous](./../../../../..//us/usc/t38/ptV/ch77/schII/m__us_usc_t38_s7734.md) | [Next](./../../../../..//us/usc/t38/ptV/ch78/m__us_usc_t38_s7801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch78)
+
+----------
+----------
+
+[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
+[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/stat/102/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F548
+
+
