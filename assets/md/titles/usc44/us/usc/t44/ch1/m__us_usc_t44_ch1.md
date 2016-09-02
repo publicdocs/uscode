@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs101" data-uslm-ref="/us/usc/t44/s101">101.</a>  </td>
 
     <td> Joint Committee on Printing: membership.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs102" data-uslm-ref="/us/usc/t44/s102">102.</a>  </td>
 
     <td> Joint Committee on Printing: succession; powers during recess.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs103" data-uslm-ref="/us/usc/t44/s103">103.</a>  </td>
 
     <td> Joint Committee on Printing: remedial powers.  </td>
 

@@ -17,7 +17,7 @@
 
  __Applicability of Subchapter__ 
 
-This subchapter not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
+    This subchapter not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
 
  __Amendments__ 
 

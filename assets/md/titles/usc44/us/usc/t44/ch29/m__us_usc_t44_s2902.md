@@ -15,7 +15,7 @@
 
 ## § 2902. Objectives of records management
 
-It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to require the establishment of standards and procedures to assure efficient and effective records management. Such records management standards and procedures shall seek to implement the following goals:
+    It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to require the establishment of standards and procedures to assure efficient and effective records management. Such records management standards and procedures shall seek to implement the following goals:
 
     (1) Accurate and complete documentation of the policies and transactions of the Federal Government.
 

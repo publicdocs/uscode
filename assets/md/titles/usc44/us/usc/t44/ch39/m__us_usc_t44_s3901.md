@@ -15,7 +15,7 @@
 
 ## § 3901. Purpose and establishment of the Office of Inspector General
 
-In order to create an independent and objective office—
+    In order to create an independent and objective office—
 
     (1) to conduct and supervise audits and investigations relating to the Government Printing Office;
 
@@ -23,7 +23,7 @@ In order to create an independent and objective office—
 
     (3) to provide a means of keeping the Public Printer and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Government Printing Office;
 
-        there is hereby established an Office of Inspector General in the Government Printing Office.
+    there is hereby established an Office of Inspector General in the Government Printing Office.
 
 (Added [Pub. L. 100–504, title II, § 202][/us/pl/100/504/s202], Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530].)
 

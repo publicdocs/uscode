@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs301" data-uslm-ref="/us/usc/t44/s301">301.</a>  </td>
 
     <td> Public Printer: appointment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs302" data-uslm-ref="/us/usc/t44/s302">302.</a>  </td>
 
     <td> Deputy Public Printer: appointment; duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs303" data-uslm-ref="/us/usc/t44/s303">303.</a>  </td>
 
     <td> Public Printer and Deputy Public Printer: pay.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs304" data-uslm-ref="/us/usc/t44/s304">304.</a>  </td>
 
     <td> Public Printer: vacancy in office.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs305" data-uslm-ref="/us/usc/t44/s305">305.</a>  </td>
 
     <td> Public Printer: employees; pay.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs306" data-uslm-ref="/us/usc/t44/s306">306.</a>  </td>
 
     <td> Public Printer: employment of skilled workmen; trial of skill.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs307" data-uslm-ref="/us/usc/t44/s307">307.</a>  </td>
 
     <td> Public Printer: night work.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs308" data-uslm-ref="/us/usc/t44/s308">308.</a>  </td>
 
     <td> Disbursing officer; deputy disbursing officer; certifying officers and employees.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs309" data-uslm-ref="/us/usc/t44/s309">309.</a>  </td>
 
     <td> Revolving fund for operation and maintenance of Government Printing Office: capitalization; reimbursements and credits; accounting and budgeting; reports.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs310" data-uslm-ref="/us/usc/t44/s310">310.</a>  </td>
 
     <td> Payments for printing, binding, blank paper, and supplies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs311" data-uslm-ref="/us/usc/t44/s311">311.</a>  </td>
 
     <td> Purchases exempt from subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41; contract negotiation authority; small purchase threshold.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs312" data-uslm-ref="/us/usc/t44/s312">312.</a>  </td>
 
     <td> Machinery, material, equipment, or supplies from other Government agencies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs313" data-uslm-ref="/us/usc/t44/s313">313.</a>  </td>
 
     <td> Examining boards: paper; bindery materials; machinery.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs314" data-uslm-ref="/us/usc/t44/s314">314.</a>  </td>
 
     <td> Inks, glues, and other supplies furnished to other Government agencies: payment.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs315" data-uslm-ref="/us/usc/t44/s315">315.</a>  </td>
 
     <td> Branches of Government Printing Office; limitations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs316" data-uslm-ref="/us/usc/t44/s316">316.</a>  </td>
 
     <td> Detail of employees of Government Printing Office to other Government establishments.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs317" data-uslm-ref="/us/usc/t44/s317">317.</a>  </td>
 
     <td> Special policemen.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs318" data-uslm-ref="/us/usc/t44/s318">318.</a>  </td>
 
     <td> Transfer of surplus property; acceptance of voluntary services.  </td>
 

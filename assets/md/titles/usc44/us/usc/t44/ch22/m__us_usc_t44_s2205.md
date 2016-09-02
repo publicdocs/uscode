@@ -15,7 +15,7 @@
 
 ## § 2205. Exceptions to restricted access
 
-Notwithstanding any restrictions on access imposed pursuant to section 2204—
+    Notwithstanding any restrictions on access imposed pursuant to section 2204—
 
     (1) the Archivist and persons employed by the National Archives and Records Administration who are engaged in the performance of normal archival work shall be permitted access to Presidential records in the custody of the Archivist;
 

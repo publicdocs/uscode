@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3304 to 3307.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3308)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303a.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3308)
 
 ## § 3308. Disposal of similar records where prior disposal was authorized
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3304 to 3307.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3308)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303a.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3308)
 
 ----------
 ----------

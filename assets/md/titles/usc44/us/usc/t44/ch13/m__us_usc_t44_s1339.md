@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337, 1338.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1336.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
 
 ## § 1339. Printing of the President’s Message
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337, 1338.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1336.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
 
 ----------
 ----------

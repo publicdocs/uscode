@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs501" data-uslm-ref="/us/usc/t44/s501">501.</a>  </td>
 
     <td> Government printing, binding, and blank-book work to be done at Government Printing Office.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs502" data-uslm-ref="/us/usc/t44/s502">502.</a>  </td>
 
     <td> Procurement of printing, binding, and blank-book work by Public Printer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs503" data-uslm-ref="/us/usc/t44/s503">503.</a>  </td>
 
     <td> Printing in veterans’ hospitals.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs504" data-uslm-ref="/us/usc/t44/s504">504.</a>  </td>
 
     <td> Direct purchase of printing, binding, and blank-book work by Government agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs505" data-uslm-ref="/us/usc/t44/s505">505.</a>  </td>
 
     <td> Sale of duplicate plates.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs506" data-uslm-ref="/us/usc/t44/s506">506.</a>  </td>
 
     <td> Time for printing documents or reports which include illustrations or maps.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs507" data-uslm-ref="/us/usc/t44/s507">507.</a>  </td>
 
     <td> Orders for printing to be acted upon within one year.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs508" data-uslm-ref="/us/usc/t44/s508">508.</a>  </td>
 
     <td> Annual estimates of quantity of paper required for public printing and binding.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs509" data-uslm-ref="/us/usc/t44/s509">509.</a>  </td>
 
     <td> Standards of paper; advertisements for proposals; samples.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs510" data-uslm-ref="/us/usc/t44/s510">510.</a>  </td>
 
     <td> Specifications in advertisements for paper.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs511" data-uslm-ref="/us/usc/t44/s511">511.</a>  </td>
 
     <td> Opening bids; bonds.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs512" data-uslm-ref="/us/usc/t44/s512">512.</a>  </td>
 
     <td> Approval of paper contracts; time for performance; bonds.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs513" data-uslm-ref="/us/usc/t44/s513">513.</a>  </td>
 
     <td> Comparison of paper and envelopes with standard quality.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs514" data-uslm-ref="/us/usc/t44/s514">514.</a>  </td>
 
     <td> Determination of quality of paper.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs515" data-uslm-ref="/us/usc/t44/s515">515.</a>  </td>
 
     <td> Default of contractor; new contracts and purchase in open market.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs516" data-uslm-ref="/us/usc/t44/s516">516.</a>  </td>
 
     <td> Liability of defaulting contractor.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs517" data-uslm-ref="/us/usc/t44/s517">517.</a>  </td>
 
     <td> Purchase of paper in open market.  </td>
 

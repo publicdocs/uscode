@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1335.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337, 1338.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1336)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1335.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1339.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1336)
 
 ## § 1336. National Geospatial-Intelligence Agency: special publications
 
@@ -37,9 +37,19 @@
 
     Amendment by [Pub. L. 104–201][/us/pl/104/201] effective Oct. 1, 1996, see [section 1124 of Pub. L. 104–201][/us/pl/104/201/s1124], set out as a note under [section 193 of Title 10][/us/usc/t10/s193], Armed Forces.
 
+\[§§ 1337, 1338. __Repealed.__  __[__  __Pub. L. 106–113, div. B, § 1000(a)(9)__  __][/us/pl/106/113/s1000/a/9]__  __\[title IV, § 4732(b)(25)\],__  __Nov. 29, 1999__  __,__  __[__  __113 Stat. 1536__  __][/us/stat/113/1536]__  __, 1501A–585\]__ 
+
+    Section 1337, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1271][/us/stat/82/1271], related to publications authorized to be printed by the Commissioner of Patents.
+
+    Section 1338, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1272][/us/stat/82/1272], related to limitations and conditions concerning printing and lithographing by the Patent Office.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, § 4731\] of [Pub. L. 106–113][/us/pl/106/113], set out as an Effective Date of 1999 Amendment note under [section 1 of Title 35][/us/usc/t35/s1], Patents.
+
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1335.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337, 1338.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1336)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1335.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1339.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1336)
 
 ----------
 ----------
@@ -62,5 +72,13 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
+[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1271
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1272
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 
 

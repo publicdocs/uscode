@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3501" data-uslm-ref="/us/usc/t44/s3501">3501.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3502" data-uslm-ref="/us/usc/t44/s3502">3502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3503" data-uslm-ref="/us/usc/t44/s3503">3503.</a>  </td>
 
     <td> Office of Information and Regulatory Affairs.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3504" data-uslm-ref="/us/usc/t44/s3504">3504.</a>  </td>
 
     <td> Authority and functions of Director.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3505" data-uslm-ref="/us/usc/t44/s3505">3505.</a>  </td>
 
     <td> Assignment of tasks and deadlines.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3506" data-uslm-ref="/us/usc/t44/s3506">3506.</a>  </td>
 
     <td> Federal agency responsibilities.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3507" data-uslm-ref="/us/usc/t44/s3507">3507.</a>  </td>
 
     <td> Public information collection activities; submission to Director; approval and delegation.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3508" data-uslm-ref="/us/usc/t44/s3508">3508.</a>  </td>
 
     <td> Determination of necessity for information; hearing.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3509" data-uslm-ref="/us/usc/t44/s3509">3509.</a>  </td>
 
     <td> Designation of central collection agency.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3510" data-uslm-ref="/us/usc/t44/s3510">3510.</a>  </td>
 
     <td> Cooperation of agencies in making information available.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3511" data-uslm-ref="/us/usc/t44/s3511">3511.</a>  </td>
 
     <td> Establishment and operation of Government Information Locator Service.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3512" data-uslm-ref="/us/usc/t44/s3512">3512.</a>  </td>
 
     <td> Public protection.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3513" data-uslm-ref="/us/usc/t44/s3513">3513.</a>  </td>
 
     <td> Director review of agency activities; reporting; agency response.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3514" data-uslm-ref="/us/usc/t44/s3514">3514.</a>  </td>
 
     <td> Responsiveness to Congress.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3515" data-uslm-ref="/us/usc/t44/s3515">3515.</a>  </td>
 
     <td> Administrative powers.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3516" data-uslm-ref="/us/usc/t44/s3516">3516.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3517" data-uslm-ref="/us/usc/t44/s3517">3517.</a>  </td>
 
     <td> Consultation with other agencies and the public.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3518" data-uslm-ref="/us/usc/t44/s3518">3518.</a>  </td>
 
     <td> Effect on existing laws and regulations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3519" data-uslm-ref="/us/usc/t44/s3519">3519.</a>  </td>
 
     <td> Access to information.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3520" data-uslm-ref="/us/usc/t44/s3520">3520.</a>  </td>
 
     <td> Establishment of task force on information collection and dissemination.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3521" data-uslm-ref="/us/usc/t44/s3521">3521.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3531" data-uslm-ref="/us/usc/t44/s3531">3531.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3532" data-uslm-ref="/us/usc/t44/s3532">3532.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3533" data-uslm-ref="/us/usc/t44/s3533">3533.</a>  </td>
 
     <td> Authority and functions of the Director.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3534" data-uslm-ref="/us/usc/t44/s3534">3534.</a>  </td>
 
     <td> Federal agency responsibilities.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3535" data-uslm-ref="/us/usc/t44/s3535">3535.</a>  </td>
 
     <td> Annual independent evaluation.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3536" data-uslm-ref="/us/usc/t44/s3536">3536.</a>  </td>
 
     <td> National security systems.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3537" data-uslm-ref="/us/usc/t44/s3537">3537.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3538" data-uslm-ref="/us/usc/t44/s3538">3538.</a>  </td>
 
     <td> Effect on existing law.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3541" data-uslm-ref="/us/usc/t44/s3541">3541.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3542" data-uslm-ref="/us/usc/t44/s3542">3542.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3543" data-uslm-ref="/us/usc/t44/s3543">3543.</a>  </td>
 
     <td> Authority and functions of the Director.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3544" data-uslm-ref="/us/usc/t44/s3544">3544.</a>  </td>
 
     <td> Federal agency responsibilities.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3545" data-uslm-ref="/us/usc/t44/s3545">3545.</a>  </td>
 
     <td> Annual independent evaluation.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3546" data-uslm-ref="/us/usc/t44/s3546">3546.</a>  </td>
 
     <td> Federal information security incident center.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3547" data-uslm-ref="/us/usc/t44/s3547">3547.</a>  </td>
 
     <td> National security systems.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3548" data-uslm-ref="/us/usc/t44/s3548">3548.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 3549.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3549" data-uslm-ref="/us/usc/t44/s3549">3549.</a>  </td>
 
     <td> Effect on existing law.  </td>
 

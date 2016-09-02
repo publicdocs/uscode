@@ -47,9 +47,7 @@
 
 >     “Section 1. It is the policy of the United States that Federal records, books, and publications of enduring value be produced on acid free permanent papers.
 
-> “Sec. 2.
-
->  The Congress of the United States urgently recommends that—
+>     “Sec. 2. The Congress of the United States urgently recommends that—
 
 >     “(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Printing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
 
@@ -61,7 +59,7 @@
 
 >     “(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers.
 
-> “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Public Printer shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Public Printer may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
+>     “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Public Printer shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Public Printer may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
 
 ----------
 

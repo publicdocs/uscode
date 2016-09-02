@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1501" data-uslm-ref="/us/usc/t44/s1501">1501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1502" data-uslm-ref="/us/usc/t44/s1502">1502.</a>  </td>
 
     <td> Custody and printing of Federal documents; appointment of Director.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1503" data-uslm-ref="/us/usc/t44/s1503">1503.</a>  </td>
 
     <td> Filing documents with Office; notation of time; public inspection; transmission for printing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1504" data-uslm-ref="/us/usc/t44/s1504">1504.</a>  </td>
 
     <td> “Federal Register”; printing; contents; distribution; price.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1505" data-uslm-ref="/us/usc/t44/s1505">1505.</a>  </td>
 
     <td> Documents to be published in Federal Register.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1506" data-uslm-ref="/us/usc/t44/s1506">1506.</a>  </td>
 
     <td> Administrative Committee of the Federal Register; establishment and composition; powers and duties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1507" data-uslm-ref="/us/usc/t44/s1507">1507.</a>  </td>
 
     <td> Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1508" data-uslm-ref="/us/usc/t44/s1508">1508.</a>  </td>
 
     <td> Publication in Federal Register as notice of hearing.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1509" data-uslm-ref="/us/usc/t44/s1509">1509.</a>  </td>
 
     <td> Costs of publication, etc.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1510" data-uslm-ref="/us/usc/t44/s1510">1510.</a>  </td>
 
     <td> Code of Federal Regulations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1511" data-uslm-ref="/us/usc/t44/s1511">1511.</a>  </td>
 
     <td> International agreements excluded from provisions of chapter.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 2703. Functions of the Committee
 
-The Committee shall—
+    The Committee shall—
 
     (1) review the management and preservation of the records of Congress;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4101" data-uslm-ref="/us/usc/t44/s4101">4101.</a>  </td>
 
     <td> Electronic directory; online access to publications; electronic storage facility.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4102" data-uslm-ref="/us/usc/t44/s4102">4102.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4103" data-uslm-ref="/us/usc/t44/s4103">4103.</a>  </td>
 
     <td> Biennial report.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4104" data-uslm-ref="/us/usc/t44/s4104">4104.</a>  </td>
 
     <td> Definition.  </td>
 

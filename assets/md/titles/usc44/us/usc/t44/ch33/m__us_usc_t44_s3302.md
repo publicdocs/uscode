@@ -15,7 +15,7 @@
 
 ## § 3302. Regulations covering lists of records for disposal, procedure for disposal, and standards for reproduction
 
-The Archivist shall promulgate regulations, not inconsistent with this chapter, establishing—
+    The Archivist shall promulgate regulations, not inconsistent with this chapter, establishing—
 
     (1) procedures for the compiling and submitting to him of lists and schedules of records proposed for disposal,
 

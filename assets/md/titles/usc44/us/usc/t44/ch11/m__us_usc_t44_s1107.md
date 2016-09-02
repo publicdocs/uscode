@@ -15,7 +15,7 @@
 
 ## § 1107. Appropriations chargeable for printing and binding of documents or reports
 
-The cost of printing and binding of documents or reports emanating from executive departments, independent agencies or establishments of the Government which, before March 30, 1906, was charged to appropriations for congressional printing and binding or to appropriations other than to executive departments, independent agencies or establishments, shall be charged as follows:
+    The cost of printing and binding of documents or reports emanating from executive departments, independent agencies or establishments of the Government which, before March 30, 1906, was charged to appropriations for congressional printing and binding or to appropriations other than to executive departments, independent agencies or establishments, shall be charged as follows:
 
     (1) the cost of illustrations, composition, stereotyping, and other work involved in the actual preparation for printing, apart from the creation of the manuscript, to the appropriation for printing and binding of the agency in which the document or report originates.
 

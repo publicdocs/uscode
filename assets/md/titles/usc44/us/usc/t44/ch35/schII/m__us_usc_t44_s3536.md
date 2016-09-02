@@ -15,7 +15,7 @@
 
 ## § 3536. National security systems
 
-The head of each agency operating or exercising control of a national security system shall be responsible for ensuring that the agency—
+    The head of each agency operating or exercising control of a national security system shall be responsible for ensuring that the agency—
 
     (1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;
 
@@ -27,7 +27,7 @@ The head of each agency operating or exercising control of a national security s
 
  __Applicability of Section__ 
 
-This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
+    This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
 
  __Prior Provisions__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3901" data-uslm-ref="/us/usc/t44/s3901">3901.</a>  </td>
 
     <td> Purpose and establishment of the Office of Inspector General.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3902" data-uslm-ref="/us/usc/t44/s3902">3902.</a>  </td>
 
     <td> Appointment of Inspector General; supervision; removal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3903" data-uslm-ref="/us/usc/t44/s3903">3903.</a>  </td>
 
     <td> Duties, responsibilities, authority, and reports.  </td>
 

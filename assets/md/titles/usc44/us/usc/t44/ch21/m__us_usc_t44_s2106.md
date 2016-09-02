@@ -15,7 +15,7 @@
 
 ## § 2106. Reports to Congress
 
-The Archivist shall submit to the Congress, in January of each year and at such other times as the Archivist finds appropriate, a report concerning the administration of functions of the Archivist, the Administration, the National Historical Publications and Records Commission, and the National Archives Trust Fund. Such report shall describe—
+    The Archivist shall submit to the Congress, in January of each year and at such other times as the Archivist finds appropriate, a report concerning the administration of functions of the Archivist, the Administration, the National Historical Publications and Records Commission, and the National Archives Trust Fund. Such report shall describe—
 
     (1) program administration and expenditures of funds, both appropriated and nonappropriated, by the Administration, the Commission, and the Trust Fund Board;
 

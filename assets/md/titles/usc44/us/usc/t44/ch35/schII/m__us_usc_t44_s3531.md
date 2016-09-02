@@ -15,7 +15,7 @@
 
 ## § 3531. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) provide a comprehensive framework for ensuring the effectiveness of information security controls over information resources that support Federal operations and assets;
 
@@ -33,7 +33,7 @@ The purposes of this subchapter are to—
 
  __Applicability of Section__ 
 
-This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
+    This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
 
  __Prior Provisions__ 
 

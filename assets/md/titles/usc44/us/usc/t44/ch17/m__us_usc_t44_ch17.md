@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1701" data-uslm-ref="/us/usc/t44/s1701">1701.</a>  </td>
 
     <td> Publications for public distribution to be distributed by the Public Printer; mailing lists.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1702" data-uslm-ref="/us/usc/t44/s1702">1702.</a>  </td>
 
     <td> Superintendent of Documents; sale of documents.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1703" data-uslm-ref="/us/usc/t44/s1703">1703.</a>  </td>
 
     <td> Superintendent of Documents: assistants, blanks, printing and binding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1704" data-uslm-ref="/us/usc/t44/s1704">1704.</a>  </td>
 
     <td> Superintendent of Documents: pay of employees for night, Sunday, holiday, and overtime work.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1705" data-uslm-ref="/us/usc/t44/s1705">1705.</a>  </td>
 
     <td> Printing additional copies for sale to public; regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1706" data-uslm-ref="/us/usc/t44/s1706">1706.</a>  </td>
 
     <td> Printing and sale of extra copies of documents.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1707" data-uslm-ref="/us/usc/t44/s1707">1707.</a>  </td>
 
     <td> Reprinting of documents required for sale.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1708" data-uslm-ref="/us/usc/t44/s1708">1708.</a>  </td>
 
     <td> Prices for sales copies of publications; crediting of receipts; resale by dealers; sales agents.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1709" data-uslm-ref="/us/usc/t44/s1709">1709.</a>  </td>
 
     <td> Blank forms: printing and sale to public.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1710" data-uslm-ref="/us/usc/t44/s1710">1710.</a>  </td>
 
     <td> Index of documents: number and distribution.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1711" data-uslm-ref="/us/usc/t44/s1711">1711.</a>  </td>
 
     <td> Catalog of Government publications.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1712" data-uslm-ref="/us/usc/t44/s1712">1712.</a>  </td>
 
     <td> Documents for use of the Public Printer.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1713" data-uslm-ref="/us/usc/t44/s1713">1713.</a>  </td>
 
     <td> Documents to be delivered to the Executive Mansion.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1714" data-uslm-ref="/us/usc/t44/s1714">1714.</a>  </td>
 
     <td> Publications for use of General Services Administration. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F98%2F497" data-uslm-ref="/us/pl/98/497">Pub. L. 98–497</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1715" data-uslm-ref="/us/usc/t44/s1715">1715.</a>  </td>
 
     <td> Publications for department or officer or for congressional committees.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1716" data-uslm-ref="/us/usc/t44/s1716">1716.</a>  </td>
 
     <td> Public documents for legations and consulates of United States.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1717" data-uslm-ref="/us/usc/t44/s1717">1717.</a>  </td>
 
     <td> Documents and reports for foreign legations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1718" data-uslm-ref="/us/usc/t44/s1718">1718.</a>  </td>
 
     <td> Distribution of Government publications to the Library of Congress.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1719" data-uslm-ref="/us/usc/t44/s1719">1719.</a>  </td>
 
     <td> International exchange of Government publications.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1720" data-uslm-ref="/us/usc/t44/s1720">1720.</a>  </td>
 
     <td> Documents not needed by departments to be turned over to Superintendent of Documents.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1721" data-uslm-ref="/us/usc/t44/s1721">1721.</a>  </td>
 
     <td> Exchange of documents by heads of departments.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1722" data-uslm-ref="/us/usc/t44/s1722">1722.</a>  </td>
 
     <td> Departmental distribution of publications.  </td>
 

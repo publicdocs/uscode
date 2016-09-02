@@ -15,7 +15,7 @@
 
 ## § 3501. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) minimize the paperwork burden for individuals, small businesses, educational and nonprofit institutions, Federal contractors, State, local and tribal governments, and other persons resulting from the collection of information by or for the Federal Government;
 
@@ -297,7 +297,11 @@ The purposes of this subchapter are to—
 
 >                  Such rules may require the use of appropriate redacted identifiers in lieu of protected information described in clause (iv) in any pleading, motion, or other paper filed with the court (except with respect to a paper that is an exhibit or other evidentiary matter, or with respect to a reference list described in this subclause), or in any written discovery response—
 
->                     “(I) by authorizing the filing under seal, and permitting the amendment as of right under seal, of a reference list that—         “(aa) identifies each item of unredacted protected information that the attorney or, if there is no attorney, the party, certifies is relevant to the case; and
+>                     “(I)
+
+>                      by authorizing the filing under seal, and permitting the amendment as of right under seal, of a reference list that—
+
+>                              “(aa) identifies each item of unredacted protected information that the attorney or, if there is no attorney, the party, certifies is relevant to the case; and
 
 >                              “(bb) specifies an appropriate redacted identifier that uniquely corresponds to each item of unredacted protected information listed; and
 
@@ -335,7 +339,9 @@ The purposes of this subchapter are to—
 
 >                 “(ii) __Contents.—__ 
 
->                 A notification submitted under this subparagraph shall state—         “(I) the reasons for the deferral; and
+>                 A notification submitted under this subparagraph shall state—
+
+>                          “(I) the reasons for the deferral; and
 
 >                          “(II) the online methods, if any, or any alternative methods, such court or district is using to provide greater public access to information.
 
@@ -577,7 +583,11 @@ The purposes of this subchapter are to—
 
 >             With the assistance of each agency, the Director shall—
 
->                 “(i) direct the development of the directory through a collaborative effort, including input from—         “(I) agency librarians;
+>                 “(i)
+
+>                  direct the development of the directory through a collaborative effort, including input from—
+
+>                          “(I) agency librarians;
 
 >                          “(II) information technology managers;
 
@@ -611,25 +621,35 @@ The purposes of this subchapter are to—
 
 >                  a repository that fully integrates, to the maximum extent feasible, information about research and development funded by the Federal Government, and the repository shall—
 
->                      “(I) include information about research and development funded by the Federal Government, consistent with any relevant protections for the information under [section 552 of title 5][/us/usc/t5/s552], United States Code, and performed by—
+>                          “(I)
 
->                     “(aa) institutions not a part of the Federal Government, including State, local, and foreign governments; industrial firms; educational institutions; not-for-profit organizations; federally funded research and development centers; and private individuals; and
+>                      include information about research and development funded by the Federal Government, consistent with any relevant protections for the information under [section 552 of title 5][/us/usc/t5/s552], United States Code, and performed by—
 
->                     “(bb) entities of the Federal Government, including research and development laboratories, centers, and offices; and         “(II) integrate information about each separate research and development task or award, including—
+>                         “(aa) institutions not a part of the Federal Government, including State, local, and foreign governments; industrial firms; educational institutions; not-for-profit organizations; federally funded research and development centers; and private individuals; and
 
->                     “(aa) the dates upon which the task or award is expected to start and end;
+>                         “(bb) entities of the Federal Government, including research and development laboratories, centers, and offices; and
 
->                     “(bb) a brief summary describing the objective and the scientific and technical focus of the task or award;
+>                          “(II)
 
->                     “(cc) the entity or institution performing the task or award and its contact information;
+>                      integrate information about each separate research and development task or award, including—
 
->                     “(dd) the total amount of Federal funds expected to be provided to the task or award over its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
+>                         “(aa) the dates upon which the task or award is expected to start and end;
 
->                     “(ee) any restrictions attached to the task or award that would prevent the sharing with the general public of any or all of the information required by this subsection, and the reasons for such restrictions; and
+>                         “(bb) a brief summary describing the objective and the scientific and technical focus of the task or award;
 
->                     “(ff) such other information as may be determined to be appropriate; and
+>                         “(cc) the entity or institution performing the task or award and its contact information;
 
->                 “(ii) 1 or more websites upon which all or part of the repository of Federal research and development shall be made available to and searchable by Federal agencies and non-Federal entities, including the general public, to facilitate—         “(I) the coordination of Federal research and development activities;
+>                         “(dd) the total amount of Federal funds expected to be provided to the task or award over its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
+
+>                         “(ee) any restrictions attached to the task or award that would prevent the sharing with the general public of any or all of the information required by this subsection, and the reasons for such restrictions; and
+
+>                         “(ff) such other information as may be determined to be appropriate; and
+
+>                 “(ii)
+
+>                  1 or more websites upon which all or part of the repository of Federal research and development shall be made available to and searchable by Federal agencies and non-Federal entities, including the general public, to facilitate—
+
+>                          “(I) the coordination of Federal research and development activities;
 
 >                          “(II) collaboration among those conducting Federal research and development;
 
@@ -681,7 +701,11 @@ The purposes of this subchapter are to—
 
 >                 “(i) developing or procuring information technology that collects, maintains, or disseminates information that is in an identifiable form; or
 
->                 “(ii) initiating a new collection of information that—         “(I) will be collected, maintained, or disseminated using information technology; and
+>                 “(ii)
+
+>                  initiating a new collection of information that—
+
+>                          “(I) will be collected, maintained, or disseminated using information technology; and
 
 >                          “(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
 
@@ -715,7 +739,11 @@ The purposes of this subchapter are to—
 
 >                 “(i) ensure that a privacy impact assessment is commensurate with the size of the information system being assessed, the sensitivity of information that is in an identifiable form in that system, and the risk of harm from unauthorized release of that information; and
 
->                 “(ii) require that a privacy impact assessment address—         “(I) what information is to be collected;
+>                 “(ii)
+
+>                  require that a privacy impact assessment address—
+
+>                          “(I) what information is to be collected;
 
 >                          “(II) why the information is being collected;
 
@@ -1505,141 +1533,173 @@ The purposes of this subchapter are to—
 
 >     Nothing in this title shall be construed to affect the authority of the Congress, including its committees, members, or agents, to obtain data or information for a statistical purpose, including for oversight of an agency’s statistical activities.
 
- __“Subtitle A—Confidential Information Protection__ 
+> “Subtitle A— __Confidential Information Protection__ 
 
-    “SEC. 511. FINDINGS AND PURPOSES.
+> “SEC. 511. __FINDINGS AND PURPOSES.__ 
 
-    “(a) Findings.—The Congress finds the following:
+>     “(a) __Findings.—__ 
 
-    “(1) Individuals, businesses, and other organizations have varying degrees of legal protection when providing information to the agencies for strictly statistical purposes.
+>     The Congress finds the following:
 
-    “(2) Pledges of confidentiality by agencies provide assurances to the public that information about individuals or organizations or provided by individuals or organizations for exclusively statistical purposes will be held in confidence and will not be used against such individuals or organizations in any agency action.
+>         “(1) Individuals, businesses, and other organizations have varying degrees of legal protection when providing information to the agencies for strictly statistical purposes.
 
-    “(3) Protecting the confidentiality interests of individuals or organizations who provide information under a pledge of confidentiality for Federal statistical programs serves both the interests of the public and the needs of society.
+>         “(2) Pledges of confidentiality by agencies provide assurances to the public that information about individuals or organizations or provided by individuals or organizations for exclusively statistical purposes will be held in confidence and will not be used against such individuals or organizations in any agency action.
 
-    “(4) Declining trust of the public in the protection of information provided under a pledge of confidentiality to the agencies adversely affects both the accuracy and completeness of statistical analyses.
+>         “(3) Protecting the confidentiality interests of individuals or organizations who provide information under a pledge of confidentiality for Federal statistical programs serves both the interests of the public and the needs of society.
 
-    “(5) Ensuring that information provided under a pledge of confidentiality for statistical purposes receives protection is essential in continuing public cooperation in statistical programs.
+>         “(4) Declining trust of the public in the protection of information provided under a pledge of confidentiality to the agencies adversely affects both the accuracy and completeness of statistical analyses.
 
-    “(b) Purposes.—The purposes of this subtitle are the following:
+>         “(5) Ensuring that information provided under a pledge of confidentiality for statistical purposes receives protection is essential in continuing public cooperation in statistical programs.
 
-    “(1) To ensure that information supplied by individuals or organizations to an agency for statistical purposes under a pledge of confidentiality is used exclusively for statistical purposes.
+>     “(b) __Purposes.—__ 
 
-    “(2) To ensure that individuals or organizations who supply information under a pledge of confidentiality to agencies for statistical purposes will neither have that information disclosed in identifiable form to anyone not authorized by this title nor have that information used for any purpose other than a statistical purpose.
+>     The purposes of this subtitle are the following:
 
-    “(3) To safeguard the confidentiality of individually identifiable information acquired under a pledge of confidentiality for statistical purposes by controlling access to, and uses made of, such information.
+>         “(1) To ensure that information supplied by individuals or organizations to an agency for statistical purposes under a pledge of confidentiality is used exclusively for statistical purposes.
 
-    “SEC. 512. LIMITATIONS ON USE AND DISCLOSURE OF DATA AND INFORMATION.
+>         “(2) To ensure that individuals or organizations who supply information under a pledge of confidentiality to agencies for statistical purposes will neither have that information disclosed in identifiable form to anyone not authorized by this title nor have that information used for any purpose other than a statistical purpose.
 
-    “(a) Use of Statistical Data or Information.—Data or information acquired by an agency under a pledge of confidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
+>         “(3) To safeguard the confidentiality of individually identifiable information acquired under a pledge of confidentiality for statistical purposes by controlling access to, and uses made of, such information.
 
-    “(b) Disclosure of Statistical Data or Information.—
+> “SEC. 512. __LIMITATIONS ON USE AND DISCLOSURE OF DATA AND INFORMATION.__ 
 
-    “(1) Data or information acquired by an agency under a pledge of confidentiality for exclusively statistical purposes shall not be disclosed by an agency in identifiable form, for any use other than an exclusively statistical purpose, except with the informed consent of the respondent.
+>     “(a) __Use of Statistical Data or Information.—__ 
 
-    “(2) A disclosure pursuant to paragraph (1) is authorized only when the head of the agency approves such disclosure and the disclosure is not prohibited by any other law.
+>     Data or information acquired by an agency under a pledge of confidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
 
-    “(3) This section does not restrict or diminish any confidentiality protections in law that otherwise apply to data or information acquired by an agency under a pledge of confidentiality for exclusively statistical purposes.
+>     “(b) __Disclosure of Statistical Data or Information.—__ 
 
-    “(c) Rule for Use of Data or Information for Nonstatistical Purposes.—A statistical agency or unit shall clearly distinguish any data or information it collects for nonstatistical purposes (as authorized by law) and provide notice to the public, before the data or information is collected, that the data or information could be used for nonstatistical purposes.
+>         “(1) Data or information acquired by an agency under a pledge of confidentiality for exclusively statistical purposes shall not be disclosed by an agency in identifiable form, for any use other than an exclusively statistical purpose, except with the informed consent of the respondent.
 
-    “(d) Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
+>         “(2) A disclosure pursuant to paragraph (1) is authorized only when the head of the agency approves such disclosure and the disclosure is not prohibited by any other law.
 
-    “SEC. 513. FINES AND PENALTIES.
+>         “(3) This section does not restrict or diminish any confidentiality protections in law that otherwise apply to data or information acquired by an agency under a pledge of confidentiality for exclusively statistical purposes.
 
-    “Whoever, being an officer, employee, or agent of an agency acquiring information for exclusively statistical purposes, having taken and subscribed the oath of office, or having sworn to observe the limitations imposed by section 512, comes into possession of such information by reason of his or her being an officer, employee, or agent and, knowing that the disclosure of the specific information is prohibited under the provisions of this title, willfully discloses the information in any manner to a person or agency not entitled to receive it, shall be guilty of a class E felony and imprisoned for not more than 5 years, or fined not more than $250,000, or both.
+>     “(c) __Rule for Use of Data or Information for Nonstatistical Purposes.—__ 
 
- __“Subtitle B—Statistical Efficiency__ 
+>     A statistical agency or unit shall clearly distinguish any data or information it collects for nonstatistical purposes (as authorized by law) and provide notice to the public, before the data or information is collected, that the data or information could be used for nonstatistical purposes.
 
-    “SEC. 521. FINDINGS AND PURPOSES.
+>     “(d) __Designation of Agents.—__ 
 
-    “(a) Findings.—The Congress finds the following:
+>     A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
 
-    “(1) Federal statistics are an important source of information for public and private decision-makers such as policymakers, consumers, businesses, investors, and workers.
+> “SEC. 513. __FINES AND PENALTIES.__ 
 
-    “(2) Federal statistical agencies should continuously seek to improve their efficiency. Statutory constraints limit the ability of these agencies to share data and thus to achieve higher efficiency for Federal statistical programs.
+>     “Whoever, being an officer, employee, or agent of an agency acquiring information for exclusively statistical purposes, having taken and subscribed the oath of office, or having sworn to observe the limitations imposed by section 512, comes into possession of such information by reason of his or her being an officer, employee, or agent and, knowing that the disclosure of the specific information is prohibited under the provisions of this title, willfully discloses the information in any manner to a person or agency not entitled to receive it, shall be guilty of a class E felony and imprisoned for not more than 5 years, or fined not more than $250,000, or both.
 
-    “(3) The quality of Federal statistics depends on the willingness of businesses to respond to statistical surveys. Reducing reporting burdens will increase response rates, and therefore lead to more accurate characterizations of the economy.
+> “Subtitle B— __Statistical Efficiency__ 
 
-    “(4) Enhanced sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes will improve their ability to track more accurately the large and rapidly changing nature of United States business. In particular, the statistical agencies will be able to better ensure that businesses are consistently classified in appropriate industries, resolve data anomalies, produce statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and correct faulty reporting errors quickly and efficiently.
+> “SEC. 521. __FINDINGS AND PURPOSES.__ 
 
-    “(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, [Pub. L. 94–472][/us/pl/94/472], as amended by [Pub. L. 101–533][/us/pl/101/533], which is classified to [22 U.S.C. 3101][/us/usc/t22/s3101] et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
+>     “(a) __Findings.—__ 
 
-    “(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
+>     The Congress finds the following:
 
-    “(b) Purposes.—The purposes of this subtitle are the following:
+>         “(1) Federal statistics are an important source of information for public and private decision-makers such as policymakers, consumers, businesses, investors, and workers.
 
-    “(1) To authorize the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes.
+>         “(2) Federal statistical agencies should continuously seek to improve their efficiency. Statutory constraints limit the ability of these agencies to share data and thus to achieve higher efficiency for Federal statistical programs.
 
-    “(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
+>         “(3) The quality of Federal statistics depends on the willingness of businesses to respond to statistical surveys. Reducing reporting burdens will increase response rates, and therefore lead to more accurate characterizations of the economy.
 
-    “(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
+>         “(4) Enhanced sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes will improve their ability to track more accurately the large and rapidly changing nature of United States business. In particular, the statistical agencies will be able to better ensure that businesses are consistently classified in appropriate industries, resolve data anomalies, produce statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and correct faulty reporting errors quickly and efficiently.
 
-    “(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation’s most important economic indicators, such as the National Income and Product Accounts.
+>         “(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, [Pub. L. 94–472][/us/pl/94/472], as amended by [Pub. L. 101–533][/us/pl/101/533], which is classified to [22 U.S.C. 3101][/us/usc/t22/s3101] et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
 
-    “SEC. 522. DESIGNATION OF STATISTICAL AGENCIES.
+>         “(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
 
-    “For purposes of this subtitle, the term ‘Designated Statistical Agency’ means each of the following:
+>     “(b) __Purposes.—__ 
 
-    “(1) The Bureau of the Census of the Department of Commerce.
+>     The purposes of this subtitle are the following:
 
-    “(2) The Bureau of Economic Analysis of the Department of Commerce.
+>         “(1) To authorize the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes.
 
-    “(3) The Bureau of Labor Statistics of the Department of Labor.
+>         “(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
 
-    “SEC. 523. RESPONSIBILITIES OF DESIGNATED STATISTICAL AGENCIES.
+>         “(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
 
-    “The head of each of the Designated Statistical Agencies shall—
+>         “(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation’s most important economic indicators, such as the National Income and Product Accounts.
 
-    “(1) identify opportunities to eliminate duplication and otherwise reduce reporting burden and cost imposed on the public in providing information for statistical purposes;
+> “SEC. 522. __DESIGNATION OF STATISTICAL AGENCIES.__ 
 
-    “(2) enter into joint statistical projects to improve the quality and reduce the cost of statistical programs; and
+> “For purposes of this subtitle, the term ‘Designated Statistical Agency’ means each of the following:
 
-    “(3) protect the confidentiality of individually identifiable information acquired for statistical purposes by adhering to safeguard principles, including—
+>     “(1) The Bureau of the Census of the Department of Commerce.
 
-    “(A) emphasizing to their officers, employees, and agents the importance of protecting the confidentiality of information in cases where the identity of individual respondents can reasonably be inferred by either direct or indirect means;
+>     “(2) The Bureau of Economic Analysis of the Department of Commerce.
 
-    “(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable information and in the procedures that must be followed to provide access to such information;
+>     “(3) The Bureau of Labor Statistics of the Department of Labor.
 
-    “(C) implementing appropriate measures to assure the physical and electronic security of confidential data;
+> “SEC. 523. __RESPONSIBILITIES OF DESIGNATED STATISTICAL AGENCIES.__ 
 
-    “(D) establishing a system of records that identifies individuals accessing confidential data and the project for which the data were required; and
+> “The head of each of the Designated Statistical Agencies shall—
 
-    “(E) being prepared to document their compliance with safeguard principles to other agencies authorized by law to monitor such compliance.
+>     “(1) identify opportunities to eliminate duplication and otherwise reduce reporting burden and cost imposed on the public in providing information for statistical purposes;
 
-    “SEC. 524. SHARING OF BUSINESS DATA AMONG DESIGNATED STATISTICAL AGENCIES.
+>     “(2) enter into joint statistical projects to improve the quality and reduce the cost of statistical programs; and
 
-    “(a) In General.—A Designated Statistical Agency may provide business data in an identifiable form to another Designated Statistical Agency under the terms of a written agreement among the agencies sharing the business data that specifies—
+>     “(3)
 
-    “(1) the business data to be shared;
+>      protect the confidentiality of individually identifiable information acquired for statistical purposes by adhering to safeguard principles, including—
 
-    “(2) the statistical purposes for which the business data are to be used;
+>         “(A) emphasizing to their officers, employees, and agents the importance of protecting the confidentiality of information in cases where the identity of individual respondents can reasonably be inferred by either direct or indirect means;
 
-    “(3) the officers, employees, and agents authorized to examine the business data to be shared; and
+>         “(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable information and in the procedures that must be followed to provide access to such information;
 
-    “(4) appropriate security procedures to safeguard the confidentiality of the business data.
+>         “(C) implementing appropriate measures to assure the physical and electronic security of confidential data;
 
-    “(b) Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including [section 552 of title 5][/us/usc/t5/s552], United States Code (popularly known as the Freedom of Information Act), and [section 552b of title 5][/us/usc/t5/s552b], United States Code (popularly known as the Privacy Act of 1974 \[[Pub. L. 93–579][/us/pl/93/579], see Short Title note set out under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+>         “(D) establishing a system of records that identifies individuals accessing confidential data and the project for which the data were required; and
 
-    “(c) Responsibilities of Officers, Employees, and Agents.—Examination of business data in identifiable form shall be limited to the officers, employees, and agents authorized to examine the individual reports in accordance with written agreements pursuant to this section. Officers, employees, and agents of a Designated Statistical Agency who receive data pursuant to this subtitle shall be subject to all provisions of law, including penalties, that relate—
+>         “(E) being prepared to document their compliance with safeguard principles to other agencies authorized by law to monitor such compliance.
 
-    “(1) to the unlawful provision of the business data that would apply to the officers, employees, and agents of the agency that originally obtained the information; and
+> “SEC. 524. __SHARING OF BUSINESS DATA AMONG DESIGNATED STATISTICAL AGENCIES.__ 
 
-    “(2) to the unlawful disclosure of the business data that would apply to officers, employees, and agents of the agency that originally obtained the information.
+>     “(a) __In General.—__ 
 
-    “(d) Notice.—Whenever a written agreement concerns data that respondents were required by law to report and the respondents were not informed that the data could be shared among the Designated Statistical Agencies, for exclusively statistical purposes, the terms of such agreement shall be described in a public notice issued by the agency that intends to provide the data. Such notice shall allow a minimum of 60 days for public comment.
+>     A Designated Statistical Agency may provide business data in an identifiable form to another Designated Statistical Agency under the terms of a written agreement among the agencies sharing the business data that specifies—
 
-    “SEC. 525. LIMITATIONS ON USE OF BUSINESS DATA PROVIDED BY DESIGNATED STATISTICAL AGENCIES.
+>         “(1) the business data to be shared;
 
-    “(a) Use, Generally.—Business data provided by a Designated Statistical Agency pursuant to this subtitle shall be used exclusively for statistical purposes.
+>         “(2) the statistical purposes for which the business data are to be used;
 
-    “(b) Publication.—Publication of business data acquired by a Designated Statistical Agency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
+>         “(3) the officers, employees, and agents authorized to examine the business data to be shared; and
 
-    “SEC. 526. CONFORMING AMENDMENTS.
+>         “(4) appropriate security procedures to safeguard the confidentiality of the business data.
 
-    “(a) Department of Commerce.—\[Amended [section 176a of Title 15][/us/usc/t15/s176a], Commerce and Trade.\]
+>     “(b) __Responsibilities of Agencies Under Other Laws.—__ 
 
-    “(b) Title 13.—\[Enacted [section 402 of Title 13][/us/usc/t13/s402], Census.\]”.
+>     The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including [section 552 of title 5][/us/usc/t5/s552], United States Code (popularly known as the Freedom of Information Act), and [section 552b of title 5][/us/usc/t5/s552b], United States Code (popularly known as the Privacy Act of 1974 \[[Pub. L. 93–579][/us/pl/93/579], see Short Title note set out under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+
+>     “(c) __Responsibilities of Officers, Employees, and Agents.—__ 
+
+>     Examination of business data in identifiable form shall be limited to the officers, employees, and agents authorized to examine the individual reports in accordance with written agreements pursuant to this section. Officers, employees, and agents of a Designated Statistical Agency who receive data pursuant to this subtitle shall be subject to all provisions of law, including penalties, that relate—
+
+>         “(1) to the unlawful provision of the business data that would apply to the officers, employees, and agents of the agency that originally obtained the information; and
+
+>         “(2) to the unlawful disclosure of the business data that would apply to officers, employees, and agents of the agency that originally obtained the information.
+
+>     “(d) __Notice.—__ 
+
+>     Whenever a written agreement concerns data that respondents were required by law to report and the respondents were not informed that the data could be shared among the Designated Statistical Agencies, for exclusively statistical purposes, the terms of such agreement shall be described in a public notice issued by the agency that intends to provide the data. Such notice shall allow a minimum of 60 days for public comment.
+
+> “SEC. 525. __LIMITATIONS ON USE OF BUSINESS DATA PROVIDED BY DESIGNATED STATISTICAL AGENCIES.__ 
+
+>     “(a) __Use, Generally.—__ 
+
+>     Business data provided by a Designated Statistical Agency pursuant to this subtitle shall be used exclusively for statistical purposes.
+
+>     “(b) __Publication.—__ 
+
+>     Publication of business data acquired by a Designated Statistical Agency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
+
+> “SEC. 526. __CONFORMING AMENDMENTS.__ 
+
+>     “(a) __Department of Commerce.—__ 
+
+>     \[Amended [section 176a of Title 15][/us/usc/t15/s176a], Commerce and Trade.\]
+
+>     “(b) __Title 13.—__ 
+
+>     \[Enacted [section 402 of Title 13][/us/usc/t13/s402], Census.\]”.
 
  __Waiver of Paperwork Reduction__ 
 

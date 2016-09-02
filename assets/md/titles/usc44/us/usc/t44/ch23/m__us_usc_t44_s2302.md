@@ -15,7 +15,7 @@
 
 ## § 2302. Authority of the Board; seal; services; bylaws; rules; regulations; employees
 
-In carrying out the purposes of this chapter, the Board—
+    In carrying out the purposes of this chapter, the Board—
 
     (1) may adopt an official seal, which shall be judicially noticed;
 

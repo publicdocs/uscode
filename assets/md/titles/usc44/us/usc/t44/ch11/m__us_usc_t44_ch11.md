@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1101" data-uslm-ref="/us/usc/t44/s1101">1101.</a>  </td>
 
     <td> Printing and binding for the President.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1102" data-uslm-ref="/us/usc/t44/s1102">1102.</a>  </td>
 
     <td> Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1103" data-uslm-ref="/us/usc/t44/s1103">1103.</a>  </td>
 
     <td> Certificate of necessity; estimate of cost.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1104" data-uslm-ref="/us/usc/t44/s1104">1104.</a>  </td>
 
     <td> Restrictions on use of illustrations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1105" data-uslm-ref="/us/usc/t44/s1105">1105.</a>  </td>
 
     <td> Form and style of work for departments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1106" data-uslm-ref="/us/usc/t44/s1106">1106.</a>  </td>
 
     <td> Inserting “compliments” forbidden.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1107" data-uslm-ref="/us/usc/t44/s1107">1107.</a>  </td>
 
     <td> Appropriations chargeable for printing and binding of documents or reports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1108" data-uslm-ref="/us/usc/t44/s1108">1108.</a>  </td>
 
     <td> Presidential approval required for printing of periodicals; number printed; sale to public.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1109" data-uslm-ref="/us/usc/t44/s1109">1109.</a>  </td>
 
     <td> Printing documents in two or more editions; full number and allotment of full quota.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1110" data-uslm-ref="/us/usc/t44/s1110">1110.</a>  </td>
 
     <td> Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1111" data-uslm-ref="/us/usc/t44/s1111">1111.</a>  </td>
 
     <td> Annual reports: time for furnishing manuscript and proofs to Public Printer.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1112" data-uslm-ref="/us/usc/t44/s1112">1112.</a>  </td>
 
     <td> Annual reports: type for reports of executive officers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1113" data-uslm-ref="/us/usc/t44/s1113">1113.</a>  </td>
 
     <td> Annual reports: exclusion of irrelevant matter.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1114" data-uslm-ref="/us/usc/t44/s1114">1114.</a>  </td>
 
     <td> Annual reports: number of copies for Congress.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1115" data-uslm-ref="/us/usc/t44/s1115">1115.</a>  </td>
 
     <td> Annual reports: time of delivery by Public Printer to Congress.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1116" data-uslm-ref="/us/usc/t44/s1116">1116.</a>  </td>
 
     <td> Annual reports: limitation on number of copies printed; reports of bureau chiefs.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1117" data-uslm-ref="/us/usc/t44/s1117">1117.</a>  </td>
 
     <td> Annual reports: discontinuance of printing of annual or special reports to keep within appropriations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1118" data-uslm-ref="/us/usc/t44/s1118">1118.</a>  </td>
 
     <td> Documents beyond scope of ordinary departmental business.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1119" data-uslm-ref="/us/usc/t44/s1119">1119.</a>  </td>
 
     <td> Government publications as public property.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1120" data-uslm-ref="/us/usc/t44/s1120">1120.</a>  </td>
 
     <td> Blanks and letterheads for judges and officers of courts.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1121" data-uslm-ref="/us/usc/t44/s1121">1121.</a>  </td>
 
     <td> Paper and envelopes for Government agencies in the District of Columbia.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1122" data-uslm-ref="/us/usc/t44/s1122">1122.</a>  </td>
 
     <td> Supplies for Government establishments.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1123" data-uslm-ref="/us/usc/t44/s1123">1123.</a>  </td>
 
     <td> Binding materials; bookbinding for libraries.  </td>
 

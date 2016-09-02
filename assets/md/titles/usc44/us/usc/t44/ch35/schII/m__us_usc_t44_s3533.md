@@ -57,7 +57,7 @@
 
  __Applicability of Section__ 
 
-This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
+    This section not to apply while subchapter III of this chapter is in effect, see [section 3549 of this title][/us/usc/t44/s3549].
 
  __Prior Provisions__ 
 

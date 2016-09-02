@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3301" data-uslm-ref="/us/usc/t44/s3301">3301.</a>  </td>
 
     <td> Definition of records.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3302" data-uslm-ref="/us/usc/t44/s3302">3302.</a>  </td>
 
     <td> Regulations covering lists of records for disposal, procedure for disposal, and standards for reproduction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3303" data-uslm-ref="/us/usc/t44/s3303">3303.</a>  </td>
 
     <td> Lists and schedules of records to be submitted to Archivist by head of each Government agency. <sup>[1]</sup>  <sup><sup> 1 Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3303a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3303a" data-uslm-ref="/us/usc/t44/s3303a">3303a.</a>  </td>
 
     <td> Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [3304 to 3307.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3304" data-uslm-ref="/us/usc/t44/s3304">3304</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3307" data-uslm-ref="/us/usc/t44/s3307">3307.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3308" data-uslm-ref="/us/usc/t44/s3308">3308.</a>  </td>
 
     <td> Disposal of similar records where prior disposal was authorized.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3309" data-uslm-ref="/us/usc/t44/s3309">3309.</a>  </td>
 
     <td> Preservation of claims of Government until settled in Government Accountability Office; disposal authorized upon written approval of Comptroller General.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3310" data-uslm-ref="/us/usc/t44/s3310">3310.</a>  </td>
 
     <td> Disposal of records constituting menace to health, life, or property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3311" data-uslm-ref="/us/usc/t44/s3311">3311.</a>  </td>
 
     <td> Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3312" data-uslm-ref="/us/usc/t44/s3312">3312.</a>  </td>
 
     <td> Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3313" data-uslm-ref="/us/usc/t44/s3313">3313.</a>  </td>
 
     <td> Moneys from sale of records payable into the Treasury.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3314" data-uslm-ref="/us/usc/t44/s3314">3314.</a>  </td>
 
     <td> Procedures for disposal of records exclusive.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3315" data-uslm-ref="/us/usc/t44/s3315">3315.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3316" data-uslm-ref="/us/usc/t44/s3316">3316.</a>  </td>
 
     <td> Establishment of Commission.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3317" data-uslm-ref="/us/usc/t44/s3317">3317.</a>  </td>
 
     <td> Duties of Commission.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3318" data-uslm-ref="/us/usc/t44/s3318">3318.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3319" data-uslm-ref="/us/usc/t44/s3319">3319.</a>  </td>
 
     <td> Director and staff; experts and consultants.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3320" data-uslm-ref="/us/usc/t44/s3320">3320.</a>  </td>
 
     <td> Powers of Commission.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3321" data-uslm-ref="/us/usc/t44/s3321">3321.</a>  </td>
 
     <td> Support services.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3322" data-uslm-ref="/us/usc/t44/s3322">3322.</a>  </td>
 
     <td> Report.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3323" data-uslm-ref="/us/usc/t44/s3323">3323.</a>  </td>
 
     <td> Termination.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3324" data-uslm-ref="/us/usc/t44/s3324">3324.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

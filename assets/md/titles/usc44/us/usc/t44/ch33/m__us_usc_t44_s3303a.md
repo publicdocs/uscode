@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3304 to 3307.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3308.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a)
 
 ## § 3303a. Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records
 
@@ -73,9 +73,19 @@
 
     For termination, effective May 15, 2000, of reporting provisions in subsec. (f) of this section, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 7th item on page 180 of House Document No. 103–7.
 
+\[§§ 3304 to 3307. __Repealed.__  __[__  __Pub. L. 91–287, § 2(c)__  __][/us/pl/91/287/s2/c]__  __,__  __June 23, 1970__  __,__  __[__  __84 Stat. 321__  __][/us/stat/84/321]__  __\]__ 
+
+    Section 3304, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1300][/us/stat/82/1300], related to submission of lists and schedules of records lacking preservation value by the Administrator of General Services to Congress. See [section 3303a of this title][/us/usc/t44/s3303a].
+
+    Section 3305, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1300][/us/stat/82/1300], related to examination of lists and schedules by joint congressional committees and report to Congress. See [section 3303a of this title][/us/usc/t44/s3303a].
+
+    Section 3306, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1300][/us/stat/82/1300], related to disposal of records by head of Government agency upon notification by Administrator of action by joint congressional committee. See [section 3303a of this title][/us/usc/t44/s3303a].
+
+    Section 3307, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301], related to disposal of records upon failure of joint congressional committees to act. See [section 3303a of this title][/us/usc/t44/s3303a].
+
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3304 to 3307.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3303.md) | [Next](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3308.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a)
 
 ----------
 ----------
@@ -112,5 +122,19 @@
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/91/287/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287%2Fs2%2Fc
+[/us/stat/84/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F321
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1300
+[/us/usc/t44/s3303a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1300
+[/us/usc/t44/s3303a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1300
+[/us/usc/t44/s3303a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
+[/us/stat/82/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1301
+[/us/usc/t44/s3303a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3303a
 
 

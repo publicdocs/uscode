@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2901" data-uslm-ref="/us/usc/t44/s2901">2901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2902" data-uslm-ref="/us/usc/t44/s2902">2902.</a>  </td>
 
     <td> Objectives of records management.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2903" data-uslm-ref="/us/usc/t44/s2903">2903.</a>  </td>
 
     <td> Custody and control of property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2904" data-uslm-ref="/us/usc/t44/s2904">2904.</a>  </td>
 
     <td> General responsibilities of Administrator. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F98%2F497" data-uslm-ref="/us/pl/98/497">Pub. L. 98–497</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2905" data-uslm-ref="/us/usc/t44/s2905">2905.</a>  </td>
 
     <td> Establishment of standards for selective retention of records; security measures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2906" data-uslm-ref="/us/usc/t44/s2906">2906.</a>  </td>
 
     <td> Inspection of agency records.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2907" data-uslm-ref="/us/usc/t44/s2907">2907.</a>  </td>
 
     <td> Records centers and centralized microfilming services.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2908" data-uslm-ref="/us/usc/t44/s2908">2908.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2909" data-uslm-ref="/us/usc/t44/s2909">2909.</a>  </td>
 
     <td> Retention of records.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2910" data-uslm-ref="/us/usc/t44/s2910">2910.</a>  </td>
 
     <td> Preservation of Freedmen’s Bureau records.  </td>
 

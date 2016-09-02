@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1901" data-uslm-ref="/us/usc/t44/s1901">1901.</a>  </td>
 
     <td> Definition of Government publication.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1902" data-uslm-ref="/us/usc/t44/s1902">1902.</a>  </td>
 
     <td> Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing Office.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1903" data-uslm-ref="/us/usc/t44/s1903">1903.</a>  </td>
 
     <td> Distribution of publications to depositories; notice to Government components; cost of printing and binding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1904" data-uslm-ref="/us/usc/t44/s1904">1904.</a>  </td>
 
     <td> Classified list of Government publications for selection by depositories.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1905" data-uslm-ref="/us/usc/t44/s1905">1905.</a>  </td>
 
     <td> Distribution to depositories; designation of additional libraries; justification; authorization for certain designations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1906" data-uslm-ref="/us/usc/t44/s1906">1906.</a>  </td>
 
     <td> Land-grant colleges constituted depositories.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1907" data-uslm-ref="/us/usc/t44/s1907">1907.</a>  </td>
 
     <td> Libraries of executive departments, service academies, and independent agencies constituted depositories; certifications of need; disposal of unwanted publications.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1908" data-uslm-ref="/us/usc/t44/s1908">1908.</a>  </td>
 
     <td> American Antiquarian Society to receive certain publications.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1909" data-uslm-ref="/us/usc/t44/s1909">1909.</a>  </td>
 
     <td> Requirements of depository libraries; reports on conditions; investigations; termination; replacement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1910" data-uslm-ref="/us/usc/t44/s1910">1910.</a>  </td>
 
     <td> Designations of replacement depositories; limitations on numbers; conditions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1911" data-uslm-ref="/us/usc/t44/s1911">1911.</a>  </td>
 
     <td> Free use of Government publications in depositories; disposal of unwanted publications.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1912" data-uslm-ref="/us/usc/t44/s1912">1912.</a>  </td>
 
     <td> Regional depositories; designation; functions; disposal of publications.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1913" data-uslm-ref="/us/usc/t44/s1913">1913.</a>  </td>
 
     <td> Appropriations for supplying depository libraries; restriction.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1914" data-uslm-ref="/us/usc/t44/s1914">1914.</a>  </td>
 
     <td> Implementation of depository library program by Public Printer.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1915" data-uslm-ref="/us/usc/t44/s1915">1915.</a>  </td>
 
     <td> Highest State appellate court libraries as depository libraries.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1916" data-uslm-ref="/us/usc/t44/s1916">1916.</a>  </td>
 
     <td> Designation of libraries of accredited law schools as depository libraries.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 2901. Definitions
 
-As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
+    As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
     (1) the term “records” has the meaning given it by [section 3301 of this title][/us/usc/t44/s3301];
 

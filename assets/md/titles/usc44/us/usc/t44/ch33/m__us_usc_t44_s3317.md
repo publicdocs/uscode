@@ -15,7 +15,7 @@
 
 ## § 3317. Duties of Commission
 
-It shall be the duty of the Commission to study problems and questions with respect to the control, disposition, and preservation of records and documents produced by or on behalf of Federal officials, with a view toward the development of appropriate legislative recommendations and other recommendations regarding appropriate rules and procedures with respect to such control, disposition, and preservation. Such study shall include consideration of—
+    It shall be the duty of the Commission to study problems and questions with respect to the control, disposition, and preservation of records and documents produced by or on behalf of Federal officials, with a view toward the development of appropriate legislative recommendations and other recommendations regarding appropriate rules and procedures with respect to such control, disposition, and preservation. Such study shall include consideration of—
 
     (1) whether the historical practice regarding the records and documents produced by or on behalf of Presidents of the United States should be rejected or accepted and whether such practice should be made applicable with respect to all Federal officials;
 

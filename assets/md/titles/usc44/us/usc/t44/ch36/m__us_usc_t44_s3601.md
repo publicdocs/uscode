@@ -15,7 +15,7 @@
 
 ## § 3601. Definitions
 
-In this chapter, the definitions under section 3502 shall apply, and the term—
+    In this chapter, the definitions under section 3502 shall apply, and the term—
 
     (1) “Administrator” means the Administrator of the Office of Electronic Government established under section 3602;
 

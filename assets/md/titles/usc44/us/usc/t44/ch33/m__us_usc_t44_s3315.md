@@ -15,7 +15,7 @@
 
 ## § 3315. Definitions
 
-For purposes of this section and section 3316 through [section 3324 of this title][/us/usc/t44/s3324]—
+    For purposes of this section and section 3316 through [section 3324 of this title][/us/usc/t44/s3324]—
 
     (1) the term “Federal official” means any individual holding the office of President or Vice President of the United States, or Senator or Representative in, or Delegate or Resident Commissioner to, the Congress of the United States, or any officer of the executive, judicial, or legislative branch of the Federal Government;
 

@@ -15,7 +15,7 @@
 
 ## § 1507. Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation
 
-A document required by [section 1505(a) of this title][/us/usc/t44/s1505/a] to be published in the Federal Register is not valid as against a person who has not had actual knowledge of it until the duplicate originals or certified copies of the document have been filed with the Office of the Federal Register and a copy made available for public inspection as provided by [section 1503 of this title][/us/usc/t44/s1503]. Unless otherwise specifically provided by statute, filing of a document, required or authorized to be published by [section 1505 of this title][/us/usc/t44/s1505], except in cases where notice by publication is insufficient in law, is sufficient to give notice of the contents of the document to a person subject to or affected by it. The publication in the Federal Register of a document creates a rebuttable presumption—
+    A document required by [section 1505(a) of this title][/us/usc/t44/s1505/a] to be published in the Federal Register is not valid as against a person who has not had actual knowledge of it until the duplicate originals or certified copies of the document have been filed with the Office of the Federal Register and a copy made available for public inspection as provided by [section 1503 of this title][/us/usc/t44/s1503]. Unless otherwise specifically provided by statute, filing of a document, required or authorized to be published by [section 1505 of this title][/us/usc/t44/s1505], except in cases where notice by publication is insufficient in law, is sufficient to give notice of the contents of the document to a person subject to or affected by it. The publication in the Federal Register of a document creates a rebuttable presumption—
 
     (1) that it was duly issued, prescribed, or promulgated;
 
@@ -25,7 +25,7 @@ A document required by [section 1505(a) of this title][/us/usc/t44/s1505/a] to b
 
     (4) that all requirements of this chapter and the regulations prescribed under it relative to the document have been complied with.
 
-        The contents of the Federal Register shall be judicially noticed and without prejudice to any other mode of citation, may be cited by volume and page number.
+    The contents of the Federal Register shall be judicially noticed and without prejudice to any other mode of citation, may be cited by volume and page number.
 
 ([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1276][/us/stat/82/1276].)
 

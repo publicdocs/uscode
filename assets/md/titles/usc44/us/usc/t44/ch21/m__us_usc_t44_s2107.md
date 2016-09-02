@@ -15,7 +15,7 @@
 
 ## § 2107. Acceptance of records for historical preservation
 
-When it appears to the Archivist to be in the public interest, he may—
+    When it appears to the Archivist to be in the public interest, he may—
 
     (1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government;
 

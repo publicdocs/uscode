@@ -15,7 +15,7 @@
 
 ## § 3102. Establishment of program of management
 
-The head of each Federal agency shall establish and maintain an active, continuing program for the economical and efficient management of the records of the agency. The program, among other things, shall provide for
+    The head of each Federal agency shall establish and maintain an active, continuing program for the economical and efficient management of the records of the agency. The program, among other things, shall provide for
 
     (1) effective controls over the creation and over the maintenance and use of records in the conduct of current business;
 

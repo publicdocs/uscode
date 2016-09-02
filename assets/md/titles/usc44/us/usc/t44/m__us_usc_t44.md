@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t44/ch1/m__us_usc_t44_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44)
 
-# 
-
-Title 44—PUBLIC PRINTING AND DOCUMENTS
+# Title 44—PUBLIC PRINTING AND DOCUMENTS
 
 This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
+
+Current through 113–44
 
 <table>
 
@@ -33,231 +33,231 @@ This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22,
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch1" data-uslm-ref="/us/usc/t44/ch1">1.</a>  </td>
 
     <td> Joint Committee on Printing  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs101" data-uslm-ref="/us/usc/t44/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch3" data-uslm-ref="/us/usc/t44/ch3">3.</a>  </td>
 
     <td> Government Printing Office  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs301" data-uslm-ref="/us/usc/t44/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch5" data-uslm-ref="/us/usc/t44/ch5">5.</a>  </td>
 
     <td> Production and Procurement of Printing and Binding  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs501" data-uslm-ref="/us/usc/t44/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch7" data-uslm-ref="/us/usc/t44/ch7">7.</a>  </td>
 
     <td> Congressional Printing and Binding  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs701" data-uslm-ref="/us/usc/t44/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch9" data-uslm-ref="/us/usc/t44/ch9">9.</a>  </td>
 
     <td> Congressional Record  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs901" data-uslm-ref="/us/usc/t44/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch11" data-uslm-ref="/us/usc/t44/ch11">11.</a>  </td>
 
     <td> Executive and Judiciary Printing and Binding  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1101" data-uslm-ref="/us/usc/t44/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch13" data-uslm-ref="/us/usc/t44/ch13">13.</a>  </td>
 
     <td> Particular Reports and Documents  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1301" data-uslm-ref="/us/usc/t44/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch15" data-uslm-ref="/us/usc/t44/ch15">15.</a>  </td>
 
     <td> Federal Register and Code of Federal Regulations  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1501" data-uslm-ref="/us/usc/t44/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch17" data-uslm-ref="/us/usc/t44/ch17">17.</a>  </td>
 
     <td> Distribution and Sale of Public Documents  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1701" data-uslm-ref="/us/usc/t44/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch19" data-uslm-ref="/us/usc/t44/ch19">19.</a>  </td>
 
     <td> Depository Library Program  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs1901" data-uslm-ref="/us/usc/t44/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch21" data-uslm-ref="/us/usc/t44/ch21">21.</a>  </td>
 
     <td> National Archives and Records Administration  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2101" data-uslm-ref="/us/usc/t44/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch22" data-uslm-ref="/us/usc/t44/ch22">22.</a>  </td>
 
     <td> Presidential Records  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2201" data-uslm-ref="/us/usc/t44/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch23" data-uslm-ref="/us/usc/t44/ch23">23.</a>  </td>
 
     <td> National Archives Trust Fund Board  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2301" data-uslm-ref="/us/usc/t44/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch25" data-uslm-ref="/us/usc/t44/ch25">25.</a>  </td>
 
     <td> National Historical Publications and Records Commission  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2501" data-uslm-ref="/us/usc/t44/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch27" data-uslm-ref="/us/usc/t44/ch27">27.</a>  </td>
 
     <td> Advisory Committee on the Rec­ords of Congress  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2701" data-uslm-ref="/us/usc/t44/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch29" data-uslm-ref="/us/usc/t44/ch29">29.</a>  </td>
 
     <td> Records Management by the Archivist of the United States and by the Administrator of General Services  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2901" data-uslm-ref="/us/usc/t44/s2901">2901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch31" data-uslm-ref="/us/usc/t44/ch31">31.</a>  </td>
 
     <td> Records Management by Federal Agencies  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3101" data-uslm-ref="/us/usc/t44/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch33" data-uslm-ref="/us/usc/t44/ch33">33.</a>  </td>
 
     <td> Disposal of Records  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3301" data-uslm-ref="/us/usc/t44/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch35" data-uslm-ref="/us/usc/t44/ch35">35.</a>  </td>
 
     <td> Coordination of Federal Information Policy  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3501" data-uslm-ref="/us/usc/t44/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch36" data-uslm-ref="/us/usc/t44/ch36">36.</a>  </td>
 
     <td> Management and Promotion of Electronic Government Services  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3601" data-uslm-ref="/us/usc/t44/s3601">3601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch37" data-uslm-ref="/us/usc/t44/ch37">37.</a>  </td>
 
     <td> Advertisements by Government Agencies  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3701" data-uslm-ref="/us/usc/t44/s3701">3701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch39" data-uslm-ref="/us/usc/t44/ch39">39.</a>  </td>
 
     <td> Government Printing Office: Office of Inspector General  </td>
 
-    <td> 3901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3901" data-uslm-ref="/us/usc/t44/s3901">3901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch41" data-uslm-ref="/us/usc/t44/ch41">41.</a>  </td>
 
     <td> Access to Federal Electronic Information  </td>
 
-    <td> 4101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4101" data-uslm-ref="/us/usc/t44/s4101">4101</a>  </td>
 
   </tr>
 

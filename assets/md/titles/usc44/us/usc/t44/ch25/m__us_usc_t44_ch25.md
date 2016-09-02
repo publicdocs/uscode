@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2501" data-uslm-ref="/us/usc/t44/s2501">2501.</a>  </td>
 
     <td> Creation; composition; appointment and tenure; vacancies; meetings. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2502" data-uslm-ref="/us/usc/t44/s2502">2502.</a>  </td>
 
     <td> Vacancies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2503" data-uslm-ref="/us/usc/t44/s2503">2503.</a>  </td>
 
     <td> Executive director; staff; transportation expenses. <sup>[1]</sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2504" data-uslm-ref="/us/usc/t44/s2504">2504.</a>  </td>
 
     <td> Duties; authorization of grants for historical publications and records programs; authorization for appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2505" data-uslm-ref="/us/usc/t44/s2505">2505.</a>  </td>
 
     <td> Special advisory committees; membership; reimbursement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2506" data-uslm-ref="/us/usc/t44/s2506">2506.</a>  </td>
 
     <td> Records to be kept by grantees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [2507.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2507" data-uslm-ref="/us/usc/t44/s2507">2507.</a>  </td>
 
     <td> Repealed.]  </td>
 
