@@ -31,7 +31,7 @@
 
         (D) Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
 
-    (3) __Repealed.__  __[__  __Pub. L. 113–76, div. K, title VII, § 7034(i)__  __][/us/pl/113/76/s7034/i]__  __,__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 514__  __][/us/stat/128/514]__  __.__ 
+    (3) __Repealed.__  __[__  __Pub. L. 113–76, div. K, title VII, § 7034(i)__  __][/us/pl/113/76/s7034/i]__  __,__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 514__  __][/us/stat/128/514]__ 
 
     (4) __Definitions__ 
 

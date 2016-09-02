@@ -31,7 +31,7 @@
 
     (7) to help the Government of Ukraine prepare for the presidential election in May 2014;
 
-    (8) to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in that began on November 21, 2013;
+    (8) to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  that began on November 21, 2013;
 
     (9) to support the efforts of the Government of Ukraine to recover and return to the Ukrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
 

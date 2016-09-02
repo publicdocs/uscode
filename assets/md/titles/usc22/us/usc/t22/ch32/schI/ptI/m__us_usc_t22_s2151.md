@@ -503,6 +503,96 @@
 
     Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __Girls Count__ 
+
+[Pub. L. 114–24][/us/pl/114/24], June 12, 2015, [129 Stat. 314][/us/stat/129/314], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Girls Count Act of 2015’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress makes the following findings:
+
+>     “(1) According to the United States Census Bureau’s 2013 international figures, 1 person in 12, or close to 900,000,000 people, is a girl or young woman age 10 through 24.
+
+>     “(2) The Census Bureau’s data also illustrates that young people are the fastest growing segment of the population in developing countries.
+
+>     “(3) Even though most countries do have birth registration laws, four out of ten babies born in 2012 were not registered worldwide. Moreover, an estimated 36 percent of children under the age of five worldwide (about 230,000,000 children) do not possess a birth certificate.
+
+>     “(4) A nationally recognized proof of birth system is important to determining a child’s citizenship, nationality, place of birth, parentage, and age. Without such a system, a passport, driver’s license, or other identification card is difficult to obtain. The lack of such documentation can prevent girls and women from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries.
+
+>     “(5) The lack of birth registration among girls worldwide is particularly concerning as it can exacerbate the disproportionate vulnerability of women to trafficking, child marriage, and lack of access to health and education services.
+
+>     “(6) A lack of birth registration among women and girls can also aggravate what, in many places, amounts to an already reduced ability to seek employment, participate in civil society, or purchase or inherit land and other assets.
+
+>     “(7) Girls undertake much of the domestic labor needed for poor families to survive: carrying water, harvesting crops, tending livestock, caring for younger children, and doing chores.
+
+>     “(8) Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on women and girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs are difficult to gauge.
+
+>     “(9) To help ensure that women and girls are considered in United States foreign assistance policies and programs, that their needs are addressed in the design, implementation, and evaluation of foreign assistance programs, and that women and girls have the opportunity to succeed, it is important that girls be counted and have access to birth certificates and other official documentation.
+
+> “SEC. 3. __STATEMENT OF POLICY.__ 
+
+> “It is the policy of the United States to—
+
+>     “(1) encourage countries to support the rule of law and ensure girls and boys of all ages are able to fully participate in society, including by providing birth certifications and other official documentation;
+
+>     “(2) enhance training and capacity-building in key developing countries, local nongovernmental organizations, and other civil society organizations, including faith-based organizations and organizations representing children and families in the design, implementation, and monitoring of programs under this Act, to effectively address the needs of birth registries in countries where girls are systematically undercounted; and
+
+>     “(3) incorporate into the design, implementation, and evaluation of policies and programs measures to evaluate the impact that such policies and programs have on girls.
+
+> “SEC. 4. __UNITED STATES ASSISTANCE TO SUPPORT COUNTING OF GIRLS IN THE DEVELOPING WORLD.__ 
+
+>     “(a)  __Authorization__  __.—__ 
+
+>     The Secretary and the Administrator are authorized to prioritize and advance ongoing efforts to—
+
+>         “(1) support programs that will contribute to improved and sustainable Civil Registration and Vital Statistics Systems (CRVS) with a focus on birth registration;
+
+>         “(2) support programs that build the capacity of developing countries’ national and local legal and policy frameworks to prevent discrimination against girls in gaining access to birth certificates, particularly where this may help prevent exploitation, violence, and other abuse; and
+
+>         “(3) support programs and key ministries, including, interior, youth, and education ministries, to help increase property rights, social security, home ownership, land tenure security, inheritance rights, access to education, and economic and entrepreneurial opportunities, particularly for women and girls.
+
+>     “(b)  __Coordination With Multilateral Organizations__  __.—__ 
+
+>     The Secretary and the Administrator are authorized to coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
+
+>     “(c)  __Coordination With Private Sector and Civil Society Organizations__  __.—__ 
+
+>     The Secretary and the Administrator are authorized to work with the United States, international, and local private sector and civil society organizations to advocate for the registration and documentation of all girls and boys in developing countries, in order to help prevent exploitation, violence, and other abuses and to help provide economic and social opportunities.
+
+> “SEC. 5. __REPORT.__ 
+
+> “The Secretary and the Administrator shall include in relevant evaluations and reports to Congress the following information:
+
+>     “(1) To the extent practicable, a breakdown of United States foreign assistance beneficiaries by age, gender, marital status, location, and school enrollment status.
+
+>     “(2) A description, as appropriate, of how United States foreign assistance benefits girls.
+
+>     “(3) Specific information, as appropriate, on programs that address the particular needs of girls.
+
+> “SEC. 6. __DEFINITIONS.__ 
+
+> “In this Act:
+
+>     “(1)  __Administrator__  __.—__ 
+
+>     The term ‘Administrator’ means the Administrator of the United States Agency for International Development.
+
+>     “(2)  __Foreign assistance__  __.—__ 
+
+>     The term ‘foreign assistance’ has the meaning given the term in section 634(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394(b)][/us/usc/t22/s2394/b]).
+
+>     “(3)  __Secretary__  __.—__ 
+
+>     The term ‘Secretary’ means the Secretary of State.
+
+> “SEC. 7. __SUNSET.__ 
+
+>     “This Act shall expire on the date that is five years after the date of the enactment of this Act \[June 12, 2015\].”
+
  __Military-to-Military Engagement With the Government of Burma__ 
 
 [Pub. L. 113–291, div. A, title XII, § 1253][/us/pl/113/291/s1253], Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that:
@@ -3436,6 +3526,9 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1922
 [/us/usc/t22/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1783
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/114/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F24
+[/us/stat/129/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F314
+[/us/usc/t22/s2394/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fb
 [/us/pl/113/291/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1253
 [/us/stat/128/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3571
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291

@@ -79,7 +79,7 @@
 
     The sanctions the President may impose with respect to a foreign person under subsection (a) or (b) are the following:
 
-        (1) __Export-import bank assistance__ 
+        (1) __Export-Import Bank assistance__ 
 
             The President may direct the Export-Import Bank of the United States not to approve the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the foreign person.
 

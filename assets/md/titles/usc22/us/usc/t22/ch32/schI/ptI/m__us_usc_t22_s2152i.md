@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        A Small Grants Program (SGP) shall be established within the United States Agency for International Development (USAID) to provide small grants, cooperative agreements, and other assistance mechanisms and agreements of not more than $2,000,000 for the purpose of carrying out the provisions of chapters 1 and 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] and chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961:  Provided, That the SGP established pursuant to this section shall replace the function served previously by the Development Grants Program established under section 674 of division J, of [Public Law 110–161][/us/pl/110/161], which is hereby abolished.
+        A Small Grants Program (SGP) shall be established within the United States Agency for International Development (USAID) to provide small grants, cooperative agreements, and other assistance mechanisms and agreements of not more than $2,000,000 for the purpose of carrying out the provisions of chapters 1 and 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] and chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961: Provided, That the SGP established pursuant to this section shall replace the function served previously by the Development Grants Program established under section 674 of division J, of [Public Law 110–161][/us/pl/110/161], which is hereby abolished.
 
     (b) __Eligibility__ 
 
@@ -41,9 +41,9 @@
 
     (e) __Management__ 
 
-        (1) Not later than 120 days after December 16, 2014, the USAID Administrator shall issue guidance to implement this section:  Provided, That such guidance shall include the requirements contained in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
+        (1) Not later than 120 days after December 16, 2014, the USAID Administrator shall issue guidance to implement this section: Provided, That such guidance shall include the requirements contained in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
 
-        (2) Upon selection of a mission pursuant to the procedures required by paragraph (1), such selected mission may be allocated the full estimated cost of the multi-year program:  Provided, That such allocations shall be subject to the regular notification procedures of the Committees on Appropriations.
+        (2) Upon selection of a mission pursuant to the procedures required by paragraph (1), such selected mission may be allocated the full estimated cost of the multi-year program: Provided, That such allocations shall be subject to the regular notification procedures of the Committees on Appropriations.
 
         (3) In addition to funds otherwise available for such purposes, up to 12 percent of the funds made available to carry out this section may be used by USAID for administrative and oversight expenses associated with managing relationships with entities under the SGP.
 
@@ -67,7 +67,7 @@
 
     Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
- __Appropriate Congressional Committees Defined__ 
+ __“Appropriate Congressional Committees” Defined__ 
 
 [Pub. L. 113–235, div. J, title VII, § 7034(t)(1)][/us/pl/113/235/s7034/t/1], Dec. 16, 2014, [128 Stat. 2627][/us/stat/128/2627], provided that: 
 

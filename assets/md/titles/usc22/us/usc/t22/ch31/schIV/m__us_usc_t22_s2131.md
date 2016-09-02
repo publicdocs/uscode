@@ -309,7 +309,7 @@
 
             Not later than 60 days after the date on which the Corporation receives a report from the Government Accountability Office with recommendations for the Corporation, the Corporation shall submit a report to Congress that describes the actions taken by the Corporation in response to the recommendations in such report.
 
-    (g) __Procurement Requirements__ 
+    (g) __Procurement requirements__ 
 
     The Corporation shall—
 
