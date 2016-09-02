@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10501" data-uslm-ref="/us/usc/t49/s10501">10501.</a>  </td>
 
     <td> General jurisdiction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10502" data-uslm-ref="/us/usc/t49/s10502">10502.</a>  </td>
 
     <td> Authority to exempt rail carrier transportation.  </td>
 

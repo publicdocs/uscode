@@ -33,7 +33,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47501" data-uslm-ref="/us/usc/t49/s47501">47501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47502" data-uslm-ref="/us/usc/t49/s47502">47502.</a>  </td>
 
     <td> Noise measurement and exposure systems and identifying land use compatible with noise exposure.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47503" data-uslm-ref="/us/usc/t49/s47503">47503.</a>  </td>
 
     <td> Noise exposure maps.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47504" data-uslm-ref="/us/usc/t49/s47504">47504.</a>  </td>
 
     <td> Noise compatibility programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47505" data-uslm-ref="/us/usc/t49/s47505">47505.</a>  </td>
 
     <td> Airport noise compatibility planning grants.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47506" data-uslm-ref="/us/usc/t49/s47506">47506.</a>  </td>
 
     <td> Limitations on recovering damages for noise.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47507" data-uslm-ref="/us/usc/t49/s47507">47507.</a>  </td>
 
     <td> Nonadmissibility of noise exposure map and related information as evidence.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47508" data-uslm-ref="/us/usc/t49/s47508">47508.</a>  </td>
 
     <td> Noise standards for air carriers and foreign air carriers providing foreign air transportation.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47509" data-uslm-ref="/us/usc/t49/s47509">47509.</a>  </td>
 
     <td> Research program on quiet aircraft technology for propeller and rotor driven aircraft.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—NOISE ABATEMENT  </td>
 
   <tr>
 
-    <td> 47510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47510" data-uslm-ref="/us/usc/t49/s47510">47510.</a>  </td>
 
     <td> Tradeoff allowance.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47521" data-uslm-ref="/us/usc/t49/s47521">47521.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47522" data-uslm-ref="/us/usc/t49/s47522">47522.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47523" data-uslm-ref="/us/usc/t49/s47523">47523.</a>  </td>
 
     <td> National aviation noise policy.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47524" data-uslm-ref="/us/usc/t49/s47524">47524.</a>  </td>
 
     <td> Airport noise and access restriction review program.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47525" data-uslm-ref="/us/usc/t49/s47525">47525.</a>  </td>
 
     <td> Decision about airport noise and access restrictions on certain stage 2 aircraft.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47526" data-uslm-ref="/us/usc/t49/s47526">47526.</a>  </td>
 
     <td> Limitations for noncomplying airport noise and access restrictions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47527" data-uslm-ref="/us/usc/t49/s47527">47527.</a>  </td>
 
     <td> Liability of the United States Government for noise damages.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47528" data-uslm-ref="/us/usc/t49/s47528">47528.</a>  </td>
 
     <td> Prohibition on operating certain aircraft not complying with stage 3 noise levels.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47529" data-uslm-ref="/us/usc/t49/s47529">47529.</a>  </td>
 
     <td> Nonaddition rule.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47530" data-uslm-ref="/us/usc/t49/s47530">47530.</a>  </td>
 
     <td> Nonapplication of sections 47528(a)–(d) and 47529 to aircraft outside the 48 contiguous States.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47531" data-uslm-ref="/us/usc/t49/s47531">47531.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47532" data-uslm-ref="/us/usc/t49/s47532">47532.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47533" data-uslm-ref="/us/usc/t49/s47533">47533.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
   <tr>
 
-    <td> 47534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47534" data-uslm-ref="/us/usc/t49/s47534">47534.</a>  </td>
 
     <td> Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels.  </td>
 
@@ -235,7 +235,7 @@ SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title V, § 506(b)(3)][/us/pl/112/95/s506/b/3], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], substituted “Penalties” for “Penalties for violating sections 47528–47530” in item 47531, and added item 47534.
+    2012—[Pub. L. 112–95, title V, § 506(b)(3)][/us/pl/112/95/s506/b/3], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], which directed amendment of the analysis for subchapter II of this chapter by substituting “Penalties” for “Penalties for violating sections 47528–47530” in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 
     1994—[Pub. L. 103–429, § 6(72)(B)][/us/pl/103/429/s6/72/B], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], added item 47510.
 

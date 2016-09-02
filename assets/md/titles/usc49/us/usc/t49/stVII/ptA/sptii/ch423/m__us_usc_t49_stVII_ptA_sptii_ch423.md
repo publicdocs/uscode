@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 42301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42301" data-uslm-ref="/us/usc/t49/s42301">42301.</a>  </td>
 
     <td> Emergency contingency plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42302" data-uslm-ref="/us/usc/t49/s42302">42302.</a>  </td>
 
     <td> Consumer complaints.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 42303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42303" data-uslm-ref="/us/usc/t49/s42303">42303.</a>  </td>
 
     <td> Use of insecticides in passenger aircraft.  </td>
 
@@ -101,7 +101,7 @@
 
 >     The advisory committee established under this section shall terminate on September 30, 2015.”
 
- __Disclosure of Seat Dimensions to Facilitate the Use of Child Safety Seats on Aircraft__ 
+ __Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft__ 
 
 [Pub. L. 112–95, title IV, § 412][/us/pl/112/95/s412], Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that: 
 

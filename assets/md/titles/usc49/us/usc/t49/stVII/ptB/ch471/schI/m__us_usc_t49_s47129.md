@@ -137,7 +137,7 @@ These set out the date of enactment of 49:47129.
 
     Subsec. (d)(1)(A) to (C). [Pub. L. 112–95, § 148(a)(4)][/us/pl/112/95/s148/a/4], substituted “air carrier or foreign air carrier” for “air carrier” wherever appearing.
 
-    Subsec. (d)(2). [Pub. L. 112–95, § 148(a)(3)][/us/pl/112/95/s148/a/3]–(5), inserted “and foreign air carrier” after “carrier” in heading, and, in text, substituted “air carrier’s or foreign air carrier’s” for “air carrier’s” in two places and “air carrier or foreign air carrier” for “air carrier”.
+    Subsec. (d)(2). [Pub. L. 112–95, § 148(a)(3)][/us/pl/112/95/s148/a/3]–(5), inserted “and foreign air carrier” after “carrier” in heading and, in text, substituted “air carrier’s or foreign air carrier’s” for “air carrier’s” in two places and “air carrier or foreign air carrier” for “air carrier”.
 
     Subsec. (e)(1). [Pub. L. 112–95, § 148(a)(6)][/us/pl/112/95/s148/a/6], substituted “air carriers or foreign air carriers” for “air carriers”.
 

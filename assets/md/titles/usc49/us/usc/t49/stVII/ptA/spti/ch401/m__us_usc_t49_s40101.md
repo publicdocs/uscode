@@ -419,6 +419,10 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–27, § 1][/us/pl/113/27/s1], Aug. 9, 2013, [127 Stat. 503][/us/stat/127/503], provided that: 
+
+> “This Act \[enacting [section 44927 of this title][/us/usc/t49/s44927]\] may be cited as the ‘Helping Heroes Fly Act’.”
+
 [Pub. L. 112–271, § 1][/us/pl/112/271/s1], Jan. 14, 2013, [126 Stat. 2446][/us/stat/126/2446], provided that: 
 
 > “This Act \[amending [section 44945 of this title][/us/usc/t49/s44945]\] may be cited as the ‘Clothe a Homeless Hero Act’.”
@@ -3231,6 +3235,9 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/113/27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27%2Fs1
+[/us/stat/127/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F503
+[/us/usc/t49/s44927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927
 [/us/pl/112/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271%2Fs1
 [/us/stat/126/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2446
 [/us/usc/t49/s44945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44945

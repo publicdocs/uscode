@@ -149,7 +149,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 313(f); added Nov. 18, 1988,
 
  __Amendments__ 
 
-    2012—Subsec. (e). [Pub. L. 112–95][/us/pl/112/95] designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    2012—Subsec. (e). [Pub. L. 112–95][/us/pl/112/95] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     1994—Subsec. (e). [Pub. L. 103–429][/us/pl/103/429] added subsec. (e).
 

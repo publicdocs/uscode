@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41501" data-uslm-ref="/us/usc/t49/s41501">41501.</a>  </td>
 
     <td> Establishing reasonable prices, classifications, rules, practices, and divisions of joint prices for foreign air transportation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 41502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41502" data-uslm-ref="/us/usc/t49/s41502">41502.</a>  </td>
 
     <td> Establishing joint prices for through routes with other carriers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 41503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41503" data-uslm-ref="/us/usc/t49/s41503">41503.</a>  </td>
 
     <td> Establishing joint prices for through routes provided by State authorized carriers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 41504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41504" data-uslm-ref="/us/usc/t49/s41504">41504.</a>  </td>
 
     <td> Tariffs for foreign air transportation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 41505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41505" data-uslm-ref="/us/usc/t49/s41505">41505.</a>  </td>
 
     <td> Uniform methods for establishing joint prices, and divisions of joint prices, applicable to commuter air carriers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 41506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41506" data-uslm-ref="/us/usc/t49/s41506">41506.</a>  </td>
 
     <td> Price division filing requirements for foreign air transportation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 41507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41507" data-uslm-ref="/us/usc/t49/s41507">41507.</a>  </td>
 
     <td> Authority of the Secretary of Transportation to change prices, classifications, rules, and practices for foreign air transportation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 41508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41508" data-uslm-ref="/us/usc/t49/s41508">41508.</a>  </td>
 
     <td> Authority of the Secretary of Transportation to adjust divisions of joint prices for foreign air transportation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 41509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41509" data-uslm-ref="/us/usc/t49/s41509">41509.</a>  </td>
 
     <td> Authority of the Secretary of Transportation to suspend, cancel, and reject tariffs for foreign air transportation.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 41510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41510" data-uslm-ref="/us/usc/t49/s41510">41510.</a>  </td>
 
     <td> Required adherence to foreign air transportation tariffs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 41511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41511" data-uslm-ref="/us/usc/t49/s41511">41511.</a>  </td>
 
     <td> Special prices for foreign air transportation.  </td>
 

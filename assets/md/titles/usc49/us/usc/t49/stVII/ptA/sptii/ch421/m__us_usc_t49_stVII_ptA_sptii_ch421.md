@@ -33,7 +33,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42101" data-uslm-ref="/us/usc/t49/s42101">42101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42102" data-uslm-ref="/us/usc/t49/s42102">42102.</a>  </td>
 
     <td> Payments to eligible protected employees.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42103" data-uslm-ref="/us/usc/t49/s42103">42103.</a>  </td>
 
     <td> Duty to hire protected employees.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42104" data-uslm-ref="/us/usc/t49/s42104">42104.</a>  </td>
 
     <td> Congressional review of regulations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42105" data-uslm-ref="/us/usc/t49/s42105">42105.</a>  </td>
 
     <td> Airline Employees Protective Account.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EMPLOYEE PROTECTION PROGRAM  <sup>[1]</sup>  <sup><sup> 1 Sub
 
   <tr>
 
-    <td> 42106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42106" data-uslm-ref="/us/usc/t49/s42106">42106.</a>  </td>
 
     <td> Ending effective date.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—MUTUAL AID AGREEMENTS AND LABOR REQUIREMENTS OF AIR CARRIERS  </
 
   <tr>
 
-    <td> 42111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42111" data-uslm-ref="/us/usc/t49/s42111">42111.</a>  </td>
 
     <td> Mutual aid agreements.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—MUTUAL AID AGREEMENTS AND LABOR REQUIREMENTS OF AIR CARRIERS  </
 
   <tr>
 
-    <td> 42112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42112" data-uslm-ref="/us/usc/t49/s42112">42112.</a>  </td>
 
     <td> Labor requirements of air carriers.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—WHISTLEBLOWER PROTECTION PROGRAM  </td>
 
   <tr>
 
-    <td> 42121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs42121" data-uslm-ref="/us/usc/t49/s42121">42121.</a>  </td>
 
     <td> Protection of employees providing air safety information.  </td>
 

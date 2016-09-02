@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstX%2Fch801" data-uslm-ref="/us/usc/t49/stX/ch801">801.</a>  </td>
 
     <td> Bills of Lading  </td>
 
-    <td> 80101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80101" data-uslm-ref="/us/usc/t49/s80101">80101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstX%2Fch803" data-uslm-ref="/us/usc/t49/stX/ch803">803.</a>  </td>
 
     <td> Contraband  </td>
 
-    <td> 80301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80301" data-uslm-ref="/us/usc/t49/s80301">80301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstX%2Fch805" data-uslm-ref="/us/usc/t49/stX/ch805">805.</a>  </td>
 
     <td> Miscellaneous  </td>
 
-    <td> 80501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80501" data-uslm-ref="/us/usc/t49/s80501">80501</a>  </td>
 
   </tr>
 

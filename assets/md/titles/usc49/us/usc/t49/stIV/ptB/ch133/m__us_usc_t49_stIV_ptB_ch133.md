@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 13301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13301" data-uslm-ref="/us/usc/t49/s13301">13301.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 13302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13302" data-uslm-ref="/us/usc/t49/s13302">13302.</a>  </td>
 
     <td> Intervention.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 13303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13303" data-uslm-ref="/us/usc/t49/s13303">13303.</a>  </td>
 
     <td> Service of notice in proceedings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 13304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13304" data-uslm-ref="/us/usc/t49/s13304">13304.</a>  </td>
 
     <td> Service of process in court proceedings.  </td>
 

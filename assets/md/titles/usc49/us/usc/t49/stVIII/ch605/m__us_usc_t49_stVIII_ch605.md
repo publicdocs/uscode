@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 60501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs60501" data-uslm-ref="/us/usc/t49/s60501">60501.</a>  </td>
 
     <td> Secretary of Energy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 60502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs60502" data-uslm-ref="/us/usc/t49/s60502">60502.</a>  </td>
 
     <td> Federal Energy Regulatory Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 60503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs60503" data-uslm-ref="/us/usc/t49/s60503">60503.</a>  </td>
 
     <td> Effect of enactment.  </td>
 

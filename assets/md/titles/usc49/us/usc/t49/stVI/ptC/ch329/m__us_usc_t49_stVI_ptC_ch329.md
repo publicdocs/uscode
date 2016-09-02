@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 32901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32901" data-uslm-ref="/us/usc/t49/s32901">32901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32902" data-uslm-ref="/us/usc/t49/s32902">32902.</a>  </td>
 
     <td> Average fuel economy standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 32903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32903" data-uslm-ref="/us/usc/t49/s32903">32903.</a>  </td>
 
     <td> Credits for exceeding average fuel economy standards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 32904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32904" data-uslm-ref="/us/usc/t49/s32904">32904.</a>  </td>
 
     <td> Calculation of average fuel economy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 32905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32905" data-uslm-ref="/us/usc/t49/s32905">32905.</a>  </td>
 
     <td> Manufacturing incentives for alternative fuel automobiles.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 32906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32906" data-uslm-ref="/us/usc/t49/s32906">32906.</a>  </td>
 
     <td> Maximum fuel economy increase for alternative fuel automobiles.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 32907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32907" data-uslm-ref="/us/usc/t49/s32907">32907.</a>  </td>
 
     <td> Reports and tests of manufacturers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 32908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32908" data-uslm-ref="/us/usc/t49/s32908">32908.</a>  </td>
 
     <td> Fuel economy information.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 32909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32909" data-uslm-ref="/us/usc/t49/s32909">32909.</a>  </td>
 
     <td> Judicial review of regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 32910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32910" data-uslm-ref="/us/usc/t49/s32910">32910.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 32911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32911" data-uslm-ref="/us/usc/t49/s32911">32911.</a>  </td>
 
     <td> Compliance.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 32912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32912" data-uslm-ref="/us/usc/t49/s32912">32912.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 32913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32913" data-uslm-ref="/us/usc/t49/s32913">32913.</a>  </td>
 
     <td> Compromising and remitting civil penalties.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 32914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32914" data-uslm-ref="/us/usc/t49/s32914">32914.</a>  </td>
 
     <td> Collecting civil penalties.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 32915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32915" data-uslm-ref="/us/usc/t49/s32915">32915.</a>  </td>
 
     <td> Appealing civil penalties.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 32916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32916" data-uslm-ref="/us/usc/t49/s32916">32916.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 32917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32917" data-uslm-ref="/us/usc/t49/s32917">32917.</a>  </td>
 
     <td> Standards for executive agency automobiles.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 32918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32918" data-uslm-ref="/us/usc/t49/s32918">32918.</a>  </td>
 
     <td> Retrofit devices.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 32919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32919" data-uslm-ref="/us/usc/t49/s32919">32919.</a>  </td>
 
     <td> Preemption.  </td>
 

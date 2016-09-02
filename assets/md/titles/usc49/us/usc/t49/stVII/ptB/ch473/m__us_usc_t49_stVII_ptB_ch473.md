@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 47301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47301" data-uslm-ref="/us/usc/t49/s47301">47301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 47302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47302" data-uslm-ref="/us/usc/t49/s47302">47302.</a>  </td>
 
     <td> Providing airport and airway property in foreign territories.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 47303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47303" data-uslm-ref="/us/usc/t49/s47303">47303.</a>  </td>
 
     <td> Training foreign citizens.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 47304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47304" data-uslm-ref="/us/usc/t49/s47304">47304.</a>  </td>
 
     <td> Transfer of airport and airway property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 47305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47305" data-uslm-ref="/us/usc/t49/s47305">47305.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 47306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs47306" data-uslm-ref="/us/usc/t49/s47306">47306.</a>  </td>
 
     <td> Criminal penalty.  </td>
 

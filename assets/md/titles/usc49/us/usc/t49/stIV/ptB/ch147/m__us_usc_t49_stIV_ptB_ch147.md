@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14701" data-uslm-ref="/us/usc/t49/s14701">14701.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14702" data-uslm-ref="/us/usc/t49/s14702">14702.</a>  </td>
 
     <td> Enforcement by the regulatory authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14703" data-uslm-ref="/us/usc/t49/s14703">14703.</a>  </td>
 
     <td> Enforcement by the Attorney General.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14704" data-uslm-ref="/us/usc/t49/s14704">14704.</a>  </td>
 
     <td> Rights and remedies of persons injured by carriers or brokers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14705" data-uslm-ref="/us/usc/t49/s14705">14705.</a>  </td>
 
     <td> Limitation on actions by and against carriers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14706" data-uslm-ref="/us/usc/t49/s14706">14706.</a>  </td>
 
     <td> Liability of carriers under receipts and bills of lading.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14707" data-uslm-ref="/us/usc/t49/s14707">14707.</a>  </td>
 
     <td> Private enforcement of registration requirement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 14708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14708" data-uslm-ref="/us/usc/t49/s14708">14708.</a>  </td>
 
     <td> Dispute settlement program for household goods carriers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 14709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14709" data-uslm-ref="/us/usc/t49/s14709">14709.</a>  </td>
 
     <td> Tariff reconciliation rules for motor carriers of property.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 14710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14710" data-uslm-ref="/us/usc/t49/s14710">14710.</a>  </td>
 
     <td> Enforcement of Federal laws and regulations with respect to transportation of household goods.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 14711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14711" data-uslm-ref="/us/usc/t49/s14711">14711.</a>  </td>
 
     <td> Enforcement by State attorneys general.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 32501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32501" data-uslm-ref="/us/usc/t49/s32501">32501.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32502" data-uslm-ref="/us/usc/t49/s32502">32502.</a>  </td>
 
     <td> Bumper standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 32503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32503" data-uslm-ref="/us/usc/t49/s32503">32503.</a>  </td>
 
     <td> Judicial review of bumper standards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 32504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32504" data-uslm-ref="/us/usc/t49/s32504">32504.</a>  </td>
 
     <td> Certificates of compliance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 32505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32505" data-uslm-ref="/us/usc/t49/s32505">32505.</a>  </td>
 
     <td> Information and compliance requirements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 32506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32506" data-uslm-ref="/us/usc/t49/s32506">32506.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 32507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32507" data-uslm-ref="/us/usc/t49/s32507">32507.</a>  </td>
 
     <td> Penalties and enforcement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 32508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32508" data-uslm-ref="/us/usc/t49/s32508">32508.</a>  </td>
 
     <td> Civil actions by owners of passenger motor vehicles.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 32509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32509" data-uslm-ref="/us/usc/t49/s32509">32509.</a>  </td>
 
     <td> Information and assistance from other departments, agencies, and instrumentalities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [32510.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32510" data-uslm-ref="/us/usc/t49/s32510">32510.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 32511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32511" data-uslm-ref="/us/usc/t49/s32511">32511.</a>  </td>
 
     <td> Relationship to other motor vehicle standards.  </td>
 

@@ -113,9 +113,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 26(b)(8) (related to subsecti
 
  __Amendments__ 
 
-    Subsec. (a). [Pub. L. 112–141, § 20030(b)(1)][/us/pl/112/141/s20030/b/1], which directed striking out “subsections (a)(5)(C)(iii) and (d)(1) of section 5338” and inserting section “5338(c)”, was executed by inserting “section 5338(c)” to reflect the probable intent of Congress.
+    2012—Subsec. (a). [Pub. L. 112–141, § 20030(b)(2)][/us/pl/112/141/s20030/b/2], struck out “of Transportation” after “The Secretary”.
 
-    [Pub. L. 112–141, § 20030(b)(2)][/us/pl/112/141/s20030/b/2], struck out “of Transportation” after “The Secretary”.
+    [Pub. L. 112–141, § 20030(b)(1)][/us/pl/112/141/s20030/b/1], which directed striking out “subsections (a)(5)(C)(iii) and (d)(1) of section 5338” and inserting section “5338(c)”, was executed by making the strike out and inserting “section 5338(c)” to reflect the probable intent of Congress.
 
     2005—[Pub. L. 109–59, § 3015(b)(1)][/us/pl/109/59/s3015/b/1], substituted “Transit cooperative research program” for “State planning and research programs” in section catchline.
 
@@ -150,8 +150,8 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 26(b)(8) (related to subsecti
 [/us/stat/119/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1545
 [/us/pl/112/141/s20030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fb
 [/us/stat/126/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F730
-[/us/pl/112/141/s20030/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fb%2F1
 [/us/pl/112/141/s20030/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fb%2F2
+[/us/pl/112/141/s20030/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fb%2F1
 [/us/pl/109/59/s3015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3015%2Fb%2F1
 [/us/pl/109/59/s3015/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3015%2Fa%2F2
 [/us/usc/t49/s5338/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338%2Fc

@@ -33,7 +33,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs501" data-uslm-ref="/us/usc/t49/s501">501.</a>  </td>
 
     <td> Definitions and application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs502" data-uslm-ref="/us/usc/t49/s502">502.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs503" data-uslm-ref="/us/usc/t49/s503">503.</a>  </td>
 
     <td> Service of notice and process on certain motor carriers of migrant workers and on motor private carriers.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs504" data-uslm-ref="/us/usc/t49/s504">504.</a>  </td>
 
     <td> Reports and records.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs505" data-uslm-ref="/us/usc/t49/s505">505.</a>  </td>
 
     <td> Arrangements and public records.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs506" data-uslm-ref="/us/usc/t49/s506">506.</a>  </td>
 
     <td> Authority to investigate.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs507" data-uslm-ref="/us/usc/t49/s507">507.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—POWERS  </td>
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs508" data-uslm-ref="/us/usc/t49/s508">508.</a>  </td>
 
     <td> Safety performance history of new drivers; limitation on liability.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs521" data-uslm-ref="/us/usc/t49/s521">521.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs522" data-uslm-ref="/us/usc/t49/s522">522.</a>  </td>
 
     <td> Reporting and record keeping violations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs523" data-uslm-ref="/us/usc/t49/s523">523.</a>  </td>
 
     <td> Unlawful disclosure of information.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs524" data-uslm-ref="/us/usc/t49/s524">524.</a>  </td>
 
     <td> Evasion of regulation of motor carriers.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs525" data-uslm-ref="/us/usc/t49/s525">525.</a>  </td>
 
     <td> Disobedience to subpenas. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F112%2F141" data-uslm-ref="/us/pl/112/141">Pub. L. 112–141</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—PENALTIES  </td>
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs526" data-uslm-ref="/us/usc/t49/s526">526.</a>  </td>
 
     <td> General criminal penalty when specific penalty not provided.  </td>
 

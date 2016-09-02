@@ -33,7 +33,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13501" data-uslm-ref="/us/usc/t49/s13501">13501.</a>  </td>
 
     <td> General jurisdiction.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13502" data-uslm-ref="/us/usc/t49/s13502">13502.</a>  </td>
 
     <td> Exempt transportation between Alaska and other States.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13503" data-uslm-ref="/us/usc/t49/s13503">13503.</a>  </td>
 
     <td> Exempt motor vehicle transportation in terminal areas.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13504" data-uslm-ref="/us/usc/t49/s13504">13504.</a>  </td>
 
     <td> Exempt motor carrier transportation entirely in one State.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13505" data-uslm-ref="/us/usc/t49/s13505">13505.</a>  </td>
 
     <td> Transportation furthering a primary business.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13506" data-uslm-ref="/us/usc/t49/s13506">13506.</a>  </td>
 
     <td> Miscellaneous motor carrier transportation exemptions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13507" data-uslm-ref="/us/usc/t49/s13507">13507.</a>  </td>
 
     <td> Mixed loads of regulated and unregulated property.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—MOTOR CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13508" data-uslm-ref="/us/usc/t49/s13508">13508.</a>  </td>
 
     <td> Limited authority over cooperative associations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—WATER CARRIER TRANSPORTATION  </td>
 
   <tr>
 
-    <td> 13521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13521" data-uslm-ref="/us/usc/t49/s13521">13521.</a>  </td>
 
     <td> General jurisdiction.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—FREIGHT FORWARDER SERVICE  </td>
 
   <tr>
 
-    <td> 13531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13531" data-uslm-ref="/us/usc/t49/s13531">13531.</a>  </td>
 
     <td> General jurisdiction.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—AUTHORITY TO EXEMPT  </td>
 
   <tr>
 
-    <td> 13541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13541" data-uslm-ref="/us/usc/t49/s13541">13541.</a>  </td>
 
     <td> Authority to exempt transportation or services.  </td>
 

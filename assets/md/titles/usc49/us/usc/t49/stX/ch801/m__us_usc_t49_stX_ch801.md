@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 80101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80101" data-uslm-ref="/us/usc/t49/s80101">80101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 80102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80102" data-uslm-ref="/us/usc/t49/s80102">80102.</a>  </td>
 
     <td> Application.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 80103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80103" data-uslm-ref="/us/usc/t49/s80103">80103.</a>  </td>
 
     <td> Negotiable and nonnegotiable bills.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 80104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80104" data-uslm-ref="/us/usc/t49/s80104">80104.</a>  </td>
 
     <td> Form and requirements for negotiation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 80105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80105" data-uslm-ref="/us/usc/t49/s80105">80105.</a>  </td>
 
     <td> Title and rights affected by negotiation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 80106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80106" data-uslm-ref="/us/usc/t49/s80106">80106.</a>  </td>
 
     <td> Transfer without negotiation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 80107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80107" data-uslm-ref="/us/usc/t49/s80107">80107.</a>  </td>
 
     <td> Warranties and liability.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 80108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80108" data-uslm-ref="/us/usc/t49/s80108">80108.</a>  </td>
 
     <td> Alterations and additions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 80109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80109" data-uslm-ref="/us/usc/t49/s80109">80109.</a>  </td>
 
     <td> Liens under negotiable bills.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 80110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80110" data-uslm-ref="/us/usc/t49/s80110">80110.</a>  </td>
 
     <td> Duty to deliver goods.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 80111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80111" data-uslm-ref="/us/usc/t49/s80111">80111.</a>  </td>
 
     <td> Liability for delivery of goods.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 80112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80112" data-uslm-ref="/us/usc/t49/s80112">80112.</a>  </td>
 
     <td> Liability under negotiable bills issued in parts, sets, or duplicates.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 80113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80113" data-uslm-ref="/us/usc/t49/s80113">80113.</a>  </td>
 
     <td> Liability for nonreceipt, misdescription, and improper loading.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 80114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80114" data-uslm-ref="/us/usc/t49/s80114">80114.</a>  </td>
 
     <td> Lost, stolen, and destroyed negotiable bills.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 80115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80115" data-uslm-ref="/us/usc/t49/s80115">80115.</a>  </td>
 
     <td> Limitation on use of judicial process to obtain possession of goods from common carriers.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 80116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80116" data-uslm-ref="/us/usc/t49/s80116">80116.</a>  </td>
 
     <td> Criminal penalty.  </td>
 

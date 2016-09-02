@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 32301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32301" data-uslm-ref="/us/usc/t49/s32301">32301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32302" data-uslm-ref="/us/usc/t49/s32302">32302.</a>  </td>
 
     <td> Passenger motor vehicle information.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 32303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32303" data-uslm-ref="/us/usc/t49/s32303">32303.</a>  </td>
 
     <td> Insurance information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 32304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32304" data-uslm-ref="/us/usc/t49/s32304">32304.</a>  </td>
 
     <td> Passenger motor vehicle country of origin labeling.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 32304A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32304A" data-uslm-ref="/us/usc/t49/s32304A">32304A.</a>  </td>
 
     <td> Consumer tire information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 32305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32305" data-uslm-ref="/us/usc/t49/s32305">32305.</a>  </td>
 
     <td> Information and assistance from other departments, agencies, and instrumentalities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 32306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32306" data-uslm-ref="/us/usc/t49/s32306">32306.</a>  </td>
 
     <td> Personnel.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 32307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32307" data-uslm-ref="/us/usc/t49/s32307">32307.</a>  </td>
 
     <td> Investigative powers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 32308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32308" data-uslm-ref="/us/usc/t49/s32308">32308.</a>  </td>
 
     <td> General prohibitions, civil penalty, and enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 32309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32309" data-uslm-ref="/us/usc/t49/s32309">32309.</a>  </td>
 
     <td> Civil penalty for labeling violations.  </td>
 

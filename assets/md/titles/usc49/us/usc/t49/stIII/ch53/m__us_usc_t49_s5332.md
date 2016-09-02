@@ -189,7 +189,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 19; added Nov. 6, 1978, Pub. 
 
  __Amendments__ 
 
-    2002—Subsec. (b). [Pub. L. 112–141, § 20023(a)(1)][/us/pl/112/141/s20023/a/1], substituted “religion” for “creed” and inserted “disability,” after “sex,”.
+    2012—Subsec. (b). [Pub. L. 112–141, § 20023(a)(1)][/us/pl/112/141/s20023/a/1], substituted “religion” for “creed” and inserted “disability,” after “sex,”.
 
     Subsec. (c)(1). [Pub. L. 112–141, § 20030(g)][/us/pl/112/141/s20030/g], struck out “of Transportation” after “Secretary”.
 

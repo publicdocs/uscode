@@ -33,7 +33,7 @@ SUBCHAPTER I—CIVIL PENALTIES  </td>
 
   <tr>
 
-    <td> 21301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21301" data-uslm-ref="/us/usc/t49/s21301">21301.</a>  </td>
 
     <td> Chapter 201 general violations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CIVIL PENALTIES  </td>
 
   <tr>
 
-    <td> 21302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21302" data-uslm-ref="/us/usc/t49/s21302">21302.</a>  </td>
 
     <td> Chapter 201 accident and incident violations and chapter 203–209 violations.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CIVIL PENALTIES  </td>
 
   <tr>
 
-    <td> 21303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21303" data-uslm-ref="/us/usc/t49/s21303">21303.</a>  </td>
 
     <td> Chapter 211 violations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CIVIL PENALTIES  </td>
 
   <tr>
 
-    <td> 21304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21304" data-uslm-ref="/us/usc/t49/s21304">21304.</a>  </td>
 
     <td> Willfulness requirement for penalties against individuals.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—CRIMINAL PENALTIES  </td>
 
   <tr>
 
-    <td> 21311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21311" data-uslm-ref="/us/usc/t49/s21311">21311.</a>  </td>
 
     <td> Records and reports.  </td>
 

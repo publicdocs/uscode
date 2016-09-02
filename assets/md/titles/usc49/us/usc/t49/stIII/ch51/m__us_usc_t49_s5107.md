@@ -243,7 +243,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 
  __Amendments__ 
 
-    2012—Subsec. (e)(2). [Pub. L. 112–141][/us/pl/112/141] inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit”.
+    2012—Subsec. (e)(2). [Pub. L. 112–141][/us/pl/112/141] inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
 
     2005—Subsecs. (a) to (d). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
 

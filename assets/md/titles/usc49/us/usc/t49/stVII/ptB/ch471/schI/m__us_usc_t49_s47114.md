@@ -73,7 +73,7 @@
 
             Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.
 
-                (2) __Cargo airports.—__ 
+        (2) __Cargo airports.—__ 
 
             (A) __Apportionment.—__ 
 

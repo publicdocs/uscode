@@ -699,7 +699,7 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 
     The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-    The Federal Public Transportation Act of 2005, referred to in subsec. (j)(6), is title III of [Pub. L. 109–59][/us/pl/109/59], Aug. 10, 2005, [119 Stat. 1544][/us/stat/119/1544]. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
+    The Federal Public Transportation Act of 2012, referred to in subsec. (j)(6), is div. B of [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 622][/us/stat/126/622]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
 
  __Amendments__ 
 
@@ -830,8 +830,8 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/stat/119/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1544
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244

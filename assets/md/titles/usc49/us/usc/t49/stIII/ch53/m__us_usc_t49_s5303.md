@@ -949,7 +949,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(p); added Nov. 6, 1978, Pub
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally substituting provisions consisting of subsecs. (a) to (q) for former provisions consisting of subsecs. (a) to (p).
+    2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally, substituting provisions consisting of subsecs. (a) to (q), including requirement to submit report on performance-based processes, for former provisions consisting of subsecs. (a) to (p).
 
     2008—Subsec. (f)(3)(C)(ii)(II). [Pub. L. 110–244, § 201(b)(1)][/us/pl/110/244/s201/b/1], added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under [section 202 of title 23][/us/usc/t23/s202] shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10701" data-uslm-ref="/us/usc/t49/s10701">10701.</a>  </td>
 
     <td> Standards for rates, classifications, through routes, rules, and practices.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10702" data-uslm-ref="/us/usc/t49/s10702">10702.</a>  </td>
 
     <td> Authority for rail carriers to establish rates, classifications, rules, and practices.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10703" data-uslm-ref="/us/usc/t49/s10703">10703.</a>  </td>
 
     <td> Authority for rail carriers to establish through routes.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10704" data-uslm-ref="/us/usc/t49/s10704">10704.</a>  </td>
 
     <td> Authority and criteria: rates, classifications, rules, and practices prescribed by Board.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10705" data-uslm-ref="/us/usc/t49/s10705">10705.</a>  </td>
 
     <td> Authority: through routes, joint classifications, rates, and divisions prescribed by Board.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10706" data-uslm-ref="/us/usc/t49/s10706">10706.</a>  </td>
 
     <td> Rate agreements: exemption from antitrust laws.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10707" data-uslm-ref="/us/usc/t49/s10707">10707.</a>  </td>
 
     <td> Determination of market dominance in rail rate proceedings.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10708" data-uslm-ref="/us/usc/t49/s10708">10708.</a>  </td>
 
     <td> Rail cost adjustment factor.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL AUTHORITY  </td>
 
   <tr>
 
-    <td> 10709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10709" data-uslm-ref="/us/usc/t49/s10709">10709.</a>  </td>
 
     <td> Contracts.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—SPECIAL CIRCUMSTANCES  </td>
 
   <tr>
 
-    <td> 10721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10721" data-uslm-ref="/us/usc/t49/s10721">10721.</a>  </td>
 
     <td> Government traffic.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SPECIAL CIRCUMSTANCES  </td>
 
   <tr>
 
-    <td> 10722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10722" data-uslm-ref="/us/usc/t49/s10722">10722.</a>  </td>
 
     <td> Car utilization.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10741" data-uslm-ref="/us/usc/t49/s10741">10741.</a>  </td>
 
     <td> Prohibitions against discrimination by rail carriers.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10742" data-uslm-ref="/us/usc/t49/s10742">10742.</a>  </td>
 
     <td> Facilities for interchange of traffic.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10743" data-uslm-ref="/us/usc/t49/s10743">10743.</a>  </td>
 
     <td> Liability for payment of rates.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10744" data-uslm-ref="/us/usc/t49/s10744">10744.</a>  </td>
 
     <td> Continuous carriage of freight.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10745" data-uslm-ref="/us/usc/t49/s10745">10745.</a>  </td>
 
     <td> Transportation services or facilities furnished by shipper.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10746" data-uslm-ref="/us/usc/t49/s10746">10746.</a>  </td>
 
     <td> Demurrage charges.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—LIMITATIONS  </td>
 
   <tr>
 
-    <td> 10747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs10747" data-uslm-ref="/us/usc/t49/s10747">10747.</a>  </td>
 
     <td> Designation of certain routes by shippers.  </td>
 

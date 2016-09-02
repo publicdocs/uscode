@@ -405,9 +405,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
  __Amendments__ 
 
-    2012—Subsec. (d). [Pub. L. 112–218, § 2(b)][/us/pl/112/218/s2/b], substituted “explosives” for “explosive” wherever appearing.
-
-    [Pub. L. 112–218, § 2(b)][/us/pl/112/218/s2/b],which directed amendment of this section by substituting “explosives” for “explosive” wherever appearing, was executed by substituting “Explosives” for “Explosive” in subsec. (d) heading, to reflect the probable intent of Congress.
+    2012—Subsec. (d). [Pub. L. 112–218, § 2(b)][/us/pl/112/218/s2/b], which directed substitution of “explosives” for “explosive” wherever appearing in this section, was executed in subsec. (d) by making such substitution wherever appearing in text as well as by substituting “Explosives” for “Explosive” in heading, to reflect the probable intent of Congress.
 
     Subsec. (d)(4). [Pub. L. 112–218, § 2(a)][/us/pl/112/218/s2/a], added par. (4).
 
@@ -886,7 +884,6 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1602%2Fb
 [/us/stat/121/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F479
-[/us/pl/112/218/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218%2Fs2%2Fb
 [/us/pl/112/218/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218%2Fs2%2Fb
 [/us/pl/112/218/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218%2Fs2%2Fa
 [/us/pl/112/218/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218%2Fs2%2Fb

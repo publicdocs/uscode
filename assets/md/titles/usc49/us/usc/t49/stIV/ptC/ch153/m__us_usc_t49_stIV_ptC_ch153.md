@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15301" data-uslm-ref="/us/usc/t49/s15301">15301.</a>  </td>
 
     <td> General pipeline jurisdiction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 15302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15302" data-uslm-ref="/us/usc/t49/s15302">15302.</a>  </td>
 
     <td> Authority to exempt pipeline carrier transportation.  </td>
 

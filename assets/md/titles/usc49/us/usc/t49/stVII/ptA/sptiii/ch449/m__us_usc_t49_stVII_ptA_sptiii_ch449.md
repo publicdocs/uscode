@@ -33,7 +33,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44901" data-uslm-ref="/us/usc/t49/s44901">44901.</a>  </td>
 
     <td> Screening passengers and property.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44902" data-uslm-ref="/us/usc/t49/s44902">44902.</a>  </td>
 
     <td> Refusal to transport passengers and property.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44903" data-uslm-ref="/us/usc/t49/s44903">44903.</a>  </td>
 
     <td> Air transportation security.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44904" data-uslm-ref="/us/usc/t49/s44904">44904.</a>  </td>
 
     <td> Domestic air transportation system security.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44905" data-uslm-ref="/us/usc/t49/s44905">44905.</a>  </td>
 
     <td> Information about threats to civil aviation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44906" data-uslm-ref="/us/usc/t49/s44906">44906.</a>  </td>
 
     <td> Foreign air carrier security programs.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44907" data-uslm-ref="/us/usc/t49/s44907">44907.</a>  </td>
 
     <td> Security standards at foreign airports.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44908" data-uslm-ref="/us/usc/t49/s44908">44908.</a>  </td>
 
     <td> Travel advisory and suspension of foreign assistance.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44909" data-uslm-ref="/us/usc/t49/s44909">44909.</a>  </td>
 
     <td> Passenger manifests.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44910" data-uslm-ref="/us/usc/t49/s44910">44910.</a>  </td>
 
     <td> Agreements on aircraft sabotage, aircraft hijacking, and airport security.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44911" data-uslm-ref="/us/usc/t49/s44911">44911.</a>  </td>
 
     <td> Intelligence.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44912" data-uslm-ref="/us/usc/t49/s44912">44912.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44913" data-uslm-ref="/us/usc/t49/s44913">44913.</a>  </td>
 
     <td> Explosive detection.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44914" data-uslm-ref="/us/usc/t49/s44914">44914.</a>  </td>
 
     <td> Airport construction guidelines.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44915" data-uslm-ref="/us/usc/t49/s44915">44915.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44916" data-uslm-ref="/us/usc/t49/s44916">44916.</a>  </td>
 
     <td> Assessments and evaluations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44917" data-uslm-ref="/us/usc/t49/s44917">44917.</a>  </td>
 
     <td> Deployment of Federal air marshals.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44918" data-uslm-ref="/us/usc/t49/s44918">44918.</a>  </td>
 
     <td> Crew training.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44919" data-uslm-ref="/us/usc/t49/s44919">44919.</a>  </td>
 
     <td> Security screening pilot program.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44920" data-uslm-ref="/us/usc/t49/s44920">44920.</a>  </td>
 
     <td> Security screening opt-out program.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44921" data-uslm-ref="/us/usc/t49/s44921">44921.</a>  </td>
 
     <td> Federal flight deck officer program.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44922" data-uslm-ref="/us/usc/t49/s44922">44922.</a>  </td>
 
     <td> Deputation of State and local law enforcement officers.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44923" data-uslm-ref="/us/usc/t49/s44923">44923.</a>  </td>
 
     <td> Airport security improvement projects.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44924" data-uslm-ref="/us/usc/t49/s44924">44924.</a>  </td>
 
     <td> Repair station security.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44925" data-uslm-ref="/us/usc/t49/s44925">44925.</a>  </td>
 
     <td> Deployment and use of detection equipment at airport screening checkpoints.  </td>
 
@@ -233,9 +233,17 @@ SUBCHAPTER I—REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 44926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44926" data-uslm-ref="/us/usc/t49/s44926">44926.</a>  </td>
 
     <td> Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44927" data-uslm-ref="/us/usc/t49/s44927">44927.</a>  </td>
+
+    <td> Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans.  </td>
 
   </tr>
 
@@ -249,7 +257,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> [44931, 44932.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44931" data-uslm-ref="/us/usc/t49/s44931">44931</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44932" data-uslm-ref="/us/usc/t49/s44932">44932.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -257,7 +265,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44933" data-uslm-ref="/us/usc/t49/s44933">44933.</a>  </td>
 
     <td> Federal Security Managers.  </td>
 
@@ -265,7 +273,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44934" data-uslm-ref="/us/usc/t49/s44934">44934.</a>  </td>
 
     <td> Foreign Security Liaison Officers.  </td>
 
@@ -273,7 +281,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44935" data-uslm-ref="/us/usc/t49/s44935">44935.</a>  </td>
 
     <td> Employment standards and training.  </td>
 
@@ -281,7 +289,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44936" data-uslm-ref="/us/usc/t49/s44936">44936.</a>  </td>
 
     <td> Employment investigations and restrictions.  </td>
 
@@ -289,7 +297,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44937" data-uslm-ref="/us/usc/t49/s44937">44937.</a>  </td>
 
     <td> Prohibition on transferring duties and powers.  </td>
 
@@ -297,7 +305,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44938" data-uslm-ref="/us/usc/t49/s44938">44938.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -305,7 +313,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44939" data-uslm-ref="/us/usc/t49/s44939">44939.</a>  </td>
 
     <td> Training to operate certain aircraft.  </td>
 
@@ -313,7 +321,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44940" data-uslm-ref="/us/usc/t49/s44940">44940.</a>  </td>
 
     <td> Security service fee.  </td>
 
@@ -321,7 +329,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44941" data-uslm-ref="/us/usc/t49/s44941">44941.</a>  </td>
 
     <td> Immunity for reporting suspicious activities.  </td>
 
@@ -329,7 +337,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44942" data-uslm-ref="/us/usc/t49/s44942">44942.</a>  </td>
 
     <td> Performance goals and objectives. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F107%2F71" data-uslm-ref="/us/pl/107/71">Pub. L. 107–71</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -337,7 +345,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44943" data-uslm-ref="/us/usc/t49/s44943">44943.</a>  </td>
 
     <td> Performance management system. <sup>[1]</sup>   </td>
 
@@ -345,7 +353,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44944" data-uslm-ref="/us/usc/t49/s44944">44944.</a>  </td>
 
     <td> Voluntary provision of emergency services.  </td>
 
@@ -353,7 +361,7 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
   <tr>
 
-    <td> 44945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs44945" data-uslm-ref="/us/usc/t49/s44945">44945.</a>  </td>
 
     <td> Disposition of unclaimed money and clothing.  </td>
 
@@ -363,7 +371,9 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–271, § 2(b)][/us/pl/112/271/s2/b], Jan. 14, 2013, [126 Stat. 2447][/us/stat/126/2447], substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
+    2013—[Pub. L. 113–27, § 2(b)][/us/pl/113/27/s2/b], Aug. 9, 2013, [127 Stat. 504][/us/stat/127/504], which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
+
+    [Pub. L. 112–271, § 2(b)][/us/pl/112/271/s2/b], Jan. 14, 2013, [126 Stat. 2447][/us/stat/126/2447], substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
 
     2007—[Pub. L. 110–53, title XVI, § 1606(b)][/us/pl/110/53/s1606/b], Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], added item 44926.
 
@@ -390,6 +400,8 @@ SUBCHAPTER II—ADMINISTRATION AND PERSONNEL  </td>
 ----------
 ----------
 
+[/us/pl/113/27/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27%2Fs2%2Fb
+[/us/stat/127/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F504
 [/us/pl/112/271/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F271%2Fs2%2Fb
 [/us/stat/126/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2447
 [/us/pl/110/53/s1606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1606%2Fb

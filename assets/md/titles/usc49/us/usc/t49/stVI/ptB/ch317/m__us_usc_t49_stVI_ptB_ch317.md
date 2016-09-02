@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31701" data-uslm-ref="/us/usc/t49/s31701">31701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [31702, 31703.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31702" data-uslm-ref="/us/usc/t49/s31702">31702</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31703" data-uslm-ref="/us/usc/t49/s31703">31703.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 31704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31704" data-uslm-ref="/us/usc/t49/s31704">31704.</a>  </td>
 
     <td> Vehicle registration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 31705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31705" data-uslm-ref="/us/usc/t49/s31705">31705.</a>  </td>
 
     <td> Fuel use tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 31706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31706" data-uslm-ref="/us/usc/t49/s31706">31706.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 31707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31707" data-uslm-ref="/us/usc/t49/s31707">31707.</a>  </td>
 
     <td> Limitations on statutory construction.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [31708.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31708" data-uslm-ref="/us/usc/t49/s31708">31708.</a>  </td>
 
     <td> Repealed.]  </td>
 

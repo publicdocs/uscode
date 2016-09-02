@@ -45,7 +45,7 @@
 
              An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-                (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or chapter 451, or [section 46314(a) of this title][/us/usc/t49/s46314/a]; or
+                (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “or” probably should not appear. </sup></sup>  chapter 451, or [section 46314(a) of this title][/us/usc/t49/s46314/a]; or
 
                 (ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -67,7 +67,7 @@
 
             (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
-        (6) __Failure To__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __Collect__  __ <sup>\[__  __1__  __\]</sup> __  __Airport__  __ <sup>\[__  __1__  __\]</sup> __  __Security__  __ <sup>\[__  __1__  __\]</sup> __  __Badges__  __ <sup>\[__  __1__  __\]</sup> __  __.—__ 
+        (6) __Failure To__  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __Collect__  __ <sup>\[__  __2__  __\]</sup> __  __Airport__  __ <sup>\[__  __2__  __\]</sup> __  __Security__  __ <sup>\[__  __2__  __\]</sup> __  __Badges__  __ <sup>\[__  __2__  __\]</sup> __  __.—__ 
 
         Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 

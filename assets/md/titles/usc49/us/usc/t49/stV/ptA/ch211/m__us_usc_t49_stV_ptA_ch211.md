@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21101" data-uslm-ref="/us/usc/t49/s21101">21101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 21102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21102" data-uslm-ref="/us/usc/t49/s21102">21102.</a>  </td>
 
     <td> Nonapplication, exemption, and alternate hours of service regime.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 21103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21103" data-uslm-ref="/us/usc/t49/s21103">21103.</a>  </td>
 
     <td> Limitations on duty hours of train employees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 21104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21104" data-uslm-ref="/us/usc/t49/s21104">21104.</a>  </td>
 
     <td> Limitations on duty hours of signal employees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 21105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21105" data-uslm-ref="/us/usc/t49/s21105">21105.</a>  </td>
 
     <td> Limitations on duty hours of dispatching service employees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 21106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21106" data-uslm-ref="/us/usc/t49/s21106">21106.</a>  </td>
 
     <td> Limitations on employee sleeping quarters.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 21107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21107" data-uslm-ref="/us/usc/t49/s21107">21107.</a>  </td>
 
     <td> Maximum duty hours and subjects of collective bargaining.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 21108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21108" data-uslm-ref="/us/usc/t49/s21108">21108.</a>  </td>
 
     <td> Pilot projects.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 21109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs21109" data-uslm-ref="/us/usc/t49/s21109">21109.</a>  </td>
 
     <td> Regulatory authority.  </td>
 

@@ -103,7 +103,7 @@
 
  __Amendments__ 
 
-    2012—Subsec. (f)(2). [Pub. L. 112–95][/us/pl/112/95] substituted “University transportation center” for “Eligible consortium” in heading and substituted “a university transportation center” for “an eligible consortium” in text.
+    2012—Subsec. (f)(2). [Pub. L. 112–95][/us/pl/112/95] substituted “University transportation center” for “Eligible consortium” in heading and “a university transportation center” for “an eligible consortium” in text.
 
  __Effective Date__ 
 

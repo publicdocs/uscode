@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 28301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs28301" data-uslm-ref="/us/usc/t49/s28301">28301.</a>  </td>
 
     <td> General.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 28302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs28302" data-uslm-ref="/us/usc/t49/s28302">28302.</a>  </td>
 
     <td> Penalties.  </td>
 

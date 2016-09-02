@@ -49,7 +49,7 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–95, § 152(d)(1)][/us/pl/112/95/s152/d/1], struck out “47102(3)(F),” after “40117(a)(3)(G),”.
+    2012—Subsec. (a). [Pub. L. 112–95, § 152(d)(1)][/us/pl/112/95/s152/d/1], struck out “47102(3)(F),” after “40117(a)(3)(G),” in introductory provisions.
 
     Subsec. (b). [Pub. L. 112–95, § 152(d)(2)][/us/pl/112/95/s152/d/2], struck out “47102(3)(F),” after “grant for a project described in section” and “47103(3)(F),” after “40117(a)(3)(G),”.
 

@@ -189,7 +189,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], §§ 20025(a)(1), 20030(j), struck out “of Transportation” after “the Secretary” and substituted “public transportation financial, operating, and asset condition information” for “public transportation financial and operating information”.
 
-    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], §§ 20025(a)(2), added subsec. (c).
+    Subsec. (c). [Pub. L. 112–141, § 20025(a)(2)][/us/pl/112/141/s20025/a/2], added subsec. (c).
 
     2005—[Pub. L. 109–59, § 3033(a)][/us/pl/109/59/s3033/a], substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under [section 5307 of this title][/us/usc/t49/s5307]” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former [section 5307(b)(5) of this title][/us/usc/t49/s5307/b/5].
 
@@ -248,7 +248,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub.
 [/us/stat/126/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F718
 [/us/pl/104/287/s5/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F18
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/s20025/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20025%2Fa%2F2
 [/us/pl/109/59/s3033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3033%2Fa
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
 [/us/usc/t49/s5307/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307%2Fb%2F5

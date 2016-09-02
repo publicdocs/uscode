@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31301" data-uslm-ref="/us/usc/t49/s31301">31301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 31302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31302" data-uslm-ref="/us/usc/t49/s31302">31302.</a>  </td>
 
     <td> Commercial driver’s license requirement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 31303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31303" data-uslm-ref="/us/usc/t49/s31303">31303.</a>  </td>
 
     <td> Notification requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 31304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31304" data-uslm-ref="/us/usc/t49/s31304">31304.</a>  </td>
 
     <td> Employer responsibilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 31305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31305" data-uslm-ref="/us/usc/t49/s31305">31305.</a>  </td>
 
     <td> General driver fitness, testing, and training.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 31306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31306" data-uslm-ref="/us/usc/t49/s31306">31306.</a>  </td>
 
     <td> Alcohol and controlled substances testing.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 31306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31306a" data-uslm-ref="/us/usc/t49/s31306a">31306a.</a>  </td>
 
     <td> National clearinghouse for positive controlled substance and alcohol test results of commercial motor vehicle operators. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 31307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31307" data-uslm-ref="/us/usc/t49/s31307">31307.</a>  </td>
 
     <td> Minimum training requirements for operators of longer combination vehicles.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 31308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31308" data-uslm-ref="/us/usc/t49/s31308">31308.</a>  </td>
 
     <td> Commercial driver’s license.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 31309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31309" data-uslm-ref="/us/usc/t49/s31309">31309.</a>  </td>
 
     <td> Commercial driver’s license information system.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 31310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31310" data-uslm-ref="/us/usc/t49/s31310">31310.</a>  </td>
 
     <td> Disqualifications.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 31311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31311" data-uslm-ref="/us/usc/t49/s31311">31311.</a>  </td>
 
     <td> Requirements for State participation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 31312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31312" data-uslm-ref="/us/usc/t49/s31312">31312.</a>  </td>
 
     <td> Decertification authority.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 31313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31313" data-uslm-ref="/us/usc/t49/s31313">31313.</a>  </td>
 
     <td> Grants for commercial driver’s license program implementation.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 31314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31314" data-uslm-ref="/us/usc/t49/s31314">31314.</a>  </td>
 
     <td> Withholding amounts for State noncompliance.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 31315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31315" data-uslm-ref="/us/usc/t49/s31315">31315.</a>  </td>
 
     <td> Waivers, exemptions, and pilot programs.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 31316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31316" data-uslm-ref="/us/usc/t49/s31316">31316.</a>  </td>
 
     <td> Limitation on statutory construction.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 31317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31317" data-uslm-ref="/us/usc/t49/s31317">31317.</a>  </td>
 
     <td> Procedure for prescribing regulations.  </td>
 

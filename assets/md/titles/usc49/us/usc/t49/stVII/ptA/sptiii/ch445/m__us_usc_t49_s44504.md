@@ -257,7 +257,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c) as a Center of Excellence for Coal-to-Jet-Fuel Research.”
 
- __Research and Development of Equipment to Clean and Monitor the Engine and APU Bleed Air Supplied on Pressurized Aircraft__ 
+ __Research and Development of Equipment To Clean and Monitor the Engine and APU Bleed Air Supplied on Pressurized Aircraft__ 
 
 [Pub. L. 112–95, title IX, § 917][/us/pl/112/95/s917], Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
 

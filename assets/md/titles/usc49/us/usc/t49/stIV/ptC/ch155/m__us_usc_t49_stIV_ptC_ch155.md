@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15501" data-uslm-ref="/us/usc/t49/s15501">15501.</a>  </td>
 
     <td> Standards for pipeline rates, classifications, through routes, rules, and practices.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 15502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15502" data-uslm-ref="/us/usc/t49/s15502">15502.</a>  </td>
 
     <td> Authority for pipeline carriers to establish rates, classifications, rules, and practices.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 15503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15503" data-uslm-ref="/us/usc/t49/s15503">15503.</a>  </td>
 
     <td> Authority and criteria: rates, classifications, rules, and practices prescribed by Board.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 15504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15504" data-uslm-ref="/us/usc/t49/s15504">15504.</a>  </td>
 
     <td> Government traffic.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 15505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15505" data-uslm-ref="/us/usc/t49/s15505">15505.</a>  </td>
 
     <td> Prohibition against discrimination by pipeline carriers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 15506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs15506" data-uslm-ref="/us/usc/t49/s15506">15506.</a>  </td>
 
     <td> Facilities for interchange of traffic.  </td>
 

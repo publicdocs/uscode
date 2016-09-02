@@ -581,7 +581,7 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally, substituting pars. (1) to (23) for former provisions consisting of subsecs. (a) and (b).
+    2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally, substituting pars. (1) to (23) for former provisions defining terms for this chapter consisting of subsecs. (a) and (b).
 
     2008—Subsec. (a)(10). [Pub. L. 110–244][/us/pl/110/244] substituted “charter, sightseeing,” for “charter,”.
 
@@ -653,7 +653,7 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by that section is effective Sept. 30, 1994.
+    [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(c) is effective Sept. 30, 1994.
 
  __Effective Date of 1995 Amendment__ 
 

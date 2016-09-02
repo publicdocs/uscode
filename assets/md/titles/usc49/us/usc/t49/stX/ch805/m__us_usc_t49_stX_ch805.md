@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 80501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80501" data-uslm-ref="/us/usc/t49/s80501">80501.</a>  </td>
 
     <td> Damage to transported property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 80502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80502" data-uslm-ref="/us/usc/t49/s80502">80502.</a>  </td>
 
     <td> Transportation of animals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 80503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80503" data-uslm-ref="/us/usc/t49/s80503">80503.</a>  </td>
 
     <td> Payments for inspection and quarantine services.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 80504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80504" data-uslm-ref="/us/usc/t49/s80504">80504.</a>  </td>
 
     <td> Medals of honor.  </td>
 

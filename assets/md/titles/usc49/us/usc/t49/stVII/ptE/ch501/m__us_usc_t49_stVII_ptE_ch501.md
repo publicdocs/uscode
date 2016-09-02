@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs50101" data-uslm-ref="/us/usc/t49/s50101">50101.</a>  </td>
 
     <td> Buying goods produced in the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs50102" data-uslm-ref="/us/usc/t49/s50102">50102.</a>  </td>
 
     <td> Restricting contract awards because of discrimination against United States goods or services.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs50103" data-uslm-ref="/us/usc/t49/s50103">50103.</a>  </td>
 
     <td> Contract preference for domestic firms.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 50104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs50104" data-uslm-ref="/us/usc/t49/s50104">50104.</a>  </td>
 
     <td> Restriction on airport projects using products or services of foreign countries denying fair market opportunities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 50105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs50105" data-uslm-ref="/us/usc/t49/s50105">50105.</a>  </td>
 
     <td> Fraudulent use of “Made in America” label.  </td>
 

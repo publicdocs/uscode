@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 13701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13701" data-uslm-ref="/us/usc/t49/s13701">13701.</a>  </td>
 
     <td> Requirements for reasonable rates, classifications, through routes, rules, and practices for certain transportation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 13702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13702" data-uslm-ref="/us/usc/t49/s13702">13702.</a>  </td>
 
     <td> Tariff requirement for certain transportation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 13703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13703" data-uslm-ref="/us/usc/t49/s13703">13703.</a>  </td>
 
     <td> Certain collective activities; exemption from antitrust laws.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 13704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13704" data-uslm-ref="/us/usc/t49/s13704">13704.</a>  </td>
 
     <td> Household goods rates—estimates; guarantees of service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 13705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13705" data-uslm-ref="/us/usc/t49/s13705">13705.</a>  </td>
 
     <td> Requirements for through routes among motor carriers of passengers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 13706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13706" data-uslm-ref="/us/usc/t49/s13706">13706.</a>  </td>
 
     <td> Liability for payment of rates.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 13707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13707" data-uslm-ref="/us/usc/t49/s13707">13707.</a>  </td>
 
     <td> Payment of rates.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 13708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13708" data-uslm-ref="/us/usc/t49/s13708">13708.</a>  </td>
 
     <td> Billing and collecting practices.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 13709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13709" data-uslm-ref="/us/usc/t49/s13709">13709.</a>  </td>
 
     <td> Procedures for resolving claims involving unfiled, negotiated transportation rates.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 13710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13710" data-uslm-ref="/us/usc/t49/s13710">13710.</a>  </td>
 
     <td> Additional billing and collecting practices.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 13711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13711" data-uslm-ref="/us/usc/t49/s13711">13711.</a>  </td>
 
     <td> Alternative procedure for resolving undercharge disputes.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 13712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13712" data-uslm-ref="/us/usc/t49/s13712">13712.</a>  </td>
 
     <td> Government traffic.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 13713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs13713" data-uslm-ref="/us/usc/t49/s13713">13713.</a>  </td>
 
     <td> Food and grocery transportation.  </td>
 

@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
+    2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
  __Effective Date of 2012 Amendment__ 
 

@@ -39,7 +39,7 @@
 
             Subparagraph (A) shall not apply to reporting and recordkeeping violations.
 
-                (2) __Civil Penalty.—__ 
+        (2) __Civil Penalty.—__ 
 
             (A) __In general.—__ 
 
@@ -75,19 +75,17 @@
 
             A motor carrier or employer (as defined in section 31132) that operates a commercial motor vehicle in commerce in violation of a prohibition on transportation under [section 31144(c) of this title][/us/usc/t49/s31144/c] or an imminent hazard out of service order issued under subsection (b)(5) of this section or [section 5121(d) of this title][/us/usc/t49/s5121/d] shall be liable for a civil penalty not to exceed $25,000.
 
-                (3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
+        (3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
-                (4) Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States in the appropriate district court of the United States or, before referral to the Attorney General, such civil penalty may be compromised by the Secretary.
+        (4) Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States in the appropriate district court of the United States or, before referral to the Attorney General, such civil penalty may be compromised by the Secretary.
 
-                (5)
+        (5)
 
             (A) If, upon inspection or investigation, the Secretary determines that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title or a regulation issued under any of those provisions, or combination of such violations, poses an imminent hazard to safety, the Secretary shall order a vehicle or employee operating such vehicle out of service, or order an employer to cease all or part of the employer’s commercial motor vehicle operations. In making any such order, the Secretary shall impose no restriction on any employee or employer beyond that required to abate the hazard. Subsequent to the issuance of the order, opportunity for review shall be provided in accordance with [section 554 of title 5][/us/usc/t5/s554], except that such review shall occur not later than 10 days after issuance of such order.
 
-            (B)
+            (B) In this paragraph, “imminent hazard” means any condition of vehicle, employee, or commercial motor vehicle operations which substantially increases the likelihood of serious injury or death if not discontinued immediately.
 
-             In this paragraph, “imminent hazard” means any condition of vehicle, employee, or commercial motor vehicle operations which substantially increases the likelihood of serious injury or death if not discontinued immediately.
-
-                (6) __Criminal Penalties.—__ 
+        (6) __Criminal Penalties.—__ 
 
             (A) __In general.—__ 
 
@@ -103,9 +101,9 @@
 
                 shall, upon conviction, be subject for each offense to a fine not to exceed $5,000 or imprisonment for a term not to exceed 90 days, or both.
 
-                (7) The Secretary shall issue regulations establishing penalty schedules designed to induce timely compliance for persons failing to comply promptly with the requirements set forth in any notices and orders under this subsection.
+        (7) The Secretary shall issue regulations establishing penalty schedules designed to induce timely compliance for persons failing to comply promptly with the requirements set forth in any notices and orders under this subsection.
 
-                (8) __Prohibition on operation in interstate commerce after nonpayment of penalties.—__ 
+        (8) __Prohibition on operation in interstate commerce after nonpayment of penalties.—__ 
 
             (A) __In general.—__ 
 
@@ -115,19 +113,19 @@
 
             Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and an opportunity for public comment, shall issue regulations setting forth procedures for ordering commercial motor vehicle owners and operators delinquent in paying civil penalties to cease operations until payment has been made.
 
-                (9) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary’s findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
+        (9) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary’s findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
 
-                (10) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
+        (10) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
 
-                (11) In any action brought under this section, process may be served without regard to the territorial limits of the district of the State in which the action is brought.
+        (11) In any action brought under this section, process may be served without regard to the territorial limits of the district of the State in which the action is brought.
 
-                (12) In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, trial shall be by the court, or, upon demand of the accused, by a jury, conducted in accordance with the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
+        (12) In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, trial shall be by the court, or, upon demand of the accused, by a jury, conducted in accordance with the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
 
-                (13) The provisions of this subsection shall not affect chapter 51 of this title or any regulation promulgated by the Secretary under chapter 51.
+        (13) The provisions of this subsection shall not affect chapter 51 of this title or any regulation promulgated by the Secretary under chapter 51.
 
-                (14) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under [section 31132 of this title][/us/usc/t49/s31132].
+        (14) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under [section 31132 of this title][/us/usc/t49/s31132].
 
-                (15) __Impoundment of commercial motor vehicles.—__ 
+        (15) __Impoundment of commercial motor vehicles.—__ 
 
             (A) __Enforcement of imminent hazard out-of-service orders.—__ 
 

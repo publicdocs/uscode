@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16101" data-uslm-ref="/us/usc/t49/s16101">16101.</a>  </td>
 
     <td> General civil penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 16102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16102" data-uslm-ref="/us/usc/t49/s16102">16102.</a>  </td>
 
     <td> Recordkeeping and reporting violations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 16103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16103" data-uslm-ref="/us/usc/t49/s16103">16103.</a>  </td>
 
     <td> Unlawful disclosure of information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 16104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16104" data-uslm-ref="/us/usc/t49/s16104">16104.</a>  </td>
 
     <td> Disobedience to subpenas.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 16105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16105" data-uslm-ref="/us/usc/t49/s16105">16105.</a>  </td>
 
     <td> General criminal penalty when specific penalty not provided.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 16106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs16106" data-uslm-ref="/us/usc/t49/s16106">16106.</a>  </td>
 
     <td> Punishment of corporation for violations committed by certain individuals.  </td>
 

@@ -21,7 +21,7 @@
 
     (b) __Effect of Judicial Order.—__ 
 
-        (1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of [Public Law 104–264][/us/pl/104/264]; [110 Stat. 3274][/us/stat/110/3274]) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to [section 49108 of this title][/us/usc/t49/s49108] from the day after the day the order is issued.
+        (1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of [Public Law 104–264][/us/pl/104/264]; [110 Stat. 3274][/us/stat/110/3274]) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title from the day after the day the order is issued.
 
         (2) Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 ([Public Law 99–500][/us/pl/99/500]; [100 Stat. 1783–380][/us/stat/100/1783-380]; [Public Law 99–599][/us/pl/99/599]; [100 Stat. 3341–383][/us/stat/100/3341-383]) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
 
@@ -158,7 +158,6 @@ Oct. 9, 1996, Pub. L. 104–264, title IX, § 904(d), 110 Stat. 3276.  </td>
 
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/stat/110/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3274
-[/us/usc/t49/s49108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs49108
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-380
 [/us/pl/99/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F599

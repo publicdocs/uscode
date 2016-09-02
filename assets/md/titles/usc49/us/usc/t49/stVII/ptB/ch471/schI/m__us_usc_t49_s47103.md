@@ -165,11 +165,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 504(d)(1), 96 Stat. 676; Dec. 30, 1987, Pu
 
     Subsec. (a)(2). [Pub. L. 112–95, § 152(a)(1)(C)][/us/pl/112/95/s152/a/1/C], substituted period at end for “; and”.
 
-    Subsec. (a)(3). [Pub. L. 112–95, § 152(a)(1)(D)][/us/pl/112/95/s152/a/1/D], struck out par. (3), which read as follows: “forecasted developments in other modes of intercity transportation.”
+    Subsec. (a)(3). [Pub. L. 112–95, § 152(a)(1)(D)][/us/pl/112/95/s152/a/1/D], struck out par. (3) which read as follows: “forecasted developments in other modes of intercity transportation.”
 
-    Subsec. (b)(1). [Pub. L. 112–95, § 152(a)(2)(A)][/us/pl/112/95/s152/a/2/A], substituted “; and” for semicolon.
-
-    Subsec. (b)(2), (3). [Pub. L. 112–95, § 152(a)(2)(B)][/us/pl/112/95/s152/a/2/B], (C), redesignated par. (3) as (2), struck out “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,” after “air cargo operations”, and struck out former par. (2) which read as follows: “consider tall structures that reduce safety or airport capacity; and”.
+    Subsec. (b). [Pub. L. 112–95, § 152(a)(2)][/us/pl/112/95/s152/a/2], inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,” after “air cargo operations”, and struck out former par. (2) which read as follows: “consider tall structures that reduce safety or airport capacity; and”.
 
     Subsec. (d). [Pub. L. 112–95, § 152(a)(3)][/us/pl/112/95/s152/a/3], struck out “status of the” before “plan”.
 
@@ -188,8 +186,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 504(d)(1), 96 Stat. 676; Dec. 30, 1987, Pu
 [/us/pl/112/95/s152/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FB
 [/us/pl/112/95/s152/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FC
 [/us/pl/112/95/s152/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F1%2FD
-[/us/pl/112/95/s152/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F2%2FA
-[/us/pl/112/95/s152/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F2%2FB
+[/us/pl/112/95/s152/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F2
 [/us/pl/112/95/s152/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs152%2Fa%2F3
 
 

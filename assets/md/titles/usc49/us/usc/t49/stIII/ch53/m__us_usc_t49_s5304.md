@@ -541,11 +541,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 
  __References in Text__ 
 
-    The Clean Air Act, referred to in subsecs. (b)(2) and (g)(5)(D)(iii), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
+    The Clean Air Act, referred to in subsecs. (b)(2) and (g)(5)(D)(iii), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Part D of title I of the Act is classified generally to part D (§ 7501 et seq.) of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
     The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (h)(2)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-    The National Environmental Policy Act of 1969, referred to in subsec. (j), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. Part D of title I of the Act is classified generally to part D (§ 7501 et seq.) of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969, referred to in subsec. (j), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
  __Amendments__ 
 

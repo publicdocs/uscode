@@ -493,7 +493,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pu
 
  __References in Text__ 
 
-    Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsecs. (a)(1), (2)(B), is [section 20005(b) of Pub. L. 112–141][/us/pl/112/141/s20005/b], which is set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
+    Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsec. (a)(1), (2)(B), is [section 20005(b) of Pub. L. 112–141][/us/pl/112/141/s20005/b], which is set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
 
     Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (i)(1)(D), is [section 601 of div. B of Pub. L. 110–432][/us/pl/110/432/s601], Oct. 16, 2008, [122 Stat. 4968][/us/stat/122/4968], which is not classified to the Code.
 
@@ -603,11 +603,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pu
 
     [Pub. L. 112–102, § 306(c)(1)][/us/pl/112/102/s306/c/1], substituted “through 2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and 2010, $69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
 
-    Subsec. (d)(3). [Pub. L. 112–141, § 113006(c)(2)][/us/pl/112/141/s113006/c/2], added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program.
+    Subsec. (d)(3). [Pub. L. 112–141, § 113006(c)(2)][/us/pl/112/141/s113006/c/2], added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to June 30, 2012.
 
-    [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 306(c)(2), temporarily added par. (3) which provided additional authorizations for research and the university centers program for the period beginning on Oct. 1, 2011, and ending on July 6, 2012, and temporarily struck out former par. (3) which provided additional authorizations for research and the university centers program for the period beginning on Oct. 1, 2011, and ending on June 30, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+    [Pub. L. 112–140][/us/pl/112/140], §§ 1(c), 306(c)(2), temporarily added par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to July 6, 2012, and temporarily struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to June 30, 2012. See Effective and Termination Dates of 2012 Amendment note below.
 
-    [Pub. L. 112–102, § 306(c)(2)][/us/pl/112/102/s306/c/2], added par. (3) and struck out former par. (3) which provided additional authorizations for research and the university centers program.
+    [Pub. L. 112–102, § 306(c)(2)][/us/pl/112/102/s306/c/2], added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to Mar. 31, 2012.
 
     Subsec. (e)(7). [Pub. L. 112–141, § 113006(d)][/us/pl/112/141/s113006/d], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$74,034,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
 

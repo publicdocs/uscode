@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 26101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26101" data-uslm-ref="/us/usc/t49/s26101">26101.</a>  </td>
 
     <td> High-speed rail corridor planning.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 26102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26102" data-uslm-ref="/us/usc/t49/s26102">26102.</a>  </td>
 
     <td> High-speed rail technology improvements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 26103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26103" data-uslm-ref="/us/usc/t49/s26103">26103.</a>  </td>
 
     <td> Safety regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 26104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26104" data-uslm-ref="/us/usc/t49/s26104">26104.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 26105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26105" data-uslm-ref="/us/usc/t49/s26105">26105.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 26106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs26106" data-uslm-ref="/us/usc/t49/s26106">26106.</a>  </td>
 
     <td> High-speed rail corridor development.  </td>
 

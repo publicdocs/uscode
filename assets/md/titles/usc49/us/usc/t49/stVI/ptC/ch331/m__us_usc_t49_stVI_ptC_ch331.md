@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 33101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33101" data-uslm-ref="/us/usc/t49/s33101">33101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 33102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33102" data-uslm-ref="/us/usc/t49/s33102">33102.</a>  </td>
 
     <td> Theft prevention standard for high theft lines.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 33103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33103" data-uslm-ref="/us/usc/t49/s33103">33103.</a>  </td>
 
     <td> Theft prevention standard for other lines.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 33104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33104" data-uslm-ref="/us/usc/t49/s33104">33104.</a>  </td>
 
     <td> Designation of high theft vehicle lines and parts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 33105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33105" data-uslm-ref="/us/usc/t49/s33105">33105.</a>  </td>
 
     <td> Cost limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 33106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33106" data-uslm-ref="/us/usc/t49/s33106">33106.</a>  </td>
 
     <td> Exemption for passenger motor vehicles equipped with anti-theft devices.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 33107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33107" data-uslm-ref="/us/usc/t49/s33107">33107.</a>  </td>
 
     <td> Voluntary vehicle identification standards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 33108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33108" data-uslm-ref="/us/usc/t49/s33108">33108.</a>  </td>
 
     <td> Monitoring compliance of manufacturers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 33109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33109" data-uslm-ref="/us/usc/t49/s33109">33109.</a>  </td>
 
     <td> National Stolen Passenger Motor Vehicle Information System.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 33110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33110" data-uslm-ref="/us/usc/t49/s33110">33110.</a>  </td>
 
     <td> Verifications involving junk and salvage motor vehicles.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 33111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33111" data-uslm-ref="/us/usc/t49/s33111">33111.</a>  </td>
 
     <td> Verifications involving motor vehicle major parts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [33112.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33112" data-uslm-ref="/us/usc/t49/s33112">33112.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 33113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33113" data-uslm-ref="/us/usc/t49/s33113">33113.</a>  </td>
 
     <td> Theft reports.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 33114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33114" data-uslm-ref="/us/usc/t49/s33114">33114.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 33115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33115" data-uslm-ref="/us/usc/t49/s33115">33115.</a>  </td>
 
     <td> Civil penalties and enforcement.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 33116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33116" data-uslm-ref="/us/usc/t49/s33116">33116.</a>  </td>
 
     <td> Confidentiality of information.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 33117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33117" data-uslm-ref="/us/usc/t49/s33117">33117.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 33118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs33118" data-uslm-ref="/us/usc/t49/s33118">33118.</a>  </td>
 
     <td> Preemption of State and local law.  </td>
 

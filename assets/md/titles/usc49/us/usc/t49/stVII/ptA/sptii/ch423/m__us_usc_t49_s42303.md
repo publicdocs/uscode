@@ -25,6 +25,10 @@
 
 (Added [Pub. L. 112–95, title IV, § 415(a)][/us/pl/112/95/s415/a], Feb. 14, 2012, [126 Stat. 95][/us/stat/126/95].)
 
+ __Effective Date__ 
+
+    Requirements of this section to begin to apply 60 days after Feb. 14, 2012, except as otherwise provided, see [section 415(c) of Pub. L. 112–95][/us/pl/112/95/s415/c], set out as a note under [section 42301 of this title][/us/usc/t49/s42301].
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stVII/ptA/sptii/ch423/m__us_usc_t49_s42302.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/sptiii/m__us_usc_t49_stVII_ptA_sptiii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42303)
@@ -34,5 +38,7 @@
 
 [/us/pl/112/95/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fa
 [/us/stat/126/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F95
+[/us/pl/112/95/s415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fc
+[/us/usc/t49/s42301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42301
 
 

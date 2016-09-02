@@ -95,7 +95,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 505(a) (2d sentence), 96 Stat. 676; Jan. 6
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95][/us/pl/112/95] amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal year 2004 through the period beginning Oct. 1, 2011, and ending on Feb. 17, 2012.
+    2012—[Pub. L. 112–95][/us/pl/112/95] amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal years 2004 through 2011 and for the period beginning on Oct. 1, 2011, and ending on Feb. 17, 2012.
 
     Par. (9). [Pub. L. 112–91][/us/pl/112/91] amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
 

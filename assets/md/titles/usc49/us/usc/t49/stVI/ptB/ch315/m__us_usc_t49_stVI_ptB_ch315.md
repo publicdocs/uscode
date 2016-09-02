@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31501" data-uslm-ref="/us/usc/t49/s31501">31501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 31502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31502" data-uslm-ref="/us/usc/t49/s31502">31502.</a>  </td>
 
     <td> Requirements for qualifications, hours of service, safety, and equipment standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 31503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31503" data-uslm-ref="/us/usc/t49/s31503">31503.</a>  </td>
 
     <td> Research, investigation, and testing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 31504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31504" data-uslm-ref="/us/usc/t49/s31504">31504.</a>  </td>
 
     <td> Identification of motor vehicles.  </td>
 

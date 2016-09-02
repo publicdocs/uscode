@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41901" data-uslm-ref="/us/usc/t49/s41901">41901.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 41902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41902" data-uslm-ref="/us/usc/t49/s41902">41902.</a>  </td>
 
     <td> Schedules for certain transportation of mail.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 41903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41903" data-uslm-ref="/us/usc/t49/s41903">41903.</a>  </td>
 
     <td> Duty to provide certain transportation of mail.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 41904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41904" data-uslm-ref="/us/usc/t49/s41904">41904.</a>  </td>
 
     <td> Noncitizens transporting mail to or in foreign countries. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F110%2F405" data-uslm-ref="/us/pl/110/405">Pub. L. 110–405</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 41905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41905" data-uslm-ref="/us/usc/t49/s41905">41905.</a>  </td>
 
     <td> Regulating air carrier transportation of foreign mail. <sup>[2]</sup>  <sup><sup> 2 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F110%2F405" data-uslm-ref="/us/pl/110/405">Pub. L. 110–405</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 41905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41905" data-uslm-ref="/us/usc/t49/s41905">41905.</a>  </td>
 
     <td> Emergency mail transportation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 41907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41907" data-uslm-ref="/us/usc/t49/s41907">41907.</a>  </td>
 
     <td> Prices for foreign transportation of mail. <sup>[2]</sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 41908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41908" data-uslm-ref="/us/usc/t49/s41908">41908.</a>  </td>
 
     <td> Prices for transporting mail of foreign countries. <sup>[2]</sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 41906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41906" data-uslm-ref="/us/usc/t49/s41906">41906.</a>  </td>
 
     <td> Duty to oppose unreasonable prices under the Universal Postal Union Convention.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 41907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41907" data-uslm-ref="/us/usc/t49/s41907">41907.</a>  </td>
 
     <td> Weighing mail.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 41911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41911" data-uslm-ref="/us/usc/t49/s41911">41911.</a>  </td>
 
     <td> Evidence of providing mail service. <sup>[2]</sup>   </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 41908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41908" data-uslm-ref="/us/usc/t49/s41908">41908.</a>  </td>
 
     <td> Effect on foreign postal arrangements.  </td>
 

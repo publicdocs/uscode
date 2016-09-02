@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1101" data-uslm-ref="/us/usc/t49/s1101">1101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1111" data-uslm-ref="/us/usc/t49/s1111">1111.</a>  </td>
 
     <td> General organization.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1112" data-uslm-ref="/us/usc/t49/s1112">1112.</a>  </td>
 
     <td> Special boards of inquiry on air transportation safety.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1113" data-uslm-ref="/us/usc/t49/s1113">1113.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1114" data-uslm-ref="/us/usc/t49/s1114">1114.</a>  </td>
 
     <td> Disclosure, availability, and use of information.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1115" data-uslm-ref="/us/usc/t49/s1115">1115.</a>  </td>
 
     <td> Training.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1116" data-uslm-ref="/us/usc/t49/s1116">1116.</a>  </td>
 
     <td> Reports and studies.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1117" data-uslm-ref="/us/usc/t49/s1117">1117.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1118" data-uslm-ref="/us/usc/t49/s1118">1118.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ORGANIZATION AND ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 1119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1119" data-uslm-ref="/us/usc/t49/s1119">1119.</a>  </td>
 
     <td> Accident and safety data classification and publication.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1131" data-uslm-ref="/us/usc/t49/s1131">1131.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1132" data-uslm-ref="/us/usc/t49/s1132">1132.</a>  </td>
 
     <td> Civil aircraft accident investigations.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1133" data-uslm-ref="/us/usc/t49/s1133">1133.</a>  </td>
 
     <td> Review of other agency action.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1134" data-uslm-ref="/us/usc/t49/s1134">1134.</a>  </td>
 
     <td> Inspections and autopsies.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1135" data-uslm-ref="/us/usc/t49/s1135">1135.</a>  </td>
 
     <td> Secretary of Transportation’s responses to safety recommendations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1136" data-uslm-ref="/us/usc/t49/s1136">1136.</a>  </td>
 
     <td> Assistance to families of passengers involved in aircraft accidents.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1137" data-uslm-ref="/us/usc/t49/s1137">1137.</a>  </td>
 
     <td> Authority of the Inspector General.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1138" data-uslm-ref="/us/usc/t49/s1138">1138.</a>  </td>
 
     <td> Evaluation and audit of National Transportation Safety Board  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—AUTHORITY  </td>
 
   <tr>
 
-    <td> 1139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1139" data-uslm-ref="/us/usc/t49/s1139">1139.</a>  </td>
 
     <td> Assistance to families of passengers involved in rail passenger accidents.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1151" data-uslm-ref="/us/usc/t49/s1151">1151.</a>  </td>
 
     <td> Aviation enforcement.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1152" data-uslm-ref="/us/usc/t49/s1152">1152.</a>  </td>
 
     <td> Joinder and intervention in aviation proceedings.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1153" data-uslm-ref="/us/usc/t49/s1153">1153.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1154" data-uslm-ref="/us/usc/t49/s1154">1154.</a>  </td>
 
     <td> Discovery and use of cockpit and surface vehicle recordings and transcripts.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—ENFORCEMENT AND PENALTIES  </td>
 
   <tr>
 
-    <td> 1155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs1155" data-uslm-ref="/us/usc/t49/s1155">1155.</a>  </td>
 
     <td> Aviation penalties.  </td>
 

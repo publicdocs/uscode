@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 22701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22701" data-uslm-ref="/us/usc/t49/s22701">22701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22702" data-uslm-ref="/us/usc/t49/s22702">22702.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 22703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22703" data-uslm-ref="/us/usc/t49/s22703">22703.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 22704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22704" data-uslm-ref="/us/usc/t49/s22704">22704.</a>  </td>
 
     <td> Transparency; coordination; review.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 22705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22705" data-uslm-ref="/us/usc/t49/s22705">22705.</a>  </td>
 
     <td> Content.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 22706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22706" data-uslm-ref="/us/usc/t49/s22706">22706.</a>  </td>
 
     <td> Review.  </td>
 

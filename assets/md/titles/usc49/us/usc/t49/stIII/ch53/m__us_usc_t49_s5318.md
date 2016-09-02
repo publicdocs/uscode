@@ -203,7 +203,7 @@ Apr. 2, 1987, Pub. L. 100–17, 101 Stat. 132, § 317(b)(6); added Dec. 18, 19
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141][/us/pl/112/141] added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).”.
+    2012—[Pub. L. 112–141][/us/pl/112/141] added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).”
 
     2005—Subsec. (a). [Pub. L. 109–59, § 3020(a)][/us/pl/109/59/s3020/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
 

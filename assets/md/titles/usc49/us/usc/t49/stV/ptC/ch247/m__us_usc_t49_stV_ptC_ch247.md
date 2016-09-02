@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 24701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24701" data-uslm-ref="/us/usc/t49/s24701">24701.</a>  </td>
 
     <td> National rail passenger transportation system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 24702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24702" data-uslm-ref="/us/usc/t49/s24702">24702.</a>  </td>
 
     <td> Transportation requested by States, authorities, and other persons  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [24703 to 24705.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24703" data-uslm-ref="/us/usc/t49/s24703">24703</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24705" data-uslm-ref="/us/usc/t49/s24705">24705.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24706" data-uslm-ref="/us/usc/t49/s24706">24706.</a>  </td>
 
     <td> Discontinuance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [24707, 24708.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24707" data-uslm-ref="/us/usc/t49/s24707">24707</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24708" data-uslm-ref="/us/usc/t49/s24708">24708.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 24709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24709" data-uslm-ref="/us/usc/t49/s24709">24709.</a>  </td>
 
     <td> International transportation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 24710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24710" data-uslm-ref="/us/usc/t49/s24710">24710.</a>  </td>
 
     <td> Long distance routes. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 24711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24711" data-uslm-ref="/us/usc/t49/s24711">24711.</a>  </td>
 
     <td> Alternate passenger rail service pilot program.  </td>
 

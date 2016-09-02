@@ -363,9 +363,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 513(a) (2d sentence), as amended May 26, 1
 
     2012—Subsec. (b)(2)(D). [Pub. L. 112–95, § 138(a)][/us/pl/112/95/s138/a], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;”.
 
-    Subsecs. (b)(7). [Pub. L. 112–95, § 138(b)][/us/pl/112/95/s138/b], added par. (7).
+    Subsec. (b)(7). [Pub. L. 112–95, § 138(b)][/us/pl/112/95/s138/b], added par. (7).
 
-    Subsec. (d). [Pub. L. 112–95, § 138(c)][/us/pl/112/95/s138/c], amended subsec. (d) generally. Prior to amendment, text related to terminal development costs.
+    Subsec. (d). [Pub. L. 112–95, § 138(c)][/us/pl/112/95/s138/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to terminal development costs.
 
     Subsec. (e)(5). [Pub. L. 112–95, § 111(c)(2)(A)(ii)][/us/pl/112/95/s111/c/2/A/ii], substituted “charge” for “fee”.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch701" data-uslm-ref="/us/usc/t49/stIX/ch701">701.</a>  </td>
 
     <td> [Transferred]  </td>
 
@@ -35,7 +35,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703" data-uslm-ref="/us/usc/t49/stIX/ch703">703.</a>  </td>
 
     <td> [Transferred]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 24401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24401" data-uslm-ref="/us/usc/t49/s24401">24401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 24402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24402" data-uslm-ref="/us/usc/t49/s24402">24402.</a>  </td>
 
     <td> Capital investment grants to support intercity passenger rail service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 24403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24403" data-uslm-ref="/us/usc/t49/s24403">24403.</a>  </td>
 
     <td> Project management oversight.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24404" data-uslm-ref="/us/usc/t49/s24404">24404.</a>  </td>
 
     <td> Use of capital grants to finance first-dollar liability of grant project.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 24405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24405" data-uslm-ref="/us/usc/t49/s24405">24405.</a>  </td>
 
     <td> Grant conditions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 24406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24406" data-uslm-ref="/us/usc/t49/s24406">24406.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

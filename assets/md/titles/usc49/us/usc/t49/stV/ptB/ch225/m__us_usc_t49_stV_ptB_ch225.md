@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 22501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22501" data-uslm-ref="/us/usc/t49/s22501">22501.</a>  </td>
 
     <td> Financial assistance to States for certain projects.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22502" data-uslm-ref="/us/usc/t49/s22502">22502.</a>  </td>
 
     <td> Distribution.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 22503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22503" data-uslm-ref="/us/usc/t49/s22503">22503.</a>  </td>
 
     <td> Standards for awarding grants.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 22504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22504" data-uslm-ref="/us/usc/t49/s22504">22504.</a>  </td>
 
     <td> Use of funds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 22505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22505" data-uslm-ref="/us/usc/t49/s22505">22505.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

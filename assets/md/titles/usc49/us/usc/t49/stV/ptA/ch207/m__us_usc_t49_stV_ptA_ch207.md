@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 20701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20701" data-uslm-ref="/us/usc/t49/s20701">20701.</a>  </td>
 
     <td> Requirements for use.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 20702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20702" data-uslm-ref="/us/usc/t49/s20702">20702.</a>  </td>
 
     <td> Inspections, repairs, and inspection and repair reports.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 20703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20703" data-uslm-ref="/us/usc/t49/s20703">20703.</a>  </td>
 
     <td> Accident reports and investigations.  </td>
 

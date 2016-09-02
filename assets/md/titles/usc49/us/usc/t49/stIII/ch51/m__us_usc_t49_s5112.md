@@ -307,7 +307,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(b)(1)–(3), (5)–(9), (c), 88 Stat. 2
 
  __Amendments__ 
 
-    2012—Subsec. (c). [Pub. L. 112–141, § 33013(a)(1)][/us/pl/112/141/s33013/a/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2012—Subsec. (c). [Pub. L. 112–141][/us/pl/112/141] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59] substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
@@ -334,7 +334,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(b)(1)–(3), (5)–(9), (c), 88 Stat. 2
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
 [/us/pl/112/141/s33013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33013%2Fa
 [/us/stat/126/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F839
-[/us/pl/112/141/s33013/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33013%2Fa%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa

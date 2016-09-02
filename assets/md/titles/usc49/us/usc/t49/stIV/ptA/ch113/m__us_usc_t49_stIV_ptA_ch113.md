@@ -33,7 +33,7 @@ SUBCHAPTER I—EQUIPMENT TRUSTS AND SECURITY INTERESTS  </td>
 
   <tr>
 
-    <td> 11301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11301" data-uslm-ref="/us/usc/t49/s11301">11301.</a>  </td>
 
     <td> Equipment trusts: recordation; evidence of indebtedness.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11321" data-uslm-ref="/us/usc/t49/s11321">11321.</a>  </td>
 
     <td> Scope of authority.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11322" data-uslm-ref="/us/usc/t49/s11322">11322.</a>  </td>
 
     <td> Limitation on pooling and division of transportation or earnings.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11323" data-uslm-ref="/us/usc/t49/s11323">11323.</a>  </td>
 
     <td> Consolidation, merger, and acquisition of control.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11324" data-uslm-ref="/us/usc/t49/s11324">11324.</a>  </td>
 
     <td> Consolidation, merger, and acquisition of control: conditions of approval.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11325" data-uslm-ref="/us/usc/t49/s11325">11325.</a>  </td>
 
     <td> Consolidation, merger, and acquisition of control: procedure.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11326" data-uslm-ref="/us/usc/t49/s11326">11326.</a>  </td>
 
     <td> Employee protective arrangements in transactions involving rail carriers.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11327" data-uslm-ref="/us/usc/t49/s11327">11327.</a>  </td>
 
     <td> Supplemental orders.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—COMBINATIONS  </td>
 
   <tr>
 
-    <td> 11328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs11328" data-uslm-ref="/us/usc/t49/s11328">11328.</a>  </td>
 
     <td> Restrictions on officers and directors.  </td>
 

@@ -1139,7 +1139,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
     Subsec. (c)(4), (5). [Pub. L. 112–95, § 135(b)(2)][/us/pl/112/95/s135/b/2], added pars. (4) and (5).
 
-    Subsec. (s)(3). [Pub. L. 112–95, § 404][/us/pl/112/95/s404], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Sunset provision.—This subsection shall cease to be effective beginning February 18, 2012.”
+    Subsec. (s)(3). [Pub. L. 112–95, § 404][/us/pl/112/95/s404], amended par. (3) generally. Prior to amendment, text read as follows: “This subsection shall cease to be effective beginning February 18, 2012.”
 
     [Pub. L. 112–91][/us/pl/112/91] substituted “February 18, 2012.” for “February 1, 2012.”
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 32101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32101" data-uslm-ref="/us/usc/t49/s32101">32101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32102" data-uslm-ref="/us/usc/t49/s32102">32102.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

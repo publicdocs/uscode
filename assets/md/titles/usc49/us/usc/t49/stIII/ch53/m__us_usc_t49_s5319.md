@@ -69,7 +69,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 25; added Apr. 2, 1987, Pub. 
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141][/us/pl/112/141] substituted “sections 5307(e), 5309(h), and 5311(g) of this title” for “sections 5307(d), 5309(l), and 5311(g)” and “made by the” for “of the United States”.
+    2012—[Pub. L. 112–141][/us/pl/112/141] substituted “sections 5307(d), 5309(l), and 5311(g)” for “sections 5307(e), 5309(h), and 5311(g) of this title” and “made by the” for “of the United States”.
 
     2008—[Pub. L. 110–244][/us/pl/110/244] substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
 

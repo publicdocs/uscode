@@ -93,7 +93,7 @@
 
             (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-            (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  from which the member is appointed.
+            (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “the”. </sup></sup>  from which the member is appointed.
 
         (7) Ten votes are required to approve bond issues and the annual budget.
 

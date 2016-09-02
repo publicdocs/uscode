@@ -383,7 +383,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
     Subsec. (f)(1). [Pub. L. 112–95, § 111(c)(2)(A)(i)][/us/pl/112/95/s111/c/2/A/i], substituted “charge” for “fee”.
 
-    Subsec. (f)(2). [Pub. L. 112–95, § 134][/us/pl/112/95/s134], struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities”, and inserted “and” after “ground-side capacity,”.
+    Subsec. (f)(2). [Pub. L. 112–95, § 134][/us/pl/112/95/s134], struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities” and inserted “and” after “ground-side capacity,”.
 
     2003—Subsec. (c)(1)(A)(iii). [Pub. L. 108–176, § 305(1)][/us/pl/108/176/s305/1], inserted “and” after semicolon at end.
 

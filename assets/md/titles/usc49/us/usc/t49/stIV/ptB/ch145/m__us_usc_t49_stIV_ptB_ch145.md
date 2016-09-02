@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14501" data-uslm-ref="/us/usc/t49/s14501">14501.</a>  </td>
 
     <td> Federal authority over intrastate transportation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14502" data-uslm-ref="/us/usc/t49/s14502">14502.</a>  </td>
 
     <td> Tax discrimination against motor carrier transportation property.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14503" data-uslm-ref="/us/usc/t49/s14503">14503.</a>  </td>
 
     <td> Withholding State and local income tax by certain carriers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [14504.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14504" data-uslm-ref="/us/usc/t49/s14504">14504.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14504a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14504a" data-uslm-ref="/us/usc/t49/s14504a">14504a.</a>  </td>
 
     <td> Unified Carrier Registration System plan and agreement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14505" data-uslm-ref="/us/usc/t49/s14505">14505.</a>  </td>
 
     <td> State tax.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs14506" data-uslm-ref="/us/usc/t49/s14506">14506.</a>  </td>
 
     <td> Identification of vehicles.  </td>
 

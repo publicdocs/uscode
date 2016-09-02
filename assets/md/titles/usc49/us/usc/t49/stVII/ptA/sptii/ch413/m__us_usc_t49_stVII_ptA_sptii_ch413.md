@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41301" data-uslm-ref="/us/usc/t49/s41301">41301.</a>  </td>
 
     <td> Requirement for a permit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 41302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41302" data-uslm-ref="/us/usc/t49/s41302">41302.</a>  </td>
 
     <td> Permits of foreign air carriers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 41303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41303" data-uslm-ref="/us/usc/t49/s41303">41303.</a>  </td>
 
     <td> Transfers of permits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 41304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41304" data-uslm-ref="/us/usc/t49/s41304">41304.</a>  </td>
 
     <td> Effective periods and amendments, modifications, suspensions, and revocations of permits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 41305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41305" data-uslm-ref="/us/usc/t49/s41305">41305.</a>  </td>
 
     <td> Applications for permits.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 41306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41306" data-uslm-ref="/us/usc/t49/s41306">41306.</a>  </td>
 
     <td> Simplified procedure to apply for, amend, modify, and suspend permits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 41307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41307" data-uslm-ref="/us/usc/t49/s41307">41307.</a>  </td>
 
     <td> Presidential review of actions about foreign air transportation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 41308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41308" data-uslm-ref="/us/usc/t49/s41308">41308.</a>  </td>
 
     <td> Exemption from the antitrust laws.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 41309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41309" data-uslm-ref="/us/usc/t49/s41309">41309.</a>  </td>
 
     <td> Cooperative agreements and requests.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 41310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41310" data-uslm-ref="/us/usc/t49/s41310">41310.</a>  </td>
 
     <td> Discriminatory practices.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 41311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41311" data-uslm-ref="/us/usc/t49/s41311">41311.</a>  </td>
 
     <td> Gambling restrictions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 41312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41312" data-uslm-ref="/us/usc/t49/s41312">41312.</a>  </td>
 
     <td> Ending or suspending foreign air transportation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 41313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs41313" data-uslm-ref="/us/usc/t49/s41313">41313.</a>  </td>
 
     <td> Plans to address needs of families of passengers involved in foreign air carrier accidents.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 80301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80301" data-uslm-ref="/us/usc/t49/s80301">80301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 80302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80302" data-uslm-ref="/us/usc/t49/s80302">80302.</a>  </td>
 
     <td> Prohibitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 80303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80303" data-uslm-ref="/us/usc/t49/s80303">80303.</a>  </td>
 
     <td> Seizure and forfeiture.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 80304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80304" data-uslm-ref="/us/usc/t49/s80304">80304.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 80305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80305" data-uslm-ref="/us/usc/t49/s80305">80305.</a>  </td>
 
     <td> Availability of certain appropriations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 80306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs80306" data-uslm-ref="/us/usc/t49/s80306">80306.</a>  </td>
 
     <td> Relationship to other laws.  </td>
 

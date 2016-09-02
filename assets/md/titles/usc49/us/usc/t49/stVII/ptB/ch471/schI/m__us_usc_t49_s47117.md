@@ -411,13 +411,13 @@ Sept. 3, 1982, Pub. L. 97–248, § 508(d), as amended May 26, 1994, Pub. L. 1
 
  __References in Text__ 
 
-    The Clean Air Act, referred to in subsec. (e)(1)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
+    The Clean Air Act, referred to in subsec. (e)(1)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
     The Act of June 30, 1948, referred to in subsec. (e)(1)(A), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Amendments__ 
 
-    2012—Subsec. (e)(1)(A). [Pub. L. 112–95][/us/pl/112/95] substituted “At least 35 percent, but not more than $300,000,000,” for “At least 35 percent”, “et seq.), and for water quality mitigation projects to comply with the Act of June 30, 1948 ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.), approved in an environmental record of decision for an airport development project under this title.” for “et seq.).”, and “the requirements of the preceding sentence are” for “such 35 percent requirement is”, and struck out “and” after “47141”.
+    2012—Subsec. (e)(1)(A). [Pub. L. 112–95][/us/pl/112/95] substituted “At least 35 percent, but not more than $300,000,000,” for “At least 35 percent”, “et seq.), and for water quality mitigation projects to comply with the Act of June 30, 1948 ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.), approved in an environmental record of decision for an airport development project under this title.” for “et seq.).”, and “the requirements of the preceding sentence are” for “such 35 percent requirement is” and struck out “and” after “47141,”.
 
     2003—Subsec. (b). [Pub. L. 108–176, § 150][/us/pl/108/176/s150], substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
 

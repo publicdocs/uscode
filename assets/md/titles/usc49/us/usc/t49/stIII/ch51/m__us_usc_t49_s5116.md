@@ -495,11 +495,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(b)][/us/pl/104/287/s6/b], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by that section is effective Aug. 26, 1994.
+    [Pub. L. 104–287, § 6(b)][/us/pl/104/287/s6/b], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by section 6(b) is effective Aug. 26, 1994.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–429, § 7(c)][/us/pl/103/429/s7/c], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], provided that the amendment made by that section is effective Aug. 26, 1994.
+    [Pub. L. 103–429, § 7(c)][/us/pl/103/429/s7/c], Oct. 31, 1994, [108 Stat. 4389][/us/stat/108/4389], provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
 
 ----------
 

@@ -347,9 +347,9 @@
 
     (p) __Limitation on Incorporation of Documents by Reference.—__ 
 
-    Beginning 1 year after the date of enactment of this subsection, the Secretary may not issue guidance or a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge, on an Internet Web site.
+    Beginning 3 years after the date of enactment of this subsection, the Secretary may not issue a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1304][/us/stat/108/1304]; [Pub. L. 104–304][/us/pl/104/304], §§ 4, 20(g), Oct. 12, 1996, [110 Stat. 3794][/us/stat/110/3794], 3805; [Pub. L. 107–355][/us/pl/107/355], §§ 20(a)(1), (2)(A), 23, Dec. 17, 2002, [116 Stat. 3009][/us/stat/116/3009], 3011; [Pub. L. 109–468, § 4][/us/pl/109/468/s4], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90][/us/pl/112/90], §§ 4, 12, 15, 18(b), 24, Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], 1913, 1915, 1916, 1919.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1304][/us/stat/108/1304]; [Pub. L. 104–304][/us/pl/104/304], §§ 4, 20(g), Oct. 12, 1996, [110 Stat. 3794][/us/stat/110/3794], 3805; [Pub. L. 107–355][/us/pl/107/355], §§ 20(a)(1), (2)(A), 23, Dec. 17, 2002, [116 Stat. 3009][/us/stat/116/3009], 3011; [Pub. L. 109–468, § 4][/us/pl/109/468/s4], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90][/us/pl/112/90], §§ 4, 12, 15, 18(b), 24, Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], 1913, 1915, 1916, 1919; [Pub. L. 113–30, § 1][/us/pl/113/30/s1], Aug. 9, 2013, [127 Stat. 510][/us/stat/127/510].)
 
 <table>
 
@@ -829,6 +829,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 
  __Amendments__ 
 
+    2013—Subsec. (p). [Pub. L. 113–30][/us/pl/113/30] substituted “3 years” for “1 year” and struck out “guidance or” before “a regulation” and “, on an Internet Web site” before period at end.
+
     2012—Subsec. (a)(2)(A). [Pub. L. 112–90, § 18(b)][/us/pl/112/90/s18/b], substituted “any or all of the owners or operators” for “owners and operators”.
 
     Subsec. (i). [Pub. L. 112–90, § 15][/us/pl/112/90/s15], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
@@ -932,10 +934,13 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 [/us/stat/120/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3490
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
+[/us/pl/113/30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F30%2Fs1
+[/us/stat/127/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F510
 [/us/usc/t49/s60103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60103
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/113/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F30
 [/us/pl/112/90/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs18%2Fb
 [/us/pl/112/90/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs15
 [/us/pl/112/90/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs4%2F1
