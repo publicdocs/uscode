@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24903" data-uslm-ref="/us/usc/t49/s24903">24903</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24903" data-uslm-ref="/us/usc/t49/s24903">24903.</a>  </td>
 
     <td> General authority.  </td>
 

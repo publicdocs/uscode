@@ -21,22 +21,6 @@
 
     Repeal by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
- __Limitation on Use of Tax Refund__ 
-
-[Pub. L. 105–134, title II][/us/pl/105/134/tII], § 209, Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34], [26 U.S.C. 172][/us/usc/t26/s172] note\]—
-
->         “(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
-
->         “(2) to offset other amounts used for any purpose other than the financing of such expenses.
-
->     “(b)  __Report by ARC__  __.—__ 
-
->     The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997.”
-
  __Reform Board__ 
 
     [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 411(b), Dec. 2, 1997, [111 Stat. 2589][/us/stat/111/2589], provided that provisions authorizing certain appropriations shall cease to be effective if the Reform Board had not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998.
@@ -57,10 +41,6 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/105/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtII
-[/us/stat/111/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2584
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2589
 

@@ -101,17 +101,43 @@
 
     On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 
-    (i)  __Limitation on Sale or Lease of New Vehicles or Equipment__  __.—__ 
+    (i) __Limitation on Sale or Lease of New Vehicles or Equipment, or Rental.—__ 
 
-        (1)
+        (1)  __In general__  __.—__ 
 
-         If notification is required by an order under [section 30118(b) of this title][/us/usc/t49/s30118/b] or is required under [section 30118(c) of this title][/us/usc/t49/s30118/c] and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+        If notification is required by an order under [section 30118(b) of this title][/us/usc/t49/s30118/b] or is required under [section 30118(c) of this title][/us/usc/t49/s30118/c] and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer or rental company may sell, lease, or rent the motor vehicle or item of replacement equipment only if—
 
-            (A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
+            (A) the defect or noncompliance is remedied as required by this section before delivery under the sale, lease, or rental agreement; or
 
             (B) when the notification is required by an order under [section 30118(b) of this title][/us/usc/t49/s30118/b], enforcement of the order is restrained or the order is set aside in a civil action to which [section 30121(d) of this title][/us/usc/t49/s30121/d] applies.
 
-        (2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
+        (2)  __Rule of construction__  __.—__ 
+
+        Nothing in this subsection may be construed to prohibit a dealer or rental company from offering the vehicle or equipment for sale, lease, or rent.
+
+        (3) __Specific rules for rental companies.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Except as otherwise provided under this paragraph, a rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 24 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+            (B)  __Special rule for large vehicle fleets__  __.—__ 
+
+            Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+            (C)  __Special rule for when remedies not immediately available__  __.—__ 
+
+            If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
+
+            (D)  __Inapplicability to junk automobiles__  __.—__ 
+
+            Notwithstanding paragraph (1), this subsection does not prohibit a rental company from selling a covered rental vehicle if such vehicle—
+
+                (i) meets the definition of a junk automobile under section 201 of the Anti-Car Theft Act of 1992 ([49 U.S.C. 30501][/us/usc/t49/s30501]);
+
+                (ii) is retitled as a junk automobile pursuant to applicable State law; and
+
+                (iii) is reported to the National Motor Vehicle Information System, if required under section 204 of such Act ([49 U.S.C. 30504][/us/usc/t49/s30504]).
 
     (j)  __Prohibition on Sales of Replacement Equipment__  __.—__ 
 
@@ -122,50 +148,6 @@
         (2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
 
 ([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 952][/us/stat/108/952]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7106(a), June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 106–414][/us/pl/106/414], §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805][/us/stat/114/1803-1805]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31311, July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], §§ 24107, 24108, 24109(c), 24402, Dec. 4, 2015, [129 Stat. 1705][/us/stat/129/1705], 1706, 1720.)
-
- __Amendment of Subsection (i)__ 
-
-    [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24109(c), (k), Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (i) of this section is amended:
-
-    (1) in the subsection heading, by inserting “, or Rental” at the end;
-
-    (2) in paragraph (1)—
-
-    (A) by striking “(1) If notification” and inserting:
-
-    “(1) In general.—If notification”;
-
-    (B) by indenting subparagraphs (A) and (B) four ems from the left margin;
-
-    (C) by inserting “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification”;
-
-    (D) by striking “the dealer may sell or lease,” and inserting “the dealer or rental company may sell, lease, or rent”; and
-
-    (E) in subparagraph (A), by striking “sale or lease” and inserting “sale, lease, or rental agreement”;
-
-    (3) by amending paragraph (2) to read as follows:
-
-    “(2) Rule of construction.—Nothing in this subsection may be construed to prohibit a dealer or rental company from offering the vehicle or equipment for sale, lease, or rent.”; and
-
-    (4) by adding at the end the following:
-
-    (3) Specific rules for rental companies.—
-
-    (A) In general.—Except as otherwise provided under this paragraph, a rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 24 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
-
-    (B) Special rule for large vehicle fleets.—Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
-
-    (C) Special rule for when remedies not immediately available.—If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
-
-    (D) Inapplicability to junk automobiles.—Notwithstanding paragraph (1), this subsection does not prohibit a rental company from selling a covered rental vehicle if such vehicle—
-
-    (i) meets the definition of a junk automobile under section 201 of the Anti-Car Theft Act of 1992 ([49 U.S.C. 30501][/us/usc/t49/s30501]);
-
-    (ii) is retitled as a junk automobile pursuant to applicable State law; and
-
-    (iii) is reported to the National Motor Vehicle Information System, if required under section 204 of such Act ([49 U.S.C. 30504][/us/usc/t49/s30504]).
-
-    See 2015 Amendment notes below.
 
 <table>
 
@@ -491,6 +473,10 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 
     In subsection (h), the words “any requirement under”, “or to remedy”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
 
+ __References in Text__ 
+
+    Sections 201 and 204 of the Anti-Car Theft Act of 1992, referred to in subsec. (i)(3)(D)(i), (iii), are sections 201 and 204 of [Pub. L. 102–519][/us/pl/102/519], from which sections 30501 and 30504 of this title, respectively, are derived.
+
  __Amendments__ 
 
     2015—Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 24108(1), substituted “180 days” for “60 days” in introductory provisions.
@@ -559,6 +545,8 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 [/us/usc/t49/s30118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fc
 [/us/usc/t49/s30118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118%2Fb
 [/us/usc/t49/s30121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30121%2Fd
+[/us/usc/t49/s30501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30501
+[/us/usc/t49/s30504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30504
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F952
 [/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
@@ -569,10 +557,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 [/us/stat/126/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F771
 [/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1705
-[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
-[/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
-[/us/usc/t49/s30501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30501
-[/us/usc/t49/s30504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30504
+[/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

@@ -301,7 +301,7 @@ June 22, 1988, Pub. L. 100–342, § 11, 102 Stat. 629; Sept. 3, 1992, Pub. L.
 
     “(C) transmit the proposed timetable to the Surface Transportation Board; and
 
-    “(D) at the request of a Commission member, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through non-binding mediation to reach an agreement under this section.”.
+    “(D) at the request of a Commission member, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through non-binding mediation to reach an agreement under this section.”
 
     Subsec. (c)(2). [Pub. L. 114–94][/us/pl/114/94], § 11305(c)(3), substituted “policy developed under” for “formula proposed in”, “paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall” for “the timetable, the Commission shall petition the Surface Transportation Board to”, and “for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable” for “amounts for such services in accordance with [section 24904(c) of this title][/us/usc/t49/s24904/c]”.
 

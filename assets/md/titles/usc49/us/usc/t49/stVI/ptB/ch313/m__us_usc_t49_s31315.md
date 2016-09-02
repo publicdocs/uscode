@@ -167,7 +167,7 @@
 
         (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1029][/us/stat/108/1029]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4007(a), June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32913, July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5202(1), § 5206(a), Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534], 1537.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1029][/us/stat/108/1029]; [Pub. L. 105–178, title IV][/us/pl/105/178/tIV], § 4007(a), June 9, 1998, [112 Stat. 401][/us/stat/112/401]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141/dC/tII], § 32913, July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94/dA/tV], §§ 5202(1), 5206(a), Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534], 1537.)
 
 <table>
 

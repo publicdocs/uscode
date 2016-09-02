@@ -421,7 +421,7 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 [Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], Dec. 18, 2015, [129 Stat. 2839][/us/stat/129/2839], provided in part: 
 
-> “That not later than March 31 of each fiscal year hereafter, the Administrator shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
+> “That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

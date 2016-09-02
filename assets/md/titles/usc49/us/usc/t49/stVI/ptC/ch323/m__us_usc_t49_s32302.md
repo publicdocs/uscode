@@ -181,7 +181,7 @@ Oct. 20, 1972, Pub. L. 92–513, § 201(d), 86 Stat. 956; July 14, 1976, Pub. 
 
 [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24103(d), Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703], provided that: 
 
-> “Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall make available to the public on the Internet detailed guidance for consumers submitting safety complaints, including—
+> “Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall make available to the public on the Internet detailed guidance for consumers submitting safety complaints, including—
 
 >     “(1) a detailed explanation of what information a consumer should include in a complaint; and
 

@@ -247,7 +247,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
 >     “(b)  __Effective Date__  __.—__ 
 
->     The amendments made by subsection (a) of this section \[amending this section\] take effect on the date that the Secretary \[probably means Secretary of Transportation\] certifies to Congress that the National Highway Traffic Safety Administration has issued the final rule required by section 31203(b) of the Moving Ahead for Progress In the 21st Century Act ([Public Law 112–141][/us/pl/112/141]; [126 Stat. 758][/us/stat/126/758]; [49 U.S.C. 30165][/us/usc/t49/s30165] note).
+>     The amendments made by subsection (a) of this section \[amending this section\] take effect on the date that the Secretary certifies to Congress that the National Highway Traffic Safety Administration has issued the final rule required by section 31203(b) of the Moving Ahead for Progress In the 21st Century Act ([Public Law 112–141][/us/pl/112/141]; [126 Stat. 758][/us/stat/126/758]; [49 U.S.C. 30165][/us/usc/t49/s30165] note).
 
 >     “(c)  __Publication of Effective Date__  __.—__ 
 

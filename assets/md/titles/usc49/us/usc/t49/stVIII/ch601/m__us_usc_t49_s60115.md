@@ -37,13 +37,15 @@
 
         (4)
 
-            (A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.
+            (A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph.
 
             (B) At least 3 of the individuals selected for each committee under paragraph (3)(B) of this subsection must be currently in the active operation of natural gas pipelines or hazardous liquid pipeline facilities, as appropriate. At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B).
 
             (C) Two of the individuals selected for each committee under paragraph (3)(C) of this subsection must have education, background, or experience in environmental protection or public safety. At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis. At least one individual selected for each committee under paragraph (3)(C) may not have a financial interest in the pipeline, petroleum, or natural gas industries.
 
             (D) None of the individuals selected for a committee under paragraph (3)(C) may have a significant financial interest in the pipeline, petroleum, or gas industry.
+
+        (5) Within 90 days of the date of enactment of the PIPES Act of 2016, the Secretary shall fill all vacancies on the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, and any other committee established pursuant to this section. After that period, the Secretary shall fill a vacancy on any such committee not later than 60 days after the vacancy occurs.
 
     (c)  __Committee Reports on Proposed Standards__  __.—__ 
 
@@ -73,7 +75,7 @@
 
     A member of a committee under this section is entitled to expenses under [section 5703 of title 5][/us/usc/t5/s5703]. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1319][/us/stat/108/1319]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(m), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–304][/us/pl/104/304], § 10, Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801]; [Pub. L. 107–355][/us/pl/107/355], § 20(b), Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1319][/us/stat/108/1319]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(m), Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–304][/us/pl/104/304], § 10, Oct. 12, 1996, [110 Stat. 3801][/us/stat/110/3801]; [Pub. L. 107–355][/us/pl/107/355], § 20(b), Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010]; [Pub. L. 114–183][/us/pl/114/183], § 6, June 22, 2016, [130 Stat. 518][/us/stat/130/518].)
 
 <table>
 
@@ -371,7 +373,13 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 
     The date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996, referred to in subsec. (a), is the date of enactment of [Pub. L. 104–304][/us/pl/104/304], which was approved Oct. 12, 1996.
 
+    The date of enactment of the PIPES Act of 2016, referred to in subsec. (b)(5), is the date of enactment of [Pub. L. 114–183][/us/pl/114/183], which was approved June 22, 2016.
+
  __Amendments__ 
+
+    2016—Subsec. (b)(4)(A). [Pub. L. 114–183][/us/pl/114/183], § 6(a), substituted “State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph.” for “State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.”
+
+    Subsec. (b)(5). [Pub. L. 114–183][/us/pl/114/183], § 6(b), added par. (5).
 
     2002—Subsec. (b)(4)(D). [Pub. L. 107–355][/us/pl/107/355] added subpar. (D).
 
@@ -419,6 +427,8 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 [/us/stat/110/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3801
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3010
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F518
 [/us/usc/t49/s10344/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10344%2Ff
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
@@ -426,6 +436,9 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 [/us/stat/104/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1442
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304

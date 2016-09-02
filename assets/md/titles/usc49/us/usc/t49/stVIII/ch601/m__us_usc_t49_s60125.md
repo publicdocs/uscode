@@ -19,11 +19,31 @@
 
         (1)  __In general__  __.—__ 
 
-        To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.
+        To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—
+
+            (A) $124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;
+
+            (B) $128,000,000 for fiscal year 2017 of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
+
+            (C) $131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and
+
+            (D) $134,000,000 for fiscal year 2019, of which $9,000,000 shall be expended for carrying out such section 12 and $47,885,000 shall be expended for making grants.
 
         (2)  __Trust fund amounts__  __.—__ 
 
-        In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.
+        In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355])—
+
+            (A) $22,123,000 for fiscal year 2016, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+
+            (B) $22,123,000 for fiscal year 2017, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+
+            (C) $23,000,000 for fiscal year 2018, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants; and
+
+            (D) $23,000,000 for fiscal year 2019, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants.
+
+        (3)  __Underground natural gas storage facility safety account__  __.—__ 
+
+        To carry out section 60141, there is authorized to be appropriated to the Department of Transportation from fees collected under section 60302 $8,000,000 for each of fiscal years 2017 through 2019.
 
     (b) __Emergency Response Grants.—__ 
 
@@ -39,7 +59,7 @@
 
     The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1327][/us/stat/108/1327]; [Pub. L. 104–304][/us/pl/104/304], § 21, Oct. 12, 1996, [110 Stat. 3805][/us/stat/110/3805]; [Pub. L. 107–355][/us/pl/107/355], § 22, Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010]; [Pub. L. 109–468][/us/pl/109/468], § 18(a)–(c), Dec. 29, 2006, [120 Stat. 3497][/us/stat/120/3497], 3498; [Pub. L. 112–90][/us/pl/112/90], § 32(a), (b), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1327][/us/stat/108/1327]; [Pub. L. 104–304][/us/pl/104/304], § 21, Oct. 12, 1996, [110 Stat. 3805][/us/stat/110/3805]; [Pub. L. 107–355][/us/pl/107/355], § 22, Dec. 17, 2002, [116 Stat. 3010][/us/stat/116/3010]; [Pub. L. 109–468][/us/pl/109/468], § 18(a)–(c), Dec. 29, 2006, [120 Stat. 3497][/us/stat/120/3497], 3498; [Pub. L. 112–90][/us/pl/112/90], § 32(a), (b), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922]; [Pub. L. 114–183][/us/pl/114/183], § 2(a), June 22, 2016, [130 Stat. 514][/us/stat/130/514].)
 
 <table>
 
@@ -211,6 +231,12 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 
  __Amendments__ 
 
+    2016—Subsec. (a)(1). [Pub. L. 114–183][/us/pl/114/183], § 2(a)(1), substituted “there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—” for “there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.” and added subpars. (A) to (D).
+
+    Subsec. (a)(2). [Pub. L. 114–183][/us/pl/114/183], § 2(a)(2), substituted “there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355])—” for “there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.” and added subpars. (A) to (D).
+
+    Subsec. (a)(3). [Pub. L. 114–183][/us/pl/114/183], § 2(a)(3), added par. (3).
+
     2012—Subsec. (a). [Pub. L. 112–90][/us/pl/112/90], § 32(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations and trust fund amounts for gas and hazardous liquid transportation for fiscal years 2007 through 2010.
 
     Subsec. (b)(2). [Pub. L. 112–90][/us/pl/112/90], § 32(b), substituted “2012 through 2015” for “2007 through 2010”.
@@ -324,6 +350,15 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 17(e); added Oct. 31, 1988, 
 [/us/stat/120/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3497
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1922
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F514
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468

@@ -325,7 +325,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
 [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24103(a), Dec. 4, 2015, [129 Stat. 1702][/us/stat/129/1702], provided that: 
 
-> “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+> “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
 
 >     “(1) by improving the organization, availability, readability, and functionality of the website;
 
@@ -339,7 +339,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
 >     “(1)  __In general__  __.—__ 
 
->     Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
+>     Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
 
 >     “(2)  __Definition of electronic means__  __.—__ 
 
@@ -351,7 +351,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
 >     “(a)  __In General__  __.—__ 
 
->     Not later than October 1, 2016, the Secretary \[probably means Secretary of Transportation\] shall implement a 2-year pilot program to evaluate the feasibility and effectiveness of a State process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration in the State.
+>     Not later than October 1, 2016, the Secretary shall implement a 2-year pilot program to evaluate the feasibility and effectiveness of a State process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration in the State.
 
 >     “(b)  __Grants__  __.—__ 
 
@@ -415,7 +415,7 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
 >     “(a)  __In General__  __.—__ 
 
->     The Secretary \[probably means Secretary of Transportation\] shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
+>     The Secretary shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
 
 >     “(b)  __Tire Identification Number__  __.—__ 
 

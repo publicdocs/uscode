@@ -33,9 +33,11 @@
 
          an analysis and evaluation of—
 
-            (A) research activities, including their policy implications, completed as a result of the United States Government and private sponsorship; and
+            (A) research activities, including their policy implications, completed as a result of the United States Government and private sponsorship;
 
-            (B) technological progress in safety achieved.
+            (B) technological progress in safety achieved; and
+
+            (C) a summary of each research and development project carried out with Federal and non-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.
 
         (7) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter.
 
@@ -77,7 +79,7 @@
 
     The Secretary may submit one report to carry out subsection (a) of this section.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1326][/us/stat/108/1326]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(l), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–304][/us/pl/104/304], § 15(a), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1326][/us/stat/108/1326]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(l), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 104–304][/us/pl/104/304], § 15(a), Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803]; [Pub. L. 114–183][/us/pl/114/183], § 22(b)(1), June 22, 2016, [130 Stat. 529][/us/stat/130/529].)
 
 <table>
 
@@ -191,7 +193,13 @@ Nov. 30, 1979, Pub. L. 96–129, § 213(b), (c), 93 Stat. 1014.  </td>
 
     In subsection (b), the words “annual” and “the report requirements of” are omitted as surplus.
 
+ __References in Text__ 
+
+    Section 12 of the Pipeline Safety Improvement Act of 2002, referred to in subsec. (a)(6)(C), is [section 12 of Pub. L. 107–355][/us/pl/107/355/s12], which is set out as a note under [section 60101 of this title][/us/usc/t49/s60101].
+
  __Amendments__ 
+
+    2016—Subsec. (a)(6)(C). [Pub. L. 114–183][/us/pl/114/183] added subpar. (C).
 
     1996—[Pub. L. 104–304][/us/pl/104/304], § 15(a)(1), substituted “Biennial” for “Annual” in section catchline.
 
@@ -220,6 +228,11 @@ Nov. 30, 1979, Pub. L. 96–129, § 213(b), (c), 93 Stat. 1014.  </td>
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/stat/110/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3803
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F529
+[/us/pl/107/355/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs12
+[/us/usc/t49/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60101
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

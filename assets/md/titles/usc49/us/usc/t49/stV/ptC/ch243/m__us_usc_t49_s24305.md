@@ -455,7 +455,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 >     “(d)  __Report__  __.—__ 
 
->     Not later than 4 years after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on which States have participated in the pilot programs under this section. The report shall summarize the financial and operational outcomes of the pilot programs and include any plan for future action.
+>     Not later than 4 years after the date of enactment of this Act, Amtrak shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on which States have participated in the pilot programs under this section. The report shall summarize the financial and operational outcomes of the pilot programs and include any plan for future action.
 
 >     “(e)  __Rule of Construction__  __.—__ 
 
@@ -587,7 +587,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 >     “(d)  __Report__  __.—__ 
 
->     Not later than 4 years after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals process required under this section, including summary information of any qualified proposals submitted to Amtrak and any proposals acted upon by Amtrak or a station owner that responded under subsection (b).
+>     Not later than 4 years after the date of enactment of this Act, Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals process required under this section, including summary information of any qualified proposals submitted to Amtrak and any proposals acted upon by Amtrak or a station owner that responded under subsection (b).
 
 >     “(e)  __Definitions__  __.—__ 
 
@@ -595,7 +595,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 >     “(f)  __Savings Clause__  __.—__ 
 
->     Nothing in this section shall be construed to limit Amtrak’s ability to develop its stations, terminals, or other assets, to constrain Amtrak’s ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act \[Dec. 4, 2015\].”
+>     Nothing in this section shall be construed to limit Amtrak’s ability to develop its stations, terminals, or other assets, to constrain Amtrak’s ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act.”
 
  __Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations__ 
 

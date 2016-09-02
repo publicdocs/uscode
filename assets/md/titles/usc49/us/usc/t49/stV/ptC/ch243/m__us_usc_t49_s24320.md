@@ -207,10 +207,6 @@
 
 (Added [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11203(a), Dec. 4, 2015, [129 Stat. 1630][/us/stat/129/1630].)
 
- __Delayed Effective Dates Under Subsection (a)(1)__ 
-
-    For delayed effective dates for requirements under subsection (a)(1) of this section, see Effective Date note below.
-
  __Effective Date__ 
 
     Section effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.

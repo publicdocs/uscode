@@ -53,6 +53,10 @@
 
             (C) continued participation by the State authority in the oversight of interstate pipeline transportation has had an adverse impact on pipeline safety.
 
+        (4)  __Notice upon denial__  __.—__ 
+
+        If a State authority requests an interstate agreement under this section and the Secretary denies such request, the Secretary shall provide written notification to the State authority of the denial that includes an explanation of the reasons for such denial.
+
     (c) __Notification.—__ 
 
         (1)  __In general__  __.—__ 
@@ -91,7 +95,11 @@
 
         The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1310][/us/stat/108/1310]; [Pub. L. 104–304][/us/pl/104/304], § 20(b), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 107–355][/us/pl/107/355], § 4, Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986].)
+    (f)  __Joint Inspectors__  __.—__ 
+
+    At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.
+
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1310][/us/stat/108/1310]; [Pub. L. 104–304][/us/pl/104/304], § 20(b), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 107–355][/us/pl/107/355], § 4, Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986]; [Pub. L. 114–183][/us/pl/114/183], §§ 13, 24(b), June 22, 2016, [130 Stat. 524][/us/stat/130/524], 530.)
 
 <table>
 
@@ -255,6 +263,10 @@ Aug. 12, 1968, Pub. L. 90–481, § 5(f), 82 Stat. 724; Nov. 30, 1979, Pub. L.
 
  __Amendments__ 
 
+    2016—Subsec. (b)(4). [Pub. L. 114–183][/us/pl/114/183], § 24(b), added par. (4).
+
+    Subsec. (f). [Pub. L. 114–183][/us/pl/114/183], § 13, added subsec. (f).
+
     2002—Subsec. (a). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(1), substituted “Agreements Without Certification” for “General Authority” in heading.
 
     Subsec. (b). [Pub. L. 107–355][/us/pl/107/355], § 4(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
@@ -281,7 +293,11 @@ Aug. 12, 1968, Pub. L. 90–481, § 5(f), 82 Stat. 724; Nov. 30, 1979, Pub. L.
 [/us/stat/110/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3804
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2986
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F524
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

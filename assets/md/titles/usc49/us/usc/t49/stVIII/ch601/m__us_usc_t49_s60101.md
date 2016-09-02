@@ -121,7 +121,7 @@
 
                 (ii) the movement of gas through regulated gathering lines; but
 
-            (B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a semicolon. </sup></sup> 
+            (B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area;
 
         (22)
 
@@ -143,13 +143,23 @@
 
                 (ii) onshore production, refining, or manufacturing facilities; or
 
-                (iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.1
+                (iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
 
         (23) “risk management” means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
 
-        (24) “risk management plan” means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management; and
+        (24) “risk management plan” means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management;
 
-        (25) “Secretary” means the Secretary of Transportation.
+        (25) “Secretary” means the Secretary of Transportation; and
+
+        (26)
+
+         “underground natural gas storage facility” means a gas pipeline facility that stores natural gas in an underground facility, including—
+
+            (A) a depleted hydrocarbon reservoir;
+
+            (B) an aquifer reservoir; or
+
+            (C) a solution-mined salt cavern reservoir.
 
     (b)  __Gathering Lines__  __.—__ 
 
@@ -175,7 +185,7 @@
 
                 (ii) The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
-([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(s), July 5, 1994, [108 Stat. 1301][/us/stat/108/1301], 1371; [Pub. L. 104–287][/us/pl/104/287], § 5(90), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 104–304][/us/pl/104/304], §§ 3, 20(f), Oct. 12, 1996, [110 Stat. 3793][/us/stat/110/3793], 3805; [Pub. L. 109–468][/us/pl/109/468], § 7, Dec. 29, 2006, [120 Stat. 3491][/us/stat/120/3491]; [Pub. L. 112–90][/us/pl/112/90], § 14, Jan. 3, 2012, [125 Stat. 1914][/us/stat/125/1914].)
+([Pub. L. 103–272][/us/pl/103/272], §§ 1(e), 4(s), July 5, 1994, [108 Stat. 1301][/us/stat/108/1301], 1371; [Pub. L. 104–287][/us/pl/104/287], § 5(90), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 104–304][/us/pl/104/304], §§ 3, 20(f), Oct. 12, 1996, [110 Stat. 3793][/us/stat/110/3793], 3805; [Pub. L. 109–468][/us/pl/109/468], § 7, Dec. 29, 2006, [120 Stat. 3491][/us/stat/120/3491]; [Pub. L. 112–90][/us/pl/112/90], § 14, Jan. 3, 2012, [125 Stat. 1914][/us/stat/125/1914]; [Pub. L. 114–183][/us/pl/114/183], § 12(a), June 22, 2016, [130 Stat. 522][/us/stat/130/522].)
 
 <table>
 
@@ -721,6 +731,12 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
  __Amendments__ 
 
+    2016—Subsec. (a)(21)(B). [Pub. L. 114–183][/us/pl/114/183], § 12(a)(1), substituted “nonrural area;” for “nonrural area.”
+
+    Subsec. (a)(22)(B)(iii). [Pub. L. 114–183][/us/pl/114/183], § 12(a)(2), substituted “facilities;” for “facilities.”
+
+    Subsec. (a)(26). [Pub. L. 114–183][/us/pl/114/183], § 12(a)(3)–(5), added par. (26).
+
     2012—Subsec. (a)(4)(B), (C). [Pub. L. 112–90][/us/pl/112/90] added subpar. (B) and redesignated former subpar. (B) as (C).
 
     2006—Subsec. (a)(6). [Pub. L. 109–468][/us/pl/109/468], § 7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
@@ -748,6 +764,12 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
  __Effective Date of 1994 Amendment__ 
 
     [Pub. L. 103–272][/us/pl/103/272], § 4(s), July 5, 1994, [108 Stat. 1371][/us/stat/108/1371], provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
+
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 1(a), June 22, 2016, [130 Stat. 514][/us/stat/130/514], provided that: 
+
+> “This Act \[enacting sections 60141 and 60302 of this title, amending this section and sections 6107, 60103, 60106 to 60109, 60115, 60117, 60124, 60125, and 60130 of this title, enacting provisions set out as notes under sections 108, 60102, 60103, 60108, 60109, and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016’ or the ‘PIPES Act of 2016’.”
 
  __Short Title of 2012 Amendment__ 
 
@@ -827,7 +849,7 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
  __Pipeline Integrity, Safety, and Reliability Research and Development__ 
 
-[Pub. L. 107–355][/us/pl/107/355], § 12, Dec. 17, 2002, [116 Stat. 2997][/us/stat/116/2997], as amended by [Pub. L. 109–468][/us/pl/109/468], § 26, Dec. 29, 2006, [120 Stat. 3501][/us/stat/120/3501]; [Pub. L. 112–90][/us/pl/112/90], § 32(f), Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923], provided that:
+[Pub. L. 107–355][/us/pl/107/355], § 12, Dec. 17, 2002, [116 Stat. 2997][/us/stat/116/2997], as amended by [Pub. L. 109–468][/us/pl/109/468], § 26, Dec. 29, 2006, [120 Stat. 3501][/us/stat/120/3501]; [Pub. L. 112–90][/us/pl/112/90], § 32(f), Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 114–183][/us/pl/114/183], §§ 2(e), 22(b)(2), June 22, 2016, [130 Stat. 516][/us/stat/130/516], 529, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -893,7 +915,13 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 >             “(C)  __Funding from non-federal sources__  __.—__ 
 
->             The Secretary shall ensure at least 30 percent of the costs of program-wide research and development activities are carried out using non-Federal sources.
+>             The Secretary shall ensure that—
+
+>                 “(i) at least 30 percent of the costs of technology research and development activities may be carried out using non-Federal sources;
+
+>                 “(ii) at least 20 percent of the costs of basic research and development with universities may be carried out using non-Federal sources; and
+
+>                 “(iii) up to 100 percent of the costs of research and development for purely governmental purposes may be carried out using Federal funds.
 
 >     “(e)  __Reports to Congress__  __.—__ 
 
@@ -901,11 +929,23 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 >     “(f)  __Pipeline Integrity Program__  __.—__ 
 
->     Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2012 through 2015.
+>     Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2016 through 2019.
 
 >     “(g)  __Participating Agencies Defined__  __.—__ 
 
->     In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
+>     In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.
+
+>     “(h)  __Independent Experts__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of the PIPES Act of 2016 \[June 22, 2016\], the Secretary shall—
+
+>         “(1) implement processes and procedures to ensure that activities listed under subsection (c), to the greatest extent practicable, produce results that are peer-reviewed by independent experts and not by persons or entities that have a financial interest in the pipeline, petroleum, or natural gas industries, or that would be directly impacted by the results of the projects; and
+
+>         “(2) submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the processes and procedures implemented under paragraph (1).
+
+>     “(i)  __Conflict of Interest__  __.—__ 
+
+>     The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator.”
 
  __Definitions__ 
 
@@ -942,6 +982,8 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 [/us/stat/120/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3491
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1914
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F522
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
 [/us/stat/106/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3294
@@ -951,6 +993,9 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
 [/us/pl/103/272/s4/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fs
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
@@ -965,6 +1010,8 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1371
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F514
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1904
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
@@ -986,6 +1033,8 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 [/us/stat/120/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3501
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1923
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F516
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272

@@ -61,7 +61,7 @@
 
  __References in Text__ 
 
-    The date of enactment of this section, referred to in subsec. (e)(1), means Dec. 4, 2015, the date of approval of [Pub. L. 114–94][/us/pl/114/94].
+    The date of enactment of this section, referred to in subsec. (e)(1), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
  __Prior Provisions__ 
 

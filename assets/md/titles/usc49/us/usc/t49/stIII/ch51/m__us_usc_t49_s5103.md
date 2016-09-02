@@ -161,7 +161,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
  __Amendments__ 
 
-    2015—Subsec. (c) to (e). [Pub. L. 114–94][/us/pl/114/94] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    2015—Subsecs. (c) to (e). [Pub. L. 114–94][/us/pl/114/94] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
     2006—Subsec. (d). [Pub. L. 109–177][/us/pl/109/177] added subsec. (d).
 

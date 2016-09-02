@@ -151,7 +151,85 @@
 
         Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 103–429][/us/pl/103/429], § 6(77), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 12, 19, Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802], 3804; [Pub. L. 107–355][/us/pl/107/355], § 7, Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 109–468][/us/pl/109/468], §§ 11, 13, 17, Dec. 29, 2006, [120 Stat. 3494–3496][/us/stat/120/3494-3496]; [Pub. L. 112–90][/us/pl/112/90], § 13(a), Jan. 3, 2012, [125 Stat. 1913][/us/stat/125/1913].)
+    (o) __Emergency Order Authority.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+
+        (2) __Considerations.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Before issuing an emergency order under paragraph (1), the Secretary shall consider, as appropriate, the following factors:
+
+                (i) The impact of the emergency order on public health and safety.
+
+                (ii) The impact, if any, of the emergency order on the national or regional economy or national security.
+
+                (iii) The impact of the emergency order on the ability of owners and operators of pipeline facilities to maintain reliability and continuity of service to customers.
+
+            (B)  __Consultation__  __.—__ 
+
+            In considering the factors under subparagraph (A), the Secretary shall consult, as the Secretary determines appropriate, with appropriate Federal agencies, State agencies, and other entities knowledgeable in pipeline safety or operations.
+
+        (3)  __Written order__  __.—__ 
+
+        An emergency order issued by the Secretary pursuant to paragraph (1) with respect to an imminent hazard shall contain a written description of—
+
+            (A) the violation, condition, or practice that constitutes or is causing the imminent hazard;
+
+            (B) the entities subject to the order;
+
+            (C) the restrictions, prohibitions, or safety measures imposed;
+
+            (D) the standards and procedures for obtaining relief from the order;
+
+            (E) how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and 60117(l) are insufficient to do so; and
+
+            (F) how the considerations were taken into account pursuant to paragraph (2).
+
+        (4)  __Opportunity for review__  __.—__ 
+
+        Upon receipt of a petition for review from an entity subject to, and aggrieved by, an emergency order issued under this subsection, the Secretary shall provide an opportunity for a review of the order under [section 554 of title 5][/us/usc/t5/s554] to determine whether the order should remain in effect, be modified, or be terminated.
+
+        (5)  __Expiration of effectiveness order__  __.—__ 
+
+        If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+
+        (6) __Judicial review of orders.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            After completion of the review process described in paragraph (4), or the issuance of a written determination by the Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.
+
+            (B)  __Limitation__  __.—__ 
+
+            The filing of a petition for review under subparagraph (A) shall not stay or modify the force and effect of the agency’s final decision under paragraph (4), or the written determination under paragraph (5), unless stayed or modified by the Secretary.
+
+        (7) __Regulations.—__ 
+
+            (A)  __Temporary regulations__  __.—__ 
+
+            Not later than 60 days after the date of enactment of the PIPES Act of 2016, the Secretary shall issue such temporary regulations as are necessary to carry out this subsection. The temporary regulations shall expire on the date of issuance of the final regulations required under subparagraph (B).
+
+            (B)  __Final regulations__  __.—__ 
+
+            Not later than 270 days after such date of enactment, the Secretary shall issue such regulations as are necessary to carry out this subsection. Such regulations shall ensure that the review process described in paragraph (4) contains the same procedures as subsections (d) and (g) of section 109.19 of title 49, Code of Federal Regulations, and is otherwise consistent with the review process developed under such section, to the greatest extent practicable and not inconsistent with this section.
+
+        (8)  __Imminent hazard defined__  __.—__ 
+
+        In this subsection, the term “imminent hazard” means the existence of a condition relating to a gas or hazardous liquid pipeline facility that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of such death, illness, injury, or endangerment.
+
+        (9)  __Limitation and savings clause__  __.—__ 
+
+        An emergency order issued under this subsection may not be construed to—
+
+            (A) alter, amend, or limit the Secretary’s obligations under, or the applicability of, [section 553 of title 5][/us/usc/t5/s553]; or
+
+            (B) provide the authority to amend the Code of Federal Regulations.
+
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1321][/us/stat/108/1321]; [Pub. L. 103–429][/us/pl/103/429], § 6(77), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 12, 19, Oct. 12, 1996, [110 Stat. 3802][/us/stat/110/3802], 3804; [Pub. L. 107–355][/us/pl/107/355], § 7, Dec. 17, 2002, [116 Stat. 2993][/us/stat/116/2993]; [Pub. L. 109–468][/us/pl/109/468], §§ 11, 13, 17, Dec. 29, 2006, [120 Stat. 3494–3496][/us/stat/120/3494-3496]; [Pub. L. 112–90][/us/pl/112/90], § 13(a), Jan. 3, 2012, [125 Stat. 1913][/us/stat/125/1913]; [Pub. L. 114–183][/us/pl/114/183], § 16, June 22, 2016, [130 Stat. 525][/us/stat/130/525].)
 
 <table>
 
@@ -673,7 +751,13 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 > </table>
 
+ __References in Text__ 
+
+    The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (o)(7), are the date of enactment of [Pub. L. 114–183][/us/pl/114/183], which was approved June 22, 2016.
+
  __Amendments__ 
+
+    2016—Subsec. (o). [Pub. L. 114–183][/us/pl/114/183] added subsec. (o).
 
     2012—Subsec. (n). [Pub. L. 112–90][/us/pl/112/90] amended subsec. (n) generally. Prior to amendment, text read as follows:
 
@@ -726,6 +810,30 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 >     “(3)  __Expedited review__  __.—__ 
 
 >     The regulations issued under this subsection shall define the term ‘expedited review’ for the purposes of paragraph (1)(C).”
+
+ __Safety Data Sheets__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 14, June 22, 2016, [130 Stat. 524][/us/stat/130/524], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Each owner or operator of a hazardous liquid pipeline facility, following an accident involving such pipeline facility that results in a hazardous liquid spill, shall provide safety data sheets on any spilled hazardous liquid to the designated Federal On-Scene Coordinator and appropriate State and local emergency responders within 6 hours of a telephonic or electronic notice of the accident to the National Response Center.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Federal on-scene coordinator__  __.—__ 
+
+>         The term ‘Federal On-Scene Coordinator’ has the meaning given such term in section 311(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(a)][/us/usc/t33/s1321/a]).
+
+>         “(2)  __National response center__  __.—__ 
+
+>         The term ‘National Response Center’ means the center described under section 300.125(a) of title 40, Code of Federal Regulations.
+
+>         “(3)  __Safety data sheet__  __.—__ 
+
+>         The term ‘safety data sheet’ means a safety data sheet required under section 1910.1200 of title 29, Code of Federal Regulations.”
 
  __Accident and Incident Notification__ 
 
@@ -803,6 +911,8 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
+[/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1321
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
@@ -815,9 +925,13 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 [/us/stat/120/3494-3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3494-3496
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1913
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F525
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F508
 [/us/stat/106/3308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3308
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
@@ -828,6 +942,9 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1916
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F524
+[/us/usc/t33/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fa
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1912
 [/us/pl/112/90/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs9

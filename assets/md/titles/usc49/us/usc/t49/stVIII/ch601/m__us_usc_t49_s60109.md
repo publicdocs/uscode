@@ -41,7 +41,7 @@
 
         (1) locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
 
-        (2) locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+        (2) locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 
     (c) __Risk Analysis and Integrity Management Programs.—__ 
 
@@ -209,7 +209,33 @@
 
         (2) to the best of such officer’s knowledge and belief, the report is true and complete.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1315][/us/stat/108/1315]; [Pub. L. 103–429][/us/pl/103/429], § 6(75), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 7, 20(i), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355][/us/pl/107/355], § 14(a), (b), Dec. 17, 2002, [116 Stat. 3002][/us/stat/116/3002], 3005; [Pub. L. 109–468][/us/pl/109/468], §§ 9, 14, 16, Dec. 29, 2006, [120 Stat. 3493][/us/stat/120/3493], 3496; [Pub. L. 112–90][/us/pl/112/90], §§ 5(e), 22, Jan. 3, 2012, [125 Stat. 1908][/us/stat/125/1908], 1917.)
+    (g) __Hazardous Liquid Pipeline Facilities.—__ 
+
+        (1)  __Integrity assessments__  __.—__ 
+
+        Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—
+
+            (A) using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
+
+            (B) using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located.
+
+        (2)  __Application__  __.—__ 
+
+        This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—
+
+            (A) that is not an offshore pipeline facility; and
+
+            (B) any portion of which is located at depths greater than 150 feet under the surface of the water.
+
+        (3)  __High consequence area defined__  __.—__ 
+
+        For purposes of this subsection, the term “high consequence area” has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
+
+        (4)  __Inspection and enforcement__  __.—__ 
+
+        The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
+
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1315][/us/stat/108/1315]; [Pub. L. 103–429][/us/pl/103/429], § 6(75), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–304][/us/pl/104/304], §§ 7, 20(i), Oct. 12, 1996, [110 Stat. 3800][/us/stat/110/3800], 3805; [Pub. L. 107–355][/us/pl/107/355], § 14(a), (b), Dec. 17, 2002, [116 Stat. 3002][/us/stat/116/3002], 3005; [Pub. L. 109–468][/us/pl/109/468], §§ 9, 14, 16, Dec. 29, 2006, [120 Stat. 3493][/us/stat/120/3493], 3496; [Pub. L. 112–90][/us/pl/112/90], §§ 5(e), 22, Jan. 3, 2012, [125 Stat. 1908][/us/stat/125/1908], 1917; [Pub. L. 114–183][/us/pl/114/183], §§ 19(a), 25, June 22, 2016, [130 Stat. 527][/us/stat/130/527], 530.)
 
 <table>
 
@@ -339,6 +365,10 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
  __Amendments__ 
 
+    2016—Subsec. (b)(2). [Pub. L. 114–183][/us/pl/114/183], § 19(a), substituted “are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters,” for “have been identified as”.
+
+    Subsec. (g). [Pub. L. 114–183][/us/pl/114/183], § 25, added subsec. (g).
+
     2012—Subsec. (c)(3)(B). [Pub. L. 112–90][/us/pl/112/90], § 5(e), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).”
 
     Subsec. (e)(3)(B), (C). [Pub. L. 112–90][/us/pl/112/90], § 22, added subpar. (B) and redesignated former subpar. (B) as (C).
@@ -372,6 +402,12 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
  __Effective Date of 1994 Amendment__ 
 
     Amendment by [Pub. L. 103–429][/us/pl/103/429] effective July 5, 1994, see [section 9 of Pub. L. 103–429][/us/pl/103/429/s9], set out as a note under [section 321 of this title][/us/usc/t49/s321].
+
+ __Unusually Sensitive Areas (USA) Ecological Resources__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 19(b), June 22, 2016, [130 Stat. 527][/us/stat/130/527], provided that: 
+
+> “The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and marine coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title).”
 
  __Integrity Management__ 
 
@@ -505,6 +541,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/stat/120/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3493
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1908
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F527
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
@@ -514,6 +552,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
@@ -528,6 +568,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F527
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1907
 [/us/usc/t49/s60109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60109%2Fc%2F2

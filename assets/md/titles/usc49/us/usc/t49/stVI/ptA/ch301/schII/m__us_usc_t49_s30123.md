@@ -207,7 +207,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
 >     “(a)  __Proposed Rule__  __.—__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall publish a proposed rule that—
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall publish a proposed rule that—
 
 >         “(1) updates the standards pertaining to tire pressure monitoring systems to ensure that a tire pressure monitoring system that is installed in a new motor vehicle after the effective date of such updated standards cannot be overridden, reset, or recalibrated in such a way that the system will no longer detect when the inflation pressure in one or more of the vehicle’s tires has fallen to or below a significantly underinflated pressure level; and
 
@@ -215,7 +215,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
 >     “(b)  __Final Rule__  __.—__ 
 
->     Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], after providing the public with sufficient opportunity for notice and comment on the proposed rule published pursuant to subsection (a), the Secretary shall issue a final rule based on the proposed rule described in subsection (a) that—
+>     Not later than 2 years after the date of enactment of this Act, after providing the public with sufficient opportunity for notice and comment on the proposed rule published pursuant to subsection (a), the Secretary shall issue a final rule based on the proposed rule described in subsection (a) that—
 
 >         “(1)
 

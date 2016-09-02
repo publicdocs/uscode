@@ -103,7 +103,7 @@
 
  __References in Text__ 
 
-    The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), means Dec. 4, 2015, the date of approval of [Pub. L. 114–94][/us/pl/114/94].
+    The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 

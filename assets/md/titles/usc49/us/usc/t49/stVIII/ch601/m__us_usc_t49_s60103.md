@@ -27,9 +27,11 @@
 
         (4) natural physical aspects of the location;
 
-        (5) medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility; and
+        (5) medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility;
 
-        (6) need to encourage remote siting.
+        (6) need to encourage remote siting; and
+
+        (7) national security.
 
     (b)  __Design, Installation, Construction, Inspection, and Testing Standards__  __.—__ 
 
@@ -95,7 +97,7 @@
 
     This section does not preclude applying a standard prescribed under [section 60102 of this title][/us/usc/t49/s60102] to a gas pipeline facility (except a liquefied natural gas pipeline facility) associated with a liquefied natural gas pipeline facility.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1307][/us/stat/108/1307].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1307][/us/stat/108/1307]; [Pub. L. 114–183][/us/pl/114/183], § 27(a), June 22, 2016, [130 Stat. 531][/us/stat/130/531].)
 
 <table>
 
@@ -261,6 +263,22 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 6; added Nov. 30, 1979, Pub.
 
     In subsection (f), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131. The words “or local” are added for clarity. The words “in the case of any facility not subject to the jurisdiction of the Department under the Natural Gas Act” are omitted as surplus.
 
+ __Amendments__ 
+
+    2016—Subsec. (a)(7). [Pub. L. 114–183][/us/pl/114/183] added par. (7).
+
+ __Savings Clause__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 27(c), June 22, 2016, [130 Stat. 532][/us/stat/130/532], provided that: 
+
+> “Nothing in this section \[amending this section and enacting provisions set out as a note below\] shall be construed to limit the Secretary’s authority under chapter 601 of title 49, United States Code, to regulate liquefied natural gas pipeline facilities.”
+
+ __Update to Minimum Safety Standards__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 27(b), June 22, 2016, [130 Stat. 532][/us/stat/130/532], provided that: 
+
+> “The Secretary of Transportation shall review and update the minimum safety standards prescribed pursuant to [section 60103 of title 49][/us/usc/t49/s60103], United States Code, for permanent, small scale liquefied natural gas pipeline facilities.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t49/stVIII/ch601/m__us_usc_t49_s60102.md) | [Next](./../../../../..//us/usc/t49/stVIII/ch601/m__us_usc_t49_s60104.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60103)
@@ -271,7 +289,15 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 6; added Nov. 30, 1979, Pub.
 [/us/usc/t49/s60102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60102
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1307
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F531
 [/us/pl/90/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F481
 [/us/stat/82/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F720
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F532
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F532
+[/us/usc/t49/s60103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60103
 
 

@@ -23,7 +23,7 @@
 
         (2)  __Additional funds__  __.—__ 
 
-        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015, and $122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, and $122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
         (3)  __Authorization for additional employees__  __.—__ 
 

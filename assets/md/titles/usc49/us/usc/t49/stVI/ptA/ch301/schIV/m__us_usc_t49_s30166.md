@@ -37,7 +37,7 @@
 
         (1) at reasonable times, may inspect and copy any record related to this chapter;
 
-        (2) on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
+        (2) on request, may inspect records of a manufacturer, distributor, dealer, or rental company to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
 
         (3)
 
@@ -59,13 +59,13 @@
 
     (e)  __Records and Making Reports__  __.—__ 
 
-    The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and [section 30117(b) of this title][/us/usc/t49/s30117/b] or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+    The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor dealer, or rental company in addition to those imposed under subsection (f) of this section and [section 30117(b) of this title][/us/usc/t49/s30117/b] or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
     (f) __Providing Copies of Communications About Defects and Noncompliance.—__ 
 
         (1)  __In general__  __.—__ 
 
-        A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+        A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers, rental companies, or other owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
 
         (2)  __Index__  __.—__ 
 
@@ -214,18 +214,6 @@
         Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
 
 ([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 969][/us/stat/108/969]; [Pub. L. 103–429][/us/pl/103/429], § 6(24), Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 308(j), Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 104–287][/us/pl/104/287], § 6(f)(3), Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399]; [Pub. L. 106–414][/us/pl/106/414], § 3(a)–(c), Nov. 1, 2000, [114 Stat. 1800–1802][/us/stat/114/1800-1802]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], §§ 31209, 31303(a), 31304(a), July 6, 2012, [126 Stat. 762][/us/stat/126/762], 764; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], §§ 24109(e), 24112, Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94/dB/tXXIV], § 24109(e), (k), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, this section is amended as follows:
-
-    (1) in subsection (c)(2), by striking “or dealer” each place such term appears and inserting “dealer, or rental company”;
-
-    (2) in subsection (e), by striking “or dealer” each place such term appears and inserting “dealer, or rental company”; and
-
-    (3) in subsection (f), by striking “or to owners” and inserting “, rental companies, or other owners”.
-
-    See 2015 Amendment notes below.
 
 <table>
 
@@ -703,8 +691,6 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 [/us/stat/114/1800-1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1800-1802
 [/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F762
-[/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
-[/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
 [/us/pl/114/94/dB/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdB%2FtXXIV
 [/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429

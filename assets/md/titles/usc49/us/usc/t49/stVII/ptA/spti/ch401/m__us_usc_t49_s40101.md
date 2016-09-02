@@ -2415,7 +2415,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(I) the claim is filed under this title during the period described in subparagraph (B); and
 
->                          “(II) on or before the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master postmarks and transmits a final award determination to the claimant filing such claim.
+>                          “(II) on or before the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, the Special Master postmarks and transmits a final award determination to the claimant filing such claim.
 
 >                 “(iii)  __Group b claims__  __.—__ 
 
@@ -2427,7 +2427,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iv)  __Definition of final award determination__  __.—__ 
 
->                 For purposes of this subparagraph, the term ‘final award determination’ means a letter from the Special Master indicating the total amount of compensation to which a claimant is entitled for a claim under this title without regard to the limitation under the second sentence of section 406(d)(1), as such section was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+>                 For purposes of this subparagraph, the term ‘final award determination’ means a letter from the Special Master indicating the total amount of compensation to which a claimant is entitled for a claim under this title without regard to the limitation under the second sentence of section 406(d)(1), as such section was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act.
 
 >     “(b) __Review and Determination.—__ 
 
@@ -2635,7 +2635,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(I)  __In general__  __.—__ 
 
->                     Not later than 30 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall develop agency policies and procedures that meet the requirements under subclauses (II) and (III) for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii), including policies and procedures for presumptive award schedules, administrative expenses, and related internal memoranda.
+>                     Not later than 30 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, the Special Master shall develop agency policies and procedures that meet the requirements under subclauses (II) and (III) for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii), including policies and procedures for presumptive award schedules, administrative expenses, and related internal memoranda.
 
 >                          “(II)  __Limitation__  __.—__ 
 
@@ -2647,7 +2647,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii)  __Reassessment__  __.—__ 
 
->                 Beginning 1 year after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], and each year thereafter until the Victims Compensation Fund is permanently closed under section 410(e), the Special Master shall conduct a reassessment of the agency policies and procedures developed under clause (i) to ensure that such policies and procedures continue to satisfy the requirements under subclauses (II) and (III) of such clause. If the Special Master determines, upon reassessment, that such agency policies or procedures do not achieve the requirements of such subclauses, the Special Master shall take additional actions or make such modifications as necessary to achieve such requirements.
+>                 Beginning 1 year after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, and each year thereafter until the Victims Compensation Fund is permanently closed under section 410(e), the Special Master shall conduct a reassessment of the agency policies and procedures developed under clause (i) to ensure that such policies and procedures continue to satisfy the requirements under subclauses (II) and (III) of such clause. If the Special Master determines, upon reassessment, that such agency policies or procedures do not achieve the requirements of such subclauses, the Special Master shall take additional actions or make such modifications as necessary to achieve such requirements.
 
 >     “(e) __Attorney Fees.—__ 
 
@@ -2811,7 +2811,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(b)  __Temporary H-__  __1__  __b Visa Fee Increase__  __.—__ 
 
->     Notwithstanding section 281 of the Immigration and Nationality Act ([8 U.S.C. 1351][/us/usc/t8/s1351]) or any other provision of law, during the period beginning on the date of the enactment of this section \[Dec. 18, 2015\] and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]), including an application for an extension of such status, shall be increased by $4,000 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant’s employees are such nonimmigrants or nonimmigrants described in section 101(a)(15)(L) of such Act.
+>     Notwithstanding section 281 of the Immigration and Nationality Act ([8 U.S.C. 1351][/us/usc/t8/s1351]) or any other provision of law, during the period beginning on the date of the enactment of this section and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]), including an application for an extension of such status, shall be increased by $4,000 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant’s employees are such nonimmigrants or nonimmigrants described in section 101(a)(15)(L) of such Act.
 
 >     “(c) __9-11 Response and Biometric Exit Account.—__ 
 

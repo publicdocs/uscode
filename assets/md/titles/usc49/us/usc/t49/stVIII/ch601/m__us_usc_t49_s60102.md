@@ -893,6 +893,16 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 
     Subsec. (l). [Pub. L. 104–304][/us/pl/104/304], § 4(f), added subsec. (l).
 
+ __Response Plans__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 18, June 22, 2016, [130 Stat. 527][/us/stat/130/527], provided that: 
+
+> “Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
+
+>     “(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and
+
+>     “(2) include procedures and resources for responding to such discharge in the plan.”
+
  __Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans__ 
 
 [Pub. L. 114–113, div. L, title I][/us/pl/114/113/dL/tI], Dec. 18, 2015, [129 Stat. 2861][/us/stat/129/2861], provided in part: 
@@ -972,6 +982,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
 [/us/pl/104/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F527
 [/us/pl/114/113/dL/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtI
 [/us/stat/129/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2861
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468

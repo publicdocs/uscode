@@ -425,7 +425,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(a)–(f), (g)(7), (9), 
 
     Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted “subsection (a)(3)(A)” for “subsections (a)(2)(A) and (b)(2)(A)”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e) to (g). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
+    Subsecs. (e) to (g). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
     Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 7203(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 

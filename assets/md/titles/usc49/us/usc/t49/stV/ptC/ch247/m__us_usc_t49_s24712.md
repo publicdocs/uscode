@@ -155,7 +155,7 @@
 
     The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a)(1) and (f)(2), is the date of enactment of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(1), (6)(A) and (c)(1), is [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/dB/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
+    Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(1), (6)(A), and (c)(1), is [section 209 of div. B of Pub. L. 110–432][/us/pl/110/432/dB/s209], which is set out as a note under [section 24101 of this title][/us/usc/t49/s24101].
 
  __Effective Date__ 
 

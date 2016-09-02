@@ -185,6 +185,28 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 >     In this section, the term ‘this Act’ includes the amendments made by this Act.”
 
+ __Workforce Management__ 
+
+[Pub. L. 114–183][/us/pl/114/183], § 9, June 22, 2016, [130 Stat. 520][/us/stat/130/520], provided that:
+
+>     “(a)  __Review__  __.—__ 
+
+>     Not later than 1 year after the date of the enactment of this Act \[June 22, 2016\], the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including—
+
+>         “(1) geographic allocation plans, hiring and time-to-hire challenges, and expected retirement rates and recruitment and retention strategies;
+
+>         “(2) an identification and description of any previous periods of macroeconomic and pipeline industry conditions under which the Pipeline and Hazardous Materials Safety Administration has encountered difficulty in filling vacancies, and the degree to which special hiring authorities, including direct hiring authority authorized by the Office of Personnel Management, could have ameliorated such difficulty; and
+
+>         “(3) recommendations to address hiring challenges, training needs, and any other identified staff resource challenges.
+
+>     “(b)  __Direct Hiring__  __.—__ 
+
+>     Upon identification of a period described in subsection (a)(2), the Administrator of the Pipeline and Hazardous Materials Safety Administration may apply to the Office of Personnel Management for the authority to appoint qualified candidates to any position relating to pipeline safety, as determined by the Administrator, without regard to sections 3309 through 3319 of title 5, United States Code.
+
+>     “(c)  __Savings Clause__  __.—__ 
+
+>     Nothing in this section shall preclude the Administrator of the Pipeline and Hazardous Materials Safety Administration from applying to the Office of Personnel Management for the authority described in subsection (b) prior to the completion of the report required under subsection (a).”
+
  __Transfer of Duties and Powers of Research and Special Programs Administration__ 
 
 [Pub. L. 108–426][/us/pl/108/426], § 2(b), Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that: 
@@ -242,6 +264,8 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 [/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F520
 [/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/stat/118/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2424
 [/us/pl/108/426/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fb

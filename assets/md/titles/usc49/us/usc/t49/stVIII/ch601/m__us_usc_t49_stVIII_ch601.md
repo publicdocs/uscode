@@ -343,9 +343,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs60141" data-uslm-ref="/us/usc/t49/s60141">60141.</a>  </td>
+
+    <td> Standards for underground natural gas storage facilities.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–183][/us/pl/114/183], § 12(d)(1), June 22, 2016, [130 Stat. 524][/us/stat/130/524], added item 60141.
 
     2012—[Pub. L. 112–90][/us/pl/112/90], §§ 6(c)(2), 23(b), 28(b), Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], 1919, 1921, added items 60138 to 60140.
 
@@ -400,6 +410,8 @@
 ----------
 ----------
 
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F524
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1910
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468

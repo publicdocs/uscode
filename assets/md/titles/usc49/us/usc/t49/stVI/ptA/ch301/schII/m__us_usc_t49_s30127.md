@@ -311,7 +311,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >     “(a)  __In General__  __.—__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
 
 >         “(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. \[sic\]
 

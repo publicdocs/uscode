@@ -115,6 +115,8 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(e)–(g); added Oct. 19, 1
 
     The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is [Pub. L. 93–236][/us/pl/93/236], Jan. 2, 1974, [87 Stat. 985][/us/stat/87/985], as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45][/us/usc/t45/s701] and Tables.
 
+ __Amendments__ 
+
     2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] substituted “section 24903” for “[section 24904 of this title][/us/usc/t49/s24904]”.
 
  __Effective Date of 2015 Amendment__ 

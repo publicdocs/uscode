@@ -25,7 +25,7 @@
 
     (b)  __Payments__  __.—__ 
 
-    After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement. For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.
+    After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program, except when the Secretary waives this requirement.
 
     (c)  __Apportionment and Method of Payment__  __.—__ 
 
@@ -53,7 +53,11 @@
 
             (C) provide for approval of qualifications on a conditional basis until specified requirements are met.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1311][/us/stat/108/1311]; [Pub. L. 104–304][/us/pl/104/304], § 20(c), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468][/us/pl/109/468], § 2(c), (d), Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489]; [Pub. L. 112–90][/us/pl/112/90], § 19, Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916].)
+    (e)  __Repurposing of Funds__  __.—__ 
+
+    If a State program’s certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.
+
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1311][/us/stat/108/1311]; [Pub. L. 104–304][/us/pl/104/304], § 20(c), Oct. 12, 1996, [110 Stat. 3804][/us/stat/110/3804]; [Pub. L. 109–468][/us/pl/109/468], § 2(c), (d), Dec. 29, 2006, [120 Stat. 3489][/us/stat/120/3489]; [Pub. L. 112–90][/us/pl/112/90], § 19, Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916]; [Pub. L. 114–183][/us/pl/114/183], § 17, June 22, 2016, [130 Stat. 526][/us/stat/130/526].)
 
 <table>
 
@@ -277,6 +281,10 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 205(d)(5); added Oct. 31, 19
 
  __Amendments__ 
 
+    2016—Subsec. (b). [Pub. L. 114–183][/us/pl/114/183], § 17(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement. For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.”
+
+    Subsec. (e). [Pub. L. 114–183][/us/pl/114/183], § 17(2), added subsec. (e).
+
     2012—Subsec. (b). [Pub. L. 112–90][/us/pl/112/90] inserted at end “For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.”
 
     2006—Subsec. (a). [Pub. L. 109–468][/us/pl/109/468], § 2(c), substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
@@ -306,6 +314,10 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 205(d)(5); added Oct. 31, 19
 [/us/stat/120/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3489
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1916
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F526
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468

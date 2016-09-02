@@ -177,7 +177,7 @@
 
 >             “(B) ineffective; or
 
->             “(C) overly burdensome.
+>             “(C) overly burdensome.”
 
  __Prioritizing Statutory Rulemakings__ 
 

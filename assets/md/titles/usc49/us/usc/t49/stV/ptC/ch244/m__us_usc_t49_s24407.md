@@ -191,7 +191,7 @@
 
 >     “(b)  __Benefit-Cost Analysis__  __.—__ 
 
->     Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall enhance the usefulness of assessments of benefits and costs for intercity passenger rail and freight rail projects by—
+>     Not later than 180 days after the date of enactment of this Act, the Secretary shall enhance the usefulness of assessments of benefits and costs for intercity passenger rail and freight rail projects by—
 
 >         “(1) providing ongoing guidance and training on developing benefit and cost information for rail projects;
 
@@ -253,7 +253,7 @@
 
 >             “(B)
 
->              each State identified under section 202 of the Rail Safety Improvement Act of 2008 \[[Pub. L. 110–432, div. A][/us/pl/110/432/dA]\] ([49 U.S.C. 22501][/us/usc/t49/s22501] note) to—
+>              each State identified under section 202 of the Rail Safety Improvement Act of 2008 \[div. A of [Pub. L. 110–432][/us/pl/110/432]\] ([49 U.S.C. 22501][/us/usc/t49/s22501] note) to—
 
 >                 “(i) update the State action plan under such section; and
 
@@ -383,7 +383,7 @@
 [/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
 [/us/usc/t49/s22501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22501
-[/us/pl/110/432/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA
+[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s22501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22501
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
 [/us/pl/110/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2FdA%2FtII

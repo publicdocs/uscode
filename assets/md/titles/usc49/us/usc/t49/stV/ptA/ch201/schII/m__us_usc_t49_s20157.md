@@ -339,11 +339,11 @@
 
     Subsec. (i). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(5), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
+    Subsecs. (j) to (l). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(6), added subsecs. (j) to (l).
+
  __Effective Date of 2015 Amendment__ 
 
     Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
-
-    Subsecs. (j) to (l). [Pub. L. 114–73][/us/pl/114/73], § 1302(b)(6), added subsecs. (j) to (l).
 
 ----------
 
@@ -373,9 +373,9 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 
 

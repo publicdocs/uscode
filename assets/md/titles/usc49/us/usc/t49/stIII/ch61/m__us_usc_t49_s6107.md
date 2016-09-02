@@ -13,19 +13,19 @@
 
 [Previous](./../../../../..//us/usc/t49/stIII/ch61/m__us_usc_t49_s6106.md) | [Next](./../../../../..//us/usc/t49/stIII/ch61/m__us_usc_t49_s6108.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6107)
 
-## § 6107. Authorization of appropriations
+## § 6107. Funding
 
-    (a)  __For Grants to States__  __.—__ 
+    Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
 
-    There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
-
-    (b)  __For Administration__  __.—__ 
-
-    There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.
-
-(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 482][/us/stat/112/482]; amended [Pub. L. 107–355][/us/pl/107/355], § 2(d), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986]; [Pub. L. 109–468][/us/pl/109/468], § 18(d), Dec. 29, 2006, [120 Stat. 3498][/us/stat/120/3498]; [Pub. L. 112–90][/us/pl/112/90], § 32(c), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922].)
+(Added [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7302(a), June 9, 1998, [112 Stat. 482][/us/stat/112/482]; amended [Pub. L. 107–355][/us/pl/107/355], § 2(d), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986]; [Pub. L. 109–468][/us/pl/109/468], § 18(d), Dec. 29, 2006, [120 Stat. 3498][/us/stat/120/3498]; [Pub. L. 112–90][/us/pl/112/90], § 32(c), Jan. 3, 2012, [125 Stat. 1922][/us/stat/125/1922]; [Pub. L. 114–183][/us/pl/114/183], § 2(c)(1), June 22, 2016, [130 Stat. 516][/us/stat/130/516].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–183][/us/pl/114/183] amended section generally. Prior to amendment, text read as follows:
+
+    “(a) For Grants to States.—There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+
+    “(b) For Administration.—There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.”
 
     2012—Subsecs. (a), (b). [Pub. L. 112–90][/us/pl/112/90], § 32(c)(1), (2), substituted “2012 through 2015.” for “2007 through 2010.”
 
@@ -52,6 +52,9 @@
 [/us/stat/120/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3498
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/stat/125/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1922
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F516
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/usc/t49/s60301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60301

@@ -35,7 +35,7 @@
 
         (4)  __Technical assistance defined__  __.—__ 
 
-        In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
+        In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation on technical pipeline safety issues in official proceedings conducted under this chapter.
 
     (b)  __Prohibited Uses__  __.—__ 
 
@@ -43,15 +43,21 @@
 
     (c)  __Authorization of Appropriations__  __.—__ 
 
-    There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
+    Of the amounts made available under section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section. Such amounts shall not be derived from user fees collected under section 60301.
 
-(Added [Pub. L. 107–355][/us/pl/107/355], § 9(a), Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468][/us/pl/109/468], § 5, Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90][/us/pl/112/90], § 32(e), Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(c), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
+(Added [Pub. L. 107–355][/us/pl/107/355], § 9(a), Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468][/us/pl/109/468], § 5, Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90][/us/pl/112/90], § 32(e), Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(c), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024]; [Pub. L. 114–183][/us/pl/114/183], §§ 2(d), 20(a), June 22, 2016, [130 Stat. 516][/us/stat/130/516], 527.)
 
  __References in Text__ 
 
     [Public Law 93–153][/us/pl/93/153], referred to in subsec. (a)(1), is [Pub. L. 93–153][/us/pl/93/153], Nov. 16, 1973, [87 Stat. 576][/us/stat/87/576], as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43][/us/usc/t43/s1651] and Tables.
 
+    Section 2(b) of the PIPES Act of 2016, referred to in subsec. (c), is [section 2(b) of Pub. L. 114–183][/us/pl/114/183/s2/b], June 22, 2016, [130 Stat. 515][/us/stat/130/515], which is not classified to the Code.
+
  __Amendments__ 
+
+    2016—Subsec. (a)(4). [Pub. L. 114–183][/us/pl/114/183], § 20(a), inserted “on technical pipeline safety issues” after “public participation”.
+
+    Subsec. (c). [Pub. L. 114–183][/us/pl/114/183], § 2(d), substituted “Of the amounts made available under section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section.” for “There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015.”
 
     2014—Subsecs. (c), (d). [Pub. L. 113–188][/us/pl/113/188] redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports on grants made under this section.
 
@@ -84,10 +90,16 @@
 [/us/stat/125/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1923
 [/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F516
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/stat/87/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F576
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
+[/us/pl/114/183/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183%2Fs2%2Fb
+[/us/stat/130/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F515
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90
 [/us/pl/112/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90

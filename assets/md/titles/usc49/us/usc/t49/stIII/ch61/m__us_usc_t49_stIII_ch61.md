@@ -75,7 +75,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs6107" data-uslm-ref="/us/usc/t49/s6107">6107.</a>  </td>
 
-    <td> Authorization of appropriations.  </td>
+    <td> Funding.  </td>
 
   </tr>
 
@@ -99,6 +99,8 @@
 
  __Amendments__ 
 
+    2016—[Pub. L. 114–183][/us/pl/114/183], § 2(c)(2), June 22, 2016, [130 Stat. 516][/us/stat/130/516], substituted “Funding” for “Authorization of appropriations” in item 6107.
+
     2006—[Pub. L. 109–468][/us/pl/109/468], § 3(b), Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490], added item 6109.
 
     2002—[Pub. L. 107–355][/us/pl/107/355], § 2(c)(2), Dec. 17, 2002, [116 Stat. 2986][/us/stat/116/2986], substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
@@ -110,6 +112,8 @@
 ----------
 ----------
 
+[/us/pl/114/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F183
+[/us/stat/130/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F516
 [/us/pl/109/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468
 [/us/stat/120/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3490
 [/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355

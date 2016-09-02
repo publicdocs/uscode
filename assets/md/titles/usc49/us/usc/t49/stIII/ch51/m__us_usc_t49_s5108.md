@@ -355,7 +355,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 
  __Amendments__ 
 
-    2015—Subsec. (g)(2)(B), (C). [Pub. L. 114–94][/us/pl/114/94] substituted “5116(h)” for “5116(i)”
+    2015—Subsec. (g)(2)(B), (C). [Pub. L. 114–94][/us/pl/114/94] substituted “5116(h)” for “5116(i)”.
 
     2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
