@@ -71,12 +71,6 @@ June 30, 1949, ch. 288, title III, § 303L, as added Pub. L. 103–355, title 
 
 </table>
 
- __Severable Services and Multiyear Contract Authority of Judicial Entities__ 
-
-[Pub. L. 113–76, div. E, title III, § 306][/us/pl/113/76/s306], Jan. 17, 2014, [128 Stat. 203][/us/stat/128/203], provided that: 
-
-> “The Supreme Court of the United States, the Federal Judicial Center, and the United States Sentencing Commission are hereby authorized, now and hereafter, to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into contracts for multiple years for the acquisition of property and services, to the same extent as executive agencies under the authority of 41 U.S.C. sections 3902 and 3903, respectively.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dC/ch39/m__us_usc_t41_s3901.md) | [Next](./../../../../../..//us/usc/t41/stI/dC/ch39/m__us_usc_t41_s3903.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3902)
@@ -86,7 +80,5 @@ June 30, 1949, ch. 288, title III, § 303L, as added Pub. L. 103–355, title 
 
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3774
-[/us/pl/113/76/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs306
-[/us/stat/128/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F203
 
 
