@@ -43,7 +43,7 @@
 
  __Temporary Additional Assistant Secretary__ 
 
-    The office of a temporary additional Assistant Secretary of the Interior, which was provided for by [act Feb. 29, 1944, ch. 72][/us/act/1944-02-29/ch72], [58 Stat. 107][/us/stat/58/107], ceased to exist by the terms of such act at the expiration of six months following the cessation of hostilities in World War II, which was proclaimed by the President at 12 o’clock noon of December 31, 1946, in Proc. No. 2714, 12 F.R. 1, set out as a note under section 601 of the Appendix to Title 50, War and National Defense.
+    The office of a temporary additional Assistant Secretary of the Interior, which was provided for by [act Feb. 29, 1944, ch. 72][/us/act/1944-02-29/ch72], [58 Stat. 107][/us/stat/58/107], ceased to exist by the terms of such act at the expiration of six months following the cessation of hostilities in World War II, which was proclaimed by the President at 12 o’clock noon of December 31, 1946, in Proc. No. 2714, 12 F.R. 1, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 ----------
 
@@ -76,5 +76,6 @@
 [/us/usc/t43/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1451
 [/us/act/1944-02-29/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-29%2Fch72
 [/us/stat/58/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F107
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 
 

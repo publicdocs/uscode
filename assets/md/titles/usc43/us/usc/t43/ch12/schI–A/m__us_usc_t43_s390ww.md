@@ -41,7 +41,7 @@
 
     (h) __Recordable contracts executed prior to__  __October 12, 1982__ 
 
-        The provisions of [section 390ee(c) of this title][/us/usc/t43/s390ee/c] are and have been applicable to all recordable contracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: Provided, That notwithstanding the provisions of subsection (i) of this section, the Secretary shall not seek reimbursement for any amounts due under this subsection or [section 390ee(c) of this title][/us/usc/t43/s390ee/c] which was due prior to December 22, 1987.
+        The provisions of [section 390ee(c) of this title][/us/usc/t43/s390ee/c] are and have been applicable to all recordable contracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: Provided, That notwithstanding the provisions of subsection (i), the Secretary shall not seek reimbursement for any amounts due under this subsection or [section 390ee(c) of this title][/us/usc/t43/s390ee/c] which was due prior to December 22, 1987.
 
     (i) __Collection of underpayment with interest for irrigation water__ 
 

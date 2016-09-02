@@ -25,13 +25,13 @@
 
     (b) __Public notice__ 
 
-        As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a) of this section, including any information necessary for the consideration of an inholding under [section 2305 of this title][/us/usc/t43/s2305]. Such notice shall include publication in the Federal Register and by such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
+        As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a), including any information necessary for the consideration of an inholding under [section 2305 of this title][/us/usc/t43/s2305]. Such notice shall include publication in the Federal Register and by such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
 
     (c) __Identification__ 
 
     An inholding—
 
-        (1) shall be considered for identification under this section only if the Secretary or the Secretary of Agriculture receive notification of a desire to sell from the landowner in response to public notice given under subsection (b) of this section; and
+        (1) shall be considered for identification under this section only if the Secretary or the Secretary of Agriculture receive notification of a desire to sell from the landowner in response to public notice given under subsection (b); and
 
         (2)
 

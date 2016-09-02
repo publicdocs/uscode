@@ -25,7 +25,7 @@
 
         The cooperative geologic mapping program shall be—
 
-            (A) designed and administered to achieve the objectives set forth in subsection (c) of this section;
+            (A) designed and administered to achieve the objectives set forth in subsection (c);
 
             (B) developed in consultation with the advisory committee; and
 
@@ -57,7 +57,7 @@
 
             (A) in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and
 
-            (B) maps and mapping techniques which achieve the objectives specified in subsection (c) of this section.
+            (B) maps and mapping techniques which achieve the objectives specified in subsection (c).
 
     (c) __Program objectives__ 
 

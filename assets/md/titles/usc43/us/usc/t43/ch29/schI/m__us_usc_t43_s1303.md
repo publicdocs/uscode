@@ -15,7 +15,7 @@
 
 ## § 1303. Amendment, modification, or repeal of other laws
 
-    Nothing in this subchapter or subchapter II of this chapter shall be deemed to amend, modify, or repeal the Acts of July 26, 1866 ([14 Stat. 251][/us/stat/14/251]), July 9, 1870 ([16 Stat. 217][/us/stat/16/217]), March 3, 1877 ([19 Stat. 377][/us/stat/19/377]), June 17, 1902 ([32 Stat. 388][/us/stat/32/388]), and December 22, 1944 ([58 Stat. 887][/us/stat/58/887]), and Acts amendatory thereof or supplementary thereto.
+    Nothing in this subchapter or subchapter II shall be deemed to amend, modify, or repeal the Acts of July 26, 1866 ([14 Stat. 251][/us/stat/14/251]), July 9, 1870 ([16 Stat. 217][/us/stat/16/217]), March 3, 1877 ([19 Stat. 377][/us/stat/19/377]), June 17, 1902 ([32 Stat. 388][/us/stat/32/388]), and December 22, 1944 ([58 Stat. 887][/us/stat/58/887]), and Acts amendatory thereof or supplementary thereto.
 
 ([May 22, 1953, ch. 65][/us/act/1953-05-22/ch65], title II, § 7, [67 Stat. 32][/us/stat/67/32].)
 

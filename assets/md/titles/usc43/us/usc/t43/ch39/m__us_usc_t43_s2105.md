@@ -27,7 +27,7 @@
 
     (b) __Notice of shipwreck location; eligibility determination for inclusion in National Register of Historic Places__ 
 
-        The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3) of this section.
+        The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3).
 
     (c) __Transfer of title to States__ 
 

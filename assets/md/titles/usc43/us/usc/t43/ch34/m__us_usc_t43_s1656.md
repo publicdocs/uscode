@@ -17,7 +17,7 @@
 
     (a) __Penalty__ 
 
-    Except as provided in subsection (c)(4) of this section, the Secretary of the Interior may assess and collect a civil penalty under this section with respect to any discharge of oil—
+    Except as provided in subsection (c)(4), the Secretary of the Interior may assess and collect a civil penalty under this section with respect to any discharge of oil—
 
         (1) in transit from fields or reservoirs supplying oil to the trans-Alaska pipeline; or
 

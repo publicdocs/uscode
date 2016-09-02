@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        (1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; [34 Stat. 197][/us/stat/34/197]), as such Act was in effect before December 18, 1971.
+        (1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e), a person described in subsection (b) shall be eligible for an allotment of not more than two parcels of federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; [34 Stat. 197][/us/stat/34/197]), as such Act was in effect before December 18, 1971.
 
         (2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
 
@@ -55,11 +55,11 @@
 
         (4)
 
-         A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
+         A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
 
             (A) lands withdrawn pursuant to [section 1610(a)(1) of this title][/us/usc/t43/s1610/a/1] which were not selected, or were relinquished after selection;
 
-            (B) lands contiguous to the outer boundary of lands withdrawn pursuant to [section 1610(a)(1)(C) of this title][/us/usc/t43/s1610/a/1/C], except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; or
+            (B) lands contiguous to the outer boundary of lands withdrawn pursuant to [section 1610(a)(1)(C) of this title][/us/usc/t43/s1610/a/1/C], except lands excluded from selection by a provision of subsection (a)(3) and lands within a National Park; or
 
             (C) vacant, unappropriated and unreserved lands.
 
@@ -93,7 +93,7 @@
 
             (A)
 
-             The personal representative or special administrator, appointed in an Alaska State court proceeding of the estate of a decedent who was eligible under subsection (b)(1)(A) of this section may, for the benefit of the heirs, select an allotment if the decedent was a veteran who served in South East Asia at any time during the period beginning August 5, 1964, and ending December 31, 1971, and during that period the decedent—
+             The personal representative or special administrator, appointed in an Alaska State court proceeding of the estate of a decedent who was eligible under subsection (b)(1)(A) may, for the benefit of the heirs, select an allotment if the decedent was a veteran who served in South East Asia at any time during the period beginning August 5, 1964, and ending December 31, 1971, and during that period the decedent—
 
                 (i) was killed in action;
 
@@ -121,7 +121,7 @@
 
          The Secretary of the Interior shall conduct a study to identify and assess the circumstances of veterans of the Vietnam era who—
 
-            (A) served during a period other than that specified in subsection (b)(1)(B) of this section;
+            (A) served during a period other than that specified in subsection (b)(1)(B);
 
             (B) were eligible for an allotment under the Act of May 17, 1906; and
 

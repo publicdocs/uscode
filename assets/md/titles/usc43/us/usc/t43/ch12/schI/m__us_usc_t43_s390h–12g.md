@@ -21,11 +21,11 @@
 
     (b) __Cost share__ 
 
-        The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+        The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
     (c) __Limitation__ 
 
-        The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+        The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ([Pub. L. 102–575, title XVI, § 1621][/us/pl/102/575/s1621], as added [Pub. L. 104–266, § 2(a)(2)][/us/pl/104/266/s2/a/2], Oct. 9, 1996, [110 Stat. 3292][/us/stat/110/3292]; amended [Pub. L. 105–62, title V, § 506][/us/pl/105/62/s506], Oct. 13, 1997, [111 Stat. 1339][/us/stat/111/1339].)
 

@@ -15,7 +15,7 @@
 
 ## § 1719. Mineral interests; reservation and conveyance requirements and procedures
 
-    (a) All conveyances of title issued by the Secretary, except those involving land exchanges provided for in [section 1716 of this title][/us/usc/t43/s1716], shall reserve to the United States all minerals in the lands, together with the right to prospect for, mine, and remove the minerals under applicable law and such regulations as the Secretary may prescribe, except that if the Secretary makes the findings specified in subsection (b) of this section, the minerals may then be conveyed together with the surface to the prospective surface owner as provided in subsection (b) of this section.
+    (a) All conveyances of title issued by the Secretary, except those involving land exchanges provided for in [section 1716 of this title][/us/usc/t43/s1716], shall reserve to the United States all minerals in the lands, together with the right to prospect for, mine, and remove the minerals under applicable law and such regulations as the Secretary may prescribe, except that if the Secretary makes the findings specified in subsection (b) of this section, the minerals may then be conveyed together with the surface to the prospective surface owner as provided in subsection (b).
 
     (b)
 

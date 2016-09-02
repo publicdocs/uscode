@@ -29,7 +29,7 @@
 
     There shall also be credited to the development fund—
 
-        (1) all revenues collected in connection with the operation of facilities authorized in subchapter III of this chapter in furtherance of the purposes of this chapter (except entrance, admission, and other recreation fees or charges and proceeds received from recreation concessionaires), until completion of repayment requirements of the Central Arizona project;
+        (1) all revenues collected in connection with the operation of facilities authorized in subchapter III in furtherance of the purposes of this chapter (except entrance, admission, and other recreation fees or charges and proceeds received from recreation concessionaires), until completion of repayment requirements of the Central Arizona project;
 
         (2) any Federal revenues from the Boulder Canyon and Parker-Davis projects which, after completion of repayment requirements of the said Boulder Canyon and Parker-Davis projects, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of those projects: Provided, however, That for the Boulder Canyon project commencing June 1, 1987, and for the Parker-Davis project commencing June 1, 2005, and until the end of the repayment period for the Central Arizona project described in [section 1521(a) of this title][/us/usc/t43/s1521/a], the Secretary of Energy shall provide for surplus revenues by including the equivalent of 4½ mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and by including the equivalent 2½ mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented: Provided further, That after the repayment period for said Central Arizona project, the equivalent of 2½ mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section: Provided, however, That the Secretary is authorized and directed to continue the in-lieu-of-tax payments to the States of Arizona and Nevada provided for in [section 618a(c) of this title][/us/usc/t43/s618a/c] so long as revenues accrue from the operation of the Boulder Canyon project; and
 
@@ -45,13 +45,13 @@
 
     (e) __Appropriation by Congress required for construction of works__ 
 
-        Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+        Except as provided in subsection (f), revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
     (f) __Additional uses of revenue funds__ 
 
         (1) __Crediting against Central Arizona Water Conservation District payments__ 
 
-            Funds credited to the development fund pursuant to subsection (b) of this section and paragraphs (1) and (3) of subsection (c) of this section, the portion of revenues derived from the sale of power and energy for use in the State of Arizona pursuant to subsection (c)(2) of this section in excess of the amount necessary to meet the requirements of paragraphs (1) and (2) of subsection (d) of this section, and any annual payment by the Central Arizona Water Conservation District to effect repayment of reimbursable Central Arizona Project construction costs, shall be credited annually against the annual payment owed by the Central Arizona Water Conservation District to the United States for the Central Arizona Project.
+            Funds credited to the development fund pursuant to subsection (b) and paragraphs (1) and (3) of subsection (c), the portion of revenues derived from the sale of power and energy for use in the State of Arizona pursuant to subsection (c)(2) in excess of the amount necessary to meet the requirements of paragraphs (1) and (2) of subsection (d), and any annual payment by the Central Arizona Water Conservation District to effect repayment of reimbursable Central Arizona Project construction costs, shall be credited annually against the annual payment owed by the Central Arizona Water Conservation District to the United States for the Central Arizona Project.
 
         (2) __Further use of revenue funds credited against payments of Central Arizona Water Conservation District__ 
 
@@ -113,7 +113,7 @@
 
             (A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
 
-            (B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III of this chapter that are to be repaid by the Central Arizona Water Conservation District;
+            (B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III that are to be repaid by the Central Arizona Water Conservation District;
 
             (C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
 
@@ -125,7 +125,7 @@
 
              to pay to the general fund of the Treasury the difference between—
 
-                (i) the costs of each unit of the projects authorized under subchapter III of this chapter that are repayable by the Central Arizona Water Conservation District; and
+                (i) the costs of each unit of the projects authorized under subchapter III that are repayable by the Central Arizona Water Conservation District; and
 
                 (ii) any costs allocated to reimbursable functions under any Central Arizona Project cost allocation undertaken by the United States; and
 
@@ -219,7 +219,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (e). [Pub. L. 108–451, § 107(c)(2)][/us/pl/108/451/s107/c/2], substituted “Except as provided in subsection (f) of this section, revenues” for “Revenues”.
+    2004—Subsec. (e). [Pub. L. 108–451, § 107(c)(2)][/us/pl/108/451/s107/c/2], substituted “Except as provided in subsection (f), revenues” for “Revenues”.
 
     Subsec. (f). [Pub. L. 108–451, § 107(a)][/us/pl/108/451/s107/a], inserted heading and text and struck out former text relating to return of costs and interest.
 

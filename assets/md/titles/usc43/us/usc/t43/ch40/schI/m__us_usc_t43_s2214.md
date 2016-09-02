@@ -21,7 +21,7 @@
 
     (b) __Coordination with BPA__ 
 
-        If a Governor referred to in subsection (a) of this section is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a) of this section.
+        If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
 
     (c) __Termination of authority__ 
 

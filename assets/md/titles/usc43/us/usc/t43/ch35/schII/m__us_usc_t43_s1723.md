@@ -45,15 +45,15 @@
 
     (c) __Limitations__ 
 
-        (1) Nothing in this section shall be construed as affirming or denying any of the allegations made by any party in the civil action specified in subsection (a) of this section, or as constituting an expression of congressional opinion with respect to the merits of any allegation, contention, or argument made or issue raised by any party in such action, or as expanding or diminishing the jurisdiction of the United States District Court for the District of Columbia.
+        (1) Nothing in this section shall be construed as affirming or denying any of the allegations made by any party in the civil action specified in subsection (a), or as constituting an expression of congressional opinion with respect to the merits of any allegation, contention, or argument made or issue raised by any party in such action, or as expanding or diminishing the jurisdiction of the United States District Court for the District of Columbia.
 
         (2) Except as specifically provided in this section, nothing in this section shall be construed as modifying, terminating, revoking, or otherwise affecting any provision of law applicable to land exchanges, withdrawals, or classifications.
 
-        (3) The availability or exercise of the authority granted in subsection (a) of this section may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
+        (3) The availability or exercise of the authority granted in subsection (a) may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
 
     (d) __Termination__ 
 
-        The authority specified in subsection (a) of this section shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) of this section is no longer in effect, whichever occurs first.
+        The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
 
 ([Pub. L. 94–579, title II, § 215][/us/pl/94/579/s215], as added [Pub. L. 100–409, § 10][/us/pl/100/409/s10], Aug. 20, 1988, [102 Stat. 1092][/us/stat/102/1092]; amended [Pub. L. 103–437, § 16(d)(2)][/us/pl/103/437/s16/d/2], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595].)
 

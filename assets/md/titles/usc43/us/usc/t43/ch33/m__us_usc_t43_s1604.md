@@ -21,7 +21,7 @@
 
     (b) __Residence; order of priority in enrollment of Natives not permanent residents; regional family or hardship enrollment__ 
 
-    The roll prepared by the Secretary shall show for each Native, among other things, the region and the village or other place in which he resided on the date of the 1970 census enumeration, and he shall be enrolled according to such residence. Except as provided in subsection (c) of this section, a Native eligible for enrollment who is not, when the roll is prepared, a permanent resident of one of the twelve regions established pursuant to [section 1606(a) of this title][/us/usc/t43/s1606/a] shall be enrolled by the Secretary in one of the twelve regions, giving priority in the following order to—
+    The roll prepared by the Secretary shall show for each Native, among other things, the region and the village or other place in which he resided on the date of the 1970 census enumeration, and he shall be enrolled according to such residence. Except as provided in subsection (c), a Native eligible for enrollment who is not, when the roll is prepared, a permanent resident of one of the twelve regions established pursuant to [section 1606(a) of this title][/us/usc/t43/s1606/a] shall be enrolled by the Secretary in one of the twelve regions, giving priority in the following order to—
 
         (1) the region where the Native resided on the 1970 census date if he had resided there without substantial interruption for two or more years;
 
@@ -35,7 +35,7 @@
 
     (c) __Election of enrollment in thirteenth region, if established, of Native nonresidents; dependent household members as bound__ 
 
-        A Native eligible for enrollment who is eighteen years of age or older and is not a permanent resident of one of the twelve regions may, on the date he files an application for enrollment, elect to be enrolled in a thirteenth region for Natives who are non-residents of Alaska, if such region is established pursuant to [section 1606(c) of this title][/us/usc/t43/s1606/c]. If such region is not established, he shall be enrolled as provided in subsection (b) of this section. His election shall apply to all dependent members of his household who are less than eighteen years of age, but shall not affect the enrollment of anyone else.
+        A Native eligible for enrollment who is eighteen years of age or older and is not a permanent resident of one of the twelve regions may, on the date he files an application for enrollment, elect to be enrolled in a thirteenth region for Natives who are non-residents of Alaska, if such region is established pursuant to [section 1606(c) of this title][/us/usc/t43/s1606/c]. If such region is not established, he shall be enrolled as provided in subsection (b). His election shall apply to all dependent members of his household who are less than eighteen years of age, but shall not affect the enrollment of anyone else.
 
 ([Pub. L. 92–203, § 5][/us/pl/92/203/s5], Dec. 18, 1971, [85 Stat. 690][/us/stat/85/690].)
 

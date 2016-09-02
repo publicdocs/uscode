@@ -25,7 +25,7 @@
 
     (c) __Report of Council on Environmental Quality__ 
 
-        Promptly after receiving an environmental impact statement referred to in subsection (b) of this section for a crude oil transportation system, the Council on Environmental Quality shall submit to the President a report on the Council’s opinion concerning such statement and concerning other matters related to the environmental impact of such system.
+        Promptly after receiving an environmental impact statement referred to in subsection (b) for a crude oil transportation system, the Council on Environmental Quality shall submit to the President a report on the Council’s opinion concerning such statement and concerning other matters related to the environmental impact of such system.
 
 ([Pub. L. 95–617, title V, § 506][/us/pl/95/617/s506], Nov. 9, 1978, [92 Stat. 3160][/us/stat/92/3160].)
 

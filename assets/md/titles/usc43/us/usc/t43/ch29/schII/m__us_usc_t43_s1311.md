@@ -29,11 +29,11 @@
 
     (d) __Authority and rights of United States respecting navigation, flood control and production of power__ 
 
-        Nothing in this subchapter or subchapter I of this chapter shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of said lands and waters for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control, or the production of power;
+        Nothing in this subchapter or subchapter I shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of said lands and waters for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control, or the production of power;
 
     (e) __Ground and surface waters west of 98th meridian__ 
 
-        Nothing in this subchapter or subchapter I of this chapter shall be construed as affecting or intended to affect or in any way interfere with or modify the laws of the States which lie wholly or in part westward of the ninety-eighth meridian, relating to the ownership and control of ground and surface waters; and the control, appropriation, use, and distribution of such waters shall continue to be in accordance with the laws of such States.
+        Nothing in this subchapter or subchapter I shall be construed as affecting or intended to affect or in any way interfere with or modify the laws of the States which lie wholly or in part westward of the ninety-eighth meridian, relating to the ownership and control of ground and surface waters; and the control, appropriation, use, and distribution of such waters shall continue to be in accordance with the laws of such States.
 
 ([May 22, 1953, ch. 65][/us/act/1953-05-22/ch65], title II, § 3, [67 Stat. 30][/us/stat/67/30].)
 

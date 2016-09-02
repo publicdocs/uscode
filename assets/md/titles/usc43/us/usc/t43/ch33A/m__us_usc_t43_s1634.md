@@ -43,7 +43,7 @@
 
         (5)
 
-         Paragraph (1) of this subsection and subsection (d) of this section shall not apply and the Native allotment application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, if on or before the one hundred and eightieth day following December 2, 1980—
+         Paragraph (1) of this subsection and subsection (d) shall not apply and the Native allotment application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, if on or before the one hundred and eightieth day following December 2, 1980—
 
             (A) A Native Corporation files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application, and said land is withdrawn for selection by the Corporation pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\]; or
 
@@ -51,11 +51,11 @@
 
             (C) A person or entity files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application and that said land is the situs of improvements claimed by the person or entity.
 
-        (6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
+        (6) Paragraph (1) of this subsection and subsection (d) shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
 
         (7)
 
-         Paragraph (1) of this subsection and subsection (d) of this section shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
+         Paragraph (1) of this subsection and subsection (d) shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
 
             (A) that is open and pending on October 31, 1998;
 
@@ -91,7 +91,7 @@
 
             (A)
 
-             Notwithstanding paragraphs (1) and (6) of subsection (a) of this section, and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled “An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska”, approved May 17, 1906 ([34 Stat. 197][/us/stat/34/197]), that—
+             Notwithstanding paragraphs (1) and (6) of subsection (a), and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled “An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska”, approved May 17, 1906 ([34 Stat. 197][/us/stat/34/197]), that—
 
                 (i) was pending before the Department of the Interior on or before December 18, 1971; and
 
@@ -125,7 +125,7 @@
 
             (A) Subject to any valid existing rights, to the extent that the application describes lands that are authorized to be reconveyed or relinquished to the United States under paragraph (2), the Village Corporation shall file with the Secretary, not later than 3 years after October 14, 1992, the name of the applicant and the land description of each allotment proposed to be reconveyed or relinquished.
 
-            (B) Upon receipt of the land description, the Secretary shall immediately notify the State of Alaska and all interested parties of the land description proposed to be reconveyed or relinquished, and any such party shall have 60 days following notification in which to file with the Department of the Interior a protest as provided in subsection (a)(5) of this section.
+            (B) Upon receipt of the land description, the Secretary shall immediately notify the State of Alaska and all interested parties of the land description proposed to be reconveyed or relinquished, and any such party shall have 60 days following notification in which to file with the Department of the Interior a protest as provided in subsection (a)(5).
 
             (C)
 

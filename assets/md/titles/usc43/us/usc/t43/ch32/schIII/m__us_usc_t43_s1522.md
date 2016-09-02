@@ -21,7 +21,7 @@
 
     (b) __Rights of former owners to use or lease land__ 
 
-        Title to any land or easement acquired pursuant to this section shall be subject to the right of the former owner to use or lease the land for purposes not inconsistent with the construction, operation, and maintenance of the project, as determined by, and under terms and conditions prescribed by, the Secretary. Such right shall include the right to extract and dispose of minerals. The determination of fair market value under subsection (a) of this section shall reflect the right to extract and dispose of minerals and all other uses permitted by this section.
+        Title to any land or easement acquired pursuant to this section shall be subject to the right of the former owner to use or lease the land for purposes not inconsistent with the construction, operation, and maintenance of the project, as determined by, and under terms and conditions prescribed by, the Secretary. Such right shall include the right to extract and dispose of minerals. The determination of fair market value under subsection (a) shall reflect the right to extract and dispose of minerals and all other uses permitted by this section.
 
     (c) __Addition of land to Fort McDowell Indian Reservation__ 
 

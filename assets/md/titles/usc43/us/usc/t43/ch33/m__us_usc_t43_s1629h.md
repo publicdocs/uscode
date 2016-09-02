@@ -21,27 +21,27 @@
 
         (1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act ([Public Law 85–508][/us/pl/85/508]) to lands described in subsection (c)(2) of this section; and
 
-        (2) Kake Tribal Corporation and Sealaska Corporation convey all right, title, and interest to lands described in subsection (c)(1) of this section to the City of Kake, Alaska,
+        (2) Kake Tribal Corporation and Sealaska Corporation convey all right, title, and interest to lands described in subsection (c)(1) to the City of Kake, Alaska,
 
         then the Secretary of Agriculture (hereinafter referred to as “Secretary”) shall, not later than 180 days thereafter, convey to Kake Tribal Corporation title to the surface estate in the land identified in subsection (c)(2) of this section, and convey to Sealaska Corporation title to the subsurface estate in such land.
 
     (b) __Effect on selection totals__ 
 
-        (1) Of the lands to which the State of Alaska relinquishes selection rights and which are conveyed to the City of Kake pursuant to subsection (a) of this section, 694.5 acres shall be charged against lands to be selected by the State of Alaska under section 6(a) of the Alaska Statehood Act and 694.5 acres against lands to be selected by the State of Alaska under section 6(b) of the Alaska Statehood Act.
+        (1) Of the lands to which the State of Alaska relinquishes selection rights and which are conveyed to the City of Kake pursuant to subsection (a), 694.5 acres shall be charged against lands to be selected by the State of Alaska under section 6(a) of the Alaska Statehood Act and 694.5 acres against lands to be selected by the State of Alaska under section 6(b) of the Alaska Statehood Act.
 
         (2) The land conveyed to Kake Tribal Corporation and to Sealaska Corporation under this section is, for all purposes, considered to be land conveyed under this chapter. However, the conveyance of such land to Kake Tribal Corporation shall not count against or otherwise affect the Corporation’s remaining entitlement under [section 1615(b) of this title][/us/usc/t43/s1615/b].
 
     (c) __Lands subject to exchange__ 
 
-        (1) The lands to be transferred to the City of Kake under subsection (a) of this section are the surface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as “KTC Land to City of Kake” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
+        (1) The lands to be transferred to the City of Kake under subsection (a) are the surface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as “KTC Land to City of Kake” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
 
-        (2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) of this section are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as “Jenny Creek-Land Selected by the State of Alaska to KTC” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
+        (2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as “Jenny Creek-Land Selected by the State of Alaska to KTC” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
 
-        (3) In addition to the transfers authorized under subsection (a) of this section, the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as “KTC Land-Conservation Easement to SEAL Trust” on the map entitled “Kake Land Exchange-2000”, dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subject to the mutual consent of the United States Forest Service and Sealaska Corporation.
+        (3) In addition to the transfers authorized under subsection (a), the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as “KTC Land-Conservation Easement to SEAL Trust” on the map entitled “Kake Land Exchange-2000”, dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subject to the mutual consent of the United States Forest Service and Sealaska Corporation.
 
     (d) __Withdrawal__ 
 
-        Subject to valid existing rights, the lands described in subsection (c)(2) of this section are withdrawn from all forms of location, entry, and selection under the mining and public land laws of the United States and from leasing under the mineral and geothermal leasing laws. This withdrawal expires 18 months after the effective date of this section.
+        Subject to valid existing rights, the lands described in subsection (c)(2) are withdrawn from all forms of location, entry, and selection under the mining and public land laws of the United States and from leasing under the mineral and geothermal leasing laws. This withdrawal expires 18 months after the effective date of this section.
 
     (e) __Maps__ 
 
@@ -77,7 +77,7 @@
 
     (i) __Authorization of appropriations__ 
 
-        There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2) of this section and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h) of this section. No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g) of this section.
+        There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2) and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).
 
 ([Pub. L. 92–203, § 42][/us/pl/92/203/s42], as added [Pub. L. 106–283, § 3][/us/pl/106/283/s3], Oct. 6, 2000, [114 Stat. 867][/us/stat/114/867].)
 

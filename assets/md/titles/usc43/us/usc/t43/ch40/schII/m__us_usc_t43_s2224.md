@@ -21,7 +21,7 @@
 
     (b) __Pacific Northwest region__ 
 
-        A contingency plan under subsection (a) of this section for the State of Washington, Oregon, Idaho, or Montana, may be approved by the Secretary only at the request of the Governor of the affected State in coordination with the other States in the region and the Administrator of the Bonneville Power Administration.
+        A contingency plan under subsection (a) for the State of Washington, Oregon, Idaho, or Montana, may be approved by the Secretary only at the request of the Governor of the affected State in coordination with the other States in the region and the Administrator of the Bonneville Power Administration.
 
 ([Pub. L. 102–250, title II, § 204][/us/pl/102/250/s204], Mar. 5, 1992, [106 Stat. 57][/us/stat/106/57].)
 

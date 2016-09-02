@@ -23,7 +23,7 @@
 
         (1)
 
-         On his own initiative or at the request of the head of any Federal agency covered by the review schedule established under subsection (a) of this section, the Secretary of the Interior shall require that an applicant provide such additional information as may be necessary to conduct the review of the applicant’s proposal. Such information may include—
+         On his own initiative or at the request of the head of any Federal agency covered by the review schedule established under subsection (a), the Secretary of the Interior shall require that an applicant provide such additional information as may be necessary to conduct the review of the applicant’s proposal. Such information may include—
 
             (A) specific details of the route (and alternative routes) and identification of Federal lands affected by any such route;
 
@@ -45,7 +45,7 @@
 
         (1)
 
-         Pursuant to the schedule established under subsection (a) of this section, heads of Federal agencies covered by such schedule shall conduct a review of a proposed crude oil transportation system eligible for consideration under this chapter and shall submit their recommendations concerning such systems (and the basis for such recommendations) to the Secretary of the Interior for submission to the President. After receipt of such recommendations and before their submission to the President, the Secretary of the Interior shall provide an opportunity for comments in accordance with paragraph (2). The Secretary of the Interior shall forward such comments to the President with the recommendations—
+         Pursuant to the schedule established under subsection (a), heads of Federal agencies covered by such schedule shall conduct a review of a proposed crude oil transportation system eligible for consideration under this chapter and shall submit their recommendations concerning such systems (and the basis for such recommendations) to the Secretary of the Interior for submission to the President. After receipt of such recommendations and before their submission to the President, the Secretary of the Interior shall provide an opportunity for comments in accordance with paragraph (2). The Secretary of the Interior shall forward such comments to the President with the recommendations—
 
             (A) in the case of applications filed under [section 2004(1) of this title][/us/usc/t43/s2004/1], on or before December 1, 1978, and
 

@@ -15,7 +15,7 @@
 
 ## § 1302. Resources seaward of Continental Shelf
 
-    Nothing in this subchapter or subchapter II of this chapter shall be deemed to affect in any wise the rights of the United States to the natural resources of that portion of the subsoil and seabed of the Continental Shelf lying seaward and outside of the area of lands beneath navigable waters, as defined in [section 1301 of this title][/us/usc/t43/s1301], all of which natural resources appertain to the United States, and the jurisdiction and control of which by the United States is confirmed.
+    Nothing in this subchapter or subchapter II shall be deemed to affect in any wise the rights of the United States to the natural resources of that portion of the subsoil and seabed of the Continental Shelf lying seaward and outside of the area of lands beneath navigable waters, as defined in [section 1301 of this title][/us/usc/t43/s1301], all of which natural resources appertain to the United States, and the jurisdiction and control of which by the United States is confirmed.
 
 ([May 22, 1953, ch. 65][/us/act/1953-05-22/ch65], title II, § 9, [67 Stat. 32][/us/stat/67/32].)
 

@@ -51,7 +51,7 @@
 
     (g) __Authorization of appropriations__ 
 
-        Effective with fiscal years beginning after September 30, 1984, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d) of this section, but not more than $250,000 may be appropriated for any one fiscal year.
+        Effective with fiscal years beginning after September 30, 1984, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d), but not more than $250,000 may be appropriated for any one fiscal year.
 
 ([Pub. L. 94–579, title III, § 307][/us/pl/94/579/s307], Oct. 21, 1976, [90 Stat. 2766][/us/stat/90/2766]; [Pub. L. 98–540, § 2][/us/pl/98/540/s2], Oct. 24, 1984, [98 Stat. 2718][/us/stat/98/2718]; [Pub. L. 101–286, title II, § 204(c)][/us/pl/101/286/s204/c], May 9, 1990, [104 Stat. 175][/us/stat/104/175].)
 

@@ -17,7 +17,7 @@
 
     (a) The Secretary, in cooperation with the city of San Diego, California  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  or its successor agency in the management of the San Diego Area Wastewater Management District, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Diego metropolitan service area.
 
-    (b) The Federal share of the costs of the facilities authorized by subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+    (b) The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
 ([Pub. L. 102–575, title XVI, § 1612][/us/pl/102/575/s1612], Oct. 30, 1992, [106 Stat. 4667][/us/stat/106/4667].)
 

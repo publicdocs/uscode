@@ -97,7 +97,7 @@
 
         (2) __Disbursement__ 
 
-            In each fiscal year, the Secretary shall disburse to each producing State for which the Secretary has approved a plan under subsection (c) of this section, and to coastal political subdivisions under paragraph (4), such funds as are allocated to the producing State or coastal political subdivision, respectively, under this section for the fiscal year.
+            In each fiscal year, the Secretary shall disburse to each producing State for which the Secretary has approved a plan under subsection (c), and to coastal political subdivisions under paragraph (4), such funds as are allocated to the producing State or coastal political subdivision, respectively, under this section for the fiscal year.
 
         (3) __Allocation among producing States__ 
 
@@ -173,15 +173,15 @@
 
             (A) __In general__ 
 
-                Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c) of this section, the Secretary shall allocate the undisbursed amount equally among all other producing States.
+                Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c), the Secretary shall allocate the undisbursed amount equally among all other producing States.
 
             (B) __Retention of allocation__ 
 
-                The Secretary shall hold in escrow an undisbursed amount described in subparagraph (A) until such date as the final appeal regarding the disapproval of a plan submitted under subsection (c) of this section is decided.
+                The Secretary shall hold in escrow an undisbursed amount described in subparagraph (A) until such date as the final appeal regarding the disapproval of a plan submitted under subsection (c) is decided.
 
             (C) __Waiver__ 
 
-                The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
+                The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
 
     (c) __Coastal impact assistance plan__ 
 
@@ -205,7 +205,7 @@
 
             The Secretary shall approve a plan submitted under paragraph (1) if—
 
-                (i) the Secretary determines that the plan is consistent with the uses described in subsection (d) of this section; and
+                (i) the Secretary determines that the plan is consistent with the uses described in subsection (d); and
 
                 (ii)
 

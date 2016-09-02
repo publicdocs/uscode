@@ -25,7 +25,7 @@
 
     (c) __Cooperation with other Federal agencies__ 
 
-        In conformity with subsection (a) of this section and the authority of the Environmental Protection Agency under Federal laws, the Secretary, the Administrator of the Environmental Protection Agency, and the Secretary of Agriculture are directed to cooperate and coordinate their activities effectively to carry out the objective of this subchapter.
+        In conformity with subsection (a) and the authority of the Environmental Protection Agency under Federal laws, the Secretary, the Administrator of the Environmental Protection Agency, and the Secretary of Agriculture are directed to cooperate and coordinate their activities effectively to carry out the objective of this subchapter.
 
 ([Pub. L. 93–320, title II, § 201][/us/pl/93/320/s201], June 24, 1974, [88 Stat. 270][/us/stat/88/270]; [Pub. L. 98–569, § 1][/us/pl/98/569/s1], Oct. 30, 1984, [98 Stat. 2933][/us/stat/98/2933].)
 
