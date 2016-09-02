@@ -21,17 +21,25 @@
 
     (2) $174,000,000 for each of fiscal years 2009, 2010, and 2011;
 
-    (3) $186,000,000 for each of fiscal years 2012, 2013, 2014, 2015, 2017, and 2018;
+    (3) $186,000,000 for each of fiscal years 2012, 2013, 2014, and 2015  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a semicolon. </sup></sup> 
 
-    (4) $210,000,000 for each of fiscal years 2019, 2020, and 2021; and
+    (4) $299,997,000 for fiscal year 2017;
 
-    (5) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+    (5) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1817][/us/stat/117/1817]; amended [Pub. L. 111–383, div. C, title XXXV, § 3502(3)][/us/pl/111/383/s3502/3], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(i)][/us/pl/112/239/s3508/i], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–92, div. C, title XXXV, § 3504(b)][/us/pl/114/92/s3504/b], Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219].)
+    (6) $314,007,780 for fiscal year 2021; and
+
+    (7) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+
+(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1817][/us/stat/117/1817]; amended [Pub. L. 111–383, div. C, title XXXV, § 3502(3)][/us/pl/111/383/s3502/3], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(i)][/us/pl/112/239/s3508/i], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–92, div. C, title XXXV, § 3504(b)][/us/pl/114/92/s3504/b], Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219]; [Pub. L. 114–113, div. O, title I, § 101(e)(2)][/us/pl/114/113/s101/e/2], Dec. 18, 2015, [129 Stat. 2988][/us/stat/129/2988].)
 
  __Amendments__ 
 
-    2015—Par. (3). [Pub. L. 114–92][/us/pl/114/92] struck out “2016,” after “2015,”.
+    2015—Par. (3). [Pub. L. 114–113, § 101(e)(2)(A)][/us/pl/114/113/s101/e/2/A], substituted “and 2015” for “2015, 2017, and 2018;”.
+
+    [Pub. L. 114–92][/us/pl/114/92] struck out “2016,” after “2015,”.
+
+    Pars. (4) to (7). [Pub. L. 114–113, § 101(e)(2)(B)][/us/pl/114/113/s101/e/2/B], (C), added pars. (4) to (6), redesignated former par. (5) as (7), and struck out former par. (4) which read as follows: “$210,000,000 for each of fiscal years 2019, 2020, and 2021; and”.
 
     2013—Par. (2). [Pub. L. 112–239, § 3508(i)(1)][/us/pl/112/239/s3508/i/1], struck out “and” at end.
 
@@ -54,7 +62,11 @@
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
 [/us/pl/114/92/s3504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3504%2Fb
 [/us/stat/129/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1219
+[/us/pl/114/113/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F2
+[/us/stat/129/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2988
+[/us/pl/114/113/s101/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F2%2FA
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/113/s101/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F2%2FB
 [/us/pl/112/239/s3508/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fi%2F1
 [/us/pl/112/239/s3508/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fi%2F2
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

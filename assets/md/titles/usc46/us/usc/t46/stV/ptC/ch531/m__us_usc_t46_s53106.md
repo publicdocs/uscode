@@ -23,13 +23,17 @@
 
             (A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-            (B) $2,900,000, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  for each of fiscal years 2009, 2010, and 2011;
+            (B) $2,900,000 for each of fiscal years 2009, 2010, and 2011;
 
-            (C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+            (C) $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
 
-            (D) $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
+            (D) $4,999,950 for fiscal year 2017;
 
-            (E) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+            (E) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+
+            (F) $5,233,463 for fiscal year 2021; and
+
+            (G) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
         (2)  __Timing__  __.—__ 
 
@@ -81,9 +85,15 @@
 
         In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1813][/us/stat/117/1813]; amended [Pub. L. 109–304, § 13(a)(5)][/us/pl/109/304/s13/a/5], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV, § 3502(c)][/us/pl/109/364/s3502/c], Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516]; [Pub. L. 111–383, div. C, title XXXV, § 3502(2)][/us/pl/111/383/s3502/2], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(f)][/us/pl/112/239/s3508/f], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
+(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1813][/us/stat/117/1813]; amended [Pub. L. 109–304, § 13(a)(5)][/us/pl/109/304/s13/a/5], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV, § 3502(c)][/us/pl/109/364/s3502/c], Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516]; [Pub. L. 111–383, div. C, title XXXV, § 3502(2)][/us/pl/111/383/s3502/2], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(f)][/us/pl/112/239/s3508/f], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–113, div. O, title I, § 101(e)(1)][/us/pl/114/113/s101/e/1], Dec. 18, 2015, [129 Stat. 2988][/us/stat/129/2988].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–113, § 101(e)(1)(A)][/us/pl/114/113/s101/e/1/A], struck out comma before “for each”.
+
+    Subsec. (a)(1)(C). [Pub. L. 114–113, § 101(e)(1)(B)][/us/pl/114/113/s101/e/1/B], substituted “and 2015;” for “2015, 2016, 2017, and 2018;”.
+
+    Subsec. (a)(1)(D) to (G). [Pub. L. 114–113, § 101(e)(1)(C)][/us/pl/114/113/s101/e/1/C], (D), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which read as follows: “$3,500,000 for each of fiscal years 2019, 2020, and 2021; and”.
 
     2013—Subsec. (a)(1)(B) to (E). [Pub. L. 112–239, § 3508(f)(1)][/us/pl/112/239/s3508/f/1], added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.”
 
@@ -124,6 +134,11 @@
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
 [/us/pl/112/239/s3508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
+[/us/pl/114/113/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1
+[/us/stat/129/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2988
+[/us/pl/114/113/s101/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FA
+[/us/pl/114/113/s101/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FB
+[/us/pl/114/113/s101/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FC
 [/us/pl/112/239/s3508/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F1
 [/us/pl/112/239/s3508/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F2
 [/us/pl/112/239/s3508/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F3
