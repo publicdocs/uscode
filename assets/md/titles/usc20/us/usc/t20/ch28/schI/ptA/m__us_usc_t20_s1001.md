@@ -147,6 +147,12 @@
 
 >     “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–105, § 1][/us/pl/114/105/s1], Dec. 18, 2015, [129 Stat. 2219][/us/stat/129/2219], provided that: 
+
+> “This Act \[amending sections 1087aa, 1087cc–1, and 1087ff of this title and enacting provisions set out as notes under sections 1087aa and 1226a of this title\] may be cited as the ‘Federal Perkins Loan Program Extension Act of 2015’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–28, § 1][/us/pl/113/28/s1], Aug. 9, 2013, [127 Stat. 506][/us/stat/127/506], provided that: 
@@ -653,6 +659,8 @@
 [/us/usc/t20/s1132d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132d
 [/us/pl/94/482/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs532
 [/us/stat/90/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2241
+[/us/pl/114/105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F105%2Fs1
+[/us/stat/129/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2219
 [/us/pl/113/28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs1
 [/us/stat/127/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F506
 [/us/usc/t20/s1087e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e
