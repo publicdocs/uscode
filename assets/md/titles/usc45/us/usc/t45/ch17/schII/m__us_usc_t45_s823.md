@@ -17,33 +17,35 @@
 
     (a) __Applications__ 
 
-        The Secretary shall prescribe the form and contents required of applications for assistance under [section 822 of this title][/us/usc/t45/s822], to enable the Secretary to determine the eligibility of the applicant’s proposal, and shall establish terms and conditions for direct loans and loan guarantees made under that section.
+        The Secretary shall prescribe the form and contents required of applications for assistance under [section 822 of this title][/us/usc/t45/s822], to enable the Secretary to determine the eligibility of the applicant’s proposal, and shall establish terms and conditions for direct loans and loan guarantees made under that section, including a program guide, a standard term sheet, and specific timetables.
 
-    (b)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There are two subsections designated (b).__  __ </sup></sup> __  __Full faith and credit__ 
+    (b) __Full faith and credit__ 
 
         All guarantees entered into by the Secretary under [section 822 of this title][/us/usc/t45/s822] shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
 
-    (b)  __1__  __Assignment of loan guarantees__ 
+    (c) __Assignment of loan guarantees__ 
 
         The holder of a loan guarantee made under [section 822 of this title][/us/usc/t45/s822] may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
 
-    (c) __Modifications__ 
+    (d) __Modifications__ 
 
     The Secretary may approve the modification of any term or condition of a direct loan, loan guarantee, direct loan obligation, or loan guarantee commitment, including the rate of interest, time of payment of interest or principal, or security requirements, if the Secretary finds in writing that—
 
-        (1) the modification is equitable and is in the overall best interests of the United States; and
+        (1) the modification is equitable and is in the overall best interests of the United States;
 
-        (2) consent has been obtained from the applicant and, in the case of a loan guarantee or loan guarantee commitment, the holder of the obligation.
+        (2) consent has been obtained from the applicant and, in the case of a loan guarantee or loan guarantee commitment, the holder of the obligation; and
 
-    (d) __Compliance__ 
+        (3) the modification cost has been covered under [section 822(f) of this title][/us/usc/t45/s822/f].
+
+    (e) __Compliance__ 
 
         The Secretary shall assure compliance, by an applicant, any other party to the loan, and any railroad or railroad partner for whose benefit assistance is intended, with the provisions of this subchapter, regulations issued hereunder, and the terms and conditions of the direct loan or loan guarantee, including through regular periodic inspections.
 
-    (e) __Commercial validity__ 
+    (f) __Commercial validity__ 
 
         For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
 
-    (f) __Default__ 
+    (g) __Default__ 
 
     The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under [section 822 of this title][/us/usc/t45/s822]. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
 
@@ -57,7 +59,7 @@
 
         (5) the holder of the obligation shall not receive payment or be entitled to retain payment in a total amount which, together with all other recoveries (including any recovery based upon a security interest in equipment or facilities) exceeds the actual loss of such holder.
 
-    (g) __Rights of the Secretary__ 
+    (h) __Rights of the Secretary__ 
 
         (1) __Subrogation__ 
 
@@ -67,7 +69,7 @@
 
             The Secretary may complete, recondition, reconstruct, renovate, repair, maintain, operate, charter, rent, sell, or otherwise dispose of any property or other interests obtained pursuant to this section. The Secretary shall not be subject to any Federal or State regulatory requirements when carrying out this paragraph.
 
-    (h) __Action against obligor__ 
+    (i) __Action against obligor__ 
 
     The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under [section 822 of this title][/us/usc/t45/s822], or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under [section 822 of this title][/us/usc/t45/s822]. The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
 
@@ -77,23 +79,59 @@
 
         the Secretary shall pay such excess to the obligor.
 
-    (i) __Breach of conditions__ 
+    (j) __Breach of conditions__ 
 
         The Attorney General shall commence a civil action in an appropriate Federal court to enjoin any activity which the Secretary finds is in violation of this subchapter, regulations issued hereunder, or any conditions which were duly agreed to, and to secure any other appropriate relief.
 
-    (j) __Attachment__ 
+    (k) __Attachment__ 
 
         No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
 
-    (k) __Evaluation charge__ 
+    (l) __Charges and loan servicing__ 
 
-        The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.
+        (1) __Purposes__ 
 
-    (l) __Fees and charges__ 
+        The Secretary may collect from each applicant, obligor, or loan party a reasonable charge for—
+
+            (A) the cost of evaluating the application, amendments, modifications, and waivers, including for evaluating project viability, applicant creditworthiness, and the appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings;
+
+            (B) the cost of award management and project management oversight;
+
+            (C) the cost of services from expert firms, including counsel, and independent financial advisors to assist in the underwriting, auditing, servicing, and exercise of rights with respect to direct loans and loan guarantees; and
+
+            (D) the cost of all other expenses incurred as a result of a breach of any term or condition or any event of default on a direct loan or loan guarantee.
+
+        (2) __Standards__ 
+
+            The Secretary may charge different amounts under this subsection based on the different costs incurred under paragraph (1).
+
+        (3) __Servicer__ 
+
+            (A) __In general__ 
+
+                The Secretary may appoint a financial entity to assist the Secretary in servicing a direct loan or loan guarantee under this subchapter.
+
+            (B) __Duties__ 
+
+                A servicer appointed under subparagraph (A) shall act as the agent of the Secretary in serving a direct loan or loan guarantee under this subchapter.
+
+            (C) __Fees__ 
+
+                A servicer appointed under subparagraph (A) shall receive a servicing fee from the obligor or other loan party, subject to approval by the Secretary.
+
+        (4) __Safety and operations account__ 
+
+        Amounts collected under this subsection shall—
+
+            (A) be credited directly to the Safety and Operations account of the Federal Railroad Administration; and
+
+            (B) remain available until expended to pay for the costs described in this subsection.
+
+    (m) __Fees and charges__ 
 
         Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under [section 822 of this title][/us/usc/t45/s822].
 
-([Pub. L. 94–210, title V, § 503][/us/pl/94/210/s503], as added and amended [Pub. L. 105–178, title VII, § 7203(a)(1)][/us/pl/105/178/s7203/a/1], (4), June 9, 1998, [112 Stat. 475][/us/stat/112/475], 477; [Pub. L. 109–59, title IX, § 9003(h)][/us/pl/109/59/s9003/h], (i), Aug. 10, 2005, [119 Stat. 1923][/us/stat/119/1923].)
+([Pub. L. 94–210, title V, § 503][/us/pl/94/210/s503], as added and amended [Pub. L. 105–178, title VII, § 7203(a)(1)][/us/pl/105/178/s7203/a/1], (4), June 9, 1998, [112 Stat. 475][/us/stat/112/475], 477; [Pub. L. 109–59, title IX, § 9003(h)][/us/pl/109/59/s9003/h], (i), Aug. 10, 2005, [119 Stat. 1923][/us/stat/119/1923]; [Pub. L. 114–94, div. A, title XI, § 11605(b)][/us/pl/114/94/s11605/b], Dec. 4, 2015, [129 Stat. 1695][/us/stat/129/1695].)
 
  __Codification__ 
 
@@ -105,11 +143,31 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a). [Pub. L. 114–94, § 11605(b)(1)][/us/pl/114/94/s11605/b/1], inserted “, including a program guide, a standard term sheet, and specific timetables” before period at end.
+
+    Subsecs. (b), (c). [Pub. L. 114–94, § 11605(b)(3)][/us/pl/114/94/s11605/b/3], redesignated subsec. (b), relating to assignment of loan guarantees, as (c). Former subsec. (c) redesignated (d).
+
+    Subsec. (d). [Pub. L. 114–94, § 11605(b)(2)][/us/pl/114/94/s11605/b/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+    Subsec. (d)(3). [Pub. L. 114–94, § 11605(b)(4)][/us/pl/114/94/s11605/b/4], added par. (3).
+
+    Subsecs. (e) to (k). [Pub. L. 114–94, § 11605(b)(2)][/us/pl/114/94/s11605/b/2], redesignated subsecs. (d) to (j) as (e) to (k), respectively. Former subsec. (k) redesignated (l).
+
+    Subsec. (l). [Pub. L. 114–94, § 11605(b)(5)][/us/pl/114/94/s11605/b/5], added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
+
+    [Pub. L. 114–94, § 11605(b)(2)][/us/pl/114/94/s11605/b/2], redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
+
+    Subsec. (m). [Pub. L. 114–94, § 11605(b)(2)][/us/pl/114/94/s11605/b/2], redesignated subsec. (l) as (m).
+
     2005—Subsec. (k). [Pub. L. 109–59, § 9003(h)][/us/pl/109/59/s9003/h], in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
 
     Subsec. (l). [Pub. L. 109–59, § 9003(i)][/us/pl/109/59/s9003/i], added subsec. (l).
 
     1998—Subsec. (b). [Pub. L. 105–178, § 7203(a)(4)][/us/pl/105/178/s7203/a/4], redesignated subsec. (c) of [section 831 of this title][/us/usc/t45/s831] as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 §§ 824, 825. __Repealed.__  __[__  __Pub. L. 105–178, title VII, § 7203(a)(1)__  __][/us/pl/105/178/s7203/a/1]__  __, (2),__  __June 9, 1998__  __,__  __[__  __112 Stat. 471__  __][/us/stat/112/471]__  __, 477__ 
 
@@ -127,6 +185,7 @@
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
+[/us/usc/t45/s822/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822%2Ff
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
@@ -137,6 +196,8 @@
 [/us/stat/112/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F475
 [/us/pl/109/59/s9003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9003%2Fh
 [/us/stat/119/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1923
+[/us/pl/114/94/s11605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb
+[/us/stat/129/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1695
 [/us/usc/t45/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs831%2Fc
 [/us/pl/105/178/s7203/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F4
 [/us/stat/112/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F477
@@ -152,10 +213,21 @@
 [/us/stat/90/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2627
 [/us/pl/105/178/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F1
 [/us/stat/112/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F471
+[/us/pl/114/94/s11605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F1
+[/us/pl/114/94/s11605/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F3
+[/us/pl/114/94/s11605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F2
+[/us/pl/114/94/s11605/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F4
+[/us/pl/114/94/s11605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F2
+[/us/pl/114/94/s11605/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F5
+[/us/pl/114/94/s11605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F2
+[/us/pl/114/94/s11605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11605%2Fb%2F2
 [/us/pl/109/59/s9003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9003%2Fh
 [/us/pl/109/59/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9003%2Fi
 [/us/pl/105/178/s7203/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F4
 [/us/usc/t45/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs831
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/105/178/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F1
 [/us/stat/112/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F471
 [/us/pl/94/210/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs504

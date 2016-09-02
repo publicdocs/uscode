@@ -43,11 +43,11 @@
 
     (b)
 
-        (1) The term “employee” means (i) any individual in the service of one or more employers for compensation, (ii) any individual who is in the employment relation to one or more employers, and (iii) an employee representative: Provided, however, That the term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) of this section only if he was in the service of or in the employment relation to an employer as defined in paragraph (i) of subsection (a)(1) of this section on or after August 29, 1935.
+        (1) The term “employee” means (i) any individual in the service of one or more employers for compensation, (ii) any individual who is in the employment relation to one or more employers, and (iii) an employee representative: Provided, however, That the term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to an employer as defined in paragraph (i) of subsection (a)(1) on or after August 29, 1935.
 
         (2) The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
 
-    (c) The term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a) of this section who before or after August 29, 1935, was in the service of an employer as defined in subsection (a) of this section and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act, as amended \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\], and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
+    (c) The term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a) who before or after August 29, 1935, was in the service of an employer as defined in subsection (a) and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act, as amended \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\], and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
 
     (d)
 
@@ -85,7 +85,7 @@
 
             (iv) he was on August 29, 1935, absent from the service of an employer by reason of a discharge which, within one year after the effective date thereof, was protested, to an appropriate labor representative or to the employer, as wrongful, and which was followed within ten years of the effective date thereof by his reinstatement in good faith to his former service with all his senority  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “seniority”. </sup></sup>  rights.
 
-        (2) Notwithstanding the provisions of subdivision (1) of this subsection, an individual shall not be deemed to have been in the employment relation to an employer on August 29, 1935, if before that date he was granted a pension or gratuity on the basis of which a pension was awarded to him pursuant to section 6 of the Railroad Retirement Act of 1937 \[[45 U.S.C. 228f][/us/usc/t45/s228f]\], or if during the last payroll period before August 29, 1935, in which he rendered service to an employer he was not in the service of an employer, in accordance with subsection (d) of this section, with respect to any service in such payroll period, or if he could have been in the employment relation to an employer only by reason of his having been, either before or after August 29, 1935, in the service of a local lodge or division defined as an employer in subsection (a) of this section.
+        (2) Notwithstanding the provisions of subdivision (1) of this subsection, an individual shall not be deemed to have been in the employment relation to an employer on August 29, 1935, if before that date he was granted a pension or gratuity on the basis of which a pension was awarded to him pursuant to section 6 of the Railroad Retirement Act of 1937 \[[45 U.S.C. 228f][/us/usc/t45/s228f]\], or if during the last payroll period before August 29, 1935, in which he rendered service to an employer he was not in the service of an employer, in accordance with subsection (d), with respect to any service in such payroll period, or if he could have been in the employment relation to an employer only by reason of his having been, either before or after August 29, 1935, in the service of a local lodge or division defined as an employer in subsection (a).
 
     (f)
 
@@ -97,7 +97,7 @@
 
             (i) service rendered to a person which was an employer on August 29, 1935, irrespective of whether such person was an employer at the time such service was rendered;
 
-            (ii) service rendered to any express company, sleeping-car company, or carrier by railroad which was a predecessor of a company which, on August 29, 1935, was an employer as defined in paragraph (i) of subsection (a)(1) of this section, irrespective of whether such predecessor was an employer at the time such service was rendered; and
+            (ii) service rendered to any express company, sleeping-car company, or carrier by railroad which was a predecessor of a company which, on August 29, 1935, was an employer as defined in paragraph (i) of subsection (a)(1), irrespective of whether such predecessor was an employer at the time such service was rendered; and
 
             (iii) service rendered to a person not an employer in the performance of operations involving the use of standard railroad equipment if such operations were performed by an employer on August 29, 1935.
 
@@ -219,7 +219,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -295,7 +295,7 @@
 
  __Abolition of Interstate Commerce Commission and Transfer of Functions__ 
 
-    Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49][/us/usc/t49/s702], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of Title 49][/us/usc/t49/s701]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 701 of Title 49][/us/usc/t49/s701].
+    Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49][/us/usc/t49/s1302], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of Title 49][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of Title 49][/us/usc/t49/s1301].
 
  __Transitional Provisions__ 
 
@@ -477,7 +477,7 @@
 [/us/pl/94/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F547
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/100/647/s7304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7304%2Fb
 [/us/stat/102/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3778
 [/us/pl/98/76/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs402%2Fc
@@ -533,11 +533,11 @@
 [/us/usc/t45/s228b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228b%2Fa
 [/us/usc/t45/s231a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231a
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
 [/us/stat/88/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1351
 [/us/pl/94/92/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F92%2Fs202%2Fa

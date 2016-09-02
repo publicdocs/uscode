@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1934—Act June 21, 1934, amended generally par. First and par. Second, (e) and (f).
+    1934—Act June 21, 1934, amended generally par. First and par. Third, (e) and (f).
 
 ----------
 

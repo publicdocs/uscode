@@ -15,7 +15,7 @@
 
 ## § 851. Repealed. [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379]
 
-    Section, [Pub. L. 94–210, title VII, § 701][/us/pl/94/210/s701], Feb. 5, 1976, [90 Stat. 119][/us/stat/90/119]; [Pub. L. 96–254, title II, § 205][/us/pl/96/254/s205], May 30, 1980, [94 Stat. 412][/us/stat/94/412], specified powers and duties of National Railroad Passenger Corporation with respect to implementing the Northeast Corridor improvement project. See sections 24102, 24305, 24315, 24902, and 24904 of Title 49, Transportation.
+    Section, [Pub. L. 94–210, title VII, § 701][/us/pl/94/210/s701], Feb. 5, 1976, [90 Stat. 119][/us/stat/90/119]; [Pub. L. 96–254, title II, § 205][/us/pl/96/254/s205], May 30, 1980, [94 Stat. 412][/us/stat/94/412], specified powers and duties of National Railroad Passenger Corporation with respect to implementing the Northeast Corridor improvement project. See sections 24102, 24305, 24315, 24902, and 24903 of Title 49, Transportation.
 
 ----------
 
