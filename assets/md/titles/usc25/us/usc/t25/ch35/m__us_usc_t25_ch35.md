@@ -33,7 +33,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3301" data-uslm-ref="/us/usc/t25/s3301">3301.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3302" data-uslm-ref="/us/usc/t25/s3302">3302.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3303" data-uslm-ref="/us/usc/t25/s3303">3303.</a>  </td>
 
     <td> Program authority.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3304" data-uslm-ref="/us/usc/t25/s3304">3304.</a>  </td>
 
     <td> Qualification for grants to tribes.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3305" data-uslm-ref="/us/usc/t25/s3305">3305.</a>  </td>
 
     <td> Allocation of grant funds.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3306" data-uslm-ref="/us/usc/t25/s3306">3306.</a>  </td>
 
     <td> Limitations on use of funds.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION  </td>
 
   <tr>
 
-    <td> 3307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3307" data-uslm-ref="/us/usc/t25/s3307">3307.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CRITICAL NEEDS FOR TRIBAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3321" data-uslm-ref="/us/usc/t25/s3321">3321.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CRITICAL NEEDS FOR TRIBAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3322" data-uslm-ref="/us/usc/t25/s3322">3322.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CRITICAL NEEDS FOR TRIBAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3323" data-uslm-ref="/us/usc/t25/s3323">3323.</a>  </td>
 
     <td> Service conditions permitted.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CRITICAL NEEDS FOR TRIBAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3324" data-uslm-ref="/us/usc/t25/s3324">3324.</a>  </td>
 
     <td> Critical area service agreements.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CRITICAL NEEDS FOR TRIBAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3325" data-uslm-ref="/us/usc/t25/s3325">3325.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -145,7 +145,9 @@ SUBCHAPTER III—TRIBAL DEVELOPMENT STUDENT ASSISTANCE REVOLVING LOAN PROGRAM  <
 
   <tr>
 
-    <td> 3331 to 3338. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3331" data-uslm-ref="/us/usc/t25/s3331">3331</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3338" data-uslm-ref="/us/usc/t25/s3338">3338.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -159,7 +161,9 @@ SUBCHAPTER IV—AMERICAN INDIAN POST-SECONDARY ECONOMIC DEVELOPMENT SCHOLARSHIP 
 
   <tr>
 
-    <td> 3351 to 3355. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3351" data-uslm-ref="/us/usc/t25/s3351">3351</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3355" data-uslm-ref="/us/usc/t25/s3355">3355.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -173,7 +177,7 @@ SUBCHAPTER V—AMERICAN INDIAN TEACHER TRAINING  </td>
 
   <tr>
 
-    <td> 3371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3371" data-uslm-ref="/us/usc/t25/s3371">3371.</a>  </td>
 
     <td> Repealed.  </td>
 

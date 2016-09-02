@@ -17,7 +17,7 @@
 
     (a) __Covered lands; jurisdiction of respective tribes over nonmembers__ 
 
-        Nothing in this subchapter shall effect the title, possession, and enjoyment of lands heretofore allotted to Hopi and Navajo individuals for which patents have been issued. Such Hopi individuals living on the Navajo Reservation shall be subject to the jurisdiction of the Navajo Tribe and such Navajo individuals living on the Hopi Reservation shall be subject to the jurisdiction of the Hopi Tribe.
+        Nothing in this subchapter shall affect the title, possession, and enjoyment of lands heretofore allotted to Hopi and Navajo individuals for which patents have been issued. Such Hopi individuals living on the Navajo Reservation shall be subject to the jurisdiction of the Navajo Tribe and such Navajo individuals living on the Hopi Reservation shall be subject to the jurisdiction of the Hopi Tribe.
 
     (b) __Relocation of Federal employees__ 
 

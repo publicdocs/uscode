@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1301" data-uslm-ref="/us/usc/t25/s1301">1301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1302" data-uslm-ref="/us/usc/t25/s1302">1302.</a>  </td>
 
     <td> Constitutional rights.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1303" data-uslm-ref="/us/usc/t25/s1303">1303.</a>  </td>
 
     <td> Habeas corpus.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1304" data-uslm-ref="/us/usc/t25/s1304">1304.</a>  </td>
 
     <td> Tribal jurisdiction over crimes of domestic violence.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—MODEL CODE GOVERNING COURTS OF INDIAN OFFENSES  </td>
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1311" data-uslm-ref="/us/usc/t25/s1311">1311.</a>  </td>
 
     <td> Model code.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—MODEL CODE GOVERNING COURTS OF INDIAN OFFENSES  </td>
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1312" data-uslm-ref="/us/usc/t25/s1312">1312.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1321" data-uslm-ref="/us/usc/t25/s1321">1321.</a>  </td>
 
     <td> Assumption by State of criminal jurisdiction.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1322" data-uslm-ref="/us/usc/t25/s1322">1322.</a>  </td>
 
     <td> Assumption by State of civil jurisdiction.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1323" data-uslm-ref="/us/usc/t25/s1323">1323.</a>  </td>
 
     <td> Retrocession of jurisdiction by State.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1324" data-uslm-ref="/us/usc/t25/s1324">1324.</a>  </td>
 
     <td> Amendment of State constitutions or statutes to remove legal impediment; effective date.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1325" data-uslm-ref="/us/usc/t25/s1325">1325.</a>  </td>
 
     <td> Abatement of actions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS  </td>
 
   <tr>
 
-    <td> 1326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1326" data-uslm-ref="/us/usc/t25/s1326">1326.</a>  </td>
 
     <td> Special election.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—EMPLOYMENT OF LEGAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1331" data-uslm-ref="/us/usc/t25/s1331">1331.</a>  </td>
 
     <td> Approval.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER V—MATERIALS AND PUBLICATIONS  </td>
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1341" data-uslm-ref="/us/usc/t25/s1341">1341.</a>  </td>
 
     <td> Authorization of Secretary.  </td>
 

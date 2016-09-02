@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3701" data-uslm-ref="/us/usc/t25/s3701">3701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3702" data-uslm-ref="/us/usc/t25/s3702">3702.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3703" data-uslm-ref="/us/usc/t25/s3703">3703.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3711" data-uslm-ref="/us/usc/t25/s3711">3711.</a>  </td>
 
     <td> Management of Indian rangelands and farmlands.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3712" data-uslm-ref="/us/usc/t25/s3712">3712.</a>  </td>
 
     <td> Indian participation in land management activities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3713" data-uslm-ref="/us/usc/t25/s3713">3713.</a>  </td>
 
     <td> Indian agricultural lands trespass.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3714" data-uslm-ref="/us/usc/t25/s3714">3714.</a>  </td>
 
     <td> Assessment of Indian agricultural management programs.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT  </td>
 
   <tr>
 
-    <td> 3715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3715" data-uslm-ref="/us/usc/t25/s3715">3715.</a>  </td>
 
     <td> Leasing of Indian agricultural lands.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—EDUCATION IN AGRICULTURE MANAGEMENT  </td>
 
   <tr>
 
-    <td> 3731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3731" data-uslm-ref="/us/usc/t25/s3731">3731.</a>  </td>
 
     <td> Indian and Alaska Native agriculture management education assistance programs.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EDUCATION IN AGRICULTURE MANAGEMENT  </td>
 
   <tr>
 
-    <td> 3732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3732" data-uslm-ref="/us/usc/t25/s3732">3732.</a>  </td>
 
     <td> Postgraduation recruitment, education and training programs.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EDUCATION IN AGRICULTURE MANAGEMENT  </td>
 
   <tr>
 
-    <td> 3733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3733" data-uslm-ref="/us/usc/t25/s3733">3733.</a>  </td>
 
     <td> Cooperative agreement between Department of the Interior and Indian tribes.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—EDUCATION IN AGRICULTURE MANAGEMENT  </td>
 
   <tr>
 
-    <td> 3734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3734" data-uslm-ref="/us/usc/t25/s3734">3734.</a>  </td>
 
     <td> Obligated service; breach of contract.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3741" data-uslm-ref="/us/usc/t25/s3741">3741.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3742" data-uslm-ref="/us/usc/t25/s3742">3742.</a>  </td>
 
     <td> Trust responsibility.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3743" data-uslm-ref="/us/usc/t25/s3743">3743.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3744" data-uslm-ref="/us/usc/t25/s3744">3744.</a>  </td>
 
     <td> Federal, State and local authority.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3745" data-uslm-ref="/us/usc/t25/s3745">3745.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3746" data-uslm-ref="/us/usc/t25/s3746">3746.</a>  </td>
 
     <td> Tribal immunity.  </td>
 

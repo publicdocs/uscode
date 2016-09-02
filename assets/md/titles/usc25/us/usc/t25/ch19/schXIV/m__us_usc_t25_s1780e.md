@@ -45,7 +45,7 @@
 
         (3) __Acquisitions of land__ 
 
-            In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in [section 1708j(b)(2)(A) of this title][/us/usc/t25/s1708j/b/2/A],  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title),”. </sup></sup>  the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
+            In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in [section 1780j(b)(2)(A) of this title][/us/usc/t25/s1780j/b/2/A],  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title),”. </sup></sup>  the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
 
     (d) __Valid existing rights and reservations__ 
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/usc/t25/s1708j/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1708j%2Fb%2F2%2FA
+[/us/usc/t25/s1780j/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780j%2Fb%2F2%2FA
 [/us/pl/109/286/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs7
 [/us/stat/120/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1221
 

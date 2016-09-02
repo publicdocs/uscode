@@ -33,7 +33,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1451" data-uslm-ref="/us/usc/t25/s1451">1451.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1452" data-uslm-ref="/us/usc/t25/s1452">1452.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1453" data-uslm-ref="/us/usc/t25/s1453">1453.</a>  </td>
 
     <td> Assistance or activities of other Federal agencies unaffected.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1461" data-uslm-ref="/us/usc/t25/s1461">1461.</a>  </td>
 
     <td> Administration as single Indian Revolving Loan Fund sums from diverse sources; availability of fund for loans to Indians and for administrative expenses.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1462" data-uslm-ref="/us/usc/t25/s1462">1462.</a>  </td>
 
     <td> Economic development; educational loans; limitation of loans to or investments in non-Indian organizations.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1463" data-uslm-ref="/us/usc/t25/s1463">1463.</a>  </td>
 
     <td> Repayment of loan; financing from other sources.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1464" data-uslm-ref="/us/usc/t25/s1464">1464.</a>  </td>
 
     <td> Maturity of loans; interest rate; interest deferral on educational loans.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1465" data-uslm-ref="/us/usc/t25/s1465">1465.</a>  </td>
 
     <td> Modification of amount of loan and document securing loan in collection of loan or in best interests of the United States.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1466" data-uslm-ref="/us/usc/t25/s1466">1466.</a>  </td>
 
     <td> Land and personal property title.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1467" data-uslm-ref="/us/usc/t25/s1467">1467.</a>  </td>
 
     <td> Security for loan; assignment of securities; reasonable assurance of repayment.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1468" data-uslm-ref="/us/usc/t25/s1468">1468.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—INDIAN REVOLVING LOAN FUND  </td>
 
   <tr>
 
-    <td> 1469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1469" data-uslm-ref="/us/usc/t25/s1469">1469.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1481" data-uslm-ref="/us/usc/t25/s1481">1481.</a>  </td>
 
     <td> Loan guaranties and insurance.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1482" data-uslm-ref="/us/usc/t25/s1482">1482.</a>  </td>
 
     <td> Premium charges; deposits in Indian Loan Guaranty and Insurance Fund.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1483" data-uslm-ref="/us/usc/t25/s1483">1483.</a>  </td>
 
     <td> Interest rate.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1484" data-uslm-ref="/us/usc/t25/s1484">1484.</a>  </td>
 
     <td> Application for loan; approval by Secretary; issuance of certificate; limitations on amount of loans to individual Indians or economic enterprises; review by Secretary.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1485" data-uslm-ref="/us/usc/t25/s1485">1485.</a>  </td>
 
     <td> Sale or assignment of loans and underlying security.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1486" data-uslm-ref="/us/usc/t25/s1486">1486.</a>  </td>
 
     <td> Loans ineligible for guaranty or insurance.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1487" data-uslm-ref="/us/usc/t25/s1487">1487.</a>  </td>
 
     <td> Loans eligible for insurance.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1488" data-uslm-ref="/us/usc/t25/s1488">1488.</a>  </td>
 
     <td> Lenders authorized to make loans; decrease or increase of liability under the guaranty.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1489" data-uslm-ref="/us/usc/t25/s1489">1489.</a>  </td>
 
     <td> Loans made by certain financial institutions without regard to limitations and restrictions of other Federal statutes with respect to certain particulars.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1490" data-uslm-ref="/us/usc/t25/s1490">1490.</a>  </td>
 
     <td> Maturity of loans.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1491" data-uslm-ref="/us/usc/t25/s1491">1491.</a>  </td>
 
     <td> Defaults; written notification; pro rata payments; subrogation and assignment rights of Secretary; cancellation of uncollectable portion of obligations; forbearance for benefit of borrower; interest or charges cessation date.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1492" data-uslm-ref="/us/usc/t25/s1492">1492.</a>  </td>
 
     <td> Claims for losses; submission to Secretary; reimbursement: single and aggregate loss limitations, conditions; assignment of note or judgment; collection or cancellation by Secretary; interest or charges cessation date.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1493" data-uslm-ref="/us/usc/t25/s1493">1493.</a>  </td>
 
     <td> Loan refusal; conditions; prohibition against acquisition of additional loans; payment of claims on loans made in good faith.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1494" data-uslm-ref="/us/usc/t25/s1494">1494.</a>  </td>
 
     <td> Evidence of eligibility of loan for and amount of guaranty or insurance; defenses and partial defenses against original lender.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1495" data-uslm-ref="/us/usc/t25/s1495">1495.</a>  </td>
 
     <td> Land and personal property titles.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1496" data-uslm-ref="/us/usc/t25/s1496">1496.</a>  </td>
 
     <td> Powers of Secretary; finality of financial transactions and property acquisitions, management, and dispositions.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1497" data-uslm-ref="/us/usc/t25/s1497">1497.</a>  </td>
 
     <td> Indian Loan Guaranty and Insurance Fund.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1497a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1497a" data-uslm-ref="/us/usc/t25/s1497a">1497a.</a>  </td>
 
     <td> Supplemental surety bond guarantee.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1498" data-uslm-ref="/us/usc/t25/s1498">1498.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—LOAN GUARANTY AND INSURANCE  </td>
 
   <tr>
 
-    <td> 1499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1499" data-uslm-ref="/us/usc/t25/s1499">1499.</a>  </td>
 
     <td> Limitation on guarantee of debt issues; approval of bond issue sale.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—INTEREST SUBSIDIES AND ADMINISTRATIVE EXPENSES  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1511" data-uslm-ref="/us/usc/t25/s1511">1511.</a>  </td>
 
     <td> Interest subsidies; rules and regulations.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—INTEREST SUBSIDIES AND ADMINISTRATIVE EXPENSES  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1512" data-uslm-ref="/us/usc/t25/s1512">1512.</a>  </td>
 
     <td> Authorization of appropriations for interest payments.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—INDIAN BUSINESS GRANTS  </td>
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1521" data-uslm-ref="/us/usc/t25/s1521">1521.</a>  </td>
 
     <td> Indian Business Development Program; establishment; statement of purpose.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—INDIAN BUSINESS GRANTS  </td>
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1522" data-uslm-ref="/us/usc/t25/s1522">1522.</a>  </td>
 
     <td> Conditions.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—INDIAN BUSINESS GRANTS  </td>
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1523" data-uslm-ref="/us/usc/t25/s1523">1523.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—INDIAN BUSINESS GRANTS  </td>
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1524" data-uslm-ref="/us/usc/t25/s1524">1524.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1541" data-uslm-ref="/us/usc/t25/s1541">1541.</a>  </td>
 
     <td> Competent management and technical assistance for economic enterprises.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1542" data-uslm-ref="/us/usc/t25/s1542">1542.</a>  </td>
 
     <td> Agency cooperation; private contracts for management services and technical assistance.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1543" data-uslm-ref="/us/usc/t25/s1543">1543.</a>  </td>
 
     <td> Funds limitation for private contracts.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1544" data-uslm-ref="/us/usc/t25/s1544">1544.</a>  </td>
 
     <td> Additional compensation to contractors of Federal agency.  </td>
 

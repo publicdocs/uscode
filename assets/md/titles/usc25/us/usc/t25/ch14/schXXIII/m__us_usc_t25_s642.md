@@ -23,7 +23,7 @@ The Hopi Tribal Council shall have the following powers:
 
     (b) __Mortgages or deeds of trust; law governing mortgage foreclosure or sale; United States as party; removal of cases; appeals__ 
 
-        To execute mortgages upon, or deeds of trust to, the lands within said Hopi Industrial Park. Such lands shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed to trust in accordance with the laws of the State of Arizona. The United States shall be an indispensable party to, and may be joined in, any such proceeding involving said lands with the right to remove the action to the United States district court for the district in which the land is situated, according to the procedure in [section 1446 of title 28][/us/usc/t28/s1446], and the United States shall have the right to appeal from any order of remand entered in such action.
+        To execute mortgages upon, or deeds of trust to, the lands within said Hopi Industrial Park. Such lands shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the State of Arizona. The United States shall be an indispensable party to, and may be joined in, any such proceeding involving said lands with the right to remove the action to the United States district court for the district in which the land is situated, according to the procedure in [section 1446 of title 28][/us/usc/t28/s1446], and the United States shall have the right to appeal from any order of remand entered in such action.
 
     (c) __Pledge of revenue or other income to secure indebtedness for development of park; law governing action to enforce pledge; United States as party__ 
 

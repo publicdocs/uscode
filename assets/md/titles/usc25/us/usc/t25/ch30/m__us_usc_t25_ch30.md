@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2801" data-uslm-ref="/us/usc/t25/s2801">2801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2802" data-uslm-ref="/us/usc/t25/s2802">2802.</a>  </td>
 
     <td> Indian law enforcement responsibilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2803" data-uslm-ref="/us/usc/t25/s2803">2803.</a>  </td>
 
     <td> Law enforcement authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2804" data-uslm-ref="/us/usc/t25/s2804">2804.</a>  </td>
 
     <td> Assistance by other agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2805" data-uslm-ref="/us/usc/t25/s2805">2805.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2806" data-uslm-ref="/us/usc/t25/s2806">2806.</a>  </td>
 
     <td> Jurisdiction.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2807" data-uslm-ref="/us/usc/t25/s2807">2807.</a>  </td>
 
     <td> Uniform allowance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2808" data-uslm-ref="/us/usc/t25/s2808">2808.</a>  </td>
 
     <td> Source of funds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2809" data-uslm-ref="/us/usc/t25/s2809">2809.</a>  </td>
 
     <td> Reports to tribes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2810" data-uslm-ref="/us/usc/t25/s2810">2810.</a>  </td>
 
     <td> Assistant United States Attorney tribal liaisons.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2811" data-uslm-ref="/us/usc/t25/s2811">2811.</a>  </td>
 
     <td> Native American Issues Coordinator.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2812" data-uslm-ref="/us/usc/t25/s2812">2812.</a>  </td>
 
     <td> Indian Law and Order Commission.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2813" data-uslm-ref="/us/usc/t25/s2813">2813.</a>  </td>
 
     <td> Testimony by Federal employees.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2814" data-uslm-ref="/us/usc/t25/s2814">2814.</a>  </td>
 
     <td> Policies and protocol.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2815" data-uslm-ref="/us/usc/t25/s2815">2815.</a>  </td>
 
     <td> State, tribal, and local law enforcement cooperation.  </td>
 

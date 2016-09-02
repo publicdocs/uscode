@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779d.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s § 1779f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779e)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779d.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779e)
 
 ## § 1779e. Attorney fees
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779d.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s § 1779f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779e)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779d.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779e)
 
 ----------
 ----------

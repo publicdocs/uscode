@@ -39,7 +39,7 @@
 
         (1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in [section 1152 of title 18][/us/usc/t18/s1152]. The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ([25 U.S.C. 450f][/us/usc/t25/s450f] et seq.).
 
-        (2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+        (2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
 
 ([Pub. L. 99–570, title IV, § 4216][/us/pl/99/570/s4216], Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 100–690, title II, § 2208][/us/pl/100/690/s2208], Nov. 18, 1988, [102 Stat. 4218][/us/stat/102/4218]; [Pub. L. 102–573, title VII, § 703(6)][/us/pl/102/573/s703/6]–(8), Oct. 29, 1992, [106 Stat. 4583][/us/stat/106/4583]; [Pub. L. 111–211, title II, § 241(e)][/us/pl/111/211/s241/e], July 29, 2010, [124 Stat. 2290][/us/stat/124/2290].)
 
@@ -61,7 +61,7 @@
 
     “(C) $500,000 under paragraph (1)(C) for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-    Subsec. (b)(2). [Pub. L. 111–211, § 241(e)(2)][/us/pl/111/211/s241/e/2], which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015.” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
+    Subsec. (b)(2). [Pub. L. 111–211, § 241(e)(2)][/us/pl/111/211/s241/e/2], which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
 
     1992—Subsec. (a)(1)(C). [Pub. L. 102–573, § 703(6)][/us/pl/102/573/s703/6], added subpar. (C).
 

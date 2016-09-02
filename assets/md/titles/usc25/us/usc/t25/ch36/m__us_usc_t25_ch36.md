@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3401" data-uslm-ref="/us/usc/t25/s3401">3401.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3402" data-uslm-ref="/us/usc/t25/s3402">3402.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3403" data-uslm-ref="/us/usc/t25/s3403">3403.</a>  </td>
 
     <td> Integration of services authorized.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3404" data-uslm-ref="/us/usc/t25/s3404">3404.</a>  </td>
 
     <td> Programs affected.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3405" data-uslm-ref="/us/usc/t25/s3405">3405.</a>  </td>
 
     <td> Plan requirements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3406" data-uslm-ref="/us/usc/t25/s3406">3406.</a>  </td>
 
     <td> Plan review.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3407" data-uslm-ref="/us/usc/t25/s3407">3407.</a>  </td>
 
     <td> Plan approval.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3408" data-uslm-ref="/us/usc/t25/s3408">3408.</a>  </td>
 
     <td> Job creation activities authorized.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3409" data-uslm-ref="/us/usc/t25/s3409">3409.</a>  </td>
 
     <td> Private sector training placements.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3410" data-uslm-ref="/us/usc/t25/s3410">3410.</a>  </td>
 
     <td> Federal responsibilities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3411" data-uslm-ref="/us/usc/t25/s3411">3411.</a>  </td>
 
     <td> No reduction in amounts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3412" data-uslm-ref="/us/usc/t25/s3412">3412.</a>  </td>
 
     <td> Interagency fund transfers authorized.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3413" data-uslm-ref="/us/usc/t25/s3413">3413.</a>  </td>
 
     <td> Administration of funds and overage.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3414" data-uslm-ref="/us/usc/t25/s3414">3414.</a>  </td>
 
     <td> Fiscal accountability.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3415" data-uslm-ref="/us/usc/t25/s3415">3415.</a>  </td>
 
     <td> Report on statutory obstacles to program integration.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3416" data-uslm-ref="/us/usc/t25/s3416">3416.</a>  </td>
 
     <td> Labor market information on Indian work force.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3417" data-uslm-ref="/us/usc/t25/s3417">3417.</a>  </td>
 
     <td> Assignment of Federal personnel to State Indian economic development programs.  </td>
 

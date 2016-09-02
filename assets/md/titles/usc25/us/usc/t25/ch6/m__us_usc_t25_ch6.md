@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs211" data-uslm-ref="/us/usc/t25/s211">211.</a>  </td>
 
     <td> Creation of Indian reservations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 212 to 228.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs212" data-uslm-ref="/us/usc/t25/s212">212</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs228" data-uslm-ref="/us/usc/t25/s228">228.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs229" data-uslm-ref="/us/usc/t25/s229">229.</a>  </td>
 
     <td> Injuries to property by Indians.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 230.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs230" data-uslm-ref="/us/usc/t25/s230">230.</a>  </td>
 
     <td> Depositions by agents touching depredations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs231" data-uslm-ref="/us/usc/t25/s231">231.</a>  </td>
 
     <td> Enforcement of State laws affecting health and education; entry of State employees on Indian lands.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs232" data-uslm-ref="/us/usc/t25/s232">232.</a>  </td>
 
     <td> Jurisdiction of New York State over offenses committed on reservations within State.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs233" data-uslm-ref="/us/usc/t25/s233">233.</a>  </td>
 
     <td> Jurisdiction of New York State courts in civil actions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS  </td>
 
   <tr>
 
-    <td> 241 to 250.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs241" data-uslm-ref="/us/usc/t25/s241">241</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs250" data-uslm-ref="/us/usc/t25/s250">250.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS  </td>
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs251" data-uslm-ref="/us/usc/t25/s251">251.</a>  </td>
 
     <td> Setting up distillery.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS  </td>
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs252" data-uslm-ref="/us/usc/t25/s252">252.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS  </td>
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs253" data-uslm-ref="/us/usc/t25/s253">253.</a>  </td>
 
     <td> Wines for sacramental purposes.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS  </td>
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs254" data-uslm-ref="/us/usc/t25/s254">254.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—TRADERS WITH INDIANS  </td>
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs261" data-uslm-ref="/us/usc/t25/s261">261.</a>  </td>
 
     <td> Power to appoint traders with Indians.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—TRADERS WITH INDIANS  </td>
 
   <tr>
 
-    <td> 262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs262" data-uslm-ref="/us/usc/t25/s262">262.</a>  </td>
 
     <td> Persons permitted to trade with Indians.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—TRADERS WITH INDIANS  </td>
 
   <tr>
 
-    <td> 263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs263" data-uslm-ref="/us/usc/t25/s263">263.</a>  </td>
 
     <td> Prohibition of trade by President.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—TRADERS WITH INDIANS  </td>
 
   <tr>
 
-    <td> 264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs264" data-uslm-ref="/us/usc/t25/s264">264.</a>  </td>
 
     <td> Trading without license; white persons as clerks.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—TRADERS WITH INDIANS  </td>
 
   <tr>
 
-    <td> 265, 266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs265" data-uslm-ref="/us/usc/t25/s265">265</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs266" data-uslm-ref="/us/usc/t25/s266">266.</a>  </td>
 
     <td> Repealed.  </td>
 

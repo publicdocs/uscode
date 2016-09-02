@@ -25,7 +25,7 @@ For the purposes of this subchapter—
 
     (d) “Individual Indian” means any individual Indian whose name appears on the final roll prepared pursuant to [section 743 of this title][/us/usc/t25/s743].
 
-    (e) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States,
+    (e) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
 
 ([Sept. 1, 1954, ch. 1207, § 2][/us/act/1954-09-01/ch1207/s2], [68 Stat. 1100][/us/stat/68/1100].)
 

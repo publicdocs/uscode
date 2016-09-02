@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305" data-uslm-ref="/us/usc/t25/s305">305.</a>  </td>
 
     <td> Indian Arts and Crafts Board; creation and composition; per diem payments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 305a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305a" data-uslm-ref="/us/usc/t25/s305a">305a.</a>  </td>
 
     <td> Promotion of economic welfare through development of arts and crafts; powers of Board.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 305a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305a%E2%80%931" data-uslm-ref="/us/usc/t25/s305a–1">305a–1.</a>  </td>
 
     <td> Additional powers of Board; admission fees, rent, franchise fees and other fundraising activities; volunteers; transfer of revenues into special fund.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 305b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305b" data-uslm-ref="/us/usc/t25/s305b">305b.</a>  </td>
 
     <td> Rules and regulations; submission to Secretary of the Interior.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305c" data-uslm-ref="/us/usc/t25/s305c">305c.</a>  </td>
 
     <td> Appropriation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 305c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305c%E2%80%931" data-uslm-ref="/us/usc/t25/s305c–1">305c–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 305d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305d" data-uslm-ref="/us/usc/t25/s305d">305d.</a>  </td>
 
     <td> Criminal proceedings; civil actions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 305e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305e" data-uslm-ref="/us/usc/t25/s305e">305e.</a>  </td>
 
     <td> Cause of action for misrepresentation of Indian produced goods.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 305f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs305f" data-uslm-ref="/us/usc/t25/s305f">305f.</a>  </td>
 
     <td> Indian Arts and Crafts Board art collection.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs306" data-uslm-ref="/us/usc/t25/s306">306.</a>  </td>
 
     <td> Expenditures for encouragement of industry and self-support; repayment.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs306a" data-uslm-ref="/us/usc/t25/s306a">306a.</a>  </td>
 
     <td> Advances for support of old, disabled, or indigent allottees; lien against land.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 307, 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs307" data-uslm-ref="/us/usc/t25/s307">307</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs308" data-uslm-ref="/us/usc/t25/s308">308.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs309" data-uslm-ref="/us/usc/t25/s309">309.</a>  </td>
 
     <td> Vocational training program; eligibility; contracts or agreements.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 309a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs309a" data-uslm-ref="/us/usc/t25/s309a">309a.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 309b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs309b" data-uslm-ref="/us/usc/t25/s309b">309b.</a>  </td>
 
     <td> Vocational education funds.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs310" data-uslm-ref="/us/usc/t25/s310">310.</a>  </td>
 
     <td> Institute of American Indian and Alaska Native Culture and Arts Development.  </td>
 

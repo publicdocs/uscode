@@ -21,7 +21,7 @@
 
  __Short Title__ 
 
-    [Pub. L. 86–339][/us/pl/86/339], Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602], as amended, which enacted this subchapter, is popularly known as the “Aqua Caliente Equalization Act of 1959”.
+    [Pub. L. 86–339][/us/pl/86/339], Sept. 21, 1959, [73 Stat. 602][/us/stat/73/602], as amended, which enacted this subchapter, is popularly known as the “Agua Caliente Equalization Act of 1959”.
 
  __Expiration of Restriction on Distribution of Revenues From Mineral Springs Parcel__ 
 

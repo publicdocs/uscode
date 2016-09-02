@@ -37,11 +37,11 @@
 
                 (ii) the development of technical infrastructure to protect the environment under applicable law; or
 
-            (D)
+            (D) by a Native Corporation for the development and implementation of corporate policies and the development of technical infrastructure to protect the environment under applicable law; and
 
-             by a Native Corporation for the development and implementation of corporate policies and the development of technical infrastructure to protect the environment under applicable law; and
+        (2)
 
-                (2) by an Indian tribe for the training of employees that—
+         by an Indian tribe for the training of employees that—
 
             (A) are engaged in the development of energy resources on Indian land; or
 

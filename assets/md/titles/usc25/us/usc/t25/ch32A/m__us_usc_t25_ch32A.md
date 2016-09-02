@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3051" data-uslm-ref="/us/usc/t25/s3051">3051.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3052" data-uslm-ref="/us/usc/t25/s3052">3052.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3053" data-uslm-ref="/us/usc/t25/s3053">3053.</a>  </td>
 
     <td> Reburial of human remains and cultural items.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3054" data-uslm-ref="/us/usc/t25/s3054">3054.</a>  </td>
 
     <td> Temporary closure for traditional and cultural purposes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3055" data-uslm-ref="/us/usc/t25/s3055">3055.</a>  </td>
 
     <td> Forest products for traditional and cultural purposes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3056" data-uslm-ref="/us/usc/t25/s3056">3056.</a>  </td>
 
     <td> Prohibition on disclosure.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3057" data-uslm-ref="/us/usc/t25/s3057">3057.</a>  </td>
 
     <td> Severability and savings provisions.  </td>
 

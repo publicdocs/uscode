@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4301" data-uslm-ref="/us/usc/t25/s4301">4301.</a>  </td>
 
     <td> Findings; purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4302" data-uslm-ref="/us/usc/t25/s4302">4302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4303" data-uslm-ref="/us/usc/t25/s4303">4303.</a>  </td>
 
     <td> Office of Native American Business Development.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4304" data-uslm-ref="/us/usc/t25/s4304">4304.</a>  </td>
 
     <td> Native American trade and export promotion.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4305" data-uslm-ref="/us/usc/t25/s4305">4305.</a>  </td>
 
     <td> Intertribal tourism demonstration projects.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4306" data-uslm-ref="/us/usc/t25/s4306">4306.</a>  </td>
 
     <td> Report to Congress.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4307" data-uslm-ref="/us/usc/t25/s4307">4307.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

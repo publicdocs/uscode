@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3501" data-uslm-ref="/us/usc/t25/s3501">3501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3502" data-uslm-ref="/us/usc/t25/s3502">3502.</a>  </td>
 
     <td> Indian tribal energy resource development.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3503" data-uslm-ref="/us/usc/t25/s3503">3503.</a>  </td>
 
     <td> Indian tribal energy resource regulation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3504" data-uslm-ref="/us/usc/t25/s3504">3504.</a>  </td>
 
     <td> Leases, business agreements, and rights-of-way involving energy development or transmission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3505" data-uslm-ref="/us/usc/t25/s3505">3505.</a>  </td>
 
     <td> Federal power marketing administrations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3506" data-uslm-ref="/us/usc/t25/s3506">3506.</a>  </td>
 
     <td> Wind and hydropower feasibility study.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 306. Expenditures for encouragement of industry and self-support; repayment
 
-    On and after May 9, 1938, the expenditures for the purpose of encouraging industry and self-support among the Indians and to aid them in the culture of fruits, grains, and other crops shall be under conditions to be prescribed by the Secretary of the Interior for repayment to the United States on or before the expiration of five years, except in the case of loans on irrigable lands for permanent improvement of said lands, in which the period for repayment may run for nor exceeding twenty years, in the discretion of the Secretary of the Interior.
+    On and after May 9, 1938, the expenditures for the purpose of encouraging industry and self-support among the Indians and to aid them in the culture of fruits, grains, and other crops shall be under conditions to be prescribed by the Secretary of the Interior for repayment to the United States on or before the expiration of five years, except in the case of loans on irrigable lands for permanent improvement of said lands, in which the period for repayment may run for not exceeding twenty years, in the discretion of the Secretary of the Interior.
 
 ([May 9, 1938, ch. 187, § 1][/us/act/1938-05-09/ch187/s1], [52 Stat. 302][/us/stat/52/302].)
 

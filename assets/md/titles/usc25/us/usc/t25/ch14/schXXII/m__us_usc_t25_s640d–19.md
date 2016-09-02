@@ -23,7 +23,7 @@
 
     thence southwesterly 1,200 feet (in a straight line) following the 6,900 feet contour;
 
-    thence 46 degrees east, 600 feet;
+    thence south 46 degrees east, 600 feet;
 
     thence north 38 degrees east, 1,300 feet to the point of beginning, 23.8 acres more or less: Provided, That, if and when such spring is fenced, the Hopi Tribe shall pipe the water therefrom to the edge of the boundary as hereinabove described for the use of residents of the area. The natural stand of fir trees within such 2–mile radius shall be conserved for such religious purposes.
 

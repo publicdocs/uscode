@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4101" data-uslm-ref="/us/usc/t25/s4101">4101.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4102" data-uslm-ref="/us/usc/t25/s4102">4102.</a>  </td>
 
     <td> Administration through Office of Native American Programs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4103" data-uslm-ref="/us/usc/t25/s4103">4103.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4104" data-uslm-ref="/us/usc/t25/s4104">4104.</a>  </td>
 
     <td> Waiver of matching funds requirements in Indian housing programs.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4111" data-uslm-ref="/us/usc/t25/s4111">4111.</a>  </td>
 
     <td> Block grants.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4112" data-uslm-ref="/us/usc/t25/s4112">4112.</a>  </td>
 
     <td> Indian housing plans.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4113" data-uslm-ref="/us/usc/t25/s4113">4113.</a>  </td>
 
     <td> Review of plans.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4114" data-uslm-ref="/us/usc/t25/s4114">4114.</a>  </td>
 
     <td> Treatment of program income and labor standards.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4115" data-uslm-ref="/us/usc/t25/s4115">4115.</a>  </td>
 
     <td> Environmental review.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4116" data-uslm-ref="/us/usc/t25/s4116">4116.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 4117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4117" data-uslm-ref="/us/usc/t25/s4117">4117.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -137,7 +137,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4131" data-uslm-ref="/us/usc/t25/s4131">4131.</a>  </td>
 
     <td> National objectives and eligible families.  </td>
 
@@ -145,7 +145,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4132" data-uslm-ref="/us/usc/t25/s4132">4132.</a>  </td>
 
     <td> Eligible affordable housing activities.  </td>
 
@@ -153,7 +153,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4133" data-uslm-ref="/us/usc/t25/s4133">4133.</a>  </td>
 
     <td> Program requirements.  </td>
 
@@ -161,7 +161,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4134" data-uslm-ref="/us/usc/t25/s4134">4134.</a>  </td>
 
     <td> Types of investments.  </td>
 
@@ -169,7 +169,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4135" data-uslm-ref="/us/usc/t25/s4135">4135.</a>  </td>
 
     <td> Low-income requirement and income targeting.  </td>
 
@@ -177,7 +177,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4136" data-uslm-ref="/us/usc/t25/s4136">4136.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4137" data-uslm-ref="/us/usc/t25/s4137">4137.</a>  </td>
 
     <td> Lease requirements and tenant selection.  </td>
 
@@ -193,7 +193,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4138" data-uslm-ref="/us/usc/t25/s4138">4138.</a>  </td>
 
     <td> Availability of records.  </td>
 
@@ -201,7 +201,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4139" data-uslm-ref="/us/usc/t25/s4139">4139.</a>  </td>
 
     <td> Noncompliance with affordable housing requirement.  </td>
 
@@ -209,7 +209,7 @@ Part A—General Block Grant Program  </td>
 
   <tr>
 
-    <td> 4140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4140" data-uslm-ref="/us/usc/t25/s4140">4140.</a>  </td>
 
     <td> Continued use of amounts for affordable housing.  </td>
 
@@ -225,7 +225,7 @@ Part B—Self-Determined Housing Activities for Tribal Communities  </td>
 
   <tr>
 
-    <td> 4145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4145" data-uslm-ref="/us/usc/t25/s4145">4145.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -233,7 +233,7 @@ Part B—Self-Determined Housing Activities for Tribal Communities  </td>
 
   <tr>
 
-    <td> 4145a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4145a" data-uslm-ref="/us/usc/t25/s4145a">4145a.</a>  </td>
 
     <td> Program authority.  </td>
 
@@ -241,7 +241,7 @@ Part B—Self-Determined Housing Activities for Tribal Communities  </td>
 
   <tr>
 
-    <td> 4145b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4145b" data-uslm-ref="/us/usc/t25/s4145b">4145b.</a>  </td>
 
     <td> Use of amounts for housing activities.  </td>
 
@@ -249,7 +249,7 @@ Part B—Self-Determined Housing Activities for Tribal Communities  </td>
 
   <tr>
 
-    <td> 4145c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4145c" data-uslm-ref="/us/usc/t25/s4145c">4145c.</a>  </td>
 
     <td> Inapplicability of other provisions.  </td>
 
@@ -257,7 +257,7 @@ Part B—Self-Determined Housing Activities for Tribal Communities  </td>
 
   <tr>
 
-    <td> 4145d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4145d" data-uslm-ref="/us/usc/t25/s4145d">4145d.</a>  </td>
 
     <td> Review and report.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—ALLOCATION OF GRANT AMOUNTS  </td>
 
   <tr>
 
-    <td> 4151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4151" data-uslm-ref="/us/usc/t25/s4151">4151.</a>  </td>
 
     <td> Annual allocation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—ALLOCATION OF GRANT AMOUNTS  </td>
 
   <tr>
 
-    <td> 4152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4152" data-uslm-ref="/us/usc/t25/s4152">4152.</a>  </td>
 
     <td> Allocation formula.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4161" data-uslm-ref="/us/usc/t25/s4161">4161.</a>  </td>
 
     <td> Remedies for noncompliance.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4162" data-uslm-ref="/us/usc/t25/s4162">4162.</a>  </td>
 
     <td> Replacement of recipient.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4163" data-uslm-ref="/us/usc/t25/s4163">4163.</a>  </td>
 
     <td> Monitoring of compliance.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4164" data-uslm-ref="/us/usc/t25/s4164">4164.</a>  </td>
 
     <td> Performance reports.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4165" data-uslm-ref="/us/usc/t25/s4165">4165.</a>  </td>
 
     <td> Review and audit by Secretary.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4166" data-uslm-ref="/us/usc/t25/s4166">4166.</a>  </td>
 
     <td> GAO audits.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4167" data-uslm-ref="/us/usc/t25/s4167">4167.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS  </td>
 
   <tr>
 
-    <td> 4168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4168" data-uslm-ref="/us/usc/t25/s4168">4168.</a>  </td>
 
     <td> Public availability of information.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PR
 
   <tr>
 
-    <td> 4181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4181" data-uslm-ref="/us/usc/t25/s4181">4181.</a>  </td>
 
     <td> Termination of Indian housing assistance under United States Housing Act of 1937.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PR
 
   <tr>
 
-    <td> 4182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4182" data-uslm-ref="/us/usc/t25/s4182">4182.</a>  </td>
 
     <td> Termination of new commitments for rental assistance.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PR
 
   <tr>
 
-    <td> 4183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4183" data-uslm-ref="/us/usc/t25/s4183">4183.</a>  </td>
 
     <td> Savings provision.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PR
 
   <tr>
 
-    <td> 4184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4184" data-uslm-ref="/us/usc/t25/s4184">4184.</a>  </td>
 
     <td> Effect on HOME Investment Partnerships Act.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4191" data-uslm-ref="/us/usc/t25/s4191">4191.</a>  </td>
 
     <td> Authority and requirements.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4192" data-uslm-ref="/us/usc/t25/s4192">4192.</a>  </td>
 
     <td> Security and repayment.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4193" data-uslm-ref="/us/usc/t25/s4193">4193.</a>  </td>
 
     <td> Payment of interest.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4194" data-uslm-ref="/us/usc/t25/s4194">4194.</a>  </td>
 
     <td> Training and information.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4195" data-uslm-ref="/us/usc/t25/s4195">4195.</a>  </td>
 
     <td> Limitations on amount of guarantees.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES  
 
   <tr>
 
-    <td> 4196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4196" data-uslm-ref="/us/usc/t25/s4196">4196.</a>  </td>
 
     <td> Demonstration program for guaranteed loans to finance tribal community and economic development activities.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER VII—OTHER HOUSING ASSISTANCE FOR NATIVE AMERICANS  </td>
 
   <tr>
 
-    <td> 4211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4211" data-uslm-ref="/us/usc/t25/s4211">4211.</a>  </td>
 
     <td> 50-year leasehold interest in trust or restricted lands for housing purposes.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VII—OTHER HOUSING ASSISTANCE FOR NATIVE AMERICANS  </td>
 
   <tr>
 
-    <td> 4212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4212" data-uslm-ref="/us/usc/t25/s4212">4212.</a>  </td>
 
     <td> Training and technical assistance.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4221" data-uslm-ref="/us/usc/t25/s4221">4221.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4222" data-uslm-ref="/us/usc/t25/s4222">4222.</a>  </td>
 
     <td> Block grants for affordable housing activities.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4223" data-uslm-ref="/us/usc/t25/s4223">4223.</a>  </td>
 
     <td> Housing plan.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4224" data-uslm-ref="/us/usc/t25/s4224">4224.</a>  </td>
 
     <td> Review of plans.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4225" data-uslm-ref="/us/usc/t25/s4225">4225.</a>  </td>
 
     <td> Treatment of program income and labor standards.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4226" data-uslm-ref="/us/usc/t25/s4226">4226.</a>  </td>
 
     <td> Environmental review.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4227" data-uslm-ref="/us/usc/t25/s4227">4227.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4228" data-uslm-ref="/us/usc/t25/s4228">4228.</a>  </td>
 
     <td> Affordable housing activities.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4229" data-uslm-ref="/us/usc/t25/s4229">4229.</a>  </td>
 
     <td> Eligible affordable housing activities.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4230.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4230" data-uslm-ref="/us/usc/t25/s4230">4230.</a>  </td>
 
     <td> Program requirements.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4231" data-uslm-ref="/us/usc/t25/s4231">4231.</a>  </td>
 
     <td> Types of investments.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4232" data-uslm-ref="/us/usc/t25/s4232">4232.</a>  </td>
 
     <td> Low-income requirement and income targeting.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4233" data-uslm-ref="/us/usc/t25/s4233">4233.</a>  </td>
 
     <td> Lease requirements and tenant selection.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4234" data-uslm-ref="/us/usc/t25/s4234">4234.</a>  </td>
 
     <td> Repayment.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4235" data-uslm-ref="/us/usc/t25/s4235">4235.</a>  </td>
 
     <td> Annual allocation.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4236" data-uslm-ref="/us/usc/t25/s4236">4236.</a>  </td>
 
     <td> Allocation formula.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4237" data-uslm-ref="/us/usc/t25/s4237">4237.</a>  </td>
 
     <td> Remedies for noncompliance.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4238.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4238" data-uslm-ref="/us/usc/t25/s4238">4238.</a>  </td>
 
     <td> Monitoring of compliance.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4239" data-uslm-ref="/us/usc/t25/s4239">4239.</a>  </td>
 
     <td> Performance reports.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4240" data-uslm-ref="/us/usc/t25/s4240">4240.</a>  </td>
 
     <td> Review and audit by Secretary.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4241" data-uslm-ref="/us/usc/t25/s4241">4241.</a>  </td>
 
     <td> Government Accountability Office audits.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4242" data-uslm-ref="/us/usc/t25/s4242">4242.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS  </td>
 
   <tr>
 
-    <td> 4243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs4243" data-uslm-ref="/us/usc/t25/s4243">4243.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

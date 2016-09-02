@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3601" data-uslm-ref="/us/usc/t25/s3601">3601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3602" data-uslm-ref="/us/usc/t25/s3602">3602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—TRIBAL JUSTICE SYSTEMS  </td>
 
   <tr>
 
-    <td> 3611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3611" data-uslm-ref="/us/usc/t25/s3611">3611.</a>  </td>
 
     <td> Office of Tribal Justice Support.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRIBAL JUSTICE SYSTEMS  </td>
 
   <tr>
 
-    <td> 3612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3612" data-uslm-ref="/us/usc/t25/s3612">3612.</a>  </td>
 
     <td> Survey of tribal judicial systems.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRIBAL JUSTICE SYSTEMS  </td>
 
   <tr>
 
-    <td> 3613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3613" data-uslm-ref="/us/usc/t25/s3613">3613.</a>  </td>
 
     <td> Base support funding for tribal justice systems.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—TRIBAL JUSTICE SYSTEMS  </td>
 
   <tr>
 
-    <td> 3614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3614" data-uslm-ref="/us/usc/t25/s3614">3614.</a>  </td>
 
     <td> Tribal judicial conferences.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—AUTHORIZATIONS OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 3621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3621" data-uslm-ref="/us/usc/t25/s3621">3621.</a>  </td>
 
     <td> Tribal justice systems.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—DISCLAIMERS  </td>
 
   <tr>
 
-    <td> 3631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3631" data-uslm-ref="/us/usc/t25/s3631">3631.</a>  </td>
 
     <td> Tribal authority.  </td>
 

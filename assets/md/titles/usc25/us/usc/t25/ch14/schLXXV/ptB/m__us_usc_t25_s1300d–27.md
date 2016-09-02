@@ -85,7 +85,7 @@
 
             (B) limit the jurisdiction of any court referred to in subsection (b) of this section, to hear and determine any such claims.
 
-([Pub. L. 105–387, § 8][/us/pl/105/387/s8], Nov. 13, 1997, [112 Stat. 3475][/us/stat/112/3475].)
+([Pub. L. 105–387, § 8][/us/pl/105/387/s8], Nov. 13, 1998, [112 Stat. 3475][/us/stat/112/3475].)
 
 ----------
 

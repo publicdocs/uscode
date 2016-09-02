@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2000.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2000" data-uslm-ref="/us/usc/t25/s2000">2000.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2001" data-uslm-ref="/us/usc/t25/s2001">2001.</a>  </td>
 
     <td> Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2002" data-uslm-ref="/us/usc/t25/s2002">2002.</a>  </td>
 
     <td> National criteria for home-living situations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2003" data-uslm-ref="/us/usc/t25/s2003">2003.</a>  </td>
 
     <td> Codification of regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2004" data-uslm-ref="/us/usc/t25/s2004">2004.</a>  </td>
 
     <td> School boundaries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2005" data-uslm-ref="/us/usc/t25/s2005">2005.</a>  </td>
 
     <td> Facilities construction.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2006" data-uslm-ref="/us/usc/t25/s2006">2006.</a>  </td>
 
     <td> Bureau of Indian Affairs education functions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2007" data-uslm-ref="/us/usc/t25/s2007">2007.</a>  </td>
 
     <td> Allotment formula.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2008" data-uslm-ref="/us/usc/t25/s2008">2008.</a>  </td>
 
     <td> Administrative cost grants.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2009" data-uslm-ref="/us/usc/t25/s2009">2009.</a>  </td>
 
     <td> Division of Budget Analysis.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2010" data-uslm-ref="/us/usc/t25/s2010">2010.</a>  </td>
 
     <td> Uniform direct funding and support.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2011" data-uslm-ref="/us/usc/t25/s2011">2011.</a>  </td>
 
     <td> Policy for Indian control of Indian education.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2012" data-uslm-ref="/us/usc/t25/s2012">2012.</a>  </td>
 
     <td> Indian education personnel.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2013" data-uslm-ref="/us/usc/t25/s2013">2013.</a>  </td>
 
     <td> Computerized management information system.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2014" data-uslm-ref="/us/usc/t25/s2014">2014.</a>  </td>
 
     <td> Recruitment of Indian educators.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2015" data-uslm-ref="/us/usc/t25/s2015">2015.</a>  </td>
 
     <td> Annual report; audits.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2016" data-uslm-ref="/us/usc/t25/s2016">2016.</a>  </td>
 
     <td> Rights of Indian students.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2017" data-uslm-ref="/us/usc/t25/s2017">2017.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2018" data-uslm-ref="/us/usc/t25/s2018">2018.</a>  </td>
 
     <td> Regional meetings and negotiated rulemaking.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2019" data-uslm-ref="/us/usc/t25/s2019">2019.</a>  </td>
 
     <td> Early childhood development program.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2020" data-uslm-ref="/us/usc/t25/s2020">2020.</a>  </td>
 
     <td> Tribal departments or divisions of education.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2021" data-uslm-ref="/us/usc/t25/s2021">2021.</a>  </td>
 
     <td> Definitions.  </td>
 

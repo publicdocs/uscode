@@ -33,7 +33,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1601" data-uslm-ref="/us/usc/t25/s1601">1601.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1602" data-uslm-ref="/us/usc/t25/s1602">1602.</a>  </td>
 
     <td> Declaration of national Indian health policy.  </td>
 
@@ -49,7 +49,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1603" data-uslm-ref="/us/usc/t25/s1603">1603.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1611" data-uslm-ref="/us/usc/t25/s1611">1611.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1612" data-uslm-ref="/us/usc/t25/s1612">1612.</a>  </td>
 
     <td> Health professions recruitment program for Indians.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1613" data-uslm-ref="/us/usc/t25/s1613">1613.</a>  </td>
 
     <td> Health professions preparatory scholarship program for Indians.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1613a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1613a" data-uslm-ref="/us/usc/t25/s1613a">1613a.</a>  </td>
 
     <td> Indian health professions scholarships.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1614" data-uslm-ref="/us/usc/t25/s1614">1614.</a>  </td>
 
     <td> Indian health service extern programs.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1615" data-uslm-ref="/us/usc/t25/s1615">1615.</a>  </td>
 
     <td> Continuing education allowances.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616" data-uslm-ref="/us/usc/t25/s1616">1616.</a>  </td>
 
     <td> Community Health Representative Program.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616a" data-uslm-ref="/us/usc/t25/s1616a">1616a.</a>  </td>
 
     <td> Indian Health Service Loan Repayment Program.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616a%E2%80%931" data-uslm-ref="/us/usc/t25/s1616a–1">1616a–1.</a>  </td>
 
     <td> Scholarship and Loan Repayment Recovery Fund.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616b" data-uslm-ref="/us/usc/t25/s1616b">1616b.</a>  </td>
 
     <td> Recruitment activities.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616c" data-uslm-ref="/us/usc/t25/s1616c">1616c.</a>  </td>
 
     <td> Tribal recruitment and retention program.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616d" data-uslm-ref="/us/usc/t25/s1616d">1616d.</a>  </td>
 
     <td> Advanced training and research.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616e" data-uslm-ref="/us/usc/t25/s1616e">1616e.</a>  </td>
 
     <td> Nursing program.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616e%E2%80%931" data-uslm-ref="/us/usc/t25/s1616e–1">1616e–1.</a>  </td>
 
     <td> Nursing school clinics.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616f" data-uslm-ref="/us/usc/t25/s1616f">1616f.</a>  </td>
 
     <td> Tribal culture and history.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616g" data-uslm-ref="/us/usc/t25/s1616g">1616g.</a>  </td>
 
     <td> INMED program.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616h" data-uslm-ref="/us/usc/t25/s1616h">1616h.</a>  </td>
 
     <td> Health training programs of community colleges.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616i" data-uslm-ref="/us/usc/t25/s1616i">1616i.</a>  </td>
 
     <td> Additional incentives for health professionals.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616j" data-uslm-ref="/us/usc/t25/s1616j">1616j.</a>  </td>
 
     <td> Retention bonus.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616k" data-uslm-ref="/us/usc/t25/s1616k">1616k.</a>  </td>
 
     <td> Nursing residency program.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616" data-uslm-ref="/us/usc/t25/s1616">1616</a>l.  </td>
 
     <td> Community health aide program.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616m" data-uslm-ref="/us/usc/t25/s1616m">1616m.</a>  </td>
 
     <td> Matching grants to tribes for scholarship programs.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616n" data-uslm-ref="/us/usc/t25/s1616n">1616n.</a>  </td>
 
     <td> Tribal health program administration.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616" data-uslm-ref="/us/usc/t25/s1616">1616</a>o.  </td>
 
     <td> University of South Dakota pilot program.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616p" data-uslm-ref="/us/usc/t25/s1616p">1616p.</a>  </td>
 
     <td> Health professional chronic shortage demonstration programs.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616q" data-uslm-ref="/us/usc/t25/s1616q">1616q.</a>  </td>
 
     <td> Exemption from payment of certain fees.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL  </td>
 
   <tr>
 
-    <td> 1616r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1616r" data-uslm-ref="/us/usc/t25/s1616r">1616r.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621" data-uslm-ref="/us/usc/t25/s1621">1621.</a>  </td>
 
     <td> Indian Health Care Improvement Fund.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621a" data-uslm-ref="/us/usc/t25/s1621a">1621a.</a>  </td>
 
     <td> Catastrophic Health Emergency Fund.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621b" data-uslm-ref="/us/usc/t25/s1621b">1621b.</a>  </td>
 
     <td> Health promotion and disease prevention services.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621c" data-uslm-ref="/us/usc/t25/s1621c">1621c.</a>  </td>
 
     <td> Diabetes prevention, treatment, and control.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621d" data-uslm-ref="/us/usc/t25/s1621d">1621d.</a>  </td>
 
     <td> Other authority for provision of services.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621e" data-uslm-ref="/us/usc/t25/s1621e">1621e.</a>  </td>
 
     <td> Reimbursement from certain third parties of costs of health services.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621f" data-uslm-ref="/us/usc/t25/s1621f">1621f.</a>  </td>
 
     <td> Crediting of reimbursements.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621g" data-uslm-ref="/us/usc/t25/s1621g">1621g.</a>  </td>
 
     <td> Health services research.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621h" data-uslm-ref="/us/usc/t25/s1621h">1621h.</a>  </td>
 
     <td> Mental health prevention and treatment services.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621i" data-uslm-ref="/us/usc/t25/s1621i">1621i.</a>  </td>
 
     <td> Managed care feasibility study.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621j" data-uslm-ref="/us/usc/t25/s1621j">1621j.</a>  </td>
 
     <td> California contract health services demonstration program.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621k" data-uslm-ref="/us/usc/t25/s1621k">1621k.</a>  </td>
 
     <td> Coverage of screening mammography.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621" data-uslm-ref="/us/usc/t25/s1621">1621</a>l.  </td>
 
     <td> Patient travel costs.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621m" data-uslm-ref="/us/usc/t25/s1621m">1621m.</a>  </td>
 
     <td> Epidemiology centers.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621n" data-uslm-ref="/us/usc/t25/s1621n">1621n.</a>  </td>
 
     <td> Comprehensive school health education programs.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621" data-uslm-ref="/us/usc/t25/s1621">1621</a>o.  </td>
 
     <td> Indian youth grant program.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621p" data-uslm-ref="/us/usc/t25/s1621p">1621p.</a>  </td>
 
     <td> American Indians Into Psychology Program.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621q" data-uslm-ref="/us/usc/t25/s1621q">1621q.</a>  </td>
 
     <td> Prevention, control, and elimination of communicable and infectious diseases.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621r" data-uslm-ref="/us/usc/t25/s1621r">1621r.</a>  </td>
 
     <td> Contract health services payment study.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621s" data-uslm-ref="/us/usc/t25/s1621s">1621s.</a>  </td>
 
     <td> Prompt action on payment of claims.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621t" data-uslm-ref="/us/usc/t25/s1621t">1621t.</a>  </td>
 
     <td> Licensing.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621u" data-uslm-ref="/us/usc/t25/s1621u">1621u.</a>  </td>
 
     <td> Liability for payment.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621v.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621v" data-uslm-ref="/us/usc/t25/s1621v">1621v.</a>  </td>
 
     <td> Offices of Indian Men’s Health and Indian Women’s Health.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621w.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621w" data-uslm-ref="/us/usc/t25/s1621w">1621w.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621x.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621x" data-uslm-ref="/us/usc/t25/s1621x">1621x.</a>  </td>
 
     <td> Limitation on use of funds.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1621y.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1621y" data-uslm-ref="/us/usc/t25/s1621y">1621y.</a>  </td>
 
     <td> Contract health service administration and disbursement formula.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1622" data-uslm-ref="/us/usc/t25/s1622">1622.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER II—HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1623" data-uslm-ref="/us/usc/t25/s1623">1623.</a>  </td>
 
     <td> Special rules relating to Indians.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1631" data-uslm-ref="/us/usc/t25/s1631">1631.</a>  </td>
 
     <td> Consultation; closure of facilities; reports.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1632" data-uslm-ref="/us/usc/t25/s1632">1632.</a>  </td>
 
     <td> Safe water and sanitary waste disposal facilities.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1633" data-uslm-ref="/us/usc/t25/s1633">1633.</a>  </td>
 
     <td> Preferences to Indians and Indian firms.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1634" data-uslm-ref="/us/usc/t25/s1634">1634.</a>  </td>
 
     <td> Expenditure of non-Service funds for renovation.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1635" data-uslm-ref="/us/usc/t25/s1635">1635.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1636" data-uslm-ref="/us/usc/t25/s1636">1636.</a>  </td>
 
     <td> Grant program for construction, expansion, and modernization of small ambulatory care facilities.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1637" data-uslm-ref="/us/usc/t25/s1637">1637.</a>  </td>
 
     <td> Indian health care delivery demonstration projects.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638" data-uslm-ref="/us/usc/t25/s1638">1638.</a>  </td>
 
     <td> Land transfer.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638a" data-uslm-ref="/us/usc/t25/s1638a">1638a.</a>  </td>
 
     <td> Tribal management of federally owned quarters.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638b" data-uslm-ref="/us/usc/t25/s1638b">1638b.</a>  </td>
 
     <td> Applicability of Buy American requirement.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638c" data-uslm-ref="/us/usc/t25/s1638c">1638c.</a>  </td>
 
     <td> Contracts for personal services in Indian Health Service facilities.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638d" data-uslm-ref="/us/usc/t25/s1638d">1638d.</a>  </td>
 
     <td> Credit to appropriations of money collected for meals at Indian Health Service facilities.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638e" data-uslm-ref="/us/usc/t25/s1638e">1638e.</a>  </td>
 
     <td> Other funding, equipment, and supplies for facilities.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638f" data-uslm-ref="/us/usc/t25/s1638f">1638f.</a>  </td>
 
     <td> Indian country modular component facilities demonstration program.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER III—HEALTH FACILITIES  </td>
 
   <tr>
 
-    <td> 1638g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1638g" data-uslm-ref="/us/usc/t25/s1638g">1638g.</a>  </td>
 
     <td> Mobile health stations demonstration program.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1641" data-uslm-ref="/us/usc/t25/s1641">1641.</a>  </td>
 
     <td> Treatment of payments under Social Security Act health benefits programs.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1642" data-uslm-ref="/us/usc/t25/s1642">1642.</a>  </td>
 
     <td> Purchasing health care coverage.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1643" data-uslm-ref="/us/usc/t25/s1643">1643.</a>  </td>
 
     <td> Amount and use of funds reimbursed through medicare and medicaid available to Indian Health Service.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1644" data-uslm-ref="/us/usc/t25/s1644">1644.</a>  </td>
 
     <td> Grants to and contracts with the Service, Indian tribes, tribal organizations, and urban Indian organizations to facilitate outreach, enrollment, and coverage of Indians under Social Security Act health benefit programs and other health benefits programs.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1645" data-uslm-ref="/us/usc/t25/s1645">1645.</a>  </td>
 
     <td> Sharing arrangements with Federal agencies.  </td>
 
@@ -689,7 +689,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1646" data-uslm-ref="/us/usc/t25/s1646">1646.</a>  </td>
 
     <td> Authorization for emergency contract health services.  </td>
 
@@ -697,7 +697,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1647" data-uslm-ref="/us/usc/t25/s1647">1647.</a>  </td>
 
     <td> Eligible Indian veteran services.  </td>
 
@@ -705,7 +705,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1647a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1647a" data-uslm-ref="/us/usc/t25/s1647a">1647a.</a>  </td>
 
     <td> Nondiscrimination under Federal health care programs in qualifications for reimbursement for services.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1647b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1647b" data-uslm-ref="/us/usc/t25/s1647b">1647b.</a>  </td>
 
     <td> Access to Federal insurance.  </td>
 
@@ -721,7 +721,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1647c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1647c" data-uslm-ref="/us/usc/t25/s1647c">1647c.</a>  </td>
 
     <td> General exceptions.  </td>
 
@@ -729,7 +729,7 @@ SUBCHAPTER III–A—ACCESS TO HEALTH SERVICES  </td>
 
   <tr>
 
-    <td> 1647d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1647d" data-uslm-ref="/us/usc/t25/s1647d">1647d.</a>  </td>
 
     <td> Navajo Nation medicaid agency feasibility study.  </td>
 
@@ -745,7 +745,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1651" data-uslm-ref="/us/usc/t25/s1651">1651.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -753,7 +753,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1652" data-uslm-ref="/us/usc/t25/s1652">1652.</a>  </td>
 
     <td> Contracts with, and grants to, urban Indian organizations.  </td>
 
@@ -761,7 +761,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1653" data-uslm-ref="/us/usc/t25/s1653">1653.</a>  </td>
 
     <td> Contracts and grants for provision of health care and referral services.  </td>
 
@@ -769,7 +769,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1654" data-uslm-ref="/us/usc/t25/s1654">1654.</a>  </td>
 
     <td> Contracts and grants for determination of unmet health care needs.  </td>
 
@@ -777,7 +777,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1655" data-uslm-ref="/us/usc/t25/s1655">1655.</a>  </td>
 
     <td> Evaluations; renewals.  </td>
 
@@ -785,7 +785,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1656" data-uslm-ref="/us/usc/t25/s1656">1656.</a>  </td>
 
     <td> Other contract and grant requirements.  </td>
 
@@ -793,7 +793,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1657" data-uslm-ref="/us/usc/t25/s1657">1657.</a>  </td>
 
     <td> Reports and records.  </td>
 
@@ -801,7 +801,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1658" data-uslm-ref="/us/usc/t25/s1658">1658.</a>  </td>
 
     <td> Limitation on contract authority.  </td>
 
@@ -809,7 +809,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1659" data-uslm-ref="/us/usc/t25/s1659">1659.</a>  </td>
 
     <td> Facilities renovation.  </td>
 
@@ -817,7 +817,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660" data-uslm-ref="/us/usc/t25/s1660">1660.</a>  </td>
 
     <td> Urban Health Programs Branch.  </td>
 
@@ -825,7 +825,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660a" data-uslm-ref="/us/usc/t25/s1660a">1660a.</a>  </td>
 
     <td> Grants for alcohol and substance abuse related services.  </td>
 
@@ -833,7 +833,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660b" data-uslm-ref="/us/usc/t25/s1660b">1660b.</a>  </td>
 
     <td> Treatment of certain demonstration projects.  </td>
 
@@ -841,7 +841,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660c" data-uslm-ref="/us/usc/t25/s1660c">1660c.</a>  </td>
 
     <td> Urban NIAAA transferred programs.  </td>
 
@@ -849,7 +849,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660d" data-uslm-ref="/us/usc/t25/s1660d">1660d.</a>  </td>
 
     <td> Conferring with urban Indian organizations.  </td>
 
@@ -857,7 +857,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660e" data-uslm-ref="/us/usc/t25/s1660e">1660e.</a>  </td>
 
     <td> Expanded program authority for urban Indian organizations.  </td>
 
@@ -865,7 +865,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660f" data-uslm-ref="/us/usc/t25/s1660f">1660f.</a>  </td>
 
     <td> Community Health Representatives.  </td>
 
@@ -873,7 +873,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660g" data-uslm-ref="/us/usc/t25/s1660g">1660g.</a>  </td>
 
     <td> Use of Federal Government facilities and sources of supply.  </td>
 
@@ -881,7 +881,7 @@ SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS  </td>
 
   <tr>
 
-    <td> 1660h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1660h" data-uslm-ref="/us/usc/t25/s1660h">1660h.</a>  </td>
 
     <td> Health information technology.  </td>
 
@@ -897,7 +897,7 @@ SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1661" data-uslm-ref="/us/usc/t25/s1661">1661.</a>  </td>
 
     <td> Establishment of the Indian Health Service as an agency of the Public Health Service.  </td>
 
@@ -905,7 +905,7 @@ SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1662" data-uslm-ref="/us/usc/t25/s1662">1662.</a>  </td>
 
     <td> Automated management information system.  </td>
 
@@ -913,7 +913,7 @@ SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1663" data-uslm-ref="/us/usc/t25/s1663">1663.</a>  </td>
 
     <td> Office of Direct Service Tribes.  </td>
 
@@ -921,7 +921,7 @@ SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1663a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1663a" data-uslm-ref="/us/usc/t25/s1663a">1663a.</a>  </td>
 
     <td> Nevada Area Office.  </td>
 
@@ -945,7 +945,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665" data-uslm-ref="/us/usc/t25/s1665">1665.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -953,7 +953,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665a" data-uslm-ref="/us/usc/t25/s1665a">1665a.</a>  </td>
 
     <td> Behavioral health prevention and treatment services.  </td>
 
@@ -961,7 +961,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665b" data-uslm-ref="/us/usc/t25/s1665b">1665b.</a>  </td>
 
     <td> Memoranda of agreement with the Department of the Interior.  </td>
 
@@ -969,7 +969,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665c" data-uslm-ref="/us/usc/t25/s1665c">1665c.</a>  </td>
 
     <td> Comprehensive behavioral health prevention and treatment program.  </td>
 
@@ -977,7 +977,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665d" data-uslm-ref="/us/usc/t25/s1665d">1665d.</a>  </td>
 
     <td> Mental health technician program.  </td>
 
@@ -985,7 +985,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665e" data-uslm-ref="/us/usc/t25/s1665e">1665e.</a>  </td>
 
     <td> Licensing requirement for mental health care workers.  </td>
 
@@ -993,7 +993,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665f" data-uslm-ref="/us/usc/t25/s1665f">1665f.</a>  </td>
 
     <td> Indian women treatment programs.  </td>
 
@@ -1001,7 +1001,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665g" data-uslm-ref="/us/usc/t25/s1665g">1665g.</a>  </td>
 
     <td> Indian youth program.  </td>
 
@@ -1009,7 +1009,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665h" data-uslm-ref="/us/usc/t25/s1665h">1665h.</a>  </td>
 
     <td> Inpatient and community-based mental health facilities design, construction, and staffing.  </td>
 
@@ -1017,7 +1017,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665i" data-uslm-ref="/us/usc/t25/s1665i">1665i.</a>  </td>
 
     <td> Training and community education.  </td>
 
@@ -1025,7 +1025,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665j" data-uslm-ref="/us/usc/t25/s1665j">1665j.</a>  </td>
 
     <td> Behavioral health program.  </td>
 
@@ -1033,7 +1033,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665k" data-uslm-ref="/us/usc/t25/s1665k">1665k.</a>  </td>
 
     <td> Fetal alcohol spectrum disorders programs.  </td>
 
@@ -1041,7 +1041,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665" data-uslm-ref="/us/usc/t25/s1665">1665</a>l.  </td>
 
     <td> Child sexual abuse prevention and treatment programs.  </td>
 
@@ -1049,7 +1049,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665m" data-uslm-ref="/us/usc/t25/s1665m">1665m.</a>  </td>
 
     <td> Domestic and sexual violence prevention and treatment.  </td>
 
@@ -1057,7 +1057,7 @@ Part A—General Programs  </td>
 
   <tr>
 
-    <td> 1665n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1665n" data-uslm-ref="/us/usc/t25/s1665n">1665n.</a>  </td>
 
     <td> Behavioral health research.  </td>
 
@@ -1073,7 +1073,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667" data-uslm-ref="/us/usc/t25/s1667">1667.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -1081,7 +1081,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667a" data-uslm-ref="/us/usc/t25/s1667a">1667a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1089,7 +1089,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667b" data-uslm-ref="/us/usc/t25/s1667b">1667b.</a>  </td>
 
     <td> Indian youth telemental health demonstration project.  </td>
 
@@ -1097,7 +1097,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667c" data-uslm-ref="/us/usc/t25/s1667c">1667c.</a>  </td>
 
     <td> Substance abuse and mental health services Administration grants.  </td>
 
@@ -1105,7 +1105,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667d" data-uslm-ref="/us/usc/t25/s1667d">1667d.</a>  </td>
 
     <td> Use of predoctoral psychology and psychiatry interns.  </td>
 
@@ -1113,7 +1113,7 @@ Part B—Indian Youth Suicide Prevention  </td>
 
   <tr>
 
-    <td> 1667e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1667e" data-uslm-ref="/us/usc/t25/s1667e">1667e.</a>  </td>
 
     <td> Indian youth life skills development demonstration program.  </td>
 
@@ -1129,7 +1129,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1671" data-uslm-ref="/us/usc/t25/s1671">1671.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -1137,7 +1137,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1672" data-uslm-ref="/us/usc/t25/s1672">1672.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -1145,7 +1145,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1673" data-uslm-ref="/us/usc/t25/s1673">1673.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1153,7 +1153,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1674" data-uslm-ref="/us/usc/t25/s1674">1674.</a>  </td>
 
     <td> Leases with Indian tribes.  </td>
 
@@ -1161,7 +1161,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1675" data-uslm-ref="/us/usc/t25/s1675">1675.</a>  </td>
 
     <td> Confidentiality of medical quality assurance records; qualified immunity for participants.  </td>
 
@@ -1169,7 +1169,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1676" data-uslm-ref="/us/usc/t25/s1676">1676.</a>  </td>
 
     <td> Limitation on use of funds appropriated to Indian Health Service.  </td>
 
@@ -1177,7 +1177,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1677" data-uslm-ref="/us/usc/t25/s1677">1677.</a>  </td>
 
     <td> Nuclear resource development health hazards.  </td>
 
@@ -1185,7 +1185,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1678" data-uslm-ref="/us/usc/t25/s1678">1678.</a>  </td>
 
     <td> Arizona as contract health service delivery area.  </td>
 
@@ -1193,7 +1193,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1678a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1678a" data-uslm-ref="/us/usc/t25/s1678a">1678a.</a>  </td>
 
     <td> North Dakota and South Dakota as contract health service delivery area.  </td>
 
@@ -1201,7 +1201,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1679.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1679" data-uslm-ref="/us/usc/t25/s1679">1679.</a>  </td>
 
     <td> Eligibility of California Indians.  </td>
 
@@ -1209,7 +1209,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680" data-uslm-ref="/us/usc/t25/s1680">1680.</a>  </td>
 
     <td> California as a contract health service delivery area.  </td>
 
@@ -1217,7 +1217,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680a" data-uslm-ref="/us/usc/t25/s1680a">1680a.</a>  </td>
 
     <td> Contract health facilities.  </td>
 
@@ -1225,7 +1225,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680b" data-uslm-ref="/us/usc/t25/s1680b">1680b.</a>  </td>
 
     <td> National Health Service Corps.  </td>
 
@@ -1233,7 +1233,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680c" data-uslm-ref="/us/usc/t25/s1680c">1680c.</a>  </td>
 
     <td> Health services for ineligible persons.  </td>
 
@@ -1241,7 +1241,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680d" data-uslm-ref="/us/usc/t25/s1680d">1680d.</a>  </td>
 
     <td> Infant and maternal mortality; fetal alcohol syndrome.  </td>
 
@@ -1249,7 +1249,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680e" data-uslm-ref="/us/usc/t25/s1680e">1680e.</a>  </td>
 
     <td> Contract health services for the Trenton Service Area.  </td>
 
@@ -1257,7 +1257,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680f" data-uslm-ref="/us/usc/t25/s1680f">1680f.</a>  </td>
 
     <td> Indian Health Service and Department of Veterans Affairs health facilities and services sharing.  </td>
 
@@ -1265,7 +1265,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680g" data-uslm-ref="/us/usc/t25/s1680g">1680g.</a>  </td>
 
     <td> Reallocation of base resources.  </td>
 
@@ -1273,7 +1273,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680h" data-uslm-ref="/us/usc/t25/s1680h">1680h.</a>  </td>
 
     <td> Demonstration projects for tribal management of health care services.  </td>
 
@@ -1281,7 +1281,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680i" data-uslm-ref="/us/usc/t25/s1680i">1680i.</a>  </td>
 
     <td> Child sexual abuse treatment programs.  </td>
 
@@ -1289,7 +1289,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680j" data-uslm-ref="/us/usc/t25/s1680j">1680j.</a>  </td>
 
     <td> Tribal leasing.  </td>
 
@@ -1297,7 +1297,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680k" data-uslm-ref="/us/usc/t25/s1680k">1680k.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1305,7 +1305,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680" data-uslm-ref="/us/usc/t25/s1680">1680</a>l.  </td>
 
     <td> Shared services for long-term care.  </td>
 
@@ -1313,7 +1313,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680m" data-uslm-ref="/us/usc/t25/s1680m">1680m.</a>  </td>
 
     <td> Results of demonstration projects.  </td>
 
@@ -1321,7 +1321,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680n" data-uslm-ref="/us/usc/t25/s1680n">1680n.</a>  </td>
 
     <td> Priority for Indian reservations.  </td>
 
@@ -1329,7 +1329,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680" data-uslm-ref="/us/usc/t25/s1680">1680</a>o.  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1337,7 +1337,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680p" data-uslm-ref="/us/usc/t25/s1680p">1680p.</a>  </td>
 
     <td> Annual budget submission.  </td>
 
@@ -1345,7 +1345,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680q" data-uslm-ref="/us/usc/t25/s1680q">1680q.</a>  </td>
 
     <td> Prescription drug monitoring.  </td>
 
@@ -1353,7 +1353,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680r" data-uslm-ref="/us/usc/t25/s1680r">1680r.</a>  </td>
 
     <td> Tribal health program option for cost sharing.  </td>
 
@@ -1361,7 +1361,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680s" data-uslm-ref="/us/usc/t25/s1680s">1680s.</a>  </td>
 
     <td> Disease and injury prevention report.  </td>
 
@@ -1369,7 +1369,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680t" data-uslm-ref="/us/usc/t25/s1680t">1680t.</a>  </td>
 
     <td> Other GAO reports.  </td>
 
@@ -1377,7 +1377,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680u" data-uslm-ref="/us/usc/t25/s1680u">1680u.</a>  </td>
 
     <td> Traditional health care practices.  </td>
 
@@ -1385,7 +1385,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1680v.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1680v" data-uslm-ref="/us/usc/t25/s1680v">1680v.</a>  </td>
 
     <td> Director of HIV/AIDS Prevention and Treatment.  </td>
 
@@ -1393,7 +1393,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1681" data-uslm-ref="/us/usc/t25/s1681">1681.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -1401,7 +1401,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1682" data-uslm-ref="/us/usc/t25/s1682">1682.</a>  </td>
 
     <td> Subrogation of claims by Indian Health Service.  </td>
 
@@ -1409,7 +1409,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs1683" data-uslm-ref="/us/usc/t25/s1683">1683.</a>  </td>
 
     <td> Indian Catastrophic Health Emergency Fund.  </td>
 

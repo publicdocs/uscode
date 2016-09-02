@@ -69,7 +69,7 @@
 
     This order is not intended to apply to any case in which the Congress has specifically reserved to itself authority to extend the period of trust on tribal or individual Indian lands.
 
-                              Harry S Truman.
+                              Harry S. Truman.
 
 ----------
 

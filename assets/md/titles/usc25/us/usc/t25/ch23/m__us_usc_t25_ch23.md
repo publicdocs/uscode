@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2101" data-uslm-ref="/us/usc/t25/s2101">2101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2102" data-uslm-ref="/us/usc/t25/s2102">2102.</a>  </td>
 
     <td> Minerals Agreements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2103" data-uslm-ref="/us/usc/t25/s2103">2103.</a>  </td>
 
     <td> Secretary’s determination on Minerals Agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2104" data-uslm-ref="/us/usc/t25/s2104">2104.</a>  </td>
 
     <td> Secretary’s review of prior Minerals Agreements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2105" data-uslm-ref="/us/usc/t25/s2105">2105.</a>  </td>
 
     <td> Effect of other provisions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2106" data-uslm-ref="/us/usc/t25/s2106">2106.</a>  </td>
 
     <td> Assistance to tribes or individuals during Minerals Agreement negotiations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2107" data-uslm-ref="/us/usc/t25/s2107">2107.</a>  </td>
 
     <td> Regulations; consultation with Indian organizations; pending agreements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2108" data-uslm-ref="/us/usc/t25/s2108">2108.</a>  </td>
 
     <td> Tribal right to develop mineral resources.  </td>
 

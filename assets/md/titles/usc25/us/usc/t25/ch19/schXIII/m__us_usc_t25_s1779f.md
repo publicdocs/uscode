@@ -1,7 +1,7 @@
 ---
 ---
 
-# 25 U.S.C., USLM ref /us/usc/t25/s § 1779f
+# 25 U.S.C., USLM ref /us/usc/t25/s1779f
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779e.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs+%C2%A7%E2%80%AF1779f)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779e.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779f)
 
 ##  § 1779f. Release of other tribal claims and filing of claims
 
@@ -121,7 +121,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779e.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs+%C2%A7%E2%80%AF1779f)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779e.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779f)
 
 ----------
 ----------

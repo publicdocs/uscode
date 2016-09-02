@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2501" data-uslm-ref="/us/usc/t25/s2501">2501.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2502" data-uslm-ref="/us/usc/t25/s2502">2502.</a>  </td>
 
     <td> Grants authorized.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2503" data-uslm-ref="/us/usc/t25/s2503">2503.</a>  </td>
 
     <td> Composition of grants.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2504" data-uslm-ref="/us/usc/t25/s2504">2504.</a>  </td>
 
     <td> Eligibility for grants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2505" data-uslm-ref="/us/usc/t25/s2505">2505.</a>  </td>
 
     <td> Duration of eligibility determination.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2506" data-uslm-ref="/us/usc/t25/s2506">2506.</a>  </td>
 
     <td> Payment of grants; investment of funds.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2507" data-uslm-ref="/us/usc/t25/s2507">2507.</a>  </td>
 
     <td> Application with respect to Indian Self-Determination and Education Assistance Act.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2508" data-uslm-ref="/us/usc/t25/s2508">2508.</a>  </td>
 
     <td> Role of the Director.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2509" data-uslm-ref="/us/usc/t25/s2509">2509.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2510" data-uslm-ref="/us/usc/t25/s2510">2510.</a>  </td>
 
     <td> The tribally controlled grant school endowment program.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2511" data-uslm-ref="/us/usc/t25/s2511">2511.</a>  </td>
 
     <td> Definitions.  </td>
 

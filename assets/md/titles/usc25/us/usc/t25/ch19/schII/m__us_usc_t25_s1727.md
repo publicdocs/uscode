@@ -25,7 +25,7 @@
 
     (c) __Actions or proceedings within existing jurisdiction unaffected__ 
 
-        Assumption or jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction.
+        Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction.
 
     (d) __Reservations within__  __[__  __section 1903(10) of this title__  __][/us/usc/t25/s1903/10]__ 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t25/ch14/schLX/m__us_usc_t25_s1186.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXI/m__us_usc_t25_s1191.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschLXI)
 
-### SUBCHAPTER LXI—CONFEDERATEDTRIBES OF UMATILLA RESERVATION:TRIBES OF UMATILLA RESERVATION:
+### SUBCHAPTER LXI—CONFEDERATEDTRIBES OF UMATILLA RESERVATION:DISTRIBUTION OF JUDGMENT FUND
 
 ----------
 

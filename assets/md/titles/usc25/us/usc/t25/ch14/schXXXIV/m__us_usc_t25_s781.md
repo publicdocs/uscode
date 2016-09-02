@@ -17,7 +17,7 @@
 
     (a) __Allotment equalization payments__ 
 
-        The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit of the Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 ([41 Stat. 3][/us/stat/41/3], 24.)
+        The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit of the Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 ([41 Stat. 3][/us/stat/41/3], 24).
 
     (b) __Per capita payments to enrollees, heirs, or legatees__ 
 

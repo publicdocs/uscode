@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3651" data-uslm-ref="/us/usc/t25/s3651">3651.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3652" data-uslm-ref="/us/usc/t25/s3652">3652.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3653" data-uslm-ref="/us/usc/t25/s3653">3653.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3661" data-uslm-ref="/us/usc/t25/s3661">3661.</a>  </td>
 
     <td> Tribal justice training and technical assistance grants.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3662" data-uslm-ref="/us/usc/t25/s3662">3662.</a>  </td>
 
     <td> Tribal civil legal assistance grants.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3663" data-uslm-ref="/us/usc/t25/s3663">3663.</a>  </td>
 
     <td> Tribal criminal assistance grants.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3664" data-uslm-ref="/us/usc/t25/s3664">3664.</a>  </td>
 
     <td> No offset.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3665" data-uslm-ref="/us/usc/t25/s3665">3665.</a>  </td>
 
     <td> Tribal authority.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3665a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3665a" data-uslm-ref="/us/usc/t25/s3665a">3665a.</a>  </td>
 
     <td> Office of Tribal Justice.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSIS
 
   <tr>
 
-    <td> 3666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3666" data-uslm-ref="/us/usc/t25/s3666">3666.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—INDIAN TRIBAL COURTS  </td>
 
   <tr>
 
-    <td> 3681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3681" data-uslm-ref="/us/usc/t25/s3681">3681.</a>  </td>
 
     <td> Grants.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—INDIAN TRIBAL COURTS  </td>
 
   <tr>
 
-    <td> 3682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs3682" data-uslm-ref="/us/usc/t25/s3682">3682.</a>  </td>
 
     <td> Assistant probation officers.  </td>
 

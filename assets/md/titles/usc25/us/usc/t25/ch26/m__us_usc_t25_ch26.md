@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2401" data-uslm-ref="/us/usc/t25/s2401">2401.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2402" data-uslm-ref="/us/usc/t25/s2402">2402.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2403" data-uslm-ref="/us/usc/t25/s2403">2403.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2411" data-uslm-ref="/us/usc/t25/s2411">2411.</a>  </td>
 
     <td> Inter-departmental Memorandum of Agreement.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2412" data-uslm-ref="/us/usc/t25/s2412">2412.</a>  </td>
 
     <td> Tribal Action Plans.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2413" data-uslm-ref="/us/usc/t25/s2413">2413.</a>  </td>
 
     <td> Departmental responsibility.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2414" data-uslm-ref="/us/usc/t25/s2414">2414.</a>  </td>
 
     <td> Congressional intent in construction of laws.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2414a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2414a" data-uslm-ref="/us/usc/t25/s2414a">2414a.</a>  </td>
 
     <td> Review of programs.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2415" data-uslm-ref="/us/usc/t25/s2415">2415.</a>  </td>
 
     <td> Federal facilities, property, and equipment; leasing of tribal property.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS  </td>
 
   <tr>
 
-    <td> 2416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2416" data-uslm-ref="/us/usc/t25/s2416">2416.</a>  </td>
 
     <td> Newsletter.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—INDIAN YOUTH PROGRAMS  </td>
 
   <tr>
 
-    <td> 2431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2431" data-uslm-ref="/us/usc/t25/s2431">2431.</a>  </td>
 
     <td> Review of programs.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—INDIAN YOUTH PROGRAMS  </td>
 
   <tr>
 
-    <td> 2432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2432" data-uslm-ref="/us/usc/t25/s2432">2432.</a>  </td>
 
     <td> Indian education programs.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—INDIAN YOUTH PROGRAMS  </td>
 
   <tr>
 
-    <td> 2433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2433" data-uslm-ref="/us/usc/t25/s2433">2433.</a>  </td>
 
     <td> Emergency shelters.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—INDIAN YOUTH PROGRAMS  </td>
 
   <tr>
 
-    <td> 2434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2434" data-uslm-ref="/us/usc/t25/s2434">2434.</a>  </td>
 
     <td> Social services reports.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—LAW ENFORCEMENT AND JUDICIAL SERVICES  </td>
 
   <tr>
 
-    <td> 2441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2441" data-uslm-ref="/us/usc/t25/s2441">2441.</a>  </td>
 
     <td> Review of programs.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—LAW ENFORCEMENT AND JUDICIAL SERVICES  </td>
 
   <tr>
 
-    <td> 2442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2442" data-uslm-ref="/us/usc/t25/s2442">2442.</a>  </td>
 
     <td> Illegal narcotics traffic on Tohono O’odham and St. Regis Reservations; source eradication.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 2451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2451" data-uslm-ref="/us/usc/t25/s2451">2451.</a>  </td>
 
     <td> Bureau of Indian Affairs law enforcement and judicial training.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 2452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2452" data-uslm-ref="/us/usc/t25/s2452">2452.</a>  </td>
 
     <td> Medical assessment and treatment of juvenile offenders.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 2453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2453" data-uslm-ref="/us/usc/t25/s2453">2453.</a>  </td>
 
     <td> Juvenile detention centers.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 2454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2454" data-uslm-ref="/us/usc/t25/s2454">2454.</a>  </td>
 
     <td> Model Indian Juvenile Code.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 2455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2455" data-uslm-ref="/us/usc/t25/s2455">2455.</a>  </td>
 
     <td> Law enforcement and judicial report.  </td>
 
@@ -241,9 +241,9 @@ SUBCHAPTER VI—INDIAN ALCOHOL AND SUBSTANCE ABUSE TREATMENT AND REHABILITATION 
 
   <tr>
 
-    <td> 2471 to 2478. Transferred or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2471" data-uslm-ref="/us/usc/t25/s2471">2471</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2478" data-uslm-ref="/us/usc/t25/s2478">2478.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 

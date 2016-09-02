@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s § 1779f.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIV/m__us_usc_t25_ch19_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779g)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779f.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIV/m__us_usc_t25_ch19_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779g)
 
 ## § 1779g. Effect on claims
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s § 1779f.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIV/m__us_usc_t25_ch19_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779g)
+[Previous](./../../../../..//us/usc/t25/ch19/schXIII/m__us_usc_t25_s1779f.md) | [Next](./../../../../..//us/usc/t25/ch19/schXIV/m__us_usc_t25_ch19_schXIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1779g)
 
 ----------
 ----------
