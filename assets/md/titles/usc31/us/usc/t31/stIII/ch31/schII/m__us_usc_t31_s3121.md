@@ -543,9 +543,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
  __Notice on Treasury Modifications to Auction Process__ 
 
-[Pub. L. 103–202, title II, § 203][/us/pl/103/202/s203], Dec. 17, 1993, [107 Stat. 2359][/us/stat/107/2359], provided that: 
-
-> “The Secretary of the Treasury shall notify the Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications are implemented.”
+    [Pub. L. 103–202, title II, § 203][/us/pl/103/202/s203], Dec. 17, 1993, [107 Stat. 2359][/us/stat/107/2359], which required the Secretary of the Treasury to notify Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications were implemented, was repealed by [Pub. L. 113–188, title XVI, § 1601(d)(1)][/us/pl/113/188/s1601/d/1], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
 
 ----------
 
@@ -612,5 +610,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/103/202/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs203
 [/us/stat/107/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2359
+[/us/pl/113/188/s1601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fd%2F1
+[/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 
 

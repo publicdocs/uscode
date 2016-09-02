@@ -89,7 +89,7 @@
 
             (B) at least once each year a list of reports issued during the prior 12 months.
 
-        (2) A copy of each list shall be sent to each committee of Congress and each member of Congress. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member.
+        (2) The Comptroller General shall make each list available through the public website of the Government Accountability Office. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member of Congress.
 
     (h)
 
@@ -99,7 +99,7 @@
 
         (2) in its consideration of proposed legislation.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 894][/us/stat/96/894]; [Pub. L. 104–316, title I, § 115(b)][/us/pl/104/316/s115/b], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 105–85, div. A, title X, § 1044][/us/pl/105/85/s1044], Nov. 18, 1997, [111 Stat. 1887][/us/stat/111/1887]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 894][/us/stat/96/894]; [Pub. L. 104–316, title I, § 115(b)][/us/pl/104/316/s115/b], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 105–85, div. A, title X, § 1044][/us/pl/105/85/s1044], Nov. 18, 1997, [111 Stat. 1887][/us/stat/111/1887]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–188, title IX, § 902(b)][/us/pl/113/188/s902/b], Nov. 26, 2014, [128 Stat. 2021][/us/stat/128/2021].)
 
 <table>
 
@@ -409,6 +409,8 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (g)(2). [Pub. L. 113–188][/us/pl/113/188] substituted “The Comptroller General shall make each list available through the public website of the Government Accountability Office.” for “A copy of each list shall be sent to each committee of Congress and each member of Congress.” and inserted “of Congress” after “committee or member”.
+
     2004—Subsec. (b)(1)(C), (3). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
     1997—Subsec. (b)(3). [Pub. L. 105–85][/us/pl/105/85] added par. (3).
@@ -542,10 +544,13 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 [/us/stat/111/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1887
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/188/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fb
+[/us/stat/128/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2021
 [/us/usc/t31/s712/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs712%2F3
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/pl/104/316/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fb%2F2
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
