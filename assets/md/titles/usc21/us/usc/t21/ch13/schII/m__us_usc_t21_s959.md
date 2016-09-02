@@ -17,13 +17,17 @@
 
     (a) __Manufacture or distribution for purpose of unlawful importation__ 
 
-    It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
+        It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.
 
-        (1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
+    (b) __Manufacture or distribution of listed chemical for purpose of manufacture or unlawful importation of controlled substance__ 
 
-        (2) knowing that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.
+    It shall be unlawful for any person to manufacture or distribute a listed chemical—
 
-    (b) __Possession, manufacture, or distribution by person on board aircraft__ 
+        (1) intending or knowing that the listed chemical will be used to manufacture a controlled substance; and
+
+        (2) intending, knowing, or having reasonable cause to believe that the controlled substance will be unlawfully imported into the United States.
+
+    (c) __Possession, manufacture, or distribution by person on board aircraft__ 
 
     It shall be unlawful for any United States citizen on board any aircraft, or any person on board an aircraft owned by a United States citizen or registered in the United States, to—
 
@@ -31,17 +35,25 @@
 
         (2) possess a controlled substance or listed chemical with intent to distribute.
 
-    (c) __Acts committed outside territorial jurisdiction of United States; venue__ 
+    (d) __Acts committed outside territorial jurisdiction of United States; venue__ 
 
         This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
 
-([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1009, Oct. 27, 1970, [84 Stat. 1289][/us/stat/84/1289]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3161(a), Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94]; [Pub. L. 104–237, title I][/us/pl/104/237/tI], § 102(a), (b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100]; [Pub. L. 104–305][/us/pl/104/305], § 2(b)(2)(A), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1009, Oct. 27, 1970, [84 Stat. 1289][/us/stat/84/1289]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3161(a), Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94]; [Pub. L. 104–237, title I][/us/pl/104/237/tI], § 102(a), (b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100]; [Pub. L. 104–305][/us/pl/104/305], § 2(b)(2)(A), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807]; [Pub. L. 114–154][/us/pl/114/154], § 2, May 16, 2016, [130 Stat. 387][/us/stat/130/387].)
 
  __References in Text__ 
 
     Schedules I and II, referred to in subsec. (a), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
 
  __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–154][/us/pl/114/154], § 2(2), substituted “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.” for “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
+
+    “(1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
+
+    “(2) knowing that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.”
+
+    Subsecs. (b) to (d). [Pub. L. 114–154][/us/pl/114/154] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
     1996—Subsec. (a). [Pub. L. 104–305][/us/pl/104/305] inserted “or flunitrazepam” after “schedule I or II” in introductory provisions.
 
@@ -66,7 +78,11 @@
 [/us/stat/110/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3100
 [/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3807
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/stat/130/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F387
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
+[/us/pl/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F154
 [/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
