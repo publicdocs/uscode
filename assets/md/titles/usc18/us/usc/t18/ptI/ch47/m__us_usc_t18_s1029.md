@@ -111,15 +111,9 @@
 
         (2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 
-    (h)
+    (h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
-     Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
-
-        (1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
-
-        (2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
-
-(Added [Pub. L. 98–473, title II, § 1602(a)][/us/pl/98/473/s1602/a], Oct. 12, 1984, [98 Stat. 2183][/us/stat/98/2183]; amended [Pub. L. 99–646, § 44(b)][/us/pl/99/646/s44/b], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 101–647, title XII, § 1205(f)][/us/pl/101/647/s1205/f], Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXV, § 250007][/us/pl/103/322/s250007], title XXXIII, § 330016(2)(I), Sept. 13, 1994, [108 Stat. 2087][/us/stat/108/2087], 2148; [Pub. L. 103–414, title II, § 206][/us/pl/103/414/s206], Oct. 25, 1994, [108 Stat. 4291][/us/stat/108/4291]; [Pub. L. 104–294, title VI, § 601][/us/pl/104/294/s601](l), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–172, § 2(a)][/us/pl/105/172/s2/a]–(d), Apr. 24, 1998, [112 Stat. 53][/us/stat/112/53], 54; [Pub. L. 107–56, title III, § 377][/us/pl/107/56/s377], Oct. 26, 2001, [115 Stat. 342][/us/stat/115/342]; [Pub. L. 107–273, div. B, title IV, § 4002(b)(11)][/us/pl/107/273/s4002/b/11], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808].)
+(Added [Pub. L. 98–473, title II, § 1602(a)][/us/pl/98/473/s1602/a], Oct. 12, 1984, [98 Stat. 2183][/us/stat/98/2183]; amended [Pub. L. 99–646, § 44(b)][/us/pl/99/646/s44/b], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 101–647, title XII, § 1205(f)][/us/pl/101/647/s1205/f], Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXV, § 250007][/us/pl/103/322/s250007], title XXXIII, § 330016(2)(I), Sept. 13, 1994, [108 Stat. 2087][/us/stat/108/2087], 2148; [Pub. L. 103–414, title II, § 206][/us/pl/103/414/s206], Oct. 25, 1994, [108 Stat. 4291][/us/stat/108/4291]; [Pub. L. 104–294, title VI, § 601][/us/pl/104/294/s601](l), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–172, § 2(a)][/us/pl/105/172/s2/a]–(d), Apr. 24, 1998, [112 Stat. 53][/us/stat/112/53], 54; [Pub. L. 107–56, title III, § 377][/us/pl/107/56/s377], Oct. 26, 2001, [115 Stat. 342][/us/stat/115/342]; [Pub. L. 107–273, div. B, title IV, § 4002(b)(11)][/us/pl/107/273/s4002/b/11], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 114–113, div. N, title IV, § 407][/us/pl/114/113/s407], Dec. 18, 2015, [129 Stat. 2985][/us/stat/129/2985].)
 
  __References in Text__ 
 
@@ -128,6 +122,12 @@
     The Communications Act of 1934, referred to in subsec. (e)(10), is [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1964][/us/stat/48/1964], as amended. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47][/us/usc/t47/s609] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–113][/us/pl/114/113] substituted “title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.” for “title if—
+
+    “(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
+
+    “(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.”
 
     2002—Subsec. (c)(1)(A)(ii). [Pub. L. 107–273, § 4002(b)(11)(A)][/us/pl/107/273/s4002/b/11/A], substituted “(9)” for “(9),”.
 
@@ -245,10 +245,13 @@
 [/us/stat/115/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F342
 [/us/pl/107/273/s4002/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
+[/us/pl/114/113/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407
+[/us/stat/129/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2985
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1964
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/273/s4002/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11%2FA
 [/us/pl/107/273/s4002/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11%2FB
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
