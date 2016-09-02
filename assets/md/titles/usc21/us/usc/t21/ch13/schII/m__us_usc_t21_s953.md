@@ -85,19 +85,53 @@
 
             (B) the controlled substance is to be applied exclusively to medical, scientific, or other legitimate uses within the country.
 
-        (5) The controlled substance will not be exported from the second country.
+        (5)
 
-        (6) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
+            (A) The controlled substance will not be exported from the second country, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area.
+
+            (B)
+
+             Subsequent to any re-exportation described in subparagraph (A), a controlled substance may continue to be exported from any country that is a member of the European Economic Area to any other such country, if—
+
+                (i) the conditions applicable with respect to the first country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country from which the controlled substance is exported pursuant to this paragraph; and
+
+                (ii) the conditions applicable with respect to the second country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country to which the controlled substance is exported pursuant to this paragraph.
+
+        (6)
+
+            (A) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
+
+            (B)
+
+             In the case of re-exportation among members of the European Economic Area, within 30 days after each re-exportation, the person who exported the controlled substance from the United States delivers to the Attorney General—
+
+                (i) documentation certifying that such re-exportation has occurred; and
+
+                (ii) information concerning the consignee, country, and product.
 
         (7) A permit to export the controlled substance from the United States has been issued by the Attorney General.
 
-([Pub. L. 91–513, title III, § 1003][/us/pl/91/513/s1003], Oct. 27, 1970, [84 Stat. 1286][/us/stat/84/1286]; [Pub. L. 95–633, title I, § 106][/us/pl/95/633/s106], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II, § 522][/us/pl/98/473/s522], Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 109–57, § 1(b)][/us/pl/109/57/s1/b], Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592].)
+    (g) __Limitation__ 
+
+    Subject to paragraphs (5) and (6) of subsection (f) in the case of any controlled substance in schedule I or II or any narcotic drug in schedule III or IV, the Attorney General shall not promulgate nor enforce any regulation, subregulatory guidance, or enforcement policy which impedes re-exportation of any controlled substance among European Economic Area countries, including by promulgating or enforcing any requirement that—
+
+        (1) re-exportation from the first country to the second country or re-exportation from the second country to another country occur within a specified period of time; or
+
+        (2) information concerning the consignee, country, and product be provided prior to exportation of the controlled substance from the United States or prior to each re-exportation among members of the European Economic Area.
+
+([Pub. L. 91–513, title III, § 1003][/us/pl/91/513/s1003], Oct. 27, 1970, [84 Stat. 1286][/us/stat/84/1286]; [Pub. L. 95–633, title I, § 106][/us/pl/95/633/s106], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II, § 522][/us/pl/98/473/s522], Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 109–57, § 1(b)][/us/pl/109/57/s1/b], Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592]; [Pub. L. 114–89, § 4][/us/pl/114/89/s4], Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
 
  __References in Text__ 
 
     Schedules I, II, III, IV and V, referred to in text, are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
 
  __Amendments__ 
+
+    2015—Subsec. (f)(5). [Pub. L. 114–89, § 4(1)(A)][/us/pl/114/89/s4/1/A], designated existing provisions as subpar. (A), inserted “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before period at end, and added subpar. (B).
+
+    Subsec. (f)(6). [Pub. L. 114–89, § 4(1)(B)][/us/pl/114/89/s4/1/B], designated existing provisions as subpar. (A) and added subpar. (B).
+
+    Subsec. (g). [Pub. L. 114–89, § 4(2)][/us/pl/114/89/s4/2], added subsec. (g).
 
     2005—Subsec. (f). [Pub. L. 109–57][/us/pl/109/57] added subsec. (f).
 
@@ -124,7 +158,12 @@
 [/us/stat/98/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2076
 [/us/pl/109/57/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57%2Fs1%2Fb
 [/us/stat/119/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F592
+[/us/pl/114/89/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4
+[/us/stat/129/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F701
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
+[/us/pl/114/89/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F1%2FA
+[/us/pl/114/89/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F1%2FB
+[/us/pl/114/89/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F2
 [/us/pl/109/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633

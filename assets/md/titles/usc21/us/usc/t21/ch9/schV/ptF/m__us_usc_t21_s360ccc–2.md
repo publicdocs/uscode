@@ -71,7 +71,17 @@
 
             (B) such holder provides written consent to the Secretary for the approval or conditional approval of other applications before the expiration of such exclusivity period.
 
-([June 25, 1938, ch. 675, § 573][/us/act/1938-06-25/ch675/s573], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 900][/us/stat/118/900].)
+        (3) For purposes of determining the 7-year period of exclusivity under paragraph (1) for a drug for which the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], the drug shall not be considered approved or conditionally approved until the date that the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
+
+([June 25, 1938, ch. 675, § 573][/us/act/1938-06-25/ch675/s573], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 900][/us/stat/118/900]; amended [Pub. L. 114–89, § 2(a)(4)][/us/pl/114/89/s2/a/4], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
+
+ __References in Text__ 
+
+    The Controlled Substances Act, referred to in subsec. (c)(3), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (c)(3). [Pub. L. 114–89][/us/pl/114/89] added par. (3).
 
 ----------
 
@@ -88,8 +98,16 @@
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/act/1938-06-25/ch675/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs573
 [/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
 [/us/stat/118/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F900
+[/us/pl/114/89/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F4
+[/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 
 

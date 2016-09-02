@@ -215,13 +215,23 @@
 
             (B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
 
-([June 25, 1938, ch. 675, § 572][/us/act/1938-06-25/ch675/s572], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 896][/us/stat/118/896].)
+    (k) __Date of determination in the case of recommended controls under the CSA__ 
+
+        In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
+
+([June 25, 1938, ch. 675, § 572][/us/act/1938-06-25/ch675/s572], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 896][/us/stat/118/896]; amended [Pub. L. 114–89, § 2(a)(3)(C)][/us/pl/114/89/s2/a/3/C], Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
 
  __References in Text__ 
 
     The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
     The Federal Advisory Committee Act, referred to in subsec. (d)(3)(C), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+    The Controlled Substances Act, referred to in subsec. (k), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (k). [Pub. L. 114–89][/us/pl/114/89] added subsec. (k).
 
 ----------
 
@@ -234,13 +244,21 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t21/s360b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fd
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/act/1938-06-25/ch675/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs572
 [/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
 [/us/stat/118/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F896
+[/us/pl/114/89/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F3%2FC
+[/us/stat/129/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F699
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 
 

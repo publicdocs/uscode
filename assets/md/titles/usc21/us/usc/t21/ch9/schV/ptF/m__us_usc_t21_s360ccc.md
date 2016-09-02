@@ -91,6 +91,18 @@
 
         (3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approval should not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
 
+        (4)
+
+            (A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], conditional approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j].
+
+            (B)
+
+             For purposes of this section, with respect to an application described in subparagraph (A), the term “date of approval” shall mean the later of—
+
+                (i) the date an application under subsection (a) is conditionally approved under subsection (b); or
+
+                (ii) the date of issuance of the interim final rule controlling the drug.
+
     (e) __Withdrawal of conditional approval__ 
 
         (1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under [section 360b of this title][/us/usc/t21/s360b] for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
@@ -139,7 +151,15 @@
 
         In this section and [section 360ccc–1 of this title][/us/usc/t21/s360ccc–1], the term “transgenic animal” means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term “transgenic animal” does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
-([June 25, 1938, ch. 675, § 571][/us/act/1938-06-25/ch675/s571], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892].)
+([June 25, 1938, ch. 675, § 571][/us/act/1938-06-25/ch675/s571], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892]; amended [Pub. L. 114–89, § 2(a)(3)(B)][/us/pl/114/89/s2/a/3/B], Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
+
+ __References in Text__ 
+
+    The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (d)(4). [Pub. L. 114–89][/us/pl/114/89] added par. (4).
 
  __Findings__ 
 
@@ -183,6 +203,8 @@
 [/us/usc/t21/s360b/d/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fd%2F1%2FE
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/usc/t21/s360b/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fe%2F2
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
@@ -195,6 +217,12 @@
 [/us/act/1938-06-25/ch675/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs571
 [/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
 [/us/stat/118/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F892
+[/us/pl/114/89/s2/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F3%2FB
+[/us/stat/129/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F699
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/108/282/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fa
 [/us/stat/118/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F891
 [/us/pl/108/282/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F6

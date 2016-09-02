@@ -229,7 +229,13 @@
 
         (5) such other factors as are relevant to and consistent with the public health and safety.
 
-([Pub. L. 91–513, title II, § 303][/us/pl/91/513/s303], Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281, § 3][/us/pl/93/281/s3], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 109][/us/pl/95/633/s109], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II, § 511][/us/pl/98/473/s511], Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200, § 3(c)][/us/pl/103/200/s3/c], Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV, § 3502(a)][/us/pl/106/310/s3502/a], Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II, § 2501][/us/pl/107/273/s2501], Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56, § 1(a)][/us/pl/109/56/s1/a], (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII, § 712(a)(3)][/us/pl/109/177/s712/a/3], Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI, § 1102][/us/pl/109/469/s1102], Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425, § 3(b)][/us/pl/110/425/s3/b], Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824].)
+    (i) __Registration to manufacture certain controlled substances for use only in a clinical trial__ 
+
+        (1) For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title][/us/usc/t21/s824/c], not later than 180 days after the date on which the application is accepted for filing.
+
+        (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title][/us/usc/t21/s824/c], unless the Attorney General has granted a hearing on the application under [section 958(i) of this title][/us/usc/t21/s958/i].
+
+([Pub. L. 91–513, title II, § 303][/us/pl/91/513/s303], Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281, § 3][/us/pl/93/281/s3], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 109][/us/pl/95/633/s109], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II, § 511][/us/pl/98/473/s511], Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200, § 3(c)][/us/pl/103/200/s3/c], Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV, § 3502(a)][/us/pl/106/310/s3502/a], Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II, § 2501][/us/pl/107/273/s2501], Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56, § 1(a)][/us/pl/109/56/s1/a], (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII, § 712(a)(3)][/us/pl/109/177/s712/a/3], Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI, § 1102][/us/pl/109/469/s1102], Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425, § 3(b)][/us/pl/110/425/s3/b], Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824]; [Pub. L. 114–89, § 3][/us/pl/114/89/s3], Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
 
  __References in Text__ 
 
@@ -240,6 +246,8 @@
     This chapter, referred to in subsec. (g)(2)(J)(ii)(II), was in the original “this Act”, meaning [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (i). [Pub. L. 114–89][/us/pl/114/89] added subsec. (i).
 
     2008—Subsec. (f). [Pub. L. 110–425][/us/pl/110/425], in introductory provisions, inserted “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet” after “schedule II, III, IV, or V” and substituted “or such modification of registration if the Attorney General determines that the issuance of such registration or modification” for “if he determines that the issuance of such registration”.
 
@@ -308,6 +316,9 @@
 [/us/usc/t21/s824/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fa%2F4
 [/us/usc/t42/s1395nn/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn%2Fh%2F4
 [/us/usc/t21/s802/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F39%2FA
+[/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
+[/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
+[/us/usc/t21/s958/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958%2Fi
 [/us/pl/91/513/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs303
 [/us/stat/84/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1253
 [/us/pl/93/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281%2Fs3
@@ -330,6 +341,8 @@
 [/us/stat/120/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3540
 [/us/pl/110/425/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fb
 [/us/stat/122/4824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4824
+[/us/pl/114/89/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs3
+[/us/stat/129/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F701
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -337,6 +350,7 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/109/469/s1102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F1
 [/us/pl/109/469/s1102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F2%2FA

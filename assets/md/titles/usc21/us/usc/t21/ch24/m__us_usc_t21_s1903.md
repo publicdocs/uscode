@@ -113,6 +113,18 @@
 
                               Barack Obama.
 
+ __Delegation of Functions Under the Foreign Narcotics Kingpin Designation Act__ 
+
+    Memorandum of President of the United States, May 15, 2015, 80 F.R. 29201, provided:
+
+    Memorandum for the Secretary of the Treasury
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate the functions conferred upon the President by sections 804(b), (c), (g), and (h) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1903(b)][/us/usc/t21/s1903/b], (c), (g), and (h)), to the Secretary of the Treasury.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../..//us/usc/t21/ch24/m__us_usc_t21_s1902.md) | [Next](./../../../..//us/usc/t21/ch24/m__us_usc_t21_s1904.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903)
@@ -129,5 +141,7 @@
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t21/s1903/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903%2Fh%2F2%2FA
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t21/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903%2Fb
 
 

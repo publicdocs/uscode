@@ -43,9 +43,9 @@
 
  __References in Text__ 
 
-    The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
+    The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
 
-    Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], titles I to IV, as added Dec. 15, 1967, [Pub. L. 90–201][/us/pl/90/201], [81 Stat. 584][/us/stat/81/584], and amended, which are classified generally to subchapters I to IV (§ 601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title][/us/usc/t21/s601] and Tables.
+    Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title][/us/usc/t21/s601] and Tables.
 
  __Codification__ 
 
@@ -93,6 +93,8 @@
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
+[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t21/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs75
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

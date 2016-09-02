@@ -1493,7 +1493,21 @@
 
         The Secretary shall issue a final, substantive determination on a petition submitted pursuant to subsection (b) of section 314.161 of title 21, Code of Federal Regulations (or any successor regulations), no later than 270 days after the date the petition is submitted.
 
-([June 25, 1938, ch. 675, § 505][/us/act/1938-06-25/ch675/s505], [52 Stat. 1052][/us/stat/52/1052]; [Pub. L. 86–507, § 1(18)][/us/pl/86/507/s1/18], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, [76 Stat. 781–783][/us/stat/76/781-783], 784, 785; [Pub. L. 92–387, § 4(d)][/us/pl/92/387/s4/d], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 98–417, title I][/us/pl/98/417], §§ 101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585], 1592, 1593, 1597; [Pub. L. 102–282, § 5][/us/pl/102/282/s5], May 13, 1992, [106 Stat. 161][/us/stat/106/161]; [Pub. L. 103–80, § 3(n)][/us/pl/103/80/s3/n], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 115, 117, 119, 120, 124(a), Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313], 2315, 2316, 2318, 2324; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–109, § 15(c)(1)][/us/pl/107/109/s15/c/1], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 108–155, § 2(b)(1)][/us/pl/108/155/s2/b/1], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI][/us/pl/108/173], §§ 1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, [117 Stat. 2448][/us/stat/117/2448], 2452, 2457, 2460; [Pub. L. 110–85, title VII, § 701(b)][/us/pl/110/85/s701/b], title VIII, § 801(b)(3)(A), (B), title IX, §§ 901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, § 1113, Sept. 27, 2007, [121 Stat. 903][/us/stat/121/903], 921, 922, 943, 944, 953, 957, 958, 960–962, 976; [Pub. L. 110–316, title III, § 301][/us/pl/110/316/s301], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 110–379, § 4(a)][/us/pl/110/379/s4/a], Oct. 8, 2008, [122 Stat. 4076][/us/stat/122/4076]; [Pub. L. 111–31, div. A, title I, § 103(e)][/us/pl/111/31/s103/e], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–148, title VII, § 7002(d)(1)][/us/pl/111/148/s7002/d/1], title X, § 10609, Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816], 1014; [Pub. L. 112–144, title IX, § 905][/us/pl/112/144/s905], title XI, §§ 1101, 1134(a), 1135, July 9, 2012, [126 Stat. 1092][/us/stat/126/1092], 1108, 1123; [Pub. L. 113–5, title III, § 301][/us/pl/113/5/s301], Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179].)
+    (x) __Date of approval in the case of recommended controls under the CSA__ 
+
+        (1) __In general__ 
+
+            In the case of an application under subsection (b) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
+
+        (2) __Date of approval__ 
+
+        For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
+
+            (A) the date an application under subsection (b) is approved under subsection (c); or
+
+            (B) the date of issuance of the interim final rule controlling the drug.
+
+([June 25, 1938, ch. 675, § 505][/us/act/1938-06-25/ch675/s505], [52 Stat. 1052][/us/stat/52/1052]; [Pub. L. 86–507, § 1(18)][/us/pl/86/507/s1/18], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, [76 Stat. 781–783][/us/stat/76/781-783], 784, 785; [Pub. L. 92–387, § 4(d)][/us/pl/92/387/s4/d], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 98–417, title I][/us/pl/98/417], §§ 101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585], 1592, 1593, 1597; [Pub. L. 102–282, § 5][/us/pl/102/282/s5], May 13, 1992, [106 Stat. 161][/us/stat/106/161]; [Pub. L. 103–80, § 3(n)][/us/pl/103/80/s3/n], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 115, 117, 119, 120, 124(a), Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313], 2315, 2316, 2318, 2324; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–109, § 15(c)(1)][/us/pl/107/109/s15/c/1], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 108–155, § 2(b)(1)][/us/pl/108/155/s2/b/1], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI][/us/pl/108/173], §§ 1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, [117 Stat. 2448][/us/stat/117/2448], 2452, 2457, 2460; [Pub. L. 110–85, title VII, § 701(b)][/us/pl/110/85/s701/b], title VIII, § 801(b)(3)(A), (B), title IX, §§ 901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, § 1113, Sept. 27, 2007, [121 Stat. 903][/us/stat/121/903], 921, 922, 943, 944, 953, 957, 958, 960–962, 976; [Pub. L. 110–316, title III, § 301][/us/pl/110/316/s301], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 110–379, § 4(a)][/us/pl/110/379/s4/a], Oct. 8, 2008, [122 Stat. 4076][/us/stat/122/4076]; [Pub. L. 111–31, div. A, title I, § 103(e)][/us/pl/111/31/s103/e], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–148, title VII, § 7002(d)(1)][/us/pl/111/148/s7002/d/1], title X, § 10609, Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816], 1014; [Pub. L. 112–144, title IX, § 905][/us/pl/112/144/s905], title XI, §§ 1101, 1134(a), 1135, July 9, 2012, [126 Stat. 1092][/us/stat/126/1092], 1108, 1123; [Pub. L. 113–5, title III, § 301][/us/pl/113/5/s301], Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179]; [Pub. L. 114–89, § 2(a)(1)][/us/pl/114/89/s2/a/1], Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
 
  __References in Text__ 
 
@@ -1507,11 +1521,15 @@
 
     The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (v)(4), is [Pub. L. 98–417][/us/pl/98/417], Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585]. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title][/us/usc/t21/s301] and Tables.
 
+    The Controlled Substances Act, referred to in subsec. (x), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
+
  __Codification__ 
 
     In subsec. (k)(4)(H), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4(5) of the Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2015—Subsec. (x). [Pub. L. 114–89][/us/pl/114/89] added subsec. (x).
 
     2013—Subsec. (b)(5)(B). [Pub. L. 113–5][/us/pl/113/5] substituted “size—” for “size of clinical trials intended to form the primary basis of an effectiveness claim or, with respect to an applicant for approval of a biological product under [section 262(k) of title 42][/us/usc/t42/s262/k], any necessary clinical study or studies.”, added cls. (i) and (ii), and designated last two sentences as concluding provisions.
 
@@ -2172,6 +2190,8 @@
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t35/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/act/1938-06-25/ch675/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505
 [/us/stat/52/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1052
 [/us/pl/86/507/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F18
@@ -2210,6 +2230,8 @@
 [/us/stat/126/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1092
 [/us/pl/113/5/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs301
 [/us/stat/127/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F179
+[/us/pl/114/89/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F1
+[/us/stat/129/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F698
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
@@ -2224,9 +2246,13 @@
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/stat/98/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1585
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
 [/us/pl/112/144/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs905

@@ -603,13 +603,31 @@
 
             (B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
 
-([June 25, 1938, ch. 675, § 512][/us/act/1938-06-25/ch675/s512], as added [Pub. L. 90–399, § 101(b)][/us/pl/90/399/s101/b], July 13, 1968, [82 Stat. 343][/us/stat/82/343]; amended [Pub. L. 100–670, title I][/us/pl/100/670], §§ 101, 102, 104, 107(a)(2), Nov. 16, 1988, [102 Stat. 3971][/us/stat/102/3971], 3981, 3982, 3984; [Pub. L. 102–108, § 2(e)][/us/pl/102/108/s2/e], Aug. 17, 1991, [105 Stat. 550][/us/stat/105/550]; [Pub. L. 103–80, § 3(r)][/us/pl/103/80/s3/r], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 103–396, § 2(a)][/us/pl/103/396/s2/a], (b)(2), (3), Oct. 22, 1994, [108 Stat. 4153][/us/stat/108/4153], 4154; [Pub. L. 104–250][/us/pl/104/250], §§ 2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, [110 Stat. 3151–3153][/us/stat/110/3151-3153], 3155–3157; [Pub. L. 105–115, title I, § 124(b)][/us/pl/105/115/s124/b], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 737\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–30; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 108–282, title I, § 102(b)(2)][/us/pl/108/282/s102/b/2], (3), (5)(I)–(S), Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892], 903, 904; [Pub. L. 110–316, title I, § 105(a)][/us/pl/110/316/s105/a], Aug. 14, 2008, [122 Stat. 3513][/us/stat/122/3513].)
+    (q) __Date of approval in the case of recommended controls under the CSA__ 
+
+        (1) __In general__ 
+
+            In the case of an application under subsection (b) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
+
+        (2) __Date of approval__ 
+
+        For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
+
+            (A) the date an application under subsection (b) is approved under subsection (c); or
+
+            (B) the date of issuance of the interim final rule controlling the drug.
+
+([June 25, 1938, ch. 675, § 512][/us/act/1938-06-25/ch675/s512], as added [Pub. L. 90–399, § 101(b)][/us/pl/90/399/s101/b], July 13, 1968, [82 Stat. 343][/us/stat/82/343]; amended [Pub. L. 100–670, title I][/us/pl/100/670], §§ 101, 102, 104, 107(a)(2), Nov. 16, 1988, [102 Stat. 3971][/us/stat/102/3971], 3981, 3982, 3984; [Pub. L. 102–108, § 2(e)][/us/pl/102/108/s2/e], Aug. 17, 1991, [105 Stat. 550][/us/stat/105/550]; [Pub. L. 103–80, § 3(r)][/us/pl/103/80/s3/r], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 103–396, § 2(a)][/us/pl/103/396/s2/a], (b)(2), (3), Oct. 22, 1994, [108 Stat. 4153][/us/stat/108/4153], 4154; [Pub. L. 104–250][/us/pl/104/250], §§ 2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, [110 Stat. 3151–3153][/us/stat/110/3151-3153], 3155–3157; [Pub. L. 105–115, title I, § 124(b)][/us/pl/105/115/s124/b], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 737\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–30; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 108–282, title I, § 102(b)(2)][/us/pl/108/282/s102/b/2], (3), (5)(I)–(S), Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892], 903, 904; [Pub. L. 110–316, title I, § 105(a)][/us/pl/110/316/s105/a], Aug. 14, 2008, [122 Stat. 3513][/us/stat/122/3513]; [Pub. L. 114–89, § 2(a)(3)(A)][/us/pl/114/89/s2/a/3/A], Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
 
  __References in Text__ 
 
     [Section 342(a)(2) of this title][/us/usc/t21/s342/a/2], referred to in subsec. (a)(6), was amended by [Pub. L. 104–170, title IV, § 404][/us/pl/104/170/s404], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514], and, as so amended, no longer contains a subcl. (D). See [section 342(a)(2)(C)(ii) of this title][/us/usc/t21/s342/a/2/C/ii].
 
+    The Controlled Substances Act, referred to in subsec. (q), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
+
  __Amendments__ 
+
+    2015—Subsec. (q). [Pub. L. 114–89][/us/pl/114/89] added subsec. (q).
 
     2008—Subsec. (l)(3). [Pub. L. 110–316][/us/pl/110/316] added par. (3).
 
@@ -711,7 +729,9 @@
 
     Subsec. (e)(1)(D) to (F). [Pub. L. 100–670, § 102(b)(4)][/us/pl/100/670/s102/b/4], added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-    Subsecs. (n) to (p). [Pub. L. 100–670, § 101(b)][/us/pl/100/670/s101/b], added subsecs. (n) to (p) and struck out former subsec. (n) which related to certification of new drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, or bacitracin, and release prior to certification.
+    Subsecs. (n), (o). [Pub. L. 100–670, § 101(b)][/us/pl/100/670/s101/b], added subsecs. (n) and (o) and struck out former subsec. (n) which related to certification of new drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, or bacitracin, and release prior to certification.
+
+    Subsec. (p). [Pub. L. 100–670, § 104][/us/pl/100/670/s104], added subsec. (p).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -855,6 +875,8 @@
 [/us/usc/t21/s321/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fv
 [/us/usc/t21/s360ccc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%2Fa
 [/us/usc/t21/s360ccc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%2Fa
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/act/1938-06-25/ch675/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs512
 [/us/pl/90/399/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs101%2Fb
 [/us/stat/82/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F343
@@ -878,10 +900,16 @@
 [/us/stat/118/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F892
 [/us/pl/110/316/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs105%2Fa
 [/us/stat/122/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3513
+[/us/pl/114/89/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F3%2FA
+[/us/stat/129/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F699
 [/us/usc/t21/s342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F2
 [/us/pl/104/170/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs404
 [/us/stat/110/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1514
 [/us/usc/t21/s342/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F2%2FC%2Fii
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/pl/108/282/s102/b/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FI
 [/us/pl/108/282/s102/b/5/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FJ
@@ -938,6 +966,7 @@
 [/us/pl/100/670/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs102%2Fb%2F2
 [/us/pl/100/670/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs102%2Fb%2F4
 [/us/pl/100/670/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs101%2Fb
+[/us/pl/100/670/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs104
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

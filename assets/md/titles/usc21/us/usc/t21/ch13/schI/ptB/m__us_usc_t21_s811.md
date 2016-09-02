@@ -167,7 +167,21 @@
 
         (6) The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the definition of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under [section 802(41) of this title][/us/usc/t21/s802/41]. Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
 
-([Pub. L. 91–513, title II, § 201][/us/pl/91/513/s201], Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I, § 102(a)][/us/pl/95/633/s102/a], Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358, § 2(b)][/us/pl/108/358/s2/b], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI, § 1153][/us/pl/112/144/s1153], July 9, 2012, [126 Stat. 1132][/us/stat/126/1132]; [Pub. L. 113–260, § 2(b)][/us/pl/113/260/s2/b], Dec. 18, 2014, [128 Stat. 2930][/us/stat/128/2930].)
+    (j) __Interim final rule; date of issuance; procedure for final rule__ 
+
+        (1) With respect to a drug referred to in subsection (f), if the Secretary of Health and Human Services recommends that the Attorney General control the drug in schedule II, III, IV, or V pursuant to subsections (a) and (b), the Attorney General shall, not later than 90 days after the date described in paragraph (2), issue an interim final rule controlling the drug in accordance with such subsections and [section 812(b) of this title][/us/usc/t21/s812/b] using the procedures described in paragraph (3).
+
+        (2)
+
+         The date described in this paragraph shall be the later of—
+
+            (A) the date on which the Attorney General receives the scientific and medical evaluation and the scheduling recommendation from the Secretary of Health and Human Services in accordance with subsection (b); or
+
+            (B) the date on which the Attorney General receives notification from the Secretary of Health and Human Services that the Secretary has approved an application under section 505(c), 512, or 571 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(c)][/us/usc/t21/s355/c], 360b, 360ccc\] or [section 262(a) of title 42][/us/usc/t42/s262/a], or indexed a drug under section 572 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360ccc–1][/us/usc/t21/s360ccc–1]\], with respect to the drug described in paragraph (1).
+
+        (3) A rule issued by the Attorney General under paragraph (1) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor. The interim final rule shall give interested persons the opportunity to comment and to request a hearing. After the conclusion of such proceedings, the Attorney General shall issue a final rule in accordance with the scheduling criteria of subsections (b), (c), and (d) of this section and [section 812(b) of this title][/us/usc/t21/s812/b].
+
+([Pub. L. 91–513, title II, § 201][/us/pl/91/513/s201], Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I, § 102(a)][/us/pl/95/633/s102/a], Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358, § 2(b)][/us/pl/108/358/s2/b], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI, § 1153][/us/pl/112/144/s1153], July 9, 2012, [126 Stat. 1132][/us/stat/126/1132]; [Pub. L. 113–260, § 2(b)][/us/pl/113/260/s2/b], Dec. 18, 2014, [128 Stat. 2930][/us/stat/128/2930]; [Pub. L. 114–89, § 2(b)][/us/pl/114/89/s2/b], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
 
  __References in Text__ 
 
@@ -175,13 +189,15 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
 
-    Schedules I, IV, and V, referred to in subsecs. (d)(4)(A), (B), and (h)(1), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
+    Schedules I, II, III, IV, and V, referred to in subsecs. (d)(4)(A), (B), (h)(1), and (j)(1), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
 
     The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is [Pub. L. 95–633][/us/pl/95/633], Nov. 10, 1978, [92 Stat. 3768][/us/stat/92/3768], which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and [section 242a of Title 42][/us/usc/t42/s242a], The Public Health and Welfare, repealed [section 830 of this title][/us/usc/t21/s830] effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
     This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (j). [Pub. L. 114–89][/us/pl/114/89] added subsec. (j).
 
     2014—Subsec. (i). [Pub. L. 113–260][/us/pl/113/260] added subsec. (i).
 
@@ -228,6 +244,11 @@
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s802/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F41
 [/us/usc/t21/s802/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F41
+[/us/usc/t21/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fb
+[/us/usc/t21/s355/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fc
+[/us/usc/t42/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa
+[/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
+[/us/usc/t21/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fb
 [/us/pl/91/513/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs201
 [/us/stat/84/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1245
 [/us/pl/95/633/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fa
@@ -242,6 +263,8 @@
 [/us/stat/126/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1132
 [/us/pl/113/260/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fb
 [/us/stat/128/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2930
+[/us/pl/114/89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fb
+[/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
@@ -257,6 +280,7 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/108/358/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb%2F1
