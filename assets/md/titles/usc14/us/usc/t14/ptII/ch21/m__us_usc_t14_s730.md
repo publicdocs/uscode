@@ -1,0 +1,44 @@
+---
+---
+
+# 14 U.S.C., USLM ref /us/usc/t14/s730
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s729.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs730)
+
+## § 730. Selection boards; appointment
+
+    (a) A selection board shall (1) be appointed and convened by the Secretary; (2) consist of at least 50 per centum Reserve officer membership, except in the case of a flag officer selection board where, to the extent practicable, it shall consist of at least 50 per centum Reserve officer membership; (3) consist only of members, Reserve or Regular, senior in grade to any officer being considered by that board; and (4) be composed of not less than five members, which number constitutes a quorum.
+
+    (b) A selection board serves for the length of time prescribed by the Secretary, but no board may serve longer than one year. No officer may serve on two consecutive selection boards for the same grade when the second of those boards considers an officer who was considered, but not recommended for promotion, by the first selection board.
+
+    (c) Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness required of officers and the efficiency of the Coast Guard, perform the duties imposed upon him. Not less than a majority of the total membership of a selection board shall concur in each recommendation made by the board.
+
+    (d) An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer’s record in the armed forces that, in the opinion of the officer concerned, is important to the board’s consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may not criticize or reflect upon the character, conduct, or motive of any officer.
+
+(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1011][/us/stat/94/1011].)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in [section 775 of this title][/us/usc/t14/s775] prior to the complete revision of this chapter by [Pub. L. 96–322][/us/pl/96/322].
+
+----------
+
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s729.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s731.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs730)
+
+----------
+----------
+
+[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/stat/94/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1011
+[/us/usc/t14/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs775
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
+
+

@@ -1,0 +1,33 @@
+---
+---
+
+# 14 U.S.C., USLM ref /us/usc/t14/s372
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s371.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s373.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs372)
+
+## § 372. Aviation cadets; benefits
+
+    Except as provided in [section 402(c) of title 37][/us/usc/t37/s402/c], aviation cadets or their beneficiaries are entitled to the same allowances, pensions, gratuities, and other benefits as are provided for enlisted members in pay grade E–4. While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
+
+(Added [Pub. L. 89–444, § 1(20)][/us/pl/89/444/s1/20], June 9, 1966, [80 Stat. 197][/us/stat/80/197].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s371.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s373.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs372)
+
+----------
+----------
+
+[/us/usc/t37/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs402%2Fc
+[/us/pl/89/444/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F20
+[/us/stat/80/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F197
+
+
