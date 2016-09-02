@@ -69,7 +69,7 @@
 
     (j) The Administrator of General Services may provide transportation audit and related technical assistance services, on a reimbursable basis, to any other agency. Such reimbursements may be credited to the appropriate revolving fund or appropriation from which the expenses were incurred.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 976][/us/stat/96/976]; [Pub. L. 98–443, § 9(f)][/us/pl/98/443/s9/f], Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 99–627, § 1][/us/pl/99/627/s1], Nov. 7, 1986, [100 Stat. 3508][/us/stat/100/3508]; [Pub. L. 103–123, title VI, § 620A][/us/pl/103/123/s620A], Oct. 28, 1993, [107 Stat. 1265][/us/stat/107/1265]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(f)(1)(N), 5(i)(2), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], 1375; [Pub. L. 103–429, § 7(a)(3)(B)][/us/pl/103/429/s7/a/3/B], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–88, title III, § 306][/us/pl/104/88/s306], Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945]; [Pub. L. 104–316, title II, § 202][/us/pl/104/316/s202](o), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844]; [Pub. L. 105–264, § 3(a)(3)][/us/pl/105/264/s3/a/3], Oct. 19, 1998, [112 Stat. 2353][/us/stat/112/2353].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 976][/us/stat/96/976]; [Pub. L. 98–443][/us/pl/98/443], § 9(f), Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 99–627][/us/pl/99/627], § 1, Nov. 7, 1986, [100 Stat. 3508][/us/stat/100/3508]; [Pub. L. 103–123, title VI][/us/pl/103/123/tVI], § 620A, Oct. 28, 1993, [107 Stat. 1265][/us/stat/107/1265]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(f)(1)(N), 5(i)(2), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], 1375; [Pub. L. 103–429][/us/pl/103/429], § 7(a)(3)(B), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 306, Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(o), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844]; [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3), Oct. 19, 1998, [112 Stat. 2353][/us/stat/112/2353].)
 
 <table>
 
@@ -189,7 +189,7 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–264, § 3(a)(3)(A)][/us/pl/105/264/s3/a/3/A], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
+    1998—Subsec. (a). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
 
     “(1) accrual of the claim;
 
@@ -199,31 +199,31 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 
     “(4) a deduction under subsection (b) of this section is made.”
 
-    Subsecs. (b) to (e). [Pub. L. 105–264, § 3(a)(3)(B)][/us/pl/105/264/s3/a/3/B], (C), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively. Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+    Subsecs. (b) to (e). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(B), (C), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively. Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-    Subsec. (f). [Pub. L. 105–264, § 3(a)(3)(B)][/us/pl/105/264/s3/a/3/B], (D), redesignated subsec. (d) as (f), substituted “subsection (e)” for “subsection (c)”, and inserted at end “This reporting requirement expires December 31, 1998.” Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(B), (D), redesignated subsec. (d) as (f), substituted “subsection (e)” for “subsection (c)”, and inserted at end “This reporting requirement expires December 31, 1998.” Former subsec. (f) redesignated (h).
 
-    Subsecs. (g), (h). [Pub. L. 105–264, § 3(a)(3)(B)][/us/pl/105/264/s3/a/3/B], redesignated subsecs. (e) and (f) as (g) and (h), respectively. Former subsec. (g) redesignated (i).
+    Subsecs. (g), (h). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(B), redesignated subsecs. (e) and (f) as (g) and (h), respectively. Former subsec. (g) redesignated (i).
 
-    Subsec. (i). [Pub. L. 105–264, § 3(a)(3)(B)][/us/pl/105/264/s3/a/3/B], redesignated subsec. (g) as (i).
+    Subsec. (i). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(B), redesignated subsec. (g) as (i).
 
-    Subsec. (i)(1). [Pub. L. 105–264, § 3(a)(3)(E)][/us/pl/105/264/s3/a/3/E], substituted “subsection (c)” for “subsection (a)”.
+    Subsec. (i)(1). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(E), substituted “subsection (c)” for “subsection (a)”.
 
-    Subsec. (j). [Pub. L. 105–264, § 3(a)(3)(F)][/us/pl/105/264/s3/a/3/F], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(3)(F), added subsec. (j).
 
-    1996—Subsec. (f). [Pub. L. 104–316, § 202][/us/pl/104/316/s202](o)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
+    1996—Subsec. (f). [Pub. L. 104–316][/us/pl/104/316], § 202(o)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
 
-    Subsec. (g)(1). [Pub. L. 104–316, § 202][/us/pl/104/316/s202](o)(2), substituted “Administrator of General Services” for “Comptroller General”.
+    Subsec. (g)(1). [Pub. L. 104–316][/us/pl/104/316], § 202(o)(2), substituted “Administrator of General Services” for “Comptroller General”.
 
-    1995—Subsec. (b)(1). [Pub. L. 104–88, § 306(1)][/us/pl/104/88/s306/1], (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
+    1995—Subsec. (b)(1). [Pub. L. 104–88][/us/pl/104/88], § 306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
 
-    Subsec. (b)(2). [Pub. L. 104–88, § 306(4)][/us/pl/104/88/s306/4], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 104–88][/us/pl/104/88], § 306(4), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 104–88, § 306(3)][/us/pl/104/88/s306/3], (5), redesignated par. (2) as (3) and substituted “sections 10721, 13712, and 15504” for “sections 10721–10724”.
+    Subsec. (b)(3). [Pub. L. 104–88][/us/pl/104/88], § 306(3), (5), redesignated par. (2) as (3) and substituted “sections 10721, 13712, and 15504” for “sections 10721–10724”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–272, § 5(i)(2)][/us/pl/103/272/s5/i/2], substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “the Federal Aviation Act of 1958”.
+    1994—Subsec. (b)(1). [Pub. L. 103–272][/us/pl/103/272], § 5(i)(2), substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “the Federal Aviation Act of 1958”.
 
-    Subsec. (d). [Pub. L. 103–272, § 4(f)(1)(N)][/us/pl/103/272/s4/f/1/N], which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by [Pub. L. 103–429][/us/pl/103/429].
+    Subsec. (d). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(N), which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by [Pub. L. 103–429][/us/pl/103/429].
 
     1993—Subsecs. (c) and (d). [Pub. L. 103–123][/us/pl/103/123] amended subsecs. (c) and (d) generally. Prior to amendment, subsecs. (c) and (d) read as follows:
 
@@ -231,9 +231,9 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 
     “(d) At least annually, and as determined by the Administrator, after making adequate provision for expenses of refunds to carriers, transportation audit contracts, and contract administration authorized in subsection (c), the balance of the overpayments collected by the General Services Administration shall be transferred to miscellaneous receipt of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress.”
 
-    1986—Subsec. (a). [Pub. L. 99–627, § 1(1)][/us/pl/99/627/s1/1], amended first sentence generally, substituting “may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe” for “shall be paid before the Administrator of General Services conducts an audit”.
+    1986—Subsec. (a). [Pub. L. 99–627][/us/pl/99/627], § 1(1), amended first sentence generally, substituting “may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe” for “shall be paid before the Administrator of General Services conducts an audit”.
 
-    Subsecs. (c) to (g). [Pub. L. 99–627, § 1(2)][/us/pl/99/627/s1/2], (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
+    Subsecs. (c) to (g). [Pub. L. 99–627][/us/pl/99/627], § 1(2), (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
 
     1984—Subsec. (b)(1). [Pub. L. 98–443][/us/pl/98/443] substituted “Secretary of Transportation with respect to foreign air transportation (as defined in the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
 
@@ -247,7 +247,7 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–429, § 7(a)][/us/pl/103/429/s7/a], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided that the amendment made by that section is effective July 5, 1994.
+    [Pub. L. 103–429][/us/pl/103/429], § 7(a), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided that the amendment made by that section is effective July 5, 1994.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -255,7 +255,7 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 
  __Task Force__ 
 
-[Pub. L. 99–627, § 2][/us/pl/99/627/s2], Nov. 7, 1986, [100 Stat. 3508][/us/stat/100/3508], provided that:
+[Pub. L. 99–627][/us/pl/99/627], § 2, Nov. 7, 1986, [100 Stat. 3508][/us/stat/100/3508], provided that:
 
 >     “(a) Within 60 days after the date of enactment of this Act \[Nov. 7, 1986\], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of an integrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
 
@@ -288,41 +288,41 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F976
-[/us/pl/98/443/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Ff
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1707
-[/us/pl/99/627/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627%2Fs1
+[/us/pl/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627
 [/us/stat/100/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3508
-[/us/pl/103/123/s620A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs620A
+[/us/pl/103/123/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVI
 [/us/stat/107/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1265
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/103/429/s7/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F3%2FB
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
-[/us/pl/104/88/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs306
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F945
-[/us/pl/104/316/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3844
-[/us/pl/105/264/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2353
-[/us/pl/105/264/s3/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FA
-[/us/pl/105/264/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FB
-[/us/pl/105/264/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FB
-[/us/pl/105/264/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FB
-[/us/pl/105/264/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FB
-[/us/pl/105/264/s3/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FE
-[/us/pl/105/264/s3/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F3%2FF
-[/us/pl/104/316/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202
-[/us/pl/104/316/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202
-[/us/pl/104/88/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs306%2F1
-[/us/pl/104/88/s306/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs306%2F4
-[/us/pl/104/88/s306/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs306%2F3
-[/us/pl/103/272/s5/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fi%2F2
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s4/f/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FN
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
-[/us/pl/99/627/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627%2Fs1%2F1
-[/us/pl/99/627/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627%2Fs1%2F2
+[/us/pl/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627
+[/us/pl/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/pl/105/264/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fb
@@ -330,12 +330,12 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/103/429/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fv
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/99/627/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627%2Fs2
+[/us/pl/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F627
 [/us/stat/100/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3508
 
 

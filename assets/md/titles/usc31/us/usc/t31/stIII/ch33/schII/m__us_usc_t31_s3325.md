@@ -45,7 +45,7 @@
 
     (d) The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 951][/us/stat/96/951]; [Pub. L. 104–106, div. A, title IX, § 913(b)][/us/pl/104/106/s913/b], Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411]; [Pub. L. 104–134, title III, § 31001(g)(1)(B)][/us/pl/104/134/s31001/g/1/B], (y), Apr. 26, 1996, [110 Stat. 1321–363][/us/stat/110/1321-363], 1321–378; [Pub. L. 104–201, div. A, title X, § 1009(b)][/us/pl/104/201/s1009/b], Sept. 23, 1996, [110 Stat. 2634][/us/stat/110/2634]; [Pub. L. 109–241, title IX, § 902(b)(2)][/us/pl/109/241/s902/b/2], July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 951][/us/stat/96/951]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(b), Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(g)(1)(B), (y), Apr. 26, 1996, [110 Stat. 1321–363][/us/stat/110/1321-363], 1321–378; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1009(b), Sept. 23, 1996, [110 Stat. 2634][/us/stat/110/2634]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(b)(2), July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
 
 <table>
 
@@ -147,13 +147,13 @@ In subsection (b), the words “under the jurisdiction” are omitted as surplus
 
     2006—Subsec. (b). [Pub. L. 109–241][/us/pl/109/241] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–134, § 31001(g)(1)(B)][/us/pl/104/134/s31001/g/1/B], inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
+    1996—Subsec. (a)(3). [Pub. L. 104–134][/us/pl/104/134], § 31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
 
     Subsec. (b). [Pub. L. 104–201][/us/pl/104/201] substituted “members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” for “members of the armed forces under the jurisdiction of the Secretary of Defense may certify vouchers when authorized, in writing, by the Secretary to do so”.
 
     [Pub. L. 104–106][/us/pl/104/106] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Subsection (a) of this section does not apply to disbursements of a military department of the Department of Defense, except for disbursements for departmental pay and expenses in the District of Columbia.”
 
-    Subsec. (d). [Pub. L. 104–134, § 31001(y)][/us/pl/104/134/s31001/y], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–134][/us/pl/104/134], § 31001(y), added subsec. (d).
 
 ----------
 
@@ -164,22 +164,22 @@ In subsection (b), the words “under the jurisdiction” are omitted as surplus
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F951
-[/us/pl/104/106/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fb
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F411
-[/us/pl/104/134/s31001/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fg%2F1%2FB
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-363
-[/us/pl/104/201/s1009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fb
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2634
-[/us/pl/109/241/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fb%2F2
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/usc/t31/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs82
 [/us/act/1950-09-26/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fs2%2Fa%2F1
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/104/134/s31001/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fg%2F1%2FB
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/134/s31001/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fy
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 
 

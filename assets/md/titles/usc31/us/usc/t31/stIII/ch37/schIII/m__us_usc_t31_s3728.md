@@ -31,7 +31,7 @@
 
     (c) If the Government loses a civil action to recover a debt or recovers less than the amount the Secretary withholds under this section, the Secretary shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 977][/us/stat/96/977]; [Pub. L. 104–316, title II, § 202(p)][/us/pl/104/316/s202/p], Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 977][/us/stat/96/977]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(p), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
 
 <table>
 
@@ -119,9 +119,9 @@ Mar. 3, 1875, ch. 149, 18 Stat. 481; restated Mar. 3, 1933, ch. 212, § 13, 47
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–316, § 202(p)(1)][/us/pl/104/316/s202/p/1], (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
+    1996—Subsec. (a). [Pub. L. 104–316][/us/pl/104/316], § 202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
 
-    Subsecs. (b), (c). [Pub. L. 104–316, § 202(p)(2)][/us/pl/104/316/s202/p/2], substituted “Secretary” for “Comptroller General” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 104–316][/us/pl/104/316], § 202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
 
 ----------
 
@@ -132,9 +132,9 @@ Mar. 3, 1875, ch. 149, 18 Stat. 481; restated Mar. 3, 1933, ch. 212, § 13, 47
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F977
-[/us/pl/104/316/s202/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fp
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3844
-[/us/pl/104/316/s202/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fp%2F1
-[/us/pl/104/316/s202/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fp%2F2
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 
 

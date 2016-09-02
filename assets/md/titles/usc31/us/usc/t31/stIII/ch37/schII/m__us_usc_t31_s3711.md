@@ -251,7 +251,7 @@
 
         (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 971][/us/stat/96/971]; [Pub. L. 97–452, § 1(15)][/us/pl/97/452/s1/15], Jan. 12, 1983, [96 Stat. 2470][/us/stat/96/2470]; [Pub. L. 98–216, § 1(5)][/us/pl/98/216/s1/5], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–552, § 8(b)][/us/pl/101/552/s8/b], Nov. 15, 1990, [104 Stat. 2746][/us/stat/104/2746]; [Pub. L. 102–365, § 4(a)(4)][/us/pl/102/365/s4/a/4], Sept. 3, 1992, [106 Stat. 973][/us/stat/106/973]; [Pub. L. 103–272, § 5(i)(1)][/us/pl/103/272/s5/i/1], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–106, div. A, title X, § 1089][/us/pl/104/106/s1089], Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459]; [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–363, 1321–365, 1321–366, 1321–371; [Pub. L. 104–201, div. A, title X, § 1010][/us/pl/104/201/s1010], Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 104–316, title I, § 115(g)(1)][/us/pl/104/316/s115/g/1], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 109–241, title IX, § 902(b)(4)][/us/pl/109/241/s902/b/4], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–389, title VIII, § 801(a)][/us/pl/110/389/s801/a], Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 971][/us/stat/96/971]; [Pub. L. 97–452][/us/pl/97/452], § 1(15), Jan. 12, 1983, [96 Stat. 2470][/us/stat/96/2470]; [Pub. L. 98–216][/us/pl/98/216], § 1(5), Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–552][/us/pl/101/552], § 8(b), Nov. 15, 1990, [104 Stat. 2746][/us/stat/104/2746]; [Pub. L. 102–365][/us/pl/102/365], § 4(a)(4), Sept. 3, 1992, [106 Stat. 973][/us/stat/106/973]; [Pub. L. 103–272][/us/pl/103/272], § 5(i)(1), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1089, Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–363, 1321–365, 1321–366, 1321–371; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1010, Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(g)(1), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(b)(4), July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 801(a), Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185].)
 
 <table>
 
@@ -483,49 +483,49 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25
 
     2006—Subsec. (f)(2). [Pub. L. 109–241][/us/pl/109/241] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(2). [Pub. L. 104–316, § 115(g)(1)(A)][/us/pl/104/316/s115/g/1/A], inserted “, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official” before “; and” at end.
+    Subsec. (a)(2). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(A), inserted “, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official” before “; and” at end.
 
-    Subsec. (b). [Pub. L. 104–316, § 115(g)(1)(B)][/us/pl/104/316/s115/g/1/B], (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Comptroller General has the same authority that the head of the agency has under subsection (a) of this section when the claim is referred to the Comptroller General for further collection action. Only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official.”
+    Subsec. (b). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Comptroller General has the same authority that the head of the agency has under subsection (a) of this section when the claim is referred to the Comptroller General for further collection action. Only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official.”
 
-    Subsec. (c). [Pub. L. 104–316, § 115(g)(1)(C)][/us/pl/104/316/s115/g/1/C], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(C), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(1). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    Subsec. (c)(1). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 104–316, § 115(g)(1)(C)][/us/pl/104/316/s115/g/1/C], (D), redesignated subsec. (e) as (d) and in par. (2) struck out “and the Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(C), (D), redesignated subsec. (e) as (d) and in par. (2) struck out “and the Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 104–316, § 115(g)(1)(C)][/us/pl/104/316/s115/g/1/C], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsec. (e)(2). [Pub. L. 104–134, § 31001(g)(1)(C)][/us/pl/104/134/s31001/g/1/C], inserted “, the Secretary of the Treasury,” after “Attorney General”.
+    Subsec. (e)(2). [Pub. L. 104–134][/us/pl/104/134], § 31001(g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General”.
 
-    Subsec. (f). [Pub. L. 104–316, § 115(g)(1)(C)][/us/pl/104/316/s115/g/1/C], redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(1). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (k)(1), (2), in introductory provisions substituted “the head of an executive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
+    Subsec. (f)(1). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), (k)(1), (2), in introductory provisions substituted “the head of an executive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
 
-    Subsec. (f)(1)(C), (D), (F). [Pub. L. 104–134, § 31001(k)(3)][/us/pl/104/134/s31001/k/3], substituted “the person” for “the individual” wherever appearing.
+    Subsec. (f)(1)(C), (D), (F). [Pub. L. 104–134][/us/pl/104/134], § 31001(k)(3), substituted “the person” for “the individual” wherever appearing.
 
-    Subsec. (f)(2). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (k)(2), (3), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”, “a person” for “an individual”, and “the person” for “the individual”.
+    Subsec. (f)(2). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), (k)(2), (3), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”, “a person” for “an individual”, and “the person” for “the individual”.
 
-    Subsec. (f)(3). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (k)(2), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” and “a person” for “an individual”.
+    Subsec. (f)(3). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), (k)(2), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” and “a person” for “an individual”.
 
-    Subsec. (f)(4), (5). [Pub. L. 104–134, § 31001(k)(4)][/us/pl/104/134/s31001/k/4], added pars. (4) and (5).
+    Subsec. (f)(4), (5). [Pub. L. 104–134][/us/pl/104/134], § 31001(k)(4), added pars. (4) and (5).
 
-    Subsec. (g). [Pub. L. 104–316, § 115(g)(1)(C)][/us/pl/104/316/s115/g/1/C], redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f).
+    Subsec. (g). [Pub. L. 104–316][/us/pl/104/316], § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f).
 
-    [Pub. L. 104–134, § 31001(m)(1)][/us/pl/104/134/s31001/m/1], added subsec. (g) relating to transfer of debt or claim to Secretary of the Treasury in case of delinquency.
+    [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(1), added subsec. (g) relating to transfer of debt or claim to Secretary of the Treasury in case of delinquency.
 
     [Pub. L. 104–106][/us/pl/104/106] added subsec. (g) relating to authority to suspend or terminate collection actions against deceased members.
 
-    Subsec. (g)(1). [Pub. L. 104–201, § 1010(1)][/us/pl/104/201/s1010/1], substituted “Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy” for “or Marine Corps”.
+    Subsec. (g)(1). [Pub. L. 104–201][/us/pl/104/201], § 1010(1), substituted “Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy” for “or Marine Corps”.
 
-    Subsec. (g)(2), (3). [Pub. L. 104–201, § 1010(2)][/us/pl/104/201/s1010/2], (3), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (g)(2), (3). [Pub. L. 104–201][/us/pl/104/201], § 1010(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (h). [Pub. L. 104–134, § 31001(m)(1)][/us/pl/104/134/s31001/m/1], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(1), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 104–134, § 31001(p)][/us/pl/104/134/s31001/p], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–134][/us/pl/104/134], § 31001(p), added subsec. (i).
 
     1994—Subsec. (c)(2). [Pub. L. 103–272][/us/pl/103/272] substituted “[section 21302 of title 49][/us/usc/t49/s21302] for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters” for “[section 6 of the Act of March 2, 1893][/us/act/1893-03-02/s6] ([45 U.S.C. 6][/us/usc/t45/s6]), [section 4 of the Act of April 14, 1910][/us/act/1910-04-14/s4] ([45 U.S.C. 13][/us/usc/t45/s13]), [section 9 of the Act of February 17, 1911][/us/act/1911-02-17/s9] ([45 U.S.C. 34][/us/usc/t45/s34]), and section 25(h) of the Interstate Commerce Act (49 App. U.S.C. 26(h))”.
 
@@ -541,25 +541,25 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25
 
  __Savings Provision__ 
 
-[Pub. L. 104–134, title III, § 31001(n)][/us/pl/104/134/s31001/n], Apr. 26, 1996, [110 Stat. 1321–369][/us/stat/110/1321-369], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(n), Apr. 26, 1996, [110 Stat. 1321–369][/us/stat/110/1321-369], provided that: 
 
 > “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act ([Public Law 101–552][/us/pl/101/552], \[former\] [5 U.S.C. 571][/us/usc/t5/s571] note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\].”
 
  __Guidelines__ 
 
-[Pub. L. 104–134, title III, § 31001(aa)(1)][/us/pl/104/134/s31001/aa/1], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(aa)(1), Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
 
 > “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
 
  __Report__ 
 
-[Pub. L. 104–134, title III, § 31001(aa)(2)][/us/pl/104/134/s31001/aa/2], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(aa)(2), Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
 
 > “Not later than 3 years after the date of enactment of this Act \[Apr. 26, 1996\], the Secretary of the Treasury shall report to the Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in [section 3711(g) of title 31][/us/usc/t31/s3711/g], United States Code, as added by subsection (m) of this section.”
 
  __Standards and Policies for Compromising, Writing-Down, Forgiving, or Discharging Indebtedness__ 
 
-[Pub. L. 104–134, title III, § 31001(bb)][/us/pl/104/134/s31001/bb], Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(bb), Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380], provided that: 
 
 > “The Director of the Office of Management and Budget shall—
 
@@ -579,7 +579,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25
 
  __Existing Agency Authority To Litigate, Settle, Compromise, or Close Claims__ 
 
-[Pub. L. 89–508, § 4][/us/pl/89/508/s4], July 19, 1966, [80 Stat. 309][/us/stat/80/309], provided that: 
+[Pub. L. 89–508][/us/pl/89/508], § 4, July 19, 1966, [80 Stat. 309][/us/stat/80/309], provided that: 
 
 > “Nothing in this Act \[now this section\] shall increase or diminish the existing authority of the head of an agency to litigate claims, or diminish his existing authority to settle, compromise, or close claims.”
 
@@ -602,56 +602,56 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F971
-[/us/pl/97/452/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F15
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2470
-[/us/pl/98/216/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F5
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F4
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/552/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs8%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2746
-[/us/pl/102/365/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365%2Fs4%2Fa%2F4
+[/us/pl/102/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365
 [/us/stat/106/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F973
-[/us/pl/103/272/s5/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fi%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/104/106/s1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1089
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F459
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-359
-[/us/pl/104/201/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1010
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2635
-[/us/pl/104/316/s115/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
-[/us/pl/109/241/s902/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fb%2F4
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
-[/us/pl/110/389/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs801%2Fa
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4185
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
 [/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/316/s115/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FA
-[/us/pl/104/316/s115/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FB
-[/us/pl/104/316/s115/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FC
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/316/s115/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FC
-[/us/pl/104/316/s115/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FC
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fg%2F1%2FC
-[/us/pl/104/316/s115/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FC
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fk%2F3
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fk%2F4
-[/us/pl/104/316/s115/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F1%2FC
-[/us/pl/104/134/s31001/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F1
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/201/s1010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1010%2F1
-[/us/pl/104/201/s1010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1010%2F2
-[/us/pl/104/134/s31001/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F1
-[/us/pl/104/134/s31001/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fp
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s21302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs21302
 [/us/act/1893-03-02/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-02%2Fs6
@@ -666,18 +666,18 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/usc/t49/s26/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs26%2Fh
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/104/134/s31001/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fn
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-369
 [/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/usc/t5/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs571
-[/us/pl/104/134/s31001/aa/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-379
-[/us/pl/104/134/s31001/aa/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-379
 [/us/usc/t31/s3711/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711%2Fg
-[/us/pl/104/134/s31001/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fbb
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-380
-[/us/pl/89/508/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F508%2Fs4
+[/us/pl/89/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F508
 [/us/stat/80/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F309
 
 

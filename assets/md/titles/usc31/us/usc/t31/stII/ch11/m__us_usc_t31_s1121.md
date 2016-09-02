@@ -43,7 +43,7 @@
 
         (5) for agency priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agency program activities, regulations, policies, or other activities.
 
-(Added [Pub. L. 111–352, § 6][/us/pl/111/352/s6], Jan. 4, 2011, [124 Stat. 3875][/us/stat/124/3875].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 6, Jan. 4, 2011, [124 Stat. 3875][/us/stat/124/3875].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t31/s1120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fa
 [/us/usc/t31/s1120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fb
-[/us/pl/111/352/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs6
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3875
 
 

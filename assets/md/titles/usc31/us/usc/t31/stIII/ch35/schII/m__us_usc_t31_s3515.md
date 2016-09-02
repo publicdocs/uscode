@@ -51,21 +51,21 @@
 
         (2) does not include a corporation, agency, or instrumentality subject to chapter 91 of this title.
 
-(Added [Pub. L. 101–576, title III, § 303(a)(1)][/us/pl/101/576/s303/a/1], Nov. 15, 1990, [104 Stat. 2849][/us/stat/104/2849]; amended [Pub. L. 103–356, title IV, § 405(a)][/us/pl/103/356/s405/a], Oct. 13, 1994, [108 Stat. 3415][/us/stat/108/3415]; [Pub. L. 106–531, § 4(a)][/us/pl/106/531/s4/a], Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 107–289, § 2(a)][/us/pl/107/289/s2/a], Nov. 7, 2002, [116 Stat. 2049][/us/stat/116/2049].)
+(Added [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 303(a)(1), Nov. 15, 1990, [104 Stat. 2849][/us/stat/104/2849]; amended [Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 405(a), Oct. 13, 1994, [108 Stat. 3415][/us/stat/108/3415]; [Pub. L. 106–531][/us/pl/106/531], § 4(a), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 107–289][/us/pl/107/289], § 2(a), Nov. 7, 2002, [116 Stat. 2049][/us/stat/116/2049].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–289, § 2(a)(1)][/us/pl/107/289/s2/a/1], substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in [section 901(b) of this title][/us/usc/t31/s901/b]”.
+    2002—Subsec. (a). [Pub. L. 107–289][/us/pl/107/289], § 2(a)(1), substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in [section 901(b) of this title][/us/usc/t31/s901/b]”.
 
-    Subsec. (b). [Pub. L. 107–289, § 2(a)(2)][/us/pl/107/289/s2/a/2], substituted “a covered executive agency” for “an executive agency” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–289][/us/pl/107/289], § 2(a)(2), substituted “a covered executive agency” for “an executive agency” in introductory provisions.
 
-    Subsecs. (c), (d). [Pub. L. 107–289, § 2(a)(3)][/us/pl/107/289/s2/a/3], substituted “covered executive agencies” for “executive agencies”.
+    Subsecs. (c), (d). [Pub. L. 107–289][/us/pl/107/289], § 2(a)(3), substituted “covered executive agencies” for “executive agencies”.
 
-    Subsecs. (e), (f). [Pub. L. 107–289, § 2(a)(4)][/us/pl/107/289/s2/a/4], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 107–289][/us/pl/107/289], § 2(a)(4), added subsecs. (e) and (f).
 
-    2000—Subsec. (a). [Pub. L. 106–531, § 4(a)(1)][/us/pl/106/531/s4/a/1], inserted “Congress and the” before “Director”.
+    2000—Subsec. (a). [Pub. L. 106–531][/us/pl/106/531], § 4(a)(1), inserted “Congress and the” before “Director”.
 
-    Subsecs. (e) to (h). [Pub. L. 106–531, § 4(a)(2)][/us/pl/106/531/s4/a/2], struck out subsecs. (e) to (h) which read as follows:
+    Subsecs. (e) to (h). [Pub. L. 106–531][/us/pl/106/531], § 4(a)(2), struck out subsecs. (e) to (h) which read as follows:
 
     “(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
 
@@ -89,11 +89,11 @@
 
  __Effective Date; Waiver of Requirement; Resolution Approving Designation of Agencies__ 
 
-    [Pub. L. 101–576, title III, § 303(a)(2)][/us/pl/101/576/s303/a/2], (3), (b), Nov. 15, 1990, [104 Stat. 2849][/us/stat/104/2849], 2850, provided that [section 3515(e) of this title][/us/usc/t31/s3515/e], as added by [section 303(a)(1) of Pub. L. 101–576][/us/pl/101/576/s303/a/1], would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of [section 3515(a) of this title][/us/usc/t31/s3515/a] with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
+    [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 303(a)(2), (3), (b), Nov. 15, 1990, [104 Stat. 2849][/us/stat/104/2849], 2850, provided that [section 3515(e) of this title][/us/usc/t31/s3515/e], as added by [section 303(a)(1) of Pub. L. 101–576][/us/pl/101/576/s303/a/1], would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of [section 3515(a) of this title][/us/usc/t31/s3515/a] with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
 
  __Waiver Authority__ 
 
-[Pub. L. 107–289, § 2(b)][/us/pl/107/289/s2/b], Nov. 7, 2002, [116 Stat. 2050][/us/stat/116/2050], provided that:
+[Pub. L. 107–289][/us/pl/107/289], § 2(b), Nov. 7, 2002, [116 Stat. 2050][/us/stat/116/2050], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -105,11 +105,11 @@
 
  __Report on Substantial Commercial Functions__ 
 
-    [Pub. L. 101–576, title III, § 303(c)][/us/pl/101/576/s303/c], Nov. 15, 1990, [104 Stat. 2851][/us/stat/104/2851], directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under [31 U.S.C. 3515][/us/usc/t31/s3515].
+    [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 303(c), Nov. 15, 1990, [104 Stat. 2851][/us/stat/104/2851], directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under [31 U.S.C. 3515][/us/usc/t31/s3515].
 
  __Pilot Project for Preparation and Audit of Financial Statements; Report to Congress__ 
 
-    [Pub. L. 101–576, title III, § 303(d)][/us/pl/101/576/s303/d], (e), Nov. 15, 1990, [104 Stat. 2851][/us/stat/104/2851], 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
+    [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 303(d), (e), Nov. 15, 1990, [104 Stat. 2851][/us/stat/104/2851], 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
 
 ----------
 
@@ -118,38 +118,38 @@
 ----------
 ----------
 
-[/us/pl/101/576/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs303%2Fa%2F1
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2849
-[/us/pl/103/356/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs405%2Fa
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3415
-[/us/pl/106/531/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs4%2Fa
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2539
-[/us/pl/107/289/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fa
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
 [/us/stat/116/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2049
-[/us/pl/107/289/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fa%2F1
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
-[/us/pl/107/289/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fa%2F2
-[/us/pl/107/289/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fa%2F3
-[/us/pl/107/289/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fa%2F4
-[/us/pl/106/531/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs4%2Fa%2F1
-[/us/pl/106/531/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs4%2Fa%2F2
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 [/us/pl/103/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356
-[/us/pl/101/576/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs303%2Fa%2F2
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2849
 [/us/usc/t31/s3515/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Fe
 [/us/pl/101/576/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs303%2Fa%2F1
 [/us/usc/t31/s3515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Fa
-[/us/pl/107/289/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs2%2Fb
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
 [/us/stat/116/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2050
 [/us/usc/t31/s3515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Fa
 [/us/usc/t31/s3515/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Ff
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
-[/us/pl/101/576/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs303%2Fc
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2851
 [/us/usc/t31/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515
-[/us/pl/101/576/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs303%2Fd
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2851
 
 

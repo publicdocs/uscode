@@ -75,85 +75,85 @@ R.S. § 3563.  </td>
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–118, § 1][/us/pl/113/118/s1], June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], provided that: 
+[Pub. L. 113–118][/us/pl/113/118], § 1, June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], provided that: 
 
 > “This Act \[amending provisions listed in a table of Commemorative Medals set out under [section 5111 of this title][/us/usc/t31/s5111]\] may be cited as the ‘Gold Medal Technical Corrections Act of 2014’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–303, § 1][/us/pl/111/303/s1], Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275], provided that: 
+[Pub. L. 111–303][/us/pl/111/303], § 1, Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘American Eagle Palladium Bullion Coin Act of 2010’.”
 
-[Pub. L. 111–302, § 1][/us/pl/111/302/s1], Dec. 14, 2010, [124 Stat. 3272][/us/stat/124/3272], provided that: 
+[Pub. L. 111–302][/us/pl/111/302], § 1, Dec. 14, 2010, [124 Stat. 3272][/us/stat/124/3272], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as notes under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘Coin Modernization, Oversight, and Continuity Act of 2010’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–456, § 1][/us/pl/110/456/s1], Dec. 23, 2008, [122 Stat. 5038][/us/stat/122/5038], provided that: 
+[Pub. L. 110–456][/us/pl/110/456], § 1, Dec. 23, 2008, [122 Stat. 5038][/us/stat/122/5038], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as a note under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘America’s Beautiful National Parks Quarter Dollar Coin Act of 2008’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–82, § 1][/us/pl/110/82/s1], Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], provided that: 
+[Pub. L. 110–82][/us/pl/110/82], § 1, Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as a note under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘Native American $1 Coin Act’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–145, § 1][/us/pl/109/145/s1], Dec. 22, 2005, [119 Stat. 2664][/us/stat/119/2664], provided that: 
+[Pub. L. 109–145][/us/pl/109/145], § 1, Dec. 22, 2005, [119 Stat. 2664][/us/stat/119/2664], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as notes under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘Presidential $1 Coin Act of 2005’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–15, § 1][/us/pl/108/15/s1], Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], provided that: 
+[Pub. L. 108–15][/us/pl/108/15], § 1, Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], provided that: 
 
 > “This Act \[amending sections 5112, 5134, and 5135 of this title and enacting provisions set out as notes under sections 5112, 5134, and 5135 of this title\] may be cited as the ‘American 5-Cent Coin Design Continuity Act of 2003’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–201, § 1][/us/pl/107/201/s1], July 23, 2002, [116 Stat. 736][/us/stat/116/736], provided that: 
+[Pub. L. 107–201][/us/pl/107/201], § 1, July 23, 2002, [116 Stat. 736][/us/stat/116/736], provided that: 
 
 > “This Act \[amending [section 5116 of this title][/us/usc/t31/s5116] and enacting provisions set out as notes under sections 5112 and 5116 of this title\] may be cited as the ‘Support of American Eagle Silver Bullion Program Act’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–445, § 1][/us/pl/106/445/s1], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931], provided that: 
+[Pub. L. 106–445][/us/pl/106/445], § 1, Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931], provided that: 
 
 > “This Act \[amending sections 5112, 5132 and 5134 of this title\] may be cited as the ‘United States Mint Numismatic Coin Clarification Act of 2000’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–124, § 1][/us/pl/105/124/s1], Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], provided that: 
+[Pub. L. 105–124][/us/pl/105/124], § 1, Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], provided that: 
 
 > “This Act \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as notes under this section and [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘50 States Commemorative Coin Program Act’.”
 
-[Pub. L. 105–124, § 4(a)][/us/pl/105/124/s4/a], Dec. 1, 1997, [111 Stat. 2536][/us/stat/111/2536], provided that: 
+[Pub. L. 105–124][/us/pl/105/124], § 4(a), Dec. 1, 1997, [111 Stat. 2536][/us/stat/111/2536], provided that: 
 
 > “This section \[amending [section 5112 of this title][/us/usc/t31/s5112] and enacting provisions set out as notes under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘United States $1 Coin Act of 1997’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–329, § 1(a)][/us/pl/104/329/s1/a], Oct. 20, 1996, [110 Stat. 4005][/us/stat/110/4005], provided that: 
+[Pub. L. 104–329][/us/pl/104/329], § 1(a), Oct. 20, 1996, [110 Stat. 4005][/us/stat/110/4005], provided that: 
 
 > “This Act \[amending sections 5131 and 5135 of this title and enacting provisions set out as notes under this section, sections 5112 and 5135 of this title, and [section 431 of Title 16][/us/usc/t16/s431], Conservation\] may be cited as the ‘United States Commemorative Coin Act of 1996’.”
 
-[Pub. L. 104–329, title III, § 301][/us/pl/104/329/s301], Oct. 20, 1996, [110 Stat. 4012][/us/stat/110/4012], provided that: 
+[Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 301, Oct. 20, 1996, [110 Stat. 4012][/us/stat/110/4012], provided that: 
 
 > “This title \[amending sections 5131 and 5135 of this title and enacting provisions set out as notes under sections 5112 and 5135 of this title\] may be cited as the ‘50 States Commemorative Coin Program Act’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–390, title II, § 201][/us/pl/102/390/s201], Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], provided that: 
+[Pub. L. 102–390, title II][/us/pl/102/390/tII], § 201, Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], provided that: 
 
 > “This title \[enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under [section 5112 of this title][/us/usc/t31/s5112], and repealing provisions set out as a note under [section 5112 of this title][/us/usc/t31/s5112]\] may be cited as the ‘United States Mint Reauthorization and Reform Act of 1992’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–585, § 1][/us/pl/101/585/s1], Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874], provided that: 
+[Pub. L. 101–585][/us/pl/101/585], § 1, Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874], provided that: 
 
 > “This Act \[amending [section 5132 of this title][/us/usc/t31/s5132]\] may be cited as the ‘Silver Coin Proof Sets Act’.”
 
@@ -166,54 +166,54 @@ R.S. § 3563.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F980
-[/us/pl/113/118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118%2Fs1
+[/us/pl/113/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118
 [/us/stat/128/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1183
 [/us/usc/t31/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5111
-[/us/pl/111/303/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs1
+[/us/pl/111/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303
 [/us/stat/124/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3275
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/111/302/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs1
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
 [/us/stat/124/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3272
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/110/456/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2Fs1
+[/us/pl/110/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456
 [/us/stat/122/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5038
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/110/82/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82%2Fs1
+[/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/stat/121/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F777
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/109/145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs1
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
 [/us/stat/119/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2664
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/108/15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs1
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
 [/us/stat/117/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F615
-[/us/pl/107/201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs1
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F736
 [/us/usc/t31/s5116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5116
-[/us/pl/106/445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs1
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/stat/114/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1931
-[/us/pl/105/124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs1
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2534
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/105/124/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs4%2Fa
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2536
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/104/329/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs1%2Fa
+[/us/pl/104/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329
 [/us/stat/110/4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4005
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
-[/us/pl/104/329/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs301
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4012
-[/us/pl/102/390/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs201
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1624
 [/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/101/585/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585%2Fs1
+[/us/pl/101/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585
 [/us/stat/104/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2874
 [/us/usc/t31/s5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5132
 

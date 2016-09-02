@@ -53,7 +53,7 @@
 
     No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 
-(Added [Pub. L. 100–690, title VI, § 6185(c)][/us/pl/100/690/s6185/c], Nov. 18, 1988, [102 Stat. 4355][/us/stat/102/4355]; amended [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1514, 1562, Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], 4072; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 353(d), 365(c)(2)(B), Oct. 26, 2001, [115 Stat. 323][/us/stat/115/323], 335.)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(c), Nov. 18, 1988, [102 Stat. 4355][/us/stat/102/4355]; amended [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], §§ 1514, 1562, Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], 4072; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 353(d), 365(c)(2)(B), Oct. 26, 2001, [115 Stat. 323][/us/stat/115/323], 335.)
 
  __References in Text__ 
 
@@ -61,17 +61,17 @@
 
  __Amendments__ 
 
-    2001—Subsec.(a). [Pub. L. 107–56, § 365(c)(2)(B)][/us/pl/107/56/s365/c/2/B], inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
+    2001—Subsec.(a). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 107–56, § 365(c)(2)(B)(i)][/us/pl/107/56/s365/c/2/B/i], inserted “or nonfinancial trade or business” after “financial institution”.
+    Subsec. (a)(1)(A). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
-    Subsec. (b)(1)(A). [Pub. L. 107–56, § 365(c)(2)(B)(i)][/us/pl/107/56/s365/c/2/B/i], inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+    Subsec. (b)(1)(A). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–56, § 365(c)(2)(B)(i)][/us/pl/107/56/s365/c/2/B/i], inserted “or nonfinancial trade or business” after “financial institution”.
+    Subsec. (b)(1)(B). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
-    Subsec. (c). [Pub. L. 107–56, § 365(c)(2)(B)(i)][/us/pl/107/56/s365/c/2/B/i], inserted “or nonfinancial trade or business” after “financial institution” in two places.
+    Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
 
-    Subsec. (d). [Pub. L. 107–56, § 353(d)][/us/pl/107/56/s353/d], substituted “more than 180 days” for “more than 60 days”.
+    Subsec. (d). [Pub. L. 107–56][/us/pl/107/56], § 353(d), substituted “more than 180 days” for “more than 60 days”.
 
     1992—Subsecs. (b) to (d). [Pub. L. 102–550][/us/pl/102/550] added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
@@ -82,19 +82,19 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6185/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4355
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4058
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F323
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
-[/us/pl/107/56/s365/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB
-[/us/pl/107/56/s365/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB%2Fi
-[/us/pl/107/56/s365/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB%2Fi
-[/us/pl/107/56/s365/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB%2Fi
-[/us/pl/107/56/s365/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB%2Fi
-[/us/pl/107/56/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs353%2Fd
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

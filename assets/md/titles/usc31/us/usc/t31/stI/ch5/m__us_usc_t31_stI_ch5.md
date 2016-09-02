@@ -115,11 +115,11 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–347, title I, § 102(c)(2)][/us/pl/107/347/s102/c/2], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 507.
+    2002—[Pub. L. 107–347, title I][/us/pl/107/347/tI], § 102(c)(2), Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 507.
 
-    1990—[Pub. L. 101–576, title II, § 203(c)][/us/pl/101/576/s203/c], Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841], added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
+    1990—[Pub. L. 101–576, title II][/us/pl/101/576/tII], § 203(c), Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841], added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
 
-    1983—[Pub. L. 97–452, § 1(1)(B)][/us/pl/97/452/s1/1/B], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], added item 504.
+    1983—[Pub. L. 97–452][/us/pl/97/452], § 1(1)(B), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], added item 504.
 
 ----------
 
@@ -128,11 +128,11 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 ----------
 ----------
 
-[/us/pl/107/347/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs102%2Fc%2F2
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
-[/us/pl/101/576/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs203%2Fc
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2841
-[/us/pl/97/452/s1/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F1%2FB
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
 
 

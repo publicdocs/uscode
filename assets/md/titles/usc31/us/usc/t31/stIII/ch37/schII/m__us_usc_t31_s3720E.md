@@ -31,7 +31,7 @@
 
             (C) procedures to ensure that persons are not incorrectly identified pursuant to this section.
 
-(Added [Pub. L. 104–134, title III, § 31001(r)(1)][/us/pl/104/134/s31001/r/1], Apr. 26, 1996, [110 Stat. 1321–372][/us/stat/110/1321-372].)
+(Added [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(r)(1), Apr. 26, 1996, [110 Stat. 1321–372][/us/stat/110/1321-372].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s31001/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fr%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-372
 
 

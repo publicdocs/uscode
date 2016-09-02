@@ -21,7 +21,7 @@
 
     (c) If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, to the Inspector General of that authority.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1947][/us/stat/100/1947].)
+(Added [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(a), Oct. 21, 1986, [100 Stat. 1947][/us/stat/100/1947].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t31/s3803/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fd%2F2
 [/us/usc/t31/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3806
-[/us/pl/99/509/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1947
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

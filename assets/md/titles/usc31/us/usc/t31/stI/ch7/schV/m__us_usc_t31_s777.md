@@ -19,7 +19,7 @@
 
     (b) An annuity under [section 772 of this title][/us/usc/t31/s772] may not be more than the basic pay of the Comptroller General. A surviving spouse’s annuity may be increased under this section without regard to any limitation set forth in [section 774(e) of this title][/us/usc/t31/s774/e].
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 906][/us/stat/96/906]; [Pub. L. 100–426, title II, § 207][/us/pl/100/426/s207], Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 906][/us/stat/96/906]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 207, Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601].)
 
 <table>
 
@@ -133,7 +133,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 320; added Oct. 25, 1978, Pub. L. 95–
 [/us/usc/t31/s774/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs774%2Fe
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F906
-[/us/pl/100/426/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs207
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1601
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb

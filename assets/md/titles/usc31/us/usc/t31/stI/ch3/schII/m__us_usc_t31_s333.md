@@ -75,11 +75,11 @@
 
         No criminal proceeding may be commenced under this subsection with respect to any violation if a civil penalty has previously been assessed under subsection (c) with respect to such violation.
 
-(Added [Pub. L. 103–296, title III, § 312][/us/pl/103/296/s312](l)(1), Aug. 15, 1994, [108 Stat. 1528][/us/stat/108/1528].)
+(Added [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 312(l)(1), Aug. 15, 1994, [108 Stat. 1528][/us/stat/108/1528].)
 
  __Effective Date__ 
 
-[Pub. L. 103–296, title III, § 312(m)][/us/pl/103/296/s312/m], Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], provided that:
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 312(m), Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -91,7 +91,7 @@
 
  __Report on Implementation of Section__ 
 
-[Pub. L. 103–296, title III, § 312][/us/pl/103/296/s312](l)(3), Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], provided that: 
+[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 312(l)(3), Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], provided that: 
 
 > “Not later than May 1, 1996, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the implementation of the amendments made by this section \[enacting this section and amending [section 1320b–10 of Title 42][/us/usc/t42/s1320b–10], The Public Health and Welfare\]. Such report shall include the number of cases in which the Secretary has notified persons of violations of [section 333 of title 31][/us/usc/t31/s333], United States Code (as added by subsection (a)\[(l)(1)\]), the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.”
 
@@ -102,12 +102,12 @@
 ----------
 ----------
 
-[/us/pl/103/296/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1528
-[/us/pl/103/296/s312/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312%2Fm
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1530
 [/us/usc/t42/s1320b–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9310
-[/us/pl/103/296/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1530
 [/us/usc/t42/s1320b–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9310
 [/us/usc/t31/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs333

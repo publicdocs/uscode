@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3562.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
+[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3563...3567.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
 
 ### CHAPTER 37—CLAIMS
 
@@ -291,36 +291,36 @@ SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT  </td>
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–316, title II, § 202(n)(2)][/us/pl/104/316/s202/n/2], Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844], substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
+    1996—[Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(n)(2), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844], substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
 
-    [Pub. L. 104–134, title III, § 31001(j)(2)][/us/pl/104/134/s31001/j/2], (o)(2), (r)(2), (t)(2), Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
+    [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(j)(2), (o)(2), (r)(2), (t)(2), Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
 
-    1989—[Pub. L. 101–203, § 1(b)(2)][/us/pl/101/203/s1/b/2], Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805], substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
+    1989—[Pub. L. 101–203][/us/pl/101/203], § 1(b)(2), Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805], substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
 
-    1986—[Pub. L. 99–562, § 6(b)][/us/pl/99/562/s6/b], Oct. 27, 1986, [100 Stat. 3168][/us/stat/100/3168], added items 3732 and 3733.
+    1986—[Pub. L. 99–562][/us/pl/99/562], § 6(b), Oct. 27, 1986, [100 Stat. 3168][/us/stat/100/3168], added items 3732 and 3733.
 
-    1984—[Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2652(a)(2), 2653(a)(2), July 18, 1984, [98 Stat. 1152][/us/stat/98/1152], 1154, added items 3720 and 3720A.
+    1984—[Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], §§ 2652(a)(2), 2653(a)(2), July 18, 1984, [98 Stat. 1152][/us/stat/98/1152], 1154, added items 3720 and 3720A.
 
-    1983—[Pub. L. 97–452, § 1(13)(B)][/us/pl/97/452/s1/13/B], (16)(B), Jan. 12, 1983, [96 Stat. 2470][/us/stat/96/2470], 2474, inserted “and application” in item 3701 and added items 3716–3719.
-
-----------
-
-[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3562.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
+    1983—[Pub. L. 97–452][/us/pl/97/452], § 1(13)(B), (16)(B), Jan. 12, 1983, [96 Stat. 2470][/us/stat/96/2470], 2474, inserted “and application” in item 3701 and added items 3716–3719.
 
 ----------
+
+[Previous](./../../../../..//us/usc/t31/stIII/ch35/schVI/m__us_usc_t31_s3563...3567.md) | [Next](./../../../../..//us/usc/t31/stIII/ch37/schI/m__us_usc_t31_stIII_ch37_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstIII%2Fch37)
+
+----------
 ----------
 
-[/us/pl/104/316/s202/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fn%2F2
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3844
-[/us/pl/104/134/s31001/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fj%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-365
-[/us/pl/101/203/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs1%2Fb%2F2
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
 [/us/stat/103/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1805
-[/us/pl/99/562/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs6%2Fb
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3168
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1152
-[/us/pl/97/452/s1/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F13%2FB
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2470
 
 

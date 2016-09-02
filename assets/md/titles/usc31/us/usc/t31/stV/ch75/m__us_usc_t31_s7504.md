@@ -35,7 +35,7 @@
 
         (3) perform analyses to assist the Director in carrying out responsibilities under this chapter.
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1402][/us/stat/110/1402].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1402][/us/stat/110/1402].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2333
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1402
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/usc/t31/s7502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7502

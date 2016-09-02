@@ -49,7 +49,7 @@
 
     (d) Notwithstanding [section 552a(b) of title 5][/us/usc/t5/s552a/b], United States Code, creditor agencies to which a delinquent claim is owed, and their agents, may match their debtor records with Department of Health and Human Services, and Department of Labor records to obtain names (including names of employees), name controls, names of employers, taxpayer identifying numbers, addresses (including addresses of employers), and dates of birth. The preceding sentence shall apply to the disclosure of taxpayer identifying numbers only if such disclosure is not otherwise prohibited by section 6103 of the Internal Revenue Code of 1986. The Department of Health and Human Services, and the Department of Labor shall release that information to creditor agencies and may charge reasonable fees sufficient to pay the costs associated with that release.
 
-(Added [Pub. L. 103–272, § 4(f)(1)(Y)(i)][/us/pl/103/272/s4/f/1/Y/i], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; amended [Pub. L. 104–134, title III, § 31001(i)(1)][/us/pl/104/134/s31001/i/1], Apr. 26, 1996, [110 Stat. 1321–364][/us/stat/110/1321-364].)
+(Added [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(Y)(i), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(i)(1), Apr. 26, 1996, [110 Stat. 1321–364][/us/stat/110/1321-364].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/usc/t26/s6109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6109
 [/us/usc/t5/s552a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fb
-[/us/pl/103/272/s4/f/1/Y/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FY%2Fi
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
-[/us/pl/104/134/s31001/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fi%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-364
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134

@@ -35,7 +35,7 @@
 
             (B) in the case of a function delegated by the Director to another agency, by the head of the agency to which the function was delegated.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 967][/us/stat/96/967]; [Pub. L. 104–316, title II, § 204][/us/pl/104/316/s204], Oct. 19, 1996, [110 Stat. 3845][/us/stat/110/3845].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 967][/us/stat/96/967]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 204, Oct. 19, 1996, [110 Stat. 3845][/us/stat/110/3845].)
 
 <table>
 
@@ -151,7 +151,7 @@ Dec. 29, 1941, ch. 641, §§ 3(words after semicolon), 4(related to § 3 ), 
 [/us/stat/109/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F535
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F967
-[/us/pl/104/316/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs204
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3845
 [/us/pl/104/53/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs211%2Fa
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501

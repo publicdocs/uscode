@@ -19,7 +19,7 @@
 
     (b) [Section 17304(c) of title 40][/us/usc/t40/s17304/c] applies to a decision of the Secretary made under this section. A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 946][/us/stat/96/946]; [Pub. L. 107–217, § 3(h)(4)][/us/pl/107/217/s3/h/4], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 946][/us/stat/96/946]; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(4), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
 
 <table>
 
@@ -83,9 +83,9 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 22(i)(1st–6th sentences); added Apr
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–217, § 3(h)(4)(A)][/us/pl/107/217/s3/h/4/A], substituted “[section 17303(a) of title 40][/us/usc/t40/s17303/a]” for “section 2 of the Government Losses in Shipment Act ([40 U.S.C. 722][/us/usc/t40/s722])”.
+    2002—Subsec. (a). [Pub. L. 107–217][/us/pl/107/217], § 3(h)(4)(A), substituted “[section 17303(a) of title 40][/us/usc/t40/s17303/a]” for “section 2 of the Government Losses in Shipment Act ([40 U.S.C. 722][/us/usc/t40/s722])”.
 
-    Subsec. (b). [Pub. L. 107–217, § 3(h)(4)(B)][/us/pl/107/217/s3/h/4/B], substituted “[Section 17304(c) of title 40][/us/usc/t40/s17304/c]” for “Section 3 of the Government Losses in Shipment Act ([40 U.S.C. 723][/us/usc/t40/s723]) (related to finality of decisions of the Secretary)”.
+    Subsec. (b). [Pub. L. 107–217][/us/pl/107/217], § 3(h)(4)(B), substituted “[Section 17304(c) of title 40][/us/usc/t40/s17304/c]” for “Section 3 of the Government Losses in Shipment Act ([40 U.S.C. 723][/us/usc/t40/s723]) (related to finality of decisions of the Secretary)”.
 
 ----------
 
@@ -98,12 +98,12 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 22(i)(1st–6th sentences); added Apr
 [/us/usc/t40/s17304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17304%2Fc
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F946
-[/us/pl/107/217/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/pl/107/217/s3/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4%2FA
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s17303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17303%2Fa
 [/us/usc/t40/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs722
-[/us/pl/107/217/s3/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F4%2FB
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s17304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17304%2Fc
 [/us/usc/t40/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs723
 

@@ -83,7 +83,7 @@
 
     (e) A surviving spouse’s annuity may not be more than 50 percent nor less than 25 percent of the average annual pay computed under subsection (d)(1) of this section. If a Comptroller General does not make the deposit under [section 773(b) of this title][/us/usc/t31/s773/b], a surviving spouse’s annuity shall be credited with the service during which a deposit was not made, unless the spouse elects not to have the service credited. However, the annuity shall be reduced by 10 percent of the amount of the unpaid deposit, computed on the date the Comptroller General or retired Comptroller General dies.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 904][/us/stat/96/904]; [Pub. L. 100–426, title II, § 205][/us/pl/100/426/s205], Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 904][/us/stat/96/904]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 205, Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600].)
 
 <table>
 
@@ -205,9 +205,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(e), (n); added July 13, 1959, Pub. 
 
  __Amendments__ 
 
-    1988—Subsec. (b)(3), (4). [Pub. L. 100–426, § 205(1)][/us/pl/100/426/s205/1], substituted “18 months” for “5 years”.
+    1988—Subsec. (b)(3), (4). [Pub. L. 100–426][/us/pl/100/426], § 205(1), substituted “18 months” for “5 years”.
 
-    Subsec. (c)(2), (3). [Pub. L. 100–426, § 205(2)][/us/pl/100/426/s205/2], amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+    Subsec. (c)(2), (3). [Pub. L. 100–426][/us/pl/100/426], § 205(2), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
     “(2) by a spouse and a dependent child, the surviving spouse shall receive an immediate annuity under subsection (d) of this section and each dependent child shall receive an immediate annuity equal to the smaller of—
 
@@ -223,9 +223,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(e), (n); added July 13, 1959, Pub. 
 
     “(C) $5,580 divided by the number of dependent children.”
 
-    Subsec. (d)(1). [Pub. L. 100–426, § 205(3)][/us/pl/100/426/s205/3], substituted “1.5 percent” for “1.25 percent” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 100–426][/us/pl/100/426], § 205(3), substituted “1.5 percent” for “1.25 percent” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 100–426, § 205(4)][/us/pl/100/426/s205/4], substituted “more than 50 percent nor less than 25 percent” for “more than 40 percent”.
+    Subsec. (e). [Pub. L. 100–426][/us/pl/100/426], § 205(4), substituted “more than 50 percent nor less than 25 percent” for “more than 40 percent”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -245,13 +245,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(e), (n); added July 13, 1959, Pub. 
 [/us/usc/t31/s773/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs773%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F904
-[/us/pl/100/426/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs205
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1600
 [/us/usc/t31/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733
-[/us/pl/100/426/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs205%2F1
-[/us/pl/100/426/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs205%2F2
-[/us/pl/100/426/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs205%2F3
-[/us/pl/100/426/s205/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs205%2F4
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs208
 [/us/usc/t31/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs772

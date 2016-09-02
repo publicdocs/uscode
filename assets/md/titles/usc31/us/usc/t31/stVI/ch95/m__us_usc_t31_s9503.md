@@ -15,13 +15,13 @@
 
 ## § 9503. Reports about Government pension plans
 
-    \[(a) Repealed. [Pub. L. 105–362, title XV, § 1501(a)][/us/pl/105/362/s1501/a], Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].\]
+    \[(a) Repealed. [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1501(a), Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].\]
 
     (b) This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.
 
     (c) The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1050][/us/stat/96/1050]; [Pub. L. 104–66, title II, § 2081][/us/pl/104/66/s2081], Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 105–362, title XV, § 1501(a)][/us/pl/105/362/s1501/a], Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1050][/us/stat/96/1050]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2081, Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1501(a), Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
 
 <table>
 
@@ -112,13 +112,13 @@ By the authority vested in me as President of the United States of America by Se
 ----------
 ----------
 
-[/us/pl/105/362/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1501%2Fa
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3294
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1050
-[/us/pl/104/66/s2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2081
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F729
-[/us/pl/105/362/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1501%2Fa
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3294
 [/us/usc/t31/s68c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs68c%2Fb
 [/us/usc/t29/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023

@@ -25,7 +25,7 @@
 
     (4) the proceeds of any other form of financial transaction, as the Secretary and the Board of Governors of the Federal Reserve System may jointly prescribe by regulation, which involves a financial institution as a payor or financial intermediary on behalf of or for the benefit of such other person.
 
-(Added [Pub. L. 109–347, title VIII, § 802(a)][/us/pl/109/347/s802/a], Oct. 13, 2006, [120 Stat. 1957][/us/stat/120/1957].)
+(Added [Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(a), Oct. 13, 2006, [120 Stat. 1957][/us/stat/120/1957].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fa
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1957
 
 

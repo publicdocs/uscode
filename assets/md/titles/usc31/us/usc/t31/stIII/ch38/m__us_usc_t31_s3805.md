@@ -51,7 +51,7 @@
 
     (e) Upon a final determination by the district court that a person is liable under [section 3802 of this title][/us/usc/t31/s3802], the court shall enter a final judgment for the appropriate amount in favor of the United States.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1944][/us/stat/100/1944].)
+(Added [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(a), Oct. 21, 1986, [100 Stat. 1944][/us/stat/100/1944].)
 
 ----------
 
@@ -69,7 +69,7 @@
 [/us/usc/t31/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3802
 [/us/usc/t31/s3803/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Ff
 [/us/usc/t31/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3802
-[/us/pl/99/509/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1944
 
 

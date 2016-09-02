@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t31/stII/ch11/m__us_usc_t31_s1113.md) | [Next](./../../../../..//us/usc/t31/stII/ch11/m__us_usc_t31_s1115.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1114)
 
-## \[§ 1114. Repealed. [Pub. L. 103–355, title II, § 2454(c)(2)][/us/pl/103/355/s2454/c/2], Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]\]
+## \[§ 1114. Repealed. [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2454(c)(2), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]\]
 
     Section, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 916][/us/stat/96/916], related to budget information on consulting services.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/103/355/s2454/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2454%2Fc%2F2
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3326
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F916

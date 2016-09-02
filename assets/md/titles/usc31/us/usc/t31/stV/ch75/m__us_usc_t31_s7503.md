@@ -27,7 +27,7 @@
 
     (f) Upon request by a Federal agency or the Comptroller General, any independent auditor conducting an audit pursuant to this chapter shall make the auditor’s working papers available to the Federal agency or the Comptroller General as part of a quality review, to resolve audit findings, or to carry out oversight responsibilities consistent with the purposes of this chapter. Such access to auditor’s working papers shall include the right to obtain copies.
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2332][/us/stat/98/2332]; amended [Pub. L. 103–272, § 4(f)(1)(X)][/us/pl/103/272/s4/f/1/X], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1401][/us/stat/110/1401].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2332][/us/stat/98/2332]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(X), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1401][/us/stat/110/1401].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2332
-[/us/pl/103/272/s4/f/1/X]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FX
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1401
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

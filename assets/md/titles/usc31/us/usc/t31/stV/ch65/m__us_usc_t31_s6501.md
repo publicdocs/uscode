@@ -93,7 +93,7 @@
 
     (10) “unit of general local government” means a county, city, town, village, or other general purpose political subdivision of a State.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1005][/us/stat/96/1005]; [Pub. L. 97–452, § 1(24)][/us/pl/97/452/s1/24], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 101–453][/us/pl/101/453], §§ 3, 5(a), Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], 1059; [Pub. L. 105–33, title XI, § 11717(b)][/us/pl/105/33/s11717/b], Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1005][/us/stat/96/1005]; [Pub. L. 97–452][/us/pl/97/452], § 1(24), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 101–453][/us/pl/101/453], §§ 3, 5(a), Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], 1059; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11717(b), Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
 
 <table>
 
@@ -291,21 +291,21 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100
 
     1997—Par. (1)(C). [Pub. L. 105–33][/us/pl/105/33] substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-    1990—Par. (2)(B). [Pub. L. 101–453, § 3(1)][/us/pl/101/453/s3/1], substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
+    1990—Par. (2)(B). [Pub. L. 101–453][/us/pl/101/453], § 3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
 
-    Par. (2)(E). [Pub. L. 101–453, § 3(2)][/us/pl/101/453/s3/2], substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
+    Par. (2)(E). [Pub. L. 101–453][/us/pl/101/453], § 3(2), substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
 
-    Par. (4)(A). [Pub. L. 101–453, § 3(3)][/us/pl/101/453/s3/3], substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
+    Par. (4)(A). [Pub. L. 101–453][/us/pl/101/453], § 3(3), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
 
-    Par. (4)(B). [Pub. L. 101–453, § 3(4)][/us/pl/101/453/s3/4], substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
+    Par. (4)(B). [Pub. L. 101–453][/us/pl/101/453], § 3(4), substituted “subparagraph (C)” for “subclause (C) of this clause (4)”.
 
-    Par. (7). [Pub. L. 101–453, § 5(a)(2)][/us/pl/101/453/s5/a/2], added par. (7). Former par. (7) redesignated (8).
+    Par. (7). [Pub. L. 101–453][/us/pl/101/453], § 5(a)(2), added par. (7). Former par. (7) redesignated (8).
 
-    Par. (8). [Pub. L. 101–453, § 5(a)(1)][/us/pl/101/453/s5/a/1], redesignated par. (7) as (8). Former par. (8) redesignated (9).
+    Par. (8). [Pub. L. 101–453][/us/pl/101/453], § 5(a)(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-    Par. (9). [Pub. L. 101–453, § 5(a)(1)][/us/pl/101/453/s5/a/1], (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
+    Par. (9). [Pub. L. 101–453][/us/pl/101/453], § 5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
 
-    Par. (10). [Pub. L. 101–453, § 5(a)(1)][/us/pl/101/453/s5/a/1], redesignated par. (9) as (10).
+    Par. (10). [Pub. L. 101–453][/us/pl/101/453], § 5(a)(1), redesignated par. (9) as (10).
 
     1983—Par. (1)(B). [Pub. L. 97–452][/us/pl/97/452] struck out “the law of” after “provided by”.
 
@@ -319,19 +319,19 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–589, § 1][/us/pl/102/589/s1], Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
+[Pub. L. 102–589][/us/pl/102/589], § 1, Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
 
 > “This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes under [section 3718 of this title][/us/usc/t31/s3718], and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act Amendments of 1992’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–453, § 1][/us/pl/101/453/s1], Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], provided that: 
+[Pub. L. 101–453][/us/pl/101/453], § 1, Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], provided that: 
 
 > “This Act \[enacting [section 3335 of this title][/us/usc/t31/s3335], amending this section and [section 6503 of this title][/us/usc/t31/s6503], and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act of 1990’.”
 
  __Purpose of 1990 Act__ 
 
-[Pub. L. 101–453, § 2][/us/pl/101/453/s2], Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], provided that: 
+[Pub. L. 101–453][/us/pl/101/453], § 2, Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058], provided that: 
 
 > “The purpose of this Act \[see Short Title of 1990 Amendment note above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
 
@@ -347,11 +347,11 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1005
-[/us/pl/97/452/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F24
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
 [/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1058
-[/us/pl/105/33/s11717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11717%2Fb
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F786
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F813
@@ -364,14 +364,14 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/101/453/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs3%2F1
-[/us/pl/101/453/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs3%2F2
-[/us/pl/101/453/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs3%2F3
-[/us/pl/101/453/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs3%2F4
-[/us/pl/101/453/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fa%2F2
-[/us/pl/101/453/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fa%2F1
-[/us/pl/101/453/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fa%2F1
-[/us/pl/101/453/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fa%2F1
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
@@ -379,14 +379,14 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 101–107, 109, 110, 82 Stat. 1098, 1100
 [/us/usc/t18/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4246
 [/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi
 [/us/usc/t31/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3331
-[/us/pl/102/589/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs1
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
-[/us/pl/101/453/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs1
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1058
 [/us/usc/t31/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3335
 [/us/usc/t31/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503
-[/us/pl/101/453/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs2
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1058
 
 

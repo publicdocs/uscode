@@ -41,7 +41,7 @@
 
     In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget of the United States Government, as provided by section 1105(a)(37), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
 
-(Added [Pub. L. 111–352, § 11(b)][/us/pl/111/352/s11/b], Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 11(b), Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/352/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fb
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3881
 [/us/pl/111/352/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa%2F2
 [/us/stat/124/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3881

@@ -21,7 +21,7 @@
 
     (2) no disbursement has been made against the appropriation for two consecutive fiscal years.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 937][/us/stat/96/937]; [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)][/us/pl/101/510/s1405/a/1], Nov. 5, 1990, [104 Stat. 1678][/us/stat/104/1678].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 937][/us/stat/96/937]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(1), Nov. 5, 1990, [104 Stat. 1678][/us/stat/104/1678].)
 
 <table>
 
@@ -106,7 +106,7 @@ July 25, 1956, ch. 727, § 6, 70 Stat. 649.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F937
-[/us/pl/101/510/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1678
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t31/s1552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa%2F2

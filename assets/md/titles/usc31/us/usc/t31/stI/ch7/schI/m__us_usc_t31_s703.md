@@ -79,7 +79,7 @@
 
         (2) Deputy Comptroller General is equal to the rate for level III of the Executive Schedule.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 888][/us/stat/96/888]; [Pub. L. 100–426, title II, § 201][/us/pl/100/426/s201], Sept. 9, 1988, [102 Stat. 1599][/us/stat/102/1599]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 888][/us/stat/96/888]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 201, Sept. 9, 1988, [102 Stat. 1599][/us/stat/102/1599]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -270,9 +270,9 @@ Aug. 14, 1964, Pub. L. 88–426, § 203(a), (b), 78 Stat. 415; Dec. 16, 1967, 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F888
-[/us/pl/100/426/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs201
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1599
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1971-07-09/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1971-07-09%2Fs101
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51

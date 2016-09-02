@@ -65,7 +65,7 @@
 
     Nothing in this section limits the authority of the Secretary to decline payment of a Treasury check after first examination thereof at the Treasury.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 952][/us/stat/96/952]; [Pub. L. 100–86, title X, § 1002][/us/pl/100/86/s1002], Aug. 10, 1987, [101 Stat. 658][/us/stat/101/658]; [Pub. L. 104–316, title I, § 115(d)][/us/pl/104/316/s115/d], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 952][/us/stat/96/952]; [Pub. L. 100–86, title X][/us/pl/100/86/tX], § 1002, Aug. 10, 1987, [101 Stat. 658][/us/stat/101/658]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(d), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
 
 <table>
 
@@ -211,13 +211,13 @@ In subsection (a)(2), before clause (A), the words “When the Secretary decides
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–316, § 115(d)(1)][/us/pl/104/316/s115/d/1], substituted “until the question is settled” for “until the Comptroller General settles the question”.
+    1996—Subsec. (a)(2). [Pub. L. 104–316][/us/pl/104/316], § 115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
 
-    Subsec. (b)(2). [Pub. L. 104–316, § 115(d)(2)][/us/pl/104/316/s115/d/2], struck out “on settlement by the Comptroller General” after “the Treasury”.
+    Subsec. (b)(2). [Pub. L. 104–316][/us/pl/104/316], § 115(d)(2), struck out “on settlement by the Comptroller General” after “the Treasury”.
 
-    Subsec. (d). [Pub. L. 104–316, § 115(d)(3)][/us/pl/104/316/s115/d/3], substituted “The” for “With the approval of the Comptroller General, the”.
+    Subsec. (d). [Pub. L. 104–316][/us/pl/104/316], § 115(d)(3), substituted “The” for “With the approval of the Comptroller General, the”.
 
-    1987—Subsec. (a). [Pub. L. 100–86, § 1002(1)][/us/pl/100/86/s1002/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    1987—Subsec. (a). [Pub. L. 100–86][/us/pl/100/86], § 1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(1) Except as provided in sections 3329 and 3330 of this title, a check drawn on the Treasury may be paid at any time. However, if the Secretary of the Treasury is on notice of a question of law or fact about the check when the check is presented, the Secretary shall defer payment until the Comptroller General settles the question.
 
@@ -227,17 +227,17 @@ In subsection (a)(2), before clause (A), the words “When the Secretary decides
 
     “(B) an amount available, but not required, for paying checks drawn on the Treasury to the appropriate receipt account.”
 
-    Subsec. (f). [Pub. L. 100–86, § 1002(2)][/us/pl/100/86/s1002/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–86][/us/pl/100/86], § 1002(2), added subsec. (f).
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–86, title X, § 1006][/us/pl/100/86/s1006], Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659], provided that: 
+[Pub. L. 100–86, title X][/us/pl/100/86/tX], § 1006, Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659], provided that: 
 
 > “The amendments made by sections 1002, 1003, and 1004 \[enacting [section 3334 of this title][/us/usc/t31/s3334] and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations.”
 
  __Regulations__ 
 
-[Pub. L. 100–86, title X, § 1005][/us/pl/100/86/s1005], Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659], provided that: 
+[Pub. L. 100–86, title X][/us/pl/100/86/tX], § 1005, Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659], provided that: 
 
 > “The Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary deems necessary to implement the amendments made by sections 1002, 1003, and 1004 \[enacting [section 3334 of this title][/us/usc/t31/s3334] and amending this section and sections 3702 and 3712 of this title\], including the recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred.”
 
@@ -251,9 +251,9 @@ In subsection (a)(2), before clause (A), the words “When the Secretary decides
 [/us/usc/t31/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3702
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F952
-[/us/pl/100/86/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1002
+[/us/pl/100/86/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtX
 [/us/stat/101/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F658
-[/us/pl/104/316/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fd
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
 [/us/usc/t31/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs132
 [/us/act/1973-12-24/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1973-12-24%2Fs448
@@ -261,15 +261,15 @@ In subsection (a)(2), before clause (A), the words “When the Secretary decides
 [/us/stat/87/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F801
 [/us/pl/100/86/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1002
 [/us/pl/100/86/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1006
-[/us/pl/104/316/s115/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fd%2F1
-[/us/pl/104/316/s115/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fd%2F2
-[/us/pl/104/316/s115/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fd%2F3
-[/us/pl/100/86/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1002%2F1
-[/us/pl/100/86/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1002%2F2
-[/us/pl/100/86/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1006
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtX
 [/us/stat/101/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F659
 [/us/usc/t31/s3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3334
-[/us/pl/100/86/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1005
+[/us/pl/100/86/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtX
 [/us/stat/101/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F659
 [/us/usc/t31/s3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3334
 

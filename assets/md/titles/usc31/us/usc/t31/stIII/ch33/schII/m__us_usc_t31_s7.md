@@ -47,7 +47,7 @@
 
  __Determinations of Agency Readiness for Opinion on Internal Control__ 
 
-[Pub. L. 111–204, § 2(g)][/us/pl/111/204/s2/g], July 22, 2010, [124 Stat. 2228][/us/stat/124/2228], provided that: 
+[Pub. L. 111–204][/us/pl/111/204], § 2(g), July 22, 2010, [124 Stat. 2228][/us/stat/124/2228], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[July 22, 2010\], the Director of the Office of Management and Budget shall develop—
 
@@ -57,7 +57,7 @@
 
  __Recovery Audits__ 
 
-[Pub. L. 111–204, § 2(h)][/us/pl/111/204/s2/h], July 22, 2010, [124 Stat. 2228][/us/stat/124/2228], as amended by [Pub. L. 112–248, § 3(c)(1)][/us/pl/112/248/s3/c/1], Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
+[Pub. L. 111–204][/us/pl/111/204], § 2(h), July 22, 2010, [124 Stat. 2228][/us/stat/124/2228], as amended by [Pub. L. 112–248][/us/pl/112/248], § 3(c)(1), Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
 
 >     “(1)  __Definition__  __.—__ 
 
@@ -209,7 +209,7 @@
 
  __Compliance__ 
 
-[Pub. L. 111–204, § 3][/us/pl/111/204/s3], July 22, 2010, [124 Stat. 2232][/us/stat/124/2232], as amended by [Pub. L. 112–248, § 3(c)(2)][/us/pl/112/248/s3/c/2], Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
+[Pub. L. 111–204][/us/pl/111/204], § 3, July 22, 2010, [124 Stat. 2232][/us/stat/124/2232], as amended by [Pub. L. 112–248][/us/pl/112/248], § 3(c)(2), Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Improper Payments__ 
 
-[Pub. L. 107–300][/us/pl/107/300], Nov. 26, 2002, [116 Stat. 2350][/us/stat/116/2350], as amended by [Pub. L. 111–204, § 2(a)][/us/pl/111/204/s2/a]–(f), July 22, 2010, [124 Stat. 2224–2228][/us/stat/124/2224-2228]; [Pub. L. 112–248][/us/pl/112/248], §§ 3(a), (4), Jan. 10, 2013, [126 Stat. 2390][/us/stat/126/2390], 2392, provided that:
+[Pub. L. 107–300][/us/pl/107/300], Nov. 26, 2002, [116 Stat. 2350][/us/stat/116/2350], as amended by [Pub. L. 111–204][/us/pl/111/204], § 2(a)–(f), July 22, 2010, [124 Stat. 2224–2228][/us/stat/124/2224-2228]; [Pub. L. 112–248][/us/pl/112/248], §§ 3(a), (4), Jan. 10, 2013, [126 Stat. 2390][/us/stat/126/2390], 2392, provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -736,11 +736,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/111/204/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fg
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2228
-[/us/pl/111/204/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2228
-[/us/pl/112/248/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248%2Fs3%2Fc%2F1
+[/us/pl/112/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248
 [/us/stat/126/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2392
 [/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
@@ -753,9 +753,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t31/s3562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3562%2Fa
 [/us/usc/t31/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3501
 [/us/usc/t6/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612
-[/us/pl/111/204/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs3
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2232
-[/us/pl/112/248/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248%2Fs3%2Fc%2F2
+[/us/pl/112/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248
 [/us/stat/126/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2392
 [/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
@@ -775,7 +775,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
 [/us/stat/116/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2350
-[/us/pl/111/204/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fa
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2224-2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2224-2228
 [/us/pl/112/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248
 [/us/stat/126/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2390

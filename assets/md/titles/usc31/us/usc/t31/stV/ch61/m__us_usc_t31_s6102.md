@@ -175,21 +175,21 @@ Dec. 28, 1977, Pub. L. 95–220, §§ 4, 5(d), (e), 91 Stat. 1615, 1616.  </td
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–169, § 2(1)][/us/pl/98/169/s2/1], substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
+    1983—Subsec. (a). [Pub. L. 98–169][/us/pl/98/169], § 2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
 
-    [Pub. L. 98–169, § 1(2)][/us/pl/98/169/s1/2], substituted “Director” for “Director of the Office of Management and Budget”.
+    [Pub. L. 98–169][/us/pl/98/169], § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-    Subsec. (a)(2)(E) to (H). [Pub. L. 98–169, § 3(b)(1)][/us/pl/98/169/s3/b/1], struck out subpar. (E) relating to formulas governing distribution of amounts, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
+    Subsec. (a)(2)(E) to (H). [Pub. L. 98–169][/us/pl/98/169], § 3(b)(1), struck out subpar. (E) relating to formulas governing distribution of amounts, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
 
-    Subsec. (a)(3) to (7). [Pub. L. 98–169, § 3(b)(2)][/us/pl/98/169/s3/b/2], (3), added pars. (3) and (4) and redesignated former pars. (3) to (5) as (5) to (7), respectively.
+    Subsec. (a)(3) to (7). [Pub. L. 98–169][/us/pl/98/169], § 3(b)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) to (5) as (5) to (7), respectively.
 
-    Subsec. (b). [Pub. L. 98–169, § 2(2)][/us/pl/98/169/s2/2], substituted “The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis” for “The Director shall incorporate on a regular basis all relevant information received”.
+    Subsec. (b). [Pub. L. 98–169][/us/pl/98/169], § 2(2), substituted “The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis” for “The Director shall incorporate on a regular basis all relevant information received”.
 
-    Subsec. (c). [Pub. L. 98–169, § 2(3)][/us/pl/98/169/s2/3], substituted “Administrator” for “Director”.
+    Subsec. (c). [Pub. L. 98–169][/us/pl/98/169], § 2(3), substituted “Administrator” for “Director”.
 
-    Subsec. (c)(3). [Pub. L. 98–169, § 2(4)][/us/pl/98/169/s2/4], added par. (3).
+    Subsec. (c)(3). [Pub. L. 98–169][/us/pl/98/169], § 2(4), added par. (3).
 
-    Subsec. (c)(4). [Pub. L. 98–169, § 3(c)][/us/pl/98/169/s3/c], added par. (4).
+    Subsec. (c)(4). [Pub. L. 98–169][/us/pl/98/169], § 3(c), added par. (4).
 
  __Change of Name__ 
 
@@ -203,7 +203,7 @@ Dec. 28, 1977, Pub. L. 95–220, §§ 4, 5(d), (e), 91 Stat. 1615, 1616.  </td
 
  __Consolidated Federal Funds Report__ 
 
-    [Pub. L. 97–326][/us/pl/97/326], Oct. 15, 1982, [96 Stat. 1607][/us/stat/96/1607], as amended by [Pub. L. 97–452, § 4(b)][/us/pl/97/452/s4/b], Jan. 12, 1983, [96 Stat. 2480][/us/stat/96/2480], known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by [Pub. L. 99–547, § 2(d)][/us/pl/99/547/s2/d], Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060], effective May 1, 1986.
+    [Pub. L. 97–326][/us/pl/97/326], Oct. 15, 1982, [96 Stat. 1607][/us/stat/96/1607], as amended by [Pub. L. 97–452][/us/pl/97/452], § 4(b), Jan. 12, 1983, [96 Stat. 2480][/us/stat/96/2480], known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by [Pub. L. 99–547][/us/pl/99/547], § 2(d), Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060], effective May 1, 1986.
 
 ----------
 
@@ -216,23 +216,23 @@ Dec. 28, 1977, Pub. L. 95–220, §§ 4, 5(d), (e), 91 Stat. 1615, 1616.  </td
 [/us/stat/96/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1001
 [/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1113
-[/us/pl/98/169/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs2%2F1
-[/us/pl/98/169/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F2
-[/us/pl/98/169/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fb%2F1
-[/us/pl/98/169/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fb%2F2
-[/us/pl/98/169/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs2%2F2
-[/us/pl/98/169/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs2%2F3
-[/us/pl/98/169/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs2%2F4
-[/us/pl/98/169/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fc
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/97/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F326
 [/us/stat/96/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1607
-[/us/pl/97/452/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs4%2Fb
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2480
-[/us/pl/99/547/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fd
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3060
 
 

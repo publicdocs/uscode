@@ -29,7 +29,7 @@
 
     (d) The Secretary of the Treasury may designate another officer or employee of the Department to act as the Fiscal Assistant Secretary when the Fiscal Assistant Secretary is absent or unable to serve or when the office of Fiscal Assistant Secretary is vacant.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 879][/us/stat/96/879]; [Pub. L. 108–458, title VII, § 7801][/us/pl/108/458/s7801], Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 879][/us/stat/96/879]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7801, Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
 
 <table>
 
@@ -93,21 +93,21 @@ Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(less (a)(7)(1st sentence),
 
  __Reimbursement of Financial Management Service and Bureau of the Public Debt__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title I\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–486, provided in part: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title I\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–486, provided in part: 
 
 > “That notwithstanding any other provisions of law, effective upon enactment \[Oct. 21, 1998\] and thereafter, the Bureau of the Public Debt shall be fully and directly reimbursed by the funds described in [section 104 of Public Law 101–136][/us/pl/101/136/s104] ([103 Stat. 789][/us/stat/103/789]) \[set out below\] for costs and services performed by the Bureau in the administration of such funds.”
 
-    Similar provisions were contained in [Pub. L. 105–61, title I][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1279][/us/stat/111/1279].
+    Similar provisions were contained in [Pub. L. 105–61, title I][/us/pl/105/61/tI], Oct. 10, 1997, [111 Stat. 1279][/us/stat/111/1279].
 
-[Pub. L. 103–329, title I, § 105][/us/pl/103/329/s105], Sept. 30, 1994, [108 Stat. 2390][/us/stat/108/2390], provided that: 
+[Pub. L. 103–329, title I][/us/pl/103/329/tI], § 105, Sept. 30, 1994, [108 Stat. 2390][/us/stat/108/2390], provided that: 
 
 > “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
 
-[Pub. L. 102–393, title I, § 105][/us/pl/102/393/s105], Oct. 6, 1992, [106 Stat. 1737][/us/stat/106/1737], provided that: 
+[Pub. L. 102–393, title I][/us/pl/102/393/tI], § 105, Oct. 6, 1992, [106 Stat. 1737][/us/stat/106/1737], provided that: 
 
 > “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, the Financial Management Service (FMS) shall be reimbursed by the Internal Revenue Service (IRS) and the Department of Agriculture, National Finance Center (NFC), for the postage costs the FMS incurs to make check payments on behalf of the IRS and the NFC.”
 
-[Pub. L. 101–136, title I, § 104][/us/pl/101/136/s104], Nov. 3, 1989, [103 Stat. 789][/us/stat/103/789], provided that: 
+[Pub. L. 101–136, title I][/us/pl/101/136/tI], § 104, Nov. 3, 1989, [103 Stat. 789][/us/stat/103/789], provided that: 
 
 > “Notwithstanding any other provision of law, beginning October 1, 1990, and thereafter, the Financial Management Service shall be fully and directly reimbursed from the Social Security Trust Funds for the costs it incurs in the issuance of Social Security Trust Funds benefit payments, including all physical costs associated with payment preparation and postage costs. Such direct reimbursement shall also be made for all other trust and special funds which are the recipients of services performed by the Financial Management Service and which prior to enactment of this provision \[Nov. 3, 1989\] reimburse the General Fund of the Treasury for such services.”
 
@@ -121,21 +121,21 @@ Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(less (a)(7)(1st sentence),
 [/us/usc/t31/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301%2Fd
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F879
-[/us/pl/108/458/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7801
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3860
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/101/136/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs104
 [/us/stat/103/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F789
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1279
-[/us/pl/103/329/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs105
+[/us/pl/103/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtI
 [/us/stat/108/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2390
-[/us/pl/102/393/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs105
+[/us/pl/102/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtI
 [/us/stat/106/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1737
-[/us/pl/101/136/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs104
+[/us/pl/101/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtI
 [/us/stat/103/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F789
 
 

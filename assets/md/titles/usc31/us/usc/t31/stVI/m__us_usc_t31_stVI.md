@@ -71,7 +71,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–134, title III, § 31001(i)(3)(B)][/us/pl/104/134/s31001/i/3/B], Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
+    1996—[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(i)(3)(B), Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s31001/i/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fi%2F3%2FB
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-365
 
 

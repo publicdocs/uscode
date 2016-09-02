@@ -229,7 +229,7 @@
 
         The terms “money transmitting business” and “money transmitting service” have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
 
-(Added [Pub. L. 109–347, title VIII, § 802(a)][/us/pl/109/347/s802/a], Oct. 13, 2006, [120 Stat. 1953][/us/stat/120/1953].)
+(Added [Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(a), Oct. 13, 2006, [120 Stat. 1953][/us/stat/120/1953].)
 
  __References in Text__ 
 
@@ -267,7 +267,7 @@
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t15/s1693a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693a
 [/us/usc/t12/s1813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc
-[/us/pl/109/347/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fa
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1953
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

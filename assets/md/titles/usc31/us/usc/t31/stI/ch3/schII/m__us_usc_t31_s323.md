@@ -35,7 +35,7 @@
 
         (2) For purposes of paragraph (1), the term “appropriate committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 110–351, title V, § 502][/us/pl/110/351/s502], Oct. 7, 2008, [122 Stat. 3980][/us/stat/122/3980].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 110–351, title V][/us/pl/110/351/tV], § 502, Oct. 7, 2008, [122 Stat. 3980][/us/stat/122/3980].)
 
 <table>
 
@@ -126,7 +126,7 @@ Oct. 28, 1977, Pub. L. 95–147, § 1, 91 Stat. 1227.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F882
-[/us/pl/110/351/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs502
+[/us/pl/110/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtV
 [/us/stat/122/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3980
 [/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
 

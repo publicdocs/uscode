@@ -95,25 +95,25 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–323, § 1(a)][/us/pl/110/323/s1/a], Sept. 22, 2008, [122 Stat. 3539][/us/stat/122/3539], provided that: 
+[Pub. L. 110–323][/us/pl/110/323], § 1(a), Sept. 22, 2008, [122 Stat. 3539][/us/stat/122/3539], provided that: 
 
 > “This Act \[enacting [section 705 of this title][/us/usc/t31/s705], amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, [Pub. L. 95–521][/us/pl/95/521], set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a note under [section 3523 of this title][/us/usc/t31/s3523]\] may be cited as the ‘Government Accountability Office Act of 2008’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–271, § 1(a)][/us/pl/108/271/s1/a], July 7, 2004, [118 Stat. 811][/us/stat/118/811], provided that: 
+[Pub. L. 108–271][/us/pl/108/271], § 1(a), July 7, 2004, [118 Stat. 811][/us/stat/118/811], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘GAO Human Capital Reform Act of 2004’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–316, § 1][/us/pl/104/316/s1], Oct. 19, 1996, [110 Stat. 3826][/us/stat/110/3826], provided that: 
+[Pub. L. 104–316][/us/pl/104/316], § 1, Oct. 19, 1996, [110 Stat. 3826][/us/stat/110/3826], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘General Accounting Office Act of 1996’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–426, § 1][/us/pl/100/426/s1], Sept. 9, 1988, [102 Stat. 1598][/us/stat/102/1598], provided that: 
+[Pub. L. 100–426][/us/pl/100/426], § 1, Sept. 9, 1988, [102 Stat. 1598][/us/stat/102/1598], provided that: 
 
 > “This Act \[amending sections 703, 732, 751, 752, 755, 771 to 774, 776, and 777 of this title and [section 5349 of Title 5][/us/usc/t5/s5349], Government Organization and Employees, and enacting provisions set out as notes under sections 755 and 772 of this title\] may be cited as the ‘General Accounting Office Personnel Amendments Act of 1988’.”
 
@@ -129,16 +129,16 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F774
 [/us/stat/42/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F20
-[/us/pl/110/323/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs1%2Fa
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3539
 [/us/usc/t31/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs705
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t31/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523
-[/us/pl/108/271/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs1%2Fa
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F811
-[/us/pl/104/316/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs1
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/stat/110/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3826
-[/us/pl/100/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs1
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/stat/102/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1598
 [/us/usc/t5/s5349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5349
 

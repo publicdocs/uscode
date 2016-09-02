@@ -97,11 +97,11 @@
 
         (16) The extent to which a significant increase in the allocation of Federal resources to combat financial crimes in such area is necessary to provide an adequate State and local response to financial crimes and financial crime-related activities in such area.
 
-(Added [Pub. L. 105–310, § 2(a)][/us/pl/105/310/s2/a], Oct. 30, 1998, [112 Stat. 2944][/us/stat/112/2944].)
+(Added [Pub. L. 105–310][/us/pl/105/310], § 2(a), Oct. 30, 1998, [112 Stat. 2944][/us/stat/112/2944].)
 
  __Report and Recommendations__ 
 
-[Pub. L. 105–310, § 2(c)][/us/pl/105/310/s2/c], Oct. 30, 1998, [112 Stat. 2949][/us/stat/112/2949], provided that: 
+[Pub. L. 105–310][/us/pl/105/310], § 2(c), Oct. 30, 1998, [112 Stat. 2949][/us/stat/112/2949], provided that: 
 
 > “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to [section 5341(a)(1) of title 31][/us/usc/t31/s5341/a/1], United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under [section 5342 of title 31][/us/usc/t31/s5342], United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
 
@@ -112,9 +112,9 @@
 ----------
 ----------
 
-[/us/pl/105/310/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fa
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2944
-[/us/pl/105/310/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fc
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2949
 [/us/usc/t31/s5341/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5341%2Fa%2F1
 [/us/usc/t31/s5342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5342

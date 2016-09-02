@@ -49,7 +49,7 @@
 
             (C) allowances and benefits, because of cost of living increases, provided under subsection (a) of this section.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(3)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439.)
 
 <table>
 
@@ -127,7 +127,7 @@ Nov. 8, 1978, Pub. L. 95–612, § 5, 92 Stat. 3092; Aug. 8, 1979, Pub. L. 96�
 
  __Study on Role of Gold in Domestic and International Monetary Systems; Establishment of Commission; Report to Congress; Availability of Appropriations__ 
 
-    [Pub. L. 96–389, § 10][/us/pl/96/389/s10], Oct. 7, 1980, [94 Stat. 1555][/us/stat/94/1555], as amended [Pub. L. 97–47, § 2][/us/pl/97/47/s2], Sept. 30, 1981, [95 Stat. 954][/us/stat/95/954], provided that the Secretary of the Treasury establish and chair a commission consisting of three members of the Board of Governors of the Federal Reserve System, two members of the Council of Economic Advisors, and four private citizens with business, finance, or academic backgrounds, to be designated by the Secretary, and one majority and one minority member each from the Joint Economic Committee, the Senate Committee on Banking, Housing, and Urban Affairs, and the House Committee on Banking, Finance and Urban Affairs to be designated by the Speaker of the House and the President of the Senate, respectively. The commission was to conduct a study to assess and make recommendations with regard to the policy of the United States Government concerning the role of gold in domestic and international monetary systems, and transmit to Congress a report containing its findings and recommendations not later than March 31, 1982. Sums appropriated pursuant to [section 5 of Public Law 95–612][/us/pl/95/612/s5] \[[Pub. L. 95–612, § 5][/us/pl/95/612/s5], Nov. 8, 1978, [92 Stat. 3092][/us/stat/92/3092], which was not classified to the Code\] were made available to the commission to carry out its functions.
+    [Pub. L. 96–389][/us/pl/96/389], § 10, Oct. 7, 1980, [94 Stat. 1555][/us/stat/94/1555], as amended [Pub. L. 97–47][/us/pl/97/47], § 2, Sept. 30, 1981, [95 Stat. 954][/us/stat/95/954], provided that the Secretary of the Treasury establish and chair a commission consisting of three members of the Board of Governors of the Federal Reserve System, two members of the Council of Economic Advisors, and four private citizens with business, finance, or academic backgrounds, to be designated by the Secretary, and one majority and one minority member each from the Joint Economic Committee, the Senate Committee on Banking, Housing, and Urban Affairs, and the House Committee on Banking, Finance and Urban Affairs to be designated by the Speaker of the House and the President of the Senate, respectively. The commission was to conduct a study to assess and make recommendations with regard to the policy of the United States Government concerning the role of gold in domestic and international monetary systems, and transmit to Congress a report containing its findings and recommendations not later than March 31, 1982. Sums appropriated pursuant to [section 5 of Public Law 95–612][/us/pl/95/612/s5] \[[Pub. L. 95–612][/us/pl/95/612], § 5, Nov. 8, 1978, [92 Stat. 3092][/us/stat/92/3092], which was not classified to the Code\] were made available to the commission to carry out its functions.
 
 ----------
 
@@ -139,18 +139,18 @@ Nov. 8, 1978, Pub. L. 95–612, § 5, 92 Stat. 3092; Aug. 8, 1979, Pub. L. 96�
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F882
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/96/389/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs10
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1555
-[/us/pl/97/47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F47%2Fs2
+[/us/pl/97/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F47
 [/us/stat/95/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F954
 [/us/pl/95/612/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F612%2Fs5
-[/us/pl/95/612/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F612%2Fs5
+[/us/pl/95/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F612
 [/us/stat/92/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3092
 
 

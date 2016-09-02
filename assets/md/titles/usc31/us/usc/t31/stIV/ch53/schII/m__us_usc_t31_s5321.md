@@ -133,7 +133,7 @@
 
             The terms and conditions authorized under subparagraph (A) may include, in the Secretary’s sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 98–473, title II, § 901(a)][/us/pl/98/473/s901/a], Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, [100 Stat. 3207–24][/us/stat/100/3207-24]—3207–26; [Pub. L. 100–690, title VI, § 6185(g)(2)][/us/pl/100/690/s6185/g/2], Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057], 4065, 4066, 4071; [Pub. L. 103–322, title XXXIII, § 330017(a)(1)][/us/pl/103/322/s330017/a/1], Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title IV][/us/pl/103/325], §§ 406, 411(b), 413(a)(1), Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], 2253, 2254; [Pub. L. 104–208, div. A, title II, § 2223(3)][/us/pl/104/208/s2223/3], Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415]; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, [115 Stat. 322][/us/stat/115/322], 332, 335; [Pub. L. 108–357, title VIII, § 821(a)][/us/pl/108/357/s821/a], Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 901(a), Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, [100 Stat. 3207–24][/us/stat/100/3207-24]—3207–26; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(g)(2), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], §§ 1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057], 4065, 4066, 4071; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330017(a)(1), Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], §§ 406, 411(b), 413(a)(1), Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], 2253, 2254; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2223(3), Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, [115 Stat. 322][/us/stat/115/322], 332, 335; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 821(a), Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586].)
 
 <table>
 
@@ -273,9 +273,9 @@ Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 S
 
     2001—Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56], §§ 353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or [section 123 of Public Law 91–508][/us/pl/91/508/s123],” after “sections 5314 and 5315)”.
 
-    Subsec. (a)(6). [Pub. L. 107–56, § 365(c)(2)(B)(i)][/us/pl/107/56/s365/c/2/B/i], inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+    Subsec. (a)(6). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
-    Subsec. (a)(7). [Pub. L. 107–56, § 363(a)][/us/pl/107/56/s363/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 107–56][/us/pl/107/56], § 363(a), added par. (7).
 
     1996—Subsec. (a)(7). [Pub. L. 104–208][/us/pl/104/208] struck out par. (7) which read as follows:
 
@@ -285,47 +285,47 @@ Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 S
 
     “(B) Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected.”
 
-    1994—Subsec. (a)(4)(A). [Pub. L. 103–325, § 411(b)][/us/pl/103/325/s411/b], struck out “willfully” before “violates”.
+    1994—Subsec. (a)(4)(A). [Pub. L. 103–325][/us/pl/103/325], § 411(b), struck out “willfully” before “violates”.
 
-    Subsec. (a)(5)(A). [Pub. L. 103–322, § 330017(a)(1)][/us/pl/103/322/s330017/a/1] and [Pub. L. 103–325, § 413(a)(1)][/us/pl/103/325/s413/a/1], amended subpar. (A) identically, inserting “any violation of” after “causing”.
+    Subsec. (a)(5)(A). [Pub. L. 103–322][/us/pl/103/322], § 330017(a)(1) and [Pub. L. 103–325][/us/pl/103/325], § 413(a)(1), amended subpar. (A) identically, inserting “any violation of” after “causing”.
 
-    Subsec. (e). [Pub. L. 103–325, § 406][/us/pl/103/325/s406], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–325][/us/pl/103/325], § 406, added subsec. (e).
 
-    1992—Subsec. (a)(4)(C). [Pub. L. 102–550, § 1525(b)][/us/pl/102/550/s1525/b], struck out “under section 5317(d)” after “forfeiture to the United States”.
+    1992—Subsec. (a)(4)(C). [Pub. L. 102–550][/us/pl/102/550], § 1525(b), struck out “under section 5317(d)” after “forfeiture to the United States”.
 
-    Subsec. (a)(5)(A). [Pub. L. 102–550, § 1535(a)(2)][/us/pl/102/550/s1535/a/2], inserted “or any person willfully causing” after “willfully violates”.
+    Subsec. (a)(5)(A). [Pub. L. 102–550][/us/pl/102/550], § 1535(a)(2), inserted “or any person willfully causing” after “willfully violates”.
 
-    Subsec. (a)(6). [Pub. L. 102–550, § 1561(a)][/us/pl/102/550/s1561/a], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Negligence.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.”
+    Subsec. (a)(6). [Pub. L. 102–550][/us/pl/102/550], § 1561(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Negligence.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.”
 
-    Subsec. (a)(7). [Pub. L. 102–550, § 1511(b)][/us/pl/102/550/s1511/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 102–550][/us/pl/102/550], § 1511(b), added par. (7).
 
     1988—Subsec. (a)(1). [Pub. L. 100–690][/us/pl/100/690] inserted “(if any)” after “transaction”.
 
     1986—Subsec. (a)(1). [Pub. L. 99–570][/us/pl/99/570], §§ 1356(c)(1), 1357(b), substituted “sections 5314 and 5315” for “section 5315” in two places, substituted “5318(a)(2)” for “5318(2)” in two places, and substituted “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000” for “$10,000”.
 
-    Subsec. (a)(4). [Pub. L. 99–570, § 1357(a)][/us/pl/99/570/s1357/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 99–570][/us/pl/99/570], § 1357(a), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 99–570, § 1357(c)][/us/pl/99/570/s1357/c], added par. (5).
+    Subsec. (a)(5). [Pub. L. 99–570][/us/pl/99/570], § 1357(c), added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 99–570, § 1357(d)][/us/pl/99/570/s1357/d], added par. (6).
+    Subsec. (a)(6). [Pub. L. 99–570][/us/pl/99/570], § 1357(d), added par. (6).
 
-    Subsec. (b). [Pub. L. 99–570, § 1357(e)][/us/pl/99/570/s1357/e], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may bring a civil action to recover a civil penalty under subsection (a)(1) or (2) of this section that has not been paid.”
+    Subsec. (b). [Pub. L. 99–570][/us/pl/99/570], § 1357(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may bring a civil action to recover a civil penalty under subsection (a)(1) or (2) of this section that has not been paid.”
 
-    Subsec. (c). [Pub. L. 99–570, § 1357(h)][/us/pl/99/570/s1357/h], substituted “subsection (c) or (d) of section 5317” for “section 5317(b)”.
+    Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 1357(h), substituted “subsection (c) or (d) of section 5317” for “section 5317(b)”.
 
-    Subsec. (d). [Pub. L. 99–570, § 1357(f)][/us/pl/99/570/s1357/f], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–570][/us/pl/99/570], § 1357(f), added subsec. (d).
 
     1984—Subsec. (a)(1). [Pub. L. 98–473][/us/pl/98/473] substituted “$10,000” for “$1,000”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 821(b)][/us/pl/108/357/s821/b], Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 821(b), Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to violations occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–550, title XV, § 1561(b)][/us/pl/102/550/s1561/b], Oct. 28, 1992, [106 Stat. 4072][/us/stat/106/4072], provided that: 
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1561(b), Oct. 28, 1992, [106 Stat. 4072][/us/stat/106/4072], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -333,7 +333,7 @@ Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 S
 
     Amendment by [section 1357(a) of Pub. L. 99–570][/us/pl/99/570/s1357/a], applicable with respect to violations committed after the end of the 3-month period beginning Oct. 27, 1986, see [section 1364(b) of Pub. L. 99–570][/us/pl/99/570/s1364/b], set out as a note under [section 5317 of this title][/us/usc/t31/s5317].
 
-[Pub. L. 99–570, title I, § 1364(c)][/us/pl/99/570/s1364/c], Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1364(c), Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
 
 > “The amendments made by section 1357 (other than subsection (a) of such section) \[amending sections 5321 and 5322 of this title\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 27, 1986\].”
 
@@ -353,23 +353,23 @@ Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 S
 [/us/usc/t31/s5317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5317
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F999
-[/us/pl/98/473/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2135
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-24
-[/us/pl/100/690/s6185/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fg%2F2
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4357
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4057
-[/us/pl/103/322/s330017/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330017%2Fa%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2149
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2247
-[/us/pl/104/208/s2223/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2223%2F3
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-415
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F322
-[/us/pl/108/357/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs821%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1586
 [/us/usc/t31/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5315
 [/us/pl/91/508/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs123
@@ -378,34 +378,34 @@ Sept. 21, 1973, Pub. L. 93–110, § 203(a), (b)(words after last comma), 87 S
 [/us/usc/t31/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5314
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/91/508/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs123
-[/us/pl/107/56/s365/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FB%2Fi
-[/us/pl/107/56/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs363%2Fa
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/325/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs411%2Fb
-[/us/pl/103/322/s330017/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330017%2Fa%2F1
-[/us/pl/103/325/s413/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs413%2Fa%2F1
-[/us/pl/103/325/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs406
-[/us/pl/102/550/s1525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1525%2Fb
-[/us/pl/102/550/s1535/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1535%2Fa%2F2
-[/us/pl/102/550/s1561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1561%2Fa
-[/us/pl/102/550/s1511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1511%2Fb
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/99/570/s1357/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fa
-[/us/pl/99/570/s1357/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fc
-[/us/pl/99/570/s1357/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fd
-[/us/pl/99/570/s1357/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fe
-[/us/pl/99/570/s1357/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fh
-[/us/pl/99/570/s1357/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Ff
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/108/357/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs821%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1586
-[/us/pl/102/550/s1561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1561%2Fb
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4072
 [/us/pl/99/570/s1357/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1357%2Fa
 [/us/pl/99/570/s1364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1364%2Fb
 [/us/usc/t31/s5317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5317
-[/us/pl/99/570/s1364/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1364%2Fc
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-34
 
 

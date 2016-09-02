@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–390, title II, § 225(b)(5)][/us/pl/102/390/s225/b/5], Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630], substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter heading.
+    1992—[Pub. L. 102–390, title II][/us/pl/102/390/tII], § 225(b)(5), Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630], substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/390/s225/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F5
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1630
 
 

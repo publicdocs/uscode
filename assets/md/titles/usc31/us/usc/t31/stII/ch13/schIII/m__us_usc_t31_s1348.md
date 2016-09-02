@@ -25,7 +25,7 @@
 
     (c) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 926][/us/stat/96/926]; [Pub. L. 98–407, title VIII, § 811(a)][/us/pl/98/407/s811/a], Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523]; [Pub. L. 104–201, div. A, title XVII, § 1721][/us/pl/104/201/s1721], Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 926][/us/stat/96/926]; [Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 811(a), Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1721, Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
 
 <table>
 
@@ -143,9 +143,9 @@ Sept. 22, 1922, ch. 427, § 7, 42 Stat. 1042; May 17, 1950, ch. 188, § 203,
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–201, § 1721(1)][/us/pl/104/201/s1721/1], struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
+    1996—Subsec. (a)(2). [Pub. L. 104–201][/us/pl/104/201], § 1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
 
-    Subsecs. (b) to (d). [Pub. L. 104–201, § 1721(2)][/us/pl/104/201/s1721/2], (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
+    Subsecs. (b) to (d). [Pub. L. 104–201][/us/pl/104/201], § 1721(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
 
     1984—Subsec. (d). [Pub. L. 98–407][/us/pl/98/407] added subsec. (d).
 
@@ -155,13 +155,13 @@ Sept. 22, 1922, ch. 427, § 7, 42 Stat. 1042; May 17, 1950, ch. 188, § 203,
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–407, title VIII, § 811(b)][/us/pl/98/407/s811/b], Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523], provided that: 
+[Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 811(b), Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
 
  __Employees Authorized To Work at Home__ 
 
-[Pub. L. 104–52, title VI, § 620][/us/pl/104/52/s620], Nov. 19, 1995, [109 Stat. 501][/us/stat/109/501], provided that: 
+[Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 620, Nov. 19, 1995, [109 Stat. 501][/us/stat/109/501], provided that: 
 
 > “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: Provided, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency’s mission.”
 
@@ -174,20 +174,20 @@ Sept. 22, 1922, ch. 427, § 7, 42 Stat. 1042; May 17, 1950, ch. 188, § 203,
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F926
-[/us/pl/98/407/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs811%2Fa
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1523
-[/us/pl/104/201/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1721
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2758
 [/us/usc/t31/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs679
-[/us/pl/104/201/s1721/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1721%2F1
-[/us/pl/104/201/s1721/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1721%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722
-[/us/pl/98/407/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs811%2Fb
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1523
-[/us/pl/104/52/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs620
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F501
 
 

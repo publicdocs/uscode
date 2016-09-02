@@ -19,7 +19,7 @@
 
     (b) Whoever shall violate any rule or regulation promulgated pursuant to subsection (a) shall be fined not more than $500 or imprisoned not more than 6 months, or both.
 
-(Added [Pub. L. 100–545, § 1][/us/pl/100/545/s1], Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728].)
+(Added [Pub. L. 100–545][/us/pl/100/545], § 1, Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545%2Fs1
+[/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
 [/us/stat/102/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2728
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702

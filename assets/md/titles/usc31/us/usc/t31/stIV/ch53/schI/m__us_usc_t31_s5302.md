@@ -149,7 +149,7 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
  __Mexican Debt Disclosure__ 
 
-[Pub. L. 104–6, title IV][/us/pl/104/6], Apr. 10, 1995, [109 Stat. 89][/us/stat/109/89], provided that:
+[Pub. L. 104–6, title IV][/us/pl/104/6/tIV], Apr. 10, 1995, [109 Stat. 89][/us/stat/109/89], provided that:
 
 > “SEC. 401. __SHORT TITLE.__ 
 
@@ -321,7 +321,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 [/us/usc/t22/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/104/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F6
+[/us/pl/104/6/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F6%2FtIV
 [/us/stat/109/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F89
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/usc/t31/s5302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302%2Fa%2F1

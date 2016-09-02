@@ -29,7 +29,7 @@
 
         (2) If an official making an apportionment decides that an apportionment would indicate a necessity for a deficiency or supplemental appropriation, the official shall submit immediately a detailed report of the facts to Congress. The report shall be referred to in submitting a proposed deficiency or supplemental appropriation.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 931][/us/stat/96/931]; [Pub. L. 100–202, § 105][/us/pl/100/202/s105], Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 931][/us/stat/96/931]; [Pub. L. 100–202][/us/pl/100/202], § 105, Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433].)
 
 <table>
 
@@ -130,7 +130,7 @@ R.S. § 3679(e)(2); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; F
 [/us/usc/t31/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1512
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F931
-[/us/pl/100/202/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs105
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-433
 [/us/usc/t5/s5102/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102%2Fc%2F7
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

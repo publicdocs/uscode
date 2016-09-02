@@ -143,7 +143,7 @@ June 16, 1921, ch. 23, § 1(last par. last sentence under heading “Office of
 
  __References in Text__ 
 
-    The First Liberty Bond Act, referred to in subsec. (a)(3), is [act Apr. 24, 1917, ch. 4][/us/act/1917-04-24/ch4], [40 Stat. 35][/us/stat/40/35], which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12][/us/usc/t12/s462a], Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The First Liberty Bond Act, referred to in subsec. (a)(3), is [act Apr. 24, 1917, ch. 4][/us/act/1917-04-24/ch4], [40 Stat. 35][/us/stat/40/35], which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12][/us/usc/t12/s462a], Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
 ----------
 
@@ -161,7 +161,7 @@ June 16, 1921, ch. 23, § 1(last par. last sentence under heading “Office of
 [/us/act/1917-04-24/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-04-24%2Fch4
 [/us/stat/40/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F35
 [/us/usc/t12/s462a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs462a
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 
 

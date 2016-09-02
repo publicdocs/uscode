@@ -189,7 +189,7 @@
 
     In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.), <sup>\[2\]</sup>  <sup><sup> 2 So in original. A second closing parenthesis probably should precede the comma. </sup></sup>  such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
-(Added [Pub. L. 107–56, title III, § 311(a)][/us/pl/107/56/s311/a], Oct. 26, 2001, [115 Stat. 298][/us/stat/115/298]; amended [Pub. L. 108–177, title III, § 376][/us/pl/108/177/s376], Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630]; [Pub. L. 108–458, title VI, § 6203(e)][/us/pl/108/458/s6203/e], (f), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–293, title V, § 501][/us/pl/109/293/s501], Sept. 30, 2006, [120 Stat. 1350][/us/stat/120/1350].)
+(Added [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 311(a), Oct. 26, 2001, [115 Stat. 298][/us/stat/115/298]; amended [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 376, Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(e), (f), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–293, title V][/us/pl/109/293/tV], § 501, Sept. 30, 2006, [120 Stat. 1350][/us/stat/120/1350].)
 
  __References in Text__ 
 
@@ -203,19 +203,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c)(2)(A)(i). [Pub. L. 109–293, § 501(1)][/us/pl/109/293/s501/1], substituted “or entities involved in the proliferation of weapons of mass destruction or missiles” for “or both,”.
+    2006—Subsec. (c)(2)(A)(i). [Pub. L. 109–293][/us/pl/109/293], § 501(1), substituted “or entities involved in the proliferation of weapons of mass destruction or missiles” for “or both,”.
 
-    Subsec. (c)(2)(B)(i). [Pub. L. 109–293, § 501(2)][/us/pl/109/293/s501/2], inserted “, including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles” before semicolon at end.
+    Subsec. (c)(2)(B)(i). [Pub. L. 109–293][/us/pl/109/293], § 501(2), inserted “, including any money laundering activity by organized criminal groups, international terrorists, or entities involved in the proliferation of weapons of mass destruction or missiles” before semicolon at end.
 
-    2004—[Pub. L. 108–458, § 6203(e)][/us/pl/108/458/s6203/e], amended section catchline generally. Prior to amendment, catchline read as follows: “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 6203(e), amended section catchline generally. Prior to amendment, catchline read as follows: “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
-    Subsec. (a)(4)(A). [Pub. L. 108–458, § 6203(f)(1)][/us/pl/108/458/s6203/f/1], substituted “(as defined in section 3 of the Federal Deposit Insurance Act)” for “, as defined in section 3 of the Federal Deposit Insurance Act,”.
+    Subsec. (a)(4)(A). [Pub. L. 108–458][/us/pl/108/458], § 6203(f)(1), substituted “(as defined in section 3 of the Federal Deposit Insurance Act)” for “, as defined in section 3 of the Federal Deposit Insurance Act,”.
 
-    Subsec. (a)(4)(B)(iii). [Pub. L. 108–458, § 6203(f)(2)][/us/pl/108/458/s6203/f/2], substituted “class of transactions, or type of account” for “or class of transactions”.
+    Subsec. (a)(4)(B)(iii). [Pub. L. 108–458][/us/pl/108/458], § 6203(f)(2), substituted “class of transactions, or type of account” for “or class of transactions”.
 
-    Subsec. (b)(1)(A). [Pub. L. 108–458, § 6203(f)(3)][/us/pl/108/458/s6203/f/3], substituted “class of transactions, or type of account to be” for “or class of transactions to be”.
+    Subsec. (b)(1)(A). [Pub. L. 108–458][/us/pl/108/458], § 6203(f)(3), substituted “class of transactions, or type of account to be” for “or class of transactions to be”.
 
-    Subsec. (e)(3). [Pub. L. 108–458, § 6203(f)(4)][/us/pl/108/458/s6203/f/4], inserted “or subsection (i) or (j) of section 5318” after “identification of individuals under this section”.
+    Subsec. (e)(3). [Pub. L. 108–458][/us/pl/108/458], § 6203(f)(4), inserted “or subsection (i) or (j) of section 5318” after “identification of individuals under this section”.
 
     2003—Subsec. (f). [Pub. L. 108–177][/us/pl/108/177] added subsec. (f).
 
@@ -234,25 +234,25 @@
 ----------
 ----------
 
-[/us/pl/107/56/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs311%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F298
-[/us/pl/108/177/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs376
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2630
-[/us/pl/108/458/s6203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fe
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
-[/us/pl/109/293/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs501
+[/us/pl/109/293/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtV
 [/us/stat/120/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1350
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s461/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FC
 [/us/usc/t15/s6809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6809
 [/us/pl/96/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1%2Fa
-[/us/pl/109/293/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs501%2F1
-[/us/pl/109/293/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs501%2F2
-[/us/pl/108/458/s6203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fe
-[/us/pl/108/458/s6203/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Ff%2F1
-[/us/pl/108/458/s6203/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Ff%2F2
-[/us/pl/108/458/s6203/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Ff%2F3
-[/us/pl/108/458/s6203/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Ff%2F4
+[/us/pl/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293
+[/us/pl/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

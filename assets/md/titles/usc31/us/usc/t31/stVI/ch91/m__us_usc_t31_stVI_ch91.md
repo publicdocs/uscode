@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–576, title III, § 306(b)][/us/pl/101/576/s306/b], Nov. 15, 1990, [104 Stat. 2854][/us/stat/104/2854], substituted “Management” for “Audit”.
+    1990—[Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 306(b), Nov. 15, 1990, [104 Stat. 2854][/us/stat/104/2854], substituted “Management” for “Audit”.
 
-    1986—[Pub. L. 99–571, title II, § 201(b)(2)][/us/pl/99/571/s201/b/2], Oct. 28, 1986, [100 Stat. 3224][/us/stat/100/3224], added item 9110.
+    1986—[Pub. L. 99–571, title II][/us/pl/99/571/tII], § 201(b)(2), Oct. 28, 1986, [100 Stat. 3224][/us/stat/100/3224], added item 9110.
 
 ----------
 
@@ -118,9 +118,9 @@
 ----------
 ----------
 
-[/us/pl/101/576/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs306%2Fb
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2854
-[/us/pl/99/571/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs201%2Fb%2F2
+[/us/pl/99/571/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtII
 [/us/stat/100/3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3224
 
 

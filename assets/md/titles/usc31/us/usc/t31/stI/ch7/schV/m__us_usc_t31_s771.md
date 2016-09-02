@@ -37,7 +37,7 @@
 
     (3) service as a Comptroller General equals the number of years and complete months an individual is Comptroller General.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 902][/us/stat/96/902]; [Pub. L. 100–426, title II, § 202][/us/pl/100/426/s202], Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 902][/us/stat/96/902]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 202, Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -105,11 +105,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(g), (p); added July 13, 1959, Pub. 
 
     2004—Par. (1)(C). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1988—Par. (1)(C). [Pub. L. 100–426, § 202(a)][/us/pl/100/426/s202/a], added subpar. (C).
+    1988—Par. (1)(C). [Pub. L. 100–426][/us/pl/100/426], § 202(a), added subpar. (C).
 
-    Par. (2)(A). [Pub. L. 100–426, § 202(b)(1)][/us/pl/100/426/s202/b/1], substituted “1 year” for “2 years”.
+    Par. (2)(A). [Pub. L. 100–426][/us/pl/100/426], § 202(b)(1), substituted “1 year” for “2 years”.
 
-    Par. (2)(B). [Pub. L. 100–426, § 202(b)(2)][/us/pl/100/426/s202/b/2], inserted “before age 55” after “remarried”.
+    Par. (2)(B). [Pub. L. 100–426][/us/pl/100/426], § 202(b)(2), inserted “before age 55” after “remarried”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -124,14 +124,14 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(g), (p); added July 13, 1959, Pub. 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F902
-[/us/pl/100/426/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs202
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1600
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/426/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs202%2Fa
-[/us/pl/100/426/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs202%2Fb%2F1
-[/us/pl/100/426/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs202%2Fb%2F2
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs208
 [/us/usc/t31/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs772

@@ -37,7 +37,7 @@
 
         Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to [section 981(a)(1)(A) of title 18][/us/usc/t18/s981/a/1/A], United States Code.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 998][/us/stat/96/998]; [Pub. L. 98–473, title II, § 901(d)][/us/pl/98/473/s901/d], Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I, § 1355][/us/pl/99/570/s1355], Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22]; [Pub. L. 102–550, title XV, § 1525(c)(2)][/us/pl/102/550/s1525/c/2], Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 365(b)(2)(B), 372(a), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], 338.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 998][/us/stat/96/998]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 901(d), Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1355, Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1525(c)(2), Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 365(b)(2)(B), 372(a), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], 338.)
 
 <table>
 
@@ -107,21 +107,21 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 232, 235, 84 Stat. 1123.  </td>
 
  __Amendments__ 
 
-    2001—Subsec. (c). [Pub. L. 107–56, § 372(a)][/us/pl/107/56/s372/a], inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
+    2001—Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 372(a), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
 
-    [Pub. L. 107–56, § 365(b)(2)(B)][/us/pl/107/56/s365/b/2/B], substituted “section 5324(c)” for “section 5324(b)”.
+    [Pub. L. 107–56][/us/pl/107/56], § 365(b)(2)(B), substituted “section 5324(c)” for “section 5324(b)”.
 
     1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550] inserted after first sentence “Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(b), or any property traceable to such property, may be seized and forfeited to the United States Government.”
 
-    1986—Subsec. (b). [Pub. L. 99–570, § 1355(a)][/us/pl/99/570/s1355/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of [section 5316 of this title][/us/usc/t31/s5316].”
+    1986—Subsec. (b). [Pub. L. 99–570][/us/pl/99/570], § 1355(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of [section 5316 of this title][/us/usc/t31/s5316].”
 
-    Subsec. (c). [Pub. L. 99–570, § 1355(b)][/us/pl/99/570/s1355/b], amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under [section 5316 of this title][/us/usc/t31/s5316] has not been filed or contains a material omission or misstatement.”
+    Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under [section 5316 of this title][/us/usc/t31/s5316] has not been filed or contains a material omission or misstatement.”
 
-    1984—Subsecs. (b), (c). [Pub. L. 98–473, § 901][/us/pl/98/473/s901], added subsec. (b) and redesignated former subsec. (b) as (c).
+    1984—Subsecs. (b), (c). [Pub. L. 98–473][/us/pl/98/473], § 901, added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1364(b)][/us/pl/99/570/s1364/b], Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1364(b), Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
 
 > “The amendments made by sections 1355(b) and 1357(a) \[amending this section and [section 5321 of this title][/us/usc/t31/s5321]\] shall apply with respect to violations committed after the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
 
@@ -136,24 +136,24 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 232, 235, 84 Stat. 1123.  </td>
 [/us/usc/t18/s981/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs981%2Fa%2F1%2FA
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F998
-[/us/pl/98/473/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2135
-[/us/pl/99/570/s1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1355
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-22
-[/us/pl/102/550/s1525/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1525%2Fc%2F2
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4065
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F335
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/107/56/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs372%2Fa
-[/us/pl/107/56/s365/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fb%2F2%2FB
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/99/570/s1355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1355%2Fa
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t31/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5316
-[/us/pl/99/570/s1355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1355%2Fb
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t31/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5316
-[/us/pl/98/473/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901
-[/us/pl/99/570/s1364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1364%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-34
 [/us/usc/t31/s5321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5321
 

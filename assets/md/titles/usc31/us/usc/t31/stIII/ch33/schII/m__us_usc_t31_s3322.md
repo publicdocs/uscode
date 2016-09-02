@@ -51,7 +51,7 @@
 
             (B) an equalization or other agreement.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 950][/us/stat/96/950]; [Pub. L. 98–216, § 1(3)][/us/pl/98/216/s1/3], Feb. 14, 1984, [98 Stat. 3][/us/stat/98/3]; [Pub. L. 104–134, title III, § 31001(g)(1)(A)][/us/pl/104/134/s31001/g/1/A], Apr. 26, 1996, [110 Stat. 1321–363][/us/stat/110/1321-363]; [Pub. L. 105–264, § 3(a)(1)][/us/pl/105/264/s3/a/1], Oct. 19, 1998, [112 Stat. 2352][/us/stat/112/2352].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 950][/us/stat/96/950]; [Pub. L. 98–216][/us/pl/98/216], § 1(3), Feb. 14, 1984, [98 Stat. 3][/us/stat/98/3]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(g)(1)(A), Apr. 26, 1996, [110 Stat. 1321–363][/us/stat/110/1321-363]; [Pub. L. 105–264][/us/pl/105/264], § 3(a)(1), Oct. 19, 1998, [112 Stat. 2352][/us/stat/112/2352].)
 
 <table>
 
@@ -147,13 +147,13 @@ June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306.  </td>
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–264, § 3(b)][/us/pl/105/264/s3/b], Oct. 19, 1998, [112 Stat. 2354][/us/stat/112/2354], provided that: 
+[Pub. L. 105–264][/us/pl/105/264], § 3(b), Oct. 19, 1998, [112 Stat. 2354][/us/stat/112/2354], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3528 and 3726 of this title\] shall become effective 18 months after the date of the enactment of this Act \[Oct. 19, 1998\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–134, title III, § 31001(a)(2)(A)][/us/pl/104/134/s31001/a/2/A], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(a)(2)(A), Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
 
 > “The provisions of this section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, [section 5514 of Title 5][/us/usc/t5/s5514], Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and [section 2461 of Title 28][/us/usc/t28/s2461], Judiciary and Judicial Procedure, amending provisions set out as notes under [section 7701 of this title][/us/usc/t31/s7701] and [section 2461 of Title 28][/us/usc/t28/s2461], and repealing provisions set out as notes under [section 3718 of this title][/us/usc/t31/s3718]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 26, 1996\].”
 
@@ -173,11 +173,11 @@ June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306.  </td>
 [/us/usc/t31/s3726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F950
-[/us/pl/98/216/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F3
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3
-[/us/pl/104/134/s31001/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fg%2F1%2FA
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-363
-[/us/pl/105/264/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F1
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2352
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
@@ -192,9 +192,9 @@ June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306.  </td>
 [/us/usc/t31/s3720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720A
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
-[/us/pl/105/264/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fb
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2354
-[/us/pl/104/134/s31001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fa%2F2%2FA
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461

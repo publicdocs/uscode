@@ -31,11 +31,11 @@
 
     A judgment of a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254], United States Code.
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1878][/us/stat/108/1878].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1878][/us/stat/108/1878].)
 
  __Prior Provisions__ 
 
-    A prior section 6717, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1025][/us/stat/96/1025]; [Pub. L. 98–185][/us/pl/98/185], §§ 7, 9(h), Nov. 30, 1983, [97 Stat. 1310][/us/stat/97/1310], 1312, related to discrimination proceedings, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6717, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1025][/us/stat/96/1025]; [Pub. L. 98–185][/us/pl/98/185], §§ 7, 9(h), Nov. 30, 1983, [97 Stat. 1310][/us/stat/97/1310], 1312, related to discrimination proceedings, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
 ----------
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1878
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1025
 [/us/pl/98/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185
 [/us/stat/97/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1310
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 
 

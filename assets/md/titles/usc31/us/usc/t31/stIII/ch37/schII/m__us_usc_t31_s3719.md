@@ -41,7 +41,7 @@
 
     (b) The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
 
-(Added [Pub. L. 97–452, § 1(16)(A)][/us/pl/97/452/s1/16/A], Jan. 12, 1983, [96 Stat. 2473][/us/stat/96/2473]; amended [Pub. L. 104–134, title III, § 31001(aa)(3)][/us/pl/104/134/s31001/aa/3], Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(16)(A), Jan. 12, 1983, [96 Stat. 2473][/us/stat/96/2473]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(aa)(3), Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].)
 
 <table>
 
@@ -107,11 +107,11 @@ Oct. 25, 1982, Pub. L. 97–365, § 12, 96 Stat. 1756.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001(aa)(3)(A)(i)][/us/pl/104/134/s31001/aa/3/A/i], amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
 
-    Subsec. (a)(3). [Pub. L. 104–134, § 31001(aa)(3)(A)(ii)][/us/pl/104/134/s31001/aa/3/A/ii], substituted “Secretary” for “Director”.
+    Subsec. (a)(3). [Pub. L. 104–134][/us/pl/104/134], § 31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
 
-    Subsec. (b). [Pub. L. 104–134, § 31001(aa)(3)(B)][/us/pl/104/134/s31001/aa/3/B], which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
+    Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 31001(aa)(3)(B), which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
 
  __Termination of Reporting Requirements__ 
 
@@ -119,7 +119,7 @@ Oct. 25, 1982, Pub. L. 97–365, § 12, 96 Stat. 1756.  </td>
 
  __Consolidation of Reports__ 
 
-[Pub. L. 104–134, title III, § 31001(aa)(4)][/us/pl/104/134/s31001/aa/4], Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(aa)(4), Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
 
@@ -130,17 +130,17 @@ Oct. 25, 1982, Pub. L. 97–365, § 12, 96 Stat. 1756.  </td>
 ----------
 ----------
 
-[/us/pl/97/452/s1/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F16%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2473
-[/us/pl/104/134/s31001/aa/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F3
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-380
-[/us/pl/104/134/s31001/aa/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F3%2FA%2Fi
-[/us/pl/104/134/s31001/aa/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F3%2FA%2Fii
-[/us/pl/104/134/s31001/aa/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F3%2FB
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/104/134/s31001/aa/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Faa%2F4
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-380
 
 

@@ -65,11 +65,11 @@
 
             (B) permit assessment, by the Congress and by managers within the Department, of the Department’s performance in executing such strategy.
 
-(Added [Pub. L. 106–531, § 3(a)][/us/pl/106/531/s3/a], Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537]; amended [Pub. L. 108–330, § 4(a)][/us/pl/108/330/s4/a], Oct. 16, 2004, [118 Stat. 1277][/us/stat/118/1277].)
+(Added [Pub. L. 106–531][/us/pl/106/531], § 3(a), Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537]; amended [Pub. L. 108–330][/us/pl/108/330], § 4(a), Oct. 16, 2004, [118 Stat. 1277][/us/stat/118/1277].)
 
  __References in Text__ 
 
-    [Section 2222 of title 10][/us/usc/t10/s2222], referred to in subsec. (a)(2)(B)(i), was repealed by [Pub. L. 107–314, div. A, title X, § 1004(h)(1)][/us/pl/107/314/s1004/h/1], Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].
+    [Section 2222 of title 10][/us/usc/t10/s2222], referred to in subsec. (a)(2)(B)(i), was repealed by [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1004(h)(1), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].
 
     Section 874(b)(2) of the Homeland Security Act of 2002, referred to in subsec. (f)(3)(A), is classified to [section 454(b)(2) of Title 6][/us/usc/t6/s454/b/2], Domestic Security.
 
@@ -121,7 +121,7 @@
 
  __Audit Opinion and Internal Controls by Secretary of Homeland Security__ 
 
-[Pub. L. 108–330, § 4(b)][/us/pl/108/330/s4/b], (c), Oct. 16, 2004, [118 Stat. 1277][/us/stat/118/1277], provided that:
+[Pub. L. 108–330][/us/pl/108/330], § 4(b), (c), Oct. 16, 2004, [118 Stat. 1277][/us/stat/118/1277], provided that:
 
 >     “(b)  __Implementation of Audit Opinion Requirement__  __.—__ 
 
@@ -133,7 +133,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 106–531, § 2][/us/pl/106/531/s2], Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537], provided that:
+[Pub. L. 106–531][/us/pl/106/531], § 2, Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Special Rule for Fiscal Years 2000 and 2001__ 
 
-[Pub. L. 106–531, § 3(b)][/us/pl/106/531/s3/b], Nov. 22, 2000, [114 Stat. 2538][/us/stat/114/2538], provided that: 
+[Pub. L. 106–531][/us/pl/106/531], § 3(b), Nov. 22, 2000, [114 Stat. 2538][/us/stat/114/2538], provided that: 
 
 > “Notwithstanding paragraph (1) of [section 3516(a) of title 31][/us/usc/t31/s3516/a], United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency’s fiscal year, with respect to fiscal years 2000 and 2001.”
 
@@ -172,12 +172,12 @@
 
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
-[/us/pl/106/531/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs3%2Fa
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2537
-[/us/pl/108/330/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs4%2Fa
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1277
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/107/314/s1004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
 [/us/usc/t6/s454/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs454%2Fb%2F2
 [/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
@@ -191,14 +191,14 @@
 [/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1275
 [/us/usc/t31/s902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs902%2Fa%2F6
-[/us/pl/108/330/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs4%2Fb
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1277
 [/us/usc/t31/s3516/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3516%2Ff
 [/us/usc/t31/s3516/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3516%2Ff
-[/us/pl/106/531/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs2
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2537
 [/us/usc/t31/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3501
-[/us/pl/106/531/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs3%2Fb
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2538
 [/us/usc/t31/s3516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3516%2Fa
 

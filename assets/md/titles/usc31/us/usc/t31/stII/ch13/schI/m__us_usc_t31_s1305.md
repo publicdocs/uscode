@@ -45,7 +45,7 @@ homeownership and rental housing assistance
 
     (10) to make payments required under contracts under sections 235 and 236, respectively, of the National Housing Act, as amended ([12 U.S.C. 1715z][/us/usc/t12/s1715z], 1715z–1).
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 918][/us/stat/96/918]; [Pub. L. 97–452, § 1(4)][/us/pl/97/452/s1/4], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–371, title I, § 101][/us/pl/98/371/s101], July 18, 1984, [98 Stat. 1220][/us/stat/98/1220].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 918][/us/stat/96/918]; [Pub. L. 97–452][/us/pl/97/452], § 1(4), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–371, title I][/us/pl/98/371/tI], § 101, July 18, 1984, [98 Stat. 1220][/us/stat/98/1220].)
 
 <table>
 
@@ -131,7 +131,7 @@ R.S. § 3689(less last 3 pars. on p. 725 related to redemption of stamps, debe
 
     Section 103(b) of the Housing Act of 1949 ([42 U.S.C. 1453(b)][/us/usc/t42/s1453/b]), referred to in par. (5), was omitted from the Code pursuant to [section 5316 of Title 42][/us/usc/t42/s5316], The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act ([42 U.S.C. 1450][/us/usc/t42/s1450] et seq.) after Jan. 1, 1975.
 
-    The Housing Act of 1950, referred to in par. (8), is [act Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], [64 Stat. 48][/us/stat/64/48], as amended. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by [Pub. L. 99–498, title VII, § 702][/us/pl/99/498/s702], Oct. 17, 1986, [100 Stat. 1545][/us/stat/100/1545]. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
+    The Housing Act of 1950, referred to in par. (8), is [act Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], [64 Stat. 48][/us/stat/64/48], as amended. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by [Pub. L. 99–498, title VII][/us/pl/99/498/tVII], § 702, Oct. 17, 1986, [100 Stat. 1545][/us/stat/100/1545]. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
     Section 101 of the Housing and Urban Development Act of 1965, as amended, referred to in par. (9), is [section 101 of Pub. L. 89–117][/us/pl/89/117/s101], title I, Aug. 10, 1965, [79 Stat. 451][/us/stat/79/451], which enacted [section 1701s of Title 12][/us/usc/t12/s1701s], and amended sections 1451 and 1465 of this title.
 
@@ -157,9 +157,9 @@ R.S. § 3689(less last 3 pars. on p. 725 related to redemption of stamps, debe
 [/us/usc/t12/s1715z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F918
-[/us/pl/97/452/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F4
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
-[/us/pl/98/371/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2Fs101
+[/us/pl/98/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F371%2FtI
 [/us/stat/98/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1220
 [/us/stat/18/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F109
 [/us/act/1930-12-16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-12-16%2Fs1
@@ -176,7 +176,7 @@ R.S. § 3689(less last 3 pars. on p. 725 related to redemption of stamps, debe
 [/us/usc/t42/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1450
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F48
-[/us/pl/99/498/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs702
+[/us/pl/99/498/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVII
 [/us/stat/100/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1545
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/pl/89/117/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs101

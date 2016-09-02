@@ -249,7 +249,7 @@
 
     (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under [section 3802 of this title][/us/usc/t31/s3802] against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1939][/us/stat/100/1939]; amended [Pub. L. 103–448, title II, § 204(w)(2)(C)][/us/pl/103/448/s204/w/2/C], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](o), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 106–78, title VII, § 752(b)(13)][/us/pl/106/78/s752/b/13], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1110; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1871; [Pub. L. 113–79, title IV, § 4030][/us/pl/113/79/s4030](o), Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
+(Added [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(a), Oct. 21, 1986, [100 Stat. 1939][/us/stat/100/1939]; amended [Pub. L. 103–448, title II][/us/pl/103/448/tII], § 204(w)(2)(C), Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(o), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(13), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1110; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1871; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(o), Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
 
  __References in Text__ 
 
@@ -263,7 +263,7 @@
 
     Section 336 of the Older Americans Act, referred to in subsec. (c)(2)(C)(xi), probably means section 336 of the Older Americans Act of 1965, which is classified to [section 3030f of Title 42][/us/usc/t42/s3030f].
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
@@ -279,9 +279,9 @@
 
     2014—Subsec. (c)(2)(C)(vii). [Pub. L. 113–79][/us/pl/113/79] substituted “section 3” for “section 3(l)”.
 
-    2008—Subsec. (c)(2)(C)(vii). [Pub. L. 110–246, § 4115(c)(2)(E)][/us/pl/110/246/s4115/c/2/E], substituted “section 3(l)” for “section 3(h)”.
+    2008—Subsec. (c)(2)(C)(vii). [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(2)(E), substituted “section 3(l)” for “section 3(h)”.
 
-    [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
     1999—Subsec. (c)(2)(C)(xiii). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -333,19 +333,19 @@
 [/us/usc/t31/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3802
 [/us/usc/t31/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3805
 [/us/usc/t31/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3802
-[/us/pl/99/509/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1939
-[/us/pl/103/448/s204/w/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs204%2Fw%2F2%2FC
+[/us/pl/103/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtII
 [/us/stat/108/4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4746
-[/us/pl/104/193/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2175
-[/us/pl/106/78/s752/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F13
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F815
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -358,7 +358,7 @@
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
 [/us/usc/t42/s3030f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030f
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
@@ -376,8 +376,8 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s4115/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FE
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/103/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448

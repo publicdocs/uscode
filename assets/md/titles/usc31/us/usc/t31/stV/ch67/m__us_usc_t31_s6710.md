@@ -61,11 +61,11 @@
 
     If the Secretary is satisfied that a unit of general local government will provide adequate notice of the proposed use of a payment received under this chapter, the 10-day period under subsection (b)(1) may be changed to the extent necessary to comply with applicable State or local law.
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1873][/us/stat/108/1873].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1873][/us/stat/108/1873].)
 
  __Prior Provisions__ 
 
-    A prior section 6710, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1020][/us/stat/96/1020], related to separate law enforcement officer allocations for Louisiana, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6710, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1020][/us/stat/96/1020], related to separate law enforcement officer allocations for Louisiana, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
 ----------
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1873
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1020
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 
 

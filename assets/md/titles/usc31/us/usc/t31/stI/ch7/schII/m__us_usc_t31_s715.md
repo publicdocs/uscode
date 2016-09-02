@@ -29,7 +29,7 @@
 
     (e) Not later than March 1 of each year, the Comptroller General shall submit to the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate a review of the report of the breakdown of the independently audited revenues of the District of Columbia for the preceding fiscal year by revenues derived from the Federal Government and revenues derived from sources other than the Federal Government that is included in the independent annual audit of the funds of the District of Columbia conducted for such fiscal year.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 891][/us/stat/96/891]; [Pub. L. 102–102, § 2(c)(2)][/us/pl/102/102/s2/c/2], Aug. 17, 1991, [105 Stat. 496][/us/stat/105/496]; [Pub. L. 105–33, title XI][/us/pl/105/33], §§ 11244(b), 11717(b), Aug. 5, 1997, [111 Stat. 754][/us/stat/111/754], 786.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 891][/us/stat/96/891]; [Pub. L. 102–102][/us/pl/102/102], § 2(c)(2), Aug. 17, 1991, [105 Stat. 496][/us/stat/105/496]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], §§ 11244(b), 11717(b), Aug. 5, 1997, [111 Stat. 754][/us/stat/111/754], 786.)
 
 <table>
 
@@ -141,9 +141,9 @@ Dec. 24, 1973, Pub. L. 93–198, § 736, 87 Stat. 823.  </td>
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 11717(b)][/us/pl/105/33/s11717/b], substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-    Subsec. (b). [Pub. L. 105–33, § 11244(b)][/us/pl/105/33/s11244/b], substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
+    Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
 
     1991—Subsec. (e). [Pub. L. 102–102][/us/pl/102/102] added subsec. (e).
 
@@ -157,7 +157,7 @@ Dec. 24, 1973, Pub. L. 93–198, § 736, 87 Stat. 823.  </td>
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–102, § 2(e)][/us/pl/102/102/s2/e], Aug. 17, 1991, [105 Stat. 496][/us/stat/105/496], provided that: 
+[Pub. L. 102–102][/us/pl/102/102], § 2(e), Aug. 17, 1991, [105 Stat. 496][/us/stat/105/496], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 1991\].”
 
@@ -180,18 +180,18 @@ Dec. 24, 1973, Pub. L. 93–198, § 736, 87 Stat. 823.  </td>
 [/us/stat/87/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F803
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F891
-[/us/pl/102/102/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F102%2Fs2%2Fc%2F2
+[/us/pl/102/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F102
 [/us/stat/105/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F496
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F754
-[/us/pl/105/33/s11717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11717%2Fb
-[/us/pl/105/33/s11244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11244%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/102/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F102
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s11721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11721
 [/us/usc/t18/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4246
-[/us/pl/102/102/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F102%2Fs2%2Fe
+[/us/pl/102/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F102
 [/us/stat/105/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F496
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

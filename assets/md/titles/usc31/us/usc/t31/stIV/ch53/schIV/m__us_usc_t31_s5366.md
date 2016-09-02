@@ -23,7 +23,7 @@
 
     Upon conviction of a person under this section, the court may enter a permanent injunction enjoining such person from placing, receiving, or otherwise making bets or wagers or sending, receiving, or inviting information assisting in the placing of bets or wagers.
 
-(Added [Pub. L. 109–347, title VIII, § 802(a)][/us/pl/109/347/s802/a], Oct. 13, 2006, [120 Stat. 1961][/us/stat/120/1961].)
+(Added [Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(a), Oct. 13, 2006, [120 Stat. 1961][/us/stat/120/1961].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fa
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1961
 
 

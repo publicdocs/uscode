@@ -419,17 +419,17 @@ SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, div. H, title I, § 1401(a)(2)][/us/pl/113/235/s1401/a/2], Dec. 16, 2014, [128 Stat. 2541][/us/stat/128/2541], added subchapter VII heading and items 791 to 793.
+    2014—[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1401(a)(2), Dec. 16, 2014, [128 Stat. 2541][/us/stat/128/2541], added subchapter VII heading and items 791 to 793.
 
-    2008—[Pub. L. 110–323, § 5(c)][/us/pl/110/323/s5/c], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], added item 705.
+    2008—[Pub. L. 110–323][/us/pl/110/323], § 5(c), Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], added item 705.
 
-    2004—[Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
+    2004—[Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
 
-    2000—[Pub. L. 106–303, § 4(a)(3)][/us/pl/106/303/s4/a/3], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069], added item 732a.
+    2000—[Pub. L. 106–303][/us/pl/106/303], § 4(a)(3), Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069], added item 732a.
 
-    1994—[Pub. L. 103–272, § 4(f)(1)(C)][/us/pl/103/272/s4/f/1/C], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], struck out “Sec.” immediately above item 781.
+    1994—[Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(C), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], struck out “Sec.” immediately above item 781.
 
-    1988—[Pub. L. 100–545, § 2(a)][/us/pl/100/545/s2/a], Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728], added subchapter VI heading and items 781 to 783.
+    1988—[Pub. L. 100–545][/us/pl/100/545], § 2(a), Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728], added subchapter VI heading and items 781 to 783.
 
 ----------
 
@@ -438,17 +438,17 @@ SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE  </td>
 ----------
 ----------
 
-[/us/pl/113/235/s1401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1401%2Fa%2F2
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2541
-[/us/pl/110/323/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs5%2Fc
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/106/303/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs4%2Fa%2F3
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1069
-[/us/pl/103/272/s4/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FC
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/100/545/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545%2Fs2%2Fa
+[/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
 [/us/stat/102/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2728
 
 

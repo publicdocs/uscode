@@ -241,9 +241,9 @@ Amendments  </td>
 
 </table>
 
-    2011—[Pub. L. 112–25, title III, § 301(b)][/us/pl/112/25/s301/b], Aug. 2, 2011, [125 Stat. 255][/us/stat/125/255], added item 3101A.
+    2011—[Pub. L. 112–25, title III][/us/pl/112/25/tIII], § 301(b), Aug. 2, 2011, [125 Stat. 255][/us/stat/125/255], added item 3101A.
 
-    1993—[Pub. L. 103–202, title II, § 201(b)][/us/pl/103/202/s201/b], Dec. 17, 1993, [107 Stat. 2356][/us/stat/107/2356], added item 3130.
+    1993—[Pub. L. 103–202, title II][/us/pl/103/202/tII], § 201(b), Dec. 17, 1993, [107 Stat. 2356][/us/stat/107/2356], added item 3130.
 
 ----------
 
@@ -252,9 +252,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/112/25/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs301%2Fb
+[/us/pl/112/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtIII
 [/us/stat/125/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F255
-[/us/pl/103/202/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs201%2Fb
+[/us/pl/103/202/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtII
 [/us/stat/107/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2356
 
 

@@ -39,7 +39,7 @@
 
         (3) A judgment or order of a court entered or made after service of process under this section is as valid as if the corporation were served in the judicial district of the court.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1048][/us/stat/96/1048]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5007\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1048][/us/stat/96/1048]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5007\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594.)
 
 <table>
 
@@ -95,7 +95,7 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5007(1)\], substituted “has a resident agent for service of process for that district. The resident agent—” and pars. (1) and (2) for “designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5007(1)\], substituted “has a resident agent for service of process for that district. The resident agent—” and pars. (1) and (2) for “designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
 
     “(1) may appear for the surety corporation;
 
@@ -105,7 +105,7 @@ Source (Statutes at Large)  </td>
 
     “(4) must be a domiciliary of the State, the District of Columbia, territory, or possession in which the court sits.”
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5007(2)\], substituted “If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the” for “The”.
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5007(2)\], substituted “If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the” for “The”.
 
 ----------
 
@@ -118,9 +118,9 @@ Source (Statutes at Large)  </td>
 [/us/usc/t31/s9307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9307
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1048
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 
 

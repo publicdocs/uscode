@@ -57,7 +57,7 @@
 
         (7) depository designated by the Administrator.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1002][/us/stat/96/1002]; [Pub. L. 98–169, § 1(2)][/us/pl/98/169/s1/2], 3(e), 4, Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113], 1114.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1002][/us/stat/96/1002]; [Pub. L. 98–169][/us/pl/98/169], § 1(2), 3(e), 4, Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113], 1114.)
 
 <table>
 
@@ -153,15 +153,15 @@ Dec. 28, 1977, Pub. L. 95–220, § 6, 91 Stat. 1616.  </td>
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–169, § 4][/us/pl/98/169/s4], substituted “Administrator” for “Director”.
+    1983—Subsec. (a). [Pub. L. 98–169][/us/pl/98/169], § 4, substituted “Administrator” for “Director”.
 
-    [Pub. L. 98–169, § 1(2)][/us/pl/98/169/s1/2], substituted “Director” for “Director of the Office of Management and Budget”.
+    [Pub. L. 98–169][/us/pl/98/169], § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-    Subsec. (b). [Pub. L. 98–169, § 4][/us/pl/98/169/s4], substituted “Administrator” for “Director” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–169][/us/pl/98/169], § 4, substituted “Administrator” for “Director” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 98–169, § 3(e)][/us/pl/98/169/s3/e], amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under [section 6102(a) of this title][/us/usc/t31/s6102/a] at the time the catalog was prepared.
+    Subsec. (b)(1). [Pub. L. 98–169][/us/pl/98/169], § 3(e), amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under [section 6102(a) of this title][/us/usc/t31/s6102/a] at the time the catalog was prepared.
 
-    Subsecs. (b)(2), (c), (d). [Pub. L. 98–169, § 4][/us/pl/98/169/s4], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (b)(2), (c), (d). [Pub. L. 98–169][/us/pl/98/169], § 4, substituted “Administrator” for “Director” wherever appearing.
 
 ----------
 
@@ -174,14 +174,14 @@ Dec. 28, 1977, Pub. L. 95–220, § 6, 91 Stat. 1616.  </td>
 [/us/usc/t31/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1002
-[/us/pl/98/169/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F2
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1113
 [/us/usc/t31/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102%2Fa
-[/us/pl/98/169/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs4
-[/us/pl/98/169/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F2
-[/us/pl/98/169/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs4
-[/us/pl/98/169/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fe
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/usc/t31/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102%2Fa
-[/us/pl/98/169/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs4
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 
 

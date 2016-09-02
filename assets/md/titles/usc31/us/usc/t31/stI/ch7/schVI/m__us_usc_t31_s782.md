@@ -17,7 +17,7 @@
 
     The Comptroller General is authorized to lease or otherwise provide space and services within the General Accounting Office Building  <sup>\[1\]</sup>  <sup><sup> 1 See Change of Name note below. </sup></sup>  to persons, both public and private, or to any department, agency or instrumentality of the United States Government upon such terms and conditions as the Comptroller General deems necessary to protect the public interest. The Comptroller General shall establish a rental rate for such leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the General Accounting Office Building. <sup>\[1\]</sup>  Additionally, the Comptroller General may make available, on occasion, or may lease at such rates and on such other terms and conditions as the Comptroller General deems to be in the public interest, auditoriums, meeting rooms, and lobbies of the General Accounting Office Building  <sup>\[1\]</sup>  to persons, firms, or organizations engaged in cultural, educational, or recreational activities (as defined in [section 3306(a) of title 40][/us/usc/t40/s3306/a]). The Comptroller General will consult with the Administrator of General Services and will give priority to Federal agencies in filling available space within the General Accounting Office Building. <sup>\[1\]</sup>  Payments for space or services may be made in advance or by way of reimbursement and shall be deposited to a special account and shall be available for expenditure for operation, maintenance, protection, alteration, or repair of the General Accounting Office Building  <sup>\[1\]</sup>  in such amounts as are specified in annual appropriation Acts without regard to fiscal year limitations.
 
-(Added [Pub. L. 100–545, § 1][/us/pl/100/545/s1], Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728]; amended [Pub. L. 103–272, § 4(f)(1)(D)][/us/pl/103/272/s4/f/1/D], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 107–217, § 3(h)(2)][/us/pl/107/217/s3/h/2], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
+(Added [Pub. L. 100–545][/us/pl/100/545], § 1, Oct. 28, 1988, [102 Stat. 2728][/us/stat/102/2728]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(D), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(2), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Payments of Reimbursements Incident to Operation of General Accounting Office Building__ 
 
-    [Pub. L. 101–520, title II][/us/pl/101/520], Nov. 5, 1990, [104 Stat. 2275][/us/stat/104/2275], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided in part that “notwithstanding the provisions of [section 782 of title 31][/us/usc/t31/s782], United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
+    [Pub. L. 101–520, title II][/us/pl/101/520/tII], Nov. 5, 1990, [104 Stat. 2275][/us/stat/104/2275], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided in part that “notwithstanding the provisions of [section 782 of title 31][/us/usc/t31/s782], United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t40/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa
-[/us/pl/100/545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545%2Fs1
+[/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
 [/us/stat/102/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2728
-[/us/pl/103/272/s4/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FD
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/107/217/s3/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa
@@ -53,9 +53,9 @@
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2275
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t31/s782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs782
 

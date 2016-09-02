@@ -29,7 +29,7 @@
 
     The Office shall be headed by an Assistant Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretary shall report directly to the Undersecretary of the Treasury for Terrorism and Financial Crimes.
 
-(Added [Pub. L. 108–177, title I, § 105(a)(1)(B)][/us/pl/108/177/s105/a/1/B], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; amended [Pub. L. 108–447, div. H, title II, § 222(b)(1)][/us/pl/108/447/s222/b/1], Dec. 8, 2004, [118 Stat. 3245][/us/stat/118/3245].)
+(Added [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(a)(1)(B), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; amended [Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 222(b)(1), Dec. 8, 2004, [118 Stat. 3245][/us/stat/118/3245].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–447, § 222(b)(1)(A)][/us/pl/108/447/s222/b/1/A], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    2004—Subsec. (a). [Pub. L. 108–447][/us/pl/108/447], § 222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Subsec. (b). [Pub. L. 108–447, § 222(b)(1)(B)][/us/pl/108/447/s222/b/1/B], substituted “Terrorism and Financial Crimes” for “Enforcement”.
+    Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 222(b)(1)(B), substituted “Terrorism and Financial Crimes” for “Enforcement”.
 
  __Construction__ 
 
-[Pub. L. 108–177, title I, § 105(b)][/us/pl/108/177/s105/b], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603], as amended by [Pub. L. 111–259, title VIII, § 808][/us/pl/111/259/s808], Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749], provided that: 
+[Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(b), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603], as amended by [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 808, Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749], provided that: 
 
 > “Nothing in [section 311 of title 31][/us/usc/t31/s311], United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
 
@@ -59,19 +59,19 @@
 ----------
 
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
-[/us/pl/108/177/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fa%2F1%2FB
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/108/447/s222/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fb%2F1
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3245
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/usc/t31/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs315
-[/us/pl/108/447/s222/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fb%2F1%2FA
-[/us/pl/108/447/s222/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fb%2F1%2FB
-[/us/pl/108/177/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/111/259/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs808
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2749
 [/us/usc/t31/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs311
 

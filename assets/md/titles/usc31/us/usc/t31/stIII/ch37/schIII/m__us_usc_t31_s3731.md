@@ -33,7 +33,7 @@
 
     (e) Notwithstanding any other provision of law, the Federal Rules of Criminal Procedure, or the Federal Rules of Evidence, a final judgment rendered in favor of the United States in any criminal proceeding charging fraud or false statements, whether upon a verdict after trial or upon a plea of guilty or nolo contendere, shall estop the defendant from denying the essential elements of the offense in any action which involves the same transaction as in the criminal proceeding and which is brought under subsection (a) or (b) of section 3730.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 979][/us/stat/96/979]; [Pub. L. 99–562, § 5][/us/pl/99/562/s5], Oct. 27, 1986, [100 Stat. 3158][/us/stat/100/3158]; [Pub. L. 111–21, § 4(b)][/us/pl/111/21/s4/b], May 20, 2009, [123 Stat. 1623][/us/stat/123/1623].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 979][/us/stat/96/979]; [Pub. L. 99–562][/us/pl/99/562], § 5, Oct. 27, 1986, [100 Stat. 3158][/us/stat/100/3158]; [Pub. L. 111–21][/us/pl/111/21], § 4(b), May 20, 2009, [123 Stat. 1623][/us/stat/123/1623].)
 
 <table>
 
@@ -123,9 +123,9 @@ R.S. § 3494.  </td>
 [/us/usc/t31/s3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3730
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F979
-[/us/pl/99/562/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs5
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3158
-[/us/pl/111/21/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fb
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1623
 [/us/usc/t31/s3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3730
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21

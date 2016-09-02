@@ -47,11 +47,11 @@
 
     It is the sense of Congress that the Center should be staffed primarily by personnel of the Government Accountability Office who are not otherwise engaged in carrying out other duties of the Office under this chapter, so as to ensure that the operation of the Center will not detract from or impact the oversight and audit work of the Office.
 
-(Added [Pub. L. 113–235, div. H, title I, § 1401(a)(1)][/us/pl/113/235/s1401/a/1], Dec. 16, 2014, [128 Stat. 2539][/us/stat/128/2539].)
+(Added [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1401(a)(1), Dec. 16, 2014, [128 Stat. 2539][/us/stat/128/2539].)
 
  __Approval of Business Plan__ 
 
-[Pub. L. 113–235, div. H, title I, § 1401(b)][/us/pl/113/235/s1401/b], Dec. 16, 2014, [128 Stat. 2541][/us/stat/128/2541], provided that: 
+[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1401(b), Dec. 16, 2014, [128 Stat. 2541][/us/stat/128/2541], provided that: 
 
 > “The Comptroller General may not begin operating the Center for Audit Excellence under subchapter VII of chapter 7 of title 31, United States Code (as added by subsection (a)) until—
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1401%2Fa%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2539
-[/us/pl/113/235/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1401%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2541
 
 

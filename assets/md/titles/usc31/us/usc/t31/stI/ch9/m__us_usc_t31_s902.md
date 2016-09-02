@@ -105,11 +105,11 @@
 
         (2) Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-(Added [Pub. L. 101–576, title II, § 205(a)][/us/pl/101/576/s205/a], Nov. 15, 1990, [104 Stat. 2843][/us/stat/104/2843].)
+(Added [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(a), Nov. 15, 1990, [104 Stat. 2843][/us/stat/104/2843].)
 
  __References in Text__ 
 
-    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(6)(D), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3512 of this title][/us/usc/t31/s3512]. Provisions relating to reports on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
+    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(6)(D), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3512 of this title][/us/usc/t31/s3512]. Provisions relating to reports on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
 
     The Inspector General Act of 1978, referred to in subsec. (b)(2), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -126,11 +126,11 @@
 [/us/usc/t31/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515
 [/us/usc/t31/s3521/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521%2Ff
 [/us/pl/97/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F255
-[/us/pl/101/576/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2843
 [/us/pl/97/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F255
 [/us/stat/96/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F814
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

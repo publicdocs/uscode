@@ -87,7 +87,7 @@
 
     (e) The Secretary of the Treasury shall prescribe such rules, regulations, and procedures as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 104–134, title III, § 31001(t)(1)][/us/pl/104/134/s31001/t/1], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373].)
+(Added [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(t)(1), Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t31/s3711/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711%2Fg%2F2
 [/us/usc/t31/s3711/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711%2Fg
-[/us/pl/104/134/s31001/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Ft%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-373
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

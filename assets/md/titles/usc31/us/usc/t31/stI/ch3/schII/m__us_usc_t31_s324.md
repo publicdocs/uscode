@@ -33,7 +33,7 @@
 
     (c) The authority under this section is in addition to authority under another law.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 98–369, div. A, title IV, § 444][/us/pl/98/369/s444], July 18, 1984, [98 Stat. 816][/us/stat/98/816].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 882][/us/stat/96/882]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 444, July 18, 1984, [98 Stat. 816][/us/stat/98/816].)
 
 <table>
 
@@ -128,7 +128,7 @@ Apr. 3, 1945, ch. 51, § 5, 59 Stat. 48.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F882
-[/us/pl/98/369/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs444
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F816
 [/us/usc/t40/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs302
 [/us/act/1951-10-31/s1/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fs1%2F95

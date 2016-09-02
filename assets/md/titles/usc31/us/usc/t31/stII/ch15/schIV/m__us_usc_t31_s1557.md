@@ -17,7 +17,7 @@
 
     A provision of an appropriation law may exempt an appropriation from the provisions of this subchapter and fix the period for which the appropriation remains available for expenditure.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 937][/us/stat/96/937]; [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)][/us/pl/101/510/s1405/a/1], Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 937][/us/stat/96/937]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(1), Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679].)
 
 <table>
 
@@ -80,7 +80,7 @@ July 25, 1956, ch. 727, § 9, 70 Stat. 650.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F937
-[/us/pl/101/510/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1679
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

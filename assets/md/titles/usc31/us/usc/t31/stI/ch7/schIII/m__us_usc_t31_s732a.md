@@ -31,7 +31,7 @@
 
     (b) Senior-level positions under this section may include positions referred to in paragraph (1) or (2) of [section 731(e) of this title][/us/usc/t31/s731/e].
 
-(Added [Pub. L. 106–303, § 4(a)(1)][/us/pl/106/303/s4/a/1], Oct. 13, 2000, [114 Stat. 1068][/us/stat/114/1068]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323, § 9(b)(1)][/us/pl/110/323/s9/b/1], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].)
+(Added [Pub. L. 106–303][/us/pl/106/303], § 4(a)(1), Oct. 13, 2000, [114 Stat. 1068][/us/stat/114/1068]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323][/us/pl/110/323], § 9(b)(1), Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 [/us/usc/t31/s732/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732%2Fe
 [/us/usc/t31/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733
 [/us/usc/t31/s731/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731%2Fe
-[/us/pl/106/303/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs4%2Fa%2F1
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1068
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/323/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fb%2F1
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3548
 [/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

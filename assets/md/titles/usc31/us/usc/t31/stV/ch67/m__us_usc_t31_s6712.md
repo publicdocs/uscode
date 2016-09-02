@@ -59,11 +59,11 @@
 
     In a proceeding under subsections (b) through (d) on a program or activity of a unit of general local government about which a holding of discrimination has been made, the Secretary or administrative law judge may consider only whether a payment under this chapter was used to pay for any part of the program or activity. The holding of discrimination is conclusive. If the holding is reversed by an appellate court, the Secretary or judge shall end the proceeding.
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1875][/us/stat/108/1875].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1875][/us/stat/108/1875].)
 
  __Prior Provisions__ 
 
-    A prior section 6712, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1021][/us/stat/96/1021], related to adjustments of local government allocations, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6712, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1021][/us/stat/96/1021], related to adjustments of local government allocations, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
 ----------
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1875
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1021
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 
 

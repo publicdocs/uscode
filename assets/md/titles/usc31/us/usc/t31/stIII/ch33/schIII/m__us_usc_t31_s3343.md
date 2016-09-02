@@ -55,7 +55,7 @@
 
             (B) to refund amounts to the Secretary.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 957][/us/stat/96/957]; [Pub. L. 104–134, title III, § 31001(x)(3)][/us/pl/104/134/s31001/x/3], Apr. 26, 1996, [110 Stat. 1321–377][/us/stat/110/1321-377].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 957][/us/stat/96/957]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(x)(3), Apr. 26, 1996, [110 Stat. 1321–377][/us/stat/110/1321-377].)
 
 <table>
 
@@ -199,21 +199,21 @@ Nov. 21, 1941, ch. 489, 55 Stat. 777, § 4; added Dec. 22, 1974, Pub. L. 93–
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001(x)(3)(A)][/us/pl/104/134/s31001/x/3/A], amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(3)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
 
-    Subsec. (b). [Pub. L. 104–134, § 31001(x)(3)(B)(i)][/us/pl/104/134/s31001/x/3/B/i], inserted “in the determination of the Secretary the payee or special endorse establishes that” after “without interest if” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(3)(B)(i), inserted “in the determination of the Secretary the payee or special endorse establishes that” after “without interest if” in introductory provisions.
 
-    Subsec. (b)(2) to (4). [Pub. L. 104–134, § 31001(x)(3)(B)(ii)][/us/pl/104/134/s31001/x/3/B/ii]–(iv), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “recovery from the forger, a transferee, or a party on the check after the forgery has been or may be delayed or unsuccessful.”
+    Subsec. (b)(2) to (4). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(3)(B)(ii)–(iv), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “recovery from the forger, a transferee, or a party on the check after the forgery has been or may be delayed or unsuccessful.”
 
-    Subsec. (d). [Pub. L. 104–134, § 31001(x)(3)(C)][/us/pl/104/134/s31001/x/3/C], inserted after first sentence “The Secretary may use amounts in the Fund to reimburse payment certifying or authorizing agencies for any payment that the Secretary determines would otherwise have been payable from the Fund, and may reimburse certifying or authorizing agencies with amounts recovered because of payee nonentitlement.”
+    Subsec. (d). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(3)(C), inserted after first sentence “The Secretary may use amounts in the Fund to reimburse payment certifying or authorizing agencies for any payment that the Secretary determines would otherwise have been payable from the Fund, and may reimburse certifying or authorizing agencies with amounts recovered because of payee nonentitlement.”
 
-    Subsecs. (e) to (g). [Pub. L. 104–134, § 31001(x)(3)(D)][/us/pl/104/134/s31001/x/3/D], (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+    Subsecs. (e) to (g). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(3)(D), (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
  __Availability of Fund__ 
 
-[Pub. L. 108–447, div. H, title II, § 220(b)][/us/pl/108/447/s220/b], Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], provided that: 
+[Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 220(b), Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], provided that: 
 
-> “The Check Forgery Insurance Fund ([31 U.S.C. 3343][/us/usc/t31/s3343]) shall be available to fund amounts relating to the payment of items listed in [31 U.S.C. 3333(a)(1)][/us/usc/t31/s3333/a/1], as amended above \[[Pub. L. 108–447, § 220(a)(1)][/us/pl/108/447/s220/a/1]\], prior to the enactment of this Act \[Dec. 8, 2004\].”
+> “The Check Forgery Insurance Fund ([31 U.S.C. 3343][/us/usc/t31/s3343]) shall be available to fund amounts relating to the payment of items listed in [31 U.S.C. 3333(a)(1)][/us/usc/t31/s3333/a/1], as amended above \[[Pub. L. 108–447][/us/pl/108/447], § 220(a)(1)\], prior to the enactment of this Act \[Dec. 8, 2004\].”
 
 ----------
 
@@ -225,18 +225,18 @@ Nov. 21, 1941, ch. 489, 55 Stat. 777, § 4; added Dec. 22, 1974, Pub. L. 93–
 [/us/usc/t31/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1306
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F957
-[/us/pl/104/134/s31001/x/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-377
 [/us/usc/t31/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs563
-[/us/pl/104/134/s31001/x/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3%2FA
-[/us/pl/104/134/s31001/x/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3%2FB%2Fi
-[/us/pl/104/134/s31001/x/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3%2FB%2Fii
-[/us/pl/104/134/s31001/x/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3%2FC
-[/us/pl/104/134/s31001/x/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F3%2FD
-[/us/pl/108/447/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2Fb
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3242
 [/us/usc/t31/s3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3343
 [/us/usc/t31/s3333/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3333%2Fa%2F1
-[/us/pl/108/447/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2Fa%2F1
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 
 

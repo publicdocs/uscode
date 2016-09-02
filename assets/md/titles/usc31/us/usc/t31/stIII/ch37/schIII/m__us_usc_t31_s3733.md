@@ -311,7 +311,7 @@
 
         (8) the term “official use” means any use that is consistent with the law, and the regulations and policies of the Department of Justice, including use in connection with internal Department of Justice memoranda and reports; communications between the Department of Justice and a Federal, State, or local government agency, or a contractor of a Federal, State, or local government agency, undertaken in furtherance of a Department of Justice investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda and briefs submitted to a court or other tribunal; and communications with Government investigators, auditors, consultants and experts, the counsel of other parties, arbitrators and mediators, concerning an investigation, case or proceeding.
 
-(Added [Pub. L. 99–562, § 6(a)][/us/pl/99/562/s6/a], Oct. 27, 1986, [100 Stat. 3159][/us/stat/100/3159]; amended [Pub. L. 111–21, § 4(c)][/us/pl/111/21/s4/c], May 20, 2009, [123 Stat. 1623][/us/stat/123/1623].)
+(Added [Pub. L. 99–562][/us/pl/99/562], § 6(a), Oct. 27, 1986, [100 Stat. 3159][/us/stat/100/3159]; amended [Pub. L. 111–21][/us/pl/111/21], § 4(c), May 20, 2009, [123 Stat. 1623][/us/stat/123/1623].)
 
  __References in Text__ 
 
@@ -321,15 +321,15 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–21, § 4(c)(1)(A)][/us/pl/111/21/s4/c/1/A], in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
+    2009—Subsec. (a)(1). [Pub. L. 111–21][/us/pl/111/21], § 4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
 
-    Subsec. (a)(2)(G). [Pub. L. 111–21, § 4(c)(1)(B)][/us/pl/111/21/s4/c/1/B], struck out at end “The Attorney General may not, notwithstanding [section 510 of title 28][/us/usc/t28/s510], authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
+    Subsec. (a)(2)(G). [Pub. L. 111–21][/us/pl/111/21], § 4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding [section 510 of title 28][/us/usc/t28/s510], authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
 
-    Subsec. (i)(2)(B). [Pub. L. 111–21, § 4(c)(2)(A)][/us/pl/111/21/s4/c/2/A], struck out “, who is authorized for such use under regulations which the Attorney General shall issue” after “Justice”.
+    Subsec. (i)(2)(B). [Pub. L. 111–21][/us/pl/111/21], § 4(c)(2)(A), struck out “, who is authorized for such use under regulations which the Attorney General shall issue” after “Justice”.
 
-    Subsec. (i)(2)(C). [Pub. L. 111–21, § 4(c)(2)(B)][/us/pl/111/21/s4/c/2/B], struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
+    Subsec. (i)(2)(C). [Pub. L. 111–21][/us/pl/111/21], § 4(c)(2)(B), struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
 
-    Subsec. (l)(8). [Pub. L. 111–21, § 4(c)(3)][/us/pl/111/21/s4/c/3], added par. (8).
+    Subsec. (l)(8). [Pub. L. 111–21][/us/pl/111/21], § 4(c)(3), added par. (8).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -344,17 +344,17 @@
 
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/99/562/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs6%2Fa
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3159
-[/us/pl/111/21/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1623
 [/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
-[/us/pl/111/21/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc%2F1%2FA
-[/us/pl/111/21/s4/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc%2F1%2FB
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/usc/t28/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs510
-[/us/pl/111/21/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc%2F2%2FA
-[/us/pl/111/21/s4/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc%2F2%2FB
-[/us/pl/111/21/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fc%2F3
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/111/21/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Ff

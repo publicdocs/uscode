@@ -89,29 +89,29 @@ June 17, 1935, ch. 271, 49 Stat. 387.  </td>
 
  __Availability of Appropriations for Expenses of Attending Meetings__ 
 
-[Pub. L. 102–394, title V, § 505][/us/pl/102/394/s505], Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
+[Pub. L. 102–394, title V][/us/pl/102/394/tV], § 505, Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
 
 > “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of those functions or activities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title V, § 505][/us/pl/102/170/s505], Nov. 26, 1991, [105 Stat. 1141][/us/stat/105/1141].
+    [Pub. L. 102–170, title V][/us/pl/102/170/tV], § 505, Nov. 26, 1991, [105 Stat. 1141][/us/stat/105/1141].
 
-    [Pub. L. 101–517, title V, § 505][/us/pl/101/517/s505], Nov. 5, 1990, [104 Stat. 2221][/us/stat/104/2221].
+    [Pub. L. 101–517, title V][/us/pl/101/517/tV], § 505, Nov. 5, 1990, [104 Stat. 2221][/us/stat/104/2221].
 
-    [Pub. L. 101–166, title V, § 505][/us/pl/101/166/s505], Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
+    [Pub. L. 101–166, title V][/us/pl/101/166/tV], § 505, Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title V, § 505\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title V, § 505\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title V, § 505\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title V, § 505\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title V, § 505\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title V, § 505\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title V, § 505][/us/pl/99/178/s505], Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
+    [Pub. L. 99–178, title V][/us/pl/99/178/tV], § 505, Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
 
-    [Pub. L. 98–619, title V, § 505][/us/pl/98/619/s505], Nov. 8, 1984, [98 Stat. 3333][/us/stat/98/3333].
+    [Pub. L. 98–619, title V][/us/pl/98/619/tV], § 505, Nov. 8, 1984, [98 Stat. 3333][/us/stat/98/3333].
 
-    [Pub. L. 98–139, title V, § 505][/us/pl/98/139/s505], Oct. 31, 1983, [97 Stat. 899][/us/stat/97/899].
+    [Pub. L. 98–139, title V][/us/pl/98/139/tV], § 505, Oct. 31, 1983, [97 Stat. 899][/us/stat/97/899].
 
-    [Pub. L. 97–377, title I, § 101(e)(1)][/us/pl/97/377/s101/e/1] \[title V, § 505\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(e)(1) \[title V, § 505\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
 
 ----------
 
@@ -122,27 +122,27 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F925
-[/us/pl/102/394/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs505
+[/us/pl/102/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtV
 [/us/stat/106/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1825
-[/us/pl/102/170/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs505
+[/us/pl/102/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtV
 [/us/stat/105/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1141
-[/us/pl/101/517/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs505
+[/us/pl/101/517/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtV
 [/us/stat/104/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2221
-[/us/pl/101/166/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs505
+[/us/pl/101/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtV
 [/us/stat/103/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1189
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2Fs505
+[/us/pl/99/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtV
 [/us/stat/99/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1132
-[/us/pl/98/619/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2Fs505
+[/us/pl/98/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2FtV
 [/us/stat/98/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3333
-[/us/pl/98/139/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2Fs505
+[/us/pl/98/139/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2FtV
 [/us/stat/97/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F899
-[/us/pl/97/377/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fe%2F1
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1878
 
 

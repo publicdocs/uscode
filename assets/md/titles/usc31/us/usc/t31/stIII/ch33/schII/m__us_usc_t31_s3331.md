@@ -67,7 +67,7 @@
 
     (g) Under conditions the Secretary may prescribe, the Secretary may delegate duties and powers of the Secretary under this section to the head of an agency. Consistent with a delegation from the Secretary under this subsection, the head of an agency may delegate those duties and powers to an officer or employee of the agency.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 955][/us/stat/96/955]; [Pub. L. 97–452, § 1(11)][/us/pl/97/452/s1/11], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 104–134, title III, § 31001(x)(2)][/us/pl/104/134/s31001/x/2], Apr. 26, 1996, [110 Stat. 1321–377][/us/stat/110/1321-377].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 955][/us/stat/96/955]; [Pub. L. 97–452][/us/pl/97/452], § 1(11), Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(x)(2), Apr. 26, 1996, [110 Stat. 1321–377][/us/stat/110/1321-377].)
 
 <table>
 
@@ -197,15 +197,15 @@ R.S. § 3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–134, § 31001(x)(2)(A)][/us/pl/104/134/s31001/x/2/A], substituted “subsection (c) or (f)” for “subsection (c)”.
+    1996—Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
 
-    Subsecs. (f), (g). [Pub. L. 104–134, § 31001(x)(2)(B)][/us/pl/104/134/s31001/x/2/B], (C), added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 104–134][/us/pl/104/134], § 31001(x)(2)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g).
 
     1983—Subsec. (f). [Pub. L. 97–452][/us/pl/97/452] added subsec. (f).
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–452, § 2(i)][/us/pl/97/452/s2/i], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
+[Pub. L. 97–452][/us/pl/97/452], § 2(i), Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
 
 > “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) \[amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title\] are effective as of September 13, 1982.”
 
@@ -218,19 +218,19 @@ R.S. § 3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F955
-[/us/pl/97/452/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F11
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2468
-[/us/pl/104/134/s31001/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-377
 [/us/act/1973-12-24/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1973-12-24%2Fs448
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F801
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1084
-[/us/pl/104/134/s31001/x/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F2%2FA
-[/us/pl/104/134/s31001/x/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F2%2FB
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2479
 
 

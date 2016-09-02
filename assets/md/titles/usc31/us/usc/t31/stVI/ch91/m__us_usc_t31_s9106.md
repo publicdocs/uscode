@@ -39,7 +39,7 @@
 
     (b) A Government corporation shall provide the President, the Director of the Office of Management and Budget, and the Comptroller General of the United States a copy of the management report when it is submitted to Congress.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1044][/us/stat/96/1044]; [Pub. L. 101–576, title III, § 306(a)][/us/pl/101/576/s306/a], Nov. 15, 1990, [104 Stat. 2854][/us/stat/104/2854].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1044][/us/stat/96/1044]; [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 306(a), Nov. 15, 1990, [104 Stat. 2854][/us/stat/104/2854].)
 
 <table>
 
@@ -135,7 +135,7 @@ Dec. 6, 1945, ch. 557, § 203, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, 
 
  __References in Text__ 
 
-    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(E), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3512 of this title][/us/usc/t31/s3512]. Provisions relating to statements on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
+    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(E), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3512 of this title][/us/usc/t31/s3512]. Provisions relating to statements on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
 
  __Amendments__ 
 
@@ -170,11 +170,11 @@ Dec. 6, 1945, ch. 557, § 203, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, 
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1044
-[/us/pl/101/576/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs306%2Fa
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2854
 [/us/pl/97/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F255
 [/us/stat/96/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F814
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576

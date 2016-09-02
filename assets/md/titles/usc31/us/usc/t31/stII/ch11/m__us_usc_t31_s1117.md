@@ -17,7 +17,7 @@
 
     The Director of the Office of Management and Budget may exempt from the requirements of sections 1115 and 1116 of this title and [section 306 of title 5][/us/usc/t5/s306], any agency with annual outlays of $20,000,000 or less.
 
-(Added [Pub. L. 103–62, § 4(b)][/us/pl/103/62/s4/b], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 4(b), Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].)
 
  __Construction__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
-[/us/pl/103/62/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fb
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62

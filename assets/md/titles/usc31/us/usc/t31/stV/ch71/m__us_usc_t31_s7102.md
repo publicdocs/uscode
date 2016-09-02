@@ -33,7 +33,7 @@
 
     (5) “State” means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a tribe as defined in section 3(c) of the Indian Financing Act of 1974 ([25 U.S.C. 1452(c)][/us/usc/t25/s1452/c]).
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1035][/us/stat/96/1035]; [Pub. L. 103–272, § 4(f)(1)(V)][/us/pl/103/272/s4/f/1/V], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1035][/us/stat/96/1035]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(V), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363].)
 
 <table>
 
@@ -159,7 +159,7 @@ In clause (1), the words “applying for” are substituted for “seeking” fo
 [/us/usc/t25/s1452/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fc
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1035
-[/us/pl/103/272/s4/f/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FV
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 

@@ -55,7 +55,7 @@
 
     (d) For the purposes of subsection (b), the general categories of Federal funds presented in each report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
 
-(Added [Pub. L. 99–547, § 2(a)][/us/pl/99/547/s2/a], Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057]; amended [Pub. L. 103–272, § 4(f)(1)(T)][/us/pl/103/272/s4/f/1/T], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–350, § 5(h)(9)][/us/pl/111/350/s5/h/9], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 99–547][/us/pl/99/547], § 2(a), Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(T), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(9), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
  __Amendments__ 
 
@@ -82,13 +82,13 @@
 
 [/us/usc/t31/s6102a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102a
 [/us/usc/t41/s1122/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4
-[/us/pl/99/547/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fa
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3057
-[/us/pl/103/272/s4/f/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FT
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/111/350/s5/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F9
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1122/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4

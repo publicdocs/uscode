@@ -33,7 +33,7 @@
 
     (b) An article to be used by an executive department in the District of Columbia that could be bought out of an appropriation made to a regular contingent fund of the department may not be bought out of another amount available for obligation.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 101–508, title XIII, § 13213(a)][/us/pl/101/508/s13213/a], Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13213(a), Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621].)
 
 <table>
 
@@ -114,7 +114,7 @@ Aug. 23, 1912, ch. 350, § 6(words after semicolon), 37 Stat. 414.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F923
-[/us/pl/101/508/s13213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13213%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-621
 [/us/usc/t2/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

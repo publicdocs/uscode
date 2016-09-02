@@ -17,7 +17,7 @@
 
     The Office of Information and Regulatory Affairs, established under [section 3503 of title 44][/us/usc/t44/s3503], is an office in the Office of Management and Budget.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 886][/us/stat/96/886], § 503; renumbered § 505, [Pub. L. 101–576, title II, § 202(a)][/us/pl/101/576/s202/a], Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 886][/us/stat/96/886], § 503; renumbered § 505, [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 202(a), Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839].)
 
 <table>
 
@@ -77,7 +77,7 @@ Source (Statutes at Large)  </td>
 [/us/usc/t44/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3503
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F886
-[/us/pl/101/576/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs202%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2839
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/usc/t31/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs503

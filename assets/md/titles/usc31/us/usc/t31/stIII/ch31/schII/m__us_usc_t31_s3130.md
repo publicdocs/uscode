@@ -93,7 +93,7 @@
 
         The term “interest cost to outlay ratio” means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
 
-(Added [Pub. L. 103–202, title II, § 201(a)][/us/pl/103/202/s201/a], Dec. 17, 1993, [107 Stat. 2355][/us/stat/107/2355].)
+(Added [Pub. L. 103–202, title II][/us/pl/103/202/tII], § 201(a), Dec. 17, 1993, [107 Stat. 2355][/us/stat/107/2355].)
 
 ----------
 
@@ -103,7 +103,7 @@
 ----------
 
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
-[/us/pl/103/202/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs201%2Fa
+[/us/pl/103/202/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtII
 [/us/stat/107/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2355
 
 

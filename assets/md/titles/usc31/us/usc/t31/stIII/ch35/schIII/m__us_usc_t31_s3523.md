@@ -117,7 +117,7 @@ Sept. 12, 1950, ch. 946, § 117(b), 64 Stat. 837; Aug 20, 1964, Pub. L. 88–4
 
  __Payment for Audits__ 
 
-    [Pub. L. 108–83, title I, § 1401][/us/pl/108/83/s1401], Sept. 30, 2003, [117 Stat. 1034][/us/stat/117/1034], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by [Pub. L. 110–323, § 6(b)][/us/pl/110/323/s6/b], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], effective Oct. 1, 2010.
+    [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1401, Sept. 30, 2003, [117 Stat. 1034][/us/stat/117/1034], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by [Pub. L. 110–323][/us/pl/110/323], § 6(b), Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], effective Oct. 1, 2010.
 
 ----------
 
@@ -129,11 +129,11 @@ Sept. 12, 1950, ch. 946, § 117(b), 64 Stat. 837; Aug 20, 1964, Pub. L. 88–4
 [/us/usc/t31/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F962
-[/us/pl/108/83/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1401
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1034
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/323/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs6%2Fb
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
 
 

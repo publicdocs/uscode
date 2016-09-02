@@ -55,19 +55,19 @@
 
             (C) be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
-(Added [Pub. L. 101–194, title III, § 302(a)][/us/pl/101/194/s302/a], Nov. 30, 1989, [103 Stat. 1745][/us/stat/103/1745], § 1352; renumbered § 1353 and amended [Pub. L. 101–280, § 4(b)(1)][/us/pl/101/280/s4/b/1], (c), May 4, 1990, [104 Stat. 157][/us/stat/104/157], 158.)
+(Added [Pub. L. 101–194, title III][/us/pl/101/194/tIII], § 302(a), Nov. 30, 1989, [103 Stat. 1745][/us/stat/103/1745], § 1352; renumbered § 1353 and amended [Pub. L. 101–280][/us/pl/101/280], § 4(b)(1), (c), May 4, 1990, [104 Stat. 157][/us/stat/104/157], 158.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–280, § 4(b)(1)][/us/pl/101/280/s4/b/1], renumbered [section 1352 of this title][/us/usc/t31/s1352] as this section.
+    1990—[Pub. L. 101–280][/us/pl/101/280], § 4(b)(1), renumbered [section 1352 of this title][/us/usc/t31/s1352] as this section.
 
-    Subsec. (a). [Pub. L. 101–280, § 4(c)(1)][/us/pl/101/280/s4/c/1], substituted “in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency’s behalf,” for “or employee in the executive branch may accept payment”.
+    Subsec. (a). [Pub. L. 101–280][/us/pl/101/280], § 4(c)(1), substituted “in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency’s behalf,” for “or employee in the executive branch may accept payment”.
 
-    Subsec. (b). [Pub. L. 101–280, § 4(c)(2)(A)][/us/pl/101/280/s4/c/2/A], inserted “or 7342” after “section 4111”.
+    Subsec. (b). [Pub. L. 101–280][/us/pl/101/280], § 4(c)(2)(A), inserted “or 7342” after “section 4111”.
 
-    Subsec. (b)(2). [Pub. L. 101–280, § 4(c)(2)(B)][/us/pl/101/280/s4/c/2/B], substituted “(1),” for “(1)”.
+    Subsec. (b)(2). [Pub. L. 101–280][/us/pl/101/280], § 4(c)(2)(B), substituted “(1),” for “(1)”.
 
-    Subsec. (c)(1). [Pub. L. 101–280, § 4(c)(3)][/us/pl/101/280/s4/c/3], substituted “all executive agencies” for “any executive agency”.
+    Subsec. (c)(1). [Pub. L. 101–280][/us/pl/101/280], § 4(c)(3), substituted “all executive agencies” for “any executive agency”.
 
 ----------
 
@@ -78,15 +78,15 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/101/194/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs302%2Fa
+[/us/pl/101/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIII
 [/us/stat/103/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1745
-[/us/pl/101/280/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fb%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F157
-[/us/pl/101/280/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fb%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/usc/t31/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1352
-[/us/pl/101/280/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fc%2F1
-[/us/pl/101/280/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fc%2F2%2FA
-[/us/pl/101/280/s4/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fc%2F2%2FB
-[/us/pl/101/280/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fc%2F3
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 
 

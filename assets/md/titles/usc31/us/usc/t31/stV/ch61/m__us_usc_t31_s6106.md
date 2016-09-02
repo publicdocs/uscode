@@ -17,7 +17,7 @@
 
     After October 1, 1983, there may be appropriated to the Administrator such sums as may be necessary to carry out the responsibilities of this chapter.
 
-(Added [Pub. L. 98–169, § 5][/us/pl/98/169/s5], Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115].)
+(Added [Pub. L. 98–169][/us/pl/98/169], § 5, Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/169/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs5
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1115
 
 

@@ -105,7 +105,7 @@ Sept. 12, 1950, ch. 946, § 202, 64 Stat. 838.  </td>
 
  __Prohibition on Transfer of Funds to Other Departments and Agencies__ 
 
-    [Pub. L. 101–189, div. A, title XVI, § 1604][/us/pl/101/189/s1604], Nov. 29, 1989, [103 Stat. 1598][/us/stat/103/1598], provided that funds available for military functions of Department of Defense could not be made available to any other department or agency of Federal Government pursuant to a provision of law enacted after Nov. 29, 1989, unless, not less than 30 days before such funds were made available to such other department or agency, Secretary of Defense submitted to congressional defense committees a report describing effect on military preparedness of making such funds available to such department or agency, prior to repeal and restatement in [section 2215 of Title 10][/us/usc/t10/s2215], Armed Forces, by [Pub. L. 103–160, div. A, title XI, § 1106(a)(1)][/us/pl/103/160/s1106/a/1], (b), Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750].
+    [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1604, Nov. 29, 1989, [103 Stat. 1598][/us/stat/103/1598], provided that funds available for military functions of Department of Defense could not be made available to any other department or agency of Federal Government pursuant to a provision of law enacted after Nov. 29, 1989, unless, not less than 30 days before such funds were made available to such other department or agency, Secretary of Defense submitted to congressional defense committees a report describing effect on military preparedness of making such funds available to such department or agency, prior to repeal and restatement in [section 2215 of Title 10][/us/usc/t10/s2215], Armed Forces, by [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1106(a)(1), (b), Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750].
 
 ----------
 
@@ -116,10 +116,10 @@ Sept. 12, 1950, ch. 946, § 202, 64 Stat. 838.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F932
-[/us/pl/101/189/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1604
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1598
 [/us/usc/t10/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2215
-[/us/pl/103/160/s1106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1106%2Fa%2F1
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1750
 
 

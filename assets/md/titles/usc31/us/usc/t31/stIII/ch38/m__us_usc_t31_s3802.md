@@ -79,7 +79,7 @@
 
         (3) In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of such person’s responsibility pursuant to Federal procurement laws and regulations.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1937][/us/stat/100/1937].)
+(Added [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(a), Oct. 21, 1986, [100 Stat. 1937][/us/stat/100/1937].)
 
 ----------
 
@@ -90,7 +90,7 @@
 
 [/us/usc/t31/s3803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fa%2F2
 [/us/usc/t31/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803
-[/us/pl/99/509/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1937
 
 

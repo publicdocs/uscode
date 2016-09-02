@@ -23,7 +23,7 @@
 
         (2) The Director shall carry out duties and powers prescribed by the Secretary of the Treasury.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 879][/us/stat/96/879]; [Pub. L. 102–390, title II, § 225(a)][/us/pl/102/390/s225/a], (b)(1), (2), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 879][/us/stat/96/879]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 225(a), (b)(1), (2), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629].)
 
 <table>
 
@@ -103,11 +103,11 @@ R.S. § 343(less 1st sentence words after 1st comma).  </td>
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–390, § 225(b)(2)][/us/pl/102/390/s225/b/2], substituted “United States Mint” for “Bureau of the Mint” in section catchline.
+    1992—[Pub. L. 102–390][/us/pl/102/390], § 225(b)(2), substituted “United States Mint” for “Bureau of the Mint” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–390, § 225(a)][/us/pl/102/390/s225/a], substituted “United States Mint” for “Bureau of the Mint”.
+    Subsec. (a). [Pub. L. 102–390][/us/pl/102/390], § 225(a), substituted “United States Mint” for “Bureau of the Mint”.
 
-    Subsec. (b)(1). [Pub. L. 102–390, § 225(b)(1)][/us/pl/102/390/s225/b/1], substituted “head of the Mint” for “head of the Bureau”.
+    Subsec. (b)(1). [Pub. L. 102–390][/us/pl/102/390], § 225(b)(1), substituted “head of the Mint” for “head of the Bureau”.
 
 ----------
 
@@ -118,10 +118,10 @@ R.S. § 343(less 1st sentence words after 1st comma).  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F879
-[/us/pl/102/390/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fa
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1629
-[/us/pl/102/390/s225/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F2
-[/us/pl/102/390/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fa
-[/us/pl/102/390/s225/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F1
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 
 

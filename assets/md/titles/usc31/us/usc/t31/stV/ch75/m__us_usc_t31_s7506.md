@@ -29,7 +29,7 @@
 
             (B) the Committee on Government Reform and Oversight of the House of Representatives (in the case of a bill or resolution reported by a committee of the House of Representatives).
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1403][/us/stat/110/1403].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1403][/us/stat/110/1403].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2333
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1403
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 

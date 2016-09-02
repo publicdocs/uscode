@@ -127,7 +127,7 @@
 
         A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 978][/us/stat/96/978]; [Pub. L. 99–562][/us/pl/99/562], §§ 3, 4, Oct. 27, 1986, [100 Stat. 3154][/us/stat/100/3154], 3157; [Pub. L. 100–700, § 9][/us/pl/100/700/s9], Nov. 19, 1988, [102 Stat. 4638][/us/stat/102/4638]; [Pub. L. 101–280, § 10(a)][/us/pl/101/280/s10/a], May 4, 1990, [104 Stat. 162][/us/stat/104/162]; [Pub. L. 103–272, § 4(f)(1)(P)][/us/pl/103/272/s4/f/1/P], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 111–21, § 4(d)][/us/pl/111/21/s4/d], May 20, 2009, [123 Stat. 1624][/us/stat/123/1624]; [Pub. L. 111–148, title X, § 10104(j)(2)][/us/pl/111/148/s10104/j/2], Mar. 23, 2010, [124 Stat. 901][/us/stat/124/901]; [Pub. L. 111–203, title X, § 1079A(c)][/us/pl/111/203/s1079A/c], July 21, 2010, [124 Stat. 2079][/us/stat/124/2079].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 978][/us/stat/96/978]; [Pub. L. 99–562][/us/pl/99/562], §§ 3, 4, Oct. 27, 1986, [100 Stat. 3154][/us/stat/100/3154], 3157; [Pub. L. 100–700][/us/pl/100/700], § 9, Nov. 19, 1988, [102 Stat. 4638][/us/stat/102/4638]; [Pub. L. 101–280][/us/pl/101/280], § 10(a), May 4, 1990, [104 Stat. 162][/us/stat/104/162]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(P), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 111–21][/us/pl/111/21], § 4(d), May 20, 2009, [123 Stat. 1624][/us/stat/123/1624]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10104(j)(2), Mar. 23, 2010, [124 Stat. 901][/us/stat/124/901]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1079A(c), July 21, 2010, [124 Stat. 2079][/us/stat/124/2079].)
 
 <table>
 
@@ -305,9 +305,9 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 
     “(B) For purposes of this paragraph, ‘original source’ means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information.”
 
-    Subsec. (h)(1). [Pub. L. 111–203, § 1079A(c)(1)][/us/pl/111/203/s1079A/c/1], substituted “agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter” for “or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter”.
+    Subsec. (h)(1). [Pub. L. 111–203][/us/pl/111/203], § 1079A(c)(1), substituted “agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter” for “or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter”.
 
-    Subsec. (h)(3). [Pub. L. 111–203, § 1079A(c)(2)][/us/pl/111/203/s1079A/c/2], added par. (3).
+    Subsec. (h)(3). [Pub. L. 111–203][/us/pl/111/203], § 1079A(c)(2), added par. (3).
 
     2009—Subsec. (h). [Pub. L. 111–21][/us/pl/111/21] amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary to make the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection.”
 
@@ -315,17 +315,17 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 
     1990—Subsec. (e)(2)(B). [Pub. L. 101–280][/us/pl/101/280] substituted “paragraphs (1) through (8) of section 101(f)” for “201(f)”.
 
-    1988—Subsec. (c)(4). [Pub. L. 100–700, § 9(b)(1)][/us/pl/100/700/s9/b/1], which directed amendment of [section 3730 of title 28][/us/usc/t28/s3730] by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
+    1988—Subsec. (c)(4). [Pub. L. 100–700][/us/pl/100/700], § 9(b)(1), which directed amendment of [section 3730 of title 28][/us/usc/t28/s3730] by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
 
-    Subsec. (d)(3). [Pub. L. 100–700, § 9(a)(1)][/us/pl/100/700/s9/a/1], (2), added par. (3). Former par. (3) redesignated (4).
+    Subsec. (d)(3). [Pub. L. 100–700][/us/pl/100/700], § 9(a)(1), (2), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (d)(4). [Pub. L. 100–700, § 9(b)(2)][/us/pl/100/700/s9/b/2], which directed amendment of [section 3730 of title 28][/us/usc/t28/s3730] by substituting “claim of the person bringing the action” for “claim of the person bringing the actions” in subsec. (d)(4), was executed to subsec. (d)(4) of this section as the probable intent of Congress.
+    Subsec. (d)(4). [Pub. L. 100–700][/us/pl/100/700], § 9(b)(2), which directed amendment of [section 3730 of title 28][/us/usc/t28/s3730] by substituting “claim of the person bringing the action” for “claim of the person bringing the actions” in subsec. (d)(4), was executed to subsec. (d)(4) of this section as the probable intent of Congress.
 
-    [Pub. L. 100–700, § 9(a)(1)][/us/pl/100/700/s9/a/1], redesignated former par. (3) as (4).
+    [Pub. L. 100–700][/us/pl/100/700], § 9(a)(1), redesignated former par. (3) as (4).
 
-    1986—[Pub. L. 99–562, § 3][/us/pl/99/562/s3], amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
+    1986—[Pub. L. 99–562][/us/pl/99/562], § 3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
 
-    Subsec. (h). [Pub. L. 99–562, § 4][/us/pl/99/562/s4], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–562][/us/pl/99/562], § 4, added subsec. (h).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -337,7 +337,7 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–280, § 10(c)][/us/pl/101/280/s10/c], May 4, 1990, [104 Stat. 162][/us/stat/104/162], provided that: 
+[Pub. L. 101–280][/us/pl/101/280], § 10(c), May 4, 1990, [104 Stat. 162][/us/stat/104/162], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 2397a of Title 10][/us/usc/t10/s2397a], Armed Forces\] shall take effect on January 1, 1991.”
 
@@ -353,17 +353,17 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 [/us/stat/96/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F978
 [/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3154
-[/us/pl/100/700/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs9
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
 [/us/stat/102/4638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4638
-[/us/pl/101/280/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs10%2Fa
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F162
-[/us/pl/103/272/s4/f/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FP
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/111/21/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fd
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1624
-[/us/pl/111/148/s10104/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fj%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F901
-[/us/pl/111/203/s1079A/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2079
 [/us/act/1948-06-25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fs1
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
@@ -373,26 +373,26 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 [/us/pl/95/521/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101%2Ff
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/203/s1079A/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fc%2F1
-[/us/pl/111/203/s1079A/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fc%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
-[/us/pl/100/700/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs9%2Fb%2F1
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
 [/us/usc/t28/s3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3730
-[/us/pl/100/700/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs9%2Fa%2F1
-[/us/pl/100/700/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs9%2Fb%2F2
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
 [/us/usc/t28/s3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3730
-[/us/pl/100/700/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs9%2Fa%2F1
-[/us/pl/99/562/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs3
-[/us/pl/99/562/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs4
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/111/21/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Ff
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
-[/us/pl/101/280/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs10%2Fc
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F162
 [/us/usc/t10/s2397a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2397a
 

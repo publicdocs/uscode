@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–343, div. C, title VI, § 601(c)(2)][/us/pl/110/343/s601/c/2], Oct. 3, 2008, [122 Stat. 3911][/us/stat/122/3911], added item 6906 and struck out former item 6906 “Authorization of appropriations”.
+    2008—[Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(c)(2), Oct. 3, 2008, [122 Stat. 3911][/us/stat/122/3911], added item 6906 and struck out former item 6906 “Authorization of appropriations”.
 
-    1994—[Pub. L. 103–272, § 4(f)(1)(U)(i)][/us/pl/103/272/s4/f/1/U/i], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], added item 6907.
+    1994—[Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(U)(i), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], added item 6907.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/110/343/s601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fc%2F2
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3911
-[/us/pl/103/272/s4/f/1/U/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FU%2Fi
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
 
 

@@ -39,7 +39,7 @@
 
     (e) The Secretary may dispose of any part of a bond offering not taken and may prescribe the price and way of disposition.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 938][/us/stat/96/938]; [Pub. L. 97–452, § 1(5)][/us/pl/97/452/s1/5], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–34, § 2][/us/pl/98/34/s2], May 26, 1983, [97 Stat. 196][/us/stat/97/196]; [Pub. L. 98–302, § 2][/us/pl/98/302/s2], May 25, 1984, [98 Stat. 217][/us/stat/98/217]; [Pub. L. 99–272, title XIII, § 13212][/us/pl/99/272/s13212], Apr. 7, 1986, [100 Stat. 325][/us/stat/100/325]; [Pub. L. 100–203, title IX, § 9403][/us/pl/100/203/s9403], Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–647, title VI, § 6301][/us/pl/100/647/s6301], Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 938][/us/stat/96/938]; [Pub. L. 97–452][/us/pl/97/452], § 1(5), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–34][/us/pl/98/34], § 2, May 26, 1983, [97 Stat. 196][/us/stat/97/196]; [Pub. L. 98–302][/us/pl/98/302], § 2, May 25, 1984, [98 Stat. 217][/us/stat/98/217]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13212, Apr. 7, 1986, [100 Stat. 325][/us/stat/100/325]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9403, Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6301, Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755].)
 
 <table>
 
@@ -278,17 +278,17 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(c), 96 Stat. 572.  </td>
 [/us/usc/t31/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3121
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F938
-[/us/pl/97/452/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F5
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
-[/us/pl/98/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F34%2Fs2
+[/us/pl/98/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F34
 [/us/stat/97/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F196
-[/us/pl/98/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302%2Fs2
+[/us/pl/98/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302
 [/us/stat/98/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F217
-[/us/pl/99/272/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13212
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F325
-[/us/pl/100/203/s9403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9403
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-377
-[/us/pl/100/647/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6301
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3755
 [/us/usc/t31/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3111
 [/us/usc/t31/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3121

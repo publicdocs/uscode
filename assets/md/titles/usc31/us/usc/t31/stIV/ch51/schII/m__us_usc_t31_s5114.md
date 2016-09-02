@@ -43,7 +43,7 @@
 
         (2) charge the pay of the temporary employees to the appropriation available for manufacturing distinctive paper.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 983][/us/stat/96/983]; [Pub. L. 108–458, title VI, § 6301(a)][/us/pl/108/458/s6301/a], Dec. 17, 2004, [118 Stat. 3748][/us/stat/118/3748]; [Pub. L. 112–74, div. C, title I, § 116][/us/pl/112/74/s116], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 983][/us/stat/96/983]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6301(a), Dec. 17, 2004, [118 Stat. 3748][/us/stat/118/3748]; [Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], § 116, Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
 
 <table>
 
@@ -251,13 +251,13 @@ Apr. 4, 1924, ch. 84(1st par. on p. 69), 43 Stat. 69.  </td>
 
  __Prohibition on Use of Funds for Manufacture of Distinctive Paper for Currency and Securities by Foreign Owned Corporations or Outside United States; Exception__ 
 
-[Pub. L. 100–440, title VI, § 617(a)][/us/pl/100/440/s617/a], Sept. 22, 1988, [102 Stat. 1755][/us/stat/102/1755], provided that: 
+[Pub. L. 100–440, title VI][/us/pl/100/440/tVI], § 617(a), Sept. 22, 1988, [102 Stat. 1755][/us/stat/102/1755], provided that: 
 
 > “None of the funds made available by this or any other Act with respect to any fiscal year may be used to make a contract for the manufacture of distinctive paper for United States currency and securities pursuant to [section 5114 of title 31][/us/usc/t31/s5114], United States Code, with any corporation or other entity owned or controlled by persons not citizens of the United States, or for the manufacture of such distinctive paper outside of the United States or its possessions. This subsection shall not apply if the Secretary of the Treasury determines that no domestic manufacturer of distinctive paper for United States currency or securities exists with which to make a contract and if the Secretary of the Treasury publishes in the Federal Register a written finding stating the basis for the determination.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 622(a)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–428.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 622(a)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–428.
 
 ----------
 
@@ -269,9 +269,9 @@ Apr. 4, 1924, ch. 84(1st par. on p. 69), 43 Stat. 69.  </td>
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F983
-[/us/pl/108/458/s6301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6301%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3748
-[/us/pl/112/74/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs116
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F891
 [/us/act/1912-08-24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fs1
 [/us/stat/37/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F430
@@ -286,10 +286,10 @@ Apr. 4, 1924, ch. 84(1st par. on p. 69), 43 Stat. 69.  </td>
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/100/440/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs617%2Fa
+[/us/pl/100/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtVI
 [/us/stat/102/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1755
 [/us/usc/t31/s5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5114
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
 
 

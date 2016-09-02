@@ -33,7 +33,7 @@
 
     (b) This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 956][/us/stat/96/956]; [Pub. L. 108–447, div. H, title II, § 220(a)][/us/pl/108/447/s220/a], Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242]; [Pub. L. 110–161, div. D, title I, § 119][/us/pl/110/161/s119], Dec. 26, 2007, [121 Stat. 1979][/us/stat/121/1979].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 956][/us/stat/96/956]; [Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 220(a), Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242]; [Pub. L. 110–161, div. D, title I][/us/pl/110/161/dD/tI], § 119, Dec. 26, 2007, [121 Stat. 1979][/us/stat/121/1979].)
 
 <table>
 
@@ -103,13 +103,13 @@ Aug. 4, 1947, ch. 455, § 3, 61 Stat. 730.  </td>
 
     2007—Subsec. (a)(3). [Pub. L. 110–161][/us/pl/110/161] added par. (3) and struck out former par. (3) which read as follows: “The amount of the relief shall be charged to the Check Forgery Insurance Fund ([31 U.S.C. 3343][/us/usc/t31/s3343]). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–447, § 220(a)(1)][/us/pl/108/447/s220/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
+    2004—Subsec. (a)(1). [Pub. L. 108–447][/us/pl/108/447], § 220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
 
     “(A) check, draft, or warrant drawn on the Treasury or the depositary; and
 
     “(B) debt obligation guaranteed or assumed by the United States Government.”
 
-    Subsec. (a)(3). [Pub. L. 108–447, § 220(a)(2)][/us/pl/108/447/s220/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 108–447][/us/pl/108/447], § 220(a)(2), added par. (3).
 
 ----------
 
@@ -122,13 +122,13 @@ Aug. 4, 1947, ch. 455, § 3, 61 Stat. 730.  </td>
 [/us/usc/t31/s3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3343
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F956
-[/us/pl/108/447/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2Fa
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3242
-[/us/pl/110/161/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs119
+[/us/pl/110/161/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtI
 [/us/stat/121/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1979
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t31/s3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3343
-[/us/pl/108/447/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2Fa%2F1
-[/us/pl/108/447/s220/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs220%2Fa%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 
 

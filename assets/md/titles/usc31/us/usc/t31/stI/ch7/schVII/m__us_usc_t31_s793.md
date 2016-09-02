@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-(Added [Pub. L. 113–235, div. H, title I, § 1401(a)(1)][/us/pl/113/235/s1401/a/1], Dec. 16, 2014, [128 Stat. 2540][/us/stat/128/2540].)
+(Added [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1401(a)(1), Dec. 16, 2014, [128 Stat. 2540][/us/stat/128/2540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1401%2Fa%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2540
 
 

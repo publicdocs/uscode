@@ -57,7 +57,7 @@
 
         For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
-(Added [Pub. L. 107–56, title III, § 371(c)][/us/pl/107/56/s371/c], Oct. 26, 2001, [115 Stat. 337][/us/stat/115/337]; amended [Pub. L. 108–458, title VI, § 6203(h)][/us/pl/108/458/s6203/h], Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747].)
+(Added [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 371(c), Oct. 26, 2001, [115 Stat. 337][/us/stat/115/337]; amended [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(h), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(2). [Pub. L. 108–458, § 6203(h)(1)][/us/pl/108/458/s6203/h/1], struck out “, subject to subsection (d) of this section” before period at end.
+    2004—Subsec. (b)(2). [Pub. L. 108–458][/us/pl/108/458], § 6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
 
-    Subsec. (c)(1). [Pub. L. 108–458, § 6203(h)(2)][/us/pl/108/458/s6203/h/2], struck out “, subject to subsection (d) of this section,” after “may be seized and”.
+    Subsec. (c)(1). [Pub. L. 108–458][/us/pl/108/458], § 6203(h)(2), struck out “, subject to subsection (d) of this section,” after “may be seized and”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -79,7 +79,7 @@
 
  __Bulk Cash Smuggling Into or Out of the United States__ 
 
-[Pub. L. 107–56, title III, § 371(a)][/us/pl/107/56/s371/a], (b), Oct. 26, 2001, [115 Stat. 336][/us/stat/115/336], 337, provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 371(a), (b), Oct. 26, 2001, [115 Stat. 336][/us/stat/115/336], 337, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -115,20 +115,20 @@
 ----------
 
 [/us/usc/t18/s981/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs981%2Fa%2F1%2FA
-[/us/pl/107/56/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs371%2Fc
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F337
-[/us/pl/108/458/s6203/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fh
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/pl/107/56/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs371%2Fc
-[/us/pl/108/458/s6203/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fh%2F1
-[/us/pl/108/458/s6203/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fh%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/108/458/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6205
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
-[/us/pl/107/56/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs371%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F336
 
 

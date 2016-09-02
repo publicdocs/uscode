@@ -119,7 +119,7 @@
 
         (10) representatives of the private financial services sector, to the extent appropriate.
 
-(Added [Pub. L. 105–310, § 2(a)][/us/pl/105/310/s2/a], Oct. 30, 1998, [112 Stat. 2942][/us/stat/112/2942]; amended [Pub. L. 107–56, title III, § 354][/us/pl/107/56/s354], Oct. 26, 2001, [115 Stat. 323][/us/stat/115/323]; [Pub. L. 108–458, title VI, § 6102(a)][/us/pl/108/458/s6102/a], Dec. 17, 2004, [118 Stat. 3744][/us/stat/118/3744].)
+(Added [Pub. L. 105–310][/us/pl/105/310], § 2(a), Oct. 30, 1998, [112 Stat. 2942][/us/stat/112/2942]; amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 354, Oct. 26, 2001, [115 Stat. 323][/us/stat/115/323]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6102(a), Dec. 17, 2004, [118 Stat. 3744][/us/stat/118/3744].)
 
  __Amendments__ 
 
@@ -134,11 +134,11 @@
 ----------
 ----------
 
-[/us/pl/105/310/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fa
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2942
-[/us/pl/107/56/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs354
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F323
-[/us/pl/108/458/s6102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6102%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3744
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

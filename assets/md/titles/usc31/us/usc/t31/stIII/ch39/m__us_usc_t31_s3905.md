@@ -137,7 +137,7 @@
 
     (k) A contractor’s obligation to pay an interest penalty to a subcontractor pursuant to the clauses included in a subcontract under subsection (b) or (c) of this section may not be construed to be an obligation of the United States for such interest penalty. A contract modification may not be made for the purpose of providing reimbursement of such interest penalty. A cost reimbursement claim may not include any amount for reimbursement of such interest penalty.
 
-(Added [Pub. L. 100–496, § 9(a)(2)][/us/pl/100/496/s9/a/2], Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460]; amended [Pub. L. 107–217, § 3(h)(7)][/us/pl/107/217/s3/h/7], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
+(Added [Pub. L. 100–496][/us/pl/100/496], § 9(a)(2), Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(h)(7), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
 
  __Prior Provisions__ 
 
@@ -165,9 +165,9 @@
 [/us/usc/t31/s3903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2Fc
 [/us/usc/t40/s3133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3133%2Fb
 [/us/usc/t31/s3902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902%2Fa
-[/us/pl/100/496/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs9%2Fa%2F2
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2460
-[/us/pl/107/217/s3/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F7
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
 [/us/usc/t31/s3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3906
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217

@@ -91,7 +91,7 @@
 
     (g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added [Pub. L. 97–452, § 1(16)(A)][/us/pl/97/452/s1/16/A], Jan. 12, 1983, [96 Stat. 2473][/us/stat/96/2473]; amended [Pub. L. 98–167][/us/pl/98/167], Nov. 29, 1983, [97 Stat. 1104][/us/stat/97/1104]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–578, § 1][/us/pl/99/578/s1], Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305]; [Pub. L. 102–589, § 6][/us/pl/102/589/s6], Nov. 10, 1992, [106 Stat. 5135][/us/stat/106/5135]; [Pub. L. 103–272, § 4(f)(1)(M)][/us/pl/103/272/s4/f/1/M], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (l), (cc)(1), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–366, 1321–380; [Pub. L. 105–135, title VI, § 604(e)(1)][/us/pl/105/135/s604/e/1], Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–350, § 5(h)(6)][/us/pl/111/350/s5/h/6], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(16)(A), Jan. 12, 1983, [96 Stat. 2473][/us/stat/96/2473]; amended [Pub. L. 98–167][/us/pl/98/167], Nov. 29, 1983, [97 Stat. 1104][/us/stat/97/1104]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–578][/us/pl/99/578], § 1, Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305]; [Pub. L. 102–589][/us/pl/102/589], § 6, Nov. 10, 1992, [106 Stat. 5135][/us/stat/106/5135]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(M), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(c)(1), (l), (cc)(1), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–366, 1321–380; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(e)(1), Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(6), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
 <table>
 
@@ -201,33 +201,33 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, P
 
     2004—Subsec. (g). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1997—Subsec. (b)(1)(B). [Pub. L. 105–135, § 604(e)(1)(A)][/us/pl/105/135/s604/e/1/A], inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
+    1997—Subsec. (b)(1)(B). [Pub. L. 105–135][/us/pl/105/135], § 604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
 
-    Subsec. (b)(3). [Pub. L. 105–135, § 604(e)(1)(B)(i)][/us/pl/105/135/s604/e/1/B/i], inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 105–135][/us/pl/105/135], § 604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
 
-    Subsec. (b)(3)(C). [Pub. L. 105–135, § 604(e)(1)(B)(ii)][/us/pl/105/135/s604/e/1/B/ii]–(iv), added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 105–135][/us/pl/105/135], § 604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001][/us/pl/104/134/s31001](l)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(l)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
 
-    Subsec. (b)(1)(A). [Pub. L. 104–134, § 31001(cc)(1)][/us/pl/104/134/s31001/cc/1], struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
+    Subsec. (b)(1)(A). [Pub. L. 104–134][/us/pl/104/134], § 31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
 
-    Subsec. (b)(2). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    Subsec. (b)(2). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 104–134, § 31001][/us/pl/104/134/s31001](l)(2), inserted “, or to locate or recover assets of,” after “owed”.
+    Subsec. (d). [Pub. L. 104–134][/us/pl/104/134], § 31001(l)(2), inserted “, or to locate or recover assets of,” after “owed”.
 
     1994—Subsec. (b)(3)(A). [Pub. L. 103–272][/us/pl/103/272] substituted “[15 U.S.C. 637(d)(3)(C)(i)][/us/usc/t15/s637/d/3/C/i]” for “[15 U.S.C. 6376(d)(3)(C)(i)][/us/usc/t15/s6376/d/3/C/i]”.
 
     1992—Subsec. (g). [Pub. L. 102–589][/us/pl/102/589] added subsec. (g).
 
-    1986—Subsecs. (b), (c). [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+    1986—Subsecs. (b), (c). [Pub. L. 99–578][/us/pl/99/578], § 1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-    Subsec. (d). [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 99–578][/us/pl/99/578], § 1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
 
     [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (e). [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
+    Subsec. (e). [Pub. L. 99–578][/us/pl/99/578], § 1(1), (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
 
-    Subsec. (f). [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], redesignated former subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 99–578][/us/pl/99/578], § 1(1), redesignated former subsec. (d) as (f).
 
     1983—Subsec. (c). [Pub. L. 98–167][/us/pl/98/167] inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
 
@@ -237,29 +237,29 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, P
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–589, § 7][/us/pl/102/589/s7], Nov. 10, 1992, [106 Stat. 5135][/us/stat/106/5135], provided that: 
+[Pub. L. 102–589][/us/pl/102/589], § 7, Nov. 10, 1992, [106 Stat. 5135][/us/stat/106/5135], provided that: 
 
 > “The provisions of this Act \[amending this section and [section 3720A of this title][/us/usc/t31/s3720A], enacting provisions set out as notes under this section and [section 6501 of this title][/us/usc/t31/s6501], and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–578, § 5][/us/pl/99/578/s5], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], as amended by [Pub. L. 102–589, § 4(c)][/us/pl/102/589/s4/c], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], which provided that [Pub. L. 99–578][/us/pl/99/578] and the amendments made by [section 1 of Pub. L. 99–578][/us/pl/99/578/s1] (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by [Pub. L. 104–134, title III, § 31001(cc)(2)][/us/pl/104/134/s31001/cc/2], Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].
+    [Pub. L. 99–578][/us/pl/99/578], § 5, Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], as amended by [Pub. L. 102–589][/us/pl/102/589], § 4(c), Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], which provided that [Pub. L. 99–578][/us/pl/99/578] and the amendments made by [section 1 of Pub. L. 99–578][/us/pl/99/578/s1] (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(cc)(2), Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].
 
  __Regulations__ 
 
-[Pub. L. 99–578, § 4][/us/pl/99/578/s4], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], provided that: 
+[Pub. L. 99–578][/us/pl/99/578], § 4, Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], provided that: 
 
 > “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act \[amending this section and enacting provisions set out as notes under this section\]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
 
  __Extension of Contracts With Private Counsel__ 
 
-[Pub. L. 102–589, § 4(d)][/us/pl/102/589/s4/d], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], provided that: 
+[Pub. L. 102–589][/us/pl/102/589], § 4(d), Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], provided that: 
 
 > “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with [section 3718(b) of title 31][/us/usc/t31/s3718/b], United States Code.”
 
  __Audit by Inspector General__ 
 
-[Pub. L. 102–589, § 5][/us/pl/102/589/s5], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], provided that:
+[Pub. L. 102–589][/us/pl/102/589], § 5, Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], provided that:
 
 >     “(a)  __Contents of Audit__  __.—__ 
 
@@ -271,25 +271,25 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, P
 
  __Pilot Program; Extension__ 
 
-    [Pub. L. 99–578, § 3][/us/pl/99/578/s3], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], as amended by [Pub. L. 102–589, § 4(b)][/us/pl/102/589/s4/b], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by [Pub. L. 104–134, title III, § 31001(cc)(2)][/us/pl/104/134/s31001/cc/2], Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].
+    [Pub. L. 99–578][/us/pl/99/578], § 3, Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], as amended by [Pub. L. 102–589][/us/pl/102/589], § 4(b), Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(cc)(2), Apr. 26, 1996, [110 Stat. 1321–380][/us/stat/110/1321-380].
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 120\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–22; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that the pilot debt collection project authorized by [Public Law 99–578][/us/pl/99/578] (formerly set out above) was extended through September 30, 1997.
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 120\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–22; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that the pilot debt collection project authorized by [Public Law 99–578][/us/pl/99/578] (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 
-    [Pub. L. 102–589, § 4(a)][/us/pl/102/589/s4/a], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134].
+    [Pub. L. 102–589][/us/pl/102/589], § 4(a), Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134].
 
-    [Pub. L. 102–395, title I][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1832][/us/stat/106/1832].
+    [Pub. L. 102–395, title I][/us/pl/102/395/tI], Oct. 6, 1992, [106 Stat. 1832][/us/stat/106/1832].
 
-    [Pub. L. 101–302, title II][/us/pl/101/302], May 25, 1990, [104 Stat. 216][/us/stat/104/216].
+    [Pub. L. 101–302, title II][/us/pl/101/302/tII], May 25, 1990, [104 Stat. 216][/us/stat/104/216].
 
  __Report by Attorney General__ 
 
-    [Pub. L. 99–578, § 2][/us/pl/99/578/s2], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by [Pub. L. 99–578][/us/pl/99/578].
+    [Pub. L. 99–578][/us/pl/99/578], § 2, Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by [Pub. L. 99–578][/us/pl/99/578].
 
  __Audit by Comptroller General__ 
 
-[Pub. L. 99–578, § 6][/us/pl/99/578/s6], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], provided that:
+[Pub. L. 99–578][/us/pl/99/578], § 6, Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], provided that:
 
 >     “(a)  __Contents of Audit__  __.—__ 
 
@@ -311,25 +311,25 @@ Prior extensions of the pilot program for legal services were contained in the f
 [/us/usc/t15/s1692a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692a%2F6
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/452/s1/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F16%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2473
 [/us/pl/98/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F167
 [/us/stat/97/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1104
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/578/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3305
-[/us/pl/102/589/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs6
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5135
-[/us/pl/103/272/s4/f/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FM
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-359
-[/us/pl/105/135/s604/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fe%2F1
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2633
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/111/350/s5/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F6
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
 [/us/usc/t15/s1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
@@ -340,70 +340,70 @@ Prior extensions of the pilot program for legal services were contained in the f
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/105/135/s604/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fe%2F1%2FA
-[/us/pl/105/135/s604/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fe%2F1%2FB%2Fi
-[/us/pl/105/135/s604/e/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fe%2F1%2FB%2Fii
-[/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
-[/us/pl/104/134/s31001/cc/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fcc%2F1
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t15/s637/d/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3%2FC%2Fi
 [/us/usc/t15/s6376/d/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6376%2Fd%2F3%2FC%2Fi
 [/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/pl/98/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F167
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/102/589/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs7
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5135
 [/us/usc/t31/s3720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720A
 [/us/usc/t31/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501
-[/us/pl/99/578/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs5
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3307
-[/us/pl/102/589/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs4%2Fc
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5134
 [/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/pl/99/578/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1
-[/us/pl/104/134/s31001/cc/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fcc%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-380
-[/us/pl/99/578/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs4
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3307
-[/us/pl/102/589/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs4%2Fd
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5134
 [/us/usc/t31/s3718/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fb
-[/us/pl/102/589/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs5
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5134
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
 [/us/usc/t37/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs3718
 [/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
-[/us/pl/99/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs3
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3307
-[/us/pl/102/589/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs4%2Fb
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5134
-[/us/pl/104/134/s31001/cc/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fcc%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-380
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
-[/us/pl/102/589/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs4%2Fa
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5134
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1832
-[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/101/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtII
 [/us/stat/104/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F216
-[/us/pl/99/578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs2
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3307
 [/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
-[/us/pl/99/578/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs6
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3307
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
 

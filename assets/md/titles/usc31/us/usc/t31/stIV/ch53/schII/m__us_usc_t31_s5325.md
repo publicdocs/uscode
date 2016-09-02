@@ -37,7 +37,7 @@
 
     For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
 
-(Added [Pub. L. 100–690, title VI, § 6185(b)][/us/pl/100/690/s6185/b], Nov. 18, 1988, [102 Stat. 4355][/us/stat/102/4355].)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(b), Nov. 18, 1988, [102 Stat. 4355][/us/stat/102/4355].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6185/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4355
 [/us/usc/t12/s461/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FC
 

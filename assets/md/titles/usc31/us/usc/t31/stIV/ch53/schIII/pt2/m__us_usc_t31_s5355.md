@@ -117,7 +117,7 @@
 
     </table>
 
-(Added [Pub. L. 105–310, § 2(a)][/us/pl/105/310/s2/a], Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948]; amended [Pub. L. 108–458, title VI, § 6102(b)][/us/pl/108/458/s6102/b], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745].)
+(Added [Pub. L. 105–310][/us/pl/105/310], § 2(a), Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948]; amended [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6102(b), Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745].)
 
  __Amendments__ 
 
@@ -130,9 +130,9 @@
 ----------
 ----------
 
-[/us/pl/105/310/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fa
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2948
-[/us/pl/108/458/s6102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6102%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3745
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 

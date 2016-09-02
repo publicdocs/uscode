@@ -65,7 +65,7 @@
 
         (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(m)(2), Sept. 13, 1982, [96 Stat. 917][/us/stat/96/917], 1062; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–316, title II, § 202(m)][/us/pl/104/316/s202/m], Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 111–314, § 4(b)][/us/pl/111/314/s4/b], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440].)
+([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(m)(2), Sept. 13, 1982, [96 Stat. 917][/us/stat/96/917], 1062; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(m), Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 111–314][/us/pl/111/314], § 4(b), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440].)
 
 <table>
 
@@ -161,7 +161,7 @@ July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pu
 
  __References in Text__ 
 
-    [Section 2518 of title 28][/us/usc/t28/s2518], referred to in subsec. (c)(1), was repealed by [Pub. L. 97–164, title I, § 139][/us/pl/97/164/s139](l), Apr. 2, 1982, [96 Stat. 43][/us/stat/96/43].
+    [Section 2518 of title 28][/us/usc/t28/s2518], referred to in subsec. (c)(1), was repealed by [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(l), Apr. 2, 1982, [96 Stat. 43][/us/stat/96/43].
 
  __Amendments__ 
 
@@ -171,9 +171,9 @@ July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pu
 
     1992—Subsec. (b)(1)(B). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1982—Subsec. (b)(1)(A). [Pub. L. 97–258, § 2(m)(2)(A)][/us/pl/97/258/s2/m/2/A], struck out “under [section 2411(b) of title 28][/us/usc/t28/s2411/b]” after “district court”.
+    1982—Subsec. (b)(1)(A). [Pub. L. 97–258][/us/pl/97/258], § 2(m)(2)(A), struck out “under [section 2411(b) of title 28][/us/usc/t28/s2411/b]” after “district court”.
 
-    Subsec. (b)(1)(B). [Pub. L. 97–258, § 2(m)(2)(B)][/us/pl/97/258/s2/m/2/B], substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
+    Subsec. (b)(1)(B). [Pub. L. 97–258][/us/pl/97/258], § 2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -181,7 +181,7 @@ July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pu
 
  __Effective Date of 1982 Amendment__ 
 
-    [Pub. L. 97–258, § 2(m)][/us/pl/97/258/s2/m], Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Oct. 1, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 2(m), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Oct. 1, 1982.
 
  __Transfer of Functions__ 
 
@@ -200,27 +200,27 @@ July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pu
 [/us/usc/t28/s2516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2516%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F917
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/104/316/s202/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fm
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3843
-[/us/pl/111/314/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fb
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
 [/us/usc/t28/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2518
-[/us/pl/97/164/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F43
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/usc/t51/s20113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20113
 [/us/usc/t42/s2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/97/258/s2/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fm%2F2%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t28/s2411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2411%2Fb
-[/us/pl/97/258/s2/m/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fm%2F2%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/97/258/s2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fm
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

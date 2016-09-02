@@ -71,19 +71,19 @@ Feb. 3, 1978, Pub. L. 95–224, § 6, 92 Stat. 5.  </td>
 
  __Implementation of North American Wetlands Conservation Act and North American Waterfowl Management Plan__ 
 
-[Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 995][/us/stat/105/995], provided that: 
+[Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 995][/us/stat/105/995], provided that: 
 
 > “Notwithstanding the provisions of the Federal Grant and Cooperative Agreements Act of 1977 ([31 U.S.C. 6301–630][/us/usc/t31/s6301–630]8), the Fish and Wildlife Service is hereafter authorized to negotiate and enter into cooperative arrangements and grants with public and private agencies, organizations, institutions, and individuals to implement on a public-private cost sharing basis, the North American Wetlands Conservation Act \[[16 U.S.C. 4401][/us/usc/t16/s4401] et seq.\] and the North American Waterfowl Management Plan”.
 
  __Printing of Educational Materials and Continuation of Challenge Cost-Share Program__ 
 
-[Pub. L. 102–154, title II][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1018][/us/stat/105/1018], provided that: 
+[Pub. L. 102–154, title II][/us/pl/102/154/tII], Nov. 13, 1991, [105 Stat. 1018][/us/stat/105/1018], provided that: 
 
 > “Notwithstanding the provisions of the Federal Grant and Cooperative Agreements Act of 1977 ([31 U.S.C. 6301–630][/us/usc/t31/s6301–630]8), the Forest Service is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals to print educational materials and to continue the Challenge Cost-Share Program.”
 
  __Bureau of Land Management; Authorization To Use Cooperative Arrangements To Implement Challenge Cost-Share Programs__ 
 
-[Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1918][/us/stat/104/1918], provided in part that: 
+[Pub. L. 101–512, title I][/us/pl/101/512/tI], Nov. 5, 1990, [104 Stat. 1918][/us/stat/104/1918], provided in part that: 
 
 > “the Bureau \[of Land Management\] is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals, to implement challenge cost-share programs.”
 
@@ -96,14 +96,14 @@ Feb. 3, 1978, Pub. L. 95–224, § 6, 92 Stat. 5.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1004
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F995
 [/us/usc/t31/s6301–630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6301%E2%80%93630
 [/us/usc/t16/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4401
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtII
 [/us/stat/105/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1018
 [/us/usc/t31/s6301–630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6301%E2%80%93630
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1918
 
 

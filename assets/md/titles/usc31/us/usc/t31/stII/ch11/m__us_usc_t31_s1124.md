@@ -85,7 +85,7 @@
 
             The heads of agencies with Performance Improvement Officers serving on the Council shall, as appropriate and to the extent permitted by law, provide at the request of the chairperson of the Performance Improvement Council up to 2 personnel authorizations to serve at the direction of the chairperson.
 
-(Added [Pub. L. 111–352, § 9][/us/pl/111/352/s9], Jan. 4, 2011, [124 Stat. 3878][/us/stat/124/3878].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 9, Jan. 4, 2011, [124 Stat. 3878][/us/stat/124/3878].)
 
 ----------
 
@@ -95,7 +95,7 @@
 ----------
 
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
-[/us/pl/111/352/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs9
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3878
 
 

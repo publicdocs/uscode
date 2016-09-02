@@ -19,7 +19,7 @@
 
     (b) Consistent with qualification standards developed by, and in consultation with, the agency Chief Financial Officer and the Director of the Office of Management and Budget, the head of each agency shall appoint as Deputy Chief Financial Officer an individual with demonstrated ability and experience in accounting, budget execution, financial and management analysis, and systems development, and not less than 6 years practical experience in financial management at large governmental entities.
 
-(Added [Pub. L. 101–576, title II, § 205(a)][/us/pl/101/576/s205/a], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845].)
+(Added [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(a), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/576/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2845
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 

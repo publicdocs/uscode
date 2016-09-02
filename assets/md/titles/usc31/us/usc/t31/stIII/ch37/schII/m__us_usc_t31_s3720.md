@@ -21,11 +21,11 @@
 
     (c) There is established in the Treasury of the United States a revolving fund to be known as the “Cash Management Improvements Fund”. Sums in the fund shall be available without fiscal year limitation for the payment of expenses incurred in developing the methods of collection and deposit described in subsection (a) of this section and the expenses incurred in carrying out collections and deposits using such methods, including the costs of personal services and the costs of the lease or purchase of equipment and operating facilities.
 
-(Added [Pub. L. 98–369, div. B, title VI, § 2652(a)(1)][/us/pl/98/369/s2652/a/1], July 18, 1984, [98 Stat. 1152][/us/stat/98/1152].)
+(Added [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2652(a)(1), July 18, 1984, [98 Stat. 1152][/us/stat/98/1152].)
 
  __Regulations__ 
 
-[Pub. L. 98–369, div. B, title VI, § 2652(a)(3)][/us/pl/98/369/s2652/a/3], July 18, 1984, [98 Stat. 1152][/us/stat/98/1152], provided that: 
+[Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2652(a)(3), July 18, 1984, [98 Stat. 1152][/us/stat/98/1152], provided that: 
 
 > “The Secretary of the Treasury shall prescribe regulations, including regulations under [section 3720 of title 31][/us/usc/t31/s3720], United States Code, designed to achieve by October 1, 1986, full implementation of the purposes of this subsection.”
 
@@ -39,9 +39,9 @@
 [/us/act/1933-05-18/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fs9
 [/us/stat/48/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F63
 [/us/usc/t16/s831h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h
-[/us/pl/98/369/s2652/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2652%2Fa%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1152
-[/us/pl/98/369/s2652/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2652%2Fa%2F3
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1152
 [/us/usc/t31/s3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720
 

@@ -41,7 +41,7 @@
 
             (B) the general public.
 
-(Added [Pub. L. 105–310, § 2(a)][/us/pl/105/310/s2/a], Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948].)
+(Added [Pub. L. 105–310][/us/pl/105/310], § 2(a), Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/310/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fa
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2948
 
 

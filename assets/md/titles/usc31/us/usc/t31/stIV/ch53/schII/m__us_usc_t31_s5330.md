@@ -105,7 +105,7 @@
 
         Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
 
-(Added [Pub. L. 103–325, title IV, § 408(b)][/us/pl/103/325/s408/b], Sept. 23, 1994, [108 Stat. 2250][/us/stat/108/2250]; amended [Pub. L. 107–56, title III, § 359(b)][/us/pl/107/56/s359/b], Oct. 26, 2001, [115 Stat. 328][/us/stat/115/328].)
+(Added [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 408(b), Sept. 23, 1994, [108 Stat. 2250][/us/stat/108/2250]; amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 359(b), Oct. 26, 2001, [115 Stat. 328][/us/stat/115/328].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 103–325, title IV, § 408(a)][/us/pl/103/325/s408/a], Sept. 23, 1994, [108 Stat. 2249][/us/stat/108/2249], provided that:
+[Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 408(a), Sept. 23, 1994, [108 Stat. 2249][/us/stat/108/2249], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -148,14 +148,14 @@
 ----------
 ----------
 
-[/us/pl/103/325/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs408%2Fb
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2250
-[/us/pl/107/56/s359/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs359%2Fb
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F328
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t12/s461/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FC
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/103/325/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs408%2Fa
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2249
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t18/s1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1960

@@ -95,7 +95,7 @@
 
     (d) Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327]; amended [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1396][/us/stat/110/1396].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327]; amended [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1396][/us/stat/110/1396].)
 
  __References in Text__ 
 
@@ -107,13 +107,13 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–156, § 1(a)][/us/pl/104/156/s1/a], July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], provided that: 
+[Pub. L. 104–156][/us/pl/104/156], § 1(a), July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], provided that: 
 
 > “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–502, § 1(a)][/us/pl/98/502/s1/a], Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], provided that: 
+[Pub. L. 98–502][/us/pl/98/502], § 1(a), Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Single Audit Act of 1984’.”
 
@@ -123,13 +123,13 @@
 
  __Transitional Application__ 
 
-[Pub. L. 104–156, § 3][/us/pl/104/156/s3], July 5, 1996, [110 Stat. 1404][/us/stat/110/1404], provided that: 
+[Pub. L. 104–156][/us/pl/104/156], § 3, July 5, 1996, [110 Stat. 1404][/us/stat/110/1404], provided that: 
 
 > “Subject to [section 7507 of title 31][/us/usc/t31/s7507], United States Code (as amended by section 2 of this Act) the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 104–156, § 1(b)][/us/pl/104/156/s1/b], July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], provided that: 
+[Pub. L. 104–156][/us/pl/104/156], § 1(b), July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], provided that: 
 
 > “The purposes of this Act \[see Short Title of 1996 Amendment note above\] are to—
 
@@ -143,7 +143,7 @@
 
 >     “(5) ensure that Federal departments and agencies, to the maximum extent practicable, rely upon and use audit work done pursuant to chapter 75 of title 31, United States Code (as amended by this Act).”
 
-[Pub. L. 98–502, § 1(b)][/us/pl/98/502/s1/b], Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], provided that: 
+[Pub. L. 98–502][/us/pl/98/502], § 1(b), Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], provided that: 
 
 > “It is the purpose of this Act \[enacting this chapter and provisions set out as notes under this section\]—
 
@@ -157,7 +157,7 @@
 
  __Tennessee Valley Authority Audits Unaffected by Single Audit Requirements__ 
 
-[Pub. L. 98–502, § 2(b)][/us/pl/98/502/s2/b], Oct. 19, 1984, [98 Stat. 2334][/us/stat/98/2334], provided that: 
+[Pub. L. 98–502][/us/pl/98/502], § 2(b), Oct. 19, 1984, [98 Stat. 2334][/us/stat/98/2334], provided that: 
 
 > “The provisions of this Act \[enacting this chapter and provisions set out as notes under this section\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
 
@@ -169,27 +169,27 @@
 ----------
 
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1396
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
-[/us/pl/104/156/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs1%2Fa
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1396
-[/us/pl/98/502/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs1%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/104/156/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs3
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1404
 [/us/usc/t31/s7507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7507
-[/us/pl/104/156/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs1%2Fb
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1396
-[/us/pl/98/502/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs1%2Fb
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327
-[/us/pl/98/502/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fb
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2334
 
 

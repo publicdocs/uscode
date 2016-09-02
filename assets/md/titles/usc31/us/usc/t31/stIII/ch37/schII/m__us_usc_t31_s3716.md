@@ -151,7 +151,7 @@
 
         (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added [Pub. L. 97–452, § 1(16)(A)][/us/pl/97/452/s1/16/A], Jan. 12, 1983, [96 Stat. 2471][/us/stat/96/2471]; amended [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (d)(2), (e), (f), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–362; [Pub. L. 106–169, title II, § 251(b)(10)][/us/pl/106/169/s251/b/10], Dec. 14, 1999, [113 Stat. 1856][/us/stat/113/1856]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV, § 14219(a)][/us/pl/110/234/s14219/a], May 22, 2008, [122 Stat. 1482][/us/stat/122/1482]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14219(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244; [Pub. L. 110–275, title I, § 189(b)][/us/pl/110/275/s189/b], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 113–101, § 5][/us/pl/113/101/s5], May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(16)(A), Jan. 12, 1983, [96 Stat. 2471][/us/stat/96/2471]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–362; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 251(b)(10), Dec. 14, 1999, [113 Stat. 1856][/us/stat/113/1856]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14219(a), May 22, 2008, [122 Stat. 1482][/us/stat/122/1482]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14219(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244; [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 189(b), July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 113–101][/us/pl/113/101], § 5, May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
 
 <table>
 
@@ -269,11 +269,11 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 
     2014—Subsec. (c)(6). [Pub. L. 113–101][/us/pl/113/101] designated existing provisions as subpar. (A), substituted “120 days” for “180 days”, and added subpar. (B).
 
-    2008—Subsec. (c)(1)(A). [Pub. L. 110–275, § 189(b)(1)][/us/pl/110/275/s189/b/1], inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
+    2008—Subsec. (c)(1)(A). [Pub. L. 110–275][/us/pl/110/275], § 189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
 
-    Subsec. (c)(3)(D). [Pub. L. 110–275, § 189(b)(2)][/us/pl/110/275/s189/b/2], added subpar. (D).
+    Subsec. (c)(3)(D). [Pub. L. 110–275][/us/pl/110/275], § 189(b)(2), added subpar. (D).
 
-    Subsec. (e). [Pub. L. 110–246, § 14219(a)][/us/pl/110/246/s14219/a], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
 
     “(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
 
@@ -283,9 +283,9 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 
     1999—Subsec. (c)(3)(C). [Pub. L. 106–169][/us/pl/106/169] substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 104–134, § 31001(d)(2)(A)][/us/pl/104/134/s31001/d/2/A], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+    Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
     “(1) the best interests of the United States Government;
 
@@ -293,27 +293,27 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 
     “(3) for collecting a claim by administrative offset after the 6-year period for bringing a civil action on a claim under [section 2415 of title 28][/us/usc/t28/s2415] has expired, the cost effectiveness of leaving a claim unresolved for more than 6 years.”
 
-    [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+    [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 104–134, § 31001(d)(2)(D)][/us/pl/104/134/s31001/d/2/D], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(2)(D), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsec. (c)(2). [Pub. L. 104–134, § 31001(d)(2)(B)][/us/pl/104/134/s31001/d/2/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved.”
+    Subsec. (c)(2). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved.”
 
-    Subsec. (d). [Pub. L. 104–134, § 31001(d)(2)(D)][/us/pl/104/134/s31001/d/2/D], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(2)(D), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 104–134, § 31001(d)(2)(C)][/us/pl/104/134/s31001/d/2/C], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(2)(C), redesignated subsec. (c) as (e).
 
-    Subsecs. (f) to (h). [Pub. L. 104–134, § 31001(e)][/us/pl/104/134/s31001/e], (f), added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 104–134][/us/pl/104/134], § 31001(e), (f), added subsecs. (f) to (h).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–275, title I, § 189(c)][/us/pl/110/275/s189/c], July 15, 2008, [122 Stat. 2591][/us/stat/122/2591], provided that: 
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 189(c), July 15, 2008, [122 Stat. 2591][/us/stat/122/2591], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395kk of Title 42][/us/usc/t42/s1395kk], The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[July 15, 2008\].”
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title XIV, § 14219(b)][/us/pl/110/234/s14219/b], May 22, 2008, [122 Stat. 1483][/us/stat/122/1483], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14219(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14219(b), May 22, 2008, [122 Stat. 1483][/us/stat/122/1483], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14219(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2245, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\].”
 
@@ -321,7 +321,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 
  __Offsets From Social Security Payments__ 
 
-[Pub. L. 104–134, title III, § 31001(a)(2)(B)][/us/pl/104/134/s31001/a/2/B], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(a)(2)(B), Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
 
 > “Subparagraph (A) of [section 3716(c)(3) of title 31][/us/usc/t31/s3716/c/3], United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\].”
 
@@ -405,21 +405,21 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 [/us/usc/t45/s231m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231m
 [/us/usc/t31/s3711/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711%2Fg%2F7
 [/us/usc/t5/s552a/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fu
-[/us/pl/97/452/s1/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F16%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2471
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-359
-[/us/pl/106/169/s251/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs251%2Fb%2F10
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1856
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/234/s14219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14219%2Fa
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1482
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/275/s189/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2590
-[/us/pl/113/101/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs5
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/stat/128/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1153
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -436,21 +436,21 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
-[/us/pl/110/275/s189/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb%2F1
-[/us/pl/110/275/s189/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb%2F2
-[/us/pl/110/246/s14219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14219%2Fa
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F2%2FA
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t28/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2415
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F2%2FD
-[/us/pl/104/134/s31001/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F2%2FB
-[/us/pl/104/134/s31001/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F2%2FD
-[/us/pl/104/134/s31001/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F2%2FC
-[/us/pl/104/134/s31001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fe
-[/us/pl/110/275/s189/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fc
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2591
 [/us/usc/t42/s1395kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -458,16 +458,16 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14219%2Fb
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1483
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/104/134/s31001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fa%2F2%2FB
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
 [/us/usc/t31/s3716/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716%2Fc%2F3
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134

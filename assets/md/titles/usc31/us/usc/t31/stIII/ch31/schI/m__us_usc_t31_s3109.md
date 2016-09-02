@@ -19,7 +19,7 @@
 
     (b) For a taxable year in which amounts are deducted from the mortgage guaranty account referred to in section 832(e)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 832(e)(3)][/us/usc/t26/s832/e/3]), an amount of tax and loss bonds bought under section 832(e)(2) of the Internal Revenue Code of 1986 ([26 U.S.C. 832(e)(2)][/us/usc/t26/s832/e/2]) shall be redeemed for the amount deducted from the account. The amount redeemed shall be applied as necessary to pay taxes due because of the inclusion under section 832(b)(1)(E) of the Internal Revenue Code of 1986 ([26 U.S.C. 832(b)(1)(E)][/us/usc/t26/s832/b/1/E]) of amounts in gross income. The Secretary also may prescribe additional ways to redeem the bonds.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 942][/us/stat/96/942]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 942][/us/stat/96/942]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
 <table>
 
@@ -99,7 +99,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 26; added Jan. 2, 1968, Pub. L. 90–
 [/us/usc/t26/s832/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs832%2Fb%2F1%2FE
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F942
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t31/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3111
 [/us/usc/t31/s757b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs757b

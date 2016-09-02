@@ -17,7 +17,7 @@
 
     If an officer or employee of an executive agency or an officer or employee of the District of Columbia government violates section 1341(a) or 1342 of this title, the head of the agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken. A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 926][/us/stat/96/926]; [Pub. L. 108–447, div. G, title I, § 1401(a)][/us/pl/108/447/s1401/a], Dec. 8, 2004, [118 Stat. 3192][/us/stat/118/3192].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 926][/us/stat/96/926]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1401(a), Dec. 8, 2004, [118 Stat. 3192][/us/stat/118/3192].)
 
 <table>
 
@@ -78,7 +78,7 @@ R.S. § 3679(i)(2)(related to (a), (b)); Mar. 3, 1905, ch. 1404, § 4(1st pa
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F926
-[/us/pl/108/447/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1401%2Fa
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3192
 [/us/stat/81/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F948
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198

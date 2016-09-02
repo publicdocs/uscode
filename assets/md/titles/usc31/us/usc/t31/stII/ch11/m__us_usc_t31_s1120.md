@@ -83,7 +83,7 @@
 
     (c) The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 
-(Added [Pub. L. 111–352, § 5][/us/pl/111/352/s5], Jan. 4, 2011, [124 Stat. 3873][/us/stat/124/3873].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 5, Jan. 4, 2011, [124 Stat. 3873][/us/stat/124/3873].)
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t31/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fa
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 [/us/usc/t5/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306%2Fd
-[/us/pl/111/352/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs5
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3873
 
 

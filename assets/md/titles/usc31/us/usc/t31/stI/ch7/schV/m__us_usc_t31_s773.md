@@ -37,7 +37,7 @@
 
     (d) The reduction in the Comptroller General’s annuity under subsection (b)(1) for the purpose of providing survivor benefits shall be terminated for each full month after the death of the spouse.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 903][/us/stat/96/903]; [Pub. L. 100–426, title II, § 204][/us/pl/100/426/s204], Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 903][/us/stat/96/903]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 204, Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -127,11 +127,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(q); added July 13, 1959, Pub. L. 86
 
     2004—Subsec. (b)(2). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–426, § 204(1)][/us/pl/100/426/s204/1], inserted “5 percent of the” before “annuity”.
+    1988—Subsec. (b)(1). [Pub. L. 100–426][/us/pl/100/426], § 204(1), inserted “5 percent of the” before “annuity”.
 
-    Subsec. (b)(2)(C). [Pub. L. 100–426, § 204(2)][/us/pl/100/426/s204/2], substituted “3 percent” for “4.5 percent”.
+    Subsec. (b)(2)(C). [Pub. L. 100–426][/us/pl/100/426], § 204(2), substituted “3 percent” for “4.5 percent”.
 
-    Subsec. (d). [Pub. L. 100–426, § 204(3)][/us/pl/100/426/s204/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–426][/us/pl/100/426], § 204(3), added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -149,14 +149,14 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(q); added July 13, 1959, Pub. L. 86
 [/us/usc/t31/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs774
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F903
-[/us/pl/100/426/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs204
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1600
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/426/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs204%2F1
-[/us/pl/100/426/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs204%2F2
-[/us/pl/100/426/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs204%2F3
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs208
 [/us/usc/t31/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs772

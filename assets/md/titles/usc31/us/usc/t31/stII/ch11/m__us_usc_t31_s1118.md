@@ -29,7 +29,7 @@
 
         (3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5][/us/usc/t5/s306], sections 1105, 1115, 1116, 1117, 1119 and 9703 of this title, and this section.
 
-(Added [Pub. L. 103–62, § 6(a)][/us/pl/103/62/s6/a], Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 6(a), Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
-[/us/pl/103/62/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs6%2Fa
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F290
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285

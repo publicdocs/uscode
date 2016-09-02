@@ -91,7 +91,7 @@
 
         (2) The authority to accept, for safekeeping, deposits and transfers of funds made through the automated teller machines.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 957][/us/stat/96/957]; [Pub. L. 104–106, div. A, title X, § 1090][/us/pl/104/106/s1090], Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459]; [Pub. L. 104–201, div. A, title X, § 1011][/us/pl/104/201/s1011], Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 106–65, div. A, title III, § 372][/us/pl/106/65/s372], Oct. 5, 1999, [113 Stat. 580][/us/stat/113/580]; [Pub. L. 108–136, div. A, title XII, § 1224][/us/pl/108/136/s1224], Nov. 24, 2003, [117 Stat. 1653][/us/stat/117/1653].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 957][/us/stat/96/957]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1090, Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1011, Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 372, Oct. 5, 1999, [113 Stat. 580][/us/stat/113/580]; [Pub. L. 108–136, div. A, title XII][/us/pl/108/136/dA/tXII], § 1224, Nov. 24, 2003, [117 Stat. 1653][/us/stat/117/1653].)
 
 <table>
 
@@ -207,33 +207,33 @@ Dec. 23, 1944, ch. 716, §§ 1–3, 58 Stat. 921; restated June 16, 1953, ch. 
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 1224(b)(1)][/us/pl/108/136/s1224/b/1], substituted “only for the following:” for “only for—” in introductory provisions.
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 108–136, § 1224(b)(2)][/us/pl/108/136/s1224/b/2], (5), substituted “An” for “an” and period for semicolon at end.
+    Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(2), (5), substituted “An” for “an” and period for semicolon at end.
 
-    Subsec. (b)(2). [Pub. L. 108–136, § 1224(b)(3)][/us/pl/108/136/s1224/b/3], (5), substituted “Personnel” for “personnel” and period for semicolon at end.
+    Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(3), (5), substituted “Personnel” for “personnel” and period for semicolon at end.
 
-    Subsec. (b)(3) to (5). [Pub. L. 108–136, § 1224(b)(4)][/us/pl/108/136/s1224/b/4], (5), substituted “A” for “a” and period for semicolon at end.
+    Subsec. (b)(3) to (5). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(4), (5), substituted “A” for “a” and period for semicolon at end.
 
-    Subsec. (b)(6). [Pub. L. 108–136, § 1224(b)(3)][/us/pl/108/136/s1224/b/3], (6), substituted “Personnel” for “personnel” and period for “; or”.
+    Subsec. (b)(6). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(3), (6), substituted “Personnel” for “personnel” and period for “; or”.
 
-    Subsec. (b)(7). [Pub. L. 108–136, § 1224(b)(4)][/us/pl/108/136/s1224/b/4], (7), substituted “A” for “a” and “1752(1)))” for “1752(1))”.
+    Subsec. (b)(7). [Pub. L. 108–136][/us/pl/108/136], § 1224(b)(4), (7), substituted “A” for “a” and “1752(1)))” for “1752(1))”.
 
-    Subsec. (b)(8). [Pub. L. 108–136, § 1224(a)][/us/pl/108/136/s1224/a], added par. (8).
+    Subsec. (b)(8). [Pub. L. 108–136][/us/pl/108/136], § 1224(a), added par. (8).
 
     1999—Subsec. (f). [Pub. L. 106–65][/us/pl/106/65] added subsec. (f).
 
-    1996—Subsec. (b)(3). [Pub. L. 104–201, § 1011(1)][/us/pl/104/201/s1011/1], substituted a semicolon for the period at end.
+    1996—Subsec. (b)(3). [Pub. L. 104–201][/us/pl/104/201], § 1011(1), substituted a semicolon for the period at end.
 
-    [Pub. L. 104–106, § 1090(a)(2)][/us/pl/104/106/s1090/a/2], added par. (3). Former par. (3) redesignated (4).
+    [Pub. L. 104–106][/us/pl/104/106], § 1090(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4) to (6). [Pub. L. 104–106, § 1090(a)(1)][/us/pl/104/106/s1090/a/1], redesignated pars. (3) to (5) as (4) to (6), respectively.
+    Subsec. (b)(4) to (6). [Pub. L. 104–106][/us/pl/104/106], § 1090(a)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-    Subsec. (b)(7). [Pub. L. 104–201, § 1011(2)][/us/pl/104/201/s1011/2]–(4), added par. (7).
+    Subsec. (b)(7). [Pub. L. 104–201][/us/pl/104/201], § 1011(2)–(4), added par. (7).
 
-    Subsec. (c)(3), (4). [Pub. L. 104–106, § 1090(b)][/us/pl/104/106/s1090/b], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 104–106][/us/pl/104/106], § 1090(b), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (e). [Pub. L. 104–106, § 1090(c)][/us/pl/104/106/s1090/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 1090(c), added subsec. (e).
 
 ----------
 
@@ -246,27 +246,27 @@ Dec. 23, 1944, ch. 716, §§ 1–3, 58 Stat. 921; restated June 16, 1953, ch. 
 [/us/usc/t37/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F957
-[/us/pl/104/106/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1090
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F459
-[/us/pl/104/201/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1011
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2635
-[/us/pl/106/65/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs372
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F580
-[/us/pl/108/136/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224
+[/us/pl/108/136/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXII
 [/us/stat/117/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1653
-[/us/pl/108/136/s1224/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F1
-[/us/pl/108/136/s1224/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F2
-[/us/pl/108/136/s1224/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F3
-[/us/pl/108/136/s1224/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F4
-[/us/pl/108/136/s1224/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F3
-[/us/pl/108/136/s1224/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fb%2F4
-[/us/pl/108/136/s1224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1224%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/201/s1011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1011%2F1
-[/us/pl/104/106/s1090/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1090%2Fa%2F2
-[/us/pl/104/106/s1090/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1090%2Fa%2F1
-[/us/pl/104/201/s1011/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1011%2F2
-[/us/pl/104/106/s1090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1090%2Fb
-[/us/pl/104/106/s1090/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1090%2Fc
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 
 

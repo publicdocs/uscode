@@ -89,11 +89,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 5(a)–(c), 91 Stat. 1616.  </td>
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–169, § 3(d)][/us/pl/98/169/s3/d], amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in [section 6102 of this title][/us/usc/t31/s6102].
+    1983—Subsec. (a). [Pub. L. 98–169][/us/pl/98/169], § 3(d), amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in [section 6102 of this title][/us/usc/t31/s6102].
 
-    [Pub. L. 98–169, § 1(2)][/us/pl/98/169/s1/2], substituted “Director” for “Director of the Office of Management and Budget”.
+    [Pub. L. 98–169][/us/pl/98/169], § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 
-    Subsecs. (b), (c). [Pub. L. 98–169, § 4][/us/pl/98/169/s4], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 98–169][/us/pl/98/169], § 4, substituted “Administrator” for “Director” wherever appearing.
 
 ----------
 
@@ -108,9 +108,9 @@ Dec. 28, 1977, Pub. L. 95–220, § 5(a)–(c), 91 Stat. 1616.  </td>
 [/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1113
 [/us/usc/t31/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102
-[/us/pl/98/169/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fd
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/usc/t31/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102
-[/us/pl/98/169/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F2
-[/us/pl/98/169/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs4
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 
 

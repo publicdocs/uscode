@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–134, title III, § 31001(i)(3)(A)][/us/pl/104/134/s31001/i/3/A], Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], which directed that the chapter title to chapter 77 of subtitle VI of this title be amended by substituting “ACCESS TO INFORMATION FOR DEBT COLLECTION” for “LOAN REQUIREMENTS”, was executed by making the substitution in the chapter title of chapter 77 of subtitle V of this title, to reflect the probable intent of Congress.
+    1996—[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(i)(3)(A), Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365], which directed that the chapter title to chapter 77 of subtitle VI of this title be amended by substituting “ACCESS TO INFORMATION FOR DEBT COLLECTION” for “LOAN REQUIREMENTS”, was executed by making the substitution in the chapter title of chapter 77 of subtitle V of this title, to reflect the probable intent of Congress.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s31001/i/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fi%2F3%2FA
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-365
 
 

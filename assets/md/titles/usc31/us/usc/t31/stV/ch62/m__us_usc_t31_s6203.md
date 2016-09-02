@@ -53,7 +53,7 @@
 
         (2) the number of printed copies and the number of machine-readable records of the report that will be purchased.
 
-(Added [Pub. L. 99–547, § 2(a)][/us/pl/99/547/s2/a], Oct. 27, 1986, [100 Stat. 3058][/us/stat/100/3058]; amended [Pub. L. 104–186, title II, § 219(b)(3)][/us/pl/104/186/s219/b/3], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
+(Added [Pub. L. 99–547][/us/pl/99/547], § 2(a), Oct. 27, 1986, [100 Stat. 3058][/us/stat/100/3058]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 219(b)(3), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/99/547/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fa
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3058
-[/us/pl/104/186/s219/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs219%2Fb%2F3
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

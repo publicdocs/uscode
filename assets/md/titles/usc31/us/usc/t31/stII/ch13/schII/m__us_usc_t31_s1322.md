@@ -35,7 +35,7 @@
 
         (4) The United States Postal Service shall assist the Secretary of the Treasury in providing public notice of the time limitation set forth in paragraph (3) of this subsection by posting notices thereof in all post offices as soon as practicable after the date of the enactment of the Postal Savings System Statute of Limitations Act.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 922][/us/stat/96/922]; [Pub. L. 98–359, § 2][/us/pl/98/359/s2], July 13, 1984, [98 Stat. 402][/us/stat/98/402].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 922][/us/stat/96/922]; [Pub. L. 98–359][/us/pl/98/359], § 2, July 13, 1984, [98 Stat. 402][/us/stat/98/402].)
 
 <table>
 
@@ -137,7 +137,7 @@ In subsection (b), before clause (1), the words “Secretary of the Treasury” 
 
  __References in Text__ 
 
-    Subsection (a) of the first section of the Act of August 13, 1971 ([Public Law 92–117][/us/pl/92/117]; [85 Stat. 337][/us/stat/85/337]), referred to in subsec. (c)(1), was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1081][/us/stat/96/1081].
+    Subsection (a) of the first section of the Act of August 13, 1971 ([Public Law 92–117][/us/pl/92/117]; [85 Stat. 337][/us/stat/85/337]), referred to in subsec. (c)(1), was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1081][/us/stat/96/1081].
 
     The date of the enactment of the Postal Savings System Statute of Limitations Act, referred to in subsec. (c)(3) and (4), is the date of enactment of [Pub. L. 98–359][/us/pl/98/359], which was approved July 13, 1984.
 
@@ -161,7 +161,7 @@ In subsection (b), before clause (1), the words “Secretary of the Treasury” 
 [/us/stat/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F337
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F922
-[/us/pl/98/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359%2Fs2
+[/us/pl/98/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359
 [/us/stat/98/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F402
 [/us/usc/t31/s725p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs725p
 [/us/usc/t31/s725p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs725p
@@ -171,7 +171,7 @@ In subsection (b), before clause (1), the words “Secretary of the Treasury” 
 [/us/stat/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F337
 [/us/pl/92/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F117
 [/us/stat/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F337
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1081
 [/us/pl/98/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359
 [/us/pl/98/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359

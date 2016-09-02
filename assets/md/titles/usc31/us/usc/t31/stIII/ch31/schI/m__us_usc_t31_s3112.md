@@ -129,15 +129,15 @@ Mar. 3, 1933, ch. 212, § 1(last par. on p. 1492), 47 Stat. 1492; Mar. 15, 193
 
  __References in Text__ 
 
-    The First Liberty Bond Act, referred to in subsec. (b)(2), is [act Apr. 24, 1917, ch. 4][/us/act/1917-04-24/ch4], [40 Stat. 35][/us/stat/40/35], which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12][/us/usc/t12/s462a], Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The First Liberty Bond Act, referred to in subsec. (b)(2), is [act Apr. 24, 1917, ch. 4][/us/act/1917-04-24/ch4], [40 Stat. 35][/us/stat/40/35], which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12][/us/usc/t12/s462a], Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
-    The Second Liberty Bond Act, referred to in subsec. (b)(2), is [act Sept. 24, 1917, ch. 56][/us/act/1917-09-24/ch56], [40 Stat. 288][/us/stat/40/288], as amended, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The Second Liberty Bond Act, referred to in subsec. (b)(2), is [act Sept. 24, 1917, ch. 56][/us/act/1917-09-24/ch56], [40 Stat. 288][/us/stat/40/288], as amended, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
-    The Third Liberty Bond Act, referred to in subsec. (b)(2), is [act Apr. 4, 1918, ch. 44][/us/act/1918-04-04/ch44], [40 Stat. 502][/us/stat/40/502], which enacted sections 765, 766, and 774 and amended sections 752, 752a, 754, and 771 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The Third Liberty Bond Act, referred to in subsec. (b)(2), is [act Apr. 4, 1918, ch. 44][/us/act/1918-04-04/ch44], [40 Stat. 502][/us/stat/40/502], which enacted sections 765, 766, and 774 and amended sections 752, 752a, 754, and 771 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
-    The Fourth Liberty Bond Act, referred to in subsec. (b)(2), is [act July 9, 1918, ch. 142][/us/act/1918-07-09/ch142], [40 Stat. 844][/us/stat/40/844], which enacted sections 750 and 772 and amended sections 752 and 774 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The Fourth Liberty Bond Act, referred to in subsec. (b)(2), is [act July 9, 1918, ch. 142][/us/act/1918-07-09/ch142], [40 Stat. 844][/us/stat/40/844], which enacted sections 750 and 772 and amended sections 752 and 774 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
-    The Victory Liberty Loan Act, referred to in subsec. (b)(2), is [act Mar. 3, 1919, ch. 100][/us/act/1919-03-03/ch100], [40 Stat. 1309][/us/stat/40/1309], which enacted sections 749, 753, 763, 767, 802, and 803 and amended sections 750, 754, and 774 of former Title 31 and [section 343 of Title 15][/us/usc/t15/s343], Commerce and Trade, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
+    The Victory Liberty Loan Act, referred to in subsec. (b)(2), is [act Mar. 3, 1919, ch. 100][/us/act/1919-03-03/ch100], [40 Stat. 1309][/us/stat/40/1309], which enacted sections 749, 753, 763, 767, 802, and 803 and amended sections 750, 754, and 774 of former Title 31 and [section 343 of Title 15][/us/usc/t15/s343], Commerce and Trade, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1072][/us/stat/96/1072].
 
     Sections 301 and 302 of the Emergency Relief and Construction Act of 1932, referred to in subsec. (b)(3), are sections 301 and 302 of [act July 21, 1932, ch. 520][/us/act/1932-07-21/ch520], [47 Stat. 709][/us/stat/47/709], which are not classified to the Code.
 
@@ -153,24 +153,24 @@ Mar. 3, 1933, ch. 212, § 1(last par. on p. 1492), 47 Stat. 1492; Mar. 15, 193
 [/us/act/1917-04-24/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-04-24%2Fch4
 [/us/stat/40/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F35
 [/us/usc/t12/s462a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs462a
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 [/us/act/1917-09-24/ch56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-09-24%2Fch56
 [/us/stat/40/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F288
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 [/us/act/1918-04-04/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-04%2Fch44
 [/us/stat/40/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F502
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 [/us/act/1918-07-09/ch142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-09%2Fch142
 [/us/stat/40/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F844
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 [/us/act/1919-03-03/ch100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-03%2Fch100
 [/us/stat/40/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1309
 [/us/usc/t15/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs343
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1072
 [/us/act/1932-07-21/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-21%2Fch520
 [/us/stat/47/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F709

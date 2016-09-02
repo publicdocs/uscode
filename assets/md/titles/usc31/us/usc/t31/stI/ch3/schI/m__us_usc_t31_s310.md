@@ -129,7 +129,7 @@
 
             To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
 
-(Added [Pub. L. 107–56, title III, § 361(a)(2)][/us/pl/107/56/s361/a/2], Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; amended [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6101, 6203(a), Dec. 17, 2004, [118 Stat. 3744][/us/stat/118/3744], 3746; [Pub. L. 111–195, title I, § 109(c)][/us/pl/111/195/s109/c], July 1, 2010, [124 Stat. 1338][/us/stat/124/1338].)
+(Added [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 361(a)(2), Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; amended [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], §§ 6101, 6203(a), Dec. 17, 2004, [118 Stat. 3744][/us/stat/118/3744], 3746; [Pub. L. 111–195, title I][/us/pl/111/195/tI], § 109(c), July 1, 2010, [124 Stat. 1338][/us/stat/124/1338].)
 
  __References in Text__ 
 
@@ -149,9 +149,9 @@
 
     2010—Subsec. (d)(1). [Pub. L. 111–195][/us/pl/111/195] substituted “$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013” for “such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005”.
 
-    2004—Subsec. (c)(1), (2)(A). [Pub. L. 108–458, § 6203(a)][/us/pl/108/458/s6203/a], substituted “FinCEN” for “the Network”.
+    2004—Subsec. (c)(1), (2)(A). [Pub. L. 108–458][/us/pl/108/458], § 6203(a), substituted “FinCEN” for “the Network”.
 
-    Subsec. (d). [Pub. L. 108–458, § 6101][/us/pl/108/458/s6101], designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 6101, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -159,7 +159,7 @@
 
  __Establishment of Highly Secure Network__ 
 
-[Pub. L. 107–56, title III, § 362][/us/pl/107/56/s362], Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], as amended by [Pub. L. 108–458, title VI, § 6202(m)][/us/pl/108/458/s6202/m], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 362, Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(m), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -185,11 +185,11 @@
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/107/56/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs362
-[/us/pl/107/56/s361/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs361%2Fa%2F2
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F329
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3744
-[/us/pl/111/195/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs109%2Fc
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1338
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
@@ -201,16 +201,16 @@
 [/us/pl/107/56/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs362
 [/us/usc/t31/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs315
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
-[/us/pl/108/458/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fa
-[/us/pl/108/458/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6101
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s6203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fa
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/108/458/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6205
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
-[/us/pl/107/56/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs362
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F332
-[/us/pl/108/458/s6202/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fm
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508

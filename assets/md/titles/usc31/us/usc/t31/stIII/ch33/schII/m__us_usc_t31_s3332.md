@@ -107,7 +107,7 @@
 
             Such term shall not include any payment under the Internal Revenue Code of 1986.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 955][/us/stat/96/955]; [Pub. L. 98–369, div. B, title VIII, § 2814][/us/pl/98/369/s2814], July 18, 1984, [98 Stat. 1207][/us/stat/98/1207]; [Pub. L. 103–356, title IV, § 402(a)][/us/pl/103/356/s402/a], Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412]; [Pub. L. 104–134, title III, § 31001(x)(1)][/us/pl/104/134/s31001/x/1], Apr. 26, 1996, [110 Stat. 1321–376][/us/stat/110/1321-376].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 955][/us/stat/96/955]; [Pub. L. 98–369, div. B, title VIII][/us/pl/98/369/dB/tVIII], § 2814, July 18, 1984, [98 Stat. 1207][/us/stat/98/1207]; [Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 402(a), Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(x)(1), Apr. 26, 1996, [110 Stat. 1321–376][/us/stat/110/1321-376].)
 
 <table>
 
@@ -315,9 +315,9 @@ R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.  </td>
 
     1994—[Pub. L. 103–356][/us/pl/103/356] substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 2814(a)][/us/pl/98/369/s2814/a], inserted “without charge” after “shall be sent”.
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 2814(a), inserted “without charge” after “shall be sent”.
 
-    Subsecs. (c) to (g). [Pub. L. 98–369, § 2814(b)][/us/pl/98/369/s2814/b], struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+    Subsecs. (c) to (g). [Pub. L. 98–369][/us/pl/98/369], § 2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
  __Savings Provision__ 
 
@@ -325,7 +325,7 @@ R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.  </td>
 
  __Electronic Pay Stubs__ 
 
-[Pub. L. 110–423, § 1][/us/pl/110/423/s1], Oct. 15, 2008, [122 Stat. 4818][/us/stat/122/4818], provided that:
+[Pub. L. 110–423][/us/pl/110/423], § 1, Oct. 15, 2008, [122 Stat. 4818][/us/stat/122/4818], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -352,11 +352,11 @@ R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.  </td>
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F955
-[/us/pl/98/369/s2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2814
+[/us/pl/98/369/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVIII
 [/us/stat/98/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1207
-[/us/pl/103/356/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs402%2Fa
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3412
-[/us/pl/104/134/s31001/x/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fx%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-376
 [/us/act/1973-12-24/s448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1973-12-24%2Fs448
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
@@ -368,12 +368,12 @@ R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.  </td>
 [/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356
-[/us/pl/98/369/s2814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2814%2Fa
-[/us/pl/98/369/s2814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2814%2Fb
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t10/s2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2786
 [/us/pl/106/65/s1008/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1008%2Fa%2F3
 [/us/usc/t10/s2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2786
-[/us/pl/110/423/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F423%2Fs1
+[/us/pl/110/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F423
 [/us/stat/122/4818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4818
 [/us/usc/t31/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3332
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105

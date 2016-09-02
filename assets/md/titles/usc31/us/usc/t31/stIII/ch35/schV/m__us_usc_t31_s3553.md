@@ -109,25 +109,25 @@
 
     (g) If an interested party files a protest in connection with a public-private competition described in [section 3551(2)(B) of this title][/us/usc/t31/s3551/2/B], a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
 
-(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1200][/us/stat/98/1200]; amended [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1402, 1403(c), Oct. 13, 1994, [108 Stat. 3287][/us/stat/108/3287], 3290; [Pub. L. 104–106, div. D, title XLIII, § 4321(d)(2)][/us/pl/104/106/s4321/d/2], div. E, title LV, § 5501(1), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674], 698; [Pub. L. 108–375, div. A, title III, § 326(c)][/us/pl/108/375/s326/c], Oct. 28, 2004, [118 Stat. 1848][/us/stat/118/1848].)
+(Added [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2741(a), July 18, 1984, [98 Stat. 1200][/us/stat/98/1200]; amended [Pub. L. 103–355, title I][/us/pl/103/355/tI], §§ 1402, 1403(c), Oct. 13, 1994, [108 Stat. 3287][/us/stat/108/3287], 3290; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(d)(2), div. E, title LV, § 5501(1), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674], 698; [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 326(c), Oct. 28, 2004, [118 Stat. 1848][/us/stat/118/1848].)
 
  __Amendments__ 
 
     2004—Subsec. (g). [Pub. L. 108–375][/us/pl/108/375] added subsec. (g).
 
-    1996—Subsec. (b)(2)(A). [Pub. L. 104–106, § 5501(1)][/us/pl/104/106/s5501/1], substituted “30 days” for “35 days”.
+    1996—Subsec. (b)(2)(A). [Pub. L. 104–106][/us/pl/104/106], § 5501(1), substituted “30 days” for “35 days”.
 
-    Subsec. (b)(3). [Pub. L. 104–106, § 4321(d)(2)][/us/pl/104/106/s4321/d/2], substituted “3554(a)(4)” for “3554(a)(3)”.
+    Subsec. (b)(3). [Pub. L. 104–106][/us/pl/104/106], § 4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–355, § 1402(a)(1)(A)][/us/pl/103/355/s1402/a/1/A], substituted “one day after” for “one working day of”.
+    1994—Subsec. (b)(1). [Pub. L. 103–355][/us/pl/103/355], § 1402(a)(1)(A), substituted “one day after” for “one working day of”.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–355, § 1402(a)(1)(B)(i)][/us/pl/103/355/s1402/a/1/B/i], substituted “35 days after” for “25 working days from”.
+    Subsec. (b)(2)(A). [Pub. L. 103–355][/us/pl/103/355], § 1402(a)(1)(B)(i), substituted “35 days after” for “25 working days from”.
 
-    Subsec. (b)(2)(C). [Pub. L. 103–355, § 1402(a)(1)(B)(ii)][/us/pl/103/355/s1402/a/1/B/ii], substituted “20 days after” for “10 working days from”.
+    Subsec. (b)(2)(C). [Pub. L. 103–355][/us/pl/103/355], § 1402(a)(1)(B)(ii), substituted “20 days after” for “10 working days from”.
 
-    Subsec. (c)(3). [Pub. L. 103–355, § 1402(a)(2)][/us/pl/103/355/s1402/a/2], substituted “after the making of such finding” for “thereafter”.
+    Subsec. (c)(3). [Pub. L. 103–355][/us/pl/103/355], § 1402(a)(2), substituted “after the making of such finding” for “thereafter”.
 
-    Subsec. (d). [Pub. L. 103–355, § 1402(b)][/us/pl/103/355/s1402/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    Subsec. (d). [Pub. L. 103–355][/us/pl/103/355], § 1402(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(d)(1) If a Federal agency receives notice of a protest under this section after the contract has been awarded but within 10 days of the date of the contract award, the Federal agency (except as provided under paragraph (2)) shall, upon receipt of that notice, immediately direct the contractor to cease performance under the contract and to suspend any related activities that may result in additional obligations being incurred by the United States under that contract. Performance of the contract may not be resumed while the protest is pending.
 
@@ -141,7 +141,7 @@
 
     “(B) after the Comptroller General is notified of that finding.”
 
-    Subsec. (f). [Pub. L. 103–355, § 1403(c)][/us/pl/103/355/s1403/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 103–355][/us/pl/103/355], § 1403(c), designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -176,23 +176,23 @@
 [/us/usc/t31/s3554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3554%2Fa%2F2
 [/us/usc/t31/s3554/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3554%2Fa%2F4
 [/us/usc/t31/s3551/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3551%2F2%2FB
-[/us/pl/98/369/s2741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2741%2Fa
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1200
-[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3287
-[/us/pl/104/106/s4321/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fd%2F2
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F674
-[/us/pl/108/375/s326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs326%2Fc
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1848
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/104/106/s5501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5501%2F1
-[/us/pl/104/106/s4321/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fd%2F2
-[/us/pl/103/355/s1402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1402%2Fa%2F1%2FA
-[/us/pl/103/355/s1402/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1402%2Fa%2F1%2FB%2Fi
-[/us/pl/103/355/s1402/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1402%2Fa%2F1%2FB%2Fii
-[/us/pl/103/355/s1402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1402%2Fa%2F2
-[/us/pl/103/355/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1402%2Fb
-[/us/pl/103/355/s1403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1403%2Fc
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/375/s326/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs326%2Fd
 [/us/usc/t31/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3551

@@ -31,7 +31,7 @@
 
     (d) On request of the Secretary and with the approval of the head of an executive agency referred to in subsection (c) of this section, facilities of the agency may be used to assist in disbursing public money available for expenditure by another executive agency.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 949][/us/stat/96/949]; [Pub. L. 103–355, title III, § 3067][/us/pl/103/355/s3067], Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; [Pub. L. 104–106, div. A, title IX, § 913(a)(1)][/us/pl/104/106/s913/a/1], Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410]; [Pub. L. 104–201, div. A, title X, § 1009(a)(1)][/us/pl/104/201/s1009/a/1], Sept. 23, 1996, [110 Stat. 2633][/us/stat/110/2633]; [Pub. L. 109–241, title IX, § 902(b)(1)][/us/pl/109/241/s902/b/1], July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 949][/us/stat/96/949]; [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3067, Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(a)(1), Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1009(a)(1), Sept. 23, 1996, [110 Stat. 2633][/us/stat/110/2633]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(b)(1), July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
 
 <table>
 
@@ -147,7 +147,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
  __Improper Payments Elimination and Recovery Improvement__ 
 
-[Pub. L. 112–248][/us/pl/112/248], Jan. 10, 2013, [126 Stat. 2390][/us/stat/126/2390], as amended by [Pub. L. 113–67, div. A, title II, § 204(c)][/us/pl/113/67/s204/c], Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 114–109][/us/pl/114/109], §§ 2–4, Dec. 18, 2015, [129 Stat. 2225–2227][/us/stat/129/2225-2227], provided that:
+[Pub. L. 112–248][/us/pl/112/248], Jan. 10, 2013, [126 Stat. 2390][/us/stat/126/2390], as amended by [Pub. L. 113–67, div. A, title II][/us/pl/113/67/dA/tII], § 204(c), Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 114–109][/us/pl/114/109], §§ 2–4, Dec. 18, 2015, [129 Stat. 2225–2227][/us/stat/129/2225-2227], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -208,13 +208,13 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F949
-[/us/pl/103/355/s3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3067
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3337
-[/us/pl/104/106/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fa%2F1
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F410
-[/us/pl/104/201/s1009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fa%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2633
-[/us/pl/109/241/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fb%2F1
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/stat/64/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1270
 [/us/stat/54/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1234
@@ -226,7 +226,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/112/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F248
 [/us/stat/126/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2390
-[/us/pl/113/67/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs204%2Fc
+[/us/pl/113/67/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtII
 [/us/stat/127/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1181
 [/us/pl/114/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F109
 [/us/stat/129/2225-2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2225-2227

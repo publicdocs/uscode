@@ -103,31 +103,31 @@ May 12, 1933, ch. 25, § 43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30,
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–347, title VIII, § 801][/us/pl/109/347/s801], Oct. 13, 2006, [120 Stat. 1952][/us/stat/120/1952], provided that: 
+[Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 801, Oct. 13, 2006, [120 Stat. 1952][/us/stat/120/1952], provided that: 
 
 > “This title \[enacting sections 5361 to 5367 of this title and provisions set out as a note under [section 5361 of this title][/us/usc/t31/s5361]\] may be cited as the ‘Unlawful Internet Gambling Enforcement Act of 2006’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VI, § 6201][/us/pl/108/458/s6201], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that: 
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6201, Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that: 
 
 > “This subtitle \[subtitle C (§§ 6201–6205) of title VI of [Pub. L. 108–458][/us/pl/108/458], amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, [section 1681v of Title 15][/us/usc/t15/s1681v], Commerce and Trade, and [section 262p–4r of Title 22][/us/usc/t22/s262p–4r], Foreign Relations and Intercourse, enacting provisions set out as a note under [section 1828 of Title 12][/us/usc/t12/s1828], amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under [section 5311 of this title][/us/usc/t31/s5311]\] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
 
  __Short Title of 2001 Amendment__ 
 
-[Pub. L. 107–56, title III, § 301][/us/pl/107/56/s301], Oct. 26, 2001, [115 Stat. 296][/us/stat/115/296], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 301, Oct. 26, 2001, [115 Stat. 296][/us/stat/115/296], provided that: 
 
 > “This title \[enacting sections 310, 5318A, 5331, and 5332 of this title, [section 1681v of Title 15][/us/usc/t15/s1681v], Commerce and Trade, and [section 262p–4r of Title 22][/us/usc/t22/s262p–4r], Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, [section 1681u of Title 15][/us/usc/t15/s1681u], sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, [section 853 of Title 21][/us/usc/t21/s853], Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former [section 310 of this title][/us/usc/t31/s310] as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and [section 983 of Title 18][/us/usc/t18/s983]\] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–310, § 1][/us/pl/105/310/s1], Oct. 30, 1998, [112 Stat. 2941][/us/stat/112/2941], provided that: 
+[Pub. L. 105–310][/us/pl/105/310], § 1, Oct. 30, 1998, [112 Stat. 2941][/us/stat/112/2941], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter and provisions set out as a note under [section 5342 of this title][/us/usc/t31/s5342]\] may be cited as the ‘Money Laundering and Financial Crimes Strategy Act of 1998’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–325, title IV, § 401][/us/pl/103/325/s401], Sept. 23, 1994, [108 Stat. 2243][/us/stat/108/2243], provided that: 
+[Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 401, Sept. 23, 1994, [108 Stat. 2243][/us/stat/108/2243], provided that: 
 
 > “This title \[enacting [section 5330 of this title][/us/usc/t31/s5330], amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title\] may be cited as the ‘Money Laundering Suppression Act of 1994’.”
 
@@ -140,17 +140,17 @@ May 12, 1933, ch. 25, § 43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30,
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F993
-[/us/pl/109/347/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs801
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1952
 [/us/usc/t31/s5361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5361
-[/us/pl/108/458/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6201
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3745
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t15/s1681v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681v
 [/us/usc/t22/s262p–4r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934r
 [/us/usc/t12/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1828
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311
-[/us/pl/107/56/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs301
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F296
 [/us/usc/t15/s1681v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681v
 [/us/usc/t22/s262p–4r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934r
@@ -158,10 +158,10 @@ May 12, 1933, ch. 25, § 43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30,
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
 [/us/usc/t18/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983
-[/us/pl/105/310/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs1
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2941
 [/us/usc/t31/s5342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5342
-[/us/pl/103/325/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs401
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2243
 [/us/usc/t31/s5330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5330
 

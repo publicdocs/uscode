@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–66, title III, § 3001(c)(2)][/us/pl/104/66/s3001/c/2], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], struck out item 3810 “Reports”.
+    1995—[Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3001(c)(2), Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], struck out item 3810 “Reports”.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/104/66/s3001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fc%2F2
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
 
 

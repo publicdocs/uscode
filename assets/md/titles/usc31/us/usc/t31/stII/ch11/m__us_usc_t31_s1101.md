@@ -97,31 +97,31 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–352, § 1(a)][/us/pl/111/352/s1/a], Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866], provided that: 
+[Pub. L. 111–352][/us/pl/111/352], § 1(a), Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866], provided that: 
 
 > “This Act \[enacting sections 1115, 1116, and 1120 to 1125 of this title and [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, amending [section 1105 of this title][/us/usc/t31/s1105], repealing sections 1115 and 1116 of this title and [section 306 of Title 5][/us/usc/t5/s306], and enacting provisions set out as notes under [section 1115 of this title][/us/usc/t31/s1115] and [section 5105 of Title 5][/us/usc/t5/s5105]\] may be cited as the ‘GPRA Modernization Act of 2010’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–291, title IV, § 401][/us/pl/111/291/s401], Dec. 8, 2010, [124 Stat. 3097][/us/stat/124/3097], provided that: 
+[Pub. L. 111–291, title IV][/us/pl/111/291/tIV], § 401, Dec. 8, 2010, [124 Stat. 3097][/us/stat/124/3097], provided that: 
 
 > “This title \[amending [section 1105 of this title][/us/usc/t31/s1105], enacting provisions set out as a note under [section 1105 of this title][/us/usc/t31/s1105], and amending provisions set out as a note under this section\] may be cited as the ‘Crow Tribe Water Rights Settlement Act of 2010’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–62, § 1][/us/pl/103/62/s1], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], provided that: 
+[Pub. L. 103–62][/us/pl/103/62], § 1, Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], provided that: 
 
 > “This Act \[enacting sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amending [section 1105 of this title][/us/usc/t31/s1105], and enacting provisions set out as notes under [section 1115 of this title][/us/usc/t31/s1115]\] may be cited as the ‘Government Performance and Results Act of 1993’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–501, title II, § 201][/us/pl/98/501/s201], Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324], provided that: 
+[Pub. L. 98–501, title II][/us/pl/98/501/tII], § 201, Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324], provided that: 
 
 > “This title \[amending [section 1105 of this title][/us/usc/t31/s1105] and enacting provisions set out as a note under [section 1105 of this title][/us/usc/t31/s1105]\] may be cited as the ‘Federal Capital Investment Program Information Act of 1984’.”
 
  __Construction of 1993 Amendment__ 
 
-[Pub. L. 103–62, § 10][/us/pl/103/62/s10], Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], provided that: 
+[Pub. L. 103–62][/us/pl/103/62], § 10, Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], provided that: 
 
 > “No provision or amendment made by this Act \[see Short Title of 1993 Amendment note set out above\] may be construed as—
 
@@ -131,7 +131,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
  __Congressional Findings and Statement of Purposes__ 
 
-[Pub. L. 103–62, § 2][/us/pl/103/62/s2], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], provided that:
+[Pub. L. 103–62][/us/pl/103/62], § 2, Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -161,7 +161,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
  __Congressional Oversight__ 
 
-[Pub. L. 103–62, § 8(a)][/us/pl/103/62/s8/a], Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294], provided that: 
+[Pub. L. 103–62][/us/pl/103/62], § 8(a), Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1993 Amendment note set out above\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) \[now 1105(a)(28)\] of title 31, United States Code.”
 
@@ -181,32 +181,32 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F774
 [/us/stat/42/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F20
-[/us/pl/111/352/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs1%2Fa
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3866
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/usc/t5/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5105
-[/us/pl/111/291/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs401
+[/us/pl/111/291/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtIV
 [/us/stat/124/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3097
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/103/62/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs1
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
-[/us/pl/98/501/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2Fs201
+[/us/pl/98/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2FtII
 [/us/stat/98/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2324
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/103/62/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs10
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F295
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/103/62/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs2
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/pl/103/62/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs8%2Fa
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F294
 
 

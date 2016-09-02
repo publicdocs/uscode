@@ -81,7 +81,7 @@
 
     (i) An agency subject to [section 9 of the Act of May 18, 1933][/us/act/1933-05-18/s9] ([16 U.S.C. 831h][/us/usc/t16/s831h]), may implement this section at its discretion.
 
-(Added [Pub. L. 98–369, div. B, title VI, § 2653(a)(1)][/us/pl/98/369/s2653/a/1], July 18, 1984, [98 Stat. 1153][/us/stat/98/1153]; amended [Pub. L. 101–508, title V, § 5129(b)][/us/pl/101/508/s5129/b], Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 102–589, § 3][/us/pl/102/589/s3], Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133]; [Pub. L. 103–296, title I, § 108(j)(2)][/us/pl/103/296/s108/j/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 104–134, title III, § 31001(u)(1)][/us/pl/104/134/s31001/u/1], (v)(1), (w), Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375].)
+(Added [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2653(a)(1), July 18, 1984, [98 Stat. 1153][/us/stat/98/1153]; amended [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5129(b), Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 102–589][/us/pl/102/589], § 3, Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(j)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(u)(1), (v)(1), (w), Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375].)
 
  __References in Text__ 
 
@@ -93,9 +93,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–134, § 31001(v)(1)][/us/pl/104/134/s31001/v/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+    1996—Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
 
-    Subsec. (h). [Pub. L. 104–134, § 31001(w)][/us/pl/104/134/s31001/w], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
+    Subsec. (h). [Pub. L. 104–134][/us/pl/104/134], § 31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
 
     “(1) the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to [section 9 of the Act of May 18, 1933][/us/act/1933-05-18/s9] ([48 Stat. 63][/us/stat/48/63], chapter 32; [16 U.S.C. 831h][/us/usc/t16/s831h])), and includes a Government corporation (as such term is defined in [section 103 of title 5][/us/usc/t5/s103], United States Code);
 
@@ -105,21 +105,21 @@
 
     “(4) the term ‘person’ means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.”
 
-    Subsec. (i). [Pub. L. 104–134, § 31001(u)(1)][/us/pl/104/134/s31001/u/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–134][/us/pl/104/134], § 31001(u)(1), added subsec. (i).
 
     1994—Subsec. (f)(2). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
-    1992—Subsec. (a). [Pub. L. 102–589, § 3(1)][/us/pl/102/589/s3/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
+    1992—Subsec. (a). [Pub. L. 102–589][/us/pl/102/589], § 3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
 
-    Subsec. (b)(3) to (5). [Pub. L. 102–589, § 3(2)][/us/pl/102/589/s3/2], struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
+    Subsec. (b)(3) to (5). [Pub. L. 102–589][/us/pl/102/589], § 3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
 
-    Subsec. (g). [Pub. L. 102–589, § 3(5)][/us/pl/102/589/s3/5], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 102–589][/us/pl/102/589], § 3(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 102–589, § 3(3)][/us/pl/102/589/s3/3], (4), redesignated subsec. (g) as (h) and added par. (4).
+    Subsec. (h). [Pub. L. 102–589][/us/pl/102/589], § 3(3), (4), redesignated subsec. (g) as (h) and added par. (4).
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 5129(b)(1)][/us/pl/101/508/s5129/b/1], struck out “OASDI overpayment and” after “other than any”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
 
-    Subsecs. (f), (g). [Pub. L. 101–508, § 5129(b)(2)][/us/pl/101/508/s5129/b/2], (3), added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 101–508][/us/pl/101/508], § 5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -152,15 +152,15 @@
 [/us/usc/t16/s831h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h
 [/us/act/1933-05-18/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fs9
 [/us/usc/t16/s831h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h
-[/us/pl/98/369/s2653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2653%2Fa%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1153
-[/us/pl/101/508/s5129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5129%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-287
-[/us/pl/102/589/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs3
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
-[/us/pl/103/296/s108/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fj%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/104/134/s31001/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fu%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-375
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -168,20 +168,20 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/usc/t26/s6109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6109
-[/us/pl/104/134/s31001/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fv%2F1
-[/us/pl/104/134/s31001/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fw
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/act/1933-05-18/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fs9
 [/us/stat/48/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F63
 [/us/usc/t16/s831h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
-[/us/pl/104/134/s31001/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fu%2F1
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/102/589/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs3%2F1
-[/us/pl/102/589/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs3%2F2
-[/us/pl/102/589/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs3%2F5
-[/us/pl/102/589/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs3%2F3
-[/us/pl/101/508/s5129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5129%2Fb%2F1
-[/us/pl/101/508/s5129/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5129%2Fb%2F2
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401

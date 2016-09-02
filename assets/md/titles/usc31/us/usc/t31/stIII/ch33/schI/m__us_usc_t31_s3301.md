@@ -101,29 +101,29 @@ R.S. § 305(less disbursement).  </td>
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–109, § 1][/us/pl/114/109/s1], Dec. 18, 2015, [129 Stat. 2225][/us/stat/129/2225], provided that: 
+[Pub. L. 114–109][/us/pl/114/109], § 1, Dec. 18, 2015, [129 Stat. 2225][/us/stat/129/2225], provided that: 
 
 > “This Act \[amending provisions set out as a note under [section 3321 of this title][/us/usc/t31/s3321]\] may be cited as the ‘Federal Improper Payments Coordination Act of 2015’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–204, § 1][/us/pl/111/204/s1], July 22, 2010, [124 Stat. 2224][/us/stat/124/2224], provided that: 
+[Pub. L. 111–204][/us/pl/111/204], § 1, July 22, 2010, [124 Stat. 2224][/us/stat/124/2224], provided that: 
 
 > “This Act \[amending sections 3501 and 3562 of this title and [section 612 of Title 6][/us/usc/t6/s612], Domestic Security, repealing sections 3561 and 3563 to 3567 of this title, enacting provisions set out as notes under [section 3321 of this title][/us/usc/t31/s3321], and amending provisions set out as a note under [section 3321 of this title][/us/usc/t31/s3321]\] may be cited as the ‘Improper Payments Elimination and Recovery Act of 2010’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–433, § 1][/us/pl/106/433/s1], Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910], provided that: 
+[Pub. L. 106–433][/us/pl/106/433], § 1, Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910], provided that: 
 
 > “This Act \[amending [section 3327 of this title][/us/usc/t31/s3327] and enacting provisions set out as a note under [section 3327 of this title][/us/usc/t31/s3327]\] may be cited as the ‘Social Security Number Confidentiality Act of 2000’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–356, § 1(a)][/us/pl/103/356/s1/a], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that: 
+[Pub. L. 103–356][/us/pl/103/356], § 1(a), Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Government Management Reform Act of 1994’.”
 
-[Pub. L. 103–356, title IV, § 401][/us/pl/103/356/s401], Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that: 
+[Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 401, Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that: 
 
 > “This title \[amending sections 331, 3332, 3515, and 3521 of this title and enacting provisions set out as notes under [section 501 of this title][/us/usc/t31/s501]\] may be cited as the ‘Federal Financial Management Act of 1994’.”
 
@@ -138,21 +138,21 @@ R.S. § 305(less disbursement).  </td>
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F948
 [/us/usc/t31/s3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3326
-[/us/pl/114/109/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F109%2Fs1
+[/us/pl/114/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F109
 [/us/stat/129/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2225
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
-[/us/pl/111/204/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs1
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2224
 [/us/usc/t6/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
-[/us/pl/106/433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433%2Fs1
+[/us/pl/106/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433
 [/us/stat/114/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1910
 [/us/usc/t31/s3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3327
 [/us/usc/t31/s3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3327
-[/us/pl/103/356/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs1%2Fa
+[/us/pl/103/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
-[/us/pl/103/356/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs401
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3412
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 

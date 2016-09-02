@@ -23,7 +23,7 @@
 
     (d) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Added [Pub. L. 98–473, title II, § 901(e)][/us/pl/98/473/s901/e], Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 901(e), Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901%2Fe
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2135
 
 

@@ -121,7 +121,7 @@ July 1, 1944, ch. 357, 58 Stat. 648.  </td>
 
  __Authority of Special Police Officers__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 517\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–346, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 517\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–346, provided that: 
 
 > “Notwithstanding any other provision of law or regulation during the fiscal year ending September 30, 1997, and thereafter:
 
@@ -133,9 +133,9 @@ July 1, 1944, ch. 357, 58 Stat. 648.  </td>
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–52, title V, § 520][/us/pl/104/52/s520], Nov. 19, 1995, [109 Stat. 494][/us/stat/109/494].
+    [Pub. L. 104–52, title V][/us/pl/104/52/tV], § 520, Nov. 19, 1995, [109 Stat. 494][/us/stat/109/494].
 
-    [Pub. L. 103–329, title V, § 535][/us/pl/103/329/s535], Sept. 30, 1994, [108 Stat. 2414][/us/stat/108/2414].
+    [Pub. L. 103–329, title V][/us/pl/103/329/tV], § 535, Sept. 30, 1994, [108 Stat. 2414][/us/stat/108/2414].
 
 ----------
 
@@ -147,11 +147,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t31/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5142
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F990
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/52/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs520
+[/us/pl/104/52/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtV
 [/us/stat/109/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F494
-[/us/pl/103/329/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs535
+[/us/pl/103/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtV
 [/us/stat/108/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2414
 
 

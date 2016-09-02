@@ -141,7 +141,7 @@
 
     References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added [Pub. L. 108–447, div. H, title II, § 222(a)][/us/pl/108/447/s222/a], Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], § 313; renumbered § 312, [Pub. L. 111–203, title V, § 502(a)(2)][/us/pl/111/203/s502/a/2], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580]; amended [Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(I)][/us/pl/114/22/s105/c/2/A/ii/I], May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
+(Added [Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 222(a), Dec. 8, 2004, [118 Stat. 3242][/us/stat/118/3242], § 313; renumbered § 312, [Pub. L. 111–203, title V][/us/pl/111/203/tV], § 502(a)(2), July 21, 2010, [124 Stat. 1580][/us/stat/124/1580]; amended [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 105(c)(2)(A)(ii)(I), May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
 
  __References in Text__ 
 
@@ -177,11 +177,11 @@
 ----------
 
 [/us/usc/t31/s9705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705
-[/us/pl/108/447/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fa
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3242
-[/us/pl/111/203/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fa%2F2
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1580
-[/us/pl/114/22/s105/c/2/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fii%2FI
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F237
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951

@@ -41,7 +41,7 @@
 
         (2) provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies against a unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1874][/us/stat/108/1874].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1874][/us/stat/108/1874].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6711, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1021][/us/stat/96/1021]; [Pub. L. 98–185, § 4][/us/pl/98/185/s4], Nov. 30, 1983, [97 Stat. 1309][/us/stat/97/1309], related to State variation of local government allocations, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6711, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1021][/us/stat/96/1021]; [Pub. L. 98–185][/us/pl/98/185], § 4, Nov. 30, 1983, [97 Stat. 1309][/us/stat/97/1309], related to State variation of local government allocations, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1874
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
@@ -78,9 +78,9 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1021
-[/us/pl/98/185/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185%2Fs4
+[/us/pl/98/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185
 [/us/stat/97/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1309
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 
 

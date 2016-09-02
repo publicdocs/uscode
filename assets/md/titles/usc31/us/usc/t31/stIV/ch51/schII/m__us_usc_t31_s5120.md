@@ -149,7 +149,7 @@ May 20, 1966, Pub. L. 89–427, § 5, 80 Stat. 161.  </td>
 
  __Threshold for Requiring Taxpayer Identification Number__ 
 
-[Pub. L. 112–74, div. C, title I, § 117][/us/pl/112/74/s117], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891], provided that: 
+[Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], § 117, Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891], provided that: 
 
 > “In the current fiscal year and each fiscal year hereafter, any person who forwards to the Bureau of Engraving and Printing a mutilated paper currency claim equal to or exceeding $10,000 for redemption will be required to provide the Bureau their taxpayer identification number.”
 
@@ -169,7 +169,7 @@ May 20, 1966, Pub. L. 89–427, § 5, 80 Stat. 161.  </td>
 [/us/act/1874-06-23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-23%2Fs1
 [/us/stat/18/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F206
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136
-[/us/pl/112/74/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs117
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F891
 
 

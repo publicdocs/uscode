@@ -17,7 +17,7 @@
 
     The Office of Federal Procurement Policy, established under [section 1101(a) of title 41][/us/usc/t41/s1101/a], is an office in the Office of Management and Budget.
 
-(Added [Pub. L. 97–452, § 1(1)(A)][/us/pl/97/452/s1/1/A], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], § 504; renumbered § 506, [Pub. L. 101–576, title II, § 202(a)][/us/pl/101/576/s202/a], Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839]; amended [Pub. L. 111–350, § 5(h)(1)][/us/pl/111/350/s5/h/1], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(1)(A), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], § 504; renumbered § 506, [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 202(a), Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(h)(1), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
 <table>
 
@@ -77,11 +77,11 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t41/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1101%2Fa
-[/us/pl/97/452/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F1%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
-[/us/pl/101/576/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs202%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2839
-[/us/pl/111/350/s5/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F1
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1101%2Fa

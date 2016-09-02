@@ -97,9 +97,9 @@ Amendments  </td>
 
 </table>
 
-    1986—[Pub. L. 99–509, title VI, § 6103(b)][/us/pl/99/509/s6103/b], Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], added item for chapter 38.
+    1986—[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(b), Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], added item for chapter 38.
 
-    1983—[Pub. L. 97–452, § 1(18)(B)][/us/pl/97/452/s1/18/B], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477], added item for chapter 39.
+    1983—[Pub. L. 97–452][/us/pl/97/452], § 1(18)(B), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477], added item for chapter 39.
 
 ----------
 
@@ -108,9 +108,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/99/509/s6103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fb
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1948
-[/us/pl/97/452/s1/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FB
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
 
 

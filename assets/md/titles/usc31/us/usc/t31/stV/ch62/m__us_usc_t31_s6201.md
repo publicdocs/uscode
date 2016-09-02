@@ -23,11 +23,11 @@
 
     (3) “municipality” means any subcounty unit of general local government that received Federal assistance in the fiscal year that is the subject of the report.
 
-(Added [Pub. L. 99–547, § 2(a)][/us/pl/99/547/s2/a], Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057].)
+(Added [Pub. L. 99–547][/us/pl/99/547], § 2(a), Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057].)
 
  __Short Title__ 
 
-[Pub. L. 99–547, § 1][/us/pl/99/547/s1], Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057], provided that: 
+[Pub. L. 99–547][/us/pl/99/547], § 1, Oct. 27, 1986, [100 Stat. 3057][/us/stat/100/3057], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 6101 and 6102a of this title, enacting provisions set out as a note under [section 6102 of this title][/us/usc/t31/s6102], and repealing provisions set out as a note under [section 6102 of this title][/us/usc/t31/s6102]\] may be cited as the ‘Consolidated Federal Funds Report Amendments of 1985’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/99/547/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fa
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3057
-[/us/pl/99/547/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs1
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3057
 [/us/usc/t31/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102
 [/us/usc/t31/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102

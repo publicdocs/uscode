@@ -61,7 +61,7 @@
 
         (3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ([26 U.S.C. 7321][/us/usc/t26/s7321] et seq.).
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 980][/us/stat/96/980]; [Pub. L. 100–274, § 3][/us/pl/100/274/s3], Mar. 31, 1988, [102 Stat. 49][/us/stat/102/49]; [Pub. L. 102–390, title II, § 222][/us/pl/102/390/s222], Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 980][/us/stat/96/980]; [Pub. L. 100–274][/us/pl/100/274], § 3, Mar. 31, 1988, [102 Stat. 49][/us/stat/102/49]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 222, Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629].)
 
 <table>
 
@@ -317,7 +317,7 @@ July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255.  </td>
 
  __References in Text__ 
 
-    The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], and is classified generally to Title 26, Internal Revenue Code.
+    The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], and is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
 
@@ -357,7 +357,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 112–76][/us/pl/112/76], Dec. 23, 2011, [125 Stat. 1275][/us/stat/125/1275], recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
 
-    [Pub. L. 112–59][/us/pl/112/59], Nov. 23, 2011, [125 Stat. 749][/us/stat/125/749]; [Pub. L. 113–118, § 3][/us/pl/113/118/s3], June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing the Montford Point Marines.
+    [Pub. L. 112–59][/us/pl/112/59], Nov. 23, 2011, [125 Stat. 749][/us/stat/125/749]; [Pub. L. 113–118][/us/pl/113/118], § 3, June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing the Montford Point Marines.
 
     [Pub. L. 111–254][/us/pl/111/254], Oct. 5, 2010, [124 Stat. 2637][/us/stat/124/2637], recognizing the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, for service during World War II.
 
@@ -389,9 +389,9 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 109–213][/us/pl/109/213], Apr. 11, 2006, [120 Stat. 322][/us/stat/120/322], recognizing the Tuskegee Airmen.
 
-    [Pub. L. 108–447, div. B, title I, § 124][/us/pl/108/447/s124], Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871]; [Pub. L. 109–13, div. A, title VI, § 6060][/us/pl/109/13/s6060], May 11, 2005, [119 Stat. 297][/us/stat/119/297], recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
+    [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 124, Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871]; [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6060, May 11, 2005, [119 Stat. 297][/us/stat/119/297], recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
-    [Pub. L. 108–368][/us/pl/108/368], Oct. 25, 2004, [118 Stat. 1746][/us/stat/118/1746]; [Pub. L. 113–118, § 2][/us/pl/113/118/s2], June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
+    [Pub. L. 108–368][/us/pl/108/368], Oct. 25, 2004, [118 Stat. 1746][/us/stat/118/1746]; [Pub. L. 113–118][/us/pl/113/118], § 2, June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
     [Pub. L. 108–180][/us/pl/108/180], Dec. 15, 2003, [117 Stat. 2645][/us/stat/117/2645], recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 
@@ -403,7 +403,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 107–127][/us/pl/107/127], Jan. 16, 2002, [115 Stat. 2405][/us/stat/115/2405], recognizing General Henry H. Shelton.
 
-    [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XI, § 1101\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–311, recognizing the Navajo Code Talkers.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XI, § 1101\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–311, recognizing the Navajo Code Talkers.
 
     [Pub. L. 106–251][/us/pl/106/251], July 27, 2000, [114 Stat. 624][/us/stat/114/624], recognizing Ronald and Nancy Reagan.
 
@@ -417,9 +417,9 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 106–26][/us/pl/106/26], May 4, 1999, [113 Stat. 50][/us/stat/113/50], recognizing Rosa Parks.
 
-    [Pub. L. 105–277, div. C, title I, § 139(a)][/us/pl/105/277/s139/a], Oct. 21, 1998, [112 Stat. 2681–597][/us/stat/112/2681-597], recognizing the individuals commonly referred to as the “Little Rock Nine”.
+    [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 139(a), Oct. 21, 1998, [112 Stat. 2681–597][/us/stat/112/2681-597], recognizing the individuals commonly referred to as the “Little Rock Nine”.
 
-    [Pub. L. 105–277, div. C, title I, § 139(b)][/us/pl/105/277/s139/b], Oct. 21, 1998, [112 Stat. 2681–598][/us/stat/112/2681-598], recognizing Gerald R. and Betty Ford.
+    [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 139(b), Oct. 21, 1998, [112 Stat. 2681–598][/us/stat/112/2681-598], recognizing Gerald R. and Betty Ford.
 
     [Pub. L. 105–215][/us/pl/105/215], July 29, 1998, [112 Stat. 895][/us/stat/112/895], recognizing Nelson Rolihlahla Mandela.
 
@@ -429,7 +429,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 105–14][/us/pl/105/14], May 14, 1997, [111 Stat. 32][/us/stat/111/32], recognizing Frank Sinatra.
 
-    [Pub. L. 104–201, div. A, title X, § 1066][/us/pl/104/201/s1066], Sept. 23, 1996, [110 Stat. 2654][/us/stat/110/2654], recognizing civilians who defended Pearl Harbor.
+    [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1066, Sept. 23, 1996, [110 Stat. 2654][/us/stat/110/2654], recognizing civilians who defended Pearl Harbor.
 
     [Pub. L. 104–111][/us/pl/104/111], Feb. 13, 1996, [110 Stat. 772][/us/stat/110/772], recognizing Billy and Ruth Graham.
 
@@ -439,17 +439,17 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 102–406][/us/pl/102/406], Oct. 12, 1992, [106 Stat. 1986][/us/stat/106/1986], commemorating Benjamin Franklin’s contributions to American fire services.
 
-    [Pub. L. 102–281, title III][/us/pl/102/281], May 13, 1992, [106 Stat. 137][/us/stat/106/137]; [Pub. L. 103–328, title II, § 203][/us/pl/103/328/s203], Sept. 29, 1994, [108 Stat. 2369][/us/stat/108/2369], recognizing members of the United States Armed Forces who served in a combat zone in connection with the Persian Gulf conflict.
+    [Pub. L. 102–281, title III][/us/pl/102/281/tIII], May 13, 1992, [106 Stat. 137][/us/stat/106/137]; [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 203, Sept. 29, 1994, [108 Stat. 2369][/us/stat/108/2369], recognizing members of the United States Armed Forces who served in a combat zone in connection with the Persian Gulf conflict.
 
     [Pub. L. 102–33][/us/pl/102/33], Apr. 23, 1991, [105 Stat. 177][/us/stat/105/177], recognizing General Colin L. Powell.
 
     [Pub. L. 102–32][/us/pl/102/32], Apr. 23, 1991, [105 Stat. 175][/us/stat/105/175], recognizing General H. Norman Schwarzkopf.
 
-    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1491, 1494, Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720], 1722, recognizing General Matthew B. Ridgway.
+    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], §§ 1491, 1494, Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720], 1722, recognizing General Matthew B. Ridgway.
 
-    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1492, 1494, Nov. 5, 1990, [104 Stat. 1721][/us/stat/104/1721], 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
+    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], §§ 1492, 1494, Nov. 5, 1990, [104 Stat. 1721][/us/stat/104/1721], 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
 
-    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1493, 1494, Nov. 5, 1990, [104 Stat. 1722][/us/stat/104/1722], commemorating centennial of Yosemite National Park.
+    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], §§ 1493, 1494, Nov. 5, 1990, [104 Stat. 1722][/us/stat/104/1722], commemorating centennial of Yosemite National Park.
 
     [Pub. L. 101–296][/us/pl/101/296], May 17, 1990, [104 Stat. 197][/us/stat/104/197], recognizing Laurance Spelman Rockefeller.
 
@@ -467,9 +467,9 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 99–298][/us/pl/99/298], May 13, 1986, [100 Stat. 432][/us/stat/100/432], recognizing Natan (Anatoly) and Avital Shcharansky.
 
-    [Pub. L. 99–295][/us/pl/99/295], May 12, 1986, [100 Stat. 427][/us/stat/100/427]; [Pub. L. 100–210, § 3][/us/pl/100/210/s3], Dec. 24, 1987, [101 Stat. 1441][/us/stat/101/1441]; [Pub. L. 100–437, § 4][/us/pl/100/437/s4], Sept. 20, 1988, [102 Stat. 1717][/us/stat/102/1717], commemorating the Young Astronaut Program.
+    [Pub. L. 99–295][/us/pl/99/295], May 12, 1986, [100 Stat. 427][/us/stat/100/427]; [Pub. L. 100–210][/us/pl/100/210], § 3, Dec. 24, 1987, [101 Stat. 1441][/us/stat/101/1441]; [Pub. L. 100–437][/us/pl/100/437], § 4, Sept. 20, 1988, [102 Stat. 1717][/us/stat/102/1717], commemorating the Young Astronaut Program.
 
-    [Pub. L. 95–630, title IV][/us/pl/95/630], §§ 401–407, Nov. 10, 1978, [92 Stat. 3679][/us/stat/92/3679], 3680, recognizing outstanding individuals in the American arts.
+    [Pub. L. 95–630, title IV][/us/pl/95/630/tIV], §§ 401–407, Nov. 10, 1978, [92 Stat. 3679][/us/stat/92/3679], 3680, recognizing outstanding individuals in the American arts.
 
 ----------
 
@@ -482,11 +482,11 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/usc/t26/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7321
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F980
-[/us/pl/100/274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs3
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F49
-[/us/pl/102/390/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs222
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1629
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
@@ -517,7 +517,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/125/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1275
 [/us/pl/112/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F59
 [/us/stat/125/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F749
-[/us/pl/113/118/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118%2Fs3
+[/us/pl/113/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118
 [/us/stat/128/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1183
 [/us/pl/111/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F254
 [/us/stat/124/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2637
@@ -549,13 +549,13 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/120/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1231
 [/us/pl/109/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F213
 [/us/stat/120/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F322
-[/us/pl/108/447/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs124
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2871
-[/us/pl/109/13/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6060
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F297
 [/us/pl/108/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F368
 [/us/stat/118/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1746
-[/us/pl/113/118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118%2Fs2
+[/us/pl/113/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118
 [/us/stat/128/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1183
 [/us/pl/108/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F180
 [/us/stat/117/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2645
@@ -567,7 +567,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/117/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F862
 [/us/pl/107/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F127
 [/us/stat/115/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2405
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F251
 [/us/stat/114/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F624
@@ -581,9 +581,9 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/113/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1733
 [/us/pl/106/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F26
 [/us/stat/113/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F50
-[/us/pl/105/277/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs139%2Fa
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-597
-[/us/pl/105/277/s139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs139%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-598
 [/us/pl/105/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F215
 [/us/stat/112/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F895
@@ -593,7 +593,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/111/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F35
 [/us/pl/105/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F14
 [/us/stat/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F32
-[/us/pl/104/201/s1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1066
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2654
 [/us/pl/104/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F111
 [/us/stat/110/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F772
@@ -603,19 +603,19 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/106/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2308
 [/us/pl/102/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F406
 [/us/stat/106/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1986
-[/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
+[/us/pl/102/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIII
 [/us/stat/106/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F137
-[/us/pl/103/328/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs203
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2369
 [/us/pl/102/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F33
 [/us/stat/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F177
 [/us/pl/102/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F32
 [/us/stat/105/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F175
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1720
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1721
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1722
 [/us/pl/101/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F296
 [/us/stat/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F197
@@ -635,11 +635,11 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/100/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F432
 [/us/pl/99/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F295
 [/us/stat/100/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F427
-[/us/pl/100/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F210%2Fs3
+[/us/pl/100/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F210
 [/us/stat/101/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1441
-[/us/pl/100/437/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F437%2Fs4
+[/us/pl/100/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F437
 [/us/stat/102/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1717
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtIV
 [/us/stat/92/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3679
 
 

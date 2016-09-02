@@ -21,7 +21,7 @@
 
     (c) The Comptroller General may adopt a seal for the Office.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 887][/us/stat/96/887]; [Pub. L. 100–545, § 2(b)][/us/pl/100/545/s2/b], Oct. 28, 1988, [102 Stat. 2729][/us/stat/102/2729]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 887][/us/stat/96/887]; [Pub. L. 100–545][/us/pl/100/545], § 2(b), Oct. 28, 1988, [102 Stat. 2729][/us/stat/102/2729]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -173,7 +173,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
  __Change of Name__ 
 
-[Pub. L. 108–271, § 8][/us/pl/108/271/s8], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 108–271][/us/pl/108/271], § 8, July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -185,7 +185,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
  __Transfers and Terminations of Functions__ 
 
-[Pub. L. 104–316, title I, § 101(a)][/us/pl/104/316/s101/a]–(d), Oct. 19, 1996, [110 Stat. 3826][/us/stat/110/3826], 3827, provided that:
+[Pub. L. 104–316, title I][/us/pl/104/316/tI], § 101(a)–(d), Oct. 19, 1996, [110 Stat. 3826][/us/stat/110/3826], 3827, provided that:
 
 >     “(a) __In General.—__ 
 
@@ -237,7 +237,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
  __Contract Appeals Board__ 
 
-[Pub. L. 110–161, div. H, title I, § 1501][/us/pl/110/161/s1501], Dec. 26, 2007, [121 Stat. 2249][/us/stat/121/2249], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1501, Dec. 26, 2007, [121 Stat. 2249][/us/stat/121/2249], as amended by [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -300,26 +300,26 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F887
-[/us/pl/100/545/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545%2Fs2%2Fb
+[/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
 [/us/stat/102/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2729
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1971-07-09/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1971-07-09%2Fs101
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/stat/85/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F143
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
-[/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/104/316/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs101%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3826
 [/us/usc/t31/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3702
 [/us/usc/t5/s5584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5584
 [/us/usc/t10/s2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2774
 [/us/usc/t32/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs716
-[/us/pl/110/161/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1501
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2249
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601

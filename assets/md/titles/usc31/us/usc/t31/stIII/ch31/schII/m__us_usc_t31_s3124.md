@@ -25,7 +25,7 @@
 
     (b) The tax status of interest on obligations and dividends, earnings, or other income from evidences of ownership issued by the Government or an agency and the tax treatment of gain and loss from the disposition of those obligations and evidences of ownership is decided under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.). An obligation that the Federal Housing Administration had agreed, under a contract made before March 1, 1941, to issue at a future date, has the tax exemption privileges provided by the authorizing law at the time of the contract. This subsection does not apply to obligations and evidences of ownership issued by the District of Columbia, a territory or possession of the United States, or a department, agency, instrumentality, or political subdivision of the District, territory, or possession.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 945][/us/stat/96/945]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 945][/us/stat/96/945]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
 <table>
 
@@ -105,7 +105,7 @@ Feb. 19, 1941, ch. 7, § 4, 55 Stat. 9; Mar. 28, 1942, ch. 205, § 6, 56 Sta
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F945
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

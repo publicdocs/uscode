@@ -35,7 +35,7 @@
 
     (c) The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
 
-(Added [Pub. L. 97–452, § 1(23)(A)][/us/pl/97/452/s1/23/A], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; amended [Pub. L. 98–169, § 1(2)][/us/pl/98/169/s1/2], Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113]; [Pub. L. 99–547, § 2(b)(1)][/us/pl/99/547/s2/b/1], Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060]; [Pub. L. 104–186, title II, § 219(b)(2)][/us/pl/104/186/s219/b/2], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(23)(A), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; amended [Pub. L. 98–169][/us/pl/98/169], § 1(2), Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113]; [Pub. L. 99–547][/us/pl/99/547], § 2(b)(1), Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 219(b)(2), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
 
 <table>
 
@@ -89,7 +89,7 @@ Oct. 15, 1982, Pub. L. 97–326, § 8, 96 Stat. 1609.  </td>
 
  __References in Text__ 
 
-    Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1), is [section 9 of Pub. L. 95–220][/us/pl/95/220/s9], Dec. 28, 1977, [91 Stat. 1617][/us/stat/91/1617], and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
+    Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1), is [section 9 of Pub. L. 95–220][/us/pl/95/220/s9], Dec. 28, 1977, [91 Stat. 1617][/us/stat/91/1617], and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
 
  __Amendments__ 
 
@@ -110,17 +110,17 @@ Oct. 15, 1982, Pub. L. 97–326, § 8, 96 Stat. 1609.  </td>
 ----------
 ----------
 
-[/us/pl/97/452/s1/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F23%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
-[/us/pl/98/169/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F2
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1113
-[/us/pl/99/547/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fb%2F1
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3060
-[/us/pl/104/186/s219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs219%2Fb%2F2
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
 [/us/pl/95/220/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F220%2Fs9
 [/us/stat/91/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1617
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547

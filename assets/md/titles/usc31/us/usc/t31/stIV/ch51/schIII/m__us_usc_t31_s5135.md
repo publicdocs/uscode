@@ -159,7 +159,7 @@
 
     Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.
 
-(Added [Pub. L. 102–390, title II, § 229(a)][/us/pl/102/390/s229/a], Oct. 6, 1992, [106 Stat. 1631][/us/stat/106/1631]; amended [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352; [Pub. L. 104–329, title III, § 303(a)][/us/pl/104/329/s303/a], Oct. 20, 1996, [110 Stat. 4014][/us/stat/110/4014]; [Pub. L. 108–15, title I, § 103(a)][/us/pl/108/15/s103/a], Apr. 23, 2003, [117 Stat. 616][/us/stat/117/616].)
+(Added [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 229(a), Oct. 6, 1992, [106 Stat. 1631][/us/stat/106/1631]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 529(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352; [Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 303(a), Oct. 20, 1996, [110 Stat. 4014][/us/stat/110/4014]; [Pub. L. 108–15, title I][/us/pl/108/15/tI], § 103(a), Apr. 23, 2003, [117 Stat. 616][/us/stat/117/616].)
 
  __References in Text__ 
 
@@ -171,13 +171,13 @@
 
     1996—Subsec. (a)(4). [Pub. L. 104–329][/us/pl/104/329] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years.”
 
-    [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(d)(1)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years.”
+    [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(d)(1)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years.”
 
-    Subsec. (a)(7). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(d)(2)\], added par. (7).
+    Subsec. (a)(7). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(d)(2)\], added par. (7).
 
  __Abolishment of Citizens Commemorative Coin Advisory Committee; Continuity of Members__ 
 
-[Pub. L. 108–15, title I, § 103(b)][/us/pl/108/15/s103/b], (c), Apr. 23, 2003, [117 Stat. 618][/us/stat/117/618], 619, provided that:
+[Pub. L. 108–15, title I][/us/pl/108/15/tI], § 103(b), (c), Apr. 23, 2003, [117 Stat. 618][/us/stat/117/618], 619, provided that:
 
 >     “(b)  __Abolishment of Citizens Commemorative Coin Advisory Committee.__  __—__ 
 
@@ -189,11 +189,11 @@
 
  __Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee__ 
 
-    [Pub. L. 104–329, title III, § 303(b)][/us/pl/104/329/s303/b], Oct. 20, 1996, [110 Stat. 4014][/us/stat/110/4014], provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
+    [Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 303(b), Oct. 20, 1996, [110 Stat. 4014][/us/stat/110/4014], provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
 
  __Status of Members of Citizens Commemorative Coin Advisory Committee__ 
 
-    [Pub. L. 104–329, title III, § 303(c)][/us/pl/104/329/s303/c], Oct. 20, 1996, [110 Stat. 4015][/us/stat/110/4015], provided that members appointed to the Citizens Commemorative Coin Advisory Committee under clause (i) or (iii) of subsec. (a)(3)(A) of this section would not be treated as special Government employees.
+    [Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 303(c), Oct. 20, 1996, [110 Stat. 4015][/us/stat/110/4015], provided that members appointed to the Citizens Commemorative Coin Advisory Committee under clause (i) or (iii) of subsec. (a)(3)(A) of this section would not be treated as special Government employees.
 
 ----------
 
@@ -203,27 +203,27 @@
 ----------
 
 [/us/usc/t31/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5111
-[/us/pl/102/390/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs229%2Fa
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1631
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/329/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs303%2Fa
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4014
-[/us/pl/108/15/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs103%2Fa
+[/us/pl/108/15/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtI
 [/us/stat/117/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F616
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
 [/us/pl/104/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/108/15/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs103%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/108/15/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtI
 [/us/stat/117/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F618
 [/us/usc/t31/s5135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5135
 [/us/usc/t31/s5135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5135%2Fb
-[/us/pl/104/329/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs303%2Fb
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4014
-[/us/pl/104/329/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs303%2Fc
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4015
 
 

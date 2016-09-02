@@ -131,13 +131,13 @@ In subsection (c), before clause (1), the words “specific or indefinite” are
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–359, § 1][/us/pl/98/359/s1], July 13, 1984, [98 Stat. 402][/us/stat/98/402], provided: 
+[Pub. L. 98–359][/us/pl/98/359], § 1, July 13, 1984, [98 Stat. 402][/us/stat/98/402], provided: 
 
 > “That this Act \[amending [section 1322 of this title][/us/usc/t31/s1322]\] may be cited as the ‘Postal Savings System Statute of Limitations Act’.”
 
  __Transfers From Appropriation Accounts; Salaries of Temporarily Reassigned Employees__ 
 
-[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title V, § 510\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–385, as amended by [Pub. L. 106–31, title V, § 5005][/us/pl/106/31/s5005](l), May 21, 1999, [113 Stat. 111][/us/stat/113/111], provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title V, § 510\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–385, as amended by [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5005(l), May 21, 1999, [113 Stat. 111][/us/stat/113/111], provided that: 
 
 > “Notwithstanding any other provision of law, hereafter—
 
@@ -149,13 +149,13 @@ In subsection (c), before clause (1), the words “specific or indefinite” are
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 105–78, title V, § 511][/us/pl/105/78/s511], Nov. 13, 1997, [111 Stat. 1516][/us/stat/111/1516].
+    [Pub. L. 105–78, title V][/us/pl/105/78/tV], § 511, Nov. 13, 1997, [111 Stat. 1516][/us/stat/111/1516].
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title V, § 509\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–269.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title V, § 509\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–269.
 
-    [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 509\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–244; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title V, § 509\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–244; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–333, title V, § 515][/us/pl/103/333/s515], Sept. 30, 1994, [108 Stat. 2574][/us/stat/108/2574].
+    [Pub. L. 103–333, title V][/us/pl/103/333/tV], § 515, Sept. 30, 1994, [108 Stat. 2574][/us/stat/108/2574].
 
  __Ex. Ord. No. 13457. Protecting American Taxpayers From Government Spending on Wasteful Earmarks__ 
 
@@ -211,22 +211,22 @@ Sec. 2. Duties of Agency Heads. (a) With respect to all appropriations laws and 
 [/us/stat/40/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1309
 [/us/act/1949-07-06/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fs3
 [/us/stat/63/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F407
-[/us/pl/98/359/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359%2Fs1
+[/us/pl/98/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F359
 [/us/stat/98/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F402
 [/us/usc/t31/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1322
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/31/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5005
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F111
-[/us/pl/105/78/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs511
+[/us/pl/105/78/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtV
 [/us/stat/111/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1516
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/333/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs515
+[/us/pl/103/333/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtV
 [/us/stat/108/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2574
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 

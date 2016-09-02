@@ -17,7 +17,7 @@
 
     In this chapter, “executive agency” does not include (except in section 3513) a corporation, agency, or instrumentality subject to chapter 91 of this title.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 107–107, div. A, title VIII, § 831(c)][/us/pl/107/107/s831/c], Dec. 28, 2001, [115 Stat. 1189][/us/stat/115/1189]; [Pub. L. 111–204, § 2(h)(6)(B)(ii)][/us/pl/111/204/s2/h/6/B/ii], July 22, 2010, [124 Stat. 2231][/us/stat/124/2231].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 831(c), Dec. 28, 2001, [115 Stat. 1189][/us/stat/115/1189]; [Pub. L. 111–204][/us/pl/111/204], § 2(h)(6)(B)(ii), July 22, 2010, [124 Stat. 2231][/us/stat/124/2231].)
 
 <table>
 
@@ -73,13 +73,13 @@ Sept. 12, 1950, ch. 946, § 118, 64 Stat. 837; Aug. 1, 1956, ch. 814, § 2(c
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–289, § 1][/us/pl/107/289/s1], Nov. 7, 2002, [116 Stat. 2049][/us/stat/116/2049], provided that: 
+[Pub. L. 107–289][/us/pl/107/289], § 1, Nov. 7, 2002, [116 Stat. 2049][/us/stat/116/2049], provided that: 
 
 > “This Act \[amending [section 3515 of this title][/us/usc/t31/s3515] and enacting provisions set out as a note under [section 3515 of this title][/us/usc/t31/s3515]\] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–531, § 1][/us/pl/106/531/s1], Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537], provided that: 
+[Pub. L. 106–531][/us/pl/106/531], § 1, Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537], provided that: 
 
 > “This Act \[enacting [section 3516 of this title][/us/usc/t31/s3516], amending sections 1116, 3515, and 3521 of this title, and enacting provisions set out as notes under sections 1116 and 3516 of this title\] may be cited as the ‘Reports Consolidation Act of 2000’.”
 
@@ -92,17 +92,17 @@ Sept. 12, 1950, ch. 946, § 118, 64 Stat. 837; Aug. 1, 1956, ch. 814, § 2(c
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F959
-[/us/pl/107/107/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs831%2Fc
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1189
-[/us/pl/111/204/s2/h/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh%2F6%2FB%2Fii
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2231
 [/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/107/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289%2Fs1
+[/us/pl/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F289
 [/us/stat/116/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2049
 [/us/usc/t31/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515
 [/us/usc/t31/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515
-[/us/pl/106/531/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs1
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2537
 [/us/usc/t31/s3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3516
 

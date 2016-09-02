@@ -73,7 +73,7 @@
 
         (2) A bond issued under this subsection is deemed to be a series E bond issued under this section, except that the bond shall bear an issue date of the first day of the first month beginning after the close of the taxable year for which the bond is issued. The Secretary also may provide that a bond issued to joint payees may be redeemed by either payee alone.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 940][/us/stat/96/940]; [Pub. L. 97–452, § 1(6)][/us/pl/97/452/s1/6], (7), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], 2468; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–465, title VII, § 745(a)][/us/pl/103/465/s745/a], Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 940][/us/stat/96/940]; [Pub. L. 97–452][/us/pl/97/452], § 1(6), (7), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467], 2468; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 745(a), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011].)
 
 <table>
 
@@ -339,13 +339,13 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(a)(1)(C), 96 Stat. 571.  </td>
 
     1986—Subsecs. (a), (e)(1). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1983—Subsec. (b). [Pub. L. 97–452, § 1(6)][/us/pl/97/452/s1/6], added par. (1) and redesignated former par. (1) as (2), in par. (2) as so redesignated, struck out provision that except as provided in former par. (2), the interest rate on, and the issue price of, savings bonds and savings certificates and the conditions under which they might be redeemed might not yield more than 5.5 percent a year compounded semiannually, struck out former par. (2) which provided that the Secretary with the President’s approval might fix the yield on savings bonds at any percent per year compounded semiannually, but that total increases in a six-month period might not exceed one percent a year compounded semiannually, redesignated provisions of par. (3) as subpars. (A) and (B), and, in subpar. (B), as so redesignated, substituted provisions that series E and H savings bonds earning a different rate of interest before the regulations are prescribed shall earn a rate of interest consistent with par. (1) for provision that series E and H savings bonds earning a higher rate of interest before the regulations were prescribed would continue to earn a higher rate of interest consistent with par. (1).
+    1983—Subsec. (b). [Pub. L. 97–452][/us/pl/97/452], § 1(6), added par. (1) and redesignated former par. (1) as (2), in par. (2) as so redesignated, struck out provision that except as provided in former par. (2), the interest rate on, and the issue price of, savings bonds and savings certificates and the conditions under which they might be redeemed might not yield more than 5.5 percent a year compounded semiannually, struck out former par. (2) which provided that the Secretary with the President’s approval might fix the yield on savings bonds at any percent per year compounded semiannually, but that total increases in a six-month period might not exceed one percent a year compounded semiannually, redesignated provisions of par. (3) as subpars. (A) and (B), and, in subpar. (B), as so redesignated, substituted provisions that series E and H savings bonds earning a different rate of interest before the regulations are prescribed shall earn a rate of interest consistent with par. (1) for provision that series E and H savings bonds earning a higher rate of interest before the regulations were prescribed would continue to earn a higher rate of interest consistent with par. (1).
 
-    Subsec. (c)(5). [Pub. L. 97–452, § 1(7)][/us/pl/97/452/s1/7], struck out “(expressed in terms of the maturity value)” after “denominations”.
+    Subsec. (c)(5). [Pub. L. 97–452][/us/pl/97/452], § 1(7), struck out “(expressed in terms of the maturity value)” after “denominations”.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 745(b)][/us/pl/103/465/s745/b], Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011], provided that: 
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 745(b), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to bonds issued after October 31, 1994.”
 
@@ -383,7 +383,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(a)(1)(C), 96 Stat. 571.  </td>
 
  __Transitional Rule__ 
 
-    [Pub. L. 97–248, title II, § 289(b)][/us/pl/97/248/s289/b], Sept. 3, 1982, [96 Stat. 57][/us/stat/96/57], provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
+    [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 289(b), Sept. 3, 1982, [96 Stat. 57][/us/stat/96/57], provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
 
 ----------
 
@@ -397,11 +397,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(a)(1)(C), 96 Stat. 571.  </td>
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F940
-[/us/pl/97/452/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F6
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/465/s745/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs745%2Fa
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5011
 [/us/usc/t31/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3111
 [/us/usc/t31/s757b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs757b
@@ -410,11 +410,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(a)(1)(C), 96 Stat. 571.  </td>
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/452/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F6
-[/us/pl/97/452/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F7
-[/us/pl/103/465/s745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs745%2Fb
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5011
-[/us/pl/97/248/s289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs289%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F57
 
 

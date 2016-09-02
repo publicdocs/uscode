@@ -55,7 +55,7 @@
 
         (2) An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 985][/us/stat/96/985]; [Pub. L. 99–185, § 2(d)][/us/pl/99/185/s2/d], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 104–208, div. A, title II, § 2609][/us/pl/104/208/s2609], Sept. 30, 1996, [110 Stat. 3009–475][/us/stat/110/3009-475]; [Pub. L. 105–61, title VI, § 641][/us/pl/105/61/s641], Oct. 10, 1997, [111 Stat. 1318][/us/stat/111/1318].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 985][/us/stat/96/985]; [Pub. L. 99–185][/us/pl/99/185], § 2(d), Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2609, Sept. 30, 1996, [110 Stat. 3009–475][/us/stat/110/3009-475]; [Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 641, Oct. 10, 1997, [111 Stat. 1318][/us/stat/111/1318].)
 
 <table>
 
@@ -228,11 +228,11 @@ For information regarding constitutionality of section 1 of act June 5, 1933, ci
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F985
-[/us/pl/99/185/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fd
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
-[/us/pl/104/208/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2609
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-475
-[/us/pl/105/61/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs641
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1318
 [/us/usc/t31/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs463
 [/us/act/1935-08-27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fs1

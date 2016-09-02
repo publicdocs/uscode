@@ -109,7 +109,7 @@
 
         (2) Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added [Pub. L. 97–452, § 1(18)(A)][/us/pl/97/452/s1/18/A], Jan. 12, 1983, [96 Stat. 2476][/us/stat/96/2476]; amended [Pub. L. 100–496][/us/pl/100/496], §§ 4–7, 13(a), Oct. 17, 1988, [102 Stat. 2457–2459][/us/stat/102/2457-2459], 2465; [Pub. L. 102–190, div. A, title VIII, § 842][/us/pl/102/190/s842], Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449]; [Pub. L. 106–65, div. A, title X, § 1009][/us/pl/106/65/s1009], Oct. 5, 1999, [113 Stat. 738][/us/stat/113/738].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(18)(A), Jan. 12, 1983, [96 Stat. 2476][/us/stat/96/2476]; amended [Pub. L. 100–496][/us/pl/100/496], §§ 4–7, 13(a), Oct. 17, 1988, [102 Stat. 2457–2459][/us/stat/102/2457-2459], 2465; [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 842, Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1009, Oct. 5, 1999, [113 Stat. 738][/us/stat/113/738].)
 
 <table>
 
@@ -159,9 +159,9 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 
  __References in Text__ 
 
-    The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is [act June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], [46 Stat. 531][/us/stat/46/531], as amended, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by [Pub. L. 102–237, title X, § 1011(1)(A)][/us/pl/102/237/s1011/1/A], Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898], and is classified to [section 499a(b)(4) of Title 7][/us/usc/t7/s499a/b/4]. For complete classification of this Act to the Code, see [section 499r of Title 7][/us/usc/t7/s499r] and Tables.
+    The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is [act June 10, 1930, ch. 436][/us/act/1930-06-10/ch436], [46 Stat. 531][/us/stat/46/531], as amended, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1011(1)(A), Dec. 13, 1991, [105 Stat. 1898][/us/stat/105/1898], and is classified to [section 499a(b)(4) of Title 7][/us/usc/t7/s499a/b/4]. For complete classification of this Act to the Code, see [section 499r of Title 7][/us/usc/t7/s499r] and Tables.
 
-    [Section 3903(c) of this title][/us/usc/t31/s3903/c], referred to in subsec. (a)(9), was redesignated section 3903(d) by [Pub. L. 106–65, div. A, title X, § 1009(1)][/us/pl/106/65/s1009/1], Oct. 5, 1999, [113 Stat. 738][/us/stat/113/738].
+    [Section 3903(c) of this title][/us/usc/t31/s3903/c], referred to in subsec. (a)(9), was redesignated section 3903(d) by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1009(1), Oct. 5, 1999, [113 Stat. 738][/us/stat/113/738].
 
  __Amendments__ 
 
@@ -169,23 +169,23 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 
     1991—Subsec. (a)(2). [Pub. L. 102–190][/us/pl/102/190] inserted provisions relating to fresh or frozen fish as defined in [16 U.S.C. 4003(3)][/us/usc/t16/s4003/3] and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 
-    1988—Subsec. (a). [Pub. L. 100–496, § 6(1)][/us/pl/100/496/s6/1], designated existing provisions as subsec. (a).
+    1988—Subsec. (a). [Pub. L. 100–496][/us/pl/100/496], § 6(1), designated existing provisions as subsec. (a).
 
-    Subsec. (a)(2). [Pub. L. 100–496, § 13(a)][/us/pl/100/496/s13/a], included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
+    Subsec. (a)(2). [Pub. L. 100–496][/us/pl/100/496], § 13(a), included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
 
-    Subsec. (a)(4). [Pub. L. 100–496, § 4][/us/pl/100/496/s4], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide separate required payment dates for a contract under which property or service is provided in a series of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and”.
+    Subsec. (a)(4). [Pub. L. 100–496][/us/pl/100/496], § 4, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide separate required payment dates for a contract under which property or service is provided in a series of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and”.
 
-    Subsec. (a)(5). [Pub. L. 100–496, § 5(2)][/us/pl/100/496/s5/2], added par. (5). Former par. (5) redesignated (7).
+    Subsec. (a)(5). [Pub. L. 100–496][/us/pl/100/496], § 5(2), added par. (5). Former par. (5) redesignated (7).
 
-    Subsec. (a)(6). [Pub. L. 100–496, § 6(2)][/us/pl/100/496/s6/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 100–496][/us/pl/100/496], § 6(2), added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 100–496, § 7][/us/pl/100/496/s7], added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
+    Subsec. (a)(7). [Pub. L. 100–496][/us/pl/100/496], § 7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
 
-    [Pub. L. 100–496, § 5(1)][/us/pl/100/496/s5/1], redesignated par. (5) as (7).
+    [Pub. L. 100–496][/us/pl/100/496], § 5(1), redesignated par. (5) as (7).
 
-    Subsec. (a)(8), (9). [Pub. L. 100–496, § 7][/us/pl/100/496/s7], added pars. (8) and (9).
+    Subsec. (a)(8), (9). [Pub. L. 100–496][/us/pl/100/496], § 7, added pars. (8) and (9).
 
-    Subsecs. (b), (c). [Pub. L. 100–496, § 6(3)][/us/pl/100/496/s6/3], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 100–496][/us/pl/100/496], § 6(3), added subsecs. (b) and (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -193,7 +193,7 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 
  __Implementation Through Federal Acquisition Regulation__ 
 
-[Pub. L. 100–496, § 11][/us/pl/100/496/s11], Oct. 17, 1988, [102 Stat. 2463][/us/stat/102/2463], provided that:
+[Pub. L. 100–496][/us/pl/100/496], § 11, Oct. 17, 1988, [102 Stat. 2463][/us/stat/102/2463], provided that:
 
 >     “(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under [section 3901 of this title][/us/usc/t31/s3901]\], and the regulations prescribed under section 3903 of such title (as amended).
 
@@ -249,7 +249,7 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 
  __Edible Fresh or Frozen Poultry Meat, Perishable Poultry Meat Food Products, Fresh Eggs, and Perishable Egg Products__ 
 
-    [Pub. L. 98–181, title II, § 2002][/us/pl/98/181/s2002], Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297], to the extent that it provided that the terms “meat” and “meat food products” as used in [31 U.S.C. 3903(2)][/us/usc/t31/s3903/2] also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by [Pub. L. 100–496, § 13(b)][/us/pl/100/496/s13/b], Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465], applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
+    [Pub. L. 98–181, title II][/us/pl/98/181/tII], § 2002, Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297], to the extent that it provided that the terms “meat” and “meat food products” as used in [31 U.S.C. 3903(2)][/us/usc/t31/s3903/2] also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by [Pub. L. 100–496][/us/pl/100/496], § 13(b), Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465], applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
 
 ----------
 
@@ -265,40 +265,40 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 [/us/usc/t7/s4502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4502%2Fe
 [/us/usc/t31/s3901/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3901%2Fa%2F3
 [/us/usc/t31/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902
-[/us/pl/97/452/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2476
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2457-2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2457-2459
-[/us/pl/102/190/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs842
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1449
-[/us/pl/106/65/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1009
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F738
 [/us/usc/t31/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902
 [/us/act/1930-06-10/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch436
 [/us/stat/46/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F531
-[/us/pl/102/237/s1011/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1011%2F1%2FA
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1898
 [/us/usc/t7/s499a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499a%2Fb%2F4
 [/us/usc/t7/s499r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs499r
 [/us/usc/t31/s3903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2Fc
-[/us/pl/106/65/s1009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1009%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F738
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t16/s4003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4003%2F3
-[/us/pl/100/496/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs6%2F1
-[/us/pl/100/496/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs13%2Fa
-[/us/pl/100/496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs4
-[/us/pl/100/496/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs5%2F2
-[/us/pl/100/496/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs6%2F2
-[/us/pl/100/496/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs7
-[/us/pl/100/496/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs5%2F1
-[/us/pl/100/496/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs7
-[/us/pl/100/496/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs6%2F3
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/100/496/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs14%2Fa
 [/us/usc/t31/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902
-[/us/pl/100/496/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs11
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2463
 [/us/usc/t31/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3901
 [/us/usc/t41/s253/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fg%2F2
@@ -309,10 +309,10 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(2), 96 Stat. 85.  </td>
 [/us/usc/t31/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3905
 [/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
-[/us/pl/98/181/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs2002
+[/us/pl/98/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtII
 [/us/stat/97/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1297
 [/us/usc/t31/s3903/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2F2
-[/us/pl/100/496/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs13%2Fb
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2465
 
 

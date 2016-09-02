@@ -57,7 +57,7 @@
 
     (d) To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 985][/us/stat/96/985]; [Pub. L. 102–390, title II, § 226(b)][/us/pl/102/390/s226/b], Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–325, title VI, § 602(g)(14)][/us/pl/103/325/s602/g/14], Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 985][/us/stat/96/985]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 226(b), Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–325, title VI][/us/pl/103/325/tVI], § 602(g)(14), Sept. 23, 1994, [108 Stat. 2294][/us/stat/108/2294].)
 
 <table>
 
@@ -305,9 +305,9 @@ R.S. § 3580.  </td>
 
  __References in Text__ 
 
-    [Act of July 14, 1890, ch. 708][/us/act/1890-07-14/ch708], [26 Stat. 289][/us/stat/26/289], referred to in subsec. (b)(1)(C), which was known as the Sherman Purchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1069][/us/stat/96/1069].
+    [Act of July 14, 1890, ch. 708][/us/act/1890-07-14/ch708], [26 Stat. 289][/us/stat/26/289], referred to in subsec. (b)(1)(C), which was known as the Sherman Purchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1069][/us/stat/96/1069].
 
-    Section 4 of the Old Series Currency Adjustment Act, referred to in subsec. (b)(1)(D), is [section 4 of Pub. L. 87–66][/us/pl/87/66/s4], June 30, 1961, [75 Stat. 146][/us/stat/75/146], which was classified to section 913 of former Title 31, and was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1079][/us/stat/96/1079].
+    Section 4 of the Old Series Currency Adjustment Act, referred to in subsec. (b)(1)(D), is [section 4 of Pub. L. 87–66][/us/pl/87/66/s4], June 30, 1961, [75 Stat. 146][/us/stat/75/146], which was classified to section 913 of former Title 31, and was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1079][/us/stat/96/1079].
 
     Acts February 25, 1862, July 11, 1862, and March 3, 1863, and resolution January 17, 1863, referred to in subsec. (b)(1)(E), are acts [Feb. 25, 1862, ch. 33][/us/act/1862-02-25/ch33], [12 Stat. 345][/us/stat/12/345], [July 11, 1862, ch. 142][/us/act/1862-07-11/ch142], [12 Stat. 532][/us/stat/12/532], and [Mar. 3, 1863, ch. 73][/us/act/1863-03-03/ch73], [12 Stat. 709][/us/stat/12/709], and resolution Jan. 17, 1863, [12 Stat. 822][/us/stat/12/822], respectively, which are not classified to the Code.
 
@@ -334,9 +334,9 @@ R.S. § 3580.  </td>
 [/us/usc/t31/s5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5115
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F985
-[/us/pl/102/390/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs226%2Fb
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1630
-[/us/pl/103/325/s602/g/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fg%2F14
+[/us/pl/103/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtVI
 [/us/stat/108/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2294
 [/us/usc/t31/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5103
 [/us/usc/t31/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs912
@@ -345,11 +345,11 @@ R.S. § 3580.  </td>
 [/us/stat/20/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F87
 [/us/act/1890-07-14/ch708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-14%2Fch708
 [/us/stat/26/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F289
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1069
 [/us/pl/87/66/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F66%2Fs4
 [/us/stat/75/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F146
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1079
 [/us/act/1862-02-25/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-02-25%2Fch33
 [/us/stat/12/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F345

@@ -31,11 +31,11 @@
 
     No provision of this subchapter shall be construed as altering, limiting, or extending any Federal or State law or Tribal-State compact prohibiting, permitting, or regulating gambling within the United States.
 
-(Added [Pub. L. 109–347, title VIII, § 802(a)][/us/pl/109/347/s802/a], Oct. 13, 2006, [120 Stat. 1952][/us/stat/120/1952].)
+(Added [Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(a), Oct. 13, 2006, [120 Stat. 1952][/us/stat/120/1952].)
 
  __Internet Gambling In or Through Foreign Jurisdictions__ 
 
-[Pub. L. 109–347, title VIII, § 803][/us/pl/109/347/s803], Oct. 13, 2006, [120 Stat. 1962][/us/stat/120/1962], provided that:
+[Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 803, Oct. 13, 2006, [120 Stat. 1962][/us/stat/120/1962], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/109/347/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fa
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1952
-[/us/pl/109/347/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs803
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1962
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/usc/t31/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5301

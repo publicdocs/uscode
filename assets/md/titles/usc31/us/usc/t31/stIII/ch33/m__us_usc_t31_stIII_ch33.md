@@ -243,13 +243,13 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–356, title IV, § 402(b)][/us/pl/103/356/s402/b], Oct. 13, 1994, [108 Stat. 3413][/us/stat/108/3413], substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” in item 3332.
+    1994—[Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 402(b), Oct. 13, 1994, [108 Stat. 3413][/us/stat/108/3413], substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” in item 3332.
 
-    [Pub. L. 103–272, § 4(f)(1)(G)][/us/pl/103/272/s4/f/1/G], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], added item 3334.
+    [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(G), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362], added item 3334.
 
-    1991—[Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(4)(B), June 13, 1991, [105 Stat. 277][/us/stat/105/277], substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
+    1991—[Pub. L. 102–54][/us/pl/102/54], § 13(l)(4)(B), June 13, 1991, [105 Stat. 277][/us/stat/105/277], substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
 
-    1990—[Pub. L. 101–453, § 4(b)][/us/pl/101/453/s4/b], Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], added item 3335.
+    1990—[Pub. L. 101–453][/us/pl/101/453], § 4(b), Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], added item 3335.
 
 ----------
 
@@ -258,13 +258,13 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 ----------
 ----------
 
-[/us/pl/103/356/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs402%2Fb
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3413
-[/us/pl/103/272/s4/f/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FG
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F277
-[/us/pl/101/453/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs4%2Fb
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1059
 
 

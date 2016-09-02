@@ -21,7 +21,7 @@
 
     (2) annually issue a staff commentary on the regulations issued under this subchapter.
 
-(Added [Pub. L. 103–325, title III, § 311(a)][/us/pl/103/325/s311/a], Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221].)
+(Added [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 311(a), Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/325/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs311%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2221
 
 

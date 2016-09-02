@@ -17,11 +17,11 @@
 
     For any protest of a public-private competition conducted under Office of Management and Budget Circular A–76 with respect to the performance of an activity or function of a Federal agency, the Comptroller General shall administer the provisions of this subchapter in the manner best suited for expediting the final resolution of the protest and the final action in the public-private competition.
 
-(Added [Pub. L. 110–181, div. A, title III, § 326(b)(1)][/us/pl/110/181/s326/b/1], Jan. 28, 2008, [122 Stat. 63][/us/stat/122/63]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(c)(2), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 326(b)(1), Jan. 28, 2008, [122 Stat. 63][/us/stat/122/63]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(c)(2), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].)
 
  __Codification__ 
 
-    Another section 3557, added [Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(i)][/us/pl/110/161/s739/c/1/B/i], Dec. 26, 2007, [121 Stat. 2030][/us/stat/121/2030], related to an expedited action in protests for public-private competitions, prior to repeal by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(c)(1), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].
+    Another section 3557, added [Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 739(c)(1)(B)(i), Dec. 26, 2007, [121 Stat. 2030][/us/stat/121/2030], related to an expedited action in protests for public-private competitions, prior to repeal by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(c)(1), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/110/181/s326/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs326%2Fb%2F1
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F63
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/110/161/s739/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs739%2Fc%2F1%2FB%2Fi
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2030
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613

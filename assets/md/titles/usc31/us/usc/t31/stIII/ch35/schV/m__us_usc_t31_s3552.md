@@ -23,7 +23,7 @@
 
         (2) The determination of an agency tender official under paragraph (1) whether or not to file a protest is not subject to administrative or judicial review. An agency tender official shall provide written notification to Congress whenever the official makes a determination under paragraph (1) that there is no reasonable basis for a protest.
 
-(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1199][/us/stat/98/1199]; amended [Pub. L. 103–272, § 4(f)(1)(L)][/us/pl/103/272/s4/f/1/L], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–355, title X, § 10005(d)][/us/pl/103/355/s10005/d], Oct. 13, 1994, [108 Stat. 3408][/us/stat/108/3408]; [Pub. L. 104–106, div. E, title LVI, § 5603][/us/pl/104/106/s5603], Feb. 10, 1996, [110 Stat. 700][/us/stat/110/700]; [Pub. L. 108–375, div. A, title III, § 326(b)][/us/pl/108/375/s326/b], Oct. 28, 2004, [118 Stat. 1848][/us/stat/118/1848].)
+(Added [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2741(a), July 18, 1984, [98 Stat. 1199][/us/stat/98/1199]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(L), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–355, title X][/us/pl/103/355/tX], § 10005(d), Oct. 13, 1994, [108 Stat. 3408][/us/stat/108/3408]; [Pub. L. 104–106, div. E, title LVI][/us/pl/104/106/dE/tLVI], § 5603, Feb. 10, 1996, [110 Stat. 700][/us/stat/110/700]; [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 326(b), Oct. 28, 2004, [118 Stat. 1848][/us/stat/118/1848].)
 
  __Amendments__ 
 
@@ -61,15 +61,15 @@
 ----------
 
 [/us/usc/t31/s3551/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3551%2F2%2FB
-[/us/pl/98/369/s2741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2741%2Fa
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1199
-[/us/pl/103/272/s4/f/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FL
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/103/355/s10005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10005%2Fd
+[/us/pl/103/355/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtX
 [/us/stat/108/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3408
-[/us/pl/104/106/s5603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5603
+[/us/pl/104/106/dE/tLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLVI
 [/us/stat/110/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F700
-[/us/pl/108/375/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs326%2Fb
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1848
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

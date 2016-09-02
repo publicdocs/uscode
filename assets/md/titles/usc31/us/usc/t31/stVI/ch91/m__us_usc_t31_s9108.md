@@ -35,7 +35,7 @@
 
         (2) Subsections (a) and (b) of this section do not apply to the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)][/us/usc/t7/s950/a])), the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.
 
-([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(2), Sept. 13, 1982, [96 Stat. 1045][/us/stat/96/1045], 1062; [Pub. L. 97–452, § 1(27)][/us/pl/97/452/s1/27], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
+([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(2), Sept. 13, 1982, [96 Stat. 1045][/us/stat/96/1045], 1062; [Pub. L. 97–452][/us/pl/97/452], § 1(27), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
 
 <table>
 
@@ -149,7 +149,7 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 
     1983—Subsec. (d)(2). [Pub. L. 97–452][/us/pl/97/452] struck out “the National Consumer Cooperative Bank,” after “the Regional Banks for Cooperatives,” which had already been struck out by [Pub. L. 97–258][/us/pl/97/258]. See 1982 Amendment note below.
 
-    1982—Subsec. (d)(2). [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
+    1982—Subsec. (d)(2). [Pub. L. 97–258][/us/pl/97/258], § 2(l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -157,7 +157,7 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 
  __Effective Date of 1982 Amendment__ 
 
-    [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by such section is effective Jan. 1, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 2(l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by such section is effective Jan. 1, 1982.
 
 ----------
 
@@ -169,7 +169,7 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 [/us/usc/t7/s950/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1045
-[/us/pl/97/452/s1/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F27
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
 [/us/usc/t7/s950/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950%2Fa
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -179,11 +179,11 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 [/us/stat/95/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1440
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi
 [/us/usc/t31/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3331
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
 
 

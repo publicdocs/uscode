@@ -51,7 +51,7 @@
 
         (2) on the operating procedure of the Board.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 901][/us/stat/96/901]; [Pub. L. 103–283, title III, § 312(e)(4)(B)][/us/pl/103/283/s312/e/4/B], July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 104–53, title II, § 213][/us/pl/104/53/s213], Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 901][/us/stat/96/901]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 312(e)(4)(B), July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 104–53, title II][/us/pl/104/53/tII], § 213, Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535].)
 
 <table>
 
@@ -151,15 +151,15 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(h), (j), (k), (m), 94 Stat. 30, 31.  </t
 
  __References in Text__ 
 
-    Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to [section 1831(e)(2) of Title 2][/us/usc/t2/s1831/e/2], The Congress, and was repealed by [Pub. L. 104–1, title V, § 504(c)(1)][/us/pl/104/1/s504/c/1], Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], except as provided in [section 1435 of Title 2][/us/usc/t2/s1435].
+    Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to [section 1831(e)(2) of Title 2][/us/usc/t2/s1831/e/2], The Congress, and was repealed by [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(c)(1), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], except as provided in [section 1435 of Title 2][/us/usc/t2/s1435].
 
  __Amendments__ 
 
-    1995—Subsec. (b). [Pub. L. 104–53, § 213(2)][/us/pl/104/53/s213/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    1995—Subsec. (b). [Pub. L. 104–53][/us/pl/104/53], § 213(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 104–53, § 213(1)][/us/pl/104/53/s213/1], (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 104–53][/us/pl/104/53], § 213(1), (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
 
-    Subsecs. (d), (e). [Pub. L. 104–53, § 213(1)][/us/pl/104/53/s213/1], redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 104–53][/us/pl/104/53], § 213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
     1994—Subsec. (a)(9). [Pub. L. 103–283][/us/pl/103/283] added par. (9). See Application of Provisions Amended by [Pub. L. 103–283][/us/pl/103/283] note below.
 
@@ -185,17 +185,17 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(h), (j), (k), (m), 94 Stat. 30, 31.  </t
 [/us/usc/t31/s732/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732%2Ff%2F1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F901
-[/us/pl/103/283/s312/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312%2Fe%2F4%2FB
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1446
-[/us/pl/104/53/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs213
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F535
 [/us/usc/t2/s1831/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1831%2Fe%2F2
-[/us/pl/104/1/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fc%2F1
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/usc/t2/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1435
-[/us/pl/104/53/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs213%2F2
-[/us/pl/104/53/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs213%2F1
-[/us/pl/104/53/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs213%2F1
+[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8

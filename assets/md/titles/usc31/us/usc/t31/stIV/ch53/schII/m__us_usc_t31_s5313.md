@@ -133,7 +133,7 @@
 
             (C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 996][/us/stat/96/996]; [Pub. L. 103–325, title IV, § 402(a)][/us/pl/103/325/s402/a], Sept. 23, 1994, [108 Stat. 2243][/us/stat/108/2243].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 996][/us/stat/96/996]; [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 402(a), Sept. 23, 1994, [108 Stat. 2243][/us/stat/108/2243].)
 
 <table>
 
@@ -229,7 +229,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
  __References in Text__ 
 
-    Section 411 of the National Housing Act, referred to in subsec. (b), which was classified to [section 1730d of Title 12][/us/usc/t12/s1730d], Banks and Banking, was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    Section 411 of the National Housing Act, referred to in subsec. (b), which was classified to [section 1730d of Title 12][/us/usc/t12/s1730d], Banks and Banking, was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
     Section 19(b)(1)(A) and (C) of the Federal Reserve Act, referred to in subsecs. (e)(2)(A) and (g)(1), is classified to section 461(b)(1)(A) and (C) of Title 12.
 
@@ -245,7 +245,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
  __Efficient Use of Currency Transaction Report System__ 
 
-[Pub. L. 107–56, title III, § 366][/us/pl/107/56/s366], Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 366, Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -279,7 +279,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
  __Report Reduction Goal; Streamlined Currency Transaction Reports__ 
 
-[Pub. L. 103–325, title IV, § 402(b)][/us/pl/103/325/s402/b], (c), Sept. 23, 1994, [108 Stat. 2245][/us/stat/108/2245], provided that:
+[Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 402(b), (c), Sept. 23, 1994, [108 Stat. 2245][/us/stat/108/2245], provided that:
 
 >     “(b) __Report Reduction Goal; Reports.—__ 
 
@@ -315,19 +315,19 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F996
-[/us/pl/103/325/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs402%2Fa
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2243
 [/us/usc/t31/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5315
 [/us/usc/t12/s1730d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730d
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/107/56/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs366
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F335
 [/us/usc/t31/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313
-[/us/pl/103/325/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs402%2Fb
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2245
 [/us/usc/t31/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313%2Fa
 [/us/usc/t31/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313%2Fa

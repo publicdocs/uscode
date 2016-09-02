@@ -81,7 +81,7 @@
 
     (f) To avoid frequent substitution of eligible obligations, the Secretary may prescribe regulations limiting the effect of this section to an eligible obligation maturing more than one year after the date the obligation is given as security.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1046][/us/stat/96/1046]; [Pub. L. 107–217, § 3(h)(9)][/us/pl/107/217/s3/h/9], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 108–178, § 4(f)(2)][/us/pl/108/178/s4/f/2], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–351, title IX, § 901(b)][/us/pl/109/351/s901/b], (c), Oct. 13, 2006, [120 Stat. 2007][/us/stat/120/2007].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1046][/us/stat/96/1046]; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(9), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 108–178][/us/pl/108/178], § 4(f)(2), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–351, title IX][/us/pl/109/351/tIX], § 901(b), (c), Oct. 13, 2006, [120 Stat. 2007][/us/stat/120/2007].)
 
 <table>
 
@@ -211,21 +211,21 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–351, § 901(c)(1)][/us/pl/109/351/s901/c/1], substituted “eligible obligations” for “Government obligations” in section catchline.
+    2006—[Pub. L. 109–351][/us/pl/109/351], § 901(c)(1), substituted “eligible obligations” for “Government obligations” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–351, § 901(b)][/us/pl/109/351/s901/b], (c)(3), substituted “an eligible obligation” for “a Government obligation” in introductory provisions and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be in an amount equal at par value to the amount of the required surety bond; and”.
+    Subsec. (a). [Pub. L. 109–351][/us/pl/109/351], § 901(b), (c)(3), substituted “an eligible obligation” for “a Government obligation” in introductory provisions and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be in an amount equal at par value to the amount of the required surety bond; and”.
 
-    Subsecs. (b) to (e). [Pub. L. 109–351, § 901(c)(3)][/us/pl/109/351/s901/c/3], (4), substituted “an eligible obligation” for “a Government obligation” and “the eligible obligation” for “the Government obligation” wherever appearing.
+    Subsecs. (b) to (e). [Pub. L. 109–351][/us/pl/109/351], § 901(c)(3), (4), substituted “an eligible obligation” for “a Government obligation” and “the eligible obligation” for “the Government obligation” wherever appearing.
 
-    Subsec. (f). [Pub. L. 109–351, § 901(c)(2)][/us/pl/109/351/s901/c/2], (3), substituted “eligible obligations” for “Government obligations” and “an eligible obligation” for “a Government obligation”.
+    Subsec. (f). [Pub. L. 109–351][/us/pl/109/351], § 901(c)(2), (3), substituted “eligible obligations” for “Government obligations” and “an eligible obligation” for “a Government obligation”.
 
     2003—Subsec. (d)(1). [Pub. L. 108–178][/us/pl/108/178] struck out comma after “sections 3131 and 3133 of title 40”.
 
-    2002—Subsec. (d). [Pub. L. 107–217, § 3(h)(9)(A)][/us/pl/107/217/s3/h/9/A], in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])” and “[section 3133(a) of title 40][/us/usc/t40/s3133/a]” for “section 3 of the Act ([40 U.S.C. 270c][/us/usc/t40/s270c])”.
+    2002—Subsec. (d). [Pub. L. 107–217][/us/pl/107/217], § 3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])” and “[section 3133(a) of title 40][/us/usc/t40/s3133/a]” for “section 3 of the Act ([40 U.S.C. 270c][/us/usc/t40/s270c])”.
 
-    Subsec. (d)(1). [Pub. L. 107–217, § 3(h)(9)(B)][/us/pl/107/217/s3/h/9/B], substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])” and “[section 3133(b) of title 40][/us/usc/t40/s3133/b]” for “section 2 of the Act ([40 U.S.C. 270b][/us/usc/t40/s270b])”.
+    Subsec. (d)(1). [Pub. L. 107–217][/us/pl/107/217], § 3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])” and “[section 3133(b) of title 40][/us/usc/t40/s3133/b]” for “section 2 of the Act ([40 U.S.C. 270b][/us/usc/t40/s270b])”.
 
-    Subsec. (e)(2)(A). [Pub. L. 107–217, § 3(h)(9)(C)][/us/pl/107/217/s3/h/9/C], substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])”.
+    Subsec. (e)(2)(A). [Pub. L. 107–217][/us/pl/107/217], § 3(h)(9)(C), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d])”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -242,26 +242,26 @@ Source (Statutes at Large)  </td>
 [/us/usc/t40/s3133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3133%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1046
-[/us/pl/107/217/s3/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F9
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
-[/us/pl/108/178/s4/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Ff%2F2
-[/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
-[/us/pl/109/351/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fb
-[/us/stat/120/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2007
-[/us/pl/109/351/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fc%2F1
-[/us/pl/109/351/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fb
-[/us/pl/109/351/s901/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fc%2F3
-[/us/pl/109/351/s901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fc%2F2
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
-[/us/pl/107/217/s3/h/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F9%2FA
+[/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
+[/us/pl/109/351/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIX
+[/us/stat/120/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2007
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/usc/t40/s3133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3133%2Fa
 [/us/usc/t40/s270c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270c
-[/us/pl/107/217/s3/h/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F9%2FB
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/usc/t40/s3133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3133%2Fb
 [/us/usc/t40/s270b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270b
-[/us/pl/107/217/s3/h/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F9%2FC
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5

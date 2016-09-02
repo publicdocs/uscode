@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item for chapter 7.
+    2004—[Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item for chapter 7.
 
-    1990—[Pub. L. 101–576, title II, § 205(b)][/us/pl/101/576/s205/b], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], added item for chapter 9.
+    1990—[Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(b), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], added item for chapter 9.
 
 ----------
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/101/576/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fb
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2845
 
 

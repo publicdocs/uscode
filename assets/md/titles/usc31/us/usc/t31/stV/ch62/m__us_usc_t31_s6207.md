@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years 1986, 1987, 1988, 1989, and 1990.
 
-(Added [Pub. L. 99–547, § 2(a)][/us/pl/99/547/s2/a], Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060].)
+(Added [Pub. L. 99–547][/us/pl/99/547], § 2(a), Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/547/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fa
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3060
 
 

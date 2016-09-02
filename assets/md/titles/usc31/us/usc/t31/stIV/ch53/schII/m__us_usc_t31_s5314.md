@@ -125,7 +125,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 241, 242, 84 Stat. 1124.  </td>
 
  __Compliance With Reporting Requirements__ 
 
-[Pub. L. 107–56, title III, § 361(b)][/us/pl/107/56/s361/b], Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 361(b), Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], provided that: 
 
 > “The Secretary of the Treasury shall study methods for improving compliance with the reporting requirements established in [section 5314 of title 31][/us/usc/t31/s5314], United States Code, and shall submit a report on such study to the Congress by the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\] and each 1-year period thereafter. The initial report shall include historical data on compliance with such reporting requirements.”
 
@@ -138,7 +138,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 241, 242, 84 Stat. 1124.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F997
-[/us/pl/107/56/s361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs361%2Fb
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F332
 [/us/usc/t31/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5314
 

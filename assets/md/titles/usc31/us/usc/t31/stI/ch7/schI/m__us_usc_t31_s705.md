@@ -121,11 +121,11 @@
 
     As used in this section, the term “Federal agency” means a department, agency, instrumentality, or unit thereof, of the Federal Government.
 
-(Added [Pub. L. 110–323, § 5(a)][/us/pl/110/323/s5/a], Sept. 22, 2008, [122 Stat. 3544][/us/stat/122/3544].)
+(Added [Pub. L. 110–323][/us/pl/110/323], § 5(a), Sept. 22, 2008, [122 Stat. 3544][/us/stat/122/3544].)
 
  __Incumbent__ 
 
-[Pub. L. 110–323, § 5(b)][/us/pl/110/323/s5/b], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], provided that: 
+[Pub. L. 110–323][/us/pl/110/323], § 5(b), Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], provided that: 
 
 > “The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act \[Sept. 22, 2008\] shall continue to serve in such position subject to removal in accordance with the amendments made by this section \[enacting this section\].”
 
@@ -138,9 +138,9 @@
 
 [/us/usc/t31/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/110/323/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs5%2Fa
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3544
-[/us/pl/110/323/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs5%2Fb
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
 
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary may approve reimbursement to agents on protective missions for subsistence expenses authorized by law without regard to rates and amounts established under [section 5702 of title 5][/us/usc/t5/s5702].
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 883][/us/stat/96/883]; [Pub. L. 99–234, title I, § 107(e)][/us/pl/99/234/s107/e], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 883][/us/stat/96/883]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 107(e), Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
 
 <table>
 
@@ -103,7 +103,7 @@ Sept. 29, 1969, Pub. L. 91–74, § 102(1st par.), 83 Stat. 118.  </td>
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F883
-[/us/pl/99/234/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Fe
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234

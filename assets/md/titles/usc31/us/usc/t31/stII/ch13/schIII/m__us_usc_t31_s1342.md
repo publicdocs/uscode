@@ -17,7 +17,7 @@
 
     An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term “emergencies involving the safety of human life or the protection of property” does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 101–508, title XIII, § 13213(b)][/us/pl/101/508/s13213/b], Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621]; [Pub. L. 104–92, title III, § 310(a)][/us/pl/104/92/s310/a], Jan. 6, 1996, [110 Stat. 20][/us/stat/110/20].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13213(b), Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621]; [Pub. L. 104–92, title III][/us/pl/104/92/tIII], § 310(a), Jan. 6, 1996, [110 Stat. 20][/us/stat/110/20].)
 
 <table>
 
@@ -87,7 +87,7 @@ R.S. § 3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 
 
  __Effective and Termination Dates of 1996 Amendment__ 
 
-    [Pub. L. 104–92, title III, § 310(a)][/us/pl/104/92/s310/a], Jan. 6, 1996, [110 Stat. 20][/us/stat/110/20], provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
+    [Pub. L. 104–92, title III][/us/pl/104/92/tIII], § 310(a), Jan. 6, 1996, [110 Stat. 20][/us/stat/110/20], provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
 
 ----------
 
@@ -98,13 +98,13 @@ R.S. § 3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F923
-[/us/pl/101/508/s13213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13213%2Fb
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-621
-[/us/pl/104/92/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F92%2Fs310%2Fa
+[/us/pl/104/92/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F92%2FtIII
 [/us/stat/110/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F20
 [/us/pl/104/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F92
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/104/92/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F92%2Fs310%2Fa
+[/us/pl/104/92/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F92%2FtIII
 [/us/stat/110/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F20
 
 

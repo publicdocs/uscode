@@ -19,7 +19,7 @@
 
     (b) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 975][/us/stat/96/975]; [Pub. L. 101–203, § 1(a)][/us/pl/101/203/s1/a], (b)(1), Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805]; [Pub. L. 105–362, title X, § 1001(c)][/us/pl/105/362/s1001/c], Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 975][/us/stat/96/975]; [Pub. L. 101–203][/us/pl/101/203], § 1(a), (b)(1), Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805]; [Pub. L. 105–362, title X][/us/pl/105/362/tX], § 1001(c), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
 
 <table>
 
@@ -119,15 +119,15 @@ Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of
 
     1998—Subsecs. (b), (c). [Pub. L. 105–362][/us/pl/105/362] redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.”
 
-    1989—[Pub. L. 101–203, § 1(b)(1)][/us/pl/101/203/s1/b/1], amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
+    1989—[Pub. L. 101–203][/us/pl/101/203], § 1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
 
-    Subsec. (a). [Pub. L. 101–203, § 1(a)(1)][/us/pl/101/203/s1/a/1], substituted “$50,000” for “$500” and “an investigative or law enforcement officer as defined in [section 2680(h) of title 28][/us/usc/t28/s2680/h] who is employed by the Department of Justice” for “the Director or an Assistant Director, inspector, or special agent of the Federal Bureau of Investigation”.
+    Subsec. (a). [Pub. L. 101–203][/us/pl/101/203], § 1(a)(1), substituted “$50,000” for “$500” and “an investigative or law enforcement officer as defined in [section 2680(h) of title 28][/us/usc/t28/s2680/h] who is employed by the Department of Justice” for “the Director or an Assistant Director, inspector, or special agent of the Federal Bureau of Investigation”.
 
-    Subsec. (b). [Pub. L. 101–203, § 1(a)(2)][/us/pl/101/203/s1/a/2], substituted “report annually to the Congress on all settlements made under this section. With respect to each such settlement, the” for “certify to Congress a settlement under this section for payment out of an appropriation that may be made to pay the settlement. The”.
+    Subsec. (b). [Pub. L. 101–203][/us/pl/101/203], § 1(a)(2), substituted “report annually to the Congress on all settlements made under this section. With respect to each such settlement, the” for “certify to Congress a settlement under this section for payment out of an appropriation that may be made to pay the settlement. The”.
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–203, § 2][/us/pl/101/203/s2], Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805], provided that: 
+[Pub. L. 101–203][/us/pl/101/203], § 2, Dec. 7, 1989, [103 Stat. 1805][/us/stat/103/1805], provided that: 
 
 > “The amendments made by section 1 \[amending this section\] shall apply to—
 
@@ -139,7 +139,7 @@ Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of
 
  __Settlement of Claims for Damage to or Loss of Privately Owned Property__ 
 
-[Pub. L. 106–185, § 3(b)][/us/pl/106/185/s3/b], Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211], provided that:
+[Pub. L. 106–185][/us/pl/106/185], § 3(b), Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -163,19 +163,19 @@ Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F975
-[/us/pl/101/203/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs1%2Fa
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
 [/us/stat/103/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1805
-[/us/pl/105/362/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1001%2Fc
+[/us/pl/105/362/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtX
 [/us/stat/112/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3291
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/101/203/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs1%2Fb%2F1
-[/us/pl/101/203/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs1%2Fa%2F1
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
-[/us/pl/101/203/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs1%2Fa%2F2
-[/us/pl/101/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203%2Fs2
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
+[/us/pl/101/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F203
 [/us/stat/103/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1805
 [/us/usc/t31/s3724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3724%2Fa
-[/us/pl/106/185/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs3%2Fb
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F211
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 

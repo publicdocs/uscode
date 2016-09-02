@@ -33,7 +33,7 @@
 
     (f) When the Director and Deputy Director are absent or unable to serve or when the offices of Director and Deputy Director are vacant, the President may designate an officer of the Office to act as Director.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 886][/us/stat/96/886]; [Pub. L. 101–576, title II, § 201][/us/pl/101/576/s201], Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 886][/us/stat/96/886]; [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 201, Nov. 15, 1990, [104 Stat. 2839][/us/stat/104/2839].)
 
 <table>
 
@@ -166,7 +166,7 @@ In subsections (a) and (b), the words related to salaries in section 207 of the 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F886
-[/us/pl/101/576/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs201
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2839
 [/us/stat/42/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F22
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085

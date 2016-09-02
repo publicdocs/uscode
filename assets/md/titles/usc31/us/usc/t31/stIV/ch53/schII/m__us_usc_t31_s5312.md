@@ -119,7 +119,7 @@
 
             (A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No subpar. (B) has been enacted. </sup></sup>  Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 995][/us/stat/96/995]; [Pub. L. 99–570, title I, § 1362][/us/pl/99/570/s1362], Oct. 27, 1986, [100 Stat. 3207–33][/us/stat/100/3207-33]; [Pub. L. 100–690, title VI, § 6185(a)][/us/pl/100/690/s6185/a], (g)(1), Nov. 18, 1988, [102 Stat. 4354][/us/stat/102/4354], 4357; [Pub. L. 103–325, title IV][/us/pl/103/325], §§ 405, 409, Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], 2252; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315], 328, 335; [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6202(g), 6203(b), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 995][/us/stat/96/995]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1362, Oct. 27, 1986, [100 Stat. 3207–33][/us/stat/100/3207-33]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(a), (g)(1), Nov. 18, 1988, [102 Stat. 4354][/us/stat/102/4354], 4357; [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], §§ 405, 409, Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], 2252; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315], 328, 335; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], §§ 6202(g), 6203(b), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
 
 <table>
 
@@ -263,35 +263,35 @@ Oct. 26, 1970, Pub. L. 91–508, § 203(a)–(i), (l), 84 Stat. 1118.  </td>
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2)(E). [Pub. L. 108–458, § 6202(g)][/us/pl/108/458/s6202/g], made technical correction to directory language of [Pub. L. 107–56, § 321(a)][/us/pl/107/56/s321/a]. See 2001 Amendment note below.
+    2004—Subsec. (a)(2)(E). [Pub. L. 108–458][/us/pl/108/458], § 6202(g), made technical correction to directory language of [Pub. L. 107–56][/us/pl/107/56], § 321(a). See 2001 Amendment note below.
 
-    Subsec. (a)(3)(C). [Pub. L. 108–458, § 6203(b)][/us/pl/108/458/s6203/b], substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
+    Subsec. (a)(3)(C). [Pub. L. 108–458][/us/pl/108/458], § 6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
 
-    2001—Subsec. (a)(2)(E). [Pub. L. 107–56, § 321(a)][/us/pl/107/56/s321/a], as amended by [Pub. L. 108–458, § 6202(g)][/us/pl/108/458/s6202/g], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act ([12 U.S.C. 1724(a)][/us/usc/t12/s1724/a]));”.
+    2001—Subsec. (a)(2)(E). [Pub. L. 107–56][/us/pl/107/56], § 321(a), as amended by [Pub. L. 108–458][/us/pl/108/458], § 6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act ([12 U.S.C. 1724(a)][/us/usc/t12/s1724/a]));”.
 
-    Subsec. (a)(2)(R). [Pub. L. 107–56, § 359(a)][/us/pl/107/56/s359/a], amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
+    Subsec. (a)(2)(R). [Pub. L. 107–56][/us/pl/107/56], § 359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
 
-    Subsec. (a)(3)(C). [Pub. L. 107–56, § 365(c)(2)(A)][/us/pl/107/56/s365/c/2/A], substituted “sections 5333 and 5316,” for “section 5316,”.
+    Subsec. (a)(3)(C). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(2)(A), substituted “sections 5333 and 5316,” for “section 5316,”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 107–56, § 365(c)(1)][/us/pl/107/56/s365/c/1], added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (a)(4) to (6). [Pub. L. 107–56][/us/pl/107/56], § 365(c)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-    Subsec. (c). [Pub. L. 107–56, § 321(b)][/us/pl/107/56/s321/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 321(b), added subsec. (c).
 
-    1994—Subsec. (a)(2)(X) to (Z). [Pub. L. 103–325, § 409][/us/pl/103/325/s409], added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
+    1994—Subsec. (a)(2)(X) to (Z). [Pub. L. 103–325][/us/pl/103/325], § 409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
 
-    Subsec. (a)(3)(C). [Pub. L. 103–325, § 405][/us/pl/103/325/s405], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 103–325][/us/pl/103/325], § 405, added subpar. (C).
 
-    1988—Subsec. (a)(2)(T) to (Y). [Pub. L. 100–690, § 6185(a)][/us/pl/100/690/s6185/a], added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
+    1988—Subsec. (a)(2)(T) to (Y). [Pub. L. 100–690][/us/pl/100/690], § 6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
 
     “(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
 
     “(U) another business or agency carrying out a similar, related, or substitute duty or power the Secretary of the Treasury prescribes.”
 
-    Subsec. (a)(5). [Pub. L. 100–690, § 6185(g)(1)][/us/pl/100/690/s6185/g/1], inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
+    Subsec. (a)(5). [Pub. L. 100–690][/us/pl/100/690], § 6185(g)(1), inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
 
-    1986—Subsec. (a)(2)(T). [Pub. L. 99–570, § 1362(a)][/us/pl/99/570/s1362/a], which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
+    1986—Subsec. (a)(2)(T). [Pub. L. 99–570][/us/pl/99/570], § 1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
 
-    Subsec. (a)(5). [Pub. L. 99–570, § 1362(b)][/us/pl/99/570/s1362/b], inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
+    Subsec. (a)(5). [Pub. L. 99–570][/us/pl/99/570], § 1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -313,15 +313,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 203(a)–(i), (l), 84 Stat. 1118.  </td>
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F995
-[/us/pl/99/570/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1362
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-33
-[/us/pl/100/690/s6185/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4354
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2247
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F315
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
@@ -334,22 +334,22 @@ Oct. 26, 1970, Pub. L. 91–508, § 203(a)–(i), (l), 84 Stat. 1118.  </td>
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/108/458/s6202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fg
-[/us/pl/107/56/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs321%2Fa
-[/us/pl/108/458/s6203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fb
-[/us/pl/107/56/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs321%2Fa
-[/us/pl/108/458/s6202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fg
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t12/s1724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724%2Fa
-[/us/pl/107/56/s359/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs359%2Fa
-[/us/pl/107/56/s365/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F2%2FA
-[/us/pl/107/56/s365/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fc%2F1
-[/us/pl/107/56/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs321%2Fb
-[/us/pl/103/325/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs409
-[/us/pl/103/325/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs405
-[/us/pl/100/690/s6185/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fa
-[/us/pl/100/690/s6185/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Fg%2F1
-[/us/pl/99/570/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1362%2Fa
-[/us/pl/99/570/s1362/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1362%2Fb
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

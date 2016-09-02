@@ -17,7 +17,7 @@
 
     This chapter shall apply to any non-Federal entity with respect to any of its fiscal years which begin after June 30, 1996.
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2334][/us/stat/98/2334]; amended [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1404][/us/stat/110/1404].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2334][/us/stat/98/2334]; amended [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1404][/us/stat/110/1404].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2334
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1404
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 

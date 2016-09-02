@@ -49,7 +49,7 @@
 
     (e) A Comptroller General receiving benefits under this section may not receive retirement or disability benefits under another law of the United States.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 902][/us/stat/96/902]; [Pub. L. 100–426, title II, § 203][/us/pl/100/426/s203], Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 902][/us/stat/96/902]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 203, Sept. 9, 1988, [102 Stat. 1600][/us/stat/102/1600]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -173,13 +173,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 4th sentence, 3d par. last 
 
     2004—Subsec. (d)(1). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-    1988—Subsec. (a). [Pub. L. 100–426, § 203(1)][/us/pl/100/426/s203/1], substituted “retires under [section 703(e)(1) of this title][/us/usc/t31/s703/e/1]” for “is retired for age under [section 703(e)(1) of this title][/us/usc/t31/s703/e/1] after serving at least 10 years”.
+    1988—Subsec. (a). [Pub. L. 100–426][/us/pl/100/426], § 203(1), substituted “retires under [section 703(e)(1) of this title][/us/usc/t31/s703/e/1]” for “is retired for age under [section 703(e)(1) of this title][/us/usc/t31/s703/e/1] after serving at least 10 years”.
 
-    Subsec. (c). [Pub. L. 100–426, § 203(2)][/us/pl/100/426/s203/2], substituted “subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)” for “subchapter III of chapter 83 of title 5 remains subject to subchapter III”.
+    Subsec. (c). [Pub. L. 100–426][/us/pl/100/426], § 203(2), substituted “subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)” for “subchapter III of chapter 83 of title 5 remains subject to subchapter III”.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–426, title II, § 208][/us/pl/100/426/s208], Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601], provided that: 
+[Pub. L. 100–426, title II][/us/pl/100/426/tII], § 208, Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 703, 771, 773, 774, 776, and 777 of this title\] shall be effective after the end of the 60-day period beginning on the date of enactment of this Act \[Sept. 9, 1988\], except that an individual who, as of such date of enactment, is receiving an annuity under subchapter V of chapter 7 of title 31, United States Code, as a retired Comptroller General (and the spouse and any dependent children of such individual who may survive such individual) shall remain subject to the provisions of such subchapter, as in effect immediately before such date, if the retired Comptroller General makes an election under this section. An election under this section shall be ineffective unless it is made in writing and received by the General Counsel of the General Accounting Office \[now Government Accountability Office\] before the end of the 60-day period referred to in the preceding sentence.”
 
@@ -193,17 +193,17 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 4th sentence, 3d par. last 
 [/us/usc/t31/s703/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs703%2Fe%2F1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F902
-[/us/pl/100/426/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs203
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1600
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t31/s703/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs703%2Fe%2F1
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/426/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs203%2F1
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/usc/t31/s703/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs703%2Fe%2F1
 [/us/usc/t31/s703/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs703%2Fe%2F1
-[/us/pl/100/426/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs203%2F2
-[/us/pl/100/426/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs208
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1601
 
 

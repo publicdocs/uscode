@@ -19,7 +19,7 @@
 
     (b) The head of a Federal agency may delegate the waiver authority under subsection (a) to the Chief Financial Officer of the agency. The waiver authority may be redelegated only to the Deputy Chief Financial Officer of the agency.
 
-(Added [Pub. L. 104–134, title III, § 31001(j)(1)][/us/pl/104/134/s31001/j/1], Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365]; amended [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 845(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65.)
+(Added [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(j)(1), Apr. 26, 1996, [110 Stat. 1321–365][/us/stat/110/1321-365]; amended [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 845(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65.)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 845(c)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, provided that:
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 845(c)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -45,7 +45,7 @@
 
  __Payments__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 845(b)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VIII, § 845(b)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, provided that: 
 
 > “Any payment made by the Commodity Credit Corporation to a producer as a result of the amendment made by section (a) \[amending this section\] shall be credited toward any delinquent debt owed by the producer to the Farm Service Agency.”
 
@@ -57,20 +57,20 @@
 ----------
 
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/104/134/s31001/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fj%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-365
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t7/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7231
 [/us/usc/t31/s3720B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720B%2Fa
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

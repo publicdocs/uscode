@@ -77,7 +77,7 @@
 
         (3) do not affect a check or warrant issued for the payment of pay or goods bought by the United States Government in a foreign country.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 953][/us/stat/96/953]; [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(2), June 13, 1991, [105 Stat. 277][/us/stat/105/277]; [Pub. L. 104–316, title I, § 115(e)][/us/pl/104/316/s115/e], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 953][/us/stat/96/953]; [Pub. L. 102–54][/us/pl/102/54], § 13(l)(2), June 13, 1991, [105 Stat. 277][/us/stat/105/277]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(e), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
 
 <table>
 
@@ -213,9 +213,9 @@ In subsection (d)(1), the words “is now being, or . . . hereafter” and �
 [/us/usc/t31/s3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3330
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F953
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F277
-[/us/pl/104/316/s115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fe
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
 [/us/act/1940-10-09/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fs1
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352

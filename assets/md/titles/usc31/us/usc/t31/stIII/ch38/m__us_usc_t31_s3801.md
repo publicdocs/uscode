@@ -179,7 +179,7 @@
 
         (2) a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–272, § 4(f)(1)(Q)][/us/pl/103/272/s4/f/1/Q], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 110–69, title VII, § 7017][/us/pl/110/69/s7017], Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684]; [Pub. L. 110–409, § 10][/us/pl/110/409/s10], Oct. 14, 2008, [122 Stat. 4314][/us/stat/122/4314].)
+(Added [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6103(a), Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(Q), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7017, Aug. 9, 2007, [121 Stat. 684][/us/stat/121/684]; [Pub. L. 110–409][/us/pl/110/409], § 10, Oct. 14, 2008, [122 Stat. 4314][/us/stat/122/4314].)
 
  __References in Text__ 
 
@@ -199,13 +199,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–509, title VI][/us/pl/99/509], subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], provided that: 
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], provided that: 
 
 > “This subtitle and the amendments made by this subtitle \[see Short Title note below\] shall take effect on the date of enactment of this Act \[Oct. 21, 1986\], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
 
  __Short Title__ 
 
-[Pub. L. 99–509, title VI][/us/pl/99/509], subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934], provided that: 
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934], provided that: 
 
 > “This subtitle \[enacting this chapter, amending [section 504 of Title 5][/us/usc/t5/s504], Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Program Fraud Civil Remedies Act of 1986’.”
 
@@ -215,7 +215,7 @@
 
  __Congressional Findings and Purposes__ 
 
-[Pub. L. 99–509, title VI][/us/pl/99/509], subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934], provided that:
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -247,15 +247,15 @@
 [/us/usc/t31/s3803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fa%2F1
 [/us/usc/t31/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803
 [/us/usc/t31/s3803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fa%2F2
-[/us/pl/99/509/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6103%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1934
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/272/s4/f/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FQ
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/110/69/s7017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7017
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F684
-[/us/pl/110/409/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs10
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4314
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
@@ -264,14 +264,14 @@
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t31/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1948
-[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1934
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1934
 
 

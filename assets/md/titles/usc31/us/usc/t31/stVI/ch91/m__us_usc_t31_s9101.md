@@ -77,7 +77,7 @@
 
         (N) the Tennessee Valley Authority.
 
-        \[(O) Repealed. [Pub. L. 104–134, title III, § 3117(a)][/us/pl/104/134/s3117/a], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].\]
+        \[(O) Repealed. [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3117(a), Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].\]
 
         (P) the Panama Canal Commission.
 
@@ -85,7 +85,7 @@
 
         (R) the International Clean Energy Foundation.
 
-([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(1), Sept. 13, 1982, [96 Stat. 1041][/us/stat/96/1041], 1062; [Pub. L. 97–452, § 1(26)][/us/pl/97/452/s1/26], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 100–86, title III, § 303][/us/pl/100/86/s303], Aug. 10, 1987, [101 Stat. 597][/us/stat/101/597]; [Pub. L. 101–73, title III, § 307(e)][/us/pl/101/73/s307/e], title V, §§ 501(d), 511(b)(1), Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353], 394, 406; [Pub. L. 102–486, title IX, § 902(b)][/us/pl/102/486/s902/b], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–82, title II, § 202(e)(1)][/us/pl/103/82/s202/e/1], Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888]; [Pub. L. 103–272, § 4(f)(1)(Z)][/us/pl/103/272/s4/f/1/Z], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 103–325, title I, § 104(e)][/us/pl/103/325/s104/e], Sept. 23, 1994, [108 Stat. 2168][/us/stat/108/2168]; [Pub. L. 104–106, div. C, title XXXV, § 3530][/us/pl/104/106/s3530], Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–127, title VII, § 722(b)][/us/pl/104/127/s722/b], Apr. 4, 1996, [110 Stat. 1115][/us/stat/110/1115]; [Pub. L. 104–134, title III, § 3117(a)][/us/pl/104/134/s3117/a], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350]; [Pub. L. 104–287, § 4(2)][/us/pl/104/287/s4/2], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–134, title IV, § 415(d)(2)][/us/pl/105/134/s415/d/2], Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590]; [Pub. L. 107–171, title VI, § 6201(d)(6)][/us/pl/107/171/s6201/d/6], May 13, 2002, [116 Stat. 419][/us/stat/116/419]; [Pub. L. 108–199, div. D, title VI, § 614(e)(2)][/us/pl/108/199/s614/e/2], Jan. 23, 2004, [118 Stat. 223][/us/stat/118/223]; [Pub. L. 110–140, title IX, § 925(c)(2)][/us/pl/110/140/s925/c/2], Dec. 19, 2007, [121 Stat. 1737][/us/stat/121/1737].)
+([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(1), Sept. 13, 1982, [96 Stat. 1041][/us/stat/96/1041], 1062; [Pub. L. 97–452][/us/pl/97/452], § 1(26), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 100–86, title III][/us/pl/100/86/tIII], § 303, Aug. 10, 1987, [101 Stat. 597][/us/stat/101/597]; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 307(e), title V, §§ 501(d), 511(b)(1), Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353], 394, 406; [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(b), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(e)(1), Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(Z), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 104(e), Sept. 23, 1994, [108 Stat. 2168][/us/stat/108/2168]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3530, Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 722(b), Apr. 4, 1996, [110 Stat. 1115][/us/stat/110/1115]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3117(a), Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350]; [Pub. L. 104–287][/us/pl/104/287], § 4(2), Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 415(d)(2), Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590]; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(d)(6), May 13, 2002, [116 Stat. 419][/us/stat/116/419]; [Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 614(e)(2), Jan. 23, 2004, [118 Stat. 223][/us/stat/118/223]; [Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 925(c)(2), Dec. 19, 2007, [121 Stat. 1737][/us/stat/121/1737].)
 
 <table>
 
@@ -193,19 +193,19 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
     1997—Par. (2). [Pub. L. 105–134][/us/pl/105/134] redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
 
-    1996—Par. (2)(J) to (M). [Pub. L. 104–287, § 4(2)(A)][/us/pl/104/287/s4/2/A], (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
+    1996—Par. (2)(J) to (M). [Pub. L. 104–287][/us/pl/104/287], § 4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
 
-    Par. (3)(B). [Pub. L. 104–287, § 4(2)(C)][/us/pl/104/287/s4/2/C], substituted a period for the semicolon at end.
+    Par. (3)(B). [Pub. L. 104–287][/us/pl/104/287], § 4(2)(C), substituted a period for the semicolon at end.
 
-    Par. (3)(N). [Pub. L. 104–127, § 722(b)(1)][/us/pl/104/127/s722/b/1], and [Pub. L. 104–287, § 4(2)(D)][/us/pl/104/287/s4/2/D], amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
+    Par. (3)(N). [Pub. L. 104–127][/us/pl/104/127], § 722(b)(1), and [Pub. L. 104–287][/us/pl/104/287], § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
     Par. (3)(O). [Pub. L. 104–134][/us/pl/104/134], which directed the amendment of par. (3) of this section by striking out subpar. (N) as added by [section 902(b) of Pub. L. 102–486][/us/pl/102/486/s902/b], was executed by striking out subpar. (O), to reflect the probable intent of Congress, because of the redesignation of that subpar. (N) as (O) by [section 722(b)(1) of Pub. L. 104–127][/us/pl/104/127/s722/b/1] and [section 4(2)(D) of Pub. L. 104–287][/us/pl/104/287/s4/2/D]. Subpar. (O) read as follows: “the Uranium Enrichment Corporation.”
 
-    [Pub. L. 104–127, § 722(b)(1)][/us/pl/104/127/s722/b/1], and [Pub. L. 104–287, § 4(2)(D)][/us/pl/104/287/s4/2/D], amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
+    [Pub. L. 104–127][/us/pl/104/127], § 722(b)(1), and [Pub. L. 104–287][/us/pl/104/287], § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
     Par. (3)(P). [Pub. L. 104–106][/us/pl/104/106] added subpar. (P).
 
-    Par. (3)(Q). [Pub. L. 104–127, § 722(b)(2)][/us/pl/104/127/s722/b/2], added subpar. (Q).
+    Par. (3)(Q). [Pub. L. 104–127][/us/pl/104/127], § 722(b)(2), added subpar. (Q).
 
     1994—Par. (2)(K). [Pub. L. 103–272][/us/pl/103/272] substituted “the” for “The”.
 
@@ -215,17 +215,17 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
     1992—Par. (3)(N). [Pub. L. 102–486][/us/pl/102/486] added subpar. (N) relating to the Uranium Enrichment Corporation.
 
-    1989—Par. (2)(L). [Pub. L. 101–73, § 501(d)][/us/pl/101/73/s501/d], added subpar. (L).
+    1989—Par. (2)(L). [Pub. L. 101–73][/us/pl/101/73], § 501(d), added subpar. (L).
 
-    Par. (2)(M). [Pub. L. 101–73, § 511(b)(1)][/us/pl/101/73/s511/b/1], added subpar. (M).
+    Par. (2)(M). [Pub. L. 101–73][/us/pl/101/73], § 511(b)(1), added subpar. (M).
 
-    Par. (3)(E). [Pub. L. 101–73, § 307(e)][/us/pl/101/73/s307/e], struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
+    Par. (3)(E). [Pub. L. 101–73][/us/pl/101/73], § 307(e), struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
 
     1987—Par. (2)(K). [Pub. L. 100–86][/us/pl/100/86] added subpar. (K).
 
     1983—Par. (2)(K). [Pub. L. 97–452][/us/pl/97/452] struck out subpar. (K) which had already been struck out by [Pub. L. 97–258][/us/pl/97/258]. See 1982 Amendment note below.
 
-    1982—Par. (2)(K). [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
+    1982—Par. (2)(K). [Pub. L. 97–258][/us/pl/97/258], § 2(l)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -233,7 +233,7 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–134, title III, § 3117(a)][/us/pl/104/134/s3117/a], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350], provided that the amendment made by that section was to take effect as of the privatization date \[July 28, 1998\]. For definition of that term, see [section 2297h(9) of Title 42][/us/usc/t42/s2297h/9], The Public Health and Welfare.
+    [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3117(a), Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350], provided that the amendment made by that section was to take effect as of the privatization date \[July 28, 1998\]. For definition of that term, see [section 2297h(9) of Title 42][/us/usc/t42/s2297h/9], The Public Health and Welfare.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -245,7 +245,7 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
  __Effective Date of 1982 Amendment__ 
 
-    [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Jan. 1, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 2(l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Jan. 1, 1982.
 
  __Short Title__ 
 
@@ -253,7 +253,7 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
  __Dissolution of Pennsylvania Avenue Development Corporation__ 
 
-    Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see [Pub. L. 92–578, § 3][/us/pl/92/578/s3], Oct. 27, 1972, [86 Stat. 1267][/us/stat/86/1267], as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
+    Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see [Pub. L. 92–578][/us/pl/92/578], § 3, Oct. 27, 1972, [86 Stat. 1267][/us/stat/86/1267], as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
 
  __Abolition of United States Railway Association and Transfer of Functions__ 
 
@@ -272,39 +272,39 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 
 [/us/usc/t7/s950/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950%2Fa
 [/us/usc/t7/s950/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950%2Fa
-[/us/pl/104/134/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3117%2Fa
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1041
-[/us/pl/97/452/s1/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F26
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
-[/us/pl/100/86/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs303
+[/us/pl/100/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIII
 [/us/stat/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F597
-[/us/pl/101/73/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fe
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F353
-[/us/pl/102/486/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fb
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/103/82/s202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fe%2F1
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F888
-[/us/pl/103/272/s4/f/1/Z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FZ
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
-[/us/pl/103/325/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs104%2Fe
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2168
-[/us/pl/104/106/s3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3530
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
-[/us/pl/104/127/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fb
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1115
-[/us/pl/104/134/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3117%2Fa
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
-[/us/pl/104/287/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3388
-[/us/pl/105/134/s415/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs415%2Fd%2F2
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2590
-[/us/pl/107/171/s6201/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F6
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F419
-[/us/pl/108/199/s614/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs614%2Fe%2F2
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F223
-[/us/pl/110/140/s925/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs925%2Fc%2F2
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1737
 [/us/usc/t45/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs502%2F1
 [/us/usc/t7/s950/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs950%2Fa
@@ -325,33 +325,33 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
-[/us/pl/104/287/s4/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2%2FA
-[/us/pl/104/287/s4/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2%2FC
-[/us/pl/104/127/s722/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fb%2F1
-[/us/pl/104/287/s4/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2%2FD
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/102/486/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fb
 [/us/pl/104/127/s722/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fb%2F1
 [/us/pl/104/287/s4/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2%2FD
-[/us/pl/104/127/s722/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fb%2F1
-[/us/pl/104/287/s4/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F2%2FD
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/127/s722/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs722%2Fb%2F2
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/101/73/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs501%2Fd
-[/us/pl/101/73/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs511%2Fb%2F1
-[/us/pl/101/73/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fe
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/104/134/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3117%2Fa
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
 [/us/usc/t42/s2297h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%2F9
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
@@ -359,16 +359,16 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi
 [/us/usc/t31/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3331
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
 [/us/act/1945-12-06/ch557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-06%2Fch557
 [/us/stat/59/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F597
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t31/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs101
-[/us/pl/92/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F578%2Fs3
+[/us/pl/92/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F578
 [/us/stat/86/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1267
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/usc/t45/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs701
 [/us/usc/t45/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1341

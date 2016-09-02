@@ -293,7 +293,7 @@
 
             (D) a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
 
-(Added [Pub. L. 102–390, title II, § 221(a)][/us/pl/102/390/s221/a], Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624]; amended [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(b)(1), (2), (c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–349, 3009–350, 3009–352; [Pub. L. 106–445, § 3][/us/pl/106/445/s3], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I, § 103(d)(2)][/us/pl/108/15/s103/d/2], title II, § 201(a), Apr. 23, 2003, [117 Stat. 619][/us/stat/117/619].)
+(Added [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(a), Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 529(b)(1), (2), (c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–349, 3009–350, 3009–352; [Pub. L. 106–445][/us/pl/106/445], § 3, Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I][/us/pl/108/15/tI], § 103(d)(2), title II, § 201(a), Apr. 23, 2003, [117 Stat. 619][/us/stat/117/619].)
 
  __References in Text__ 
 
@@ -301,37 +301,37 @@
 
     The date of the enactment of the American 5-Cent Coin Design Continuity Act of 2003, referred to in subsec. (f)(1)(B)(ii), is the date of enactment of [Pub. L. 108–15][/us/pl/108/15], which was approved Apr. 23, 2003.
 
-    The date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, referred to in subsec. (g)(1), is the date of enactment of [section 101(f) of title I of div. A of Pub. L. 104–208][/us/pl/104/208/s101/f], which was approved Sept. 30, 1996.
+    The date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, referred to in subsec. (g)(1), is the date of enactment of [section 101(f) of title I of div. A of Pub. L. 104–208][/us/pl/104/208/dA/tI/s101/f], which was approved Sept. 30, 1996.
 
  __Amendments__ 
 
-    2003—Subsec. (c)(4), (5). [Pub. L. 108–15, § 103(d)(2)][/us/pl/108/15/s103/d/2], redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+    2003—Subsec. (c)(4), (5). [Pub. L. 108–15][/us/pl/108/15], § 103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
 
-    Subsec. (f)(1). [Pub. L. 108–15, § 201(a)][/us/pl/108/15/s201/a], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
+    Subsec. (f)(1). [Pub. L. 108–15][/us/pl/108/15], § 201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
     “(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 
     “(B) the designated recipient organization submits an audited financial statement that demonstrates to the satisfaction of the Secretary of the Treasury that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the maximum amount the organization may receive from the proceeds of such surcharge.”
 
-    2000—Subsec. (e)(2). [Pub. L. 106–445, § 3(1)][/us/pl/106/445/s3/1], substituted “contain” for “reflect” in introductory provisions.
+    2000—Subsec. (e)(2). [Pub. L. 106–445][/us/pl/106/445], § 3(1), substituted “contain” for “reflect” in introductory provisions.
 
-    Subsec. (e)(2)(E). [Pub. L. 106–445, § 3(2)][/us/pl/106/445/s3/2]–(4), added subpar. (E).
+    Subsec. (e)(2)(E). [Pub. L. 106–445][/us/pl/106/445], § 3(2)–(4), added subpar. (E).
 
-    1996—Subsec. (c)(2). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(b)(1)\], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
+    1996—Subsec. (c)(2). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(b)(1)\], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
 
-    Subsec. (f). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(b)(2)\], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(b)(2)\], added subsec. (f).
 
-    Subsec. (g). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(c)\], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(c)\], added subsec. (g).
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–15, title II, § 201(b)][/us/pl/108/15/s201/b], Apr. 23, 2003, [117 Stat. 620][/us/stat/117/620], provided that: 
+[Pub. L. 108–15, title II][/us/pl/108/15/tII], § 201(b), Apr. 23, 2003, [117 Stat. 620][/us/stat/117/620], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply as of the date of the enactment of [Public Law 104–208][/us/pl/104/208] \[Sept. 30, 1996\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(b)(3)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 529(b)(3)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352, provided that: 
 
 > “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -345,7 +345,7 @@
 
  __Initial Funding of Fund From Existing Numismatic Operations__ 
 
-[Pub. L. 102–390, title II, § 221(b)][/us/pl/102/390/s221/b], Oct. 6, 1992, [106 Stat. 1627][/us/stat/106/1627], provided that:
+[Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(b), Oct. 6, 1992, [106 Stat. 1627][/us/stat/106/1627], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -388,33 +388,33 @@
 ----------
 ----------
 
-[/us/pl/102/390/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fa
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1624
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/106/445/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs3
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/stat/114/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1931
-[/us/pl/108/15/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs103%2Fd%2F2
+[/us/pl/108/15/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtI
 [/us/stat/117/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F619
 [/us/pl/102/390/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fb
 [/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/108/15/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs103%2Fd%2F2
-[/us/pl/108/15/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs201%2Fa
-[/us/pl/106/445/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs3%2F1
-[/us/pl/106/445/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs3%2F2
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/108/15/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs201%2Fb
+[/us/pl/104/208/dA/tI/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI%2Fs101%2Ff
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/108/15/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtII
 [/us/stat/117/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F620
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/102/390/s221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fe
 [/us/usc/t31/s5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5132
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136
-[/us/pl/102/390/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fb
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1627
 
 

@@ -41,7 +41,7 @@
 
     (c) Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1043][/us/stat/96/1043]; [Pub. L. 100–86, title IV, § 403][/us/pl/100/86/s403], Aug. 10, 1987, [101 Stat. 609][/us/stat/101/609]; [Pub. L. 100–233, title VII, § 703][/us/pl/100/233/s703], Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706]; [Pub. L. 100–399, title VI, § 602][/us/pl/100/399/s602], Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 101–73, title V, § 511(b)(2)][/us/pl/101/73/s511/b/2], Aug. 9, 1989, [103 Stat. 406][/us/stat/103/406]; [Pub. L. 101–576, title III, § 305][/us/pl/101/576/s305], Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853]; [Pub. L. 103–82, title II, § 202(e)(2)][/us/pl/103/82/s202/e/2], Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1043][/us/stat/96/1043]; [Pub. L. 100–86, title IV][/us/pl/100/86/tIV], § 403, Aug. 10, 1987, [101 Stat. 609][/us/stat/101/609]; [Pub. L. 100–233, title VII][/us/pl/100/233/tVII], § 703, Jan. 6, 1988, [101 Stat. 1706][/us/stat/101/1706]; [Pub. L. 100–399, title VI][/us/pl/100/399/tVI], § 602, Aug. 17, 1988, [102 Stat. 1006][/us/stat/102/1006]; [Pub. L. 101–73, title V][/us/pl/101/73/tV], § 511(b)(2), Aug. 9, 1989, [103 Stat. 406][/us/stat/103/406]; [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 305, Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853]; [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(e)(2), Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888].)
 
 <table>
 
@@ -253,21 +253,21 @@ Dec. 6, 1945, ch. 557, § 301, 59 Stat. 601.  </td>
 
  __Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office__ 
 
-[Pub. L. 106–57, title II][/us/pl/106/57], Sept. 29, 1999, [113 Stat. 426][/us/stat/113/426], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided in part: 
+[Pub. L. 106–57, title II][/us/pl/106/57/tII], Sept. 29, 1999, [113 Stat. 426][/us/stat/113/426], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided in part: 
 
 > “That notwithstanding [31 U.S.C. 9105][/us/usc/t31/s9105] hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 105–275, title II][/us/pl/105/275], Oct. 21, 1998, [112 Stat. 2450][/us/stat/112/2450].
+    [Pub. L. 105–275, title II][/us/pl/105/275/tII], Oct. 21, 1998, [112 Stat. 2450][/us/stat/112/2450].
 
-    [Pub. L. 105–55, title II][/us/pl/105/55], Oct. 7, 1997, [111 Stat. 1196][/us/stat/111/1196].
+    [Pub. L. 105–55, title II][/us/pl/105/55/tII], Oct. 7, 1997, [111 Stat. 1196][/us/stat/111/1196].
 
-    [Pub. L. 104–197, title II][/us/pl/104/197], Sept. 16, 1996, [110 Stat. 2411][/us/stat/110/2411].
+    [Pub. L. 104–197, title II][/us/pl/104/197/tII], Sept. 16, 1996, [110 Stat. 2411][/us/stat/110/2411].
 
-    [Pub. L. 104–53, title II][/us/pl/104/53], Nov. 19, 1995, [109 Stat. 534][/us/stat/109/534].
+    [Pub. L. 104–53, title II][/us/pl/104/53/tII], Nov. 19, 1995, [109 Stat. 534][/us/stat/109/534].
 
-    [Pub. L. 103–283, title II][/us/pl/103/283], July 22, 1994, [108 Stat. 1440][/us/stat/108/1440].
+    [Pub. L. 103–283, title II][/us/pl/103/283/tII], July 22, 1994, [108 Stat. 1440][/us/stat/108/1440].
 
 ----------
 
@@ -278,17 +278,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1043
-[/us/pl/100/86/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs403
+[/us/pl/100/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtIV
 [/us/stat/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F609
-[/us/pl/100/233/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs703
+[/us/pl/100/233/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVII
 [/us/stat/101/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1706
-[/us/pl/100/399/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs602
+[/us/pl/100/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2FtVI
 [/us/stat/102/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1006
-[/us/pl/101/73/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs511%2Fb%2F2
+[/us/pl/101/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtV
 [/us/stat/103/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F406
-[/us/pl/101/576/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs305
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2853
-[/us/pl/103/82/s202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fe%2F2
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F888
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
@@ -307,20 +307,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/100/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233
 [/us/pl/100/399/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F399%2Fs1001%2Fa
 [/us/usc/t12/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2002
-[/us/pl/106/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57
+[/us/pl/106/57/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtII
 [/us/stat/113/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F426
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105
-[/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
+[/us/pl/105/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtII
 [/us/stat/112/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2450
-[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtII
 [/us/stat/111/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1196
-[/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197
+[/us/pl/104/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtII
 [/us/stat/110/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2411
-[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F534
-[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
+[/us/pl/103/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtII
 [/us/stat/108/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1440
 
 

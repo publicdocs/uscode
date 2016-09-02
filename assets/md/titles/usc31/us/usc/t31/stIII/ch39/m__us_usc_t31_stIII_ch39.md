@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–362, title XIII, § 1301(c)(2)(C)][/us/pl/105/362/s1301/c/2/C], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], struck out item 3906 “Reports”.
+    1998—[Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1301(c)(2)(C), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], struck out item 3906 “Reports”.
 
-    1988—[Pub. L. 100–496, § 9(b)][/us/pl/100/496/s9/b], Oct. 17, 1988, [102 Stat. 2463][/us/stat/102/2463], added item 3905 and redesignated former items 3905 and 3906 as 3906 and 3907, respectively.
+    1988—[Pub. L. 100–496][/us/pl/100/496], § 9(b), Oct. 17, 1988, [102 Stat. 2463][/us/stat/102/2463], added item 3905 and redesignated former items 3905 and 3906 as 3906 and 3907, respectively.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/105/362/s1301/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1301%2Fc%2F2%2FC
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/100/496/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs9%2Fb
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2463
 
 

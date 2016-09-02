@@ -127,7 +127,7 @@
 
                 The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 890][/us/stat/96/890]; [Pub. L. 101–73, title III, § 307(c)][/us/pl/101/73/s307/c], Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353]; [Pub. L. 104–316, title I, § 115(a)][/us/pl/104/316/s115/a], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–22, div. A, title VIII, § 801][/us/pl/111/22/s801], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662]; [Pub. L. 111–203, title III, § 378(2)][/us/pl/111/203/s378/2], title XI, § 1102, July 21, 2010, [124 Stat. 1570][/us/stat/124/1570], 2115.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 890][/us/stat/96/890]; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 307(c), Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(a), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–22, div. A, title VIII][/us/pl/111/22/dA/tVIII], § 801, May 20, 2009, [123 Stat. 1662][/us/stat/123/1662]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 378(2), title XI, § 1102, July 21, 2010, [124 Stat. 1570][/us/stat/124/1570], 2115.)
 
 <table>
 
@@ -239,35 +239,35 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(1)–(5), (7); added July 21,
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 378(2)][/us/pl/111/203/s378/2], substituted “and the Office of the Comptroller of the Currency.” for “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 378(2), substituted “and the Office of the Comptroller of the Currency.” for “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.”
 
-    Subsec. (d)(2). [Pub. L. 111–203, § 1102(b)(1)][/us/pl/111/203/s1102/b/1], inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
+    Subsec. (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
 
-    Subsec. (d)(3). [Pub. L. 111–203, § 1102(b)(2)][/us/pl/111/203/s1102/b/2], inserted “or (f)” after “subsection (e)” wherever appearing.
+    Subsec. (d)(3). [Pub. L. 111–203][/us/pl/111/203], § 1102(b)(2), inserted “or (f)” after “subsection (e)” wherever appearing.
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 111–203, § 1102(b)(3)][/us/pl/111/203/s1102/b/3], inserted “or the Federal Reserve banks” after “by the Board”.
+    Subsec. (d)(3)(A)(i). [Pub. L. 111–203][/us/pl/111/203], § 1102(b)(3), inserted “or the Federal Reserve banks” after “by the Board”.
 
-    Subsec. (d)(3)(A)(ii). [Pub. L. 111–203, § 1102(b)(3)][/us/pl/111/203/s1102/b/3], (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
+    Subsec. (d)(3)(A)(ii). [Pub. L. 111–203][/us/pl/111/203], § 1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
 
-    Subsec. (d)(3)(B). [Pub. L. 111–203, § 1102(b)(5)][/us/pl/111/203/s1102/b/5], inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
+    Subsec. (d)(3)(B). [Pub. L. 111–203][/us/pl/111/203], § 1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
 
-    Subsec. (f). [Pub. L. 111–203, § 1102(a)][/us/pl/111/203/s1102/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 1102(a), added subsec. (f).
 
-    2009—Subsec. (a). [Pub. L. 111–22, § 801(a)(1)][/us/pl/111/22/s801/a/1], substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
+    2009—Subsec. (a). [Pub. L. 111–22][/us/pl/111/22], § 801(a)(1), substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
 
-    Subsec. (b). [Pub. L. 111–22, § 801(a)(2)(A)][/us/pl/111/22/s801/a/2/A], which directed substitution of “Board” for “Federal Reserve Board,” in introductory provisions, was executed by making the substitution for “Federal Reserve Board” to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 111–22][/us/pl/111/22], § 801(a)(2)(A), which directed substitution of “Board” for “Federal Reserve Board,” in introductory provisions, was executed by making the substitution for “Federal Reserve Board” to reflect the probable intent of Congress.
 
-    Subsec. (b)(4). [Pub. L. 111–22, § 801(a)(2)(B)][/us/pl/111/22/s801/a/2/B], struck out “of Governors” after “Board”.
+    Subsec. (b)(4). [Pub. L. 111–22][/us/pl/111/22], § 801(a)(2)(B), struck out “of Governors” after “Board”.
 
-    Subsec. (c)(3), (4). [Pub. L. 111–22, § 801(b)][/us/pl/111/22/s801/b], added pars. (3) and (4) and struck out former par. (3) which read as follows: “This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.”
+    Subsec. (c)(3), (4). [Pub. L. 111–22][/us/pl/111/22], § 801(b), added pars. (3) and (4) and struck out former par. (3) which read as follows: “This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.”
 
-    Subsec. (d)(1). [Pub. L. 111–22, § 801(c)(1)][/us/pl/111/22/s801/c/1], inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
+    Subsec. (d)(1). [Pub. L. 111–22][/us/pl/111/22], § 801(c)(1), inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
 
-    Subsec. (d)(2). [Pub. L. 111–22, § 801(c)(2)][/us/pl/111/22/s801/c/2], inserted “, copies of any record,” after “records”.
+    Subsec. (d)(2). [Pub. L. 111–22][/us/pl/111/22], § 801(c)(2), inserted “, copies of any record,” after “records”.
 
-    Subsec. (d)(3). [Pub. L. 111–22, § 801(c)(3)][/us/pl/111/22/s801/c/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–22][/us/pl/111/22], § 801(c)(3), added par. (3).
 
-    Subsec. (e). [Pub. L. 111–22, § 801(d)][/us/pl/111/22/s801/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–22][/us/pl/111/22], § 801(d), added subsec. (e).
 
     2004—Subsec. (c)(1). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -292,35 +292,35 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(1)–(5), (7); added July 21,
 [/us/usc/t12/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F890
-[/us/pl/101/73/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fc
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F353
-[/us/pl/104/316/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/111/22/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801
+[/us/pl/111/22/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtVIII
 [/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
-[/us/pl/111/203/s378/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F2
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1570
 [/us/usc/t12/s343/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343%2F3
 [/us/pl/111/203/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1101%2Fc
 [/us/usc/t12/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs343
 [/us/usc/t12/s248/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248%2Fs
-[/us/pl/111/203/s378/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F2
-[/us/pl/111/203/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fb%2F1
-[/us/pl/111/203/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fb%2F2
-[/us/pl/111/203/s1102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fb%2F3
-[/us/pl/111/203/s1102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fb%2F3
-[/us/pl/111/203/s1102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fb%2F5
-[/us/pl/111/203/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1102%2Fa
-[/us/pl/111/22/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fa%2F1
-[/us/pl/111/22/s801/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fa%2F2%2FA
-[/us/pl/111/22/s801/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fa%2F2%2FB
-[/us/pl/111/22/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fb
-[/us/pl/111/22/s801/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fc%2F1
-[/us/pl/111/22/s801/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fc%2F2
-[/us/pl/111/22/s801/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fc%2F3
-[/us/pl/111/22/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs801%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

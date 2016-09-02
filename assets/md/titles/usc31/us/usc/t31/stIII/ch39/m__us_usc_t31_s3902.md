@@ -83,7 +83,7 @@
 
         (4) [Section 3907 of this title][/us/usc/t31/s3907] shall not apply to interest penalty payments made under this subsection.
 
-(Added [Pub. L. 97–452, § 1(18)(A)][/us/pl/97/452/s1/18/A], Jan. 12, 1983, [96 Stat. 2475][/us/stat/96/2475]; amended [Pub. L. 98–216, § 1(6)][/us/pl/98/216/s1/6], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 100–496, § 3][/us/pl/100/496/s3], Oct. 17, 1988, [102 Stat. 2456][/us/stat/102/2456]; [Pub. L. 105–362, title XIII, § 1301(c)(2)(B)][/us/pl/105/362/s1301/c/2/B], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 111–350, § 5(h)(7)][/us/pl/111/350/s5/h/7], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(18)(A), Jan. 12, 1983, [96 Stat. 2475][/us/stat/96/2475]; amended [Pub. L. 98–216][/us/pl/98/216], § 1(6), Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 100–496][/us/pl/100/496], § 3, Oct. 17, 1988, [102 Stat. 2456][/us/stat/102/2456]; [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1301(c)(2)(B), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(7), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
 <table>
 
@@ -215,9 +215,9 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(1), (b)–(d), 96 Stat. 85.  </td>
 
     1998—Subsec. (b). [Pub. L. 105–362][/us/pl/105/362] substituted “The” for “Except as provided in [section 3906 of this title][/us/usc/t31/s3906], the”.
 
-    1988—Subsec. (a). [Pub. L. 100–496, § 3(a)(1)][/us/pl/100/496/s3/a/1], substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611]), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611]). The Secretary shall publish each rate in the Federal Register”.
+    1988—Subsec. (a). [Pub. L. 100–496][/us/pl/100/496], § 3(a)(1), substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611]), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611]). The Secretary shall publish each rate in the Federal Register”.
 
-    Subsec. (b). [Pub. L. 100–496, § 3(a)(2)][/us/pl/100/496/s3/a/2], struck out second sentence which read as follows: “However, a penalty may not be paid if payment for the item is made—
+    Subsec. (b). [Pub. L. 100–496][/us/pl/100/496], § 3(a)(2), struck out second sentence which read as follows: “However, a penalty may not be paid if payment for the item is made—
 
     “(1) when the item is a meat or meat food product described in [section 3903(2) of this title][/us/usc/t31/s3903/2], before the 4th day after the required payment date;
 
@@ -225,15 +225,15 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(1), (b)–(d), 96 Stat. 85.  </td>
 
     “(3) when the item is not an item referred to in clauses (1) and (2) of this subsection, before the 16th day after the required payment date.”
 
-    Subsecs. (c) to (g). [Pub. L. 100–496, § 3(b)][/us/pl/100/496/s3/b], added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
+    Subsecs. (c) to (g). [Pub. L. 100–496][/us/pl/100/496], § 3(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
 
-    Subsec. (h). [Pub. L. 100–496, § 3(c)][/us/pl/100/496/s3/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 100–496][/us/pl/100/496], § 3(c), added subsec. (h).
 
     1984—Subsec. (b). [Pub. L. 98–216][/us/pl/98/216] substituted “3903(2)” for “3903(2)(A)” in par. (1) and “3903(3)” for “3903(2)(B)” in par. (2).
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–496, § 14(a)][/us/pl/100/496/s14/a]–(c), Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465], 2466, provided that:
+[Pub. L. 100–496][/us/pl/100/496], § 14(a)–(c), Oct. 17, 1988, [102 Stat. 2465][/us/stat/102/2465], 2466, provided that:
 
 >     “(a) The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act \[enacting [section 3905 of this title][/us/usc/t31/s3905], amending this section, sections 3901, 3903, and 3904 of this title and [section 644 of Title 15][/us/usc/t15/s644], Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under [section 3903 of this title][/us/usc/t31/s3903]\] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 17, 1988\].
 
@@ -243,23 +243,23 @@ May 21, 1982, Pub. L. 97–177, § 2(a)(1), (b)–(d), 96 Stat. 85.  </td>
 
  __Payment of Interest Penalties by Department of Defense__ 
 
-[Pub. L. 107–117, div. A, title VIII, § 8084][/us/pl/107/117/s8084], Jan. 10, 2002, [115 Stat. 2266][/us/stat/115/2266], provided that: 
+[Pub. L. 107–117, div. A, title VIII][/us/pl/107/117/dA/tVIII], § 8084, Jan. 10, 2002, [115 Stat. 2266][/us/stat/115/2266], provided that: 
 
 > “Notwithstanding [31 U.S.C. 3902][/us/usc/t31/s3902], during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–259, title VIII, § 8083][/us/pl/106/259/s8083], Aug. 9, 2000, [114 Stat. 692][/us/stat/114/692].
+    [Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8083, Aug. 9, 2000, [114 Stat. 692][/us/stat/114/692].
 
-    [Pub. L. 106–79, title VIII, § 8088][/us/pl/106/79/s8088], Oct. 25, 1999, [113 Stat. 1252][/us/stat/113/1252].
+    [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8088, Oct. 25, 1999, [113 Stat. 1252][/us/stat/113/1252].
 
-    [Pub. L. 105–262, title VIII, § 8092][/us/pl/105/262/s8092], Oct. 17, 1998, [112 Stat. 2319][/us/stat/112/2319].
+    [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8092, Oct. 17, 1998, [112 Stat. 2319][/us/stat/112/2319].
 
-    [Pub. L. 105–56, title VIII, § 8103][/us/pl/105/56/s8103], Oct. 8, 1997, [111 Stat. 1243][/us/stat/111/1243].
+    [Pub. L. 105–56, title VIII][/us/pl/105/56/tVIII], § 8103, Oct. 8, 1997, [111 Stat. 1243][/us/stat/111/1243].
 
  __Interest Penalties for Late Payment of Interim Payments Due Under Government Service Contracts__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1010\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251, as amended by [Pub. L. 107–107, div. A, title X, § 1007][/us/pl/107/107/s1007], Dec. 28, 2001, [115 Stat. 1204][/us/stat/115/1204], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1010\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251, as amended by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1007, Dec. 28, 2001, [115 Stat. 1204][/us/stat/115/1204], provided that:
 
 >     “(a)  __Prompt Payment Requirement for Interim Payments__  __.—__ 
 
@@ -291,15 +291,15 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/act/1948-06-29/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fs8
 [/us/usc/t15/s714f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714f
 [/us/usc/t31/s3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3907
-[/us/pl/97/452/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2475
-[/us/pl/98/216/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F6
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F4
-[/us/pl/100/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs3
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2456
-[/us/pl/105/362/s1301/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1301%2Fc%2F2%2FB
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/111/350/s5/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F7
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
 [/us/usc/t31/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
@@ -309,16 +309,16 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t41/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs611
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t31/s3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3906
-[/us/pl/100/496/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs3%2Fa%2F1
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/usc/t41/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs611
 [/us/usc/t41/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs611
-[/us/pl/100/496/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs3%2Fa%2F2
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/usc/t31/s3903/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2F2
 [/us/usc/t31/s3903/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2F3
-[/us/pl/100/496/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs3%2Fb
-[/us/pl/100/496/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs3%2Fc
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
-[/us/pl/100/496/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs14%2Fa
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2465
 [/us/usc/t31/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3905
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
@@ -326,20 +326,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t31/s3902/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902%2Fc%2F2
 [/us/usc/t31/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3901
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
-[/us/pl/107/117/s8084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8084
+[/us/pl/107/117/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdA%2FtVIII
 [/us/stat/115/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2266
 [/us/usc/t31/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902
-[/us/pl/106/259/s8083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8083
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F692
-[/us/pl/106/79/s8088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8088
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1252
-[/us/pl/105/262/s8092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8092
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2319
-[/us/pl/105/56/s8103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2Fs8103
+[/us/pl/105/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2FtVIII
 [/us/stat/111/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1243
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1007
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1204
 [/us/usc/t31/s3902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902%2Fa
 [/us/usc/t31/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903

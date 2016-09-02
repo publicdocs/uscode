@@ -227,11 +227,11 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–352, § 13(b)][/us/pl/111/352/s13/b], (c), Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 “Performance plans” and 1116 “Program performance reports”.
+    2011—[Pub. L. 111–352][/us/pl/111/352], § 13(b), (c), Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 “Performance plans” and 1116 “Program performance reports”.
 
-    1994—[Pub. L. 103–355, title II, § 2454(c)(3)(B)][/us/pl/103/355/s2454/c/3/B], Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326], struck out item 1114 “Budget information on consulting services”.
+    1994—[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2454(c)(3)(B), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326], struck out item 1114 “Budget information on consulting services”.
 
-    1993—[Pub. L. 103–62, § 11(b)(1)][/us/pl/103/62/s11/b/1], Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added items 1115 to 1119.
+    1993—[Pub. L. 103–62][/us/pl/103/62], § 11(b)(1), Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added items 1115 to 1119.
 
 ----------
 
@@ -240,11 +240,11 @@
 ----------
 ----------
 
-[/us/pl/111/352/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs13%2Fb
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3882
-[/us/pl/103/355/s2454/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2454%2Fc%2F3%2FB
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3326
-[/us/pl/103/62/s11/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs11%2Fb%2F1
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F295
 
 

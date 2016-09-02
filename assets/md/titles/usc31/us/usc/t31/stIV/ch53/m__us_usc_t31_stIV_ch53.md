@@ -411,29 +411,29 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–347, title VIII, § 802(b)][/us/pl/109/347/s802/b], Oct. 13, 2006, [120 Stat. 1961][/us/stat/120/1961], added subchapter IV heading and items 5361 to 5367.
+    2006—[Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(b), Oct. 13, 2006, [120 Stat. 1961][/us/stat/120/1961], added subchapter IV heading and items 5361 to 5367.
 
-    2004—[Pub. L. 108–458, title VI, § 6203(i)][/us/pl/108/458/s6203/i], Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+    2004—[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(i), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
-    [Pub. L. 108–458, title VI, § 6202(n)(1)][/us/pl/108/458/s6202/n/1], (o), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], amended [Pub. L. 107–56, § 365][/us/pl/107/56/s365]. See 2001 Amendment note below.
+    [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(n)(1), (o), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], amended [Pub. L. 107–56][/us/pl/107/56], § 365. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–56, title III, § 365(d)][/us/pl/107/56/s365/d], formerly § 365(c), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], as renumbered and amended by [Pub. L. 108–458, title VI, § 6202(n)(1)][/us/pl/108/458/s6202/n/1], (o), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], added item 5331.
+    2001—[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 365(d), formerly § 365(c), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], as renumbered and amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(n)(1), (o), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], added item 5331.
 
-    [Pub. L. 107–56, title III][/us/pl/107/56], §§ 311(b), 371(c), Oct. 26, 2001, [115 Stat. 304][/us/stat/115/304], 338, added items 5318A and 5332.
+    [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 311(b), 371(c), Oct. 26, 2001, [115 Stat. 304][/us/stat/115/304], 338, added items 5318A and 5332.
 
-    1998—[Pub. L. 105–310, § 2(b)][/us/pl/105/310/s2/b], Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948], added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
+    1998—[Pub. L. 105–310][/us/pl/105/310], § 2(b), Oct. 30, 1998, [112 Stat. 2948][/us/stat/112/2948], added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
 
-    1996—[Pub. L. 104–208, div. A, title II, § 2223(2)][/us/pl/104/208/s2223/2], Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415], struck out item 5327 “Identification of financial institutions”.
+    1996—[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2223(2), Sept. 30, 1996, [110 Stat. 3009–415][/us/stat/110/3009-415], struck out item 5327 “Identification of financial institutions”.
 
-    1994—[Pub. L. 103–325, title III, § 311(b)][/us/pl/103/325/s311/b], title IV, § 408(d), Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221], 2252, added items 5329 and 5330.
+    1994—[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 311(b), title IV, § 408(d), Sept. 23, 1994, [108 Stat. 2221][/us/stat/108/2221], 2252, added items 5329 and 5330.
 
-    1992—[Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1511(c), 1563(b), Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057], 4073, added items 5327 and 5328.
+    1992—[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], §§ 1511(c), 1563(b), Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057], 4073, added items 5327 and 5328.
 
-    1988—[Pub. L. 100–690, title VI, § 6185(f)][/us/pl/100/690/s6185/f], Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357], added items 5325 and 5326.
+    1988—[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6185(f), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357], added items 5325 and 5326.
 
-    1986—[Pub. L. 99–570, title I][/us/pl/99/570], §§ 1354(b), 1356(d), Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22], 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
+    1986—[Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1354(b), 1356(d), Oct. 27, 1986, [100 Stat. 3207–22][/us/stat/100/3207-22], 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
 
-    1984—[Pub. L. 98–473, title II, § 901(f)][/us/pl/98/473/s901/f], Oct. 12, 1984, [98 Stat. 2136][/us/stat/98/2136], added item 5323.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 901(f), Oct. 12, 1984, [98 Stat. 2136][/us/stat/98/2136], added item 5323.
 
 ----------
 
@@ -442,32 +442,32 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING  </td>
 ----------
 ----------
 
-[/us/pl/109/347/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fb
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1961
-[/us/pl/108/458/s6203/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203%2Fi
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
-[/us/pl/108/458/s6202/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fn%2F1
-[/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
-[/us/pl/107/56/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365
-[/us/pl/107/56/s365/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fd
-[/us/stat/115/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F335
-[/us/pl/108/458/s6202/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fn%2F1
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
+[/us/stat/115/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F335
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
+[/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F304
-[/us/pl/105/310/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fb
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2948
-[/us/pl/104/208/s2223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2223%2F2
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-415
-[/us/pl/103/325/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs311%2Fb
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2221
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4057
-[/us/pl/100/690/s6185/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6185%2Ff
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4357
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-22
-[/us/pl/98/473/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2136
 
 

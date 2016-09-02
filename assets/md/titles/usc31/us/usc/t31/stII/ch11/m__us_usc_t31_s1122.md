@@ -109,7 +109,7 @@
 
     The information made available on the website under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
 
-(Added [Pub. L. 111–352, § 7][/us/pl/111/352/s7], Jan. 4, 2011, [124 Stat. 3876][/us/stat/124/3876].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 7, Jan. 4, 2011, [124 Stat. 3876][/us/stat/124/3876].)
 
 ----------
 
@@ -121,7 +121,7 @@
 [/us/usc/t31/s1120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fb%2F2
 [/us/usc/t31/s1120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fa
 [/us/usc/t31/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fa
-[/us/pl/111/352/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs7
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3876
 
 

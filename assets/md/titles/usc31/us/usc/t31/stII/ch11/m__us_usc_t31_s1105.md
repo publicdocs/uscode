@@ -287,7 +287,7 @@
 
         (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 908][/us/stat/96/908]; [Pub. L. 97–452, § 1(2)][/us/pl/97/452/s1/2], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–501, title II, § 203][/us/pl/98/501/s203], Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324]; [Pub. L. 99–177, title II, § 241][/us/pl/99/177/s241], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 106(f)][/us/pl/100/119/s106/f], Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 100–418, title V, § 5301][/us/pl/100/418/s5301], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 100–504, title I, § 108][/us/pl/100/504/s108], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 100–690, title I, § 1006][/us/pl/100/690/s1006], Nov. 18, 1988, [102 Stat. 4187][/us/stat/102/4187]; [Pub. L. 101–508, title XIII, § 13112(c)][/us/pl/101/508/s13112/c], Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 101–576, title II, § 203(b)][/us/pl/101/576/s203/b], Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841]; [Pub. L. 103–62, § 4(a)][/us/pl/103/62/s4/a], Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; [Pub. L. 103–272, § 4(f)(1)(E)][/us/pl/103/272/s4/f/1/E], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–322, title XXXI, § 310001(e)][/us/pl/103/322/s310001/e], Sept. 13, 1994, [108 Stat. 2103][/us/stat/108/2103]; [Pub. L. 103–355, title II, § 2454(a)][/us/pl/103/355/s2454/a], Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]; [Pub. L. 104–287, § 4(1)][/us/pl/104/287/s4/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–33, title X, § 10209(b)][/us/pl/105/33/s10209/b], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711]; [Pub. L. 105–277, div. C, title VII, § 713(c)][/us/pl/105/277/s713/c], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–58, title VI, § 638(f)][/us/pl/106/58/s638/f], Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 106–422, § 2(c)][/us/pl/106/422/s2/c], Nov. 1, 2000, [114 Stat. 1874][/us/stat/114/1874]; [Pub. L. 107–189, § 4(a)][/us/pl/107/189/s4/a], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 107–217, § 3(h)(3)][/us/pl/107/217/s3/h/3], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 107–296, title VIII, § 889(a)][/us/pl/107/296/s889/a], Nov. 25, 2002, [116 Stat. 2250][/us/stat/116/2250]; [Pub. L. 108–173, title VIII, § 802(a)][/us/pl/108/173/s802/a], Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360]; [Pub. L. 108–178, § 4(f)(1)][/us/pl/108/178/s4/f/1], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 110–343, div. A, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801]; [Pub. L. 110–409, § 7(d)(2)][/us/pl/110/409/s7/d/2], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313]; [Pub. L. 111–81, § 2][/us/pl/111/81/s2], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 111–291, title IV][/us/pl/111/291], §§ 411(h), 415, Dec. 8, 2010, [124 Stat. 3116][/us/stat/124/3116], 3121; [Pub. L. 111–352, § 11(a)][/us/pl/111/352/s11/a], Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881]; [Pub. L. 113–235, div. I, title II, § 244(d)][/us/pl/113/235/s244/d], Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 908][/us/stat/96/908]; [Pub. L. 97–452][/us/pl/97/452], § 1(2), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–501, title II][/us/pl/98/501/tII], § 203, Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 241, Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I][/us/pl/100/119/tI], § 106(f), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5301, Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 108, Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1006, Nov. 18, 1988, [102 Stat. 4187][/us/stat/102/4187]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13112(c), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 203(b), Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841]; [Pub. L. 103–62][/us/pl/103/62], § 4(a), Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(E), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–322, title XXXI][/us/pl/103/322/tXXXI], § 310001(e), Sept. 13, 1994, [108 Stat. 2103][/us/stat/108/2103]; [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2454(a), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]; [Pub. L. 104–287][/us/pl/104/287], § 4(1), Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10209(b), Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711]; [Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 713(c), Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 638(f), Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 106–422][/us/pl/106/422], § 2(c), Nov. 1, 2000, [114 Stat. 1874][/us/stat/114/1874]; [Pub. L. 107–189][/us/pl/107/189], § 4(a), June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(3), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 889(a), Nov. 25, 2002, [116 Stat. 2250][/us/stat/116/2250]; [Pub. L. 108–173, title VIII][/us/pl/108/173/tVIII], § 802(a), Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360]; [Pub. L. 108–178][/us/pl/108/178], § 4(f)(1), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 203(a), Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801]; [Pub. L. 110–409][/us/pl/110/409], § 7(d)(2), Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313]; [Pub. L. 111–81][/us/pl/111/81], § 2, Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 111–291, title IV][/us/pl/111/291/tIV], §§ 411(h), 415, Dec. 8, 2010, [124 Stat. 3116][/us/stat/124/3116], 3121; [Pub. L. 111–352][/us/pl/111/352], § 11(a), Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881]; [Pub. L. 113–235, div. I, title II][/us/pl/113/235/dI/tII], § 244(d), Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569].)
 
  __Amendment of Subsection (a)__ 
 
@@ -639,7 +639,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), is [Pub. L. 91–596][/us/pl/91/596], Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590], which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29][/us/usc/t29/s651] and Tables.
 
-    The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended by [Pub. L. 95–164, title I, § 101][/us/pl/95/164/s101], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 30][/us/usc/t30/s801] and Tables.
+    The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended by [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 101, Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 30][/us/usc/t30/s801] and Tables.
 
     Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is [section 11(2) of Pub. L. 95–452][/us/pl/95/452/s11/2], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -649,7 +649,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to [section 5232 of Title 12][/us/usc/t12/s5232]. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is [section 411 of Pub. L. 111–291][/us/pl/111/291/s411], title IV, Dec. 8, 2010, [124 Stat. 3113][/us/stat/124/3113], subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
 
@@ -657,17 +657,17 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(37). [Pub. L. 113–235, § 244(d)(1)][/us/pl/113/235/s244/d/1], added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
+    2014—Subsec. (a)(37). [Pub. L. 113–235][/us/pl/113/235], § 244(d)(1), added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
 
-    Subsec. (a)(39). [Pub. L. 113–235, § 244(d)(2)][/us/pl/113/235/s244/d/2], redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
+    Subsec. (a)(39). [Pub. L. 113–235][/us/pl/113/235], § 244(d)(2), redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
 
-    2011—Subsec. (a)(33), (35). [Pub. L. 111–352, § 11(a)(1)][/us/pl/111/352/s11/a/1], made amendment identical to that made by [Pub. L. 111–291, § 411(h)(2)][/us/pl/111/291/s411/h/2]. See 2010 Amendment note below.
+    2011—Subsec. (a)(33), (35). [Pub. L. 111–352][/us/pl/111/352], § 11(a)(1), made amendment identical to that made by [Pub. L. 111–291][/us/pl/111/291], § 411(h)(2). See 2010 Amendment note below.
 
-    Subsec. (a)(37). [Pub. L. 111–352, § 11(a)(2)][/us/pl/111/352/s11/a/2], added par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation.
+    Subsec. (a)(37). [Pub. L. 111–352][/us/pl/111/352], § 11(a)(2), added par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation.
 
-    2010—Subsec. (a)(33), (35). [Pub. L. 111–291, § 411(h)(2)][/us/pl/111/291/s411/h/2], redesignated par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays as (35). Former par. (35) redesignated (36). Amendment subject to contingent repeal, see Repeal on Failure To Meet Enforceability Date note below.
+    2010—Subsec. (a)(33), (35). [Pub. L. 111–291][/us/pl/111/291], § 411(h)(2), redesignated par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays as (35). Former par. (35) redesignated (36). Amendment subject to contingent repeal, see Repeal on Failure To Meet Enforceability Date note below.
 
-    Subsec. (a)(36) to (38). [Pub. L. 111–291, § 411(h)(1)][/us/pl/111/291/s411/h/1], (3), redesignated par. (35) as (36) and (36) as (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration and added par. (38). Amendment subject to contingent repeal, see Repeal on Failure To Meet Enforceability Date note below.
+    Subsec. (a)(36) to (38). [Pub. L. 111–291][/us/pl/111/291], § 411(h)(1), (3), redesignated par. (35) as (36) and (36) as (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration and added par. (38). Amendment subject to contingent repeal, see Repeal on Failure To Meet Enforceability Date note below.
 
     2009—Subsec. (a)(36). [Pub. L. 111–81][/us/pl/111/81] added par. (36).
 
@@ -703,11 +703,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     1993—Subsec. (a)(29). [Pub. L. 103–62][/us/pl/103/62] added par. (29).
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 13112(c)(1)][/us/pl/101/508/s13112/c/1], substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
 
     Subsec. (a)(28). [Pub. L. 101–576][/us/pl/101/576] added par. (28).
 
-    Subsec. (f). [Pub. L. 101–508, § 13112(c)(2)][/us/pl/101/508/s13112/c/2], amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
+    Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 13112(c)(2), amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
 
     “(f)(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of the best estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
 
@@ -741,9 +741,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     1987—Subsec. (f)(3) to (5). [Pub. L. 100–119][/us/pl/100/119] added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-    1985—Subsec. (a). [Pub. L. 99–177, § 241(a)][/us/pl/99/177/s241/a], substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
+    1985—Subsec. (a). [Pub. L. 99–177][/us/pl/99/177], § 241(a), substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
 
-    Subsec. (f). [Pub. L. 99–177, § 241(b)][/us/pl/99/177/s241/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–177][/us/pl/99/177], § 241(b), added subsec. (f).
 
     1984—Subsec. (e). [Pub. L. 98–501][/us/pl/98/501] added subsec. (e).
 
@@ -751,7 +751,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. A, title II, § 203(c)][/us/pl/110/343/s203/c], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801], provided that: 
+[Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 203(c), Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2010 budget submission of the President.”
 
@@ -763,7 +763,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
-[Pub. L. 107–296, title VIII, § 889(c)][/us/pl/107/296/s889/c], Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251], provided that: 
+[Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 889(c), Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251], provided that: 
 
 > “This section \[amending this section and provisions set out as a note under [section 2301 of Title 50][/us/usc/t50/s2301], War and National Defense, and repealing provisions set out as a note under [section 1113 of this title][/us/usc/t31/s1113]\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission.”
 
@@ -787,11 +787,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    Amendment of subsec. (a) and enactment of subsec. (f) of this section by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of Title 2][/us/usc/t2/s900], The Congress, prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment of subsec. (a) and enactment of subsec. (f) of this section by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of Title 2][/us/usc/t2/s900], The Congress, prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
  __Repeal on Failure To Meet Enforceability Date__ 
 
-[Pub. L. 111–291, title IV, § 415][/us/pl/111/291/s415], Dec. 8, 2010, [124 Stat. 3121][/us/stat/124/3121], provided that: 
+[Pub. L. 111–291, title IV][/us/pl/111/291/tIV], § 415, Dec. 8, 2010, [124 Stat. 3121][/us/stat/124/3121], provided that: 
 
 > “If the Secretary does not publish a statement of findings under section 410(e) \[[124 Stat. 3112][/us/stat/124/3112]\] not later than March 31, 2016, or the extended date agreed to by the Tribe and the Secretary, after reasonable notice to the State of Montana, as applicable—
 
@@ -811,7 +811,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >         “(B) any funds made available to carry out the activities authorized in this title from other authorized sources.”
 
-    \[For definitions of terms used in [section 415 of Pub. L. 111–291][/us/pl/111/291/s415], set out above, see [Pub. L. 111–291, title IV, § 403][/us/pl/111/291/s403], Dec. 8, 2010, [124 Stat. 3097][/us/stat/124/3097], which is not classified to the Code.\]
+    \[For definitions of terms used in [section 415 of Pub. L. 111–291][/us/pl/111/291/s415], set out above, see [Pub. L. 111–291, title IV][/us/pl/111/291/tIV], § 403, Dec. 8, 2010, [124 Stat. 3097][/us/stat/124/3097], which is not classified to the Code.\]
 
  __Construction of 1993 Amendment__ 
 
@@ -819,13 +819,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Annual Agency Reports Required__ 
 
-[Pub. L. 113–235, div. D, title IV, § 404][/us/pl/113/235/s404], Dec. 16, 2014, [128 Stat. 2331][/us/stat/128/2331], provided that: 
+[Pub. L. 113–235, div. D, title IV][/us/pl/113/235/dD/tIV], § 404, Dec. 16, 2014, [128 Stat. 2331][/us/stat/128/2331], provided that: 
 
 > “For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title \[see Tables for classification\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report.”
 
  __Administrative Expenses of Executive Branch Entities; Separate Categories__ 
 
-[Pub. L. 111–85, title V, § 504][/us/pl/111/85/s504], Oct. 28, 2009, [123 Stat. 2879][/us/stat/123/2879], provided that:
+[Pub. L. 111–85, title V][/us/pl/111/85/tV], § 504, Oct. 28, 2009, [123 Stat. 2879][/us/stat/123/2879], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -863,13 +863,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Consultation__ 
 
-[Pub. L. 110–343, div. A, title II, § 203(b)][/us/pl/110/343/s203/b], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801], provided that: 
+[Pub. L. 110–343, div. A, title II][/us/pl/110/343/dA/tII], § 203(b), Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801], provided that: 
 
 > “In implementing this section \[amending this section and enacting provisions set out as a note under this section\], the Director of \[the\] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office.”
 
  __Procedures in the House of Representatives__ 
 
-[Pub. L. 108–173, title VIII, § 803][/us/pl/108/173/s803], Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360], provided that:
+[Pub. L. 108–173, title VIII][/us/pl/108/173/tVIII], § 803, Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360], provided that:
 
 >     “(a) __Introduction and Referral of President’s Legislative Proposal.—__ 
 
@@ -941,7 +941,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Procedures in the Senate__ 
 
-[Pub. L. 108–173, title VIII, § 804][/us/pl/108/173/s804], Dec. 8, 2003, [117 Stat. 2363][/us/stat/117/2363], provided that:
+[Pub. L. 108–173, title VIII][/us/pl/108/173/tVIII], § 804, Dec. 8, 2003, [117 Stat. 2363][/us/stat/117/2363], provided that:
 
 >     “(a) __Introduction and Referral of President’s Legislative Proposal.—__ 
 
@@ -1009,7 +1009,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Transportation Security Administration__ 
 
-[Pub. L. 107–71, title I, § 142][/us/pl/107/71/s142], Nov. 19, 2001, [115 Stat. 644][/us/stat/115/644], provided that: 
+[Pub. L. 107–71, title I][/us/pl/107/71/tI], § 142, Nov. 19, 2001, [115 Stat. 644][/us/stat/115/644], provided that: 
 
 > “The President’s budget submission for fiscal year 2003 and each fiscal year thereafter shall reflect the establishment of the Transportation Security Administration.”
 
@@ -1017,7 +1017,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Annual Statement and Report on Rules and Regulations__ 
 
-[Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 624\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–161, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 624\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–161, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1055,39 +1055,39 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–58, title VI, § 628][/us/pl/106/58/s628], Sept. 29, 1999, [113 Stat. 472][/us/stat/113/472].
+    [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 628, Sept. 29, 1999, [113 Stat. 472][/us/stat/113/472].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 638\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–525.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 638\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–525.
 
  __Federal Motor Carrier Safety Administration__ 
 
-[Pub. L. 106–159, title I, § 107(b)][/us/pl/106/159/s107/b], Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], provided that: 
+[Pub. L. 106–159, title I][/us/pl/106/159/tI], § 107(b), Dec. 9, 1999, [113 Stat. 1758][/us/stat/113/1758], provided that: 
 
 > “The President’s budget submission for fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act \[see Tables for classification\].”
 
  __Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting__ 
 
-    [Pub. L. 103–69, title III, § 308][/us/pl/103/69/s308], Aug. 11, 1993, [107 Stat. 710][/us/stat/107/710], as amended by [Pub. L. 104–316, title I, § 115(c)][/us/pl/104/316/s115/c], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834], for fiscal years 1995, 1996, and 1997, required submissions in support of amounts included in Budget for each entity of the legislative branch to set forth a separate category for administrative expenses, for fiscal years 1993 and 1994, required administrative expenses for each entity of the legislative branch to be calculated and submitted in a separate category in same format as if submitted in support of amounts included in the Budget, for fiscal years 1994, 1995, 1996, and 1997, required submissions in the separate category for administrative expenses for each entity of the legislative branch to include reductions by a specific percentage for fiscal years 1994 to 1997, and authorized the Comptroller General to carry out compliance reporting under this section.
+    [Pub. L. 103–69, title III][/us/pl/103/69/tIII], § 308, Aug. 11, 1993, [107 Stat. 710][/us/stat/107/710], as amended by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(c), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834], for fiscal years 1995, 1996, and 1997, required submissions in support of amounts included in Budget for each entity of the legislative branch to set forth a separate category for administrative expenses, for fiscal years 1993 and 1994, required administrative expenses for each entity of the legislative branch to be calculated and submitted in a separate category in same format as if submitted in support of amounts included in the Budget, for fiscal years 1994, 1995, 1996, and 1997, required submissions in the separate category for administrative expenses for each entity of the legislative branch to include reductions by a specific percentage for fiscal years 1994 to 1997, and authorized the Comptroller General to carry out compliance reporting under this section.
 
  __Separate Object Class for Consulting Services in Annual Budgets__ 
 
-    [Pub. L. 102–394, title V, § 512][/us/pl/102/394/s512], Oct. 6, 1992, [106 Stat. 1826][/us/stat/106/1826], which directed the Office of Management and Budget to establish funding for consulting services for each department and agency as separate object class in each budget annually submitted to Congress under this section, was repealed and restated in subsec. (g) of this section by [Pub. L. 103–355, title II, § 2454(a)][/us/pl/103/355/s2454/a], (b), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326].
+    [Pub. L. 102–394, title V][/us/pl/102/394/tV], § 512, Oct. 6, 1992, [106 Stat. 1826][/us/stat/106/1826], which directed the Office of Management and Budget to establish funding for consulting services for each department and agency as separate object class in each budget annually submitted to Congress under this section, was repealed and restated in subsec. (g) of this section by [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2454(a), (b), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326].
 
  __NASA Triennial Budget Requests and Estimates__ 
 
-[Pub. L. 100–685, title I, § 104][/us/pl/100/685/s104], Nov. 17, 1988, [102 Stat. 4086][/us/stat/102/4086], provided that: 
+[Pub. L. 100–685, title I][/us/pl/100/685/tI], § 104, Nov. 17, 1988, [102 Stat. 4086][/us/stat/102/4086], provided that: 
 
 > “Commencing in fiscal year 1990 and every year thereafter, the President shall submit to Congress a budget request for the National Aeronautics and Space Administration for the immediate fiscal year and the following fiscal year, and include budget estimates for the third fiscal year.”
 
  __Two-Year Budget Cycle for Coast Guard__ 
 
-[Pub. L. 102–241, § 11][/us/pl/102/241/s11], Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212], provided that: 
+[Pub. L. 102–241][/us/pl/102/241], § 11, Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212], provided that: 
 
 > “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
 
     \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
-[Pub. L. 100–448, § 24][/us/pl/100/448/s24], Sept. 28, 1988, [102 Stat. 1847][/us/stat/102/1847], provided that:
+[Pub. L. 100–448][/us/pl/100/448], § 24, Sept. 28, 1988, [102 Stat. 1847][/us/stat/102/1847], provided that:
 
 >     “(a)  __Opinion of Congress__  __.—__ 
 
@@ -1111,17 +1111,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Water and Sewer Services Furnished to Government Facilities in District of Columbia__ 
 
-[Pub. L. 100–202, § 101(c)][/us/pl/100/202/s101/c] \[title I, § 136\], Dec. 22, 1987, [101 Stat. 1329–90][/us/stat/101/1329-90], 1329–102, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(c) \[title I, § 136\], Dec. 22, 1987, [101 Stat. 1329–90][/us/stat/101/1329-90], 1329–102, provided that: 
 
 > “After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612).”
 
  __Two-Year Budget Cycle for Department of Defense__ 
 
-    [Pub. L. 99–145, title XIV, § 1405][/us/pl/99/145/s1405], Nov. 8, 1985, [99 Stat. 744][/us/stat/99/744], which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by [Pub. L. 110–181, div. A, title X, § 1006][/us/pl/110/181/s1006], Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303].
+    [Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1405, Nov. 8, 1985, [99 Stat. 744][/us/stat/99/744], which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1006, Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303].
 
  __Federal Capital Investment Program; Congressional Statement of Purposes__ 
 
-[Pub. L. 98–501, title II, § 202][/us/pl/98/501/s202], Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324], provided that: 
+[Pub. L. 98–501, title II][/us/pl/98/501/tII], § 202, Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324], provided that: 
 
 > “The purposes of this title \[amending this section and enacting provisions set out as notes under this section and [section 1101 of this title][/us/usc/t31/s1101]\] are—
 
@@ -1185,63 +1185,63 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t40/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1102
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F908
-[/us/pl/97/452/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F2
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
-[/us/pl/98/501/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2Fs203
+[/us/pl/98/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2FtII
 [/us/stat/98/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2324
-[/us/pl/99/177/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs241
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1063
-[/us/pl/100/119/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs106%2Ff
+[/us/pl/100/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtI
 [/us/stat/101/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F781
-[/us/pl/100/418/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5301
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1462
-[/us/pl/100/504/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs108
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2529
-[/us/pl/100/690/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1006
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4187
-[/us/pl/101/508/s13112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fc
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/101/576/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs203%2Fb
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2841
-[/us/pl/103/62/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fa
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F286
-[/us/pl/103/272/s4/f/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FE
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/103/322/s310001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs310001%2Fe
+[/us/pl/103/322/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXI
 [/us/stat/108/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2103
-[/us/pl/103/355/s2454/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2454%2Fa
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3326
-[/us/pl/104/287/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3388
-[/us/pl/105/33/s10209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fb
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F711
-[/us/pl/105/277/s713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs713%2Fc
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-693
-[/us/pl/106/58/s638/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs638%2Ff
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F475
-[/us/pl/106/422/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs2%2Fc
+[/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
 [/us/stat/114/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1874
-[/us/pl/107/189/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs4%2Fa
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F699
-[/us/pl/107/217/s3/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/pl/107/296/s889/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs889%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2250
-[/us/pl/108/173/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs802%2Fa
+[/us/pl/108/173/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVIII
 [/us/stat/117/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2360
-[/us/pl/108/178/s4/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Ff%2F1
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
-[/us/pl/110/343/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fa
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3801
-[/us/pl/110/409/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fd%2F2
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
-[/us/pl/111/81/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81%2Fs2
+[/us/pl/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81
 [/us/stat/123/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2137
-[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/111/291/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtIV
 [/us/stat/124/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3116
-[/us/pl/111/352/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3881
-[/us/pl/113/235/s244/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd
+[/us/pl/113/235/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdI%2FtII
 [/us/stat/128/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2569
 [/us/pl/111/291/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs415
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
@@ -1251,7 +1251,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
-[/us/pl/95/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs101
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/pl/95/452/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11%2F2
@@ -1266,20 +1266,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t12/s5232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5232
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/111/291/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs411
 [/us/stat/124/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3113
 [/us/pl/108/173/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs801
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/113/235/s244/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd%2F1
-[/us/pl/113/235/s244/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd%2F2
-[/us/pl/111/352/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa%2F1
-[/us/pl/111/291/s411/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs411%2Fh%2F2
-[/us/pl/111/352/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa%2F2
-[/us/pl/111/291/s411/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs411%2Fh%2F2
-[/us/pl/111/291/s411/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs411%2Fh%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
+[/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291
 [/us/pl/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -1298,18 +1298,18 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
-[/us/pl/101/508/s13112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fc%2F1
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
-[/us/pl/101/508/s13112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fc%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
-[/us/pl/99/177/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs241%2Fa
-[/us/pl/99/177/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs241%2Fb
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/98/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/110/343/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fc
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3801
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
@@ -1317,7 +1317,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/296/s889/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs889%2Fc
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2251
 [/us/usc/t50/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2301
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1338,36 +1338,36 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
-[/us/pl/111/291/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs415
+[/us/pl/111/291/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtIV
 [/us/stat/124/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3121
 [/us/stat/124/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3112
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/stat/124/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3120
 [/us/pl/111/291/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs415
-[/us/pl/111/291/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs403
+[/us/pl/111/291/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2FtIV
 [/us/stat/124/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3097
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs10
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/113/235/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs404
+[/us/pl/113/235/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtIV
 [/us/stat/128/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2331
-[/us/pl/111/85/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs504
+[/us/pl/111/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtV
 [/us/stat/123/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2879
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/343/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fb
+[/us/pl/110/343/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtII
 [/us/stat/122/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3801
-[/us/pl/108/173/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs803
+[/us/pl/108/173/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVIII
 [/us/stat/117/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2360
 [/us/usc/t31/s1105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fh
 [/us/usc/t31/s1105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fh
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t31/s1105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fh
-[/us/pl/108/173/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs804
+[/us/pl/108/173/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVIII
 [/us/stat/117/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2363
 [/us/usc/t31/s1105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fh
 [/us/usc/t31/s1105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fh
@@ -1375,43 +1375,43 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/108/173/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs804
 [/us/pl/108/173/s801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs801%2Fa%2F3
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
-[/us/pl/107/71/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs142
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F644
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/58/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs628
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F472
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/106/159/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs107%2Fb
+[/us/pl/106/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2FtI
 [/us/stat/113/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1758
-[/us/pl/103/69/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs308
+[/us/pl/103/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtIII
 [/us/stat/107/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F710
-[/us/pl/104/316/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
-[/us/pl/102/394/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs512
+[/us/pl/102/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtV
 [/us/stat/106/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1826
-[/us/pl/103/355/s2454/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2454%2Fa
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3326
-[/us/pl/100/685/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs104
+[/us/pl/100/685/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtI
 [/us/stat/102/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4086
-[/us/pl/102/241/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs11
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2212
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/448/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs24
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1847
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/202/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fc
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-90
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/99/145/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1405
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F744
-[/us/pl/110/181/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1006
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F303
-[/us/pl/98/501/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2Fs202
+[/us/pl/98/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F501%2FtII
 [/us/stat/98/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2324
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900

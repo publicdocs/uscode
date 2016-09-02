@@ -65,13 +65,13 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–576, title I, § 101][/us/pl/101/576/s101], Nov. 15, 1990, [104 Stat. 2838][/us/stat/104/2838], provided that: 
+[Pub. L. 101–576, title I][/us/pl/101/576/tI], § 101, Nov. 15, 1990, [104 Stat. 2838][/us/stat/104/2838], provided that: 
 
 > “This Act \[enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and [section 3533 of Title 42][/us/usc/t42/s3533], The Public Health and Welfare, renumbering sections 503 and 504 of this title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under [section 301 of Title 38][/us/usc/t38/s301], Veterans’ Benefits\] may be cited as the ‘Chief Financial Officers Act of 1990’.”
 
  __Transfer of Functions__ 
 
-[Pub. L. 104–53, title II, § 211][/us/pl/104/53/s211], Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535], as amended by [Pub. L. 104–316, title II, § 203][/us/pl/104/316/s203], Oct. 19, 1996, [110 Stat. 3845][/us/stat/110/3845], provided that: 
+[Pub. L. 104–53, title II][/us/pl/104/53/tII], § 211, Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535], as amended by [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 203, Oct. 19, 1996, [110 Stat. 3845][/us/stat/110/3845], provided that: 
 
 > “Personnel transferred pursuant to this section, as in effect immediately before the effective date of section 303 \[203\] of the General Accounting Office Act of 1996 \[[Pub. L. 104–316][/us/pl/104/316], Oct. 19, 1996\], shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.”
 
@@ -81,13 +81,13 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Publication of Certain Documents__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1655][/us/pl/112/239/s1655], Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], provided that: 
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1655, Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], provided that: 
 
 > “Not later than 270 days after the date of the enactment of this part \[Jan. 2, 2013\], the Director of the Office of Management and Budget shall publish procedures and methodologies to be used by Federal agencies with respect to decisions to convert a function being performed by a small business concern to performance by a Federal employee, including procedures and methodologies for determining which contracts will be studied for potential conversion; procedures and methodologies by which a contract is evaluated as inherently governmental or as a critical agency function; and procedures and methodologies for estimating and comparing costs. Should a Federal agency develop any agency-specific methodologies for identifying critical agency functions or supplemental implementation guidance, such methodologies and guidance shall be published upon implementation.”
 
  __Service Contract Inventory__ 
 
-[Pub. L. 111–117, div. C, title VII, § 743][/us/pl/111/117/s743], Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216], as amended by [Pub. L. 112–74, div. C, title VII, § 740][/us/pl/112/74/s740], Dec. 23, 2011, [125 Stat. 939][/us/stat/125/939], provided that:
+[Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 743, Dec. 16, 2009, [123 Stat. 3216][/us/stat/123/3216], as amended by [Pub. L. 112–74, div. C, title VII][/us/pl/112/74/dC/tVII], § 740, Dec. 23, 2011, [125 Stat. 939][/us/stat/125/939], provided that:
 
 >     “(a) __Service Contract Inventory Requirement.—__ 
 
@@ -203,7 +203,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Requirement for Debriefings Related To Conversion of Functions From Performance by Federal Employees to Performance by a Contractor__ 
 
-[Pub. L. 111–84, div. A, title III, § 326][/us/pl/111/84/s326], Oct. 28, 2009, [123 Stat. 2254][/us/stat/123/2254], provided that: 
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 326, Oct. 28, 2009, [123 Stat. 2254][/us/stat/123/2254], provided that: 
 
 > “The Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation to allow for debriefings of Federal employee representatives designated pursuant to 3551(2)(B) of title 31, United States Code, to the same extent and under the same circumstances as any offeror, in the case of a conversion of any function from performance by Federal employees to performance by a contractor. Such debriefings will conform to the requirements of [section 2305(b)(6)(A) of title 10][/us/usc/t10/s2305/b/6/A], United States Code, section 303B(f) of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 253b(f)][/us/usc/t41/s253b/f]) \[now [41 U.S.C. 3705][/us/usc/t41/s3705]\], and subparts 15.505 and 15.506 (as in effect on the date of the enactment of this Act \[Oct. 28, 2009\]) of the Federal Acquisition Regulation.”
 
@@ -291,7 +291,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Public-Private Competition__ 
 
-[Pub. L. 110–161, div. D, title VII, § 739][/us/pl/110/161/s739], Dec. 26, 2007, [121 Stat. 2029][/us/stat/121/2029], as amended by [Pub. L. 111–8, div. D, title VII][/us/pl/111/8], §§ 735, 736, Mar. 11, 2009, [123 Stat. 689][/us/stat/123/689], provided that:
+[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 739, Dec. 26, 2007, [121 Stat. 2029][/us/stat/121/2029], as amended by [Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], §§ 735, 736, Mar. 11, 2009, [123 Stat. 689][/us/stat/123/689], provided that:
 
 >     “(a) __Requirement for Public-Private Competition.—__ 
 
@@ -433,7 +433,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Competitive Sourcing Activities__ 
 
-[Pub. L. 108–199, div. F, title VI, § 647(b)][/us/pl/108/199/s647/b], (d), (f), Jan. 23, 2004, [118 Stat. 361][/us/stat/118/361], 362, provided that:
+[Pub. L. 108–199, div. F, title VI][/us/pl/108/199/dF/tVI], § 647(b), (d), (f), Jan. 23, 2004, [118 Stat. 361][/us/stat/118/361], 362, provided that:
 
 >     “(b)
 
@@ -461,7 +461,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >     “(f) In this section, the term ‘executive agency’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].”
 
-[Pub. L. 108–108, title III, § 340(a)][/us/pl/108/108/s340/a], (b), (f), Nov. 10, 2003, [117 Stat. 1315][/us/stat/117/1315], 1317, as amended by [Pub. L. 108–447, div. E, title III, § 332(c)][/us/pl/108/447/s332/c], Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100], provided that:
+[Pub. L. 108–108, title III][/us/pl/108/108/tIII], § 340(a), (b), (f), Nov. 10, 2003, [117 Stat. 1315][/us/stat/117/1315], 1317, as amended by [Pub. L. 108–447, div. E, title III][/us/pl/108/447/dE/tIII], § 332(c), Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100], provided that:
 
 >     “(a)  __Justification of Competitive Sourcing Activities__  __.—__ 
 
@@ -477,7 +477,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(C) of the Department of Energy for which funds are appropriated by this Act.
 
->             \[(b) Repealed. [Pub. L. 108–447, div. E, title III, § 332(c)][/us/pl/108/447/s332/c], Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100].\]
+>             \[(b) Repealed. [Pub. L. 108–447, div. E, title III][/us/pl/108/447/dE/tIII], § 332(c), Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100].\]
 
 >     “(f)  __Competitive Sourcing Study Defined__  __.—__ 
 
@@ -485,11 +485,11 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Study of Policies and Procedures for Transfer of Commercial Activities__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 832\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–221, provided that the Comptroller General was to convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to Federal contractors and to appoint highly qualified and knowledgeable persons, from appropriate governmental agencies and private industry, to serve on the panel, whose chairman would be the Comptroller General or a designated individual within the GAO, and provided that interested parties would be allowed to participate, that the panel would have access to necessary information from Federal agencies, and that the Comptroller General was to submit a report of the panel on the results of the study to Congress no later than May 1, 2002.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 832\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–221, provided that the Comptroller General was to convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to Federal contractors and to appoint highly qualified and knowledgeable persons, from appropriate governmental agencies and private industry, to serve on the panel, whose chairman would be the Comptroller General or a designated individual within the GAO, and provided that interested parties would be allowed to participate, that the panel would have access to necessary information from Federal agencies, and that the Comptroller General was to submit a report of the panel on the results of the study to Congress no later than May 1, 2002.
 
  __Use of Private Enterprises__ 
 
-[Pub. L. 106–53, title II, § 227][/us/pl/106/53/s227], Aug. 17, 1999, [113 Stat. 298][/us/stat/113/298], provided that:
+[Pub. L. 106–53, title II][/us/pl/106/53/tII], § 227, Aug. 17, 1999, [113 Stat. 298][/us/stat/113/298], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -507,15 +507,15 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Federal Activities Inventory Reform__ 
 
-[Pub. L. 110–28, title VI, § 6201][/us/pl/110/28/s6201], May 25, 2007, [121 Stat. 171][/us/stat/121/171], provided that: 
+[Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6201, May 25, 2007, [121 Stat. 171][/us/stat/121/171], provided that: 
 
 > “Hereafter, Federal employees at the National Energy Technology Laboratory shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 \[[Pub. L. 105–270][/us/pl/105/270]\] ([31 U.S.C. 501][/us/usc/t31/s501] note).”
 
-[Pub. L. 110–28, title VI, § 6602(b)][/us/pl/110/28/s6602/b], May 25, 2007, [121 Stat. 178][/us/stat/121/178], provided that: 
+[Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6602(b), May 25, 2007, [121 Stat. 178][/us/stat/121/178], provided that: 
 
 > “Hereafter, Federal employees at the Mine Safety and Health Administration shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 \[[Pub. L. 105–270][/us/pl/105/270]\] ([31 U.S.C. 501][/us/usc/t31/s501] note).”
 
-[Pub. L. 105–270][/us/pl/105/270], Oct. 19, 1998, [112 Stat. 2382][/us/stat/112/2382], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–115, div. A, title VIII, § 840][/us/pl/109/115/s840], Nov. 30, 2005, [119 Stat. 2505][/us/stat/119/2505], provided that:
+[Pub. L. 105–270][/us/pl/105/270], Oct. 19, 1998, [112 Stat. 2382][/us/stat/112/2382], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–115, div. A, title VIII][/us/pl/109/115/dA/tVIII], § 840, Nov. 30, 2005, [119 Stat. 2505][/us/stat/119/2505], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -691,81 +691,81 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
  __Purpose of Amendments by__  __[__  __Pub. L. 104–316__  __][/us/pl/104/316]__ 
 
-[Pub. L. 104–316, title II, § 201][/us/pl/104/316/s201], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842], provided that: 
+[Pub. L. 104–316, title II][/us/pl/104/316/tII], § 201, Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842], provided that: 
 
 > “The purpose of this title \[see Tables for classification\] is to amend provisions of law to reflect, update, and enact transfers and subsequent delegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 ([Public Law 104–53][/us/pl/104/53], [109 Stat. 535][/us/stat/109/535]) \[see Transfer of Functions note above\], as in effect immediately before this title takes effect \[Oct. 19, 1996\].”
 
  __Department of Commerce Franchise Fund Pilot__ 
 
-[Pub. L. 108–199, div. B, title II, § 206][/us/pl/108/199/s206], Jan. 23, 2004, [118 Stat. 73][/us/stat/118/73], provided that: 
+[Pub. L. 108–199, div. B, title II][/us/pl/108/199/dB/tII], § 206, Jan. 23, 2004, [118 Stat. 73][/us/stat/118/73], provided that: 
 
 > “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to [section 403 of Public Law 103–356][/us/pl/103/356/s403] \[set out below\]: Provided, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: Provided further, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: Provided further, That such fund shall provide services on a competitive basis: Provided further, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: Provided further, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[[118 Stat. 93][/us/stat/118/93]\]: Provided further, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–7, div. B, title II, § 207][/us/pl/108/7/s207], Feb. 20, 2003, [117 Stat. 77][/us/stat/117/77].
+    [Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], § 207, Feb. 20, 2003, [117 Stat. 77][/us/stat/117/77].
 
-    [Pub. L. 107–77, title II, § 207][/us/pl/107/77/s207], Nov. 28, 2001, [115 Stat. 778][/us/stat/115/778].
+    [Pub. L. 107–77, title II][/us/pl/107/77/tII], § 207, Nov. 28, 2001, [115 Stat. 778][/us/stat/115/778].
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II, § 208\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–79.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title II, § 208\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–79.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 209\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–33.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title II, § 209\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–33.
 
-    [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II, § 209\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–87.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title II, § 209\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–87.
 
  __Department of the Interior Franchise Fund Pilot__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I, § 113\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–200, as amended by [Pub. L. 108–7, div. F, title I, § 149][/us/pl/108/7/s149], Feb. 20, 2003, [117 Stat. 245][/us/stat/117/245], provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I, § 113\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–200, as amended by [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 149, Feb. 20, 2003, [117 Stat. 245][/us/stat/117/245], provided that: 
 
 > “There is hereby established in the Treasury a franchise fund pilot, as authorized by [section 403 of Public Law 103–356][/us/pl/103/356/s403] \[set out below\], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: Provided, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: Provided further, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: Provided further, That such fund shall provide services on a competitive basis: Provided further, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: Provided further, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: Provided further, That such franchise fund pilot shall terminate pursuant to [section 403(f) of Public Law 103–356][/us/pl/103/356/s403/f].”
 
  __Department of Veterans Affairs Franchise Fund Pilot__ 
 
-[Pub. L. 108–447, div. I, title I, § 108][/us/pl/108/447/s108], Dec. 8, 2004, [118 Stat. 3292][/us/stat/118/3292], provided that: 
+[Pub. L. 108–447, div. I, title I][/us/pl/108/447/dI/tI], § 108, Dec. 8, 2004, [118 Stat. 3292][/us/stat/118/3292], provided that: 
 
 > “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by [section 403 of Public Law 103–356][/us/pl/103/356/s403] \[set out below\] until October 1, 2005: Provided, That the Franchise Fund, established by title I of [Public Law 104–204][/us/pl/104/204] \[set out as a note under [section 301 of Title 38][/us/usc/t38/s301], Veterans’ Benefits\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–199, div. G, title I, § 108][/us/pl/108/199/s108], Jan. 23, 2004, [118 Stat. 369][/us/stat/118/369].
+    [Pub. L. 108–199, div. G, title I][/us/pl/108/199/dG/tI], § 108, Jan. 23, 2004, [118 Stat. 369][/us/stat/118/369].
 
-    [Pub. L. 108–7, div. K, title I, § 108][/us/pl/108/7/s108], Feb. 20, 2003, [117 Stat. 481][/us/stat/117/481].
+    [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 108, Feb. 20, 2003, [117 Stat. 481][/us/stat/117/481].
 
-    [Pub. L. 107–73, title I, § 108][/us/pl/107/73/s108], Nov. 26, 2001, [115 Stat. 658][/us/stat/115/658].
+    [Pub. L. 107–73, title I][/us/pl/107/73/tI], § 108, Nov. 26, 2001, [115 Stat. 658][/us/stat/115/658].
 
  __Department of Homeland Security Working Capital Fund__ 
 
-[Pub. L. 114–113, div. F, title V, § 504][/us/pl/114/113/s504], Dec. 18, 2015, [129 Stat. 2512][/us/stat/129/2512], provided that: 
+[Pub. L. 114–113, div. F, title V][/us/pl/114/113/dF/tV], § 504, Dec. 18, 2015, [129 Stat. 2512][/us/stat/129/2512], provided that: 
 
 > “The Department of Homeland Security Working Capital Fund, established pursuant to [section 403 of Public Law 103–356][/us/pl/103/356/s403] ([31 U.S.C. 501][/us/usc/t31/s501] note), shall continue operations as a permanent working capital fund for fiscal year 2016: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2016 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all Departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 114–4, title V, § 504][/us/pl/114/4/s504], Mar. 4, 2015, [129 Stat. 62][/us/stat/129/62].
+    [Pub. L. 114–4, title V][/us/pl/114/4/tV], § 504, Mar. 4, 2015, [129 Stat. 62][/us/stat/129/62].
 
-    [Pub. L. 113–76, div. F, title V, § 504][/us/pl/113/76/s504], Jan. 17, 2014, [128 Stat. 270][/us/stat/128/270].
+    [Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 504, Jan. 17, 2014, [128 Stat. 270][/us/stat/128/270].
 
-    [Pub. L. 113–6, div. D, title V, § 504][/us/pl/113/6/s504], Mar. 26, 2013, [127 Stat. 367][/us/stat/127/367].
+    [Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 504, Mar. 26, 2013, [127 Stat. 367][/us/stat/127/367].
 
-    [Pub. L. 112–74, div. D, title V, § 504][/us/pl/112/74/s504], Dec. 23, 2011, [125 Stat. 969][/us/stat/125/969].
+    [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 504, Dec. 23, 2011, [125 Stat. 969][/us/stat/125/969].
 
-    [Pub. L. 111–83, title V, § 504][/us/pl/111/83/s504], Oct. 28, 2009, [123 Stat. 2169][/us/stat/123/2169].
+    [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 504, Oct. 28, 2009, [123 Stat. 2169][/us/stat/123/2169].
 
-    [Pub. L. 110–329, div. D, title V, § 504][/us/pl/110/329/s504], Sept. 30, 2008, [122 Stat. 3680][/us/stat/122/3680].
+    [Pub. L. 110–329, div. D, title V][/us/pl/110/329/dD/tV], § 504, Sept. 30, 2008, [122 Stat. 3680][/us/stat/122/3680].
 
-    [Pub. L. 110–161, div. E, title V, § 524][/us/pl/110/161/s524], Dec. 26, 2007, [121 Stat. 2074][/us/stat/121/2074].
+    [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 524, Dec. 26, 2007, [121 Stat. 2074][/us/stat/121/2074].
 
-    [Pub. L. 109–295, title V, § 526][/us/pl/109/295/s526], Oct. 4, 2006, [120 Stat. 1382][/us/stat/120/1382].
+    [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 526, Oct. 4, 2006, [120 Stat. 1382][/us/stat/120/1382].
 
-[Pub. L. 109–13, div. A, title VI, § 6025][/us/pl/109/13/s6025], May 11, 2005, [119 Stat. 287][/us/stat/119/287], provided that: 
+[Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6025, May 11, 2005, [119 Stat. 287][/us/stat/119/287], provided that: 
 
 > “The Department of Homeland Security shall henceforth provide an appropriations justification for the ‘Department of Homeland Security Working Capital Fund’ to the Committees on Appropriations of the Senate and House of Representatives: Provided, That an annual appropriations justification shall be submitted to the Congress as a part of the President’s budget as submitted under [section 1105(a) of Title 31][/us/usc/t31/s1105/a], United States Code, and shall contain the same level of detail as the Department’s Congressional appropriations justification in support of the President’s budget: Provided further, That the ‘Department of Homeland Security Working Capital Fund’ Congressional appropriations justification for fiscal year 2006 shall be submitted within 15 days of enactment of this Act \[May 11, 2005\]: Provided further, That the Chief Financial Officer shall ensure that all planned activities and amounts to be funded by the ‘Department of Homeland Security Working Capital Fund’, all reimbursable agreements, and all uses of the Economy Act \[[31 U.S.C. 1535][/us/usc/t31/s1535]\] are explicitly identified in each Congressional appropriations justification in support of the President’s budget provided for each agency and component of the Department.”
 
-[Pub. L. 108–90, title V, § 506][/us/pl/108/90/s506], Oct. 1, 2003, [117 Stat. 1153][/us/stat/117/1153], provided in part: 
+[Pub. L. 108–90, title V][/us/pl/108/90/tV], § 506, Oct. 1, 2003, [117 Stat. 1153][/us/stat/117/1153], provided in part: 
 
 > “That such fund \[Federal Emergency Management Agency Working Capital Fund\] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
 
-[Pub. L. 104–204, title III][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2915][/us/stat/110/2915], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided in part: 
+[Pub. L. 104–204, title III][/us/pl/104/204/tIII], Sept. 26, 1996, [110 Stat. 2915][/us/stat/110/2915], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided in part: 
 
 > “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: Provided, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: Provided further, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: Provided further, That income of such fund may be retained, to remain available until expended, for purposes of the fund: Provided further, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: Provided further, That such fund shall terminate in a manner consistent with [section 403(f) of Public Law 103–356][/us/pl/103/356/s403/f] \[set out below\].”
 
@@ -775,7 +775,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Franchise Fund Pilot Programs__ 
 
-[Pub. L. 103–356, title IV, § 403][/us/pl/103/356/s403], Oct. 13, 1994, [108 Stat. 3413][/us/stat/108/3413], as amended by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 627\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–360; [Pub. L. 107–67, title VI, § 634][/us/pl/107/67/s634], Nov. 12, 2001, [115 Stat. 553][/us/stat/115/553]; [Pub. L. 108–7, div. J, title VI, § 633][/us/pl/108/7/s633], Feb. 20, 2003, [117 Stat. 471][/us/stat/117/471]; [Pub. L. 108–136, div. A, title XIV, § 1426][/us/pl/108/136/s1426], Nov. 24, 2003, [117 Stat. 1670][/us/stat/117/1670]; [Pub. L. 108–199, div. F, title VI, § 632][/us/pl/108/199/s632], Jan. 23, 2004, [118 Stat. 357][/us/stat/118/357]; [Pub. L. 108–447, div. H, title VI, § 632][/us/pl/108/447/s632], Dec. 8, 2004, [118 Stat. 3280][/us/stat/118/3280]; [Pub. L. 109–90, title V, § 539][/us/pl/109/90/s539], Oct. 18, 2005, [119 Stat. 2088][/us/stat/119/2088]; [Pub. L. 109–115, div. A, title VIII, § 831][/us/pl/109/115/s831], Nov. 30, 2005, [119 Stat. 2503][/us/stat/119/2503]; [Pub. L. 110–161, div. D, title VII, § 730][/us/pl/110/161/s730], Dec. 26, 2007, [121 Stat. 2026][/us/stat/121/2026], provided that:
+[Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 403, Oct. 13, 1994, [108 Stat. 3413][/us/stat/108/3413], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 627\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–360; [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 634, Nov. 12, 2001, [115 Stat. 553][/us/stat/115/553]; [Pub. L. 108–7, div. J, title VI][/us/pl/108/7/dJ/tVI], § 633, Feb. 20, 2003, [117 Stat. 471][/us/stat/117/471]; [Pub. L. 108–136, div. A, title XIV][/us/pl/108/136/dA/tXIV], § 1426, Nov. 24, 2003, [117 Stat. 1670][/us/stat/117/1670]; [Pub. L. 108–199, div. F, title VI][/us/pl/108/199/dF/tVI], § 632, Jan. 23, 2004, [118 Stat. 357][/us/stat/118/357]; [Pub. L. 108–447, div. H, title VI][/us/pl/108/447/dH/tVI], § 632, Dec. 8, 2004, [118 Stat. 3280][/us/stat/118/3280]; [Pub. L. 109–90, title V][/us/pl/109/90/tV], § 539, Oct. 18, 2005, [119 Stat. 2088][/us/stat/119/2088]; [Pub. L. 109–115, div. A, title VIII][/us/pl/109/115/dA/tVIII], § 831, Nov. 30, 2005, [119 Stat. 2503][/us/stat/119/2503]; [Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 730, Dec. 26, 2007, [121 Stat. 2026][/us/stat/121/2026], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -813,25 +813,25 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     The authority of the Secretary of Homeland Security to carry out a pilot program under this section shall terminate on October 1, 2008.”
 
-\[[Pub. L. 109–289, div. B, title II, § 21068][/us/pl/109/289/s21068], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 57][/us/stat/121/57], provided that: 
+\[[Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 21068, as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 57][/us/stat/121/57], provided that: 
 
 > “[Section 403(f) of Public Law 103–356][/us/pl/103/356/s403/f] ([31 U.S.C. 501][/us/usc/t31/s501] note) shall be applied by substituting the date specified in section 106 of this division \[Sept. 30, 2007\] for ‘October 1, 2006’.”
 
 \]
 
-\[[Pub. L. 109–115, div. A, title VIII, § 831][/us/pl/109/115/s831], Nov. 30, 2005, [119 Stat. 2503][/us/stat/119/2503], provided in part: 
+\[[Pub. L. 109–115, div. A, title VIII][/us/pl/109/115/dA/tVIII], § 831, Nov. 30, 2005, [119 Stat. 2503][/us/stat/119/2503], provided in part: 
 
 > “That this provision \[amending [section 403(f) of Pub. L. 103–356][/us/pl/103/356/s403/f], set out above, by substituting “October 1, 2006” for “October 1, 2005”\] shall not apply to the Department of Homeland Security.”
 
 \]
 
-    \[[Pub. L. 109–90, title V, § 539][/us/pl/109/90/s539], Oct. 18, 2005, [119 Stat. 2088][/us/stat/119/2088], amended [section 403(f) of Pub. L. 103–356][/us/pl/103/356/s403/f], set out above, by substituting “October 1, 2006” for “October 1, 2005”, for activities related to the Department of Homeland Security Working Capital Fund.\]
+    \[[Pub. L. 109–90, title V][/us/pl/109/90/tV], § 539, Oct. 18, 2005, [119 Stat. 2088][/us/stat/119/2088], amended [section 403(f) of Pub. L. 103–356][/us/pl/103/356/s403/f], set out above, by substituting “October 1, 2006” for “October 1, 2005”, for activities related to the Department of Homeland Security Working Capital Fund.\]
 
-    \[[Pub. L. 108–199, div. F, title VI, § 632][/us/pl/108/199/s632], Jan. 23, 2004, [118 Stat. 357][/us/stat/118/357], which directed the amendment of subsec. (f) of [section 403 of Pub. L. 103–356][/us/pl/103/356/s403], set out above, by substituting “October 1, 2004” for “October 1, 2003”, was executed by making the substitution for “December 31, 2004” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 108–199, div. F, title VI][/us/pl/108/199/dF/tVI], § 632, Jan. 23, 2004, [118 Stat. 357][/us/stat/118/357], which directed the amendment of subsec. (f) of [section 403 of Pub. L. 103–356][/us/pl/103/356/s403], set out above, by substituting “October 1, 2004” for “October 1, 2003”, was executed by making the substitution for “December 31, 2004” to reflect the probable intent of Congress.\]
 
  __Simplification of Management Reporting Process__ 
 
-[Pub. L. 103–356, title IV, § 404][/us/pl/103/356/s404], Oct. 13, 1994, [108 Stat. 3414][/us/stat/108/3414], as amended by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 646\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 241\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–303, provided that:
+[Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 404, Oct. 13, 1994, [108 Stat. 3414][/us/stat/108/3414], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 646\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 241\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–303, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -855,7 +855,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Findings and Purposes of Chief Financial Officers Act of 1990__ 
 
-[Pub. L. 101–576, title I, § 102][/us/pl/101/576/s102], Nov. 15, 1990, [104 Stat. 2838][/us/stat/104/2838], provided that:
+[Pub. L. 101–576, title I][/us/pl/101/576/tI], § 102, Nov. 15, 1990, [104 Stat. 2838][/us/stat/104/2838], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -885,13 +885,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Duties and Functions of Department of the Treasury__ 
 
-[Pub. L. 101–576, title II, § 204][/us/pl/101/576/s204], Nov. 15, 1990, [104 Stat. 2842][/us/stat/104/2842], provided that: 
+[Pub. L. 101–576, title II][/us/pl/101/576/tII], § 204, Nov. 15, 1990, [104 Stat. 2842][/us/stat/104/2842], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act \[Nov. 15, 1990\].”
 
  __REORGANIZATION PLAN NO. 2 OF 1970__ 
 
- __Eff.__  __July 1, 1970__  __, 35 F.R. 7959,__  __[__  __84 Stat. 2085__  __][/us/stat/84/2085]__  __, as amended__  __[__  __Pub. L. 97–258, § 5(b)__  __][/us/pl/97/258/s5/b]__  __,__  __Sept. 13, 1982__  __,__  __[__  __96 Stat. 1068__  __][/us/stat/96/1068]__  __, 1085__ 
+ __Eff.__  __July 1, 1970__  __, 35 F.R. 7959,__  __[__  __84 Stat. 2085__  __][/us/stat/84/2085]__  __, as amended__  __[__  __Pub. L. 97–258__  __][/us/pl/97/258]__  __, § 5(b),__  __Sept. 13, 1982__  __,__  __[__  __96 Stat. 1068__  __][/us/stat/96/1068]__  __, 1085__ 
 
     Prepared by the President and Transmitted to the Senate and the House of Representatives in Congress Assembled March 12, 1970, Pursuant to the Provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -903,11 +903,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Sec. 102. Office of Management and Budget__ 
 
-    \[Repealed. [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085. Section designated the Bureau of the Budget as the Office of Management and Budget, provided for the officers and their duties, and provided for performance of the duties of the Director in the event of absence or disability or a vacancy in the office of Director.\]
+    \[Repealed. [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085. Section designated the Bureau of the Budget as the Office of Management and Budget, provided for the officers and their duties, and provided for performance of the duties of the Director in the event of absence or disability or a vacancy in the office of Director.\]
 
  __Sec. 103. Records, Property, Personnel, and Funds__ 
 
-    \[Repealed. [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085. Section provided that the records, property, personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.\]
+    \[Repealed. [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085. Section provided that the records, property, personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.\]
 
  __PART II. DOMESTIC COUNCIL__ 
 
@@ -1357,7 +1357,7 @@ Sec. 3. Privatization Initiative. To the extent permitted by law, the head of ea
 
  __Executive Order No. 12805__ 
 
-    Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to [Pub. L. 110–409, § 7(c)(2)][/us/pl/110/409/s7/c/2], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313], which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See [section 7(c)(2) of Pub. L. 110–409][/us/pl/110/409/s7/c/2], set out as an Effective Date; Existing Executive Orders note under section 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], in the Appendix to Title 5, Government Organization and Employees.
+    Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to [Pub. L. 110–409][/us/pl/110/409], § 7(c)(2), Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313], which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See [section 7(c)(2) of Pub. L. 110–409][/us/pl/110/409/s7/c/2], set out as an Effective Date; Existing Executive Orders note under section 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], in the Appendix to Title 5, Government Organization and Employees.
 
  __Executive Order No. 12816__ 
 
@@ -1832,21 +1832,21 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F886
-[/us/pl/101/576/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs101
+[/us/pl/101/576/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtI
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838
 [/us/usc/t42/s3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3533
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
-[/us/pl/104/53/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs211
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F535
-[/us/pl/104/316/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs203
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3845
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/112/239/s1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1655
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2083
-[/us/pl/111/117/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs743
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3216
-[/us/pl/112/74/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs740
+[/us/pl/112/74/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtVII
 [/us/stat/125/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F939
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
@@ -1854,7 +1854,7 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/111/84/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs326
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2254
 [/us/usc/t10/s2305/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305%2Fb%2F6%2FA
 [/us/usc/t41/s253b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253b%2Ff
@@ -1867,9 +1867,9 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/usc/t10/s2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2383
-[/us/pl/110/161/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs739
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2029
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F689
 [/us/usc/t49/s44920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44920
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
@@ -1884,39 +1884,39 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/usc/t31/s3551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3551%2F2
 [/us/usc/t28/s1491/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491%2Fb
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/108/199/s647/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs647%2Fb
+[/us/pl/108/199/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtVI
 [/us/stat/118/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F361
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/108/108/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs340%2Fa
+[/us/pl/108/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtIII
 [/us/stat/117/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1315
-[/us/pl/108/447/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs332%2Fc
+[/us/pl/108/447/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtIII
 [/us/stat/118/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3100
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/108/447/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs332%2Fc
+[/us/pl/108/447/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtIII
 [/us/stat/118/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3100
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/53/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs227
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F298
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t40/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541
-[/us/pl/110/28/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6201
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F171
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/110/28/s6602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6602%2Fb
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F178
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/stat/112/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2382
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/115/s840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs840
+[/us/pl/109/115/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVIII
 [/us/stat/119/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2505
 [/us/usc/t5/s7103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F4
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
@@ -1926,127 +1926,127 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
 [/us/usc/t10/s2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2460
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/316/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs201
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/stat/109/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F535
-[/us/pl/108/199/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs206
+[/us/pl/108/199/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtII
 [/us/stat/118/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F73
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
 [/us/stat/118/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F93
-[/us/pl/108/7/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs207
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F77
-[/us/pl/107/77/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs207
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F778
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/108/7/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs149
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F245
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
 [/us/pl/103/356/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403%2Ff
-[/us/pl/108/447/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs108
+[/us/pl/108/447/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtI
 [/us/stat/118/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3292
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
-[/us/pl/108/199/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs108
+[/us/pl/108/199/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtI
 [/us/stat/118/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F369
-[/us/pl/108/7/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs108
+[/us/pl/108/7/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtI
 [/us/stat/117/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F481
-[/us/pl/107/73/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs108
+[/us/pl/107/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtI
 [/us/stat/115/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F658
-[/us/pl/114/113/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs504
+[/us/pl/114/113/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtV
 [/us/stat/129/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2512
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/114/4/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs504
+[/us/pl/114/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtV
 [/us/stat/129/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F62
-[/us/pl/113/76/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs504
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F270
-[/us/pl/113/6/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs504
+[/us/pl/113/6/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtV
 [/us/stat/127/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F367
-[/us/pl/112/74/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs504
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F969
-[/us/pl/111/83/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs504
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2169
-[/us/pl/110/329/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs504
+[/us/pl/110/329/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdD%2FtV
 [/us/stat/122/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3680
-[/us/pl/110/161/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs524
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2074
-[/us/pl/109/295/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs526
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1382
-[/us/pl/109/13/s6025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6025
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F287
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/108/90/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2Fs506
+[/us/pl/108/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2FtV
 [/us/stat/117/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1153
-[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIII
 [/us/stat/110/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2915
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/103/356/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403%2Ff
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3413
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/107/67/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs634
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F553
-[/us/pl/108/7/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs633
+[/us/pl/108/7/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtVI
 [/us/stat/117/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F471
-[/us/pl/108/136/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1426
+[/us/pl/108/136/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXIV
 [/us/stat/117/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1670
-[/us/pl/108/199/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs632
+[/us/pl/108/199/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtVI
 [/us/stat/118/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F357
-[/us/pl/108/447/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs632
+[/us/pl/108/447/dH/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtVI
 [/us/stat/118/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3280
-[/us/pl/109/90/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs539
+[/us/pl/109/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2FtV
 [/us/stat/119/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2088
-[/us/pl/109/115/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs831
+[/us/pl/109/115/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVIII
 [/us/stat/119/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2503
-[/us/pl/110/161/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs730
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2026
-[/us/pl/109/289/s21068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs21068
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F57
 [/us/pl/103/356/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403%2Ff
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/109/115/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs831
+[/us/pl/109/115/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVIII
 [/us/stat/119/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2503
 [/us/pl/103/356/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403%2Ff
-[/us/pl/109/90/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs539
+[/us/pl/109/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2FtV
 [/us/stat/119/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2088
 [/us/pl/103/356/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403%2Ff
-[/us/pl/108/199/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs632
+[/us/pl/108/199/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtVI
 [/us/stat/118/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F357
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
-[/us/pl/103/356/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs404
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3414
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
 [/us/stat/104/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F890
-[/us/pl/101/576/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs102
+[/us/pl/101/576/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtI
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838
-[/us/pl/101/576/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs204
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2842
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t5/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs906%2Fa
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -2088,7 +2088,7 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/usc/t22/s3103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3103%2Fa%2F3
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/110/409/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fc%2F2
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
 [/us/pl/110/409/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fc%2F2
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

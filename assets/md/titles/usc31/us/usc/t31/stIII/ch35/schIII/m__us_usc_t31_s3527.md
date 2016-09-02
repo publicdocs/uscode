@@ -73,7 +73,7 @@
 
     (e) Relief provided under this section is in addition to relief provided under another law.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 965][/us/stat/96/965]; [Pub. L. 104–106, div. A, title IX, § 913(c)(4)][/us/pl/104/106/s913/c/4], Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411]; [Pub. L. 104–201, div. A, title X, § 1009(c)(2)][/us/pl/104/201/s1009/c/2], Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 109–241, title IX, § 902(b)(3)][/us/pl/109/241/s902/b/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 965][/us/stat/96/965]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(c)(4), Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1009(c)(2), Sept. 23, 1996, [110 Stat. 2635][/us/stat/110/2635]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(b)(3), July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
 
 <table>
 
@@ -239,13 +239,13 @@ In subsection (a), before clause (1), the words “Except as provided in subsect
 
     2006—Subsec. (b)(1)(A)(i), (B). [Pub. L. 109–241][/us/pl/109/241] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    1996—Subsec. (b)(1). [Pub. L. 104–106, § 913(c)(4)(C)][/us/pl/104/106/s913/c/4/C]–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+    1996—Subsec. (b)(1). [Pub. L. 104–106][/us/pl/104/106], § 913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
-    [Pub. L. 104–106, § 913(c)(4)(A)][/us/pl/104/106/s913/c/4/A], (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in [section 3528(a)(4)(A) of this title][/us/usc/t31/s3528/a/4/A],” for “records,”.
+    [Pub. L. 104–106][/us/pl/104/106], § 913(c)(4)(A), (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in [section 3528(a)(4)(A) of this title][/us/usc/t31/s3528/a/4/A],” for “records,”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 104–201, § 1009(c)(2)(A)][/us/pl/104/201/s1009/c/2/A], inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 104–201][/us/pl/104/201], § 1009(c)(2)(A), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
 
-    Subsec. (b)(1)(B). [Pub. L. 104–201, § 1009(c)(2)(B)][/us/pl/104/201/s1009/c/2/B], inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
+    Subsec. (b)(1)(B). [Pub. L. 104–201][/us/pl/104/201], § 1009(c)(2)(B), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
 
 ----------
 
@@ -259,17 +259,17 @@ In subsection (a), before clause (1), the words “Except as provided in subsect
 [/us/usc/t31/s3528/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3528%2Fb%2F1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F965
-[/us/pl/104/106/s913/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fc%2F4
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F411
-[/us/pl/104/201/s1009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fc%2F2
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2635
-[/us/pl/109/241/s902/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fb%2F3
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/104/106/s913/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fc%2F4%2FC
-[/us/pl/104/106/s913/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fc%2F4%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t31/s3528/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3528%2Fa%2F4%2FA
-[/us/pl/104/201/s1009/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fc%2F2%2FA
-[/us/pl/104/201/s1009/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fc%2F2%2FB
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

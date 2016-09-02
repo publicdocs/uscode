@@ -91,7 +91,7 @@
 
     (f) In [section 3711 of this title][/us/usc/t31/s3711], “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 970][/us/stat/96/970]; [Pub. L. 97–452, § 1(13)(A)][/us/pl/97/452/s1/13/A], Jan. 12, 1983, [96 Stat. 2469][/us/stat/96/2469]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–387, § 5(b)][/us/pl/103/387/s5/b], Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III, § 31001(c)(2)][/us/pl/104/134/s31001/c/2], (d)(1), (3), (z)(1), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–361, 1321–378; [Pub. L. 104–316, title I, § 115(g)(2)(A)][/us/pl/104/316/s115/g/2/A], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 106–169, title II, § 203(b)][/us/pl/106/169/s203/b], Dec. 14, 1999, [113 Stat. 1832][/us/stat/113/1832]; [Pub. L. 107–107, div. A, title III, § 335][/us/pl/107/107/s335], Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 970][/us/stat/96/970]; [Pub. L. 97–452][/us/pl/97/452], § 1(13)(A), Jan. 12, 1983, [96 Stat. 2469][/us/stat/96/2469]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–387][/us/pl/103/387], § 5(b), Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–361, 1321–378; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(g)(2)(A), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], § 203(b), Dec. 14, 1999, [113 Stat. 1832][/us/stat/113/1832]; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 335, Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060].)
 
 <table>
 
@@ -383,21 +383,21 @@ Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b
 
     1999—Subsec. (d)(2). [Pub. L. 106–169][/us/pl/106/169] substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–134, § 31001(z)(1)(A)][/us/pl/104/134/s31001/z/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
+    1996—Subsec. (a)(1). [Pub. L. 104–134][/us/pl/104/134], § 31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
 
-    Subsec. (a)(4). [Pub. L. 104–134, § 31001(c)(2)][/us/pl/104/134/s31001/c/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
+    Subsec. (a)(4). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
 
-    Subsec. (a)(8). [Pub. L. 104–134, § 31001(d)(3)][/us/pl/104/134/s31001/d/3], added par. (8).
+    Subsec. (a)(8). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(3), added par. (8).
 
-    Subsec. (b). [Pub. L. 104–134, § 31001(z)(1)(B)][/us/pl/104/134/s31001/z/1/B], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In subchapter II of this chapter, ‘claim’ includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.”
+    Subsec. (b). [Pub. L. 104–134][/us/pl/104/134], § 31001(z)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In subchapter II of this chapter, ‘claim’ includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.”
 
-    Subsec. (c). [Pub. L. 104–134, § 31001(d)(1)][/us/pl/104/134/s31001/d/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In sections 3716 and 3717 of this title, ‘person’ does not include an agency of the United States Government, of a State government, or of a unit of general local government.”
+    Subsec. (c). [Pub. L. 104–134][/us/pl/104/134], § 31001(d)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In sections 3716 and 3717 of this title, ‘person’ does not include an agency of the United States Government, of a State government, or of a unit of general local government.”
 
     Subsec. (d). [Pub. L. 104–316][/us/pl/104/316] substituted “Sections 3711(e)” for “Sections 3711(f)” in introductory provisions.
 
-    [Pub. L. 104–134, § 31001(z)(1)(D)][/us/pl/104/134/s31001/z/1/D], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.), the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.), except to the extent provided under section 204(f) of such Act ([42 U.S.C. 404(f)][/us/usc/t42/s404/f]),, or the tariff laws of the United States.”
+    [Pub. L. 104–134][/us/pl/104/134], § 31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.), the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.), except to the extent provided under section 204(f) of such Act ([42 U.S.C. 404(f)][/us/usc/t42/s404/f]),, or the tariff laws of the United States.”
 
-    Subsecs. (e), (f). [Pub. L. 104–134, § 31001(z)(1)(C)][/us/pl/104/134/s31001/z/1/C], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 104–134][/us/pl/104/134], § 31001(z)(1)(C), added subsecs. (e) and (f).
 
     1994—Subsec. (d). [Pub. L. 103–387][/us/pl/103/387] inserted “, except to the extent provided under section 204(f) of such Act ([42 U.S.C. 404(f)][/us/usc/t42/s404/f]),” after “the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.)”.
 
@@ -407,25 +407,25 @@ Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–169, title II, § 203(d)][/us/pl/106/169/s203/d], Dec. 14, 1999, [113 Stat. 1832][/us/stat/113/1832], provided that: 
+[Pub. L. 106–169, title II][/us/pl/106/169/tII], § 203(d), Dec. 14, 1999, [113 Stat. 1832][/us/stat/113/1832], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare\] shall apply to debt outstanding on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–387, § 5(c)][/us/pl/103/387/s5/c], Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077], as amended by [Pub. L. 104–134, title III, § 31001(z)(2)(B)][/us/pl/104/134/s31001/z/2/B], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
+[Pub. L. 103–387][/us/pl/103/387], § 5(c), Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077], as amended by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(z)(2)(B), Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 404 of Title 42][/us/usc/t42/s404], The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–134, title III, § 31001(a)(1)][/us/pl/104/134/s31001/a/1], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(a)(1), Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
 
 > “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, [section 5514 of Title 5][/us/usc/t5/s5514], Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and [section 2461 of Title 28][/us/usc/t28/s2461], Judiciary and Judicial Procedure, amending provisions set out as notes under this section and [section 2461 of Title 28][/us/usc/t28/s2461], and repealing provisions set out as notes under [section 3718 of this title][/us/usc/t31/s3718]\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–562, § 1][/us/pl/99/562/s1], Oct. 27, 1986, [100 Stat. 3153][/us/stat/100/3153], provided that: 
+[Pub. L. 99–562][/us/pl/99/562], § 1, Oct. 27, 1986, [100 Stat. 3153][/us/stat/100/3153], provided that: 
 
 > “This Act \[enacting sections 3732 and 3733 of this title and amending sections 3729 to 3731 of this title and [section 287 of Title 18][/us/usc/t18/s287], Crimes and Criminal Procedure\] may be cited as the ‘False Claims Amendments Act of 1986’.”
 
@@ -435,7 +435,7 @@ Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b
 
  __Purposes of 1996 Amendment__ 
 
-[Pub. L. 104–134, title III, § 31001(b)][/us/pl/104/134/s31001/b], Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
+[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(b), Apr. 26, 1996, [110 Stat. 1321–358][/us/stat/110/1321-358], provided that: 
 
 > “The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
 
@@ -455,7 +455,7 @@ Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b
 
  __United States Senate as Legislative Agency; Regulations Promulgated by Secretary of Senate__ 
 
-[Pub. L. 101–163, title I, § 11][/us/pl/101/163/s11], Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], provided that:
+[Pub. L. 101–163, title I][/us/pl/101/163/tI], § 11, Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], provided that:
 
 >     “(a) For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the United States Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
 
@@ -478,61 +478,61 @@ Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F970
-[/us/pl/97/452/s1/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F13%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2469
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/387/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs5%2Fb
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4077
-[/us/pl/104/134/s31001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-359
-[/us/pl/104/316/s115/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F2%2FA
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/106/169/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs203%2Fb
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1832
-[/us/pl/107/107/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs335
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1060
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
-[/us/pl/104/134/s31001/z/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F1%2FA
-[/us/pl/104/134/s31001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F2
-[/us/pl/104/134/s31001/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F3
-[/us/pl/104/134/s31001/z/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F1%2FB
-[/us/pl/104/134/s31001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F1
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/104/134/s31001/z/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F1%2FD
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s404/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404%2Ff
-[/us/pl/104/134/s31001/z/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F1%2FC
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/usc/t42/s404/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404%2Ff
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/106/169/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs203%2Fd
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1832
-[/us/pl/103/387/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs5%2Fc
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4077
-[/us/pl/104/134/s31001/z/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F2%2FB
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-379
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404
-[/us/pl/104/134/s31001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fa%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461
 [/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
-[/us/pl/99/562/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs1
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3153
 [/us/usc/t18/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs287
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/134/s31001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fb
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
-[/us/pl/101/163/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs11
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1046
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
 

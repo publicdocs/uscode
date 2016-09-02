@@ -105,7 +105,7 @@
 
     This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 978][/us/stat/96/978]; [Pub. L. 99–562, § 2][/us/pl/99/562/s2], Oct. 27, 1986, [100 Stat. 3153][/us/stat/100/3153]; [Pub. L. 103–272, § 4(f)(1)(O)][/us/pl/103/272/s4/f/1/O], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 111–21, § 4(a)][/us/pl/111/21/s4/a], May 20, 2009, [123 Stat. 1621][/us/stat/123/1621].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 978][/us/stat/96/978]; [Pub. L. 99–562][/us/pl/99/562], § 2, Oct. 27, 1986, [100 Stat. 3153][/us/stat/100/3153]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(O), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 111–21][/us/pl/111/21], § 4(a), May 20, 2009, [123 Stat. 1621][/us/stat/123/1621].)
 
 <table>
 
@@ -159,35 +159,35 @@ R.S. § 3490.  </td>
 
  __Amendments__ 
 
-    2009—Subsecs. (a), (b). [Pub. L. 111–21, § 4(a)(1)][/us/pl/111/21/s4/a/1], (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
+    2009—Subsecs. (a), (b). [Pub. L. 111–21][/us/pl/111/21], § 4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
 
-    Subsec. (c). [Pub. L. 111–21, § 4(a)(4)][/us/pl/111/21/s4/a/4], substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
+    Subsec. (c). [Pub. L. 111–21][/us/pl/111/21], § 4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
 
-    [Pub. L. 111–21, § 4(a)(2)][/us/pl/111/21/s4/a/2], (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
+    [Pub. L. 111–21][/us/pl/111/21], § 4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
 
-    Subsecs. (d), (e). [Pub. L. 111–21, § 4(a)(3)][/us/pl/111/21/s4/a/3], redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+    Subsecs. (d), (e). [Pub. L. 111–21][/us/pl/111/21], § 4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
     1994—Subsec. (e). [Pub. L. 103–272][/us/pl/103/272] substituted “1986” for “1954”.
 
-    1986—Subsec. (a). [Pub. L. 99–562, § 2(1)][/us/pl/99/562/s2/1], designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
+    1986—Subsec. (a). [Pub. L. 99–562][/us/pl/99/562], § 2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 99–562, § 2(2)][/us/pl/99/562/s2/2], substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
+    Subsec. (a)(1). [Pub. L. 99–562][/us/pl/99/562], § 2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
 
-    Subsec. (a)(2). [Pub. L. 99–562, § 2(3)][/us/pl/99/562/s2/3], inserted “by the Government” after “approved”.
+    Subsec. (a)(2). [Pub. L. 99–562][/us/pl/99/562], § 2(3), inserted “by the Government” after “approved”.
 
-    Subsec. (a)(4). [Pub. L. 99–562, § 2(4)][/us/pl/99/562/s2/4], substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
+    Subsec. (a)(4). [Pub. L. 99–562][/us/pl/99/562], § 2(4), substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
 
-    Subsec. (a)(5). [Pub. L. 99–562, § 2(5)][/us/pl/99/562/s2/5], substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
+    Subsec. (a)(5). [Pub. L. 99–562][/us/pl/99/562], § 2(5), substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
 
-    Subsec. (a)(6). [Pub. L. 99–562, § 2(6)][/us/pl/99/562/s2/6], substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
+    Subsec. (a)(6). [Pub. L. 99–562][/us/pl/99/562], § 2(6), substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
 
-    Subsec. (a)(7). [Pub. L. 99–562, § 2(7)][/us/pl/99/562/s2/7], added par. (7).
+    Subsec. (a)(7). [Pub. L. 99–562][/us/pl/99/562], § 2(7), added par. (7).
 
-    Subsecs. (b) to (e). [Pub. L. 99–562, § 2(7)][/us/pl/99/562/s2/7], added subsecs. (b) to (e).
+    Subsecs. (b) to (e). [Pub. L. 99–562][/us/pl/99/562], § 2(7), added subsecs. (b) to (e).
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–21, § 4(f)][/us/pl/111/21/s4/f], May 20, 2009, [123 Stat. 1625][/us/stat/123/1625], provided that: 
+[Pub. L. 111–21][/us/pl/111/21], § 4(f), May 20, 2009, [123 Stat. 1625][/us/stat/123/1625], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3730 to 3733 of this title\] shall take effect on the date of enactment of this Act \[May 20, 2009\] and shall apply to conduct on or after the date of enactment, except that—
 
@@ -197,7 +197,7 @@ R.S. § 3490.  </td>
 
  __Increased Penalties for False Claims in Defense Procurement__ 
 
-[Pub. L. 99–145, title IX, § 931(b)][/us/pl/99/145/s931/b], Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that: 
+[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 931(b), Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that: 
 
 > “Notwithstanding [section 3729 of title 31][/us/usc/t31/s3729], United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
 
@@ -215,31 +215,31 @@ R.S. § 3490.  </td>
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F978
-[/us/pl/99/562/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3153
-[/us/pl/103/272/s4/f/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FO
-[/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/111/21/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fa
-[/us/stat/123/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1621
-[/us/pl/111/21/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fa%2F1
-[/us/pl/111/21/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fa%2F4
-[/us/pl/111/21/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fa%2F2
-[/us/pl/111/21/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fa%2F3
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/99/562/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F1
-[/us/pl/99/562/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F2
-[/us/pl/99/562/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F3
-[/us/pl/99/562/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F4
-[/us/pl/99/562/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F5
-[/us/pl/99/562/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F6
-[/us/pl/99/562/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F7
-[/us/pl/99/562/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs2%2F7
-[/us/pl/111/21/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Ff
+[/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/stat/123/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1621
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1625
 [/us/usc/t31/s3729/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729%2Fa%2F1
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
 [/us/usc/t31/s3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3732
-[/us/pl/99/145/s931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs931%2Fb
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F699
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
 [/us/pl/99/145/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs931%2Fc

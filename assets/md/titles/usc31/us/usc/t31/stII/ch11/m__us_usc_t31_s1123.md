@@ -31,7 +31,7 @@
 
         (4) coordinate and collaborate with relevant personnel within and external to the agency who have a significant role in contributing to and achieving the mission and goals of the agency, such as the Chief Financial Officer, Chief Human Capital Officer, Chief Acquisition Officer/Senior Procurement Executive, Chief Information Officer, and other line of business chiefs at the agency.
 
-(Added [Pub. L. 111–352, § 8][/us/pl/111/352/s8], Jan. 4, 2011, [124 Stat. 3878][/us/stat/124/3878].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 8, Jan. 4, 2011, [124 Stat. 3878][/us/stat/124/3878].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
-[/us/pl/111/352/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs8
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3878
 
 

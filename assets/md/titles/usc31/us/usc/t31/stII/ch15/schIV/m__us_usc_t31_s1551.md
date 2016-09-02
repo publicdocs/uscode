@@ -43,7 +43,7 @@
 
         (2) appropriations to be disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 935][/us/stat/96/935]; [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)][/us/pl/101/510/s1405/a/1], Nov. 5, 1990, [104 Stat. 1676][/us/stat/104/1676]; [Pub. L. 102–484, div. A, title X, § 1054(e)(2)][/us/pl/102/484/s1054/e/2], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 104–186, title II, § 219(b)(1)][/us/pl/104/186/s219/b/1], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 935][/us/stat/96/935]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(1), Nov. 5, 1990, [104 Stat. 1676][/us/stat/104/1676]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(e)(2), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 219(b)(1), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
 
 <table>
 
@@ -117,7 +117,7 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
  __Effective Date of 1990 Amendment; Transitional Provisions__ 
 
-[Pub. L. 101–510, div. A, title XIV, § 1405(b)][/us/pl/101/510/s1405/b], Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679], as amended by [Pub. L. 102–484, div. A, title X, § 1004][/us/pl/102/484/s1004], Oct. 23, 1992, [106 Stat. 2481][/us/stat/106/2481], provided that:
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(b), Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679], as amended by [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1004, Oct. 23, 1992, [106 Stat. 2481][/us/stat/106/2481], provided that:
 
 >     “(1)  __Application of amendments__  __.—__ 
 
@@ -198,18 +198,18 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F935
-[/us/pl/101/510/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1676
-[/us/pl/102/484/s1054/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fe%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/104/186/s219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs219%2Fb%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/510/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fb
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1679
-[/us/pl/102/484/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1004
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2481
 [/us/usc/t31/s1552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa%2F1
 [/us/usc/t31/s1552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa%2F2

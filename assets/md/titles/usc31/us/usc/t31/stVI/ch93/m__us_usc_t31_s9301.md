@@ -21,7 +21,7 @@
 
     (2) “eligible obligation” means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1046][/us/stat/96/1046]; [Pub. L. 109–351, title IX, § 901(a)][/us/pl/109/351/s901/a], Oct. 13, 2006, [120 Stat. 2007][/us/stat/120/2007].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1046][/us/stat/96/1046]; [Pub. L. 109–351, title IX][/us/pl/109/351/tIX], § 901(a), Oct. 13, 2006, [120 Stat. 2007][/us/stat/120/2007].)
 
 <table>
 
@@ -82,7 +82,7 @@ Source (Statutes at Large)  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1046
-[/us/pl/109/351/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs901%2Fa
+[/us/pl/109/351/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIX
 [/us/stat/120/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2007
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 

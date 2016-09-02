@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    1983—[Pub. L. 98–169, § 6][/us/pl/98/169/s6], Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115], added items 6105 and 6106, and struck out item 6105 “Authorization of appropriations”.
+    1983—[Pub. L. 98–169][/us/pl/98/169], § 6, Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115], added items 6105 and 6106, and struck out item 6105 “Authorization of appropriations”.
 
-    [Pub. L. 97–452, § 1(23)(B)][/us/pl/97/452/s1/23/B], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478], added item 6102a.
+    [Pub. L. 97–452][/us/pl/97/452], § 1(23)(B), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478], added item 6102a.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/98/169/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs6
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1115
-[/us/pl/97/452/s1/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F23%2FB
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
 
 

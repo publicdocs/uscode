@@ -275,15 +275,15 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–339, § 7(b)(2)][/us/pl/105/339/s7/b/2], Oct. 31, 1998, [112 Stat. 3189][/us/stat/112/3189], added item 1354.
+    1998—[Pub. L. 105–339][/us/pl/105/339], § 7(b)(2), Oct. 31, 1998, [112 Stat. 3189][/us/stat/112/3189], added item 1354.
 
-    1990—[Pub. L. 101–280, § 4(b)(2)][/us/pl/101/280/s4/b/2], May 4, 1990, [104 Stat. 157][/us/stat/104/157], redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
+    1990—[Pub. L. 101–280][/us/pl/101/280], § 4(b)(2), May 4, 1990, [104 Stat. 157][/us/stat/104/157], redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
 
-    1989—[Pub. L. 101–194, title III, § 302(b)][/us/pl/101/194/s302/b], Nov. 30, 1989, [103 Stat. 1746][/us/stat/103/1746], added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
+    1989—[Pub. L. 101–194, title III][/us/pl/101/194/tIII], § 302(b), Nov. 30, 1989, [103 Stat. 1746][/us/stat/103/1746], added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
 
-    [Pub. L. 101–121, title III, § 319(a)(2)][/us/pl/101/121/s319/a/2], Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
+    [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 319(a)(2), Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
 
-    1986—[Pub. L. 99–550, § 1(b)][/us/pl/99/550/s1/b], Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070], substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
+    1986—[Pub. L. 99–550][/us/pl/99/550], § 1(b), Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070], substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
 
 ----------
 
@@ -292,15 +292,15 @@ SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES  </td>
 ----------
 ----------
 
-[/us/pl/105/339/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs7%2Fb%2F2
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3189
-[/us/pl/101/280/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fb%2F2
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F157
-[/us/pl/101/194/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs302%2Fb
+[/us/pl/101/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIII
 [/us/stat/103/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1746
-[/us/pl/101/121/s319/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs319%2Fa%2F2
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F756
-[/us/pl/99/550/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550%2Fs1%2Fb
+[/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/stat/100/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3070
 
 

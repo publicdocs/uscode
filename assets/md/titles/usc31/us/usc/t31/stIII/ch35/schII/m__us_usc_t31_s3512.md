@@ -159,7 +159,7 @@
 
     (g) The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 97–452, § 1(12)][/us/pl/97/452/s1/12], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 101–576, title III, § 301(a)][/us/pl/101/576/s301/a], Nov. 15, 1990, [104 Stat. 2847][/us/stat/104/2847]; [Pub. L. 103–272, § 4(f)(1)(J)][/us/pl/103/272/s4/f/1/J], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII, § 805(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392; [Pub. L. 113–101, § 4][/us/pl/113/101/s4], May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 97–452][/us/pl/97/452], § 1(12), Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 301(a), Nov. 15, 1990, [104 Stat. 2847][/us/stat/104/2847]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(J), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VIII, § 805(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392; [Pub. L. 113–101][/us/pl/113/101], § 4, May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
 
 <table>
 
@@ -401,9 +401,9 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
  __References in Text__ 
 
-    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+    The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is [Pub. L. 97–255][/us/pl/97/255], Sept. 8, 1982, [96 Stat. 814][/us/stat/96/814], which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
-    The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
+    The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VIII\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
     The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of [Pub. L. 101–576][/us/pl/101/576], which added subsec. (a) and was approved Nov. 15, 1990.
 
@@ -413,9 +413,9 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
     1996—Subsec. (a)(2)(E), (F). [Pub. L. 104–208][/us/pl/104/208] added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    1994—Subsec. (c)(1). [Pub. L. 103–272, § 4(f)(1)(J)(i)][/us/pl/103/272/s4/f/1/J/i], substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
+    1994—Subsec. (c)(1). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
 
-    Subsec. (d)(1), (2). [Pub. L. 103–272, § 4(f)(1)(J)(ii)][/us/pl/103/272/s4/f/1/J/ii], substituted “subsection (c)” for “subsection (b)” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(J)(ii), substituted “subsection (c)” for “subsection (b)” wherever appearing.
 
     1990—[Pub. L. 101–576][/us/pl/101/576] substituted “and other financial management reports and plans” for “systems” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
 
@@ -439,7 +439,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
  __Federal Financial Management Improvement__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–389, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VIII\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–389, provided that:
 
 > “SEC. 801. __SHORT TITLE\[.\]__ 
 
@@ -635,7 +635,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >     “(a) __\[Amended__  __[__  __section 4001 of Pub. L. 104–106__  __][/us/pl/104/106/s4001]__  __, set out as a Short Title of 1996 Act note under__  __[__  __section 101 of Title 41__  __][/us/usc/t41/s101]__  __, Public Contracts.\]__ 
 
->     “(b) __\[Amended__  __[__  __section 5001 of Pub. L. 104–106__  __][/us/pl/104/106/s5001]__  __, div. E,__  __Feb. 10, 1996__  __,__  __[__  __110 Stat. 679__  __][/us/stat/110/679]__  __, subsequently repealed by__  __[__  __Pub. L. 107–217, § 6(b)__  __][/us/pl/107/217/s6/b]__  __,__  __Aug. 21, 2002__  __,__  __[__  __116 Stat. 1304__  __][/us/stat/116/1304]__  __.\]__ 
+>     “(b) __\[Amended__  __[__  __section 5001 of Pub. L. 104–106__  __][/us/pl/104/106/s5001]__  __, div. E,__  __Feb. 10, 1996__  __,__  __[__  __110 Stat. 679__  __][/us/stat/110/679]__  __, subsequently repealed by__  __[__  __Pub. L. 107–217__  __][/us/pl/107/217]__  __, § 6(b),__  __Aug. 21, 2002__  __,__  __[__  __116 Stat. 1304__  __][/us/stat/116/1304]__  __.\]__ 
 
 >     “(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Act note set out under [section 101 of Title 41][/us/usc/t41/s101]\].”
 
@@ -657,29 +657,29 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 [/us/usc/t31/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3511
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F959
-[/us/pl/97/452/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F12
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2468
-[/us/pl/101/576/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs301%2Fa
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2847
-[/us/pl/103/272/s4/f/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FJ
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/113/101/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs4
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/stat/128/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1153
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t31/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3511
 [/us/pl/97/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F255
 [/us/stat/96/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F814
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/272/s4/f/1/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FJ%2Fi
-[/us/pl/103/272/s4/f/1/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FJ%2Fii
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
@@ -688,7 +688,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
@@ -708,7 +708,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/104/106/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5001
 [/us/stat/110/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F679
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 

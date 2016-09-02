@@ -31,7 +31,7 @@
 
         (3) land in Utah acquired by the United States for Federal land, royalties, or other assets if, at the time of such acquisition, a unit of general local government was entitled under applicable State law to receive payments in lieu of taxes from the State of Utah for such land: Provided, however, That no payment under this paragraph shall exceed the payment that would have been made under State law if such land had not been acquired.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1032][/us/stat/96/1032]; [Pub. L. 103–93, § 10(b)][/us/pl/103/93/s10/b], Oct. 1, 1993, [107 Stat. 999][/us/stat/107/999]; [Pub. L. 103–397, § 4][/us/pl/103/397/s4], Oct. 22, 1994, [108 Stat. 4157][/us/stat/108/4157]; [Pub. L. 104–333, div. I, title X, § 1033(b)][/us/pl/104/333/s1033/b], Nov. 12, 1996, [110 Stat. 4240][/us/stat/110/4240].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1032][/us/stat/96/1032]; [Pub. L. 103–93][/us/pl/103/93], § 10(b), Oct. 1, 1993, [107 Stat. 999][/us/stat/107/999]; [Pub. L. 103–397][/us/pl/103/397], § 4, Oct. 22, 1994, [108 Stat. 4157][/us/stat/108/4157]; [Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1033(b), Nov. 12, 1996, [110 Stat. 4240][/us/stat/110/4240].)
 
 <table>
 
@@ -147,7 +147,7 @@ Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, 
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–397, § 5(a)][/us/pl/103/397/s5/a], Oct. 22, 1994, [108 Stat. 4158][/us/stat/108/4158], provided that:
+[Pub. L. 103–397][/us/pl/103/397], § 5(a), Oct. 22, 1994, [108 Stat. 4158][/us/stat/108/4158], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -166,11 +166,11 @@ Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, 
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1032
-[/us/pl/103/93/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F93%2Fs10%2Fb
+[/us/pl/103/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F93
 [/us/stat/107/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F999
-[/us/pl/103/397/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397%2Fs4
+[/us/pl/103/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397
 [/us/stat/108/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4157
-[/us/pl/104/333/s1033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1033%2Fb
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4240
 [/us/usc/t31/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1606
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
@@ -178,7 +178,7 @@ Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, 
 [/us/usc/t43/s1181a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181a
 [/us/stat/53/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F753
 [/us/pl/103/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F93
-[/us/pl/103/397/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397%2Fs5%2Fa
+[/us/pl/103/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397
 [/us/stat/108/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4158
 [/us/usc/t31/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6903
 [/us/usc/t31/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6903

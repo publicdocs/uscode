@@ -39,7 +39,7 @@
 
     (c) Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 911][/us/stat/96/911]; [Pub. L. 99–177, title II, § 242][/us/pl/99/177/s242], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 911][/us/stat/96/911]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 242, Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063].)
 
 <table>
 
@@ -107,13 +107,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(g)(1st–3d sentences); added July 
 
  __Amendments__ 
 
-    1985—Subsec. (b). [Pub. L. 99–177, § 242(a)][/us/pl/99/177/s242/a], struck out “April 11 and” before “July 16”.
+    1985—Subsec. (b). [Pub. L. 99–177][/us/pl/99/177], § 242(a), struck out “April 11 and” before “July 16”.
 
-    Subsec. (c). [Pub. L. 99–177, § 242(b)][/us/pl/99/177/s242/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–177][/us/pl/99/177], § 242(b), added subsec. (c).
 
  __Effective and Termination Dates of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of Title 2][/us/usc/t2/s900], The Congress, prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of Title 2][/us/usc/t2/s900], The Congress, prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -125,14 +125,14 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(g)(1st–3d sentences); added July 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F911
-[/us/pl/99/177/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs242
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1063
-[/us/pl/99/177/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs242%2Fa
-[/us/pl/99/177/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs242%2Fb
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

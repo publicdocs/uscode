@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall make information in a report filed under this subchapter available to an agency, including any State financial institutions supervisory agency, United States intelligence agency or self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, upon request of the head of the agency or organization. The report shall be available for a purpose that is consistent with this subchapter. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes or by United States intelligence agencies. However, a report and records of reports are exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], and may not be disclosed under any State, local, tribal, or territorial “freedom of information”, “open government”, or similar law.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 102–550, title XV, § 1506][/us/pl/102/550/s1506], Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055]; [Pub. L. 107–56, title III, § 358(c)][/us/pl/107/56/s358/c], Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326]; [Pub. L. 112–74, div. C, title I, § 119][/us/pl/112/74/s119], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1506, Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(c), Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326]; [Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], § 119, Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
 
 <table>
 
@@ -101,11 +101,11 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 203(j), 212, 84 Stat. 1120, 1121.  </td>
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F999
-[/us/pl/102/550/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1506
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4055
-[/us/pl/107/56/s358/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fc
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F326
-[/us/pl/112/74/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs119
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F891
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552

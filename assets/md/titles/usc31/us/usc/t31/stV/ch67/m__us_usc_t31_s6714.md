@@ -37,11 +37,11 @@
 
     The Secretary shall submit a copy of a compliance agreement to each person who filed a complaint referred to in section 6716(b), or, if an agreement under subsection (a)(1), each person who filed a complaint with a governmental authority, about a failure to comply with section 6711(a) or (b). The Secretary shall submit the copy by the 15th day after an agreement is made. However, if the Secretary approves an agreement under subsection (a)(1) after the agreement is made, the Secretary may submit the copy by the 15th day after approval of the agreement.
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1877][/us/stat/108/1877].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1877][/us/stat/108/1877].)
 
  __Prior Provisions__ 
 
-    A prior section 6714, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1023][/us/stat/96/1023]; [Pub. L. 98–185, § 6][/us/pl/98/185/s6], Nov. 30, 1983, [97 Stat. 1310][/us/stat/97/1310], related to public hearings, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6714, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1023][/us/stat/96/1023]; [Pub. L. 98–185][/us/pl/98/185], § 6, Nov. 30, 1983, [97 Stat. 1310][/us/stat/97/1310], related to public hearings, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
 ----------
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1877
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1023
-[/us/pl/98/185/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185%2Fs6
+[/us/pl/98/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185
 [/us/stat/97/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1310
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 
 

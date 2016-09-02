@@ -69,7 +69,7 @@
 
     (e) While carrying out a member’s duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 900][/us/stat/96/900]; [Pub. L. 100–426, title I][/us/pl/100/426], §§ 101, 102(b), Sept. 9, 1988, [102 Stat. 1598][/us/stat/102/1598], 1599; [Pub. L. 103–283, title III, § 312(e)(4)(A)][/us/pl/103/283/s312/e/4/A], July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 900][/us/stat/96/900]; [Pub. L. 100–426, title I][/us/pl/100/426/tI], §§ 101, 102(b), Sept. 9, 1988, [102 Stat. 1598][/us/stat/102/1598], 1599; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 312(e)(4)(A), July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -191,15 +191,15 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29.  </td>
 
     1994—Subsec. (a)(1). [Pub. L. 103–283][/us/pl/103/283] inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”. See Application of Provisions Amended by [Pub. L. 103–283][/us/pl/103/283] note below.
 
-    1988—Subsec. (a). [Pub. L. 100–426, § 101(a)][/us/pl/100/426/s101/a], struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
+    1988—Subsec. (a). [Pub. L. 100–426][/us/pl/100/426], § 101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
 
-    Subsec. (b)(1). [Pub. L. 100–426, § 101(b)][/us/pl/100/426/s101/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “from a written list of candidates, submitted to the Comptroller General in a way and at the time the Comptroller General requires, by any organization the Comptroller General believes is composed primarily of individuals experienced in adjudicating or arbitrating personnel matters; and”.
+    Subsec. (b)(1). [Pub. L. 100–426][/us/pl/100/426], § 101(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “from a written list of candidates, submitted to the Comptroller General in a way and at the time the Comptroller General requires, by any organization the Comptroller General believes is composed primarily of individuals experienced in adjudicating or arbitrating personnel matters; and”.
 
-    Subsec. (c)(1). [Pub. L. 100–426, § 101(c)(1)][/us/pl/100/426/s101/c/1], (2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and substituted “5” for “3” in two places.
+    Subsec. (c)(1). [Pub. L. 100–426][/us/pl/100/426], § 101(c)(1), (2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and substituted “5” for “3” in two places.
 
-    Subsec. (c)(2). [Pub. L. 100–426, § 101(c)(3)][/us/pl/100/426/s101/c/3], added par. (2).
+    Subsec. (c)(2). [Pub. L. 100–426][/us/pl/100/426], § 101(c)(3), added par. (2).
 
-    Subsec. (e). [Pub. L. 100–426, § 102(b)][/us/pl/100/426/s102/b], substituted “basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule” for “pay at a rate equal to the daily rate for GS–18”.
+    Subsec. (e). [Pub. L. 100–426][/us/pl/100/426], § 102(b), substituted “basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule” for “pay at a rate equal to the daily rate for GS–18”.
 
  __Change of Name__ 
 
@@ -207,7 +207,7 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29.  </td>
 
  __Application of Provisions Amended by Pub. L. 103–283__ 
 
-[Pub. L. 104–1, title V, § 504(c)(2)][/us/pl/104/1/s504/c/2], Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], provided that: 
+[Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(c)(2), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], provided that: 
 
 > “The provisions of sections 751, 753, and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act \[[Pub. L. 103–283][/us/pl/103/283]\], shall be applied and administered as if such section 312(e) \[amending this section and sections 753 and 755 of this title and enacting [section 1831(e) of Title 2][/us/usc/t2/s1831/e], The Congress\] (and the amendments made by such section) had not been enacted.”
 
@@ -226,11 +226,11 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29.  </td>
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F900
-[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtI
 [/us/stat/102/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1598
-[/us/pl/103/283/s312/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312%2Fe%2F4%2FA
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1446
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t31/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs772
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
@@ -238,14 +238,14 @@ Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29.  </td>
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
-[/us/pl/100/426/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs101%2Fa
-[/us/pl/100/426/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs101%2Fb
-[/us/pl/100/426/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs101%2Fc%2F1
-[/us/pl/100/426/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs101%2Fc%2F3
-[/us/pl/100/426/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs102%2Fb
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/104/1/s504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fc%2F2
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/usc/t2/s1831/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1831%2Fe

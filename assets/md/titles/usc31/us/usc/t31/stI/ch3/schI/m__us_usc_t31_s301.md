@@ -39,7 +39,7 @@
 
     (g) The Department shall have a seal.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 878][/us/stat/96/878]; [Pub. L. 98–594, § 1(a)][/us/pl/98/594/s1/a], Oct. 30, 1984, [98 Stat. 3129][/us/stat/98/3129]; [Pub. L. 99–190, § 141][/us/pl/99/190/s141], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 103–211, title II, § 2003(a)][/us/pl/103/211/s2003/a], Feb. 12, 1994, [108 Stat. 24][/us/stat/108/24]; [Pub. L. 108–177, title I, § 105(d)(2)][/us/pl/108/177/s105/d/2], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 110–49, § 11(a)][/us/pl/110/49/s11/a], July 26, 2007, [121 Stat. 260][/us/stat/121/260]; [Pub. L. 110–343, div. A, title I, § 101(a)(3)(B)(ii)][/us/pl/110/343/s101/a/3/B/ii], Oct. 3, 2008, [122 Stat. 3768][/us/stat/122/3768]; [Pub. L. 112–166, § 2][/us/pl/112/166/s2](l), Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 878][/us/stat/96/878]; [Pub. L. 98–594][/us/pl/98/594], § 1(a), Oct. 30, 1984, [98 Stat. 3129][/us/stat/98/3129]; [Pub. L. 99–190][/us/pl/99/190], § 141, Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 103–211, title II][/us/pl/103/211/tII], § 2003(a), Feb. 12, 1994, [108 Stat. 24][/us/stat/108/24]; [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(d)(2), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 110–49][/us/pl/110/49], § 11(a), July 26, 2007, [121 Stat. 260][/us/stat/121/260]; [Pub. L. 110–343, div. A, title I][/us/pl/110/343/dA/tI], § 101(a)(3)(B)(ii), Oct. 3, 2008, [122 Stat. 3768][/us/stat/122/3768]; [Pub. L. 112–166][/us/pl/112/166], § 2(l), Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
 
 <table>
 
@@ -387,9 +387,9 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
  __Amendments__ 
 
-    2012—Subsec. (d). [Pub. L. 112–166, § 2][/us/pl/112/166/s2](l)(2), substituted “and 2 Deputy Under Secretaries” for “2 Deputy Under Secretaries, and a Treasurer of the United States” and inserted “and a Treasurer of the United States appointed by the President” after “Fiscal Assistant Secretary appointed by the Secretary”.
+    2012—Subsec. (d). [Pub. L. 112–166][/us/pl/112/166], § 2(l)(2), substituted “and 2 Deputy Under Secretaries” for “2 Deputy Under Secretaries, and a Treasurer of the United States” and inserted “and a Treasurer of the United States appointed by the President” after “Fiscal Assistant Secretary appointed by the Secretary”.
 
-    Subsec. (e). [Pub. L. 112–166, § 2][/us/pl/112/166/s2](l)(1), substituted “8 Assistant Secretaries” for “10 Assistant Secretaries” and inserted after first sentence “The Department shall have 2 Assistant Secretaries not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management.”
+    Subsec. (e). [Pub. L. 112–166][/us/pl/112/166], § 2(l)(1), substituted “8 Assistant Secretaries” for “10 Assistant Secretaries” and inserted after first sentence “The Department shall have 2 Assistant Secretaries not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management.”
 
     2008—Subsec. (e). [Pub. L. 110–343][/us/pl/110/343] substituted “10” for “9”.
 
@@ -413,7 +413,7 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–203, title V, § 501][/us/pl/111/203/s501], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580], provided that: 
+[Pub. L. 111–203, title V][/us/pl/111/203/tV], § 501, July 21, 2010, [124 Stat. 1580][/us/stat/124/1580], provided that: 
 
 > “This subtitle \[subtitle A (§§ 501, 502) of title V of [Pub. L. 111–203][/us/pl/111/203], enacting sections 313 and 314 of this title, amending [section 321 of this title][/us/usc/t31/s321], and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively\] may be cited as the ‘Federal Insurance Office Act of 2010’.”
 
@@ -423,7 +423,7 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
  __Office of Secretary of the Treasury; Compensation__ 
 
-[Pub. L. 105–61, title I, § 116][/us/pl/105/61/s116], Oct. 10, 1997, [111 Stat. 1284][/us/stat/111/1284], provided that:
+[Pub. L. 105–61, title I][/us/pl/105/61/tI], § 116, Oct. 10, 1997, [111 Stat. 1284][/us/stat/111/1284], provided that:
 
 >     “(a)
 
@@ -445,11 +445,11 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
  __Office of the Undersecretary for Enforcement__ 
 
-[Pub. L. 108–447, div. H, title II, § 222(b)(2)][/us/pl/108/447/s222/b/2], Dec. 8, 2004, [118 Stat. 3245][/us/stat/118/3245], provided that: 
+[Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 222(b)(2), Dec. 8, 2004, [118 Stat. 3245][/us/stat/118/3245], provided that: 
 
 > “The Office of the Undersecretary for Enforcement of the Department of the Treasury, established in accordance with section 103 \[105\] of the Treasury Department Appropriations Act, 1994 ([Public Law 103–123][/us/pl/103/123]) \[set out below\] is abolished, and all rights, duties, and responsibilities of that office are transferred on the date of enactment of this Act \[Dec. 8, 2004\] to the Office of the Undersecretary for Terrorism and Financial Crimes of the Department of the Treasury in accordance with this section \[enacting [section 313 of this title][/us/usc/t31/s313] and amending [section 311 of this title][/us/usc/t31/s311]\], and the amendments made by this section, except as otherwise specifically provided in this section or the amendments made by this section, or other applicable law.”
 
-[Pub. L. 103–123, title I, § 105][/us/pl/103/123/s105], Oct. 28, 1993, [107 Stat. 1234][/us/stat/107/1234], provided that: 
+[Pub. L. 103–123, title I][/us/pl/103/123/tI], § 105, Oct. 28, 1993, [107 Stat. 1234][/us/stat/107/1234], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”
 
@@ -494,23 +494,23 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F878
-[/us/pl/98/594/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F594%2Fs1%2Fa
+[/us/pl/98/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F594
 [/us/stat/98/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3129
-[/us/pl/99/190/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs141
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1324
-[/us/pl/103/211/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2Fs2003%2Fa
+[/us/pl/103/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2FtII
 [/us/stat/108/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F24
-[/us/pl/108/177/s105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fd%2F2
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/110/49/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs11%2Fa
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/stat/121/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F260
-[/us/pl/110/343/s101/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs101%2Fa%2F3%2FB%2Fii
+[/us/pl/110/343/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtI
 [/us/stat/122/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3768
-[/us/pl/112/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/pl/112/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2
-[/us/pl/112/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
@@ -523,22 +523,22 @@ In subsection (e), the words “of the Treasury” in 31:1006 and 1007 are omitt
 [/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/pl/110/49/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs12
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/111/203/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs501
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1580
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t31/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs321
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/105/61/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs116
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1284
 [/us/pl/103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F2
 [/us/stat/107/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F4
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
-[/us/pl/108/447/s222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs222%2Fb%2F2
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3245
 [/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
 [/us/usc/t31/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs313
 [/us/usc/t31/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs311
-[/us/pl/103/123/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs105
+[/us/pl/103/123/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtI
 [/us/stat/107/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1234
 [/us/pl/103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F2
 [/us/stat/107/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F4

@@ -31,7 +31,7 @@
 
     (c) Laws on mints, officers and employees of mints, and punishment of offenses related to mints and minting coins apply to assay offices, as applicable.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 100–274, § 2(a)][/us/pl/100/274/s2/a]–(c)(2), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 224, 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, §§ 503, 522\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–344, 3009–347; [Pub. L. 104–329, title III, § 304][/us/pl/104/329/s304], Oct. 20, 1996, [110 Stat. 4015][/us/stat/110/4015].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 100–274][/us/pl/100/274], § 2(a)–(c)(2), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], §§ 224, 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, §§ 503, 522\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–344, 3009–347; [Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 304, Oct. 20, 1996, [110 Stat. 4015][/us/stat/110/4015].)
 
 <table>
 
@@ -263,21 +263,21 @@ Aug. 20, 1963, Pub. L. 88–102, § 2, 77 Stat. 129.  </td>
 
  __Amendments__ 
 
-    1996—Subsecs. (c), (d). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, §§ 503, 522\], and [Pub. L. 104–329][/us/pl/104/329], amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
+    1996—Subsecs. (c), (d). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, §§ 503, 522\], and [Pub. L. 104–329][/us/pl/104/329], amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
 
-    1992—Subsec. (a). [Pub. L. 102–390, § 225(b)(3)][/us/pl/102/390/s225/b/3], substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
+    1992—Subsec. (a). [Pub. L. 102–390][/us/pl/102/390], § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 102–390, § 225(b)(4)][/us/pl/102/390/s225/b/4], substituted “United States Mint” for “Bureau”.
+    Subsec. (b). [Pub. L. 102–390][/us/pl/102/390], § 225(b)(4), substituted “United States Mint” for “Bureau”.
 
-    Subsec. (e). [Pub. L. 102–390, § 224][/us/pl/102/390/s224], struck out subsec. (e) which read as follows: “The Secretary shall operate, maintain, and have custody of, the mint at Philadelphia. However, the Administrator of General Services shall make repairs and improvements to the mint.”
+    Subsec. (e). [Pub. L. 102–390][/us/pl/102/390], § 224, struck out subsec. (e) which read as follows: “The Secretary shall operate, maintain, and have custody of, the mint at Philadelphia. However, the Administrator of General Services shall make repairs and improvements to the mint.”
 
-    1988—Subsec. (a)(3). [Pub. L. 100–274, § 2(b)][/us/pl/100/274/s2/b], substituted “mint at West Point, New York” for “assay office at New York, New York”.
+    1988—Subsec. (a)(3). [Pub. L. 100–274][/us/pl/100/274], § 2(b), substituted “mint at West Point, New York” for “assay office at New York, New York”.
 
-    Subsec. (a)(4). [Pub. L. 100–274, § 2(a)][/us/pl/100/274/s2/a], substituted “mint” for “assay office”.
+    Subsec. (a)(4). [Pub. L. 100–274][/us/pl/100/274], § 2(a), substituted “mint” for “assay office”.
 
-    Subsec. (b). [Pub. L. 100–274, § 2(c)(1)][/us/pl/100/274/s2/c/1], struck out “and assay offices, except that only bars may be made at the assay offices” before period at end of first sentence.
+    Subsec. (b). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(1), struck out “and assay offices, except that only bars may be made at the assay offices” before period at end of first sentence.
 
-    Subsec. (c). [Pub. L. 100–274, § 2(c)(2)][/us/pl/100/274/s2/c/2], substituted “Each mint has” for “Each mint and the assay office at New York have”.
+    Subsec. (c). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(2), substituted “Each mint has” for “Each mint and the assay office at New York have”.
 
  __Authority of Special Police Officers__ 
 
@@ -292,23 +292,23 @@ Aug. 20, 1963, Pub. L. 88–102, § 2, 77 Stat. 129.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F988
-[/us/pl/100/274/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fa
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F48
-[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1629
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/329/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs304
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4015
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329
-[/us/pl/102/390/s225/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F3
-[/us/pl/102/390/s225/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F4
-[/us/pl/102/390/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs224
-[/us/pl/100/274/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fb
-[/us/pl/100/274/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fa
-[/us/pl/100/274/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F1
-[/us/pl/100/274/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F2
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t31/s5141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5141
 

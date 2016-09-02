@@ -121,7 +121,7 @@
 
     (j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2329][/us/stat/98/2329]; amended [Pub. L. 103–272, § 4(f)(1)(W)][/us/pl/103/272/s4/f/1/W], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1399][/us/stat/110/1399].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2329][/us/stat/98/2329]; amended [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(W), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1399][/us/stat/110/1399].)
 
  __References in Text__ 
 
@@ -131,11 +131,11 @@
 
     1996—[Pub. L. 104–156][/us/pl/104/156] reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
-    1994—Subsec. (b)(2). [Pub. L. 103–272, § 4(f)(1)(W)][/us/pl/103/272/s4/f/1/W], substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
+    1994—Subsec. (b)(2). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
 
-    Subsec. (d)(5), (6). [Pub. L. 103–272, § 4(f)(1)(W)(iii)][/us/pl/103/272/s4/f/1/W/iii], redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
+    Subsec. (d)(5), (6). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
 
-    Subsec. (g). [Pub. L. 103–272, § 4(f)(1)(W)(iv)][/us/pl/103/272/s4/f/1/W/iv], substituted “section 3512(c)” for “section 3512(b)”.
+    Subsec. (g). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(W)(iv), substituted “section 3512(c)” for “section 3512(b)”.
 
  __Change of Name__ 
 
@@ -150,17 +150,17 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2329
-[/us/pl/103/272/s4/f/1/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FW
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1399
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/usc/t31/s7507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7507
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
-[/us/pl/103/272/s4/f/1/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FW
-[/us/pl/103/272/s4/f/1/W/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FW%2Fiii
-[/us/pl/103/272/s4/f/1/W/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FW%2Fiv
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 
 

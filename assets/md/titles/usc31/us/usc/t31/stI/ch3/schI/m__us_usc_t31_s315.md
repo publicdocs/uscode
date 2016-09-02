@@ -17,7 +17,7 @@
 
     When the term of office of an officer of the Department of the Treasury ends, the officer may continue to serve until a successor is appointed and qualified.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 880][/us/stat/96/880], § 309; renumbered § 310, [Pub. L. 101–73, title III, § 307(a)(1)][/us/pl/101/73/s307/a/1], Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352]; renumbered § 311, [Pub. L. 107–56, title III, § 361(a)(1)][/us/pl/107/56/s361/a/1], Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; renumbered § 312, [Pub. L. 108–177, title I, § 105(a)(1)(A)][/us/pl/108/177/s105/a/1/A], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; renumbered § 315, [Pub. L. 111–203, title V, § 502(a)(1)][/us/pl/111/203/s502/a/1], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 880][/us/stat/96/880], § 309; renumbered § 310, [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 307(a)(1), Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352]; renumbered § 311, [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 361(a)(1), Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; renumbered § 312, [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(a)(1)(A), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; renumbered § 315, [Pub. L. 111–203, title V][/us/pl/111/203/tV], § 502(a)(1), July 21, 2010, [124 Stat. 1580][/us/stat/124/1580].)
 
 <table>
 
@@ -88,13 +88,13 @@ Mar. 2, 1895, ch. 187 (1st par. under heading “Treasury Department”), 28 Sta
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F880
-[/us/pl/101/73/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fa%2F1
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F352
-[/us/pl/107/56/s361/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs361%2Fa%2F1
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F329
-[/us/pl/108/177/s105/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fa%2F1%2FA
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/111/203/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fa%2F1
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1580
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t31/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs312

@@ -999,7 +999,7 @@
 
         Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 981][/us/stat/96/981]; [Pub. L. 97–452, § 1(20)][/us/pl/97/452/s1/20], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 99–61, title II, § 202][/us/pl/99/61/s202], July 9, 1985, [99 Stat. 115][/us/stat/99/115]; [Pub. L. 99–185, § 2(a)][/us/pl/99/185/s2/a], (b), Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177]; [Pub. L. 100–274][/us/pl/100/274], §§ 4(a), 6, Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 226(a), 227, 228, Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–272, § 4(f)(1)(R)][/us/pl/103/272/s4/f/1/R], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, §§ 523, 524, 529(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347 to 3009–349; [Pub. L. 105–124][/us/pl/105/124], §§ 3, 4(b)–(d), Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], 2536; [Pub. L. 105–176][/us/pl/105/176], May 29, 1998, [112 Stat. 104][/us/stat/112/104]; [Pub. L. 106–445, § 2(b)][/us/pl/106/445/s2/b], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I][/us/pl/108/15], §§ 102, 103(d)(1), Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], 619; [Pub. L. 109–145, title I][/us/pl/109/145], §§ 102–104, title II, § 201, Dec. 22, 2005, [119 Stat. 2665–2669][/us/stat/119/2665-2669], 2672; [Pub. L. 110–82][/us/pl/110/82], §§ 2, 3, Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], 779; [Pub. L. 110–147][/us/pl/110/147], Dec. 21, 2007, [121 Stat. 1817][/us/stat/121/1817]; [Pub. L. 110–161, div. D, title VI][/us/pl/110/161], §§ 622–623(b), Dec. 26, 2007, [121 Stat. 2016][/us/stat/121/2016], 2018; [Pub. L. 110–456, title I, § 102][/us/pl/110/456/s102], title II, § 201, Dec. 23, 2008, [122 Stat. 5039][/us/stat/122/5039], 5042; [Pub. L. 111–8, div. D, title VI, § 616][/us/pl/111/8/s616], Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677]; [Pub. L. 111–302][/us/pl/111/302], §§ 4, 5, Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273]; [Pub. L. 111–303, § 2][/us/pl/111/303/s2], Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275]; [Pub. L. 114–94, div. G, title LXXIII, § 73001(1)][/us/pl/114/94/s73001/1], Dec. 4, 2015, [129 Stat. 1785][/us/stat/129/1785].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 981][/us/stat/96/981]; [Pub. L. 97–452][/us/pl/97/452], § 1(20), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 99–61, title II][/us/pl/99/61/tII], § 202, July 9, 1985, [99 Stat. 115][/us/stat/99/115]; [Pub. L. 99–185][/us/pl/99/185], § 2(a), (b), Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177]; [Pub. L. 100–274][/us/pl/100/274], §§ 4(a), 6, Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], §§ 226(a), 227, 228, Oct. 6, 1992, [106 Stat. 1630][/us/stat/106/1630]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(R), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, §§ 523, 524, 529(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347 to 3009–349; [Pub. L. 105–124][/us/pl/105/124], §§ 3, 4(b)–(d), Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], 2536; [Pub. L. 105–176][/us/pl/105/176], May 29, 1998, [112 Stat. 104][/us/stat/112/104]; [Pub. L. 106–445][/us/pl/106/445], § 2(b), Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 108–15, title I][/us/pl/108/15/tI], §§ 102, 103(d)(1), Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], 619; [Pub. L. 109–145, title I][/us/pl/109/145/tI], §§ 102–104, title II, § 201, Dec. 22, 2005, [119 Stat. 2665–2669][/us/stat/119/2665-2669], 2672; [Pub. L. 110–82][/us/pl/110/82], §§ 2, 3, Sept. 20, 2007, [121 Stat. 777][/us/stat/121/777], 779; [Pub. L. 110–147][/us/pl/110/147], Dec. 21, 2007, [121 Stat. 1817][/us/stat/121/1817]; [Pub. L. 110–161, div. D, title VI][/us/pl/110/161/dD/tVI], §§ 622–623(b), Dec. 26, 2007, [121 Stat. 2016][/us/stat/121/2016], 2018; [Pub. L. 110–456, title I][/us/pl/110/456/tI], § 102, title II, § 201, Dec. 23, 2008, [122 Stat. 5039][/us/stat/122/5039], 5042; [Pub. L. 111–8, div. D, title VI][/us/pl/111/8/dD/tVI], § 616, Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677]; [Pub. L. 111–302][/us/pl/111/302], §§ 4, 5, Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273]; [Pub. L. 111–303][/us/pl/111/303], § 2, Dec. 14, 2010, [124 Stat. 3275][/us/stat/124/3275]; [Pub. L. 114–94, div. G, title LXXIII][/us/pl/114/94/dG/tLXXIII], § 73001(1), Dec. 4, 2015, [129 Stat. 1785][/us/stat/129/1785].)
 
 <table>
 
@@ -1313,7 +1313,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
     The date of enactment of the United States $1 Coin Act of 1997, referred to in subsec. (b), is the date of enactment of [Pub. L. 105–124][/us/pl/105/124], which was approved Dec. 1, 1997.
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (l)(6)(C), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (l)(6)(C), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
     This Act, referred to in subsec. (o)(6), probably means [Pub. L. 109–145][/us/pl/109/145], Dec. 22, 2005, [119 Stat. 2664][/us/stat/119/2664], known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 5101 of this title][/us/usc/t31/s5101] and Tables.
 
@@ -1327,99 +1327,99 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Amendments__ 
 
-    2015—Subsec. (q)(3) to (8). [Pub. L. 114–94, § 73001(1)(A)][/us/pl/114/94/s73001/1/A], redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
+    2015—Subsec. (q)(3) to (8). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
 
-    Subsec. (t)(6)(B). [Pub. L. 114–94, § 73001(1)(B)][/us/pl/114/94/s73001/1/B], substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+    Subsec. (t)(6)(B). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(B), substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
 
-    Subsec. (v)(1). [Pub. L. 114–94, § 73001(1)(C)(i)][/us/pl/114/94/s73001/1/C/i], substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
+    Subsec. (v)(1). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(C)(i), substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
 
-    Subsec. (v)(2)(A). [Pub. L. 114–94, § 73001(1)(C)(ii)][/us/pl/114/94/s73001/1/C/ii], substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
+    Subsec. (v)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(C)(ii), substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
 
-    Subsec. (v)(5). [Pub. L. 114–94, § 73001(1)(C)(iii)][/us/pl/114/94/s73001/1/C/iii], inserted “collectible versions of” after “may issue”.
+    Subsec. (v)(5). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(C)(iii), inserted “collectible versions of” after “may issue”.
 
-    Subsec. (v)(8). [Pub. L. 114–94, § 73001(1)(C)(iv)][/us/pl/114/94/s73001/1/C/iv], struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
+    Subsec. (v)(8). [Pub. L. 114–94][/us/pl/114/94], § 73001(1)(C)(iv), struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
 
-    2010—Subsec. (a)(12). [Pub. L. 111–303, § 2(1)][/us/pl/111/303/s2/1], added par. (12).
+    2010—Subsec. (a)(12). [Pub. L. 111–303][/us/pl/111/303], § 2(1), added par. (12).
 
-    Subsec. (e). [Pub. L. 111–302, § 4][/us/pl/111/302/s4], substituted “qualities and quantities that the Secretary determines are” for “quantities” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–302][/us/pl/111/302], § 4, substituted “qualities and quantities that the Secretary determines are” for “quantities” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 111–302, § 4][/us/pl/111/302/s4], which directed amendment of subsec. (i) by substituting “qualities and quantities that the Secretary determines are” for “quantities”, was executed by making the substitution in introductory provisions of par. (1) to reflect the probable intent of Congress.
+    Subsec. (i). [Pub. L. 111–302][/us/pl/111/302], § 4, which directed amendment of subsec. (i) by substituting “qualities and quantities that the Secretary determines are” for “quantities”, was executed by making the substitution in introductory provisions of par. (1) to reflect the probable intent of Congress.
 
-    Subsec. (u)(1). [Pub. L. 111–302, § 5(1)][/us/pl/111/302/s5/1], substituted “likenesses” for “exact duplicates” in introductory provisions.
+    Subsec. (u)(1). [Pub. L. 111–302][/us/pl/111/302], § 5(1), substituted “likenesses” for “exact duplicates” in introductory provisions.
 
-    Subsec. (u)(1)(A). [Pub. L. 111–302, § 5(4)][/us/pl/111/302/s5/4], substituted “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches” for “of 3.0 inches”.
+    Subsec. (u)(1)(A). [Pub. L. 111–302][/us/pl/111/302], § 5(4), substituted “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches” for “of 3.0 inches”.
 
-    Subsec. (u)(1)(C) to (E). [Pub. L. 111–302, § 5(2)][/us/pl/111/302/s5/2], (3), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “have incused into the edge the fineness and weight of the bullion coin;”.
+    Subsec. (u)(1)(C) to (E). [Pub. L. 111–302][/us/pl/111/302], § 5(2), (3), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “have incused into the edge the fineness and weight of the bullion coin;”.
 
-    Subsec. (v). [Pub. L. 111–303, § 2(2)][/us/pl/111/303/s2/2], added subsec. (v).
+    Subsec. (v). [Pub. L. 111–303][/us/pl/111/303], § 2(2), added subsec. (v).
 
     2009—Subsecs. (r), (s). [Pub. L. 111–8][/us/pl/111/8] redesignated subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories as (s) and substituted “paragraph (3)” for “paragraph (4)” in subpars. (A) and (B) of par. (5).
 
-    2008—Subsec. (t). [Pub. L. 110–456, § 102][/us/pl/110/456/s102], added subsec. (t).
+    2008—Subsec. (t). [Pub. L. 110–456][/us/pl/110/456], § 102, added subsec. (t).
 
-    Subsec. (u). [Pub. L. 110–456, § 201][/us/pl/110/456/s201], added subsec. (u).
+    Subsec. (u). [Pub. L. 110–456][/us/pl/110/456], § 201, added subsec. (u).
 
-    2007—Subsec. (n)(1). [Pub. L. 110–82, § 3][/us/pl/110/82/s3], redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
+    2007—Subsec. (n)(1). [Pub. L. 110–82][/us/pl/110/82], § 3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
 
-    Subsec. (n)(2)(C)(i). [Pub. L. 110–161, § 623(a)(1)(A)][/us/pl/110/161/s623/a/1/A], substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
+    Subsec. (n)(2)(C)(i). [Pub. L. 110–161][/us/pl/110/161], § 623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
 
-    Subsec. (n)(2)(F). [Pub. L. 110–161, § 623(a)(2)][/us/pl/110/161/s623/a/2], added subpar. (F).
+    Subsec. (n)(2)(F). [Pub. L. 110–161][/us/pl/110/161], § 623(a)(2), added subpar. (F).
 
     Subsec. (p)(1)(A). [Pub. L. 110–147][/us/pl/110/147] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of accepting and dispensing $1 coins in connection with such operations; and”.
 
-    Subsec. (r). [Pub. L. 110–161, § 622][/us/pl/110/161/s622], added subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories.
+    Subsec. (r). [Pub. L. 110–161][/us/pl/110/161], § 622, added subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories.
 
-    [Pub. L. 110–82, § 2][/us/pl/110/82/s2], added subsec. (r) relating to the redesign and issuance of circulating $1 coins honoring Native Americans.
+    [Pub. L. 110–82][/us/pl/110/82], § 2, added subsec. (r) relating to the redesign and issuance of circulating $1 coins honoring Native Americans.
 
-    Subsec. (r)(2). [Pub. L. 110–161, § 623(b)][/us/pl/110/161/s623/b], substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused” in subpar. (C)(i), and added subpar (E).
+    Subsec. (r)(2). [Pub. L. 110–161][/us/pl/110/161], § 623(b), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused” in subpar. (C)(i), and added subpar (E).
 
-    2005—Subsec. (a)(11). [Pub. L. 109–145, § 201(1)][/us/pl/109/145/s201/1], added par. (11).
+    2005—Subsec. (a)(11). [Pub. L. 109–145][/us/pl/109/145], § 201(1), added par. (11).
 
-    Subsec. (n). [Pub. L. 109–145, § 102][/us/pl/109/145/s102], added subsec. (n).
+    Subsec. (n). [Pub. L. 109–145][/us/pl/109/145], § 102, added subsec. (n).
 
-    Subsec. (o). [Pub. L. 109–145, § 103][/us/pl/109/145/s103], added subsec. (o).
+    Subsec. (o). [Pub. L. 109–145][/us/pl/109/145], § 103, added subsec. (o).
 
-    Subsec. (p). [Pub. L. 109–145, § 104][/us/pl/109/145/s104], added subsec. (p).
+    Subsec. (p). [Pub. L. 109–145][/us/pl/109/145], § 104, added subsec. (p).
 
-    Subsec. (q). [Pub. L. 109–145, § 201(2)][/us/pl/109/145/s201/2], added subsec. (q).
+    Subsec. (q). [Pub. L. 109–145][/us/pl/109/145], § 201(2), added subsec. (q).
 
-    2003—Subsec. (d)(1). [Pub. L. 108–15, § 102(a)][/us/pl/108/15/s102/a], inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
+    2003—Subsec. (d)(1). [Pub. L. 108–15][/us/pl/108/15], § 102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
 
-    Subsec. (d)(2). [Pub. L. 108–15, § 102(b)][/us/pl/108/15/s102/b], inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
+    Subsec. (d)(2). [Pub. L. 108–15][/us/pl/108/15], § 102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
 
-    Subsec. (l)(4)(A)(ii). [Pub. L. 108–15, § 103(d)(1)][/us/pl/108/15/s103/d/1], substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
+    Subsec. (l)(4)(A)(ii). [Pub. L. 108–15][/us/pl/108/15], § 103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
 
     2000—Subsec. (k). [Pub. L. 106–445][/us/pl/106/445] substituted “platinum bullion coins” for “bullion”.
 
     1998—Subsec. (l)(1)(C). [Pub. L. 105–176][/us/pl/105/176] added subpar. (C).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–124, § 4(b)][/us/pl/105/124/s4/b], struck out “and weighs 8.1 grams” after “diameter”.
+    1997—Subsec. (a)(1). [Pub. L. 105–124][/us/pl/105/124], § 4(b), struck out “and weighs 8.1 grams” after “diameter”.
 
-    Subsec. (b). [Pub. L. 105–124, § 4(c)][/us/pl/105/124/s4/c], struck out “dollar,” before “half dollar” in first sentence and inserted after fourth sentence “The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997.”
+    Subsec. (b). [Pub. L. 105–124][/us/pl/105/124], § 4(c), struck out “dollar,” before “half dollar” in first sentence and inserted after fourth sentence “The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997.”
 
-    Subsec. (d)(1). [Pub. L. 105–124, § 4(d)][/us/pl/105/124/s4/d], substituted “The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin.” for “The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony.”
+    Subsec. (d)(1). [Pub. L. 105–124][/us/pl/105/124], § 4(d), substituted “The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin.” for “The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony.”
 
-    Subsec. (l). [Pub. L. 105–124, § 3][/us/pl/105/124/s3], added subsec. (l).
+    Subsec. (l). [Pub. L. 105–124][/us/pl/105/124], § 3, added subsec. (l).
 
-    1996—Subsec. (i)(4)(C). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 523\], added subpar. (C).
+    1996—Subsec. (i)(4)(C). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 523\], added subpar. (C).
 
-    Subsec. (k). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 524\], added subsec. (k).
+    Subsec. (k). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 524\], added subsec. (k).
 
-    Subsec. (m). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(a)\], added subsec. (m).
+    Subsec. (m). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title V, § 529(a)\], added subsec. (m).
 
     1994—Subsec. (h). [Pub. L. 103–272][/us/pl/103/272] substituted “[section 5103 of this title][/us/usc/t31/s5103]” for “[section 5103 of title 31][/us/usc/t31/s5103], United States Code”.
 
-    1992—Subsec. (d)(1). [Pub. L. 102–390, § 226(a)][/us/pl/102/390/s226/a], inserted “shall” before “have” in first sentence and substituted “coin shall have” for “coin has” in second and third sentences.
+    1992—Subsec. (d)(1). [Pub. L. 102–390][/us/pl/102/390], § 226(a), inserted “shall” before “have” in first sentence and substituted “coin shall have” for “coin has” in second and third sentences.
 
-    Subsec. (i)(4). [Pub. L. 102–390, § 228][/us/pl/102/390/s228], added par. (4).
+    Subsec. (i)(4). [Pub. L. 102–390][/us/pl/102/390], § 228, added par. (4).
 
-    Subsec. (j). [Pub. L. 102–390, § 227][/us/pl/102/390/s227], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–390][/us/pl/102/390], § 227, added subsec. (j).
 
-    1988—Subsec. (b). [Pub. L. 100–274, § 4(a)][/us/pl/100/274/s4/a], inserted before last sentence “In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required.”
+    1988—Subsec. (b). [Pub. L. 100–274][/us/pl/100/274], § 4(a), inserted before last sentence “In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required.”
 
-    Subsec. (f). [Pub. L. 100–274, § 6][/us/pl/100/274/s6], inserted heading and amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dyes, use of machinery, and overhead expenses).”
+    Subsec. (f). [Pub. L. 100–274][/us/pl/100/274], § 6, inserted heading and amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dyes, use of machinery, and overhead expenses).”
 
-    1985—Subsec. (a)(7) to (10). [Pub. L. 99–185, § 2(a)][/us/pl/99/185/s2/a], added pars. (7) to (10).
+    1985—Subsec. (a)(7) to (10). [Pub. L. 99–185][/us/pl/99/185], § 2(a), added pars. (7) to (10).
 
     Subsec. (e). [Pub. L. 99–61][/us/pl/99/61] added subsec. (e). Former subsec. (e), providing for the minting of 150,000,000 silver and copper alloy dollar coins bearing the likeness of Dwight David Eisenhower, was struck out.
 
@@ -1427,41 +1427,41 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
     Subsecs. (g), (h). [Pub. L. 99–61][/us/pl/99/61] added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 99–185, § 2(b)][/us/pl/99/185/s2/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 99–185][/us/pl/99/185], § 2(b), added subsec. (i).
 
-    1983—Subsec. (f)(1). [Pub. L. 97–452, § 1(20)(A)][/us/pl/97/452/s1/20/A], inserted a comma after “10,000,000)” in introductory text.
+    1983—Subsec. (f)(1). [Pub. L. 97–452][/us/pl/97/452], § 1(20)(A), inserted a comma after “10,000,000)” in introductory text.
 
-    Subsec. (f)(1)(C). [Pub. L. 97–452, § 1(20)(B)][/us/pl/97/452/s1/20/B], substituted “250th” for “two hundred and fiftieth”.
+    Subsec. (f)(1)(C). [Pub. L. 97–452][/us/pl/97/452], § 1(20)(B), substituted “250th” for “two hundred and fiftieth”.
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–161, div. D, title VI, § 623(c)][/us/pl/110/161/s623/c], Dec. 26, 2007, [121 Stat. 2018][/us/stat/121/2018], provided that: 
+[Pub. L. 110–161, div. D, title VI][/us/pl/110/161/dD/tVI], § 623(c), Dec. 26, 2007, [121 Stat. 2018][/us/stat/121/2018], provided that: 
 
 > “The change required by the amendments made by subsections (a) and (b) \[amending this section\] shall be put into effect by the Secretary of the Treasury as soon as is practicable after the date of enactment of this Act \[Dec. 26, 2007\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–353, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 529(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–353, provided that: 
 
 > “This section \[amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under [section 5134 of this title][/us/usc/t31/s5134], and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].”
 
  __Effective Date of 1985 Amendments__ 
 
-[Pub. L. 99–185, § 3][/us/pl/99/185/s3], Dec. 17, 1985, [99 Stat. 1179][/us/stat/99/1179], provided that: 
+[Pub. L. 99–185][/us/pl/99/185], § 3, Dec. 17, 1985, [99 Stat. 1179][/us/stat/99/1179], provided that: 
 
 > “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under [section 5112(i) of title 31][/us/usc/t31/s5112/i], United States Code, before October 1, 1986.”
 
-[Pub. L. 99–61, title II, § 205][/us/pl/99/61/s205], July 9, 1985, [99 Stat. 117][/us/stat/99/117], provided that: 
+[Pub. L. 99–61, title II][/us/pl/99/61/tII], § 205, July 9, 1985, [99 Stat. 117][/us/stat/99/117], provided that: 
 
 > “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of [section 5112 of title 31][/us/usc/t31/s5112], United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act \[set out as a note below\] have been sold, whichever is earlier.”
 
  __Short Title of 1985 Amendments__ 
 
-[Pub. L. 99–185, § 1][/us/pl/99/185/s1], Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177], provided that: 
+[Pub. L. 99–185][/us/pl/99/185], § 1, Dec. 17, 1985, [99 Stat. 1177][/us/stat/99/1177], provided that: 
 
 > “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
-[Pub. L. 99–61, title II, § 201][/us/pl/99/61/s201], July 9, 1985, [99 Stat. 115][/us/stat/99/115], provided that: 
+[Pub. L. 99–61, title II][/us/pl/99/61/tII], § 201, July 9, 1985, [99 Stat. 115][/us/stat/99/115], provided that: 
 
 > “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
 
@@ -1473,13 +1473,13 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Rule of Construction__ 
 
-[Pub. L. 105–124, § 5][/us/pl/105/124/s5], Dec. 1, 1997, [111 Stat. 2537][/us/stat/111/2537], provided that: 
+[Pub. L. 105–124][/us/pl/105/124], § 5, Dec. 1, 1997, [111 Stat. 2537][/us/stat/111/2537], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1997 Amendment note set out under [section 5101 of this title][/us/usc/t31/s5101]\] or the amendments made by this Act shall be construed to evidence any intention to eliminate or to limit the printing or circulation of United States currency in the $1 denomination.”
 
  __Authority To Conduct Research and Development on All Circulating Coins__ 
 
-[Pub. L. 111–302, § 2][/us/pl/111/302/s2], Dec. 14, 2010, [124 Stat. 3272][/us/stat/124/3272], provided that:
+[Pub. L. 111–302][/us/pl/111/302], § 2, Dec. 14, 2010, [124 Stat. 3272][/us/stat/124/3272], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1503,7 +1503,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Biennial Report to the Congress on the Current Status of Coin Production Costs and Analysis of Alternative Content__ 
 
-[Pub. L. 111–302, § 3][/us/pl/111/302/s3], Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273], provided that:
+[Pub. L. 111–302][/us/pl/111/302], § 3, Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -1531,7 +1531,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Findings of 2008 Amendment__ 
 
-[Pub. L. 110–456, title I, § 101][/us/pl/110/456/s101], Dec. 23, 2008, [122 Stat. 5038][/us/stat/122/5038], provided that: 
+[Pub. L. 110–456, title I][/us/pl/110/456/tI], § 101, Dec. 23, 2008, [122 Stat. 5038][/us/stat/122/5038], provided that: 
 
 > “The Congress finds as follows:
 
@@ -1575,7 +1575,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Removal of Barriers to Circulation of $1 Coin__ 
 
-[Pub. L. 110–82, § 4][/us/pl/110/82/s4], Sept. 20, 2007, [121 Stat. 779][/us/stat/121/779], provided that:
+[Pub. L. 110–82][/us/pl/110/82], § 4, Sept. 20, 2007, [121 Stat. 779][/us/stat/121/779], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1587,13 +1587,13 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __5-Cent Coins Minted in 2004 and 2005__ 
 
-[Pub. L. 109–230, § 8][/us/pl/109/230/s8], June 15, 2006, [120 Stat. 393][/us/stat/120/393], provided that: 
+[Pub. L. 109–230][/us/pl/109/230], § 8, June 15, 2006, [120 Stat. 393][/us/stat/120/393], provided that: 
 
 > “Notwithstanding the fifth sentence of [section 5112(d)(1) of title 31][/us/usc/t31/s5112/d/1], United States Code, the Secretary of the Treasury may continue to issue, after December 31, 2005, numismatic items that contain 5-cent coins minted in the years 2004 and 2005.”
 
  __Presidential Commemorative Dollar Coins; Findings__ 
 
-[Pub. L. 109–145, title I, § 101][/us/pl/109/145/s101], Dec. 22, 2005, [119 Stat. 2664][/us/stat/119/2664], provided that: 
+[Pub. L. 109–145, title I][/us/pl/109/145/tI], § 101, Dec. 22, 2005, [119 Stat. 2664][/us/stat/119/2664], provided that: 
 
 > “Congress finds the following:
 
@@ -1625,7 +1625,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Abraham Lincoln Bicentennial 1-cent Coin Redesign__ 
 
-[Pub. L. 109–145, title III][/us/pl/109/145], Dec. 22, 2005, [119 Stat. 2673][/us/stat/119/2673], provided that:
+[Pub. L. 109–145, title III][/us/pl/109/145/tIII], Dec. 22, 2005, [119 Stat. 2673][/us/stat/119/2673], provided that:
 
 > “SEC. 301. __FINDINGS.__ 
 
@@ -1709,7 +1709,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Designs on the 5-Cent Coin__ 
 
-[Pub. L. 108–15, title I, § 101][/us/pl/108/15/s101], Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], provided that:
+[Pub. L. 108–15, title I][/us/pl/108/15/tI], § 101, Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1731,7 +1731,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Study and Report of Impact on United States Silver Market of the American Eagle Silver Bullion Program__ 
 
-[Pub. L. 107–201, § 3(b)][/us/pl/107/201/s3/b], July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
+[Pub. L. 107–201][/us/pl/107/201], § 3(b), July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -1747,7 +1747,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Findings of 1997 Amendment__ 
 
-[Pub. L. 105–124, § 2][/us/pl/105/124/s2], Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], provided that: 
+[Pub. L. 105–124][/us/pl/105/124], § 2, Dec. 1, 1997, [111 Stat. 2534][/us/stat/111/2534], provided that: 
 
 > “The Congress finds that—
 
@@ -1767,7 +1767,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Dollar Coins__ 
 
-[Pub. L. 105–124, § 4(e)][/us/pl/105/124/s4/e], (f), Dec. 1, 1997, [111 Stat. 2536][/us/stat/111/2536], 2537, provided that:
+[Pub. L. 105–124][/us/pl/105/124], § 4(e), (f), Dec. 1, 1997, [111 Stat. 2536][/us/stat/111/2536], 2537, provided that:
 
 >     “(e) __Production of New Dollar Coins.—__ 
 
@@ -1799,7 +1799,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Study and Report to Congress of 50 States Commemorative Coin Program__ 
 
-[Pub. L. 104–329, title III, § 302][/us/pl/104/329/s302], Oct. 20, 1996, [110 Stat. 4012][/us/stat/110/4012], provided that:
+[Pub. L. 104–329, title III][/us/pl/104/329/tIII], § 302, Oct. 20, 1996, [110 Stat. 4012][/us/stat/110/4012], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -1857,19 +1857,19 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 523\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347, provided in part: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 523\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–347, provided in part: 
 
 > “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
 
  __Use of Government Platinum Reserves Stockpiled at Mint__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 524\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–348, provided in part: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 524\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–348, provided in part: 
 
 > “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
 
  __Reform of Commemorative Coin Programs__ 
 
-[Pub. L. 103–186, title III][/us/pl/103/186], Dec. 14, 1993, [107 Stat. 2251][/us/stat/107/2251], as amended by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title V, § 529(b)(4)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352; [Pub. L. 104–316, title I, § 115(h)][/us/pl/104/316/s115/h], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835], provided that:
+[Pub. L. 103–186, title III][/us/pl/103/186/tIII], Dec. 14, 1993, [107 Stat. 2251][/us/stat/107/2251], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title V, § 529(b)(4)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–352; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(h), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835], provided that:
 
 > “SEC. 301. __SENSE OF CONGRESS RESOLUTION.__ 
 
@@ -1911,11 +1911,11 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
  __Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt__ 
 
-    [Pub. L. 99–185, § 2(f)][/us/pl/99/185/s2/f], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178], provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under [31 U.S.C. 5112(i)][/us/usc/t31/s5112/i] exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by [Pub. L. 102–390, title II, § 221(c)(2)(A)][/us/pl/102/390/s221/c/2/A], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628], effective Oct. 1, 1992.
+    [Pub. L. 99–185][/us/pl/99/185], § 2(f), Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178], provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under [31 U.S.C. 5112(i)][/us/usc/t31/s5112/i] exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(A), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628], effective Oct. 1, 1992.
 
  __Issuance of Gold Coins To Result in No Net Cost to United States__ 
 
-[Pub. L. 99–185, § 2(g)][/us/pl/99/185/s2/g], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178], provided that: 
+[Pub. L. 99–185][/us/pl/99/185], § 2(g), Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178], provided that: 
 
 > “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under [section 5112(i) of title 31][/us/usc/t31/s5112/i], United States Code, shall result in no net cost to the United States Government.”
 
@@ -1925,7 +1925,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
     [Pub. L. 114–30][/us/pl/114/30], July 6, 2015, [129 Stat. 424][/us/stat/129/424].—Boys Town Centennial.
 
-    [Pub. L. 113–291, div. B, title XXX, § 3055][/us/pl/113/291/s3055], Dec. 19, 2014, [128 Stat. 3808][/us/stat/128/3808].—National Park Service 100th anniversary.
+    [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3055, Dec. 19, 2014, [128 Stat. 3808][/us/stat/128/3808].—National Park Service 100th anniversary.
 
     [Pub. L. 113–212][/us/pl/113/212], Dec. 16, 2014, [128 Stat. 2082][/us/stat/128/2082].—World War I American Veterans Centennial.
 
@@ -1935,7 +1935,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
     [Pub. L. 112–181][/us/pl/112/181], Oct. 5, 2012, [126 Stat. 1416][/us/stat/126/1416].—Lions Clubs International century of service.
 
-    [Pub. L. 112–152][/us/pl/112/152], Aug. 3, 2012, [126 Stat. 1155][/us/stat/126/1155]; [Pub. L. 113–10, § 1][/us/pl/113/10/s1], May 17, 2013, [127 Stat. 445][/us/stat/127/445].—National Baseball Hall of Fame.
+    [Pub. L. 112–152][/us/pl/112/152], Aug. 3, 2012, [126 Stat. 1155][/us/stat/126/1155]; [Pub. L. 113–10][/us/pl/113/10], § 1, May 17, 2013, [127 Stat. 445][/us/stat/127/445].—National Baseball Hall of Fame.
 
     [Pub. L. 112–104][/us/pl/112/104], Apr. 2, 2012, [126 Stat. 286][/us/stat/126/286].—United States Marshals Service 225th anniversary.
 
@@ -1953,11 +1953,11 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
     [Pub. L. 110–363][/us/pl/110/363], Oct. 8, 2008, [122 Stat. 4015][/us/stat/122/4015].—Boy Scouts of America centennial.
 
-    [Pub. L. 110–357][/us/pl/110/357], Oct. 8, 2008, [122 Stat. 3998][/us/stat/122/3998]; [Pub. L. 112–169, § 1][/us/pl/112/169/s1], Aug. 10, 2012, [126 Stat. 1302][/us/stat/126/1302].—National Infantry Museum and Soldier Center.
+    [Pub. L. 110–357][/us/pl/110/357], Oct. 8, 2008, [122 Stat. 3998][/us/stat/122/3998]; [Pub. L. 112–169][/us/pl/112/169], § 1, Aug. 10, 2012, [126 Stat. 1302][/us/stat/126/1302].—National Infantry Museum and Soldier Center.
 
     [Pub. L. 110–277][/us/pl/110/277], July 17, 2008, [122 Stat. 2599][/us/stat/122/2599].—American veterans disabled for life.
 
-    [Pub. L. 109–285][/us/pl/109/285], Sept. 27, 2006, [120 Stat. 1215][/us/stat/120/1215]; [Pub. L. 112–74, div. C, title VI, § 621][/us/pl/112/74/s621], Dec. 23, 2011, [125 Stat. 926][/us/stat/125/926].—Abraham Lincoln.
+    [Pub. L. 109–285][/us/pl/109/285], Sept. 27, 2006, [120 Stat. 1215][/us/stat/120/1215]; [Pub. L. 112–74, div. C, title VI][/us/pl/112/74/dC/tVI], § 621, Dec. 23, 2011, [125 Stat. 926][/us/stat/125/926].—Abraham Lincoln.
 
     [Pub. L. 109–247][/us/pl/109/247], July 27, 2006, [120 Stat. 582][/us/stat/120/582].—Louis Braille bicentennial—braille literacy.
 
@@ -1973,75 +1973,75 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
     [Pub. L. 108–290][/us/pl/108/290], Aug. 6, 2004, [118 Stat. 1021][/us/stat/118/1021].—John Marshall.
 
-    [Pub. L. 108–289][/us/pl/108/289], Aug. 6, 2004, [118 Stat. 1017][/us/stat/118/1017]; [Pub. L. 111–86, § 8(b)][/us/pl/111/86/s8/b], Oct. 29, 2009, [123 Stat. 2883][/us/stat/123/2883].—Jamestown 400th anniversary.
+    [Pub. L. 108–289][/us/pl/108/289], Aug. 6, 2004, [118 Stat. 1017][/us/stat/118/1017]; [Pub. L. 111–86][/us/pl/111/86], § 8(b), Oct. 29, 2009, [123 Stat. 2883][/us/stat/123/2883].—Jamestown 400th anniversary.
 
     [Pub. L. 106–435][/us/pl/106/435], Nov. 6, 2000, [114 Stat. 1916][/us/stat/114/1916].—2002 Winter Olympic Games.
 
     [Pub. L. 106–375][/us/pl/106/375], Oct. 27, 2000, [114 Stat. 1435][/us/stat/114/1435].—National Museum of the American Indian.
 
-    [Pub. L. 106–126, title I][/us/pl/106/126], Dec. 6, 1999, [113 Stat. 1643][/us/stat/113/1643].—Leif Ericson millennium.
+    [Pub. L. 106–126, title I][/us/pl/106/126/tI], Dec. 6, 1999, [113 Stat. 1643][/us/stat/113/1643].—Leif Ericson millennium.
 
-    [Pub. L. 106–126, title II][/us/pl/106/126], Dec. 6, 1999, [113 Stat. 1644][/us/stat/113/1644].—United States Capitol visitor center.
+    [Pub. L. 106–126, title II][/us/pl/106/126/tII], Dec. 6, 1999, [113 Stat. 1644][/us/stat/113/1644].—United States Capitol visitor center.
 
-    [Pub. L. 106–126, title III][/us/pl/106/126], Dec. 6, 1999, [113 Stat. 1647][/us/stat/113/1647]; [Pub. L. 109–232][/us/pl/109/232], June 15, 2006, [120 Stat. 395][/us/stat/120/395].—Lewis and Clark Expedition bicentennial.
+    [Pub. L. 106–126, title III][/us/pl/106/126/tIII], Dec. 6, 1999, [113 Stat. 1647][/us/stat/113/1647]; [Pub. L. 109–232][/us/pl/109/232], June 15, 2006, [120 Stat. 395][/us/stat/120/395].—Lewis and Clark Expedition bicentennial.
 
     [Pub. L. 105–331][/us/pl/105/331], Oct. 31, 1998, [112 Stat. 3073][/us/stat/112/3073]; [Pub. L. 110–3][/us/pl/110/3], Feb. 8, 2007, [121 Stat. 6][/us/stat/121/6].—Thomas Alva Edison.
 
     [Pub. L. 105–268][/us/pl/105/268], Oct. 19, 1998, [112 Stat. 2378][/us/stat/112/2378].—Library of Congress bicentennial.
 
-    [Pub. L. 105–124, § 6][/us/pl/105/124/s6], Dec. 1, 1997, [111 Stat. 2537][/us/stat/111/2537].—First flight by Orville and Wilbur Wright.
+    [Pub. L. 105–124][/us/pl/105/124], § 6, Dec. 1, 1997, [111 Stat. 2537][/us/stat/111/2537].—First flight by Orville and Wilbur Wright.
 
-    [Pub. L. 104–329, § 2][/us/pl/104/329/s2], title I, §§ 101–108, Oct. 20, 1996, [110 Stat. 4005–4011][/us/stat/110/4005-4011]; [Pub. L. 105–277, div. C, title I, § 139(c)][/us/pl/105/277/s139/c], Oct. 21, 1998, [112 Stat. 2681–599][/us/stat/112/2681-599].—Dolley Madison, George Washington, Black Revolutionary War patriots, Franklin Delano Roosevelt Memorial, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson.
+    [Pub. L. 104–329][/us/pl/104/329], § 2, title I, §§ 101–108, Oct. 20, 1996, [110 Stat. 4005–4011][/us/stat/110/4005-4011]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 139(c), Oct. 21, 1998, [112 Stat. 2681–599][/us/stat/112/2681-599].—Dolley Madison, George Washington, Black Revolutionary War patriots, Franklin Delano Roosevelt Memorial, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson.
 
     [Pub. L. 104–96][/us/pl/104/96], Jan. 10, 1996, [109 Stat. 981][/us/stat/109/981].—Smithsonian Institution sesquicentennial.
 
-    [Pub. L. 103–328, title II, § 204][/us/pl/103/328/s204], Sept. 29, 1994, [108 Stat. 2369][/us/stat/108/2369].—1995 Special Olympics World Games.
+    [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 204, Sept. 29, 1994, [108 Stat. 2369][/us/stat/108/2369].—1995 Special Olympics World Games.
 
-    [Pub. L. 103–328, title II, § 205][/us/pl/103/328/s205], Sept. 29, 1994, [108 Stat. 2371][/us/stat/108/2371].—National community service.
+    [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 205, Sept. 29, 1994, [108 Stat. 2371][/us/stat/108/2371].—National community service.
 
-    [Pub. L. 103–328, title II, § 206][/us/pl/103/328/s206], Sept. 29, 1994, [108 Stat. 2373][/us/stat/108/2373].—Robert F. Kennedy Memorial.
+    [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 206, Sept. 29, 1994, [108 Stat. 2373][/us/stat/108/2373].—Robert F. Kennedy Memorial.
 
-    [Pub. L. 103–328, title II, § 207][/us/pl/103/328/s207], Sept. 29, 1994, [108 Stat. 2375][/us/stat/108/2375].—United States Military Academy bicentennial.
+    [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 207, Sept. 29, 1994, [108 Stat. 2375][/us/stat/108/2375].—United States Military Academy bicentennial.
 
-    [Pub. L. 103–328, title II, § 208][/us/pl/103/328/s208], Sept. 29, 1994, [108 Stat. 2377][/us/stat/108/2377].—United States Botanic Garden.
+    [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 208, Sept. 29, 1994, [108 Stat. 2377][/us/stat/108/2377].—United States Botanic Garden.
 
-    [Pub. L. 103–186, title I][/us/pl/103/186], Dec. 14, 1993, [107 Stat. 2245][/us/stat/107/2245].—Thomas Jefferson.
+    [Pub. L. 103–186, title I][/us/pl/103/186/tI], Dec. 14, 1993, [107 Stat. 2245][/us/stat/107/2245].—Thomas Jefferson.
 
-    [Pub. L. 103–186, title II][/us/pl/103/186], Dec. 14, 1993, [107 Stat. 2247][/us/stat/107/2247].—Prisoner-of-war, Vietnam Veterans Memorial, and Women in Military Service for America Memorial.
+    [Pub. L. 103–186, title II][/us/pl/103/186/tII], Dec. 14, 1993, [107 Stat. 2247][/us/stat/107/2247].—Prisoner-of-war, Vietnam Veterans Memorial, and Women in Military Service for America Memorial.
 
-    [Pub. L. 103–186, title IV][/us/pl/103/186], Dec. 14, 1993, [107 Stat. 2252][/us/stat/107/2252].—United States Capitol bicentennial.
+    [Pub. L. 103–186, title IV][/us/pl/103/186/tIV], Dec. 14, 1993, [107 Stat. 2252][/us/stat/107/2252].—United States Capitol bicentennial.
 
     [Pub. L. 102–414][/us/pl/102/414], Oct. 14, 1992, [106 Stat. 2106][/us/stat/106/2106].—World War II 50th anniversary.
 
-    [Pub. L. 102–390, title I][/us/pl/102/390], Oct. 6, 1992, [106 Stat. 1620][/us/stat/106/1620]; [Pub. L. 104–74][/us/pl/104/74], Dec. 26, 1995, [109 Stat. 784][/us/stat/109/784].—1996 Olympic Games.
+    [Pub. L. 102–390, title I][/us/pl/102/390/tI], Oct. 6, 1992, [106 Stat. 1620][/us/stat/106/1620]; [Pub. L. 104–74][/us/pl/104/74], Dec. 26, 1995, [109 Stat. 784][/us/stat/109/784].—1996 Olympic Games.
 
     [Pub. L. 102–379][/us/pl/102/379], Oct. 5, 1992, [106 Stat. 1362][/us/stat/106/1362].—Civil War battlefields.
 
-    [Pub. L. 102–281, title I][/us/pl/102/281], May 13, 1992, [106 Stat. 133][/us/stat/106/133]; [Pub. L. 102–390, title II, § 221(c)(2)(G)][/us/pl/102/390/s221/c/2/G], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—White House 200th anniversary.
+    [Pub. L. 102–281, title I][/us/pl/102/281/tI], May 13, 1992, [106 Stat. 133][/us/stat/106/133]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(G), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—White House 200th anniversary.
 
-    [Pub. L. 102–281, title II][/us/pl/102/281], May 13, 1992, [106 Stat. 135][/us/stat/106/135]; [Pub. L. 102–390, title II, § 221(c)(2)(H)][/us/pl/102/390/s221/c/2/H], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628]; [Pub. L. 104–66, title I, § 1132(a)][/us/pl/104/66/s1132/a], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].—World Cup USA 1994.
+    [Pub. L. 102–281, title II][/us/pl/102/281/tII], May 13, 1992, [106 Stat. 135][/us/stat/106/135]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(H), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1132(a), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].—World Cup USA 1994.
 
-    [Pub. L. 102–281, title IV][/us/pl/102/281], §§ 401–411, May 13, 1992, [106 Stat. 139–141][/us/stat/106/139-141]; [Pub. L. 102–390, title II, § 221(c)(2)(I)][/us/pl/102/390/s221/c/2/I], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Christopher Columbus quincentenary.
+    [Pub. L. 102–281, title IV][/us/pl/102/281/tIV], §§ 401–411, May 13, 1992, [106 Stat. 139–141][/us/stat/106/139-141]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(I), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Christopher Columbus quincentenary.
 
-    [Pub. L. 102–281, title V][/us/pl/102/281], May 13, 1992, [106 Stat. 145][/us/stat/106/145]; [Pub. L. 104–66, title I, § 1132(c)][/us/pl/104/66/s1132/c], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].—James Madison and Bill of Rights.
+    [Pub. L. 102–281, title V][/us/pl/102/281/tV], May 13, 1992, [106 Stat. 145][/us/stat/106/145]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1132(c), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].—James Madison and Bill of Rights.
 
-    [Pub. L. 101–495][/us/pl/101/495], Oct. 31, 1990, [104 Stat. 1187][/us/stat/104/1187]; [Pub. L. 102–390, title II, § 221(c)(2)(F)][/us/pl/102/390/s221/c/2/F], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Korean War Veterans Memorial.
+    [Pub. L. 101–495][/us/pl/101/495], Oct. 31, 1990, [104 Stat. 1187][/us/stat/104/1187]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(F), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Korean War Veterans Memorial.
 
-    [Pub. L. 101–406][/us/pl/101/406], Oct. 3, 1990, [104 Stat. 879][/us/stat/104/879]; [Pub. L. 102–390, title II, § 221(c)(2)(E)][/us/pl/102/390/s221/c/2/E], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—1992 Olympic Games.
+    [Pub. L. 101–406][/us/pl/101/406], Oct. 3, 1990, [104 Stat. 879][/us/stat/104/879]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(E), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—1992 Olympic Games.
 
-    [Pub. L. 101–404][/us/pl/101/404], Oct. 2, 1990, [104 Stat. 875][/us/stat/104/875]; [Pub. L. 102–390, title II, § 221(c)(2)(D)][/us/pl/102/390/s221/c/2/D], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—United Services Organization 50th anniversary.
+    [Pub. L. 101–404][/us/pl/101/404], Oct. 2, 1990, [104 Stat. 875][/us/stat/104/875]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(D), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—United Services Organization 50th anniversary.
 
-    [Pub. L. 101–332][/us/pl/101/332], July 16, 1990, [104 Stat. 313][/us/stat/104/313]; [Pub. L. 102–390, title II, § 221(c)(2)(C)][/us/pl/102/390/s221/c/2/C], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628]; [Pub. L. 103–328, title II, § 209][/us/pl/103/328/s209], Sept. 29, 1994, [108 Stat. 2378][/us/stat/108/2378].—Mount Rushmore National Memorial golden anniversary.
+    [Pub. L. 101–332][/us/pl/101/332], July 16, 1990, [104 Stat. 313][/us/stat/104/313]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(C), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628]; [Pub. L. 103–328, title II][/us/pl/103/328/tII], § 209, Sept. 29, 1994, [108 Stat. 2378][/us/stat/108/2378].—Mount Rushmore National Memorial golden anniversary.
 
-    [Pub. L. 100–673][/us/pl/100/673], Nov. 17, 1988, [102 Stat. 3992][/us/stat/102/3992]; [Pub. L. 101–36][/us/pl/101/36], June 9, 1989, [103 Stat. 69][/us/stat/103/69]; [Pub. L. 101–302, title III, § 312(c)][/us/pl/101/302/s312/c], May 25, 1990, [104 Stat. 245][/us/stat/104/245]; [Pub. L. 103–186, title IV, § 408(b)][/us/pl/103/186/s408/b], Dec. 14, 1993, [107 Stat. 2253][/us/stat/107/2253].—United States Congress bicentennial.
+    [Pub. L. 100–673][/us/pl/100/673], Nov. 17, 1988, [102 Stat. 3992][/us/stat/102/3992]; [Pub. L. 101–36][/us/pl/101/36], June 9, 1989, [103 Stat. 69][/us/stat/103/69]; [Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 312(c), May 25, 1990, [104 Stat. 245][/us/stat/104/245]; [Pub. L. 103–186, title IV][/us/pl/103/186/tIV], § 408(b), Dec. 14, 1993, [107 Stat. 2253][/us/stat/107/2253].—United States Congress bicentennial.
 
-    [Pub. L. 100–467][/us/pl/100/467], Oct. 3, 1988, [102 Stat. 2275][/us/stat/102/2275]; [Pub. L. 102–390, title II, § 221(c)(2)(B)][/us/pl/102/390/s221/c/2/B], Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Dwight David Eisenhower.
+    [Pub. L. 100–467][/us/pl/100/467], Oct. 3, 1988, [102 Stat. 2275][/us/stat/102/2275]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(c)(2)(B), Oct. 6, 1992, [106 Stat. 1628][/us/stat/106/1628].—Dwight David Eisenhower.
 
     [Pub. L. 100–141][/us/pl/100/141], Oct. 28, 1987, [101 Stat. 832][/us/stat/101/832].—1988 Olympic Games.
 
     [Pub. L. 99–582][/us/pl/99/582], Oct. 29, 1986, [100 Stat. 3315][/us/stat/100/3315].—United States Constitution bicentennial.
 
-    [Pub. L. 99–61, title I][/us/pl/99/61], July 9, 1985, [99 Stat. 113][/us/stat/99/113].—Statue of Liberty and Ellis Island.
+    [Pub. L. 99–61, title I][/us/pl/99/61/tI], July 9, 1985, [99 Stat. 113][/us/stat/99/113].—Statue of Liberty and Ellis Island.
 
     [Pub. L. 97–220][/us/pl/97/220], July 22, 1982, [96 Stat. 222][/us/stat/96/222].—1984 Olympic Games.
 
@@ -2064,45 +2064,45 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/usc/t31/s5132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5132%2Fa%2F1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F981
-[/us/pl/97/452/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F20
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
-[/us/pl/99/61/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs202
+[/us/pl/99/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtII
 [/us/stat/99/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F115
-[/us/pl/99/185/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fa
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1177
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F50
-[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1630
-[/us/pl/103/272/s4/f/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FR
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2534
 [/us/pl/105/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F176
 [/us/stat/112/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F104
-[/us/pl/106/445/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs2%2Fb
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/stat/114/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1931
-[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
+[/us/pl/108/15/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtI
 [/us/stat/117/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F615
-[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2FtI
 [/us/stat/119/2665-2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2665-2669
 [/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/stat/121/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F777
 [/us/pl/110/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F147
 [/us/stat/121/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1817
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVI
 [/us/stat/121/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2016
-[/us/pl/110/456/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2Fs102
+[/us/pl/110/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2FtI
 [/us/stat/122/5039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5039
-[/us/pl/111/8/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs616
+[/us/pl/111/8/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVI
 [/us/stat/123/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F677
 [/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
 [/us/stat/124/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3273
-[/us/pl/111/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs2
+[/us/pl/111/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303
 [/us/stat/124/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3275
-[/us/pl/114/94/s73001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1
+[/us/pl/114/94/dG/tLXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIII
 [/us/stat/129/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1785
 [/us/usc/t31/s391/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs391%2Fc
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
@@ -2110,7 +2110,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/usc/t31/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs321
 [/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
@@ -2120,142 +2120,142 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/110/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456
-[/us/pl/114/94/s73001/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FA
-[/us/pl/114/94/s73001/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FB
-[/us/pl/114/94/s73001/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fi
-[/us/pl/114/94/s73001/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fii
-[/us/pl/114/94/s73001/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fiii
-[/us/pl/114/94/s73001/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F1%2FC%2Fiv
-[/us/pl/111/303/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs2%2F1
-[/us/pl/111/302/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs4
-[/us/pl/111/302/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs4
-[/us/pl/111/302/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs5%2F1
-[/us/pl/111/302/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs5%2F4
-[/us/pl/111/302/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs5%2F2
-[/us/pl/111/303/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303%2Fs2%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/111/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
+[/us/pl/111/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F303
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
-[/us/pl/110/456/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2Fs102
-[/us/pl/110/456/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2Fs201
-[/us/pl/110/82/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82%2Fs3
-[/us/pl/110/161/s623/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs623%2Fa%2F1%2FA
-[/us/pl/110/161/s623/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs623%2Fa%2F2
+[/us/pl/110/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456
+[/us/pl/110/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456
+[/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F147
-[/us/pl/110/161/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs622
-[/us/pl/110/82/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82%2Fs2
-[/us/pl/110/161/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs623%2Fb
-[/us/pl/109/145/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs201%2F1
-[/us/pl/109/145/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs102
-[/us/pl/109/145/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs103
-[/us/pl/109/145/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs104
-[/us/pl/109/145/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs201%2F2
-[/us/pl/108/15/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs102%2Fa
-[/us/pl/108/15/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs102%2Fb
-[/us/pl/108/15/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs103%2Fd%2F1
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
+[/us/pl/108/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15
 [/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/pl/105/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F176
-[/us/pl/105/124/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs4%2Fb
-[/us/pl/105/124/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs4%2Fc
-[/us/pl/105/124/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs4%2Fd
-[/us/pl/105/124/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs3
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t31/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5103
 [/us/usc/t31/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5103
-[/us/pl/102/390/s226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs226%2Fa
-[/us/pl/102/390/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs228
-[/us/pl/102/390/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs227
-[/us/pl/100/274/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs4%2Fa
-[/us/pl/100/274/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs6
-[/us/pl/99/185/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fa
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
 [/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
 [/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
-[/us/pl/99/185/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fb
-[/us/pl/97/452/s1/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F20%2FA
-[/us/pl/97/452/s1/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F20%2FB
-[/us/pl/110/161/s623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs623%2Fc
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/pl/110/161/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVI
 [/us/stat/121/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2018
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t31/s5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5134
-[/us/pl/99/185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs3
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1179
 [/us/usc/t31/s5112/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fi
-[/us/pl/99/61/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs205
+[/us/pl/99/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtII
 [/us/stat/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F117
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/99/185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs1
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1177
-[/us/pl/99/61/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs201
+[/us/pl/99/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtII
 [/us/stat/99/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F115
 [/us/pl/110/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F192
 [/us/stat/122/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F648
 [/us/usc/t31/s5112/n/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fn%2F1%2FB
 [/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/pl/110/82/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82%2Fs3
-[/us/pl/105/124/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs5
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2537
 [/us/usc/t31/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5101
-[/us/pl/111/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs2
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
 [/us/stat/124/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3272
 [/us/usc/t31/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5101
 [/us/pl/111/302/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs3
-[/us/pl/111/302/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302%2Fs3
+[/us/pl/111/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F302
 [/us/stat/124/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3273
 [/us/usc/t31/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5101
-[/us/pl/110/456/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2Fs101
+[/us/pl/110/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F456%2FtI
 [/us/stat/122/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5038
-[/us/pl/110/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82%2Fs4
+[/us/pl/110/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F82
 [/us/stat/121/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F779
-[/us/pl/109/230/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F230%2Fs8
+[/us/pl/109/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F230
 [/us/stat/120/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F393
 [/us/usc/t31/s5112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fd%2F1
-[/us/pl/109/145/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2Fs101
+[/us/pl/109/145/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2FtI
 [/us/stat/119/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2664
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/109/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145
+[/us/pl/109/145/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F145%2FtIII
 [/us/stat/119/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2673
-[/us/pl/108/15/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2Fs101
+[/us/pl/108/15/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F15%2FtI
 [/us/stat/117/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F615
 [/us/usc/t31/s5112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fd%2F1
-[/us/pl/107/201/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs3%2Fb
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F737
 [/us/usc/t31/s5112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fe
-[/us/pl/105/124/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs2
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2534
-[/us/pl/105/124/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs4%2Fe
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2536
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
 [/us/usc/t31/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5101
-[/us/pl/104/329/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs302
+[/us/pl/104/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2FtIII
 [/us/stat/110/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4012
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
 [/us/usc/t31/s5112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fb
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/103/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186
+[/us/pl/103/186/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2FtIII
 [/us/stat/107/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2251
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/316/s115/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fh
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/99/185/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Ff
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
 [/us/usc/t31/s5112/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fi
-[/us/pl/102/390/s221/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FA
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
-[/us/pl/99/185/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fg
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
 [/us/usc/t31/s5112/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fi
 [/us/pl/114/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F30
 [/us/stat/129/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F424
-[/us/pl/113/291/s3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3055
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3808
 [/us/pl/113/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F212
 [/us/stat/128/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2082
@@ -2267,7 +2267,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/126/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1416
 [/us/pl/112/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F152
 [/us/stat/126/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1155
-[/us/pl/113/10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F10%2Fs1
+[/us/pl/113/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F10
 [/us/stat/127/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F445
 [/us/pl/112/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F104
 [/us/stat/126/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F286
@@ -2287,13 +2287,13 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/122/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4015
 [/us/pl/110/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F357
 [/us/stat/122/3998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3998
-[/us/pl/112/169/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F169%2Fs1
+[/us/pl/112/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F169
 [/us/stat/126/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1302
 [/us/pl/110/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F277
 [/us/stat/122/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2599
 [/us/pl/109/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F285
 [/us/stat/120/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1215
-[/us/pl/112/74/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs621
+[/us/pl/112/74/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtVI
 [/us/stat/125/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F926
 [/us/pl/109/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F247
 [/us/stat/120/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F582
@@ -2311,17 +2311,17 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/118/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1021
 [/us/pl/108/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F289
 [/us/stat/118/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1017
-[/us/pl/111/86/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F86%2Fs8%2Fb
+[/us/pl/111/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F86
 [/us/stat/123/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2883
 [/us/pl/106/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F435
 [/us/stat/114/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1916
 [/us/pl/106/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F375
 [/us/stat/114/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1435
-[/us/pl/106/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126
+[/us/pl/106/126/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126%2FtI
 [/us/stat/113/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1643
-[/us/pl/106/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126
+[/us/pl/106/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126%2FtII
 [/us/stat/113/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1644
-[/us/pl/106/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126
+[/us/pl/106/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F126%2FtIII
 [/us/stat/113/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1647
 [/us/pl/109/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F232
 [/us/stat/120/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F395
@@ -2331,91 +2331,91 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/121/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F6
 [/us/pl/105/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F268
 [/us/stat/112/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2378
-[/us/pl/105/124/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124%2Fs6
+[/us/pl/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F124
 [/us/stat/111/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2537
-[/us/pl/104/329/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329%2Fs2
+[/us/pl/104/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F329
 [/us/stat/110/4005-4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4005-4011
-[/us/pl/105/277/s139/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs139%2Fc
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-599
 [/us/pl/104/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F96
 [/us/stat/109/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F981
-[/us/pl/103/328/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs204
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2369
-[/us/pl/103/328/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs205
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2371
-[/us/pl/103/328/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs206
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2373
-[/us/pl/103/328/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs207
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2375
-[/us/pl/103/328/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs208
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2377
-[/us/pl/103/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186
+[/us/pl/103/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2FtI
 [/us/stat/107/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2245
-[/us/pl/103/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186
+[/us/pl/103/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2FtII
 [/us/stat/107/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2247
-[/us/pl/103/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186
+[/us/pl/103/186/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2FtIV
 [/us/stat/107/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2252
 [/us/pl/102/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F414
 [/us/stat/106/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2106
-[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtI
 [/us/stat/106/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1620
 [/us/pl/104/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F74
 [/us/stat/109/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F784
 [/us/pl/102/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F379
 [/us/stat/106/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1362
-[/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
+[/us/pl/102/281/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtI
 [/us/stat/106/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F133
-[/us/pl/102/390/s221/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FG
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
-[/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
+[/us/pl/102/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtII
 [/us/stat/106/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F135
-[/us/pl/102/390/s221/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FH
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
-[/us/pl/104/66/s1132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1132%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
-[/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/139-141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F139-141
-[/us/pl/102/390/s221/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FI
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
-[/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
+[/us/pl/102/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtV
 [/us/stat/106/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F145
-[/us/pl/104/66/s1132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1132%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
 [/us/pl/101/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F495
 [/us/stat/104/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1187
-[/us/pl/102/390/s221/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FF
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
 [/us/pl/101/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F406
 [/us/stat/104/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F879
-[/us/pl/102/390/s221/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FE
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
 [/us/pl/101/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F404
 [/us/stat/104/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F875
-[/us/pl/102/390/s221/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FD
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
 [/us/pl/101/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F332
 [/us/stat/104/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F313
-[/us/pl/102/390/s221/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FC
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
-[/us/pl/103/328/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2Fs209
+[/us/pl/103/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F328%2FtII
 [/us/stat/108/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2378
 [/us/pl/100/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F673
 [/us/stat/102/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3992
 [/us/pl/101/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F36
 [/us/stat/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F69
-[/us/pl/101/302/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs312%2Fc
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F245
-[/us/pl/103/186/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2Fs408%2Fb
+[/us/pl/103/186/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F186%2FtIV
 [/us/stat/107/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2253
 [/us/pl/100/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F467
 [/us/stat/102/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2275
-[/us/pl/102/390/s221/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F2%2FB
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1628
 [/us/pl/100/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F141
 [/us/stat/101/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F832
 [/us/pl/99/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F582
 [/us/stat/100/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3315
-[/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
+[/us/pl/99/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtI
 [/us/stat/99/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F113
 [/us/pl/97/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F220
 [/us/stat/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F222

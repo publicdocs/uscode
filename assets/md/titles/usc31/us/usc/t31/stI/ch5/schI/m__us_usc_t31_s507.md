@@ -17,7 +17,7 @@
 
     The Office of Electronic Government, established under [section 3602 of title 44][/us/usc/t44/s3602], is an office in the Office of Management and Budget.
 
-(Added [Pub. L. 107–347, title I, § 102(c)(1)][/us/pl/107/347/s102/c/1], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 102(c)(1), Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t44/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3602
-[/us/pl/107/347/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs102%2Fc%2F1
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
 [/us/pl/107/347/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa%2F1
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601

@@ -71,7 +71,7 @@
 
             (B) the term “administrative claim” includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
 
-(Added Pub L. 97–452, § 1(16)(A), Jan. 12, 1983, [96 Stat. 2472][/us/stat/96/2472]; amended [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (g)(1)(C), (q), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–363, 1321–372.)
+(Added Pub L. 97–452, § 1(16)(A), Jan. 12, 1983, [96 Stat. 2472][/us/stat/96/2472]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–363, 1321–372.)
 
 <table>
 
@@ -231,13 +231,13 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1) (1st–3d sentences)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    1996—Subsec. (a)(1). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsecs. (d), (e). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+    Subsecs. (d), (e). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-    Subsec. (h). [Pub. L. 104–134, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
+    Subsec. (h). [Pub. L. 104–134][/us/pl/104/134], § 31001(c)(1), (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
 
-    Subsec. (i). [Pub. L. 104–134, § 31001(q)][/us/pl/104/134/s31001/q], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–134][/us/pl/104/134], § 31001(q), added subsec. (i).
 
 ----------
 
@@ -247,11 +247,11 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1) (1st–3d sentences)
 ----------
 
 [/us/stat/96/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2472
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-359
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fc%2F1
-[/us/pl/104/134/s31001/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fq
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 
 

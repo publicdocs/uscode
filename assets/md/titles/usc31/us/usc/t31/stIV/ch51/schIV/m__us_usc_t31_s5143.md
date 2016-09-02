@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall impose charges for Bureau of Engraving and Printing services the Secretary provides to an agency or to a foreign government under section 5114. The charges shall be in amounts the Secretary considers adequate to cover the costs of the services (including administrative and other costs related to providing the services). The agency shall pay promptly bills submitted by the Secretary, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 991][/us/stat/96/991]; [Pub. L. 108–458, title VI, § 6301(b)][/us/pl/108/458/s6301/b], Dec. 17, 2004, [118 Stat. 3748][/us/stat/118/3748].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 991][/us/stat/96/991]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6301(b), Dec. 17, 2004, [118 Stat. 3748][/us/stat/118/3748].)
 
 <table>
 
@@ -78,7 +78,7 @@ Aug. 4, 1950, ch. 558, § 1, 64 Stat. 408.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F991
-[/us/pl/108/458/s6301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6301%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3748
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 

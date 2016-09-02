@@ -153,7 +153,7 @@ R.S. § 3679(c)(2); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; F
 
  __Apportionment of Funds Appropriated to District of Columbia Government__ 
 
-[Pub. L. 100–202, § 101(c)][/us/pl/100/202/s101/c] \[title I, § 135\], Dec. 22, 1987, [101 Stat. 1329–90][/us/stat/101/1329-90], 1329–102, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(c) \[title I, § 135\], Dec. 22, 1987, [101 Stat. 1329–90][/us/stat/101/1329-90], 1329–102, provided that: 
 
 > “Federal funds hereafter appropriated to the District of Columbia government shall not be subject to apportionment except to the extent specifically provided by statute.”
 
@@ -173,7 +173,7 @@ R.S. § 3679(c)(2); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; F
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F332
 [/us/usc/t2/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs681
-[/us/pl/100/202/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fc
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-90
 
 

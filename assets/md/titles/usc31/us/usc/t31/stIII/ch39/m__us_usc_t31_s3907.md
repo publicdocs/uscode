@@ -31,7 +31,7 @@
 
     (c) Except as provided in [section 3904 of this title][/us/usc/t31/s3904], this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and interest payable for the period during which the dispute is being resolved, is subject to chapter 71 of title 41.
 
-(Added [Pub. L. 97–452, § 1(18)(A)][/us/pl/97/452/s1/18/A], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477], § 3906; renumbered § 3907, [Pub. L. 100–496, § 9(a)(1)][/us/pl/100/496/s9/a/1], Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460]; amended [Pub. L. 111–350, § 5(h)(8)][/us/pl/111/350/s5/h/8], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(18)(A), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477], § 3906; renumbered § 3907, [Pub. L. 100–496][/us/pl/100/496], § 9(a)(1), Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(h)(8), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
 <table>
 
@@ -115,13 +115,13 @@ May 21, 1982, Pub. L. 97–177, § 4, 96 Stat. 87.  </td>
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–350, § 5(h)(8)(A)][/us/pl/111/350/s5/h/8/A], substituted “[section 7103 of title 41][/us/usc/t41/s7103]” for “section 6 of the Contract Disputes Act of 1978 ([41 U.S.C. 605][/us/usc/t41/s605])”.
+    2011—Subsec. (a). [Pub. L. 111–350][/us/pl/111/350], § 5(h)(8)(A), substituted “[section 7103 of title 41][/us/usc/t41/s7103]” for “section 6 of the Contract Disputes Act of 1978 ([41 U.S.C. 605][/us/usc/t41/s605])”.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–350, § 5(h)(8)(B)][/us/pl/111/350/s5/h/8/B], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
+    Subsec. (b)(1)(A). [Pub. L. 111–350][/us/pl/111/350], § 5(h)(8)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
 
-    Subsec. (b)(2). [Pub. L. 111–350, § 5(h)(8)(C)][/us/pl/111/350/s5/h/8/C], substituted “section 7109(a)(1) and (b) of title 41” for “section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611])” and “section 7109(a)(1) and (b) may” for “section 12 may”.
+    Subsec. (b)(2). [Pub. L. 111–350][/us/pl/111/350], § 5(h)(8)(C), substituted “section 7109(a)(1) and (b) of title 41” for “section 12 of the Contract Disputes Act of 1978 ([41 U.S.C. 611][/us/usc/t41/s611])” and “section 7109(a)(1) and (b) may” for “section 12 may”.
 
-    Subsec. (c). [Pub. L. 111–350, § 5(h)(8)(D)][/us/pl/111/350/s5/h/8/D], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
+    Subsec. (c). [Pub. L. 111–350][/us/pl/111/350], § 5(h)(8)(D), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
 
     1988—[Pub. L. 100–496][/us/pl/100/496] renumbered [section 3906 of this title][/us/usc/t31/s3906] as this section.
 
@@ -134,20 +134,20 @@ May 21, 1982, Pub. L. 97–177, § 4, 96 Stat. 87.  </td>
 
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
 [/us/usc/t31/s3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3904
-[/us/pl/97/452/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
-[/us/pl/100/496/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs9%2Fa%2F1
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2460
-[/us/pl/111/350/s5/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F8
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
-[/us/pl/111/350/s5/h/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F8%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
 [/us/usc/t41/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs605
-[/us/pl/111/350/s5/h/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F8%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
-[/us/pl/111/350/s5/h/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F8%2FC
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs611
-[/us/pl/111/350/s5/h/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F8%2FD
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/usc/t31/s3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3906

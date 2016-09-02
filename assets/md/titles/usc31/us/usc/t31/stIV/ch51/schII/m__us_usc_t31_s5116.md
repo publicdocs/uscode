@@ -35,7 +35,7 @@
 
         (2) The Secretary may sell or use Government silver to mint coins, except silver transferred to stockpiles established under the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98][/us/usc/t50/s98] et seq.). The Secretary shall obtain the silver for the coins authorized under [section 5112(e) of this title][/us/usc/t31/s5112/e] by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98][/us/usc/t50/s98] et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain such silver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term “average world price” means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary. The Secretary shall sell silver under conditions the Secretary considers appropriate for at least $1.292929292 a fine troy ounce.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 984][/us/stat/96/984]; [Pub. L. 99–61, title II, § 203][/us/pl/99/61/s203], July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185, § 2(c)][/us/pl/99/185/s2/c], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274, § 5][/us/pl/100/274/s5], Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 107–201, § 3(a)(1)][/us/pl/107/201/s3/a/1], July 23, 2002, [116 Stat. 737][/us/stat/116/737].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 984][/us/stat/96/984]; [Pub. L. 99–61, title II][/us/pl/99/61/tII], § 203, July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185][/us/pl/99/185], § 2(c), Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274][/us/pl/100/274], § 5, Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50]; [Pub. L. 107–201][/us/pl/107/201], § 3(a)(1), July 23, 2002, [116 Stat. 737][/us/stat/116/737].)
 
 <table>
 
@@ -153,7 +153,7 @@ In subsection (a)(1), the words “With the approval of the President” are app
 
  __References in Text__ 
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b)(2), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b)(2), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
  __Amendments__ 
 
@@ -163,9 +163,9 @@ In subsection (a)(1), the words “With the approval of the President” are app
 
     1985—Subsec. (a)(3). [Pub. L. 99–185][/us/pl/99/185] added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 99–61, § 203(1)][/us/pl/99/61/s203/1], (2), substituted “The Secretary may buy silver” for “The Secretary shall buy silver”, and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
+    Subsec. (b)(1). [Pub. L. 99–61][/us/pl/99/61], § 203(1), (2), substituted “The Secretary may buy silver” for “The Secretary shall buy silver”, and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
 
-    Subsec. (b)(2). [Pub. L. 99–61, § 203(3)][/us/pl/99/61/s203/3], inserted provision directing that the Secretary obtain the silver for the coins authorized under [section 5112(e) of this title][/us/usc/t31/s5112/e] by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+    Subsec. (b)(2). [Pub. L. 99–61][/us/pl/99/61], § 203(3), inserted provision directing that the Secretary obtain the silver for the coins authorized under [section 5112(e) of this title][/us/usc/t31/s5112/e] by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
 
  __Effective Date of 1985 Amendments__ 
 
@@ -175,13 +175,13 @@ In subsection (a)(1), the words “With the approval of the President” are app
 
  __Regulations__ 
 
-[Pub. L. 107–201, § 3(a)(2)][/us/pl/107/201/s3/a/2], July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that: 
+[Pub. L. 107–201][/us/pl/107/201], § 3(a)(2), July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that: 
 
 > “The Secretary of the Treasury shall issue regulations to implement the amendments made by paragraph (1) \[amending this section\].”
 
  __Congressional Findings Concerning American Eagle Silver Bullion Program__ 
 
-[Pub. L. 107–201, § 2][/us/pl/107/201/s2], July 23, 2002, [116 Stat. 736][/us/stat/116/736], provided that: 
+[Pub. L. 107–201][/us/pl/107/201], § 2, July 23, 2002, [116 Stat. 736][/us/stat/116/736], provided that: 
 
 > “Congress finds that—
 
@@ -239,7 +239,7 @@ In subsection (a)(1), the words “With the approval of the President” are app
 
  __Annual Report on Silver Purchases in Support of American Eagle Silver Bullion Program__ 
 
-[Pub. L. 107–201, § 3(c)][/us/pl/107/201/s3/c], July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
+[Pub. L. 107–201][/us/pl/107/201], § 3(c), July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -268,26 +268,26 @@ In subsection (a)(1), the words “With the approval of the President” are app
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F984
-[/us/pl/99/61/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs203
+[/us/pl/99/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtII
 [/us/stat/99/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F116
-[/us/pl/99/185/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fc
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
-[/us/pl/100/274/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs5
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F50
-[/us/pl/107/201/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs3%2Fa%2F1
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F737
 [/us/usc/t22/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286
 [/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
-[/us/pl/99/61/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs203%2F1
-[/us/pl/99/61/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs203%2F3
+[/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
+[/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
 [/us/usc/t31/s5112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fe
 [/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/usc/t31/s5112/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fi
@@ -297,11 +297,11 @@ In subsection (a)(1), the words “With the approval of the President” are app
 [/us/usc/t31/s5112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fe
 [/us/pl/99/61/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs205
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/107/201/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs3%2Fa%2F2
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F737
-[/us/pl/107/201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs2
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F736
-[/us/pl/107/201/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201%2Fs3%2Fc
+[/us/pl/107/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F201
 [/us/stat/116/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F737
 [/us/usc/t44/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1329
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136

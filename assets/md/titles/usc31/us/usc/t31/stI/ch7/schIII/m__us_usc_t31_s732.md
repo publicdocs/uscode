@@ -213,7 +213,7 @@
 
         (3) Notwithstanding any other provision of this chapter, the effective date of any pay increase (within the meaning of paragraph (1)(A)) taking effect with respect to a covered officer or employee in any year shall be the same as the effective date of any adjustment taking effect under [section 5303 of title 5][/us/usc/t5/s5303] with respect to statutory pay systems (as defined by [section 5302(1) of title 5][/us/usc/t5/s5302/1]) in such year.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 897][/us/stat/96/897]; [Pub. L. 98–326, § 1(b)][/us/pl/98/326/s1/b], June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 100–426, title III][/us/pl/100/426], §§ 302, 303, Sept. 9, 1988, [102 Stat. 1602][/us/stat/102/1602]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(2)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 104–53, title II, § 212(a)][/us/pl/104/53/s212/a], Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535]; [Pub. L. 106–303][/us/pl/106/303], §§ 3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, [114 Stat. 1066][/us/stat/114/1066], 1068, 1069; [Pub. L. 108–271][/us/pl/108/271], §§ 3(a), (c), 4, 8(b), 9, 12, July 7, 2004, [118 Stat. 812][/us/stat/118/812], 814, 816; [Pub. L. 110–323][/us/pl/110/323], §§ 2(a), 8, Sept. 22, 2008, [122 Stat. 3539][/us/stat/122/3539], 3548.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 897][/us/stat/96/897]; [Pub. L. 98–326][/us/pl/98/326], § 1(b), June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 100–426, title III][/us/pl/100/426/tIII], §§ 302, 303, Sept. 9, 1988, [102 Stat. 1602][/us/stat/102/1602]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(2)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 104–53, title II][/us/pl/104/53/tII], § 212(a), Nov. 19, 1995, [109 Stat. 535][/us/stat/109/535]; [Pub. L. 106–303][/us/pl/106/303], §§ 3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, [114 Stat. 1066][/us/stat/114/1066], 1068, 1069; [Pub. L. 108–271][/us/pl/108/271], §§ 3(a), (c), 4, 8(b), 9, 12, July 7, 2004, [118 Stat. 812][/us/stat/118/812], 814, 816; [Pub. L. 110–323][/us/pl/110/323], §§ 2(a), 8, Sept. 22, 2008, [122 Stat. 3539][/us/stat/122/3539], 3548.)
 
 <table>
 
@@ -401,39 +401,39 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2). [Pub. L. 110–323, § 8][/us/pl/110/323/s8], substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under [section 5307(a)(1) of title 5][/us/usc/t5/s5307/a/1]” for “highest basic rate for GS–15”.
+    2008—Subsec. (c)(2). [Pub. L. 110–323][/us/pl/110/323], § 8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under [section 5307(a)(1) of title 5][/us/usc/t5/s5307/a/1]” for “highest basic rate for GS–15”.
 
-    Subsec. (j). [Pub. L. 110–323, § 2(a)][/us/pl/110/323/s2/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 110–323][/us/pl/110/323], § 2(a), added subsec. (j).
 
-    2004—Subsec. (a). [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], substituted “Government Accountability Office” for “General Accounting Office”.
+    2004—Subsec. (a). [Pub. L. 108–271][/us/pl/108/271], § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-    Subsec. (b)(6). [Pub. L. 108–271, § 3(c)][/us/pl/108/271/s3/c], substituted “title 5, except as provided under subsection (c)(3) of this section and [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B]” for “title 5”.
+    Subsec. (b)(6). [Pub. L. 108–271][/us/pl/108/271], § 3(c), substituted “title 5, except as provided under subsection (c)(3) of this section and [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B]” for “title 5”.
 
-    Subsec. (c)(3). [Pub. L. 108–271, § 3(a)][/us/pl/108/271/s3/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “except as provided under [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B] or [section 5349(a) of title 5][/us/usc/t5/s5349/a], basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;”.
+    Subsec. (c)(3). [Pub. L. 108–271][/us/pl/108/271], § 3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “except as provided under [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B] or [section 5349(a) of title 5][/us/usc/t5/s5349/a], basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;”.
 
-    Subsec. (c)(5). [Pub. L. 108–271, § 4][/us/pl/108/271/s4], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.”
+    Subsec. (c)(5). [Pub. L. 108–271][/us/pl/108/271], § 4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.”
 
-    Subsec. (d)(1). [Pub. L. 108–271, § 4][/us/pl/108/271/s4], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of [section 4302 of title 5][/us/usc/t5/s4302];”.
+    Subsec. (d)(1). [Pub. L. 108–271][/us/pl/108/271], § 4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of [section 4302 of title 5][/us/usc/t5/s4302];”.
 
-    Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], substituted “Government Accountability Office” for “General Accounting Office”.
+    Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). [Pub. L. 108–271][/us/pl/108/271], § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-    Subsec. (h)(3)(A). [Pub. L. 108–271, § 12][/us/pl/108/271/s12], substituted “reduction in force” for “reduction force”.
+    Subsec. (h)(3)(A). [Pub. L. 108–271][/us/pl/108/271], § 12, substituted “reduction in force” for “reduction force”.
 
-    Subsec. (i). [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], substituted “Government Accountability Office” for “General Accounting Office”.
+    Subsec. (i). [Pub. L. 108–271][/us/pl/108/271], § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-    2000—Subsec. (c)(4). [Pub. L. 106–303, § 4(a)(2)][/us/pl/106/303/s4/a/2], inserted “(including senior-level positions under [section 732a of this title][/us/usc/t31/s732a])” after “129 positions” and substituted “733(c) of this title and senior-level positions described in [section 732a(b) of this title][/us/usc/t31/s732a/b]);” for “733(c) of this title);”.
+    2000—Subsec. (c)(4). [Pub. L. 106–303][/us/pl/106/303], § 4(a)(2), inserted “(including senior-level positions under [section 732a of this title][/us/usc/t31/s732a])” after “129 positions” and substituted “733(c) of this title and senior-level positions described in [section 732a(b) of this title][/us/usc/t31/s732a/b]);” for “733(c) of this title);”.
 
-    Subsec. (h). [Pub. L. 106–303, § 3(a)(1)][/us/pl/106/303/s3/a/1], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency’s goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
+    Subsec. (h). [Pub. L. 106–303][/us/pl/106/303], § 3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency’s goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
 
-    Subsec. (i). [Pub. L. 106–303, § 3(b)(1)][/us/pl/106/303/s3/b/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–303][/us/pl/106/303], § 3(b)(1), added subsec. (i).
 
     1995—Subsec. (h). [Pub. L. 104–53][/us/pl/104/53] added subsec. (h).
 
     1990—Subsec. (b)(6). [Pub. L. 101–509][/us/pl/101/509] substituted “5301” for “5301(a)”.
 
-    1988—Subsec. (c)(3). [Pub. L. 100–426, § 303][/us/pl/100/426/s303], substituted “under [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B] or [section 5349(a) of title 5][/us/usc/t5/s5349/a]” for “in [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B]”.
+    1988—Subsec. (c)(3). [Pub. L. 100–426][/us/pl/100/426], § 303, substituted “under [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B] or [section 5349(a) of title 5][/us/usc/t5/s5349/a]” for “in [section 733(a)(3)(B) of this title][/us/usc/t31/s733/a/3/B]”.
 
-    Subsec. (c)(4). [Pub. L. 100–426, § 302][/us/pl/100/426/s302], substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
+    Subsec. (c)(4). [Pub. L. 100–426][/us/pl/100/426], § 302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
 
     1984—Subsec. (c)(4). [Pub. L. 98–326][/us/pl/98/326] substituted “119” for “100”.
 
@@ -443,7 +443,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–323, § 2(b)][/us/pl/110/323/s2/b], Sept. 22, 2008, [122 Stat. 3540][/us/stat/122/3540], provided that: 
+[Pub. L. 110–323][/us/pl/110/323], § 2(b), Sept. 22, 2008, [122 Stat. 3540][/us/stat/122/3540], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act \[Sept. 22, 2008\].”
 
@@ -453,7 +453,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
  __Effective Date of 2000 Amendment; Savings Provision__ 
 
-[Pub. L. 106–303, § 3(a)(2)][/us/pl/106/303/s3/a/2], (3), Oct. 13, 2000, [114 Stat. 1067][/us/stat/114/1067], 1068, provided that:
+[Pub. L. 106–303][/us/pl/106/303], § 3(a)(2), (3), Oct. 13, 2000, [114 Stat. 1067][/us/stat/114/1067], 1068, provided that:
 
 >     “(2)  __Effective date__  __.—__ 
 
@@ -467,7 +467,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >     If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual’s rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted.”
 
-[Pub. L. 106–303, § 3(b)(2)][/us/pl/106/303/s3/b/2], Oct. 13, 2000, [114 Stat. 1068][/us/stat/114/1068], provided that: 
+[Pub. L. 106–303][/us/pl/106/303], § 3(b)(2), Oct. 13, 2000, [114 Stat. 1068][/us/stat/114/1068], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\].”
 
@@ -481,7 +481,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
  __Pay Adjustment Relating to Certain Previous Years__ 
 
-[Pub. L. 110–323, § 3][/us/pl/110/323/s3], Sept. 22, 2008, [122 Stat. 3540][/us/stat/122/3540], provided that:
+[Pub. L. 110–323][/us/pl/110/323], § 3, Sept. 22, 2008, [122 Stat. 3540][/us/stat/122/3540], provided that:
 
 >     “(a)  __Applicability__  __.—__ 
 
@@ -563,7 +563,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
  __Lump-Sum Payment for Certain Performance-Based Compensation__ 
 
-[Pub. L. 110–323, § 4][/us/pl/110/323/s4], Sept. 22, 2008, [122 Stat. 3543][/us/stat/122/3543], provided that:
+[Pub. L. 110–323][/us/pl/110/323], § 4, Sept. 22, 2008, [122 Stat. 3543][/us/stat/122/3543], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -643,13 +643,13 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 [/us/usc/t5/s5302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F897
-[/us/pl/98/326/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326%2Fs1%2Fb
+[/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/stat/98/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F269
-[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtIII
 [/us/stat/102/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1602
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/104/53/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs212%2Fa
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F535
 [/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1066
@@ -660,44 +660,44 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/110/323/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs4%2Fc%2F1
-[/us/pl/110/323/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs8
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/usc/t5/s5307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307%2Fa%2F1
-[/us/pl/110/323/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs2%2Fa
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
-[/us/pl/108/271/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs3%2Fc
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/usc/t31/s733/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733%2Fa%2F3%2FB
-[/us/pl/108/271/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs3%2Fa
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/usc/t31/s733/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733%2Fa%2F3%2FB
 [/us/usc/t5/s5349/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5349%2Fa
-[/us/pl/108/271/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs4
-[/us/pl/108/271/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs4
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/usc/t5/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4302
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
-[/us/pl/108/271/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs12
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
-[/us/pl/106/303/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs4%2Fa%2F2
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/usc/t31/s732a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732a
 [/us/usc/t31/s732a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732a%2Fb
-[/us/pl/106/303/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs3%2Fa%2F1
-[/us/pl/106/303/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs3%2Fb%2F1
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/100/426/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs303
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/usc/t31/s733/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733%2Fa%2F3%2FB
 [/us/usc/t5/s5349/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5349%2Fa
 [/us/usc/t31/s733/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs733%2Fa%2F3%2FB
-[/us/pl/100/426/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs302
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/110/323/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs2%2Fb
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3540
 [/us/pl/108/271/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs3
 [/us/pl/108/271/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs13
 [/us/usc/t31/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731
-[/us/pl/106/303/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs3%2Fa%2F2
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1067
-[/us/pl/106/303/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs3%2Fb%2F2
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1068
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -705,11 +705,11 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 [/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/pl/98/326/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326%2Fs2
 [/us/usc/t31/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731
-[/us/pl/110/323/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs3
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3540
 [/us/usc/t31/s732/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732%2Fc%2F2
 [/us/usc/t31/s732/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs732%2Fc%2F3
-[/us/pl/110/323/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs4
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3543
 [/us/usc/t31/s731/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731%2Fb
 [/us/usc/t31/s731/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731%2Fb

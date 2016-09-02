@@ -83,7 +83,7 @@
 
             (C) the use of standard classifications.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 914][/us/stat/96/914]; [Pub. L. 97–452, § 1(3)][/us/pl/97/452/s1/3], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 914][/us/stat/96/914]; [Pub. L. 97–452][/us/pl/97/452], § 1(3), Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467].)
 
 <table>
 
@@ -269,11 +269,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
  __Oversight of Counterterrorism and Antiterrorism Activities; Report__ 
 
-    [Pub. L. 105–85, div. A, title X, § 1051][/us/pl/105/85/s1051], Nov. 18, 1997, [111 Stat. 1889][/us/stat/111/1889], as amended by [Pub. L. 105–261, div. A, title XIV, § 1403][/us/pl/105/261/s1403], Oct. 17, 1998, [112 Stat. 2168][/us/stat/112/2168], which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by [Pub. L. 107–296, title VIII, § 889(b)(1)][/us/pl/107/296/s889/b/1], Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251].
+    [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1051, Nov. 18, 1997, [111 Stat. 1889][/us/stat/111/1889], as amended by [Pub. L. 105–261, div. A, title XIV][/us/pl/105/261/dA/tXIV], § 1403, Oct. 17, 1998, [112 Stat. 2168][/us/stat/112/2168], which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 889(b)(1), Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251].
 
  __Termination of Reporting Requirements__ 
 
-[Pub. L. 108–203, title IV, § 413][/us/pl/108/203/s413], Mar. 2, 2004, [118 Stat. 529][/us/stat/118/529], provided that: 
+[Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 413, Mar. 2, 2004, [118 Stat. 529][/us/stat/118/529], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -291,7 +291,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >         “(B) Section 221(i)(3) of the Social Security Act ([42 U.S.C. 421(i)(3)][/us/usc/t42/s421/i/3]).”
 
-[Pub. L. 107–303, title III, § 302(a)][/us/pl/107/303/s302/a], Nov. 27, 2002, [116 Stat. 2360][/us/stat/116/2360], provided that:
+[Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(a), Nov. 27, 2002, [116 Stat. 2360][/us/stat/116/2360], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -337,7 +337,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >         Section 516 of the Federal Water Pollution Control Act ([33 U.S.C. 1375][/us/usc/t33/s1375]).”
 
-[Pub. L. 107–295, title III, § 322(b)][/us/pl/107/295/s322/b], Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103], provided that: 
+[Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 322(b), Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -365,7 +365,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     Section 7001(e) of the Oil Pollution Act of 1990 ([33 U.S.C. 2761(e)][/us/usc/t33/s2761/e]).”
 
-[Pub. L. 107–74, § 1][/us/pl/107/74/s1], Nov. 28, 2001, [115 Stat. 701][/us/stat/115/701], as amended by [Pub. L. 110–69, title VII, § 7024(a)(3)][/us/pl/110/69/s7024/a/3], Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689], provided that: 
+[Pub. L. 107–74][/us/pl/107/74], § 1, Nov. 28, 2001, [115 Stat. 701][/us/stat/115/701], as amended by [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7024(a)(3), Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -427,7 +427,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(29) Section 16 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2215][/us/usc/t15/s2215]).”
 
-[Pub. L. 106–569, title XI, § 1102][/us/pl/106/569/s1102], Dec. 27, 2000, [114 Stat. 3029][/us/stat/114/3029], as amended by [Pub. L. 111–67, § 12(b)(2)][/us/pl/111/67/s12/b/2], Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that: 
+[Pub. L. 106–569, title XI][/us/pl/106/569/tXI], § 1102, Dec. 27, 2000, [114 Stat. 3029][/us/stat/114/3029], as amended by [Pub. L. 111–67][/us/pl/111/67], § 12(b)(2), Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -505,7 +505,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(37) Section 202(b)(8) of the National Housing Act ([12 U.S.C. 1708(b)(8)][/us/usc/t12/s1708/b/8]).”
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–214, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–214, provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -517,7 +517,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(4) Section 1014(e) of the Congressional Budget and Impoundment Control Act of 1974 ([2 U.S.C. 685(e)][/us/usc/t2/s685/e]).”
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 301\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 301\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629, provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -737,7 +737,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(33) Section 4207(f) of the Omnibus Budget Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508]\] ([42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1] note).”
 
-[Pub. L. 106–476, title I, § 1463][/us/pl/106/476/s1463], Nov. 9, 2000, [114 Stat. 2173][/us/stat/114/2173], provided that: 
+[Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1463, Nov. 9, 2000, [114 Stat. 2173][/us/stat/114/2173], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -745,11 +745,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(2) Section 181 of the Trade Act of 1974 ([19 U.S.C. 2241][/us/usc/t19/s2241]).”
 
-[Pub. L. 106–419, title IV, § 403(a)][/us/pl/106/419/s403/a], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863], provided that: 
+[Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 403(a), Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code.”
 
-[Pub. L. 106–197, § 1][/us/pl/106/197/s1], May 2, 2000, [114 Stat. 246][/us/stat/114/246], provided that: 
+[Pub. L. 106–197][/us/pl/106/197], § 1, May 2, 2000, [114 Stat. 246][/us/stat/114/246], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -797,7 +797,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(22) Section 102(b)(5) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[[Pub. L. 102–395][/us/pl/102/395]\] ([28 U.S.C. 533][/us/usc/t28/s533] note).”
 
-[Pub. L. 106–181, title I, § 163][/us/pl/106/181/s163], Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91], provided that: 
+[Pub. L. 106–181, title I][/us/pl/106/181/tI], § 163, Apr. 5, 2000, [114 Stat. 91][/us/stat/114/91], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -807,7 +807,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(3) Section 47131 of such title.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 209(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 209(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 ([Public Law 104–66][/us/pl/104/66]; [31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -847,7 +847,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(18) Section 5(b) of the Japan-United States Friendship Act ([Public Law 94–118][/us/pl/94/118]; [22 U.S.C. 2904(b)][/us/usc/t22/s2904/b]) (relating to Japan-United States Friendship Commission activities).”
 
-[Pub. L. 106–65, div. A, title X, § 1031][/us/pl/106/65/s1031], Oct. 5, 1999, [113 Stat. 749][/us/stat/113/749], provided that: 
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1031, Oct. 5, 1999, [113 Stat. 749][/us/stat/113/749], provided that: 
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -919,7 +919,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 ([Public Law 101–189][/us/pl/101/189]; [103 Stat. 1373][/us/stat/103/1373]).”
 
-[Pub. L. 104–66, title III, § 3003][/us/pl/104/66/s3003], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], as amended by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 236\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–302; [Pub. L. 110–314, title II, § 203(b)][/us/pl/110/314/s203/b], Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], provided that:
+[Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3003, Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 236\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–302; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 203(b), Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], provided that:
 
 >     “(a) __Termination.—__ 
 
@@ -1015,7 +1015,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
  __Authority To Increase Efficiency in Reporting to Congress__ 
 
-[Pub. L. 103–356, title III, § 301][/us/pl/103/356/s301], Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that:
+[Pub. L. 103–356, title III][/us/pl/103/356/tIII], § 301, Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -1043,19 +1043,19 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t31/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1112
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F914
-[/us/pl/97/452/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F3
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2467
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/85/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1051
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1889
-[/us/pl/105/261/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1403
+[/us/pl/105/261/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXIV
 [/us/stat/112/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2168
-[/us/pl/107/296/s889/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs889%2Fb%2F1
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2251
-[/us/pl/108/203/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs413
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F529
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1064,7 +1064,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t42/s1395t/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t%2Fb%2F2
 [/us/usc/t42/s421/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fc%2F3%2FC
 [/us/usc/t42/s421/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi%2F3
-[/us/pl/107/303/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs302%2Fa
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2360
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
@@ -1078,7 +1078,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t33/s1330/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330%2Fj%2F2
 [/us/usc/t33/s1368/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1368%2Fe
 [/us/usc/t33/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1375
-[/us/pl/107/295/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs322%2Fb
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2103
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1088,9 +1088,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t49/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs308%2Fc
 [/us/usc/t46/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs306%2Fa
 [/us/usc/t33/s2761/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2761%2Fe
-[/us/pl/107/74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F74%2Fs1
+[/us/pl/107/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F74
 [/us/stat/115/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F701
-[/us/pl/110/69/s7024/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F3
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F689
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1125,9 +1125,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t42/s1862/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862%2Fa%2F7
 [/us/usc/t42/s1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1873
 [/us/usc/t15/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2215
-[/us/pl/106/569/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1102
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3029
-[/us/pl/111/67/s12/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs12%2Fb%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2022
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1173,7 +1173,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
 [/us/usc/t12/s1708/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1708%2Fb%2F8
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1181,7 +1181,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/usc/t2/s602/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs602%2Fe%2F1
 [/us/usc/t2/s685/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs685%2Fe
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1277,17 +1277,17 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t42/s12209/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12209%2Fc%2F3
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
-[/us/pl/106/476/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1463
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2173
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241
-[/us/pl/106/419/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs403%2Fa
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1863
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/106/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197%2Fs1
+[/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
 [/us/stat/114/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F246
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1321,14 +1321,14 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t50/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1808
 [/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
 [/us/usc/t28/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs533
-[/us/pl/106/181/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs163
+[/us/pl/106/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtI
 [/us/stat/114/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F91
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t49/s44501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44501
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1369,7 +1369,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t22/s4413/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4413%2Fi
 [/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/usc/t22/s2904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2904%2Fb
-[/us/pl/106/65/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1031
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F749
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
@@ -1418,11 +1418,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/stat/95/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1377
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/stat/103/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1373
-[/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/110/314/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs203%2Fb
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3040
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
@@ -1472,7 +1472,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
 [/us/usc/t15/s2076/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076%2Fk
 [/us/usc/t22/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469
-[/us/pl/103/356/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs301
+[/us/pl/103/356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIII
 [/us/stat/108/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3412
 
 

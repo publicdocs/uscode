@@ -43,7 +43,7 @@
 
         (2) a period of 90 calendar days beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1) has expired.
 
-(Added [Pub. L. 111–203, title V, § 502(a)(3)][/us/pl/111/203/s502/a/3], July 21, 2010, [124 Stat. 1588][/us/stat/124/1588].)
+(Added [Pub. L. 111–203, title V][/us/pl/111/203/tV], § 502(a)(3), July 21, 2010, [124 Stat. 1588][/us/stat/124/1588].)
 
  __Effective Date__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fa%2F3
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1588
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

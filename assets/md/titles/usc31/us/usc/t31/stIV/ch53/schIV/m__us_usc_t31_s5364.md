@@ -75,7 +75,7 @@
 
         (2) the Federal Trade Commission, with respect to designated payment systems and financial transaction providers not otherwise subject to the jurisdiction of any Federal functional regulators (including the Commission) as described in paragraph (1).
 
-(Added [Pub. L. 109–347, title VIII, § 802(a)][/us/pl/109/347/s802/a], Oct. 13, 2006, [120 Stat. 1958][/us/stat/120/1958].)
+(Added [Pub. L. 109–347, title VIII][/us/pl/109/347/tVIII], § 802(a), Oct. 13, 2006, [120 Stat. 1958][/us/stat/120/1958].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs802%2Fa
+[/us/pl/109/347/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVIII
 [/us/stat/120/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1958
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/usc/t15/s6805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6805%2Fa

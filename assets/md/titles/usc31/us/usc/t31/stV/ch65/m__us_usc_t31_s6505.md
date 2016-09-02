@@ -145,7 +145,7 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
  __Performance of Specialized or Technical Services__ 
 
-[Pub. L. 106–541, title II, § 211][/us/pl/106/541/s211], Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592], as amended by [Pub. L. 107–66, title I, § 109][/us/pl/107/66/s109], Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496], provided that:
+[Pub. L. 106–541, title II][/us/pl/106/541/tII], § 211, Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592], as amended by [Pub. L. 107–66, title I][/us/pl/107/66/tI], § 109, Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496], provided that:
 
 >     “(a)  __Definition of State__  __.—__ 
 
@@ -197,13 +197,13 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
  __Transportation of State Prisoners__ 
 
-[Pub. L. 105–119, title I][/us/pl/105/119], Nov. 26, 1997, [111 Stat. 2444][/us/stat/111/2444], provided in part: 
+[Pub. L. 105–119, title I][/us/pl/105/119/tI], Nov. 26, 1997, [111 Stat. 2444][/us/stat/111/2444], provided in part: 
 
 > “That, for fiscal year 1998 and thereafter, the service of maintaining and transporting State, local, or territorial prisoners shall be considered a specialized or technical service for purposes of [31 U.S.C. 6505][/us/usc/t31/s6505], and any prisoners so transported shall be considered persons (transported for other than commercial purposes) whose presence is associated with the performance of a governmental function for purposes of [49 U.S.C. 40102][/us/usc/t49/s40102].”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–5.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–5.
 
 ----------
 
@@ -215,17 +215,17 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1007
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/106/541/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2Fs211
+[/us/pl/106/541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F541%2FtII
 [/us/stat/114/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2592
-[/us/pl/107/66/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2Fs109
+[/us/pl/107/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F66%2FtI
 [/us/stat/115/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F496
 [/us/usc/t31/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501
 [/us/usc/t31/s6505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6505
-[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2444
 [/us/usc/t31/s6505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6505
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 
 

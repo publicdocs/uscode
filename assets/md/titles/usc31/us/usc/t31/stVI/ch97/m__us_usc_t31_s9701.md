@@ -99,7 +99,7 @@ Aug. 31, 1951, ch. 376, § 501, 65 Stat. 290.  </td>
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–393, title VI, § 638(a)][/us/pl/102/393/s638/a], Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779], provided that: 
+[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 638(a), Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779], provided that: 
 
 > “This section \[enacting [section 9703 of this title][/us/usc/t31/s9703] and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, [section 1509 of Title 21][/us/usc/t21/s1509], Food and Drugs, [section 524 of Title 28][/us/usc/t28/s524], Judiciary and Judicial Procedure, and [section 2003 of Title 39][/us/usc/t39/s2003], Postal Service\] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
 
@@ -114,7 +114,7 @@ Aug. 31, 1951, ch. 376, § 501, 65 Stat. 290.  </td>
 [/us/stat/96/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1051
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
 [/us/usc/t31/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fa
-[/us/pl/102/393/s638/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fa
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1779
 [/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
 [/us/usc/t21/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509

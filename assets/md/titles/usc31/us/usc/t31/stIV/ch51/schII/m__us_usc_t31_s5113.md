@@ -25,7 +25,7 @@
 
         (2) may remelt the group of coins.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 983][/us/stat/96/983]; [Pub. L. 100–274, § 4(b)][/us/pl/100/274/s4/b], Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 983][/us/stat/96/983]; [Pub. L. 100–274][/us/pl/100/274], § 4(b), Mar. 31, 1988, [102 Stat. 50][/us/stat/102/50].)
 
 <table>
 
@@ -123,7 +123,7 @@ R.S. § 3538; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma 
 [/us/usc/t31/s5112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F983
-[/us/pl/100/274/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs4%2Fb
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F50
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112

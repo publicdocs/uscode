@@ -71,7 +71,7 @@
 
     (j) Consistent with Federal program purposes and regulations of the Director of the Office of Management and Budget, the head of a Federal executive agency carrying out a program shall execute grant awards to States on a timely basis to assure the availability of funds to accomplish transfers in compliance with subsection (a) of this section.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1007][/us/stat/96/1007]; [Pub. L. 101–453, § 5(b)][/us/pl/101/453/s5/b], Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1007][/us/stat/96/1007]; [Pub. L. 101–453][/us/pl/101/453], § 5(b), Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059].)
 
 <table>
 
@@ -143,19 +143,19 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–453, § 5(e)][/us/pl/101/453/s5/e], Oct. 24, 1990, [104 Stat. 1061][/us/stat/104/1061], as amended by [Pub. L. 102–589, § 2(2)(C)][/us/pl/102/589/s2/2/C], Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
+[Pub. L. 101–453][/us/pl/101/453], § 5(e), Oct. 24, 1990, [104 Stat. 1061][/us/stat/104/1061], as amended by [Pub. L. 102–589][/us/pl/102/589], § 2(2)(C), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6501 of this title][/us/usc/t31/s6501]\] shall take effect on the date of enactment of this Act \[Oct. 24, 1990\], except that subsections (c) and (d) of [section 6503 of title 31][/us/usc/t31/s6503], United States Code, as added by subsection (b) of this section (relating to payments of interest between the Federal Government and State governments), shall take effect on July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.”
 
  __Treatment of Compensation or Reimbursement Paid Pursuant to Other Laws__ 
 
-[Pub. L. 107–273, div. A, title II, § 204(f)][/us/pl/107/273/s204/f], Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], as amended by [Pub. L. 109–162, title XI, § 1151(a)][/us/pl/109/162/s1151/a], (b), Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112], provided that: 
+[Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 204(f), Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], as amended by [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1151(a), (b), Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112], provided that: 
 
 > “No compensation or reimbursement paid pursuant to the Southwest Border Prosecutor Initiative (as carried out pursuant to paragraph (3) ([117 Stat. 64][/us/stat/117/64]) under the heading relating to Community Oriented Policing Services of the Department of Justice Appropriations Act, 2003 (title I of division B of [Public Law 108–7][/us/pl/108/7]), or as carried out pursuant to any subsequent authority) or [section 501(a) of Public Law 99–603][/us/pl/99/603/s501/a] \[[8 U.S.C. 1365(a)][/us/usc/t8/s1365/a]\] ([100 Stat. 3443][/us/stat/100/3443]) or [section 241(i) of the Act of June 27, 1952][/us/act/1952-06-27/s241/i] \[[8 U.S.C. 1231(i)][/us/usc/t8/s1231/i]\] (ch. 477) shall be subject to sections \[sic\] 3335(b) or 6503(d) of title 31, United States Code, and no funds available to the Attorney General may be used to pay any assessment made pursuant to such sections \[sic\] 3335(b) or 6503 with respect to any such compensation or reimbursement.”
 
  __Agreements With States__ 
 
-[Pub. L. 101–453, § 5(d)][/us/pl/101/453/s5/d], Oct. 24, 1990, [104 Stat. 1061][/us/stat/104/1061], as amended by [Pub. L. 102–589, § 2(2)(A)][/us/pl/102/589/s2/2/A], (B), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that:
+[Pub. L. 101–453][/us/pl/101/453], § 5(d), Oct. 24, 1990, [104 Stat. 1061][/us/stat/104/1061], as amended by [Pub. L. 102–589][/us/pl/102/589], § 2(2)(A), (B), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that:
 
 >     “(1)  __Secretary’s efforts to enter agreements__  __.—__ 
 
@@ -167,7 +167,7 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101.  </td>
 
  __GAO Report__ 
 
-    [Pub. L. 101–453, § 6][/us/pl/101/453/s6], Oct. 24, 1990, [104 Stat. 1062][/us/stat/104/1062], as amended by [Pub. L. 102–589, § 2(3)][/us/pl/102/589/s2/3], Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by [section 5 of Pub. L. 101–453][/us/pl/101/453/s5] (which amended this section and [section 6501 of this title][/us/usc/t31/s6501]) and to submit a report to Congress describing results of that audit, was repealed by [Pub. L. 104–316, title I, § 115(i)][/us/pl/104/316/s115/i], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835].
+    [Pub. L. 101–453][/us/pl/101/453], § 6, Oct. 24, 1990, [104 Stat. 1062][/us/stat/104/1062], as amended by [Pub. L. 102–589][/us/pl/102/589], § 2(3), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by [section 5 of Pub. L. 101–453][/us/pl/101/453/s5] (which amended this section and [section 6501 of this title][/us/usc/t31/s6501]) and to submit a report to Congress describing results of that audit, was repealed by [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(i), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835].
 
 ----------
 
@@ -179,18 +179,18 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101.  </td>
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1007
-[/us/pl/101/453/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fb
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1059
 [/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
-[/us/pl/101/453/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fe
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1061
-[/us/pl/102/589/s2/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs2%2F2%2FC
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
 [/us/usc/t31/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501
 [/us/usc/t31/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503
-[/us/pl/107/273/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs204%2Ff
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1776
-[/us/pl/109/162/s1151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1151%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3112
 [/us/stat/117/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F64
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -199,19 +199,19 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101.  </td>
 [/us/stat/100/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3443
 [/us/act/1952-06-27/s241/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fs241%2Fi
 [/us/usc/t8/s1231/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fi
-[/us/pl/101/453/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5%2Fd
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1061
-[/us/pl/102/589/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs2%2F2%2FA
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
 [/us/usc/t31/s6503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503%2Fb
 [/us/usc/t31/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6503
-[/us/pl/101/453/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs6
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1062
-[/us/pl/102/589/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs2%2F3
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
 [/us/pl/101/453/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs5
 [/us/usc/t31/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501
-[/us/pl/104/316/s115/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fi
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
 
 

@@ -29,11 +29,11 @@
 
         (2) shall not be paid from amounts available for funding programs of an executive agency.
 
-(Added [Pub. L. 101–453, § 4(a)][/us/pl/101/453/s4/a], Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058].)
+(Added [Pub. L. 101–453][/us/pl/101/453], § 4(a), Oct. 24, 1990, [104 Stat. 1058][/us/stat/104/1058].)
 
  __Regulations__ 
 
-[Pub. L. 101–453, § 4(c)][/us/pl/101/453/s4/c], Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], as amended by [Pub. L. 102–589, § 2(1)][/us/pl/102/589/s2/1], Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
+[Pub. L. 101–453][/us/pl/101/453], § 4(c), Oct. 24, 1990, [104 Stat. 1059][/us/stat/104/1059], as amended by [Pub. L. 102–589][/us/pl/102/589], § 2(1), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that: 
 
 > “The Secretary of the Treasury shall prescribe regulations under [section 3335 of title 31][/us/usc/t31/s3335], United States Code, as added by subsection (a), to ensure the full implementation of that section.”
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/101/453/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs4%2Fa
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1058
-[/us/pl/101/453/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453%2Fs4%2Fc
+[/us/pl/101/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F453
 [/us/stat/104/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1059
-[/us/pl/102/589/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589%2Fs2%2F1
+[/us/pl/102/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F589
 [/us/stat/106/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5133
 [/us/usc/t31/s3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3335
 

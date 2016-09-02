@@ -63,7 +63,7 @@
 
     (d) The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
-(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1202][/us/stat/98/1202]; amended [Pub. L. 103–355, title I, § 1404][/us/pl/103/355/s1404], Oct. 13, 1994, [108 Stat. 3291][/us/stat/108/3291]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–76, div. I, title I, § 1501][/us/pl/113/76/s1501], Jan. 17, 2014, [128 Stat. 433][/us/stat/128/433].)
+(Added [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2741(a), July 18, 1984, [98 Stat. 1202][/us/stat/98/1202]; amended [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1404, Oct. 13, 1994, [108 Stat. 3291][/us/stat/108/3291]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1501, Jan. 17, 2014, [128 Stat. 433][/us/stat/128/433].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 
     2004—Subsec. (b)(2)(B). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-    1994—Subsec. (a). [Pub. L. 103–355, § 1404(c)][/us/pl/103/355/s1404/c], substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
+    1994—Subsec. (a). [Pub. L. 103–355][/us/pl/103/355], § 1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
 
-    Subsecs. (b) to (d). [Pub. L. 103–355, § 1404(a)][/us/pl/103/355/s1404/a], (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 103–355][/us/pl/103/355], § 1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -91,18 +91,18 @@
 ----------
 
 [/us/usc/t31/s3554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3554%2Fa%2F2
-[/us/pl/98/369/s2741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2741%2Fa
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1202
-[/us/pl/103/355/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1404
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3291
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/76/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1501
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F433
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/103/355/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1404%2Fc
-[/us/pl/103/355/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1404%2Fa
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

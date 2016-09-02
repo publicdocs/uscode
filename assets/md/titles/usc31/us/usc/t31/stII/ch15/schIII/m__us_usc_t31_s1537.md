@@ -53,7 +53,7 @@
 
     (d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Division on a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 934][/us/stat/96/934]; [Pub. L. 109–177, title VI, § 605(d)(1)][/us/pl/109/177/s605/d/1], Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 934][/us/stat/96/934]; [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 605(d)(1), Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255].)
 
 <table>
 
@@ -170,7 +170,7 @@ Dec. 24, 1973, Pub. L. 93–198, § 731, 87 Stat. 822.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F934
-[/us/pl/109/177/s605/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fd%2F1
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F255
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t3/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs302

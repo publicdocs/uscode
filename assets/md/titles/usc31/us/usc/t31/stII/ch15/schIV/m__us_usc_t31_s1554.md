@@ -41,7 +41,7 @@
 
     (c) The head of each agency shall establish internal controls to assure that an adequate review of obligated balances is performed to support the certification required by [section 1108(c) of this title][/us/usc/t31/s1108/c].
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 936][/us/stat/96/936]; [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)][/us/pl/101/510/s1405/a/1], Nov. 5, 1990, [104 Stat. 1677][/us/stat/104/1677]; [Pub. L. 102–190, div. A, title X, § 1004(b)][/us/pl/102/190/s1004/b], Dec. 5, 1991, [105 Stat. 1457][/us/stat/105/1457].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 936][/us/stat/96/936]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(1), Nov. 5, 1990, [104 Stat. 1677][/us/stat/104/1677]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1004(b), Dec. 5, 1991, [105 Stat. 1457][/us/stat/105/1457].)
 
 <table>
 
@@ -125,7 +125,7 @@ July 25, 1956, ch. 727, § 3(a), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff.
 
  __Reporting Requirement Regarding Effect of Certain Payments and Adjustments on Federal Deficit__ 
 
-[Pub. L. 102–190, div. A, title X, § 1004(a)][/us/pl/102/190/s1004/a], Dec. 5, 1991, [105 Stat. 1457][/us/stat/105/1457], provided that: 
+[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1004(a), Dec. 5, 1991, [105 Stat. 1457][/us/stat/105/1457], provided that: 
 
 > “At the same time that the President submits to Congress the budget for each of fiscal years 1993, 1994, 1995, and 1996 under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Director of the Office of Management and Budget shall submit to Congress a report regarding the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of such title for the fiscal year in which such budget is submitted, the fiscal year preceding that fiscal year, and the fiscal year covered by that budget. The report shall include separate estimates for the accounts of each agency.”
 
@@ -142,9 +142,9 @@ July 25, 1956, ch. 727, § 3(a), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff.
 [/us/usc/t31/s1108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1108%2Fc
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F936
-[/us/pl/101/510/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1677
-[/us/pl/102/190/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1004%2Fb
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1457
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
@@ -154,7 +154,7 @@ July 25, 1956, ch. 727, § 3(a), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff.
 [/us/usc/t31/s1552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa%2F1
 [/us/pl/101/510/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fb
 [/us/usc/t31/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1551
-[/us/pl/102/190/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1004%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1457
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 

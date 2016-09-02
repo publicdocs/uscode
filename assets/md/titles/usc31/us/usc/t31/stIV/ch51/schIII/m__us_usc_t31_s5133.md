@@ -57,7 +57,7 @@
 
     (d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 989][/us/stat/96/989]; [Pub. L. 100–274, § 2(c)(4)][/us/pl/100/274/s2/c/4]–(7), (9), (10), Mar. 31, 1988, [102 Stat. 49][/us/stat/102/49]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 989][/us/stat/96/989]; [Pub. L. 100–274][/us/pl/100/274], § 2(c)(4)–(7), (9), (10), Mar. 31, 1988, [102 Stat. 49][/us/stat/102/49]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
 <table>
 
@@ -207,13 +207,13 @@ R.S. § 3549; restated Mar. 4, 1911, ch. 268, § 2, 36 Stat. 1354.  </td>
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–274, § 2(c)(4)][/us/pl/100/274/s2/c/4], substituted “each mint” and “superintendent receives” for “each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
+    1988—Subsec. (a)(1). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(4), substituted “each mint” and “superintendent receives” for “each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
 
-    Subsec. (a)(2). [Pub. L. 100–274, § 2(c)(5)][/us/pl/100/274/s2/c/5], substituted “credit each superintendent with the amount” and “superintendent returns” for “credit each superintendent and the officer with the amount” and “superintendent or officer returns”, respectively.
+    Subsec. (a)(2). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(5), substituted “credit each superintendent with the amount” and “superintendent returns” for “credit each superintendent and the officer with the amount” and “superintendent or officer returns”, respectively.
 
-    Subsec. (a)(3). [Pub. L. 100–274, § 2(c)(6)][/us/pl/100/274/s2/c/6], substituted “superintendent, who” for “superintendent and the officer, who”.
+    Subsec. (a)(3). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(6), substituted “superintendent, who” for “superintendent and the officer, who”.
 
-    Subsec. (b). [Pub. L. 100–274, § 2(c)(7)][/us/pl/100/274/s2/c/7], inserted heading and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “At least once a year, the Secretary shall settle the accounts of the superintendents and the officer in charge. At settlement, each superintendent and the officer shall return to the Secretary coins, clippings, and other bullion in their possession with a statement of bullion received and returned since the last settlement (including bullion returned for settlement). The Secretary shall—
+    Subsec. (b). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(7), inserted heading and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “At least once a year, the Secretary shall settle the accounts of the superintendents and the officer in charge. At settlement, each superintendent and the officer shall return to the Secretary coins, clippings, and other bullion in their possession with a statement of bullion received and returned since the last settlement (including bullion returned for settlement). The Secretary shall—
 
     “(1) audit the accounts and statements of each superintendent and the officer;
 
@@ -221,11 +221,11 @@ R.S. § 3549; restated Mar. 4, 1911, ch. 268, § 2, 36 Stat. 1354.  </td>
 
     “(3) allow the officer the waste, within the limitations prescribed for refining, that the Secretary decides is necessary in casting fine gold and silver bars, except that the waste allowance may not apply to deposit operations.”
 
-    Subsec. (c). [Pub. L. 100–274, § 2(c)(9)][/us/pl/100/274/s2/c/9], struck out “and assay offices” after “total liabilities of the mints”.
+    Subsec. (c). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(9), struck out “and assay offices” after “total liabilities of the mints”.
 
     Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-    [Pub. L. 100–274, § 2(c)(10)][/us/pl/100/274/s2/c/10], struck out “and assay office” after “procure for each mint” and “and assay offices” after “transactions at the mints”.
+    [Pub. L. 100–274][/us/pl/100/274], § 2(c)(10), struck out “and assay office” after “procure for each mint” and “and assay offices” after “transactions at the mints”.
 
 ----------
 
@@ -236,19 +236,19 @@ R.S. § 3549; restated Mar. 4, 1911, ch. 268, § 2, 36 Stat. 1354.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F989
-[/us/pl/100/274/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F4
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F49
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/act/1980-03-14/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1980-03-14%2Fs201
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/stat/94/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F98
-[/us/pl/100/274/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F4
-[/us/pl/100/274/s2/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F5
-[/us/pl/100/274/s2/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F6
-[/us/pl/100/274/s2/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F7
-[/us/pl/100/274/s2/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F9
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/274/s2/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F10
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 
 

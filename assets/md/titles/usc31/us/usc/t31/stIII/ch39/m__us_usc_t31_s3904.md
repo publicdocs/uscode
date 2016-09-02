@@ -17,7 +17,7 @@
 
     The head of an agency offered a discount by a business concern from an amount due under a contract for property or service in exchange for payment within a specified time may pay the discounted amount only if payment is made within the specified time. For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice. The head of the agency shall pay an interest penalty on an amount remaining unpaid in violation of this section. The penalty accrues as provided under sections 3902 and 3903 of this title, except that the required payment date for the unpaid amount is the last day specified in the contract that the discounted amount may be paid.
 
-(Added [Pub. L. 97–452, § 1(18)(A)][/us/pl/97/452/s1/18/A], Jan. 12, 1983, [96 Stat. 2476][/us/stat/96/2476]; amended [Pub. L. 100–496, § 8][/us/pl/100/496/s8], Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(18)(A), Jan. 12, 1983, [96 Stat. 2476][/us/stat/96/2476]; amended [Pub. L. 100–496][/us/pl/100/496], § 8, Oct. 17, 1988, [102 Stat. 2460][/us/stat/102/2460].)
 
 <table>
 
@@ -80,9 +80,9 @@ May 21, 1982, Pub. L. 97–177, § 3, 96 Stat. 86.  </td>
 ----------
 ----------
 
-[/us/pl/97/452/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2476
-[/us/pl/100/496/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs8
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2460
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496

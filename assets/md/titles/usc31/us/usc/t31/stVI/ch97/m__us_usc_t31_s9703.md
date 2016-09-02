@@ -27,13 +27,13 @@
 
     (f) For purposes of this section, the definitions under section 1115(f) 1 shall apply.
 
-(Added [Pub. L. 103–62, § 5(a)][/us/pl/103/62/s5/a], Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 5(a), Aug. 3, 1993, [107 Stat. 289][/us/stat/107/289].)
 
  __References in Text__ 
 
-    Section 1105(a)(29), referred to in subsec. (a), was redesignated [section 1105(a)(28) of this title][/us/usc/t31/s1105/a/28] by [Pub. L. 104–287, § 4(1)][/us/pl/104/287/s4/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388].
+    Section 1105(a)(29), referred to in subsec. (a), was redesignated [section 1105(a)(28) of this title][/us/usc/t31/s1105/a/28] by [Pub. L. 104–287][/us/pl/104/287], § 4(1), Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388].
 
-    Section 1115(f), referred to in subsec. (f), was redesignated [section 1115(g) of this title][/us/usc/t31/s1115/g] by [Pub. L. 107–296, title XIII, § 1311(a)(2)][/us/pl/107/296/s1311/a/2], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].
+    Section 1115(f), referred to in subsec. (f), was redesignated [section 1115(g) of this title][/us/usc/t31/s1115/g] by [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1311(a)(2), Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].
 
  __Codification__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/usc/t31/s1105/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa%2F28
-[/us/pl/104/287/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs4%2F1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3388
 [/us/usc/t31/s1115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fg
-[/us/pl/107/296/s1311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fa%2F2
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290
 [/us/usc/t31/s9705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62

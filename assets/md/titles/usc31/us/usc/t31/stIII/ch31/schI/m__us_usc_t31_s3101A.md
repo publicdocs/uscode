@@ -157,11 +157,11 @@
 
         (2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Added [Pub. L. 112–25, title III, § 301(a)(2)][/us/pl/112/25/s301/a/2], Aug. 2, 2011, [125 Stat. 251][/us/stat/125/251].)
+(Added [Pub. L. 112–25, title III][/us/pl/112/25/tIII], § 301(a)(2), Aug. 2, 2011, [125 Stat. 251][/us/stat/125/251].)
 
  __References in Text__ 
 
-    Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in subsec. (a)(2)(A)(iii), is [section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25][/us/pl/112/25/s401/b/3/B/i/II], which is set out in a note under [section 900 of Title 2][/us/usc/t2/s900], The Congress.
+    Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in subsec. (a)(2)(A)(iii), is [section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25][/us/pl/112/25/tIV/s401/b/3/B/i/II], which is set out in a note under [section 900 of Title 2][/us/usc/t2/s900], The Congress.
 
     Section 255, section 256, and subsections (c), (d), (e), and (f) of section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (f)(6)(B), are classified to sections 905, 906, and 903(c) to (f), respectively, of Title 2, The Congress.
 
@@ -174,9 +174,9 @@
 
 [/us/usc/t31/s3101A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101A
 [/us/usc/t31/s3101A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101A%2Fa
-[/us/pl/112/25/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs301%2Fa%2F2
+[/us/pl/112/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtIII
 [/us/stat/125/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F251
-[/us/pl/112/25/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs401%2Fb%2F3%2FB%2Fi%2FII
+[/us/pl/112/25/tIV/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtIV%2Fs401%2Fb%2F3%2FB%2Fi%2FII
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 
 

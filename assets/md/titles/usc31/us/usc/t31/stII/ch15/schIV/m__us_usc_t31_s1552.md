@@ -19,7 +19,7 @@
 
     (b) Collections authorized or required to be credited to an appropriation account, but not received before closing of the account under subsection (a) or under [section 1555 of this title][/us/usc/t31/s1555] shall be deposited in the Treasury as miscellaneous receipts.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 935][/us/stat/96/935]; [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)][/us/pl/101/510/s1405/a/1], Nov. 5, 1990, [104 Stat. 1676][/us/stat/104/1676].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 935][/us/stat/96/935]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(1), Nov. 5, 1990, [104 Stat. 1676][/us/stat/104/1676].)
 
 <table>
 
@@ -163,7 +163,7 @@ July 25, 1956, ch. 727, §§ 1(c)(last sentence), (d), 5, 70 Stat. 648, 649.  
 
  __Audit of Obligated Balances of Department of Defense__ 
 
-[Pub. L. 101–510, div. A, title XIV, § 1406][/us/pl/101/510/s1406], Nov. 5, 1990, [104 Stat. 1680][/us/stat/104/1680], provided that:
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1406, Nov. 5, 1990, [104 Stat. 1680][/us/stat/104/1680], provided that:
 
 >     “(a)  __Audit Requirement__  __.—__ 
 
@@ -199,13 +199,13 @@ July 25, 1956, ch. 727, §§ 1(c)(last sentence), (d), 5, 70 Stat. 648, 649.  
 [/us/usc/t31/s1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1555
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F935
-[/us/pl/101/510/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1676
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fb
 [/us/usc/t31/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1551
-[/us/pl/101/510/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1406
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1680
 [/us/usc/t31/s1552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501

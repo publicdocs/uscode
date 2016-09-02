@@ -41,7 +41,7 @@
 
     (f) When authorized by the Secretary, an official or agent of the Government having custody or possession of public money, or performing other fiscal agent services, may be allowed necessary expenses to collect, keep, transfer, and pay out public money and to perform those services. However, money appropriated for those expenses may not be used to employ or pay officers and employees of the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 948][/us/stat/96/948]; [Pub. L. 97–452, § 1(10)][/us/pl/97/452/s1/10], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 98–369, div. B, title VI, § 2652(b)(1)][/us/pl/98/369/s2652/b/1], July 18, 1984, [98 Stat. 1152][/us/stat/98/1152]; [Pub. L. 103–272, § 4(f)(1)(H)][/us/pl/103/272/s4/f/1/H], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–429, § 7(a)(3)(A)][/us/pl/103/429/s7/a/3/A], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 948][/us/stat/96/948]; [Pub. L. 97–452][/us/pl/97/452], § 1(10), Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2652(b)(1), July 18, 1984, [98 Stat. 1152][/us/stat/98/1152]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(H), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–429][/us/pl/103/429], § 7(a)(3)(A), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388].)
 
 <table>
 
@@ -255,7 +255,7 @@ Oct. 25, 1982, Pub. L. 97–365, § 13(a), 96 Stat. 1757.  </td>
 
  __References in Text__ 
 
-    [Section 3718(b) of this title][/us/usc/t31/s3718/b], referred to in subsec. (b), was redesignated [section 3718(d) of this title][/us/usc/t31/s3718/d] by [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305].
+    [Section 3718(b) of this title][/us/usc/t31/s3718/b], referred to in subsec. (b), was redesignated [section 3718(d) of this title][/us/usc/t31/s3718/d] by [Pub. L. 99–578][/us/pl/99/578], § 1(1), Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305].
 
  __Amendments__ 
 
@@ -267,11 +267,11 @@ Oct. 25, 1982, Pub. L. 97–365, § 13(a), 96 Stat. 1757.  </td>
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–429, § 7(a)][/us/pl/103/429/s7/a], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided that the amendment made by that section is effective July 5, 1994.
+    [Pub. L. 103–429][/us/pl/103/429], § 7(a), Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388], provided that the amendment made by that section is effective July 5, 1994.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title VI, § 2652(b)(2)][/us/pl/98/369/s2652/b/2], July 18, 1984, [98 Stat. 1153][/us/stat/98/1153], provided that: 
+[Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2652(b)(2), July 18, 1984, [98 Stat. 1153][/us/stat/98/1153], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall become effective January 1, 1985.”
 
@@ -284,28 +284,28 @@ Oct. 25, 1982, Pub. L. 97–365, § 13(a), 96 Stat. 1757.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F948
-[/us/pl/97/452/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F10
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2468
-[/us/pl/98/369/s2652/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2652%2Fb%2F1
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1152
-[/us/pl/103/272/s4/f/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FH
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/103/429/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa%2F3%2FA
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
 [/us/usc/t31/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs476
 [/us/usc/t31/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs487
 [/us/usc/t31/s3718/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fb
 [/us/usc/t31/s3718/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fd
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3305
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/usc/t31/s3718/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fb
-[/us/pl/103/429/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs7%2Fa
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4388
-[/us/pl/98/369/s2652/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2652%2Fb%2F2
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1153
 
 

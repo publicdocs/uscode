@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to this chapter were contained in [Pub. L. 97–326][/us/pl/97/326], Oct. 15, 1982, [96 Stat. 1607][/us/stat/96/1607], as amended, which was set out as a note under [section 6102 of this title][/us/usc/t31/s6102], prior to repeal by [Pub. L. 99–547, § 2(d)][/us/pl/99/547/s2/d], Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060], eff. May 1, 1986.
+    Provisions similar to this chapter were contained in [Pub. L. 97–326][/us/pl/97/326], Oct. 15, 1982, [96 Stat. 1607][/us/stat/96/1607], as amended, which was set out as a note under [section 6102 of this title][/us/usc/t31/s6102], prior to repeal by [Pub. L. 99–547][/us/pl/99/547], § 2(d), Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060], eff. May 1, 1986.
 
 ----------
 
@@ -95,7 +95,7 @@
 [/us/pl/97/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F326
 [/us/stat/96/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1607
 [/us/usc/t31/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6102
-[/us/pl/99/547/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fd
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3060
 
 

@@ -21,7 +21,7 @@
 
     (c) The annual rate of basic pay of the General Counsel of the Government Accountability Office is equal to the rate for level IV of the Executive Schedule.
 
-    \[(d) Repealed. [Pub. L. 110–323, § 9(a)(1)][/us/pl/110/323/s9/a/1], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].\]
+    \[(d) Repealed. [Pub. L. 110–323][/us/pl/110/323], § 9(a)(1), Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].\]
 
     (e) The Comptroller General may procure the services of experts and consultants under [section 3109 of title 5][/us/usc/t5/s3109] at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 
@@ -81,7 +81,7 @@
 
     The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 896][/us/stat/96/896]; [Pub. L. 98–326, § 1(a)][/us/pl/98/326/s1/a], June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 98–615, title II, § 204(b)][/us/pl/98/615/s204/b], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89, § 3(b)(4)][/us/pl/103/89/s3/b/4], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983]; [Pub. L. 106–303, § 5][/us/pl/106/303/s5], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271][/us/pl/108/271], §§ 5–7, 8(b), July 7, 2004, [118 Stat. 813][/us/stat/118/813], 814; [Pub. L. 110–323, § 9(a)][/us/pl/110/323/s9/a], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548]; [Pub. L. 111–350, § 5(h)(2)][/us/pl/111/350/s5/h/2], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; [Pub. L. 114–113, div. I, title I, § 1301(a)][/us/pl/114/113/s1301/a], Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 896][/us/stat/96/896]; [Pub. L. 98–326][/us/pl/98/326], § 1(a), June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 204(b), Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(4), Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983]; [Pub. L. 106–303][/us/pl/106/303], § 5, Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271][/us/pl/108/271], §§ 5–7, 8(b), July 7, 2004, [118 Stat. 813][/us/stat/118/813], 814; [Pub. L. 110–323][/us/pl/110/323], § 9(a), Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548]; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(2), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; [Pub. L. 114–113, div. I, title I][/us/pl/114/113/dI/tI], § 1301(a), Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671].)
 
 <table>
 
@@ -267,7 +267,7 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
  __References in Text__ 
 
-    [Section 5401 of title 5][/us/usc/t5/s5401], referred to in subsec. (b), was repealed by [Pub. L. 103–89, § 3(a)(1)][/us/pl/103/89/s3/a/1], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981].
+    [Section 5401 of title 5][/us/usc/t5/s5401], referred to in subsec. (b), was repealed by [Pub. L. 103–89][/us/pl/103/89], § 3(a)(1), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981].
 
     Level IV of the Executive Schedule, referred to in subsecs. (c) and (e), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
@@ -283,27 +283,27 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
     2011—Subsec. (i)(7). [Pub. L. 111–350][/us/pl/111/350] substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])”.
 
-    2008—Subsec. (d). [Pub. L. 110–323, § 9(a)(1)][/us/pl/110/323/s9/a/1], struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
+    2008—Subsec. (d). [Pub. L. 110–323][/us/pl/110/323], § 9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
 
-    Subsec. (e). [Pub. L. 110–323, § 9(a)(2)][/us/pl/110/323/s9/a/2], substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
+    Subsec. (e). [Pub. L. 110–323][/us/pl/110/323], § 9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
 
     “(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 
     “(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.”
 
-    Subsec. (j). [Pub. L. 110–323, § 9(a)(3)][/us/pl/110/323/s9/a/3], added subsec. (j).
+    Subsec. (j). [Pub. L. 110–323][/us/pl/110/323], § 9(a)(3), added subsec. (j).
 
-    2004—Subsecs. (a), (c). [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], substituted “Government Accountability Office” for “General Accounting Office”.
+    2004—Subsecs. (a), (c). [Pub. L. 108–271][/us/pl/108/271], § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-    Subsec. (f). [Pub. L. 108–271, § 5][/us/pl/108/271/s5], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–271][/us/pl/108/271], § 5, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 108–271, § 6][/us/pl/108/271/s6], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–271][/us/pl/108/271], § 6, added subsec. (g).
 
-    Subsecs. (h), (i). [Pub. L. 108–271, § 7][/us/pl/108/271/s7], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 108–271][/us/pl/108/271], § 7, added subsecs. (h) and (i).
 
-    2000—Subsec. (e)(1). [Pub. L. 106–303, § 5(1)][/us/pl/106/303/s5/1], substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
+    2000—Subsec. (e)(1). [Pub. L. 106–303][/us/pl/106/303], § 5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
 
-    Subsec. (e)(2). [Pub. L. 106–303, § 5(2)][/us/pl/106/303/s5/2], substituted “level IV” for “level V”.
+    Subsec. (e)(2). [Pub. L. 106–303][/us/pl/106/303], § 5(2), substituted “level IV” for “level V”.
 
     1993—Subsec. (b). [Pub. L. 103–89][/us/pl/103/89] inserted before period at end “, as in effect on October 31, 1993”.
 
@@ -313,13 +313,13 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. I, title I, § 1301(b)][/us/pl/114/113/s1301/b], Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671], provided that: 
+[Pub. L. 114–113, div. I, title I][/us/pl/114/113/dI/tI], § 1301(b), Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2016 and each succeeding fiscal year.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–271, § 13][/us/pl/108/271/s13], July 7, 2004, [118 Stat. 816][/us/stat/118/816], provided that:
+[Pub. L. 108–271][/us/pl/108/271], § 13, July 7, 2004, [118 Stat. 816][/us/stat/118/816], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -355,15 +355,15 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
  __Effective Date of 1984 Amendments__ 
 
-    [Pub. L. 98–615, title II, § 205][/us/pl/98/615/s205], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that amendment by [Pub. L. 98–615][/us/pl/98/615] was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+    [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 205, Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that amendment by [Pub. L. 98–615][/us/pl/98/615] was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
-[Pub. L. 98–326, § 2][/us/pl/98/326/s2], June 22, 1984, [98 Stat. 269][/us/stat/98/269], provided that: 
+[Pub. L. 98–326][/us/pl/98/326], § 2, June 22, 1984, [98 Stat. 269][/us/stat/98/269], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
 
  __Consultation__ 
 
-[Pub. L. 108–271, § 10][/us/pl/108/271/s10], July 7, 2004, [118 Stat. 815][/us/stat/118/815], provided that: 
+[Pub. L. 108–271][/us/pl/108/271], § 10, July 7, 2004, [118 Stat. 815][/us/stat/118/815], provided that: 
 
 > “Before the implementation of any changes authorized under this Act \[see Tables for classification\], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office \[now Government Accountability Office\].”
 
@@ -375,32 +375,32 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 ----------
 
 [/us/usc/t5/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401
-[/us/pl/110/323/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa%2F1
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3548
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s6303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303%2Fa%2F2
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F896
-[/us/pl/98/326/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326%2Fs1%2Fa
+[/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/stat/98/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F269
-[/us/pl/98/615/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs204%2Fb
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3216
-[/us/pl/103/89/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F4
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F983
-[/us/pl/106/303/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs5
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1069
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F813
-[/us/pl/110/323/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3548
-[/us/pl/111/350/s5/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F2
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
-[/us/pl/114/113/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1301%2Fa
+[/us/pl/114/113/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtI
 [/us/stat/129/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2671
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401
-[/us/pl/103/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fa%2F1
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
@@ -411,33 +411,33 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
-[/us/pl/110/323/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa%2F1
-[/us/pl/110/323/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa%2F2
-[/us/pl/110/323/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa%2F3
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
-[/us/pl/108/271/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs5
-[/us/pl/108/271/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs6
-[/us/pl/108/271/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs7
-[/us/pl/106/303/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs5%2F1
-[/us/pl/106/303/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs5%2F2
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/usc/t5/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401
 [/us/usc/t5/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401%2Fa
 [/us/pl/98/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F236
-[/us/pl/114/113/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1301%2Fb
+[/us/pl/114/113/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtI
 [/us/stat/129/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2671
-[/us/pl/108/271/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs13
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F816
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/103/89/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fc
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
-[/us/pl/98/615/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs205
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
-[/us/pl/98/326/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326%2Fs2
+[/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/stat/98/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F269
-[/us/pl/108/271/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs10
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F815
 
 

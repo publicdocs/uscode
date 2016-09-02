@@ -85,7 +85,7 @@
 
     (h) The Secretary of the Treasury shall issue regulations to implement this section.
 
-(Added [Pub. L. 104–134, title III, § 31001][/us/pl/104/134/s31001](o)(1), Apr. 26, 1996, [110 Stat. 1321–369][/us/stat/110/1321-369].)
+(Added [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(o)(1), Apr. 26, 1996, [110 Stat. 1321–369][/us/stat/110/1321-369].)
 
 ----------
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-369
 
 

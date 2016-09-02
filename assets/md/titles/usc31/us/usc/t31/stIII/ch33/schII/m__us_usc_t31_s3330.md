@@ -57,7 +57,7 @@
 
         (2) Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 954][/us/stat/96/954]; [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(3), (4)(A), June 13, 1991, [105 Stat. 277][/us/stat/105/277]; [Pub. L. 103–272, § 4(f)(1)(I)][/us/pl/103/272/s4/f/1/I], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 954][/us/stat/96/954]; [Pub. L. 102–54][/us/pl/102/54], § 13(l)(3), (4)(A), June 13, 1991, [105 Stat. 277][/us/stat/105/277]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(I), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362].)
 
 <table>
 
@@ -149,15 +149,15 @@ Oct. 9, 1940, ch. 796, §§ 2(last par.), 3(last par.), 54 Stat. 1086, 1087.  
 
     1994—Subsec. (d)(1)(B). [Pub. L. 103–272][/us/pl/103/272] substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-    1991—[Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
+    1991—[Pub. L. 102–54][/us/pl/102/54], § 13(l)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
 
-    Subsec. (a)(1)(B). [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+    Subsec. (a)(1)(B). [Pub. L. 102–54][/us/pl/102/54], § 13(l)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-    Subsec. (a)(2), (3). [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+    Subsec. (a)(2), (3). [Pub. L. 102–54][/us/pl/102/54], § 13(l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-    Subsecs. (b), (c). [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
+    Subsecs. (b), (c). [Pub. L. 102–54][/us/pl/102/54], § 13(l)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 
-    Subsec. (d)(1)(A). [Pub. L. 102–54, § 13][/us/pl/102/54/s13](l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+    Subsec. (d)(1)(A). [Pub. L. 102–54][/us/pl/102/54], § 13(l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 
 ----------
 
@@ -171,18 +171,18 @@ Oct. 9, 1940, ch. 796, §§ 2(last par.), 3(last par.), 54 Stat. 1086, 1087.  
 [/us/usc/t31/s3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3329
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F954
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F277
-[/us/pl/103/272/s4/f/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FI
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
 [/us/usc/t31/s3329/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3329%2Fb%2F4
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/stat/90/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1374
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
-[/us/pl/102/54/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 
 

@@ -179,7 +179,7 @@
 
         (11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
 
-(Added [Pub. L. 101–121, title III, § 319(a)(1)][/us/pl/101/121/s319/a/1], Oct. 23, 1989, [103 Stat. 750][/us/stat/103/750]; amended [Pub. L. 101–512, title III, § 320][/us/pl/101/512/s320], Nov. 5, 1990, [104 Stat. 1977][/us/stat/104/1977]; [Pub. L. 103–272, § 4(f)(1)(F)][/us/pl/103/272/s4/f/1/F], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–65, § 10][/us/pl/104/65/s10], Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 104–66, title III, § 3001(b)][/us/pl/104/66/s3001/b], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]; [Pub. L. 104–106, div. A, title X, § 1064(c)][/us/pl/104/106/s1064/c], div. D, title XLIII, § 4301(a)(2), Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445], 656.)
+(Added [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 319(a)(1), Oct. 23, 1989, [103 Stat. 750][/us/stat/103/750]; amended [Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 320, Nov. 5, 1990, [104 Stat. 1977][/us/stat/104/1977]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(F), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–65][/us/pl/104/65], § 10, Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3001(b), Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1064(c), div. D, title XLIII, § 4301(a)(2), Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445], 656.)
 
  __References in Text__ 
 
@@ -191,13 +191,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(2). [Pub. L. 104–106, § 4301(a)(2)][/us/pl/104/106/s4301/a/2], which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by [Pub. L. 104–65, § 10(a)(1)][/us/pl/104/65/s10/a/1]. See 1995 Amendment note below.
+    1996—Subsec. (b)(2). [Pub. L. 104–106][/us/pl/104/106], § 4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by [Pub. L. 104–65][/us/pl/104/65], § 10(a)(1). See 1995 Amendment note below.
 
-    Subsec. (b)(6)(A). [Pub. L. 104–106, § 1064(c)(1)][/us/pl/104/106/s1064/c/1], which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by [Pub. L. 104–65, § 10(a)(3)][/us/pl/104/65/s10/a/3]. See 1995 Amendment note below.
+    Subsec. (b)(6)(A). [Pub. L. 104–106][/us/pl/104/106], § 1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by [Pub. L. 104–65][/us/pl/104/65], § 10(a)(3). See 1995 Amendment note below.
 
-    Subsec. (d)(1). [Pub. L. 104–106, § 1064(c)(2)][/us/pl/104/106/s1064/c/2], which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by [Pub. L. 104–65, § 10(b)][/us/pl/104/65/s10/b]. See 1995 Amendment note below.
+    Subsec. (d)(1). [Pub. L. 104–106][/us/pl/104/106], § 1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by [Pub. L. 104–65][/us/pl/104/65], § 10(b). See 1995 Amendment note below.
 
-    1995—Subsec. (b)(2). [Pub. L. 104–65, § 10(a)(1)][/us/pl/104/65/s10/a/1], added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+    1995—Subsec. (b)(2). [Pub. L. 104–65][/us/pl/104/65], § 10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) a statement setting forth whether such person—
 
@@ -219,7 +219,7 @@
 
     “(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).”
 
-    Subsec. (b)(3). [Pub. L. 104–65, § 10(a)(2)][/us/pl/104/65/s10/a/2], substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee.”  for  “shall  contain—” and struck out subpars. (A) and (B) which read as follows:
+    Subsec. (b)(3). [Pub. L. 104–65][/us/pl/104/65], § 10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee.”  for  “shall  contain—” and struck out subpars. (A) and (B) which read as follows:
 
     “(A) a statement setting forth whether such person—
 
@@ -229,15 +229,15 @@
 
     “(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection.”
 
-    Subsec. (b)(6), (7). [Pub. L. 104–65, § 10(a)(3)][/us/pl/104/65/s10/a/3], redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
+    Subsec. (b)(6), (7). [Pub. L. 104–65][/us/pl/104/65], § 10(a)(3), redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
 
-    Subsecs. (d) to (h). [Pub. L. 104–65, § 10(b)][/us/pl/104/65/s10/b], and [Pub. L. 104–66, § 3001(b)][/us/pl/104/66/s3001/b], amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
+    Subsecs. (d) to (h). [Pub. L. 104–65][/us/pl/104/65], § 10(b), and [Pub. L. 104–66][/us/pl/104/66], § 3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
 
-    1994—Subsec. (c). [Pub. L. 103–272, § 4(f)(1)(F)(i)][/us/pl/103/272/s4/f/1/F/i], substituted “(c)(1) Any person” for “(C)(1) Any person”.
+    1994—Subsec. (c). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
 
-    Subsec. (e)(1)(C). [Pub. L. 103–272, § 4(f)(1)(F)(ii)][/us/pl/103/272/s4/f/1/F/ii], substituted “appropriated” for “appropirated” and inserted period at end.
+    Subsec. (e)(1)(C). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(F)(ii), substituted “appropriated” for “appropirated” and inserted period at end.
 
-    Subsec. (h)(7). [Pub. L. 103–272, § 4(f)(1)(F)(iii)][/us/pl/103/272/s4/f/1/F/iii], inserted periods after “agency” and “guaranty”.
+    Subsec. (h)(7). [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
 
     1990—Subsec. (e)(2)(C). [Pub. L. 101–512][/us/pl/101/512] inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
 
@@ -251,17 +251,17 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–121, title III, § 319(d)][/us/pl/101/121/s319/d], Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that: 
+[Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 319(d), Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that: 
 
 > “[Section 1352 of title 31][/us/usc/t31/s1352], United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\].”
 
  __First Report on__  __May 31, 1990__  __; Content__ 
 
-    [Pub. L. 101–121, title III, § 319(b)][/us/pl/101/121/s319/b], Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
+    [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 319(b), Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
 
  __Notification of Compliance Date; Guidance for Agency Implementation__ 
 
-[Pub. L. 101–121, title III, § 319(c)][/us/pl/101/121/s319/c], Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that: 
+[Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 319(c), Oct. 23, 1989, [103 Stat. 756][/us/stat/103/756], provided that: 
 
 > “The Director of the Office of Management and Budget shall notify the head of each agency that [section 1352 of title 31][/us/usc/t31/s1352], United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
 
@@ -275,36 +275,36 @@
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/usc/t31/s9101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F1
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/101/121/s319/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs319%2Fa%2F1
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F750
-[/us/pl/101/512/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs320
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1977
-[/us/pl/103/272/s4/f/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FF
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/104/65/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F700
-[/us/pl/104/66/s3001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fb
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/104/106/s1064/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fc
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F445
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
 [/us/usc/t31/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1353
-[/us/pl/104/106/s4301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4301%2Fa%2F2
-[/us/pl/104/65/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fa%2F1
-[/us/pl/104/106/s1064/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fc%2F1
-[/us/pl/104/65/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fa%2F3
-[/us/pl/104/106/s1064/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1064%2Fc%2F2
-[/us/pl/104/65/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fb
-[/us/pl/104/65/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fa%2F1
-[/us/pl/104/65/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fa%2F2
-[/us/pl/104/65/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fa%2F3
-[/us/pl/104/65/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs10%2Fb
-[/us/pl/104/66/s3001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fb
-[/us/pl/103/272/s4/f/1/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FF%2Fi
-[/us/pl/103/272/s4/f/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FF%2Fii
-[/us/pl/103/272/s4/f/1/F/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FF%2Fiii
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
@@ -312,12 +312,12 @@
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/101/121/s319/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs319%2Fd
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F756
 [/us/usc/t31/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1352
-[/us/pl/101/121/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs319%2Fb
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F756
-[/us/pl/101/121/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs319%2Fc
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F756
 [/us/usc/t31/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1352
 

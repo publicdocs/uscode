@@ -63,7 +63,7 @@
 
         (2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to [section 3726(a) of this title][/us/usc/t31/s3726/a] for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 966][/us/stat/96/966]; [Pub. L. 98–216, § 1(4)][/us/pl/98/216/s1/4], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 104–106, div. A, title IX, § 913(c)(5)][/us/pl/104/106/s913/c/5], Feb. 10, 1996, [110 Stat. 412][/us/stat/110/412]; [Pub. L. 105–264, § 3(a)(2)][/us/pl/105/264/s3/a/2], Oct. 19, 1998, [112 Stat. 2352][/us/stat/112/2352].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 966][/us/stat/96/966]; [Pub. L. 98–216][/us/pl/98/216], § 1(4), Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(c)(5), Feb. 10, 1996, [110 Stat. 412][/us/stat/110/412]; [Pub. L. 105–264][/us/pl/105/264], § 3(a)(2), Oct. 19, 1998, [112 Stat. 2352][/us/stat/112/2352].)
 
 <table>
 
@@ -209,11 +209,11 @@ Dec. 29, 1941, ch. 641, § 4(related to § 2), 55 Stat. 876.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a)(5). [Pub. L. 105–264, § 3(a)(2)(A)][/us/pl/105/264/s3/a/2/A], added par. (5).
+    1998—Subsec. (a)(5). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(2)(A), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 105–264, § 3(a)(2)(B)][/us/pl/105/264/s3/a/2/B], inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to [section 3726(a) of this title][/us/usc/t31/s3726/a] for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.
+    Subsec. (c)(1). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(2)(B), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to [section 3726(a) of this title][/us/usc/t31/s3726/a] for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.
 
-    Subsec. (c)(2). [Pub. L. 105–264, § 3(a)(2)(C)][/us/pl/105/264/s3/a/2/C], inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to [section 3726(a) of this title][/us/usc/t31/s3726/a] for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.
+    Subsec. (c)(2). [Pub. L. 105–264][/us/pl/105/264], § 3(a)(2)(C), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to [section 3726(a) of this title][/us/usc/t31/s3726/a] for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.
 
     1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106] struck out subsec. (d) which read as follows: “This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia.”
 
@@ -241,20 +241,20 @@ Dec. 29, 1941, ch. 641, § 4(related to § 2), 55 Stat. 876.  </td>
 [/us/usc/t31/s3726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F966
-[/us/pl/98/216/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F4
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F4
-[/us/pl/104/106/s913/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fc%2F5
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F412
-[/us/pl/105/264/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F2
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2352
 [/us/act/1950-09-26/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fs2%2Fa%2F1
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
-[/us/pl/105/264/s3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F2%2FA
-[/us/pl/105/264/s3/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F2%2FB
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/usc/t31/s3726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726%2Fa
-[/us/pl/105/264/s3/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs3%2Fa%2F2%2FC
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/usc/t31/s3726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726%2Fa
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216

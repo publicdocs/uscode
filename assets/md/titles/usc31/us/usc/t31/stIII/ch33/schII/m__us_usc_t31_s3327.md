@@ -19,7 +19,7 @@
 
     (b) The Secretary of the Treasury shall take such actions as are necessary to ensure that Social Security account numbers (including derivatives of such numbers) are not visible on or through unopened mailings of checks or other drafts described in subsection (a) of this section.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 952][/us/stat/96/952]; [Pub. L. 106–433, § 2][/us/pl/106/433/s2], Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 952][/us/stat/96/952]; [Pub. L. 106–433][/us/pl/106/433], § 2, Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910].)
 
 <table>
 
@@ -73,7 +73,7 @@ R.S. § 3644.  </td>
 
  __Effective Date of 2000 Amendment and Transitional Rule__ 
 
-[Pub. L. 106–433, § 3][/us/pl/106/433/s3], Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910], provided that:
+[Pub. L. 106–433][/us/pl/106/433], § 3, Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -92,12 +92,12 @@ R.S. § 3644.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F952
-[/us/pl/106/433/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433%2Fs2
+[/us/pl/106/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433
 [/us/stat/114/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1910
 [/us/act/1846-08-06/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-06%2Fs10
 [/us/stat/9/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F61
 [/us/pl/106/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433
-[/us/pl/106/433/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433%2Fs3
+[/us/pl/106/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F433
 [/us/stat/114/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1910
 
 

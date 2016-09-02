@@ -83,7 +83,7 @@
 
             (D) “appropriate regulatory agency” has the meaning prescribed in section 3(a)(34)(G) of the Securities Exchange Act of 1934.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 944][/us/stat/96/944]; [Pub. L. 97–452, § 1(9)][/us/pl/97/452/s1/9], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 99–571, title II, § 201(a)][/us/pl/99/571/s201/a], Oct. 28, 1986, [100 Stat. 3222][/us/stat/100/3222]; [Pub. L. 111–147, title V, § 502(d)][/us/pl/111/147/s502/d], Mar. 18, 2010, [124 Stat. 108][/us/stat/124/108].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 944][/us/stat/96/944]; [Pub. L. 97–452][/us/pl/97/452], § 1(9), Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 99–571, title II][/us/pl/99/571/tII], § 201(a), Oct. 28, 1986, [100 Stat. 3222][/us/stat/100/3222]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 502(d), Mar. 18, 2010, [124 Stat. 108][/us/stat/124/108].)
 
 <table>
 
@@ -377,9 +377,9 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
     Section 8(b) or (c) of the Federal Deposit Insurance Act, referred to in subsec. (h)(2), is classified to section 1818(b), (c) of Title 12, Banks and Banking.
 
-    Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 282][/us/stat/103/282], and no longer relates to issuance of orders. See [section 1464(d)(1) of Title 12][/us/usc/t12/s1464/d/1].
+    Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 301, Aug. 9, 1989, [103 Stat. 282][/us/stat/103/282], and no longer relates to issuance of orders. See [section 1464(d)(1) of Title 12][/us/usc/t12/s1464/d/1].
 
-    Section 407 of the National Housing Act, referred to in subsec. (h)(2), which was classified to [section 1730 of Title 12][/us/usc/t12/s1730], was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    Section 407 of the National Housing Act, referred to in subsec. (h)(2), which was classified to [section 1730 of Title 12][/us/usc/t12/s1730], was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
     Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec. (h)(2), is classified to section 1786(e), (f) of Title 12.
 
@@ -391,9 +391,9 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
  __Amendments__ 
 
-    2010—Subsec. (g)(1). [Pub. L. 111–147, § 502(d)(2)][/us/pl/111/147/s502/d/2], inserted “or” at end of subpar. (A), substituted period for “; or” in subpar. (B), and struck out subpar. (C) which read as follows: “described in paragraph (2) of this subsection.”
+    2010—Subsec. (g)(1). [Pub. L. 111–147][/us/pl/111/147], § 502(d)(2), inserted “or” at end of subpar. (A), substituted period for “; or” in subpar. (B), and struck out subpar. (C) which read as follows: “described in paragraph (2) of this subsection.”
 
-    Subsec. (g)(2) to (4). [Pub. L. 111–147, § 502(d)(1)][/us/pl/111/147/s502/d/1], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An obligation is not a registration-required obligation if—
+    Subsec. (g)(2) to (4). [Pub. L. 111–147][/us/pl/111/147], § 502(d)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An obligation is not a registration-required obligation if—
 
     “(A) there are arrangements reasonably designed to ensure that the obligation will be sold (or resold in connection with the original issue) only to a person that is not a United States person; and
 
@@ -417,7 +417,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–216, § 4(a)][/us/pl/98/216/s4/a], (b), Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6], 7, as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–216][/us/pl/98/216], § 4(a), (b), Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6], 7, as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)
 
@@ -439,13 +439,13 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
  __Collection of Definitive Security and Annual Maintenance Fees__ 
 
-[Pub. L. 103–329, title I][/us/pl/103/329], Sept. 30, 1994, [108 Stat. 2386][/us/stat/108/2386], provided in part: 
+[Pub. L. 103–329, title I][/us/pl/103/329/tI], Sept. 30, 1994, [108 Stat. 2386][/us/stat/108/2386], provided in part: 
 
 > “That in fiscal year 1995 and thereafter, the Secretary is authorized to collect fees of not less than $46 for each definitive security issue provided to customers, and an annual maintenance fee of not less than $25 for each Treasury Direct Investor Account exceeding $100,000 in par value: Provided further, That in fiscal year 1995 and thereafter, of the definitive security fees collected, not to exceed $600,000, and of the annual maintenance fees for Treasury Direct Investor Account collected, not to exceed $2,500,000, shall be retained and used in the current fiscal year for the specific purpose of offsetting costs of Bureau of the Public Debt’s marketable security activities, and any fees collected in excess of said amounts shall be deposited as miscellaneous receipts in the Treasury”.
 
  __Treasury Auction Reforms__ 
 
-[Pub. L. 103–202, title II, § 202][/us/pl/103/202/s202], Dec. 17, 1993, [107 Stat. 2356][/us/stat/107/2356], provided that:
+[Pub. L. 103–202, title II][/us/pl/103/202/tII], § 202, Dec. 17, 1993, [107 Stat. 2356][/us/stat/107/2356], provided that:
 
 >     “(a)  __Ability to Submit Computer Tenders in Treasury Auctions__  __.—__ 
 
@@ -543,7 +543,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
  __Notice on Treasury Modifications to Auction Process__ 
 
-    [Pub. L. 103–202, title II, § 203][/us/pl/103/202/s203], Dec. 17, 1993, [107 Stat. 2359][/us/stat/107/2359], which required the Secretary of the Treasury to notify Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications were implemented, was repealed by [Pub. L. 113–188, title XVI, § 1601(d)(1)][/us/pl/113/188/s1601/d/1], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
+    [Pub. L. 103–202, title II][/us/pl/103/202/tII], § 203, Dec. 17, 1993, [107 Stat. 2359][/us/stat/107/2359], which required the Secretary of the Treasury to notify Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications were implemented, was repealed by [Pub. L. 113–188, title XVI][/us/pl/113/188/tXVI], § 1601(d)(1), Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
 
 ----------
 
@@ -556,24 +556,24 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 [/us/usc/t12/s93/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs93%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F944
-[/us/pl/97/452/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F9
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2468
-[/us/pl/99/571/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs201%2Fa
+[/us/pl/99/571/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtII
 [/us/stat/100/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3222
-[/us/pl/111/147/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fd
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F108
-[/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F282
 [/us/usc/t12/s1464/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Fd%2F1
 [/us/usc/t12/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
 [/us/pl/95/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F369
 [/us/stat/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F607
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/111/147/s502/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fd%2F2
-[/us/pl/111/147/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fd%2F1
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
@@ -581,9 +581,9 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 [/us/usc/t26/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs149
 [/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
-[/us/pl/98/216/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs4%2Fa
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F6
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1983-01-12/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-01-12%2Fs1%2F9
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
@@ -603,14 +603,14 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 [/us/usc/t31/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3103%2Fa
 [/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/99/571/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs301
-[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtI
 [/us/stat/108/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2386
-[/us/pl/103/202/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs202
+[/us/pl/103/202/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtII
 [/us/stat/107/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2356
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/103/202/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs203
+[/us/pl/103/202/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtII
 [/us/stat/107/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2359
-[/us/pl/113/188/s1601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fd%2F1
+[/us/pl/113/188/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXVI
 [/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 
 

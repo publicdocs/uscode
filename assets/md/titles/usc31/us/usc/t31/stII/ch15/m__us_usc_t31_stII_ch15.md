@@ -275,13 +275,13 @@ SUBCHAPTER IV—CLOSING ACCOUNTS  </td>
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. E, title LV, § 5502(c)][/us/pl/104/106/s5502/c], Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699], substituted “of a formal protest or other challenge” for “of a protest” in item 1558.
+    1996—[Pub. L. 104–106, div. E, title LV][/us/pl/104/106/dE/tLV], § 5502(c), Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699], substituted “of a formal protest or other challenge” for “of a protest” in item 1558.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1054(e)(1)][/us/pl/102/484/s1054/e/1], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503], substituted “Definitions; applicability of subchapter” for “Definitions and application” in item 1551 and “Procedure for appropriation accounts available for definite periods” for “Audit, control, and reporting” in item 1552.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(e)(1), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503], substituted “Definitions; applicability of subchapter” for “Definitions and application” in item 1551 and “Procedure for appropriation accounts available for definite periods” for “Audit, control, and reporting” in item 1552.
 
-    1990—[Pub. L. 101–510, div. A, title XIV, § 1405(a)(2)][/us/pl/101/510/s1405/a/2], Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679], substituted “Audit, control, and reporting” for “Procedure for appropriation accounts available for definite periods” in item 1552 and for “Review of appropriation accounts” in item 1554, “Closing of appropriation accounts available” for “Withdrawal of unobligated balances of appropriations” in item 1555, “General: reports” for “General reports” in item 1556, and “Authority for exemptions in appropriation laws” for “Authorization to exempt” in item 1557.
+    1990—[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1405(a)(2), Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679], substituted “Audit, control, and reporting” for “Procedure for appropriation accounts available for definite periods” in item 1552 and for “Review of appropriation accounts” in item 1554, “Closing of appropriation accounts available” for “Withdrawal of unobligated balances of appropriations” in item 1555, “General: reports” for “General reports” in item 1556, and “Authority for exemptions in appropriation laws” for “Authorization to exempt” in item 1557.
 
-    1989—[Pub. L. 101–189, div. A, title VIII, § 813(b)][/us/pl/101/189/s813/b], Nov. 29, 1989, [103 Stat. 1494][/us/stat/103/1494], added item 1558.
+    1989—[Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 813(b), Nov. 29, 1989, [103 Stat. 1494][/us/stat/103/1494], added item 1558.
 
 ----------
 
@@ -290,13 +290,13 @@ SUBCHAPTER IV—CLOSING ACCOUNTS  </td>
 ----------
 ----------
 
-[/us/pl/104/106/s5502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5502%2Fc
+[/us/pl/104/106/dE/tLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLV
 [/us/stat/110/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F699
-[/us/pl/102/484/s1054/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fe%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/101/510/s1405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1405%2Fa%2F2
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1679
-[/us/pl/101/189/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs813%2Fb
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1494
 
 

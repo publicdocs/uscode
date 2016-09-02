@@ -95,7 +95,7 @@
 
         (4) The Secretary of the Treasury shall, not less frequently than annually, make a public disclosure of the amount (and sources) of the gifts and bequests received under this subsection, and the purposes for which amounts in the separate fund established under this subsection are expended.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 880][/us/stat/96/880]; [Pub. L. 98–369, div. A, title IV, § 445][/us/pl/98/369/s445], July 18, 1984, [98 Stat. 816][/us/stat/98/816]; [Pub. L. 101–73, title III, § 307(b)][/us/pl/101/73/s307/b], (d), Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353]; [Pub. L. 104–66, title I, § 1132(b)][/us/pl/104/66/s1132/b], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725]; [Pub. L. 111–203, title III, § 378(1)][/us/pl/111/203/s378/1], title V, § 502(b), July 21, 2010, [124 Stat. 1570][/us/stat/124/1570], 1588.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 880][/us/stat/96/880]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 445, July 18, 1984, [98 Stat. 816][/us/stat/98/816]; [Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 307(b), (d), Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1132(b), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 378(1), title V, § 502(b), July 21, 2010, [124 Stat. 1570][/us/stat/124/1570], 1588.)
 
 <table>
 
@@ -441,17 +441,17 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280.  
 
  __Amendments__ 
 
-    2010—Subsec. (a)(9). [Pub. L. 111–203, § 502(b)][/us/pl/111/203/s502/b], added par. (9).
+    2010—Subsec. (a)(9). [Pub. L. 111–203][/us/pl/111/203], § 502(b), added par. (9).
 
-    Subsec. (c). [Pub. L. 111–203, § 378(1)(A)][/us/pl/111/203/s378/1/A], inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 378(1)(A), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
 
-    Subsec. (e). [Pub. L. 111–203, § 378(1)(B)][/us/pl/111/203/s378/1/B], struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 378(1)(B), struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
 
     1995—Subsec. (b)(7). [Pub. L. 104–66][/us/pl/104/66] added par. (7).
 
-    1989—Subsec. (c)(3). [Pub. L. 101–73, § 307(b)][/us/pl/101/73/s307/b], added par. (3).
+    1989—Subsec. (c)(3). [Pub. L. 101–73][/us/pl/101/73], § 307(b), added par. (3).
 
-    Subsec. (e). [Pub. L. 101–73, § 307(d)][/us/pl/101/73/s307/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–73][/us/pl/101/73], § 307(d), added subsec. (e).
 
     1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369] added subsec. (d).
 
@@ -467,7 +467,7 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280.  
 
  __Use of Aircraft in Emergency Law Enforcement Support__ 
 
-[Pub. L. 104–52, title I, § 107][/us/pl/104/52/s107], Nov. 19, 1995, [109 Stat. 476][/us/stat/109/476], provided that: 
+[Pub. L. 104–52, title I][/us/pl/104/52/tI], § 107, Nov. 19, 1995, [109 Stat. 476][/us/stat/109/476], provided that: 
 
 > “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
 
@@ -480,23 +480,23 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280.  
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F880
-[/us/pl/98/369/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs445
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F816
-[/us/pl/101/73/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fb
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F353
-[/us/pl/104/66/s1132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1132%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
-[/us/pl/111/203/s378/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1570
 [/us/act/1864-06-30/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-30%2Fs8
 [/us/stat/13/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F221
 [/us/stat/64/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1281
-[/us/pl/111/203/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fb
-[/us/pl/111/203/s378/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F1%2FA
-[/us/pl/111/203/s378/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/101/73/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fb
-[/us/pl/101/73/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fd
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/111/203/s378/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs378%2F1
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
@@ -505,7 +505,7 @@ Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280.  
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/104/52/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs107
+[/us/pl/104/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtI
 [/us/stat/109/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F476
 
 

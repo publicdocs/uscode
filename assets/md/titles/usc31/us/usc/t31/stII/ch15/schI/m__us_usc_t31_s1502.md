@@ -103,19 +103,19 @@ July 1, 1973, Pub. L. 93–52, § 111, 87 Stat. 134.  </td>
 
  __Quarterly Reports__ 
 
-[Pub. L. 114–113, div. H, title V, § 526][/us/pl/114/113/s526], Dec. 18, 2015, [129 Stat. 2653][/us/stat/129/2653], provided that: 
+[Pub. L. 114–113, div. H, title V][/us/pl/114/113/dH/tV], § 526, Dec. 18, 2015, [129 Stat. 2653][/us/stat/129/2653], provided that: 
 
 > “Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived.”
 
-Similar provisions were contained in the following prior appropriation acts:[Pub. L. 113–235, div. G, title V, § 523][/us/pl/113/235/s523], Dec. 16, 2014, [128 Stat. 2518][/us/stat/128/2518].
+Similar provisions were contained in the following prior appropriation acts:[Pub. L. 113–235, div. G, title V][/us/pl/113/235/dG/tV], § 523, Dec. 16, 2014, [128 Stat. 2518][/us/stat/128/2518].
 
-    [Pub. L. 113–76, div. H, title V, § 524][/us/pl/113/76/s524], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413].
+    [Pub. L. 113–76, div. H, title V][/us/pl/113/76/dH/tV], § 524, Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413].
 
-    [Pub. L. 112–74, div. F, title V, § 526][/us/pl/112/74/s526], Dec. 23, 2011, [125 Stat. 1115][/us/stat/125/1115].
+    [Pub. L. 112–74, div. F, title V][/us/pl/112/74/dF/tV], § 526, Dec. 23, 2011, [125 Stat. 1115][/us/stat/125/1115].
 
  __Availability of Energy and Water Development Appropriations Limited to Fiscal Year In Which Appropriated__ 
 
-[Pub. L. 102–377, title V, § 501][/us/pl/102/377/s501], Oct. 2, 1992, [106 Stat. 1342][/us/stat/106/1342], provided that: 
+[Pub. L. 102–377, title V][/us/pl/102/377/tV], § 501, Oct. 2, 1992, [106 Stat. 1342][/us/stat/106/1342], provided that: 
 
 > “No part of any appropriation contained in this Act or subsequent Energy and Water Development Appropriations Acts shall remain available for obligation beyond the fiscal year specified in such Acts therein unless expressly so provided therein.”
 
@@ -129,15 +129,15 @@ Similar provisions were contained in the following prior appropriation acts:[Pub
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F928
-[/us/pl/114/113/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs526
+[/us/pl/114/113/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtV
 [/us/stat/129/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2653
-[/us/pl/113/235/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs523
+[/us/pl/113/235/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtV
 [/us/stat/128/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2518
-[/us/pl/113/76/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs524
+[/us/pl/113/76/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtV
 [/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
-[/us/pl/112/74/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs526
+[/us/pl/112/74/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtV
 [/us/stat/125/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1115
-[/us/pl/102/377/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs501
+[/us/pl/102/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtV
 [/us/stat/106/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1342
 
 

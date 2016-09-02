@@ -51,7 +51,7 @@
 
         Prior to directing offset under subsection (a)(1), the Secretary shall first attempt to collect amounts owed in the manner provided by sections 3711 and 3716.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 971][/us/stat/96/971]; [Pub. L. 100–86, title X, § 1004(a)][/us/pl/100/86/s1004/a], Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659]; [Pub. L. 104–134, title III, § 31001(d)(4)][/us/pl/104/134/s31001/d/4], Apr. 26, 1996, [110 Stat. 1321–362][/us/stat/110/1321-362].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 971][/us/stat/96/971]; [Pub. L. 100–86, title X][/us/pl/100/86/tX], § 1004(a), Aug. 10, 1987, [101 Stat. 659][/us/stat/101/659]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(d)(4), Apr. 26, 1996, [110 Stat. 1321–362][/us/stat/110/1321-362].)
 
 <table>
 
@@ -176,9 +176,9 @@ Aug. 28, 1954, ch. 1035, 68 Stat. 890.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F971
-[/us/pl/100/86/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1004%2Fa
+[/us/pl/100/86/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtX
 [/us/stat/101/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F659
-[/us/pl/104/134/s31001/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fd%2F4
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-362
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773

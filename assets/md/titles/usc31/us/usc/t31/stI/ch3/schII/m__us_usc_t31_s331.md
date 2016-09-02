@@ -59,7 +59,7 @@
 
         (2) The Comptroller General of the United States shall audit the financial statement required by this section.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 884][/us/stat/96/884]; [Pub. L. 103–356, title IV, § 405(c)][/us/pl/103/356/s405/c], Oct. 13, 1994, [108 Stat. 3416][/us/stat/108/3416].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 884][/us/stat/96/884]; [Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 405(c), Oct. 13, 1994, [108 Stat. 3416][/us/stat/108/3416].)
 
 <table>
 
@@ -244,7 +244,7 @@ In subsection (a)(1), the words “public receipts and public expenditures” ar
 [/us/usc/t31/s1322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1322%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F884
-[/us/pl/103/356/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs405%2Fc
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3416
 [/us/stat/19/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F241
 [/us/act/1884-06-26/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fs15

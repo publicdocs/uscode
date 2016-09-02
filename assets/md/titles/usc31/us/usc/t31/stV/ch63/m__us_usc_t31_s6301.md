@@ -83,13 +83,13 @@ Feb. 3, 1978, Pub. L. 95–224, § 2, 92 Stat. 3.  </td>
 
  __Environmental Protection Agency; Agreements and Grants Affecting Real Property in the District of Columbia__ 
 
-[Pub. L. 106–522, § 153][/us/pl/106/522/s153], Nov. 22, 2000, [114 Stat. 2474][/us/stat/114/2474], provided that:
+[Pub. L. 106–522][/us/pl/106/522], § 153, Nov. 22, 2000, [114 Stat. 2474][/us/stat/114/2474], provided that:
 
 >     “(a) Nothing in the Federal Grant and Cooperative Agreements Act of 1977 ([31 U.S.C. 6301][/us/usc/t31/s6301] et seq.) may be construed to prohibit the Administrator of the Environmental Protection Agency from negotiating and entering into cooperative agreements and grants authorized by law which affect real property of the Federal Government in the District of Columbia if the principal purpose of the cooperative agreement or grant is to provide comparable benefits for Federal and non-Federal properties in the District of Columbia.
 
 >     “(b) Subsection (a) shall apply with respect to fiscal year 2001 and each succeeding fiscal year.”
 
-    Similar provisions were contained in [Pub. L. 106–553, § 1(a)(1)][/us/pl/106/553/s1/a/1] \[§ 153\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 406(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–189, effective as if included in [Pub. L. 106–553][/us/pl/106/553] on the date of its enactment. See section 1(a)(4) \[div. A, § 406\] of [Pub. L. 106–554][/us/pl/106/554], set out as an Effective Date and Construction of 2000 Amendment note under [section 1155 of Title 20][/us/usc/t20/s1155], Education.
+    Similar provisions were contained in [Pub. L. 106–553][/us/pl/106/553], § 1(a)(1) \[§ 153\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 406(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–189, effective as if included in [Pub. L. 106–553][/us/pl/106/553] on the date of its enactment. See section 1(a)(4) \[div. A, § 406\] of [Pub. L. 106–554][/us/pl/106/554], set out as an Effective Date and Construction of 2000 Amendment note under [section 1155 of Title 20][/us/usc/t20/s1155], Education.
 
 ----------
 
@@ -100,12 +100,12 @@ Feb. 3, 1978, Pub. L. 95–224, § 2, 92 Stat. 3.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1003
-[/us/pl/106/522/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F522%2Fs153
+[/us/pl/106/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F522
 [/us/stat/114/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2474
 [/us/usc/t31/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6301
-[/us/pl/106/553/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F1
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

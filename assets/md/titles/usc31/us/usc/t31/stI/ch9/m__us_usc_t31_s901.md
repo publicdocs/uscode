@@ -107,13 +107,13 @@
 
         (4) The President may designate an employee of the Executive Office of the President (other than the Chief Financial Officer), who shall be deemed “the head of the agency” for purposes of carrying out section 902, with respect to the Executive Office of the President.
 
-(Added [Pub. L. 101–576, title II, § 205(a)][/us/pl/101/576/s205/a], Nov. 15, 1990, [104 Stat. 2842][/us/stat/104/2842]; amended [Pub. L. 103–296, title I, § 108(j)(1)][/us/pl/103/296/s108/j/1], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 106–58, title VI, § 638(a)][/us/pl/106/58/s638/a], Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 108–330, § 3(a)][/us/pl/108/330/s3/a], (d)(2), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], 1277.)
+(Added [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(a), Nov. 15, 1990, [104 Stat. 2842][/us/stat/104/2842]; amended [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(j)(1), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 638(a), Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 108–330][/us/pl/108/330], § 3(a), (d)(2), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], 1277.)
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1)(G) to (Q). [Pub. L. 108–330, § 3(a)][/us/pl/108/330/s3/a], added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
+    2004—Subsec. (b)(1)(G) to (Q). [Pub. L. 108–330][/us/pl/108/330], § 3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
 
-    Subsec. (b)(2)(B) to (H). [Pub. L. 108–330, § 3(d)(2)][/us/pl/108/330/s3/d/2], redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
+    Subsec. (b)(2)(B) to (H). [Pub. L. 108–330][/us/pl/108/330], § 3(d)(2), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
 
     1999—Subsec. (c). [Pub. L. 106–58][/us/pl/106/58] added subsec. (c).
 
@@ -135,7 +135,7 @@
 
  __Chief Financial Officer of Department of Homeland Security__ 
 
-[Pub. L. 108–330, § 3(b)][/us/pl/108/330/s3/b], (c), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], provided that:
+[Pub. L. 108–330][/us/pl/108/330], § 3(b), (c), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], provided that:
 
 >     “(b)  __Appointment or Designation of__  __CFO.—__ 
 
@@ -147,7 +147,7 @@
 
  __Chief Financial Officer Within Executive Office of the President__ 
 
-[Pub. L. 106–58, title VI, § 638(b)][/us/pl/106/58/s638/b]–(e), Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475], provided that:
+[Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 638(b)–(e), Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475], provided that:
 
 >     “(b)  __Plan for Implementation__  __.—__ 
 
@@ -169,13 +169,13 @@
 
  __Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development__ 
 
-[Pub. L. 101–576, title II, § 205(c)(1)][/us/pl/101/576/s205/c/1], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], provided that: 
+[Pub. L. 101–576, title II][/us/pl/101/576/tII], § 205(c)(1), Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], provided that: 
 
 > “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of [section 901 of title 31][/us/usc/t31/s901], United States Code, as amended by this section, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act ([38 U.S.C. 201][/us/usc/t38/s201] note) and section 4(e) of the Department of Housing and Urban Development Act ([42 U.S.C. 3533(e)][/us/usc/t42/s3533/e]), as in effect before the effective date of this Act \[Nov. 15, 1990\].”
 
  __Transfer of Functions and Personnel of Agency Chief Financial Officers__ 
 
-[Pub. L. 101–576, title II, § 206][/us/pl/101/576/s206], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], provided that:
+[Pub. L. 101–576, title II][/us/pl/101/576/tII], § 206, Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], provided that:
 
 >     “(a)  __Agency Reviews of Financial Management Activities__  __.—__ 
 
@@ -199,7 +199,7 @@
 
  __Chief Financial Officers Council__ 
 
-[Pub. L. 101–576, title III, § 302][/us/pl/101/576/s302], Nov. 15, 1990, [104 Stat. 2848][/us/stat/104/2848], provided that:
+[Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 302, Nov. 15, 1990, [104 Stat. 2848][/us/stat/104/2848], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -224,16 +224,16 @@
 ----------
 ----------
 
-[/us/pl/101/576/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2842
-[/us/pl/103/296/s108/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fj%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/106/58/s638/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs638%2Fa
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F475
-[/us/pl/108/330/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fa
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1276
-[/us/pl/108/330/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fa
-[/us/pl/108/330/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fd%2F2
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
@@ -244,25 +244,25 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/330/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fb
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1276
 [/us/usc/t31/s901/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fa%2F1%2FB
-[/us/pl/106/58/s638/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs638%2Fb
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F475
 [/us/usc/t31/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fc
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t31/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fc
-[/us/pl/101/576/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs205%2Fc%2F1
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2845
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
 [/us/usc/t38/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs201
 [/us/usc/t42/s3533/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3533%2Fe
-[/us/pl/101/576/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs206
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2845
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
-[/us/pl/101/576/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs302
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2848
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
 

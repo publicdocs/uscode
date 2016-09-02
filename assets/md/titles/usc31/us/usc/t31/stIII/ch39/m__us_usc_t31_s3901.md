@@ -75,7 +75,7 @@
 
         (5) Except as provided in [section 3904 of this title][/us/usc/t31/s3904], this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
 
-(Added [Pub. L. 97–452, § 1(18)(A)][/us/pl/97/452/s1/18/A], Jan. 12, 1983, [96 Stat. 2474][/us/stat/96/2474]; amended [Pub. L. 100–496, § 2(a)][/us/pl/100/496/s2/a]–(c)(1), Oct. 17, 1988, [102 Stat. 2455][/us/stat/102/2455]; [Pub. L. 105–277, div. A, § 101(c)][/us/pl/105/277/s101/c] \[title I, § 162(a)\], Oct. 21, 1998, [112 Stat. 2681–121][/us/stat/112/2681-121], 2681–148; [Pub. L. 105–362, title XIII, § 1301(c)(2)(A)][/us/pl/105/362/s1301/c/2/A], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
+(Added [Pub. L. 97–452][/us/pl/97/452], § 1(18)(A), Jan. 12, 1983, [96 Stat. 2474][/us/stat/96/2474]; amended [Pub. L. 100–496][/us/pl/100/496], § 2(a)–(c)(1), Oct. 17, 1988, [102 Stat. 2455][/us/stat/102/2455]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(c) \[title I, § 162(a)\], Oct. 21, 1998, [112 Stat. 2681–121][/us/stat/112/2681-121], 2681–148; [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1301(c)(2)(A), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
 
 <table>
 
@@ -151,15 +151,15 @@ May 21, 1982, Pub. L. 97–177, §§ 6, 7(c), 96 Stat. 87, 88.  </td>
 
     Subsec. (d). [Pub. L. 105–277][/us/pl/105/277] added subsec. (d).
 
-    1988—Subsec. (a)(4). [Pub. L. 100–496, § 2(a)][/us/pl/100/496/s2/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
+    1988—Subsec. (a)(4). [Pub. L. 100–496][/us/pl/100/496], § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
 
     “(A) the designated payment office or finance center of the agency actually receives a proper invoice; or
 
     “(B) the head of the agency accepts the applicable property or service.”
 
-    Subsec. (a)(5). [Pub. L. 100–496, § 2(b)][/us/pl/100/496/s2/b], amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
+    Subsec. (a)(5). [Pub. L. 100–496][/us/pl/100/496], § 2(b), amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
 
-    Subsec. (c). [Pub. L. 100–496, § 2(c)(1)][/us/pl/100/496/s2/c/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–496][/us/pl/100/496], § 2(c)(1), added subsec. (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -167,7 +167,7 @@ May 21, 1982, Pub. L. 97–177, §§ 6, 7(c), 96 Stat. 87, 88.  </td>
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–496, § 1][/us/pl/100/496/s1], Oct. 17, 1988, [102 Stat. 2455][/us/stat/102/2455], provided that: 
+[Pub. L. 100–496][/us/pl/100/496], § 1, Oct. 17, 1988, [102 Stat. 2455][/us/stat/102/2455], provided that: 
 
 > “This Act \[enacting [section 3905 of this title][/us/usc/t31/s3905], amending this section, sections 3902 to 3904 and 3906 of this title, [section 644 of Title 15][/us/usc/t15/s644], Commerce and Trade, and [section 410 of Title 39][/us/usc/t39/s410], Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under [section 3903 of this title][/us/usc/t31/s3903]\] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
 
@@ -181,25 +181,25 @@ May 21, 1982, Pub. L. 97–177, §§ 6, 7(c), 96 Stat. 87, 88.  </td>
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t31/s3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3907
 [/us/usc/t31/s3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3904
-[/us/pl/97/452/s1/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F18%2FA
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2474
-[/us/pl/100/496/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs2%2Fa
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2455
-[/us/pl/105/277/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fc
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-121
-[/us/pl/105/362/s1301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1301%2Fc%2F2%2FA
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t31/s3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3906
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/100/496/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs2%2Fa
-[/us/pl/100/496/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs2%2Fb
-[/us/pl/100/496/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs2%2Fc%2F1
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/pl/100/496/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs2%2Fc%2F1
 [/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/usc/t31/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3902
-[/us/pl/100/496/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496%2Fs1
+[/us/pl/100/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F496
 [/us/stat/102/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2455
 [/us/usc/t31/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3905
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644

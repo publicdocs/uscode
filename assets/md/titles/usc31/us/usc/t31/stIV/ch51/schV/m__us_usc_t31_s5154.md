@@ -17,7 +17,7 @@
 
     A State or a territory or possession of the United States may tax United States coins and currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) as money on hand or on deposit in the same way and at the same rate that the State, territory, or possession taxes other forms of money. This section does not affect a law taxing national banks.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 992][/us/stat/96/992]; [Pub. L. 97–452, § 1(22)][/us/pl/97/452/s1/22], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 992][/us/stat/96/992]; [Pub. L. 97–452][/us/pl/97/452], § 1(22), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477].)
 
 <table>
 
@@ -94,7 +94,7 @@ Aug. 13, 1894, ch. 281, 28 Stat. 278.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F992
-[/us/pl/97/452/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F22
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi

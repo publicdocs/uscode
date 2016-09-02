@@ -101,15 +101,15 @@
 
         (3) planned executive actions or identification of the program for termination or reduction in the President’s budget.
 
-(Added [Pub. L. 111–352, § 4][/us/pl/111/352/s4], Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 4, Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].)
 
  __Prior Provisions__ 
 
-    A prior section 1116, added [Pub. L. 103–62, § 4(b)][/us/pl/103/62/s4/b], Aug. 3, 1993, [107 Stat. 288][/us/stat/107/288]; amended [Pub. L. 106–531, § 5(a)(1)][/us/pl/106/531/s5/a/1], (b), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 107–296, title XIII, § 1311(b)][/us/pl/107/296/s1311/b], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290], related to program performance reports, prior to repeal by [Pub. L. 111–352, § 4][/us/pl/111/352/s4], Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].
+    A prior section 1116, added [Pub. L. 103–62][/us/pl/103/62], § 4(b), Aug. 3, 1993, [107 Stat. 288][/us/stat/107/288]; amended [Pub. L. 106–531][/us/pl/106/531], § 5(a)(1), (b), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1311(b), Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290], related to program performance reports, prior to repeal by [Pub. L. 111–352][/us/pl/111/352], § 4, Jan. 4, 2011, [124 Stat. 3871][/us/stat/124/3871].
 
  __Merit Systems Protection Board__ 
 
-[Pub. L. 112–199, title I, § 116(b)][/us/pl/112/199/s116/b], Nov. 27, 2012, [126 Stat. 1474][/us/stat/126/1474], provided that:
+[Pub. L. 112–199, title I][/us/pl/112/199/tI], § 116(b), Nov. 27, 2012, [126 Stat. 1474][/us/stat/126/1474], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -131,17 +131,17 @@
 ----------
 
 [/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
-[/us/pl/111/352/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs4
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3871
-[/us/pl/103/62/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fb
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F288
-[/us/pl/106/531/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs5%2Fa%2F1
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2539
-[/us/pl/107/296/s1311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fb
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290
-[/us/pl/111/352/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs4
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3871
-[/us/pl/112/199/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs116%2Fb
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1474
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204

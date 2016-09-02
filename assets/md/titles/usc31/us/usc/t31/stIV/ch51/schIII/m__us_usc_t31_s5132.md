@@ -47,7 +47,7 @@
 
     (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 97–452, § 1(21)][/us/pl/97/452/s1/21], Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 98–151, § 123][/us/pl/98/151/s123], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979]; [Pub. L. 98–216, § 1(7)][/us/pl/98/216/s1/7], Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–61, title II, § 204][/us/pl/99/61/s204], July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185, § 2(e)][/us/pl/99/185/s2/e], Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274][/us/pl/100/274], §§ 1, 2(c)(3), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 101–585, § 2][/us/pl/101/585/s2], Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874]; [Pub. L. 102–390, title II][/us/pl/102/390], §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], 1628, 1629; [Pub. L. 106–445, § 2(a)][/us/pl/106/445/s2/a], Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 114–94, div. G, title LXXIII, § 73001(2)][/us/pl/114/94/s73001/2], Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 988][/us/stat/96/988]; [Pub. L. 97–452][/us/pl/97/452], § 1(21), Jan. 12, 1983, [96 Stat. 2477][/us/stat/96/2477]; [Pub. L. 98–151][/us/pl/98/151], § 123, Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979]; [Pub. L. 98–216][/us/pl/98/216], § 1(7), Feb. 14, 1984, [98 Stat. 4][/us/stat/98/4]; [Pub. L. 99–61, title II][/us/pl/99/61/tII], § 204, July 9, 1985, [99 Stat. 116][/us/stat/99/116]; [Pub. L. 99–185][/us/pl/99/185], § 2(e), Dec. 17, 1985, [99 Stat. 1178][/us/stat/99/1178]; [Pub. L. 100–274][/us/pl/100/274], §§ 1, 2(c)(3), Mar. 31, 1988, [102 Stat. 48][/us/stat/102/48]; [Pub. L. 101–585][/us/pl/101/585], § 2, Nov. 15, 1990, [104 Stat. 2874][/us/stat/104/2874]; [Pub. L. 102–390, title II][/us/pl/102/390/tII], §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, [106 Stat. 1624][/us/stat/106/1624], 1628, 1629; [Pub. L. 106–445][/us/pl/106/445], § 2(a), Nov. 6, 2000, [114 Stat. 1931][/us/stat/114/1931]; [Pub. L. 114–94, div. G, title LXXIII][/us/pl/114/94/dG/tLXXIII], § 73001(2), Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
 
 <table>
 
@@ -223,7 +223,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
  __References in Text__ 
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
  __Amendments__ 
 
@@ -231,21 +231,21 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
     2000—Subsec. (a)(2)(B)(i). [Pub. L. 106–445][/us/pl/106/445] substituted “paragraphs (2)” for “paragraphs (1)”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–390, § 225(b)(3)][/us/pl/102/390/s225/b/3], substituted “United States Mint” for “Bureau of the Mint” in two places.
+    1992—Subsec. (a)(1). [Pub. L. 102–390][/us/pl/102/390], § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
 
-    [Pub. L. 102–390, § 221(c)(1)(A)][/us/pl/102/390/s221/c/1/A], amended second sentence generally. Prior to amendment, second sentence read as follows: “However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items.”
+    [Pub. L. 102–390][/us/pl/102/390], § 221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items.”
 
-    [Pub. L. 102–390, § 221(c)(1)(B)][/us/pl/102/390/s221/c/1/B], amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under [section 5122 of this title][/us/usc/t31/s5122] to pay officers and employees.”
+    [Pub. L. 102–390][/us/pl/102/390], § 221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under [section 5122 of this title][/us/usc/t31/s5122] to pay officers and employees.”
 
-    Subsec. (a)(3) to (5). [Pub. L. 102–390, § 211][/us/pl/102/390/s211], which directed the substitution of “$54,208,000” for “$46,511,000” and “1993” for “1988” in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 101–585][/us/pl/101/585] redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors’ Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
+    Subsec. (a)(3) to (5). [Pub. L. 102–390][/us/pl/102/390], § 211, which directed the substitution of “$54,208,000” for “$46,511,000” and “1993” for “1988” in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 101–585][/us/pl/101/585] redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors’ Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
 
-    Subsec. (c). [Pub. L. 102–390, § 225(b)(4)][/us/pl/102/390/s225/b/4], substituted “United States Mint” for “Bureau”.
+    Subsec. (c). [Pub. L. 102–390][/us/pl/102/390], § 225(b)(4), substituted “United States Mint” for “Bureau”.
 
     1990—Subsec. (a)(2) to (5). [Pub. L. 101–585][/us/pl/101/585] added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “(3)” for “(2)” in par. (4).
 
-    1988—Subsec. (a)(2) to (4). [Pub. L. 100–274, § 1][/us/pl/100/274/s1], added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
+    1988—Subsec. (a)(2) to (4). [Pub. L. 100–274][/us/pl/100/274], § 1, added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
 
-    Subsec. (b). [Pub. L. 100–274, § 2(c)(3)][/us/pl/100/274/s2/c/3], struck out “and assay offices” after “amounts appropriated for the mints” in last sentence.
+    Subsec. (b). [Pub. L. 100–274][/us/pl/100/274], § 2(c)(3), struck out “and assay offices” after “amounts appropriated for the mints” in last sentence.
 
     1985—Subsec. (a)(1). [Pub. L. 99–185][/us/pl/99/185] inserted “paragraphs (1) through (6) of” before “[section 5112(a) of this title][/us/usc/t31/s5112/a]”.
 
@@ -259,7 +259,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–390, title II, § 221(e)][/us/pl/102/390/s221/e], Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629], provided that: 
+[Pub. L. 102–390, title II][/us/pl/102/390/tII], § 221(e), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629], provided that: 
 
 > “The amendments made by this section \[enacting [section 5134 of this title][/us/usc/t31/s5134], amending this section, amending and repealing provisions set out as notes under [section 5112 of this title][/us/usc/t31/s5112]\] shall apply with respect to fiscal years beginning after fiscal year 1992.”
 
@@ -288,25 +288,25 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F988
-[/us/pl/97/452/s1/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F21
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2477
-[/us/pl/98/151/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs123
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F979
-[/us/pl/98/216/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F7
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F4
-[/us/pl/99/61/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2Fs204
+[/us/pl/99/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61%2FtII
 [/us/stat/99/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F116
-[/us/pl/99/185/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185%2Fs2%2Fe
+[/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/stat/99/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1178
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/stat/102/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F48
-[/us/pl/101/585/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585%2Fs2
+[/us/pl/101/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585
 [/us/stat/104/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2874
-[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1624
-[/us/pl/106/445/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445%2Fs2%2Fa
+[/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
 [/us/stat/114/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1931
-[/us/pl/114/94/s73001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs73001%2F2
+[/us/pl/114/94/dG/tLXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIII
 [/us/stat/129/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1786
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F432
@@ -314,21 +314,21 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F989
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/106/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F445
-[/us/pl/102/390/s225/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F3
-[/us/pl/102/390/s221/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F1%2FA
-[/us/pl/102/390/s221/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fc%2F1%2FB
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/usc/t31/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5122
-[/us/pl/102/390/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs211
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/101/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585
-[/us/pl/102/390/s225/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs225%2Fb%2F4
+[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/101/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F585
-[/us/pl/100/274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs1
-[/us/pl/100/274/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274%2Fs2%2Fc%2F3
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
+[/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/pl/99/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F185
 [/us/usc/t31/s5112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112%2Fa
 [/us/pl/99/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F61
@@ -336,7 +336,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/102/390/s221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2Fs221%2Fe
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1629
 [/us/usc/t31/s5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5134
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112

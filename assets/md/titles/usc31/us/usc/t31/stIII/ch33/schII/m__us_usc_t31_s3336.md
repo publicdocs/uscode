@@ -31,7 +31,7 @@
 
     (c) The selection and designation of financial agents, the design of the pilot program, and any other matter associated with or related to the EBT pilot described in subsection (b) shall not be subject to judicial review.
 
-(Added [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 664\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–385.)
+(Added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 664\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–385.)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 
 

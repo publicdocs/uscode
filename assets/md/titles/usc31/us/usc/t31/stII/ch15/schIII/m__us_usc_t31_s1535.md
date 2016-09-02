@@ -47,7 +47,7 @@
 
         (2) affect other laws about working funds.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 933][/us/stat/96/933]; [Pub. L. 98–216, § 1(2)][/us/pl/98/216/s1/2], Feb. 14, 1984, [98 Stat. 3][/us/stat/98/3].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 933][/us/stat/96/933]; [Pub. L. 98–216][/us/pl/98/216], § 1(2), Feb. 14, 1984, [98 Stat. 3][/us/stat/98/3].)
 
 <table>
 
@@ -279,11 +279,11 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
  __Amendments__ 
 
-    1984—Subsec. (a)(3). [Pub. L. 98–216, § 1(2)(A)][/us/pl/98/216/s1/2/A], inserted “or get by contract” after “provide”.
+    1984—Subsec. (a)(3). [Pub. L. 98–216][/us/pl/98/216], § 1(2)(A), inserted “or get by contract” after “provide”.
 
-    Subsec. (a)(4). [Pub. L. 98–216, § 1(2)(B)][/us/pl/98/216/s1/2/B], inserted “by contract” after “provided”.
+    Subsec. (a)(4). [Pub. L. 98–216][/us/pl/98/216], § 1(2)(B), inserted “by contract” after “provided”.
 
-    Subsecs. (b), (c). [Pub. L. 98–216, § 1(2)(C)][/us/pl/98/216/s1/2/C]–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+    Subsecs. (b), (c). [Pub. L. 98–216][/us/pl/98/216], § 1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
 
  __Preventing Abuse of Interagency Contracts__ 
 
@@ -343,7 +343,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
  __Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires__ 
 
-[Pub. L. 108–136, div. A, title X, § 1058][/us/pl/108/136/s1058], Nov. 24, 2003, [117 Stat. 1619][/us/stat/117/1619], provided that:
+[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1058, Nov. 24, 2003, [117 Stat. 1619][/us/stat/117/1619], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -379,23 +379,23 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
  __Placement of Orders by Chief Administrative Officer of the House of Representatives__ 
 
-[Pub. L. 107–206, title I, § 904][/us/pl/107/206/s904], Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876], provided that: 
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 904, Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876], provided that: 
 
 > “Nothing in [section 1535 of title 31][/us/usc/t31/s1535], U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
 
  __Economy Act Purchases__ 
 
-    [Pub. L. 103–355, title I, § 1074][/us/pl/103/355/s1074], Oct. 13, 1994, [108 Stat. 3271][/us/stat/108/3271], provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+    [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1074, Oct. 13, 1994, [108 Stat. 3271][/us/stat/108/3271], provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
  __Department of Defense Purchases Through Other Agencies__ 
 
-    [Pub. L. 105–261, div. A, title VIII, § 814][/us/pl/105/261/s814], Oct. 17, 1998, [112 Stat. 2087][/us/stat/112/2087], which directed Secretary of Defense, not later than 90 days after Oct. 17, 1998, to revise regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 ([Pub. L. 103–160][/us/pl/103/160], see below) to cover certain purchases greater than the micro-purchase threshold and to provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold, ceased to be effective 1 year after date on which final regulations took effect. Final regulations were published in the Federal Register Mar. 25, 1999, effective on that date. See 64 F.R. 14399.
+    [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261/dA/tVIII], § 814, Oct. 17, 1998, [112 Stat. 2087][/us/stat/112/2087], which directed Secretary of Defense, not later than 90 days after Oct. 17, 1998, to revise regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 ([Pub. L. 103–160][/us/pl/103/160], see below) to cover certain purchases greater than the micro-purchase threshold and to provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold, ceased to be effective 1 year after date on which final regulations took effect. Final regulations were published in the Federal Register Mar. 25, 1999, effective on that date. See 64 F.R. 14399.
 
-    [Pub. L. 103–160, div. A, title VIII, § 844][/us/pl/103/160/s844], Nov. 30, 1993, [107 Stat. 1720][/us/stat/107/1720], directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+    [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 844, Nov. 30, 1993, [107 Stat. 1720][/us/stat/107/1720], directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
  __Acquisition of Goods, Services, or Space by Secretary of Senate and Sergeant at Arms and Doorkeeper of Senate__ 
 
-[Pub. L. 101–163, title I, § 8][/us/pl/101/163/s8], Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], as amended by [Pub. L. 112–10, div. B, title IX, § 1904][/us/pl/112/10/s1904], Apr. 15, 2011, [125 Stat. 170][/us/stat/125/170], provided that:
+[Pub. L. 101–163, title I][/us/pl/101/163/tI], § 8, Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], as amended by [Pub. L. 112–10, div. B, title IX][/us/pl/112/10/dB/tIX], § 1904, Apr. 15, 2011, [125 Stat. 170][/us/stat/125/170], provided that:
 
 >     “(1) The Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate are authorized to acquire goods, services, or space from government agencies and units by agreement under the provisions of the Economy Act, [31 U.S.C. 1535][/us/usc/t31/s1535], and to make advance payments in conjunction therewith, if required by the providing agency or establishment.
 
@@ -412,22 +412,22 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F933
-[/us/pl/98/216/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F2
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs1
 [/us/stat/70A/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F488
 [/us/act/1949-06-30/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fs102%2Fa
-[/us/pl/98/216/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F2%2FA
-[/us/pl/98/216/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F2%2FB
-[/us/pl/98/216/s1/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs1%2F2%2FC
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4550
 [/us/usc/t41/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F1
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/108/136/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1058
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1619
 [/us/usc/t31/s1535/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535%2Fa%2F4
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
@@ -435,19 +435,19 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 [/us/usc/t31/s1535/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535%2Fa%2F4
 [/us/usc/t31/s1535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535%2Fa
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/107/206/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs904
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F876
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/103/355/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1074
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3271
-[/us/pl/105/261/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs814
+[/us/pl/105/261/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVIII
 [/us/stat/112/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2087
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/160/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs844
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1720
-[/us/pl/101/163/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs8
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1046
-[/us/pl/112/10/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1904
+[/us/pl/112/10/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtIX
 [/us/stat/125/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F170
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
 

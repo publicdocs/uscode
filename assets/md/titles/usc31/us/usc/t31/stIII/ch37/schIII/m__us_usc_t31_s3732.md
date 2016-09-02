@@ -27,7 +27,7 @@
 
     With respect to any State or local government that is named as a co-plaintiff with the United States in an action brought under subsection (b), a seal on the action ordered by the court under section 3730(b) shall not preclude the Government or the person bringing the action from serving the complaint, any other pleadings, or the written disclosure of substantially all material evidence and information possessed by the person bringing the action on the law enforcement authorities that are authorized under the law of that State or local government to investigate and prosecute such actions on behalf of such governments, except that such seal applies to the law enforcement authorities so served to the same extent as the seal applies to other parties in the action.
 
-(Added [Pub. L. 99–562, § 6(a)][/us/pl/99/562/s6/a], Oct. 21, 1986, [100 Stat. 3158][/us/stat/100/3158]; amended [Pub. L. 111–21, § 4(e)][/us/pl/111/21/s4/e], May 20, 2009, [123 Stat. 1625][/us/stat/123/1625].)
+(Added [Pub. L. 99–562][/us/pl/99/562], § 6(a), Oct. 21, 1986, [100 Stat. 3158][/us/stat/100/3158]; amended [Pub. L. 111–21][/us/pl/111/21], § 4(e), May 20, 2009, [123 Stat. 1625][/us/stat/123/1625].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/99/562/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs6%2Fa
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3158
-[/us/pl/111/21/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs4%2Fe
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1625
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21

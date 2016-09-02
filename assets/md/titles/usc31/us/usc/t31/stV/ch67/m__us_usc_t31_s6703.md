@@ -117,13 +117,13 @@
 
             (B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1861][/us/stat/108/1861]; amended [Pub. L. 104–316, title I, § 115(j)][/us/pl/104/316/s115/j], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–424, 2681–432; [Pub. L. 107–217, § 3(h)(8)][/us/pl/107/217/s3/h/8], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 109–270, § 2(i)][/us/pl/109/270/s2/i], Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 113–128, title V, § 512(ff)][/us/pl/113/128/s512/ff], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+(Added [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31001(a), Sept. 13, 1994, [108 Stat. 1861][/us/stat/108/1861]; amended [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(j), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–424, 2681–432; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(8), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 109–270][/us/pl/109/270], § 2(i), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(ff), July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§ 2711 et seq.) and B (§ 2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519]. See part A (§ 6311 et seq.) and subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to [section 3192 of Title 20][/us/usc/t20/s3192] prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382]. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by [Pub. L. 107–110][/us/pl/107/110] and is classified to [section 7213a of Title 20][/us/usc/t20/s7213a].
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§ 2711 et seq.) and B (§ 2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519]. See part A (§ 6311 et seq.) and subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to [section 3192 of Title 20][/us/usc/t20/s3192] prior to being omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382]. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by [Pub. L. 107–110][/us/pl/107/110] and was classified to [section 7213a of Title 20][/us/usc/t20/s7213a], prior to repeal by [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(b)(1)(A), Dec. 10, 2015, [129 Stat. 1967][/us/stat/129/1967].
 
-    Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to [section 9910c of Title 42][/us/usc/t42/s9910c], The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728]. A new section 682 of the Act, containing similar subject matter, is classified to [section 9923 of Title 42][/us/usc/t42/s9923].
+    Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to [section 9910c of Title 42][/us/usc/t42/s9910c], The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by [Pub. L. 105–285, title II][/us/pl/105/285/tII], § 201, Oct. 27, 1998, [112 Stat. 2728][/us/stat/112/2728]. A new section 682 of the Act, containing similar subject matter, is classified to [section 9923 of Title 42][/us/usc/t42/s9923].
 
     [Public Law 101–509][/us/pl/101/509], referred to in subsec. (a)(3), is [Pub. L. 101–509][/us/pl/101/509], Nov. 5, 1990, [104 Stat. 1389][/us/stat/104/1389]. For complete classification of this Act to the Code, see Tables.
 
@@ -139,15 +139,15 @@
 
     The Higher Education Act of 1965, referred to in subsec. (a)(10), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Part A of title IV of the Act is classified generally to part A (§ 1070 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    The National Literacy Act of 1991, referred to in subsec. (a)(11), is [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333], which was repealed by [Pub. L. 105–220, title II, § 251(a)(2)][/us/pl/105/220/s251/a/2], Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079]. For complete classification of this Act to the Code, see Tables.
+    The National Literacy Act of 1991, referred to in subsec. (a)(11), is [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333], which was repealed by [Pub. L. 105–220, title II][/us/pl/105/220/tII], § 251(a)(2), Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079]. For complete classification of this Act to the Code, see Tables.
 
-    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
+    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
     Sections 203 and 401 of the Human Services Reauthorization Act of 1994 ([Public Law 103–252][/us/pl/103/252]), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, [Pub. L. 103–252][/us/pl/103/252], May 18, 1994, [108 Stat. 654][/us/stat/108/654], 666. [Section 203 of Pub. L. 103–252][/us/pl/103/252/s203] amended [section 9910 of Title 42][/us/usc/t42/s9910], The Public Health and Welfare. [Section 401 of Pub. L. 103–252][/us/pl/103/252/s401] generally amended subchapter III (§ 5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 
     The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended. Title III of the Act is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42][/us/usc/t42/s5601] and Tables.
 
-    The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42][/us/usc/t42/s9857/a] and Tables.
+    The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5082(2), Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42][/us/usc/t42/s9857/a] and Tables.
 
     The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(17), probably means the Child Abuse Amendments of 1984, [Pub. L. 98–457][/us/pl/98/457], Oct. 9, 1984, [98 Stat. 1749][/us/stat/98/1749], as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§ 10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 5101 of Title 42][/us/usc/t42/s5101] and Tables.
 
@@ -157,7 +157,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6703, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1012][/us/stat/96/1012]; [Pub. L. 98–185, § 3][/us/pl/98/185/s3], Nov. 30, 1983, [97 Stat. 1309][/us/stat/97/1309], related to State and Local Government Fiscal Assistance Trust Fund, prior to repeal by [Pub. L. 99–272, title XIV, § 14001(a)(1)][/us/pl/99/272/s14001/a/1], (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
+    A prior section 6703, [Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1012][/us/stat/96/1012]; [Pub. L. 98–185][/us/pl/98/185], § 3, Nov. 30, 1983, [97 Stat. 1309][/us/stat/97/1309], related to State and Local Government Fiscal Assistance Trust Fund, prior to repeal by [Pub. L. 99–272, title XIV][/us/pl/99/272/tXIV], § 14001(a)(1), (e), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327], 329, eff. Oct. 18, 1986.
 
  __Amendments__ 
 
@@ -167,11 +167,11 @@
 
     2002—Subsec. (d)(5). [Pub. L. 107–217][/us/pl/107/217] substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended ([40 U.S.C. 276a–276a][/us/usc/t40/s276a–276a]–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” for “[section 2 of the Act of June 1, 1934][/us/act/1934-06-01/s2] (commonly known as the Copeland Anti-Kickback Act), as amended ([40 U.S.C. 276c][/us/usc/t40/s276c], [48 Stat. 948][/us/stat/48/948])”.
 
-    1998—Subsec. (a)(4). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
+    1998—Subsec. (a)(4). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act ([29 U.S.C. 1601][/us/usc/t29/s1601] et seq.).”
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act ([29 U.S.C. 1601][/us/usc/t29/s1601] et seq.).”
 
-    Subsec. (a)(15) to (19). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act ([42 U.S.C. 11481][/us/usc/t42/s11481] et seq.).”
+    Subsec. (a)(15) to (19). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act ([42 U.S.C. 11481][/us/usc/t42/s11481] et seq.).”
 
     1996—Subsec. (d)(6). [Pub. L. 104–316][/us/pl/104/316] struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
 
@@ -205,30 +205,32 @@
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/103/322/s31001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31001%2Fa
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1861
-[/us/pl/104/316/s115/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fj
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/107/217/s3/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F8
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
-[/us/pl/109/270/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2%2Fi
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F748
-[/us/pl/113/128/s512/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fff
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
 [/us/usc/t20/s3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3192
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s7213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7213a
+[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
+[/us/stat/129/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1967
 [/us/usc/t42/s9910c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9910c
-[/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
+[/us/pl/105/285/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtII
 [/us/stat/112/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2728
 [/us/usc/t42/s9923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9923
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -254,11 +256,11 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/102/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73
 [/us/stat/105/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F333
-[/us/pl/105/220/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs251%2Fa%2F2
+[/us/pl/105/220/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtII
 [/us/stat/112/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1079
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
@@ -271,7 +273,7 @@
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
@@ -283,9 +285,9 @@
 [/us/usc/t31/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1012
-[/us/pl/98/185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185%2Fs3
+[/us/pl/98/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F185
 [/us/stat/97/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1309
-[/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
+[/us/pl/99/272/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIV
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
@@ -295,10 +297,10 @@
 [/us/act/1934-06-01/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-01%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
 [/us/stat/48/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F948
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t29/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1601
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t42/s11481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11481
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

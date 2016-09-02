@@ -23,7 +23,7 @@
 
     Credits described in subsection (a) that are received as exchanged allowances, or as the proceeds of the sale of personal property, may be used in whole or partial payment for the acquisition of similar items, to the extent and in the manner authorized by law, without reimbursement to the Treasury.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 918][/us/stat/96/918]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 612(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–355.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 918][/us/stat/96/918]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 612(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–355.)
 
 <table>
 
@@ -77,21 +77,21 @@ July 15, 1952, ch. 758, § 1415, 66 Stat. 662.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 612(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–356, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 612(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–356, provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
 
  __Appropriations of Excess Currencies__ 
 
-[Pub. L. 102–391, title V, § 566][/us/pl/102/391/s566], Oct. 6, 1992, [106 Stat. 1680][/us/stat/106/1680], provided that: 
+[Pub. L. 102–391, title V][/us/pl/102/391/tV], § 566, Oct. 6, 1992, [106 Stat. 1680][/us/stat/106/1680], provided that: 
 
 > “The provisions of [section 1306 of title 31][/us/usc/t31/s1306], United States Code, shall not be waived to carry out the provisions of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] by any provision of law enacted after the date of enactment of this Act \[Oct. 6, 1992\] unless such provision makes specific reference to this section.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 101–513, title V, § 570][/us/pl/101/513/s570], Nov. 5, 1990, [104 Stat. 2041][/us/stat/104/2041].
+    [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 570, Nov. 5, 1990, [104 Stat. 2041][/us/stat/104/2041].
 
-    [Pub. L. 101–167, title V, § 583][/us/pl/101/167/s583], Nov. 21, 1989, [103 Stat. 1251][/us/stat/103/1251].
+    [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 583, Nov. 21, 1989, [103 Stat. 1251][/us/stat/103/1251].
 
 ----------
 
@@ -102,18 +102,18 @@ Similar provisions were contained in the following prior appropriations acts:
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F918
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/102/391/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs566
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1680
 [/us/usc/t31/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1306
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/101/513/s570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs570
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2041
-[/us/pl/101/167/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs583
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1251
 
 

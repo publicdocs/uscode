@@ -49,7 +49,7 @@
 
     The Secretary of the Treasury may prescribe regulations under this section defining the term “at one time” for purposes of subsection (a). Such regulations may permit the cumulation of closely related events in order that such events may collectively be considered to occur at one time for the purposes of subsection (a).
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 998][/us/stat/96/998]; [Pub. L. 98–473, title II, § 901(c)][/us/pl/98/473/s901/c], Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I, § 1358][/us/pl/99/570/s1358], title III, § 3153, Oct. 27, 1986, [100 Stat. 3207–26][/us/stat/100/3207-26], 3207–94.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 998][/us/stat/96/998]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 901(c), Oct. 12, 1984, [98 Stat. 2135][/us/stat/98/2135]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1358, title III, § 3153, Oct. 27, 1986, [100 Stat. 3207–26][/us/stat/100/3207-26], 3207–94.)
 
 <table>
 
@@ -131,17 +131,17 @@ Oct. 26, 1970, Pub. L. 91–508, § 231, 84 Stat. 1122.  </td>
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1). [Pub. L. 99–570, § 1358(b)][/us/pl/99/570/s1358/b], substituted “transports, is about to transport, or has transported” for “transports or has transported, or attempts to transport or have transported”.
+    1986—Subsec. (a)(1). [Pub. L. 99–570][/us/pl/99/570], § 1358(b), substituted “transports, is about to transport, or has transported” for “transports or has transported, or attempts to transport or have transported”.
 
     Subsec. (a)(2). [Pub. L. 99–570][/us/pl/99/570], §§ 1358(c), 3153, made identical amendments substituting “$10,000” for “$5,000”.
 
-    Subsec. (d). [Pub. L. 99–570, § 1358(a)][/us/pl/99/570/s1358/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–570][/us/pl/99/570], § 1358(a), added subsec. (d).
 
     1984—Subsec. (a)(1). [Pub. L. 98–473][/us/pl/98/473] inserted “, or attempts to transport or have transported,” after “transports or has transported” and substituted “$10,000” for “$5,000”.
 
  __Effective Date of Regulations Prescribed Under 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1364(d)][/us/pl/99/570/s1364/d], Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1364(d), Oct. 27, 1986, [100 Stat. 3207–34][/us/stat/100/3207-34], provided that: 
 
 > “Any regulation prescribed under the amendments made by section 1358 \[amending this section\] shall apply with respect to transactions completed after the effective date of such regulation.”
 
@@ -154,15 +154,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 231, 84 Stat. 1122.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F998
-[/us/pl/98/473/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs901%2Fc
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2135
-[/us/pl/99/570/s1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1358
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-26
-[/us/pl/99/570/s1358/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1358%2Fb
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/99/570/s1358/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1358%2Fa
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/99/570/s1364/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1364%2Fd
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-34
 
 

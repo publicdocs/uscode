@@ -151,7 +151,7 @@
 
     (i) Notwithstanding [section 410(a) of title 39][/us/usc/t39/s410/a], this section applies to the United States Postal Service.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 924][/us/stat/96/924]; [Pub. L. 99–550, § 1(a)][/us/pl/99/550/s1/a], Oct. 27, 1986, [100 Stat. 3067][/us/stat/100/3067]; [Pub. L. 100–180, div. A, title XIII, § 1314(d)(2)][/us/pl/100/180/s1314/d/2], Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–26; [Pub. L. 101–510, div. A, title III, § 326(b)][/us/pl/101/510/s326/b], Nov. 5, 1990, [104 Stat. 1531][/us/stat/104/1531]; [Pub. L. 103–272, § 4(f)(2)][/us/pl/103/272/s4/f/2], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], amended [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37]; [Pub. L. 108–7, div. K, title IV, § 423][/us/pl/108/7/s423], Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526]; [Pub. L. 108–447, div. B, title I, § 117][/us/pl/108/447/s117], Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870]; [Pub. L. 109–59, title III, § 3049(b)(1)][/us/pl/109/59/s3049/b/1], (2), Aug. 10, 2005, [119 Stat. 1712][/us/stat/119/1712], 1713; [Pub. L. 111–350, § 5(h)(4)][/us/pl/111/350/s5/h/4], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 924][/us/stat/96/924]; [Pub. L. 99–550][/us/pl/99/550], § 1(a), Oct. 27, 1986, [100 Stat. 3067][/us/stat/100/3067]; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(d)(2), Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176]; [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–26; [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 326(b), Nov. 5, 1990, [104 Stat. 1531][/us/stat/104/1531]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(2), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363]; [Pub. L. 104–91, title I][/us/pl/104/91/tI], § 101(a), Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], amended [Pub. L. 104–99, title II][/us/pl/104/99/tII], § 211, Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37]; [Pub. L. 108–7, div. K, title IV][/us/pl/108/7/dK/tIV], § 423, Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526]; [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 117, Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870]; [Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3049(b)(1), (2), Aug. 10, 2005, [119 Stat. 1712][/us/stat/119/1712], 1713; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(4), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
 <table>
 
@@ -225,7 +225,7 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 
     Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by [Pub. L. 100–202][/us/pl/100/202]. See 1987 Amendment note below.
 
-    [Section 3502 of title 44][/us/usc/t44/s3502], referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. [Pub. L. 104–13][/us/pl/104/13] enacted a new [section 3502 of Title 44][/us/usc/t44/s3502] which also defines “independent regulatory agency”.
+    [Section 3502 of title 44][/us/usc/t44/s3502], referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. [Pub. L. 104–13][/us/pl/104/13] enacted a new [section 3502 of Title 44][/us/usc/t44/s3502] which also defines “independent regulatory agency”.
 
  __Codification__ 
 
@@ -235,9 +235,9 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 
     2011—Subsec. (h)(2)(A). [Pub. L. 111–350][/us/pl/111/350] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a department (as such term is defined in [section 18 of the Act of August 2, 1946][/us/act/1946-08-02/s18] ([41 U.S.C. 5a][/us/usc/t41/s5a]));”.
 
-    2005—Subsec. (a)(3). [Pub. L. 109–59, § 3049(b)(2)][/us/pl/109/59/s3049/b/2], added par. (3).
+    2005—Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59], § 3049(b)(2), added par. (3).
 
-    Subsecs. (g) to (i). [Pub. L. 109–59, § 3049(b)(1)][/us/pl/109/59/s3049/b/1], added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+    Subsecs. (g) to (i). [Pub. L. 109–59][/us/pl/109/59], § 3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
     2004—Subsec. (b)(6). [Pub. L. 108–447][/us/pl/108/447] inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
 
@@ -249,17 +249,17 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 
     1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510] inserted “, [section 2637 of title 10][/us/usc/t10/s2637],” after “Act of 1956”.
 
-    1987—Subsec. (b). [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407(1)\], as amended by [Pub. L. 103–272][/us/pl/103/272], added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
+    1987—Subsec. (b). [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407(1)\], as amended by [Pub. L. 103–272][/us/pl/103/272], added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
 
     Subsec. (b)(4). [Pub. L. 100–180][/us/pl/100/180] inserted “the members and Vice Chairman of” before “the Joint Chiefs of Staff”.
 
-    Subsec. (d)(1), (2). [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407(2)(A)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
+    Subsec. (d)(1), (2). [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407(2)(A)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
 
-    Subsec. (d)(3). [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407(2)(B)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
+    Subsec. (d)(3). [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407(2)(B)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
 
-    Subsec. (d)(4). [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407(2)(C)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
+    Subsec. (d)(4). [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407(2)(C)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
 
-    Subsec. (e)(1). [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 407(3)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “(b)(9)” for “(b)(8)”.
+    Subsec. (e)(1). [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 407(3)\], as amended by [Pub. L. 103–272][/us/pl/103/272], substituted “(b)(9)” for “(b)(8)”.
 
     1986—[Pub. L. 99–550][/us/pl/99/550] substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -287,13 +287,13 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–447, div. B, title I, § 117][/us/pl/108/447/s117], Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870], provided in part that: 
+[Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 117, Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870], provided in part that: 
 
 > “This amendment \[amending this section\] shall take effect as if enacted on January 1, 2004.”
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–272, § 4(f)(2)][/us/pl/103/272/s4/f/2], July 5, 1994, [108 Stat. 1363][/us/stat/108/1363], provided that the amendment made by that section is effective Dec. 22, 1987.
+    [Pub. L. 103–272][/us/pl/103/272], § 4(f)(2), July 5, 1994, [108 Stat. 1363][/us/stat/108/1363], provided that the amendment made by that section is effective Dec. 22, 1987.
 
  __Transfer of Functions__ 
 
@@ -301,19 +301,19 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 
  __Coordination__ 
 
-[Pub. L. 109–59, title III, § 3049(b)(3)][/us/pl/109/59/s3049/b/3], Aug. 10, 2005, [119 Stat. 1713][/us/stat/119/1713], provided that: 
+[Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3049(b)(3), Aug. 10, 2005, [119 Stat. 1713][/us/stat/119/1713], provided that: 
 
 > “The authority to provide transportation services under [section 1344(g) of title 31][/us/usc/t31/s1344/g], United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
 
  __Use of Government Vehicles__ 
 
-[Pub. L. 101–194, title V, § 503][/us/pl/101/194/s503], Nov. 30, 1989, [103 Stat. 1755][/us/stat/103/1755], as amended by [Pub. L. 101–280, § 6(b)][/us/pl/101/280/s6/b], May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that: 
+[Pub. L. 101–194, title V][/us/pl/101/194/tV], § 503, Nov. 30, 1989, [103 Stat. 1755][/us/stat/103/1755], as amended by [Pub. L. 101–280][/us/pl/101/280], § 6(b), May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that: 
 
 > “Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable.”
 
  __Use of Official Vehicles of House of Representatives__ 
 
-[Pub. L. 101–194, title VIII, § 802(d)][/us/pl/101/194/s802/d], Nov. 30, 1989, [103 Stat. 1773][/us/stat/103/1773], as amended by [Pub. L. 104–186, title II, § 219(a)][/us/pl/104/186/s219/a], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747], provided that: 
+[Pub. L. 101–194, title VIII][/us/pl/101/194/tVIII], § 802(d), Nov. 30, 1989, [103 Stat. 1773][/us/stat/103/1773], as amended by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 219(a), Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747], provided that: 
 
 > “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
@@ -335,27 +335,27 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 [/us/usc/t39/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F924
-[/us/pl/99/550/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550%2Fs1%2Fa
+[/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/stat/100/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3067
-[/us/pl/100/180/s1314/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fd%2F2
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1176
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/101/510/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs326%2Fb
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1531
-[/us/pl/103/272/s4/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
-[/us/pl/104/91/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs101%2Fa
+[/us/pl/104/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2FtI
 [/us/stat/110/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F11
-[/us/pl/104/99/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs211
+[/us/pl/104/99/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtII
 [/us/stat/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F37
-[/us/pl/108/7/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs423
+[/us/pl/108/7/dK/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIV
 [/us/stat/117/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F526
-[/us/pl/108/447/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs117
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2870
-[/us/pl/109/59/s3049/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3049%2Fb%2F1
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1712
-[/us/pl/111/350/s5/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F4
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/act/1966-09-06/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-09-06%2Fs7%2Fb
@@ -365,7 +365,7 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 [/us/usc/t50/s3510/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3510%2Fa%2F1
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
@@ -374,8 +374,8 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/act/1946-08-02/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs18
 [/us/usc/t41/s5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5a
-[/us/pl/109/59/s3049/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3049%2Fb%2F2
-[/us/pl/109/59/s3049/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3049%2Fb%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
@@ -384,16 +384,16 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2637
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
@@ -401,21 +401,21 @@ July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restate
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/108/447/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs117
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2870
-[/us/pl/103/272/s4/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1363
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/109/59/s3049/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3049%2Fb%2F3
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1713
 [/us/usc/t31/s1344/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1344%2Fg
-[/us/pl/101/194/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs503
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1755
-[/us/pl/101/280/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fb
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
-[/us/pl/101/194/s802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs802%2Fd
+[/us/pl/101/194/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVIII
 [/us/stat/103/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1773
-[/us/pl/104/186/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs219%2Fa
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1747
 
 

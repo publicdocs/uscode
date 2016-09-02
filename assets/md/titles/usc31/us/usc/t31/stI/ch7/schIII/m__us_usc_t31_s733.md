@@ -47,7 +47,7 @@
 
     (d) Section 732(b)(6), (c), (d)(1)–(4), and (e) of this title does not apply to the Office Senior Executive Service.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 899][/us/stat/96/899]; [Pub. L. 98–326, § 1(c)][/us/pl/98/326/s1/c], June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 106–303, § 4(b)][/us/pl/106/303/s4/b], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271, § 3(b)][/us/pl/108/271/s3/b], July 7, 2004, [118 Stat. 812][/us/stat/118/812]; [Pub. L. 110–323, § 9(b)(2)][/us/pl/110/323/s9/b/2], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 899][/us/stat/96/899]; [Pub. L. 98–326][/us/pl/98/326], § 1(c), June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 106–303][/us/pl/106/303], § 4(b), Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271][/us/pl/108/271], § 3(b), July 7, 2004, [118 Stat. 812][/us/stat/118/812]; [Pub. L. 110–323][/us/pl/110/323], § 9(b)(2), Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548].)
 
 <table>
 
@@ -181,13 +181,13 @@ Feb. 15, 1980, Pub. L. 96–191, § 5(a), 94 Stat. 31.  </td>
 [/us/usc/t5/s5384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5384
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F899
-[/us/pl/98/326/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326%2Fs1%2Fc
+[/us/pl/98/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F326
 [/us/stat/98/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F269
-[/us/pl/106/303/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs4%2Fb
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1069
-[/us/pl/108/271/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs3%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F812
-[/us/pl/110/323/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fb%2F2
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3548
 [/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

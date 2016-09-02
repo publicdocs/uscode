@@ -23,7 +23,7 @@
 
     (b) The Secretary of Labor shall make available in a database a list of the contractors that have complied with the provisions of such section 4212(d).
 
-(Added [Pub. L. 105–339, § 7(b)(1)][/us/pl/105/339/s7/b/1], Oct. 31, 1998, [112 Stat. 3189][/us/stat/112/3189].)
+(Added [Pub. L. 105–339][/us/pl/105/339], § 7(b)(1), Oct. 31, 1998, [112 Stat. 3189][/us/stat/112/3189].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t38/s4212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4212%2Fa
-[/us/pl/105/339/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs7%2Fb%2F1
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3189
 
 

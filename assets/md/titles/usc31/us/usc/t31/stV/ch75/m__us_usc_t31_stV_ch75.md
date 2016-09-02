@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], amended chapter analysis generally, substituting in item 7504 “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” and in item 7507 “Effective date” for “Effective date; report”.
+    1996—[Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1396][/us/stat/110/1396], amended chapter analysis generally, substituting in item 7504 “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” and in item 7507 “Effective date” for “Effective date; report”.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1396
 
 

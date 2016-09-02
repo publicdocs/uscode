@@ -31,7 +31,7 @@
 
     Nothing in this section shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
-(Added [Pub. L. 100–86, title X, § 1003][/us/pl/100/86/s1003], Aug. 10, 1987, [101 Stat. 658][/us/stat/101/658].)
+(Added [Pub. L. 100–86, title X][/us/pl/100/86/tX], § 1003, Aug. 10, 1987, [101 Stat. 658][/us/stat/101/658].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t31/s3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3328
-[/us/pl/100/86/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1003
+[/us/pl/100/86/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtX
 [/us/stat/101/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F658
 [/us/pl/100/86/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs1006
 [/us/usc/t31/s3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3328

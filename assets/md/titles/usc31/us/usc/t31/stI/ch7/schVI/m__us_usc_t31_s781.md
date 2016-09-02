@@ -27,11 +27,11 @@
 
         (3) The Comptroller General may make advance, progress, and other payments which relate to agreements or contracts entered into under authority of this section, without regard to the provisions of section 3324(a) and (b) of this title.
 
-(Added [Pub. L. 100–545, § 1][/us/pl/100/545/s1], Oct. 28, 1988, [102 Stat. 2727][/us/stat/102/2727]; amended [Pub. L. 107–217, § 3(h)(1)][/us/pl/107/217/s3/h/1], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 111–350, § 5(h)(3)][/us/pl/111/350/s5/h/3], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+(Added [Pub. L. 100–545][/us/pl/100/545], § 1, Oct. 28, 1988, [102 Stat. 2727][/us/stat/102/2727]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(h)(1), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 111–350][/us/pl/111/350], § 5(h)(3), Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
 
  __References in Text__ 
 
-    The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of [Pub. L. 98–369, div. B][/us/pl/98/369], July 18, 1984, [98 Stat. 1175][/us/stat/98/1175]. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts, and Tables.
+    The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of [Pub. L. 98–369, div. B][/us/pl/98/369/dB], July 18, 1984, [98 Stat. 1175][/us/stat/98/1175]. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts, and Tables.
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t40/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3307
-[/us/pl/100/545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545%2Fs1
+[/us/pl/100/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F545
 [/us/stat/102/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2727
-[/us/pl/107/217/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/pl/111/350/s5/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB
 [/us/stat/98/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1175
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350

@@ -71,7 +71,7 @@
 
         Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
 
-(Added [Pub. L. 107–56, title III, § 365(a)][/us/pl/107/56/s365/a], Oct. 26, 2001, [115 Stat. 333][/us/stat/115/333]; amended [Pub. L. 112–74, div. C, title I, § 120][/us/pl/112/74/s120], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
+(Added [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 365(a), Oct. 26, 2001, [115 Stat. 333][/us/stat/115/333]; amended [Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], § 120, Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Regulations__ 
 
-[Pub. L. 107–56, title III, § 365(e)][/us/pl/107/56/s365/e], formerly § 365(f), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], renumbered § 365(e) by [Pub. L. 108–458, title VI, § 6202(n)(2)][/us/pl/108/458/s6202/n/2], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 365(e), formerly § 365(f), Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], renumbered § 365(e) by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(n)(2), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that: 
 
 > “Regulations which the Secretary \[of the Treasury\] determines are necessary to implement this section \[enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and 5328 of this title\] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -94,15 +94,15 @@
 ----------
 ----------
 
-[/us/pl/107/56/s365/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F333
-[/us/pl/112/74/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs120
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F891
 [/us/usc/t26/s6050I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050I
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/107/56/s365/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs365%2Fe
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F335
-[/us/pl/108/458/s6202/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fn%2F2
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 
 

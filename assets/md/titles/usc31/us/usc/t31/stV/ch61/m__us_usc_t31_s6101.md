@@ -79,7 +79,7 @@
 
         and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1000][/us/stat/96/1000]; [Pub. L. 98–169][/us/pl/98/169], §§ 1(1), 3(a), Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113]; [Pub. L. 99–547, § 2(b)(2)][/us/pl/99/547/s2/b/2], Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060]; [Pub. L. 103–272, § 4(f)(1)(S)][/us/pl/103/272/s4/f/1/S], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–287, § 6(a)(1)][/us/pl/104/287/s6/a/1], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1000][/us/stat/96/1000]; [Pub. L. 98–169][/us/pl/98/169], §§ 1(1), 3(a), Nov. 29, 1983, [97 Stat. 1113][/us/stat/97/1113]; [Pub. L. 99–547][/us/pl/99/547], § 2(b)(2), Oct. 27, 1986, [100 Stat. 3060][/us/stat/100/3060]; [Pub. L. 103–272][/us/pl/103/272], § 4(f)(1)(S), July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–287][/us/pl/104/287], § 6(a)(1), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398].)
 
 <table>
 
@@ -185,29 +185,29 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
     1986—Par. (4)(B). [Pub. L. 99–547][/us/pl/99/547] substituted “assistance from an agency for an agency” for “a department, agency, or instrumentality of the Government.”
 
-    1983—Pars. (5), (6). [Pub. L. 98–169, § 1(1)][/us/pl/98/169/s1/1], added pars. (5) and (6).
+    1983—Pars. (5), (6). [Pub. L. 98–169][/us/pl/98/169], § 1(1), added pars. (5) and (6).
 
-    Par. (7). [Pub. L. 98–169, § 3(a)][/us/pl/98/169/s3/a], added par. (7).
+    Par. (7). [Pub. L. 98–169][/us/pl/98/169], § 3(a), added par. (7).
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–287, § 6(a)][/us/pl/104/287/s6/a], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by that section is effective July 5, 1994.
+    [Pub. L. 104–287][/us/pl/104/287], § 6(a), Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by that section is effective July 5, 1994.
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–101, § 1][/us/pl/113/101/s1], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
+[Pub. L. 113–101][/us/pl/113/101], § 1, May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
 
 > “This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Digital Accountability and Transparency Act of 2014’ or the ‘DATA Act’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–252, title VI, § 6201][/us/pl/110/252/s6201], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that: 
+[Pub. L. 110–252, title VI][/us/pl/110/252/tVI], § 6201, June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that: 
 
 > “This chapter \[chapter 2 (§§ 6201, 6202) of title VI of [Pub. L. 110–252][/us/pl/110/252], enacting and amending provisions set out as notes under this section\] may be cited as the ‘Government Funding Transparency Act of 2008’.”
 
  __Purposes__ 
 
-[Pub. L. 113–101, § 2][/us/pl/113/101/s2], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
+[Pub. L. 113–101][/us/pl/113/101], § 2, May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
 
 > “The purposes of this Act \[see Short Title of 2014 Amendment note above\] are to—
 
@@ -223,7 +223,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Requirements and Limitations for Suspension and Debarment Officials of the Department of Defense, the Department of State, and the United States Agency for International Development__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 861][/us/pl/112/239/s861], Jan. 2, 2013, [126 Stat. 1857][/us/stat/126/1857], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 861, Jan. 2, 2013, [126 Stat. 1857][/us/stat/126/1857], provided that:
 
 >     “(a)  __Requirements__  __.—__ 
 
@@ -269,7 +269,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Role of Interagency Committee on Debarment and Suspension__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 873, Oct. 14, 2008, [122 Stat. 4557][/us/stat/122/4557], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(16)][/us/pl/111/383/s1075/e/16], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]; [Pub. L. 112–239, div. A, title VIII, § 861(b)][/us/pl/112/239/s861/b], Jan. 2, 2013, [126 Stat. 1858][/us/stat/126/1858], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 873, Oct. 14, 2008, [122 Stat. 4557][/us/stat/122/4557], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(16), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 861(b), Jan. 2, 2013, [126 Stat. 1858][/us/stat/126/1858], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -313,11 +313,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Federal Funding Accountability and Transparency__ 
 
-[Pub. L. 110–252, title VI, § 6202(b)][/us/pl/110/252/s6202/b], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that: 
+[Pub. L. 110–252, title VI][/us/pl/110/252/tVI], § 6202(b), June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that: 
 
 > “The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter \[amending [Pub. L. 109–282][/us/pl/109/282], set out below\]. Such regulations shall include a definition of ‘total compensation’ that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation).”
 
-[Pub. L. 109–282][/us/pl/109/282], Sept. 26, 2006, [120 Stat. 1186][/us/stat/120/1186], as amended by [Pub. L. 110–252, title VI, § 6202(a)][/us/pl/110/252/s6202/a], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387]; [Pub. L. 113–101, § 3][/us/pl/113/101/s3], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that:
+[Pub. L. 109–282][/us/pl/109/282], Sept. 26, 2006, [120 Stat. 1186][/us/stat/120/1186], as amended by [Pub. L. 110–252, title VI][/us/pl/110/252/tVI], § 6202(a), June 30, 2008, [122 Stat. 2387][/us/stat/122/2387]; [Pub. L. 113–101][/us/pl/113/101], § 3, May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -831,7 +831,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Federal Financial Assistance Management Improvement__ 
 
-[Pub. L. 106–107][/us/pl/106/107], Nov. 20, 1999, [113 Stat. 1486][/us/stat/113/1486], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 106–107][/us/pl/106/107], Nov. 20, 1999, [113 Stat. 1486][/us/stat/113/1486], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -1025,7 +1025,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity__ 
 
-[Pub. L. 103–355, title II, § 2455][/us/pl/103/355/s2455], Oct. 13, 1994, [108 Stat. 3327][/us/stat/108/3327], as amended by [Pub. L. 111–84, div. A, title VIII, § 815][/us/pl/111/84/s815], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408], provided that:
+[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2455, Oct. 13, 1994, [108 Stat. 3327][/us/stat/108/3327], as amended by [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 815, Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408], provided that:
 
 >     “(a)  __Requirement for Regulations__  __.—__ 
 
@@ -1047,7 +1047,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
  __Transfer of Personnel, Property, Records, and Appropriations__ 
 
-[Pub. L. 98–169, § 7][/us/pl/98/169/s7], Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115], provided that: 
+[Pub. L. 98–169][/us/pl/98/169], § 7, Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115], provided that: 
 
 > “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing [section 6105 of this title][/us/usc/t31/s6105]\].”
 
@@ -1125,48 +1125,48 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/96/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1000
 [/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1113
-[/us/pl/99/547/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547%2Fs2%2Fb%2F2
+[/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
 [/us/stat/100/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3060
-[/us/pl/103/272/s4/f/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FS
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
-[/us/pl/104/287/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fa%2F1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F547
-[/us/pl/98/169/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs1%2F1
-[/us/pl/98/169/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fa
-[/us/pl/104/287/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fa
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
-[/us/pl/113/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs1
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
-[/us/pl/110/252/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs6201
+[/us/pl/110/252/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtVI
 [/us/stat/122/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2387
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/113/101/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs2
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
-[/us/pl/112/239/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs861
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1857
 [/us/pl/110/417/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs873
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4557
-[/us/pl/111/383/s1075/e/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F16
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
-[/us/pl/112/239/s861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs861%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1858
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/110/252/s6202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs6202%2Fb
+[/us/pl/110/252/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtVI
 [/us/stat/122/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2387
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/stat/120/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1186
-[/us/pl/110/252/s6202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs6202%2Fa
+[/us/pl/110/252/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtVI
 [/us/stat/122/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2387
-[/us/pl/113/101/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs3
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
@@ -1182,7 +1182,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/106/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F107
 [/us/stat/113/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1486
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t31/s7501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501%2Fa%2F5
@@ -1193,14 +1193,14 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t2/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1534
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/103/355/s2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2455
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3327
-[/us/pl/111/84/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs815
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2408
 [/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
-[/us/pl/98/169/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs7
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1115
 [/us/usc/t31/s6105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6105
 

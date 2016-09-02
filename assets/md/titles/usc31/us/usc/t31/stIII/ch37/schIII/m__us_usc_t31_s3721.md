@@ -81,7 +81,7 @@
 
     (k) Settlement of a claim under this section is final and conclusive.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 973][/us/stat/96/973]; [Pub. L. 97–452, § 1(17)][/us/pl/97/452/s1/17], Jan. 12, 1983, [96 Stat. 2474][/us/stat/96/2474]; [Pub. L. 100–565, § 1][/us/pl/100/565/s1], Oct. 31, 1988, [102 Stat. 2833][/us/stat/102/2833]; [Pub. L. 103–236, title I, § 172(a)][/us/pl/103/236/s172/a], Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412]; [Pub. L. 104–106, div. A, title X, § 1088(a)][/us/pl/104/106/s1088/a], Feb. 10, 1996, [110 Stat. 458][/us/stat/110/458].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 973][/us/stat/96/973]; [Pub. L. 97–452][/us/pl/97/452], § 1(17), Jan. 12, 1983, [96 Stat. 2474][/us/stat/96/2474]; [Pub. L. 100–565][/us/pl/100/565], § 1, Oct. 31, 1988, [102 Stat. 2833][/us/stat/102/2833]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 172(a), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1088(a), Feb. 10, 1996, [110 Stat. 458][/us/stat/110/458].)
 
 <table>
 
@@ -495,33 +495,33 @@ July 28, 1982, Pub. L. 97–226, § 1(a), 96 Stat. 245.  </td>
 
     1994—Subsec. (b). [Pub. L. 103–236][/us/pl/103/236] designated existing provisions as par. (1) and added par. (2).
 
-    1988—Subsec. (b). [Pub. L. 100–565, § 1(1)][/us/pl/100/565/s1/1], substituted “$40,000” for “$25,000”.
+    1988—Subsec. (b). [Pub. L. 100–565][/us/pl/100/565], § 1(1), substituted “$40,000” for “$25,000”.
 
-    Subsec. (c). [Pub. L. 100–565, § 1(2)][/us/pl/100/565/s1/2], in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
+    Subsec. (c). [Pub. L. 100–565][/us/pl/100/565], § 1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
     1983—Subsec. (b). [Pub. L. 97–452][/us/pl/97/452] substituted “$25,000” for “$15,000”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title X, § 1088(b)][/us/pl/104/106/s1088/b], Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459], provided that: 
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1088(b), Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to claims arising before, on, or after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–236, title I, § 172(b)][/us/pl/103/236/s172/b], Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 172(b), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims arising on or after October 31, 1988.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–565, § 2][/us/pl/100/565/s2], Oct. 31, 1988, [102 Stat. 2833][/us/stat/102/2833], provided that: 
+[Pub. L. 100–565][/us/pl/100/565], § 2, Oct. 31, 1988, [102 Stat. 2833][/us/stat/102/2833], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–452, § 2(g)][/us/pl/97/452/s2/g], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
+[Pub. L. 97–452][/us/pl/97/452], § 2(g), Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
 
 > “The amendment made by section 1(17) of this Act \[amending this section\] applies only to claims arising after July 27, 1982.”
 
@@ -531,7 +531,7 @@ July 28, 1982, Pub. L. 97–226, § 1(a), 96 Stat. 245.  </td>
 
  __Representments of Previously Presented Claims__ 
 
-[Pub. L. 104–106, div. A, title X, § 1088(c)][/us/pl/104/106/s1088/c], Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459], provided that:
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1088(c), Feb. 10, 1996, [110 Stat. 459][/us/stat/110/459], provided that:
 
 >     “(1)
 
@@ -557,31 +557,31 @@ July 28, 1982, Pub. L. 97–226, § 1(a), 96 Stat. 245.  </td>
 [/us/usc/t5/s5522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5522%2Fa
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F973
-[/us/pl/97/452/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F17
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2474
-[/us/pl/100/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565%2Fs1
+[/us/pl/100/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565
 [/us/stat/102/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2833
-[/us/pl/103/236/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs172%2Fa
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F412
-[/us/pl/104/106/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1088%2Fa
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F458
 [/us/pl/96/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F519
 [/us/stat/94/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3032
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/100/565/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565%2Fs1%2F1
-[/us/pl/100/565/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565%2Fs1%2F2
+[/us/pl/100/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565
+[/us/pl/100/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/104/106/s1088/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1088%2Fb
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F459
-[/us/pl/103/236/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs172%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F412
-[/us/pl/100/565/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565%2Fs2
+[/us/pl/100/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F565
 [/us/stat/102/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2833
-[/us/pl/97/452/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fg
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2479
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/106/s1088/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1088%2Fc
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F459
 [/us/usc/t31/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3721
 

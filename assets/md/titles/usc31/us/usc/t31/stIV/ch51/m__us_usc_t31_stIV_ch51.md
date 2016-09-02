@@ -307,7 +307,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–390, title II][/us/pl/102/390], §§ 221(d), 225(b)(6), 229(b), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629], 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
+    1992—[Pub. L. 102–390, title II][/us/pl/102/390/tII], §§ 221(d), 225(b)(6), 229(b), Oct. 6, 1992, [106 Stat. 1629][/us/stat/106/1629], 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
 
 ----------
 
@@ -316,7 +316,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 ----------
 ----------
 
-[/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
+[/us/pl/102/390/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390%2FtII
 [/us/stat/106/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1629
 
 

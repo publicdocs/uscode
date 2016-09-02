@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 995][/us/stat/96/995]; [Pub. L. 107–56, title III, § 358(a)][/us/pl/107/56/s358/a], Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 995][/us/stat/96/995]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(a), Oct. 26, 2001, [115 Stat. 326][/us/stat/115/326].)
 
 <table>
 
@@ -77,7 +77,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Stored Value__ 
 
-[Pub. L. 111–24, title V, § 503][/us/pl/111/24/s503], May 22, 2009, [123 Stat. 1756][/us/stat/123/1756], provided that:
+[Pub. L. 111–24, title V][/us/pl/111/24/tV], § 503, May 22, 2009, [123 Stat. 1756][/us/stat/123/1756], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -93,7 +93,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Improvement of International Standards and Cooperation To Fight Terrorist Financing__ 
 
-[Pub. L. 108–458, title VII][/us/pl/108/458], §§ 7701, 7702, 7704, Dec. 17, 2004, [118 Stat. 3858–3860][/us/stat/118/3858-3860], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], §§ 7701, 7702, 7704, Dec. 17, 2004, [118 Stat. 3858–3860][/us/stat/118/3858-3860], provided that:
 
 > “SEC. 7701. __IMPROVING INTERNATIONAL STANDARDS AND COOPERATION TO FIGHT TERRORIST FINANCING.__ 
 
@@ -135,7 +135,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes__ 
 
-[Pub. L. 107–56, title III, § 302][/us/pl/107/56/s302], Oct. 26, 2001, [115 Stat. 296][/us/stat/115/296], as amended by [Pub. L. 108–458, title VI, § 6202(c)][/us/pl/108/458/s6202/c], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 302, Oct. 26, 2001, [115 Stat. 296][/us/stat/115/296], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(c), Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -199,15 +199,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Four-Year Congressional Review; Expedited Consideration__ 
 
-[Pub. L. 107–56, title III, § 303][/us/pl/107/56/s303], Oct. 26, 2001, [115 Stat. 298][/us/stat/115/298], as amended by [Pub. L. 108–458, title VI, § 6202(d)][/us/pl/108/458/s6202/d], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of [Pub. L. 107–56][/us/pl/107/56] and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 303, Oct. 26, 2001, [115 Stat. 298][/us/stat/115/298], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(d), Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of [Pub. L. 107–56][/us/pl/107/56] and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: 
 
 > “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”
 
-, was repealed by [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6204, 6205, Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], effective as if included in [Pub. L. 107–56][/us/pl/107/56], as of the date of enactment of such Act.
+, was repealed by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], §§ 6204, 6205, Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747], effective as if included in [Pub. L. 107–56][/us/pl/107/56], as of the date of enactment of such Act.
 
  __Cooperative Efforts To Deter Money Laundering__ 
 
-[Pub. L. 107–56, title III, § 314][/us/pl/107/56/s314], Oct. 26, 2001, [115 Stat. 307][/us/stat/115/307], as amended by [Pub. L. 108–458, title VI, § 6202(f)][/us/pl/108/458/s6202/f], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 314, Oct. 26, 2001, [115 Stat. 307][/us/stat/115/307], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(f), Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that:
 
 >     “(a) __Cooperation Among Financial Institutions, Regulatory Authorities, and Law Enforcement Authorities.—__ 
 
@@ -259,13 +259,13 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions__ 
 
-[Pub. L. 107–56, title III, § 324][/us/pl/107/56/s324], Oct. 26, 2001, [115 Stat. 316][/us/stat/115/316], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 324, Oct. 26, 2001, [115 Stat. 316][/us/stat/115/316], provided that: 
 
 > “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§ 311–330) of title III of [Pub. L. 107–56][/us/pl/107/56], enacting [section 5318A of this title][/us/usc/t31/s5318A], amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, [section 853 of Title 21][/us/usc/t21/s853], Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and [section 5318 of this title][/us/usc/t31/s5318], sections 1828 and 1842 of Title 12, and [section 983 of Title 18][/us/usc/t18/s983]\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
 
  __International Cooperation on Identification of Originators of Wire Transfers__ 
 
-[Pub. L. 107–56, title III, § 328][/us/pl/107/56/s328], Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 328, Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], provided that: 
 
 > “The Secretary \[of the Treasury\] shall—
 
@@ -281,7 +281,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Criminal Penalties__ 
 
-[Pub. L. 107–56, title III, § 329][/us/pl/107/56/s329], Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 329, Oct. 26, 2001, [115 Stat. 319][/us/stat/115/319], provided that: 
 
 > “Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under [section 5301 of this title][/us/usc/t31/s5301]\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
 
@@ -295,7 +295,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Report on Investment Companies__ 
 
-[Pub. L. 107–56, title III, § 356(c)][/us/pl/107/56/s356/c], Oct. 26, 2001, [115 Stat. 324][/us/stat/115/324], as amended by [Pub. L. 108–458, title VI, § 6202(j)][/us/pl/108/458/s6202/j], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 356(c), Oct. 26, 2001, [115 Stat. 324][/us/stat/115/324], as amended by [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(j), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -319,13 +319,13 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Report on Need for Additional Legislation Relating to Informal Money Transfer Systems__ 
 
-[Pub. L. 107–56, title III, § 359(d)][/us/pl/107/56/s359/d], Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329], provided that: 
+[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 359(d), Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under [section 5318(g) of title 31][/us/usc/t31/s5318/g], United States Code should be lowered in the case of such systems.”
 
  __Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses__ 
 
-[Pub. L. 103–325, title IV, § 407][/us/pl/103/325/s407], Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], provided that:
+[Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 407, Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], provided that:
 
 >     “(a)  __Uniform Laws and Enforcement__  __.—__ 
 
@@ -451,13 +451,13 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Anti-Money Laundering Training Team__ 
 
-[Pub. L. 102–550, title XV, § 1518][/us/pl/102/550/s1518], Oct. 28, 1992, [106 Stat. 4060][/us/stat/106/4060], provided that: 
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1518, Oct. 28, 1992, [106 Stat. 4060][/us/stat/106/4060], provided that: 
 
 > “The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.”
 
  __Advisory Group on Reporting Requirements__ 
 
-[Pub. L. 102–550, title XV, § 1564][/us/pl/102/550/s1564], Oct. 28, 1992, [106 Stat. 4073][/us/stat/106/4073], provided that:
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1564, Oct. 28, 1992, [106 Stat. 4073][/us/stat/106/4073], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -479,7 +479,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __GAO Feasibility Study of Financial Crimes Enforcement Network__ 
 
-[Pub. L. 102–550, title XV, § 1565][/us/pl/102/550/s1565], Oct. 28, 1992, [106 Stat. 4074][/us/stat/106/4074], provided that:
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1565, Oct. 28, 1992, [106 Stat. 4074][/us/stat/106/4074], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -511,7 +511,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __Reports on Uses Made of Currency Transaction Reports__ 
 
-[Pub. L. 101–647, title I, § 101][/us/pl/101/647/s101], Nov. 29, 1990, [104 Stat. 4789][/us/stat/104/4789], provided that: 
+[Pub. L. 101–647, title I][/us/pl/101/647/tI], § 101, Nov. 29, 1990, [104 Stat. 4789][/us/stat/104/4789], provided that: 
 
 > “Not later than 180 days after the effective date of this section \[Nov. 29, 1990\], and every 2 years for 4 years, the Secretary of the Treasury shall report to the Congress the following:
 
@@ -531,11 +531,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __International Currency Transaction Reporting__ 
 
-    [Pub. L. 100–690, title IV, § 4701][/us/pl/100/690/s4701], Nov. 18, 1988, [102 Stat. 4290][/us/stat/102/4290], stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4701, Nov. 18, 1988, [102 Stat. 4290][/us/stat/102/4290], stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Restrictions on Laundering of United States Currency__ 
 
-[Pub. L. 100–690, title IV, § 4702][/us/pl/100/690/s4702], Nov. 18, 1988, [102 Stat. 4291][/us/stat/102/4291], as amended by [Pub. L. 103–447, title I, § 103(b)][/us/pl/103/447/s103/b], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693], provided that:
+[Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4702, Nov. 18, 1988, [102 Stat. 4291][/us/stat/102/4291], as amended by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(b), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -595,7 +595,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
  __International Information Exchange System; Study of Foreign Branches of Domestic Institutions__ 
 
-    [Pub. L. 99–570, title I, § 1363][/us/pl/99/570/s1363], Oct. 27, 1986, [100 Stat. 3207–33][/us/stat/100/3207-33], required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
+    [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1363, Oct. 27, 1986, [100 Stat. 3207–33][/us/stat/100/3207-33], required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
 
 ----------
 
@@ -606,24 +606,24 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F995
-[/us/pl/107/56/s358/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F326
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56/s358/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fh
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
-[/us/pl/111/24/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs503
+[/us/pl/111/24/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtV
 [/us/stat/123/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1756
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
 [/us/usc/t31/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5316
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3858-3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3858-3860
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/107/56/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs302
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F296
-[/us/pl/108/458/s6202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fc
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3745
 [/us/usc/t31/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5301
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
@@ -635,23 +635,23 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
-[/us/pl/107/56/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs303
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F298
-[/us/pl/108/458/s6202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fd
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3745
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/107/56/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs314
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F307
-[/us/pl/108/458/s6202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Ff
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3745
 [/us/usc/t31/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5301
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t15/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6801
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
-[/us/pl/107/56/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs324
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F316
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
@@ -659,43 +659,43 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t31/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318
 [/us/usc/t18/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983
-[/us/pl/107/56/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs328
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F319
-[/us/pl/107/56/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs329
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F319
 [/us/usc/t31/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5301
-[/us/pl/107/56/s356/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs356%2Fc
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F324
-[/us/pl/108/458/s6202/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202%2Fj
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
 [/us/usc/t31/s5312/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2%2FI
 [/us/usc/t15/s80a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933
 [/us/usc/t15/s80a–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc
-[/us/pl/107/56/s359/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs359%2Fd
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F329
 [/us/usc/t31/s5318/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318%2Fg
-[/us/pl/103/325/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs407
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2247
 [/us/usc/t31/s5313/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313%2Fg
-[/us/pl/102/550/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1518
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4060
-[/us/pl/102/550/s1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1564
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4073
 [/us/usc/t26/s6050I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050I
-[/us/pl/102/550/s1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1565
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4074
-[/us/pl/101/647/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs101
+[/us/pl/101/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtI
 [/us/stat/104/4789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4789
 [/us/usc/t26/s6050I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050I
-[/us/pl/100/690/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4701
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4290
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/690/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4702
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4291
-[/us/pl/103/447/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fb
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
-[/us/pl/99/570/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1363
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-33
 
 

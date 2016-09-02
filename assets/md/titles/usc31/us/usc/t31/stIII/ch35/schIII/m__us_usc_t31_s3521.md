@@ -69,7 +69,7 @@
 
         (4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 961][/us/stat/96/961]; [Pub. L. 101–576, title III, § 304(a)][/us/pl/101/576/s304/a], Nov. 15, 1990, [104 Stat. 2852][/us/stat/104/2852]; [Pub. L. 103–356, title IV, § 405(b)][/us/pl/103/356/s405/b], Oct. 13, 1994, [108 Stat. 3416][/us/stat/108/3416]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII, § 805(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392; [Pub. L. 106–531, § 4(b)][/us/pl/106/531/s4/b], Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 110–323, § 6(a)][/us/pl/110/323/s6/a], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 961][/us/stat/96/961]; [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 304(a), Nov. 15, 1990, [104 Stat. 2852][/us/stat/104/2852]; [Pub. L. 103–356, title IV][/us/pl/103/356/tIV], § 405(b), Oct. 13, 1994, [108 Stat. 3416][/us/stat/108/3416]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VIII, § 805(a)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392; [Pub. L. 106–531][/us/pl/106/531], § 4(b), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539]; [Pub. L. 110–323][/us/pl/110/323], § 6(a), Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547].)
 
 <table>
 
@@ -237,7 +237,7 @@ Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, �
 
  __Audits and Reports of Agency Financial Statements__ 
 
-[Pub. L. 105–206, title I, § 1103(d)][/us/pl/105/206/s1103/d], July 22, 1998, [112 Stat. 709][/us/stat/112/709], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(d), July 22, 1998, [112 Stat. 709][/us/stat/112/709], provided that: 
 
 > “Subject to [section 3521(g) of title 31][/us/usc/t31/s3521/g], United States Code—
 
@@ -259,13 +259,13 @@ Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, �
 
  __Waiver of Requirements__ 
 
-[Pub. L. 101–576, title III, § 304(b)][/us/pl/101/576/s304/b], Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853], provided that: 
+[Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 304(b), Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853], provided that: 
 
 > “The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of [section 3521 of title 31][/us/usc/t31/s3521], United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991.”
 
  __Time Limit for Resolving Pending and New Audits__ 
 
-[Pub. L. 96–304, title III, § 305][/us/pl/96/304/s305], July 8, 1980, [94 Stat. 928][/us/stat/94/928], provided that: 
+[Pub. L. 96–304, title III][/us/pl/96/304/tIII], § 305, July 8, 1980, [94 Stat. 928][/us/stat/94/928], provided that: 
 
 > “All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months.”
 
@@ -281,15 +281,15 @@ Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, �
 [/us/usc/t31/s3512/a/3/B/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512%2Fa%2F3%2FB%2Fviii
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F961
-[/us/pl/101/576/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs304%2Fa
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2852
-[/us/pl/103/356/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs405%2Fb
+[/us/pl/103/356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtIV
 [/us/stat/108/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3416
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/106/531/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs4%2Fb
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2539
-[/us/pl/110/323/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs6%2Fa
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
 [/us/usc/t31/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs78
 [/us/usc/t31/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs78
@@ -307,13 +307,13 @@ Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, �
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
-[/us/pl/105/206/s1103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fd
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F709
 [/us/usc/t31/s3521/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521%2Fg
-[/us/pl/101/576/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs304%2Fb
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2853
 [/us/usc/t31/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521
-[/us/pl/96/304/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs305
+[/us/pl/96/304/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtIII
 [/us/stat/94/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F928
 
 

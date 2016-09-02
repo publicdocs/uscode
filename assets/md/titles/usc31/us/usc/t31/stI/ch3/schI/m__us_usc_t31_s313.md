@@ -353,7 +353,7 @@
 
     There are authorized to be appropriated for the Office for each fiscal year such sums as may be necessary.
 
-(Added [Pub. L. 111–203, title V, § 502(a)(3)][/us/pl/111/203/s502/a/3], July 21, 2010, [124 Stat. 1580][/us/stat/124/1580].)
+(Added [Pub. L. 111–203, title V][/us/pl/111/203/tV], § 502(a)(3), July 21, 2010, [124 Stat. 1580][/us/stat/124/1580].)
 
  __References in Text__ 
 
@@ -395,7 +395,7 @@
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
-[/us/pl/111/203/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fa%2F3
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1580
 [/us/pl/101/73/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

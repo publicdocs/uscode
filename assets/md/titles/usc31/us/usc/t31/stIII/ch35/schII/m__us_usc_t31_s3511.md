@@ -45,7 +45,7 @@
 
     (d) The Comptroller General, the Secretary, and the President shall conduct a continuous program for improving accounting and financial reporting in the Government.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 107–217, § 3(h)(5)][/us/pl/107/217/s3/h/5], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 107–217][/us/pl/107/217], § 3(h)(5), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
 
 <table>
 
@@ -163,7 +163,7 @@ June 10, 1921, ch. 18, § 309, 42 Stat. 25.  </td>
 
  __Adoption of Capital Accounting Standards__ 
 
-[Pub. L. 101–576, title III, § 307][/us/pl/101/576/s307], Nov. 15, 1990, [104 Stat. 2855][/us/stat/104/2855], provided that: 
+[Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 307, Nov. 15, 1990, [104 Stat. 2855][/us/stat/104/2855], provided that: 
 
 > “No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired.”
 
@@ -178,14 +178,14 @@ June 10, 1921, ch. 18, § 309, 42 Stat. 25.  </td>
 [/us/usc/t40/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F959
-[/us/pl/107/217/s3/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fh%2F5
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t31/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs49
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121%2Fb
 [/us/usc/t40/s486/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486%2Fb
-[/us/pl/101/576/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs307
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2855
 
 

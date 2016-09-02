@@ -37,7 +37,7 @@
 
     The term “Attorney General” means the Attorney General of the United States.
 
-(Added [Pub. L. 105–310, § 2(a)][/us/pl/105/310/s2/a], Oct. 30, 1998, [112 Stat. 2941][/us/stat/112/2941]; amended [Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(II)][/us/pl/114/22/s105/c/2/A/ii/II], May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
+(Added [Pub. L. 105–310][/us/pl/105/310], § 2(a), Oct. 30, 1998, [112 Stat. 2941][/us/stat/112/2941]; amended [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 105(c)(2)(A)(ii)(II), May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
-[/us/pl/105/310/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310%2Fs2%2Fa
+[/us/pl/105/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F310
 [/us/stat/112/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2941
-[/us/pl/114/22/s105/c/2/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fii%2FII
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F237
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 

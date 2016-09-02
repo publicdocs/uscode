@@ -165,15 +165,15 @@
 
         (12) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added [Pub. L. 111–352, § 3][/us/pl/111/352/s3], Jan. 4, 2011, [124 Stat. 3867][/us/stat/124/3867].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 3, Jan. 4, 2011, [124 Stat. 3867][/us/stat/124/3867].)
 
  __Prior Provisions__ 
 
-    A prior section 1115, added [Pub. L. 103–62, § 4(b)][/us/pl/103/62/s4/b], Aug. 3, 1993, [107 Stat. 287][/us/stat/107/287]; amended [Pub. L. 107–296, title XIII, § 1311(a)][/us/pl/107/296/s1311/a], Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289]; [Pub. L. 108–136, div. A, title XIV, § 1421(b)][/us/pl/108/136/s1421/b], Nov. 24, 2003, [117 Stat. 1667][/us/stat/117/1667], related to performance plans, prior to repeal by [Pub. L. 111–352, § 3][/us/pl/111/352/s3], Jan. 4, 2011, [124 Stat. 3867][/us/stat/124/3867].
+    A prior section 1115, added [Pub. L. 103–62][/us/pl/103/62], § 4(b), Aug. 3, 1993, [107 Stat. 287][/us/stat/107/287]; amended [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1311(a), Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289]; [Pub. L. 108–136, div. A, title XIV][/us/pl/108/136/dA/tXIV], § 1421(b), Nov. 24, 2003, [117 Stat. 1667][/us/stat/117/1667], related to performance plans, prior to repeal by [Pub. L. 111–352][/us/pl/111/352], § 3, Jan. 4, 2011, [124 Stat. 3867][/us/stat/124/3867].
 
  __Format of Performance Plans and Reports__ 
 
-[Pub. L. 111–352, § 10][/us/pl/111/352/s10], Jan. 4, 2011, [124 Stat. 3880][/us/stat/124/3880], provided that:
+[Pub. L. 111–352][/us/pl/111/352], § 10, Jan. 4, 2011, [124 Stat. 3880][/us/stat/124/3880], provided that:
 
 >     “(a)  __Searchable, Machine-readable Plans and Reports__  __.—__ 
 
@@ -201,7 +201,7 @@
 
  __Implementation of__  __[__  __Pub. L. 111–352__  __][/us/pl/111/352]__ 
 
-[Pub. L. 111–352, § 14][/us/pl/111/352/s14], Jan. 4, 2011, [124 Stat. 3883][/us/stat/124/3883], provided that:
+[Pub. L. 111–352][/us/pl/111/352], § 14, Jan. 4, 2011, [124 Stat. 3883][/us/stat/124/3883], provided that:
 
 >     “(a) __Interim Planning and Reporting.—__ 
 
@@ -233,7 +233,7 @@
 
  __Congressional Oversight and Legislation__ 
 
-[Pub. L. 111–352, § 15][/us/pl/111/352/s15], Jan. 4, 2011, [124 Stat. 3883][/us/stat/124/3883], provided that:
+[Pub. L. 111–352][/us/pl/111/352], § 15, Jan. 4, 2011, [124 Stat. 3883][/us/stat/124/3883], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Strategic Planning and Performance Measurement Training__ 
 
-[Pub. L. 103–62, § 9][/us/pl/103/62/s9], Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], provided that: 
+[Pub. L. 103–62][/us/pl/103/62], § 9, Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], provided that: 
 
 > “The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.”
 
@@ -444,17 +444,17 @@
 [/us/usc/t5/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306%2Fa%2F2
 [/us/usc/t31/s1120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fb
 [/us/usc/t5/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306%2Ff
-[/us/pl/111/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs3
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3867
-[/us/pl/103/62/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs4%2Fb
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F287
-[/us/pl/107/296/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2289
-[/us/pl/108/136/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1421%2Fb
+[/us/pl/108/136/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXIV
 [/us/stat/117/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1667
-[/us/pl/111/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs3
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3867
-[/us/pl/111/352/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs10
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3880
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t31/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1122
@@ -463,17 +463,17 @@
 [/us/usc/t31/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1122
 [/us/usc/t31/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1122
 [/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
-[/us/pl/111/352/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs14
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3883
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/111/352/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs15
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3883
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/103/62/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs9
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F295
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401

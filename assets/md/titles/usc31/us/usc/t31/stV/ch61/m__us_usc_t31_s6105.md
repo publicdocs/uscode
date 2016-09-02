@@ -17,7 +17,7 @@
 
     The Director shall have oversight responsibility for the exercise of all authorities and responsibilities in this chapter not specifically assigned to the Director.
 
-(Added [Pub. L. 98–169, § 5][/us/pl/98/169/s5], Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115].)
+(Added [Pub. L. 98–169][/us/pl/98/169], § 5, Nov. 29, 1983, [97 Stat. 1115][/us/stat/97/1115].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/169/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs5
+[/us/pl/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169
 [/us/stat/97/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1115
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1002

@@ -27,7 +27,7 @@
 
     (c) The Controller of the Office of Federal Financial Management shall be the deputy and principal advisor to the Deputy Director for Management in the performance by the Deputy Director for Management of functions described in section 503(a).
 
-(Added [Pub. L. 101–576, title II, § 203(a)][/us/pl/101/576/s203/a], Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841].)
+(Added [Pub. L. 101–576, title II][/us/pl/101/576/tII], § 203(a), Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t31/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs503%2Fa
-[/us/pl/101/576/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs203%2Fa
+[/us/pl/101/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtII
 [/us/stat/104/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2841
 [/us/usc/t31/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs506
 

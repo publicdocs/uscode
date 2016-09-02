@@ -27,7 +27,7 @@
 
         (3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when an annual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
 
-([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(2), Sept. 13, 1982, [96 Stat. 1044][/us/stat/96/1044], 1062; [Pub. L. 97–452, § 1(27)][/us/pl/97/452/s1/27], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
+([Pub. L. 97–258][/us/pl/97/258], §§ 1, 2(l)(2), Sept. 13, 1982, [96 Stat. 1044][/us/stat/96/1044], 1062; [Pub. L. 97–452][/us/pl/97/452], § 1(27), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
 
 <table>
 
@@ -159,7 +159,7 @@ Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 6
 
     1983—Subsec. (c)(3). [Pub. L. 97–452][/us/pl/97/452] struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,” which had already been struck out by [Pub. L. 97–258][/us/pl/97/258]. See 1982 Amendment note below.
 
-    1982—Subsec. (c)(3). [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
+    1982—Subsec. (c)(3). [Pub. L. 97–258][/us/pl/97/258], § 2(l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -167,7 +167,7 @@ Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 6
 
  __Effective Date of 1982 Amendment__ 
 
-    [Pub. L. 97–258, § 2][/us/pl/97/258/s2](l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by such section is effective Jan. 1, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 2(l), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by such section is effective Jan. 1, 1982.
 
 ----------
 
@@ -178,7 +178,7 @@ Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 6
 
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1044
-[/us/pl/97/452/s1/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F27
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F440
@@ -187,10 +187,10 @@ Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 6
 [/us/stat/95/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1440
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/97/452/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fi
 [/us/usc/t31/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3331
-[/us/pl/97/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
 
 

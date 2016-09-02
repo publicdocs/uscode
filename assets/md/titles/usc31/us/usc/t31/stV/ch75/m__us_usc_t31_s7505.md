@@ -37,7 +37,7 @@
 
     (c) Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
 
-(Added [Pub. L. 98–502, § 2(a)][/us/pl/98/502/s2/a], Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156, § 2][/us/pl/104/156/s2], July 5, 1996, [110 Stat. 1403][/us/stat/110/1403]; [Pub. L. 105–135, title VI, § 604(e)(3)][/us/pl/105/135/s604/e/3], Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634].)
+(Added [Pub. L. 98–502][/us/pl/98/502], § 2(a), Oct. 19, 1984, [98 Stat. 2333][/us/stat/98/2333]; amended [Pub. L. 104–156][/us/pl/104/156], § 2, July 5, 1996, [110 Stat. 1403][/us/stat/110/1403]; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(e)(3), Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Guidelines for Acceptance of Audits by State and Local Governments Receiving Federal Assistance__ 
 
-[Pub. L. 104–201, div. A, title VIII, § 808(c)][/us/pl/104/201/s808/c], Sept. 23, 1996, [110 Stat. 2607][/us/stat/110/2607], provided that: 
+[Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 808(c), Sept. 23, 1996, [110 Stat. 2607][/us/stat/110/2607], provided that: 
 
 > “The Director of the Office of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs.”
 
@@ -62,18 +62,18 @@
 ----------
 ----------
 
-[/us/pl/98/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502%2Fs2%2Fa
+[/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2333
-[/us/pl/104/156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156%2Fs2
+[/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/stat/110/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1403
-[/us/pl/105/135/s604/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fe%2F3
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2634
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/104/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F156
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/104/201/s808/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs808%2Fc
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2607
 
 

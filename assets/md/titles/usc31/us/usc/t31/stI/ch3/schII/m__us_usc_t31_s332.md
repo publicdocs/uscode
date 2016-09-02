@@ -47,7 +47,7 @@
 
         (B) when appropriate, dispose of (by sale, rent, transfer, or otherwise) properties referred to in subparagraph (A)(i).
 
-(Added [Pub. L. 98–302, § 3(a)][/us/pl/98/302/s3/a], May 25, 1984, [98 Stat. 217][/us/stat/98/217].)
+(Added [Pub. L. 98–302][/us/pl/98/302], § 3(a), May 25, 1984, [98 Stat. 217][/us/stat/98/217].)
 
  __Transfer of Functions__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/98/302/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302%2Fs3%2Fa
+[/us/pl/98/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302
 [/us/stat/98/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F217
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

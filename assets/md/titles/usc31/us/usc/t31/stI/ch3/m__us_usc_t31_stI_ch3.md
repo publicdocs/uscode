@@ -267,17 +267,17 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, title V, § 502(c)][/us/pl/111/203/s502/c], July 21, 2010, [124 Stat. 1588][/us/stat/124/1588], added items 312 to 315 and struck out item 312 “Continuing in office”.
+    2010—[Pub. L. 111–203, title V][/us/pl/111/203/tV], § 502(c), July 21, 2010, [124 Stat. 1588][/us/stat/124/1588], added items 312 to 315 and struck out item 312 “Continuing in office”.
 
-    2003—[Pub. L. 108–177, title I, § 105(a)(2)][/us/pl/108/177/s105/a/2], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603], added item 311 and redesignated former item 311 as 312.
+    2003—[Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(a)(2), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603], added item 311 and redesignated former item 311 as 312.
 
-    2001—[Pub. L. 107–56, title III, § 361(c)][/us/pl/107/56/s361/c], Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], added item 310 and redesignated former item 310 as 311.
+    2001—[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 361(c), Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], added item 310 and redesignated former item 310 as 311.
 
-    1994—[Pub. L. 103–296, title III, § 312][/us/pl/103/296/s312](l)(2), Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], added item 333.
+    1994—[Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 312(l)(2), Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], added item 333.
 
-    1989—[Pub. L. 101–73, title III, § 307(a)(2)][/us/pl/101/73/s307/a/2], Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352], added item 309 and redesignated former item 309 as 310.
+    1989—[Pub. L. 101–73, title III][/us/pl/101/73/tIII], § 307(a)(2), Aug. 9, 1989, [103 Stat. 352][/us/stat/103/352], added item 309 and redesignated former item 309 as 310.
 
-    1984—[Pub. L. 98–302, § 3(b)][/us/pl/98/302/s3/b], May 25, 1984, [98 Stat. 218][/us/stat/98/218], added item 332.
+    1984—[Pub. L. 98–302][/us/pl/98/302], § 3(b), May 25, 1984, [98 Stat. 218][/us/stat/98/218], added item 332.
 
 ----------
 
@@ -286,17 +286,17 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 ----------
 ----------
 
-[/us/pl/111/203/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs502%2Fc
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1588
-[/us/pl/108/177/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fa%2F2
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/107/56/s361/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs361%2Fc
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F332
-[/us/pl/103/296/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs312
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1530
-[/us/pl/101/73/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs307%2Fa%2F2
+[/us/pl/101/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIII
 [/us/stat/103/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F352
-[/us/pl/98/302/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302%2Fs3%2Fb
+[/us/pl/98/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F302
 [/us/stat/98/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F218
 
 

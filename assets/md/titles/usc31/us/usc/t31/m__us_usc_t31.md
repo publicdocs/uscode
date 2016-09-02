@@ -15,9 +15,9 @@
 
 # Title 31—MONEY AND FINANCE
 
-This title was enacted by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]
+This title was enacted by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -11703,69 +11703,69 @@ Rep.  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877], provided in part that: 
+[Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877], provided in part that: 
 
 > “Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, ‘Money and Finance’… .”
 
  __Legislative Purpose; Inconsistent Provisions__ 
 
-[Pub. L. 97–258, § 4(a)][/us/pl/97/258/s4/a], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(a), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “Sections 1–3 of this Act restate, without substantive change, laws enacted before April 16, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after April 15, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.”
 
  __References to Other Laws__ 
 
-[Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “A reference to a law replaced by sections 1–3 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
 
  __Outstanding Orders, Rules, and Regulations__ 
 
-[Pub. L. 97–258, § 4(c)][/us/pl/97/258/s4/c], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(c), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “An order, rule, or regulation in effect under a law replaced by sections 1–3 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
 
  __Savings Provision__ 
 
-[Pub. L. 97–258, § 4(d)][/us/pl/97/258/s4/d], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(d), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “An action taken or an offense committed under a law replaced by sections 1–3 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 
  __Legislative Construction__ 
 
-[Pub. L. 97–258, § 4(e)][/us/pl/97/258/s4/e], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(e), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.”
 
  __Severability__ 
 
-[Pub. L. 97–258, § 4(f)][/us/pl/97/258/s4/f], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 4(f), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], provided that: 
 
 > “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
  __Repeals__ 
 
-[Pub. L. 98–216, § 6(a)][/us/pl/98/216/s6/a], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that: 
+[Pub. L. 98–216][/us/pl/98/216], § 6(a), Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that: 
 
 > “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 98–216, § 6(b)][/us/pl/98/216/s6/b], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
+    [Pub. L. 98–216][/us/pl/98/216], § 6(b), Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-[Pub. L. 97–452, § 4(a)][/us/pl/97/452/s4/a], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
+[Pub. L. 97–452][/us/pl/97/452], § 4(a), Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that: 
 
 > “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 97–452, § 4(b)][/us/pl/97/452/s4/b], Jan. 12, 1983, [96 Stat. 2480][/us/stat/96/2480], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+    [Pub. L. 97–452][/us/pl/97/452], § 4(b), Jan. 12, 1983, [96 Stat. 2480][/us/stat/96/2480], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
-[Pub. L. 97–258, § 5(a)][/us/pl/97/258/s5/a], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], provided that: 
+[Pub. L. 97–258][/us/pl/97/258], § 5(a), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
 
  __Improvement of United States Code by__  __[__  __Pub. L. 98–216__  __][/us/pl/98/216]__  __; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions__ 
 
-[Pub. L. 98–216, § 5][/us/pl/98/216/s5], Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that:
+[Pub. L. 98–216][/us/pl/98/216], § 5, Feb. 14, 1984, [98 Stat. 7][/us/stat/98/7], provided that:
 
 >     “(a) Sections 1–4 of this Act restate, without substantive change, laws enacted before April 1, 1983, that were replaced by those sections. Sections 1–4 may not be construed as making a substantive change in the laws replaced. Laws enacted after March 31, 1983, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -11781,7 +11781,7 @@ Rep.  </td>
 
  __Improvement of United States Code by__  __[__  __Pub. L. 97–452__  __][/us/pl/97/452]__  __; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions__ 
 
-[Pub. L. 97–452, § 3][/us/pl/97/452/s3], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that:
+[Pub. L. 97–452][/us/pl/97/452], § 3, Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479], provided that:
 
 >     “(a) Sections 1 and 2 of this Act restate, without substantive change, laws enacted before December 1, 1982, that were replaced by those sections. Sections 1 and 2 may not be construed as making a substantive change in the laws replaced. Laws enacted after November 30, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -11802,39 +11802,39 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
-[/us/pl/97/258/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fa
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fc
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fd
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fe
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Ff
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/98/216/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs6%2Fa
-[/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
-[/us/pl/98/216/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs6%2Fb
-[/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
-[/us/pl/97/452/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs4%2Fa
-[/us/stat/96/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2479
-[/us/pl/97/452/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs4%2Fb
-[/us/stat/96/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2480
-[/us/pl/97/258/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fa
-[/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
-[/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
-[/us/pl/98/216/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs5
+[/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/97/452/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs3
+[/us/stat/96/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2479
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/stat/96/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2480
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
+[/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
+[/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
+[/us/stat/98/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F7
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2479
 
 

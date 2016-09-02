@@ -31,7 +31,7 @@
 
         (3) Except as expressly provided by law, an officer or employee of the Office may make known information derived from a record or property of, or in use by, the Service or either Bureau that can identify a particular taxpayer only to another officer or employee of the Office whose duties or powers require that the record or property be made known.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 889][/us/stat/96/889]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–296, title XI, § 1112(m)][/us/pl/107/296/s1112/m], Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 889][/us/stat/96/889]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(m), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -131,15 +131,15 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(1)–(3); added Oct. 7, 1977,
 
     2004—Subsec. (b)(2). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    2002—[Pub. L. 107–296, § 1112(m)(1)][/us/pl/107/296/s1112/m/1], substituted “, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “and Bureau of Alcohol, Tobacco, and Firearms” in section catchline.
+    2002—[Pub. L. 107–296][/us/pl/107/296], § 1112(m)(1), substituted “, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “and Bureau of Alcohol, Tobacco, and Firearms” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–296, § 1112(m)(2)][/us/pl/107/296/s1112/m/2], substituted “Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms,”.
+    Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1112(m)(2), substituted “Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms,”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–296, § 1112(m)(3)(A)][/us/pl/107/296/s1112/m/3/A], substituted “or either Bureau” for “or the Bureau”.
+    Subsec. (b)(1)(B). [Pub. L. 107–296][/us/pl/107/296], § 1112(m)(3)(A), substituted “or either Bureau” for “or the Bureau”.
 
-    Subsec. (b)(2). [Pub. L. 107–296, § 1112(m)(3)(B)][/us/pl/107/296/s1112/m/3/B], substituted “or either Bureau” for “or the Bureau” and “the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “and the Director of the Bureau”.
+    Subsec. (b)(2). [Pub. L. 107–296][/us/pl/107/296], § 1112(m)(3)(B), substituted “or either Bureau” for “or the Bureau” and “the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “and the Director of the Bureau”.
 
-    Subsec. (b)(3). [Pub. L. 107–296, § 1112(m)(3)(C)][/us/pl/107/296/s1112/m/3/C], substituted “or either Bureau” for “or the Bureau”.
+    Subsec. (b)(3). [Pub. L. 107–296][/us/pl/107/296], § 1112(m)(3)(C), substituted “or either Bureau” for “or the Bureau”.
 
     1986—Subsecs. (a), (b)(1). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
@@ -165,18 +165,18 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(1)–(3); added Oct. 7, 1977,
 [/us/usc/t26/s6103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F889
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/107/296/s1112/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/107/296/s1112/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm%2F1
-[/us/pl/107/296/s1112/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm%2F2
-[/us/pl/107/296/s1112/m/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm%2F3%2FA
-[/us/pl/107/296/s1112/m/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm%2F3%2FB
-[/us/pl/107/296/s1112/m/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fm%2F3%2FC
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

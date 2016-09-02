@@ -29,11 +29,11 @@
 
     (d) For purposes of this section the definitions under section 1115(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall apply.
 
-(Added [Pub. L. 103–62, § 6(b)][/us/pl/103/62/s6/b], Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 6(b), Aug. 3, 1993, [107 Stat. 290][/us/stat/107/290].)
 
  __References in Text__ 
 
-    Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title][/us/usc/t31/s1115/g] by [Pub. L. 107–296, title XIII, § 1311(a)(2)][/us/pl/107/296/s1311/a/2], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].
+    Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title][/us/usc/t31/s1115/g] by [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1311(a)(2), Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].
 
  __Construction__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/103/62/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs6%2Fb
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F290
 [/us/usc/t31/s1115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fg
-[/us/pl/107/296/s1311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1311%2Fa%2F2
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62

@@ -21,7 +21,7 @@
 
     (2) be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 874(a)(1)][/us/pl/114/92/s874/a/1], Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 874(a)(1), Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s874/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F940
 [/us/pl/114/92/s874/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fc
 [/us/usc/t15/s694b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694b

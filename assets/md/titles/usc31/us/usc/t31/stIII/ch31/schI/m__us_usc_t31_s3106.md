@@ -21,7 +21,7 @@
 
     (c) Section 3105(c)(1)–(5) of this title applies to this section. Sections 3105(c)(6) and (d) and 3126 of this title apply to this section to the extent consistent with this section. The Secretary may prescribe the maximum amount of retirement and savings bonds issued under this section in a year that may be held by one person. However, the maximum amount shall be at least $3,000.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 941][/us/stat/96/941]; [Pub. L. 97–452, § 1(8)][/us/pl/97/452/s1/8], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 941][/us/stat/96/941]; [Pub. L. 97–452][/us/pl/97/452], § 1(8), Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
 <table>
 
@@ -170,9 +170,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 289(a)(2), 96 Stat. 571.  </td>
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F941
-[/us/pl/97/452/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs1%2F8
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2468
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t31/s757c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs757c
 [/us/usc/t31/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3111

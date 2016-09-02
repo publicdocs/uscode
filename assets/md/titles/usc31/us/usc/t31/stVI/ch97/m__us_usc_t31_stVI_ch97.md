@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–22, title I, § 105(c)(2)(B)][/us/pl/114/22/s105/c/2/B], May 29, 2015, [129 Stat. 238][/us/stat/129/238], amended analysis generally, substituting items 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
+    2015—[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 105(c)(2)(B), May 29, 2015, [129 Stat. 238][/us/stat/129/238], amended analysis generally, substituting items 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
 
-    1993—[Pub. L. 103–62, § 11(b)(2)][/us/pl/103/62/s11/b/2], Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added item 9703 relating to managerial accountability and flexibility and item 9704.
+    1993—[Pub. L. 103–62][/us/pl/103/62], § 11(b)(2), Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added item 9703 relating to managerial accountability and flexibility and item 9704.
 
-    1992—[Pub. L. 102–393, title VI, § 638(b)(2)][/us/pl/102/393/s638/b/2], Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788], added item 9703.
+    1992—[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 638(b)(2), Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788], added item 9703.
 
 ----------
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/114/22/s105/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FB
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F238
-[/us/pl/103/62/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs11%2Fb%2F2
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F295
-[/us/pl/102/393/s638/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fb%2F2
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1788
 
 

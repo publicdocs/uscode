@@ -347,23 +347,23 @@ SUBCHAPTER VI—RECOVERY AUDITS  <sup>[1]</sup>  <sup><sup> 1 Editorially su
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–204, § 2(h)(6)(B)(i)][/us/pl/111/204/s2/h/6/B/i], July 22, 2010, [124 Stat. 2231][/us/stat/124/2231], struck out subchapter VI heading “RECOVERY AUDITS” and items 3561 “Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid”, 3562 “Disposition of recovered funds”, 3563 “Sources of recovery services”, 3564 “Management improvement programs”, 3565 “Relationship to authority of Inspectors General”, 3566 “Privacy protections”, and 3567 “Definition of executive agency”.
+    2010—[Pub. L. 111–204][/us/pl/111/204], § 2(h)(6)(B)(i), July 22, 2010, [124 Stat. 2231][/us/stat/124/2231], struck out subchapter VI heading “RECOVERY AUDITS” and items 3561 “Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid”, 3562 “Disposition of recovered funds”, 3563 “Sources of recovery services”, 3564 “Management improvement programs”, 3565 “Relationship to authority of Inspectors General”, 3566 “Privacy protections”, and 3567 “Definition of executive agency”.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(c)(3), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], struck out item 3557 “Expedited action in protests for public-private competitions”, as added by [Pub. L. 110–161][/us/pl/110/161].
 
-    [Pub. L. 110–181, div. A, title III, § 326(b)(2)][/us/pl/110/181/s326/b/2], Jan. 28, 2008, [122 Stat. 63][/us/stat/122/63], added item 3557 “Expedited action in protests of public-private competitions”.
+    [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 326(b)(2), Jan. 28, 2008, [122 Stat. 63][/us/stat/122/63], added item 3557 “Expedited action in protests of public-private competitions”.
 
-    2007—[Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(ii)][/us/pl/110/161/s739/c/1/B/ii], Dec. 26, 2007, [121 Stat. 2031][/us/stat/121/2031], added item 3557.
+    2007—[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 739(c)(1)(B)(ii), Dec. 26, 2007, [121 Stat. 2031][/us/stat/121/2031], added item 3557.
 
-    2001—[Pub. L. 107–107, div. A, title VIII, § 831(a)(2)][/us/pl/107/107/s831/a/2], Dec. 28, 2001, [115 Stat. 1188][/us/stat/115/1188], added subchapter VI heading and items 3561 to 3567.
+    2001—[Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 831(a)(2), Dec. 28, 2001, [115 Stat. 1188][/us/stat/115/1188], added subchapter VI heading and items 3561 to 3567.
 
-    2000—[Pub. L. 106–531, § 3(c)][/us/pl/106/531/s3/c], Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539], added item 3516.
+    2000—[Pub. L. 106–531][/us/pl/106/531], § 3(c), Nov. 22, 2000, [114 Stat. 2539][/us/stat/114/2539], added item 3516.
 
-    1996—[Pub. L. 104–316, title I, § 115(f)(2)][/us/pl/104/316/s115/f/2], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834], struck out item 3531 “Property returns”.
+    1996—[Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(f)(2), Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834], struck out item 3531 “Property returns”.
 
-    1990—[Pub. L. 101–576, title III][/us/pl/101/576], §§ 301(b), 303(f), Nov. 15, 1990, [104 Stat. 2848][/us/stat/104/2848], 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
+    1990—[Pub. L. 101–576, title III][/us/pl/101/576/tIII], §§ 301(b), 303(f), Nov. 15, 1990, [104 Stat. 2848][/us/stat/104/2848], 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
 
-    1984—[Pub. L. 98–369, div. B, title VII, § 2741(b)][/us/pl/98/369/s2741/b], July 18, 1984, [98 Stat. 1203][/us/stat/98/1203], added subchapter V heading and items 3551 to 3556.
+    1984—[Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2741(b), July 18, 1984, [98 Stat. 1203][/us/stat/98/1203], added subchapter V heading and items 3551 to 3556.
 
 ----------
 
@@ -372,24 +372,24 @@ SUBCHAPTER VI—RECOVERY AUDITS  <sup>[1]</sup>  <sup><sup> 1 Editorially su
 ----------
 ----------
 
-[/us/pl/111/204/s2/h/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh%2F6%2FB%2Fi
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2231
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/181/s326/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs326%2Fb%2F2
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F63
-[/us/pl/110/161/s739/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs739%2Fc%2F1%2FB%2Fii
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2031
-[/us/pl/107/107/s831/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs831%2Fa%2F2
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1188
-[/us/pl/106/531/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531%2Fs3%2Fc
+[/us/pl/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F531
 [/us/stat/114/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2539
-[/us/pl/104/316/s115/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Ff%2F2
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
-[/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2848
-[/us/pl/98/369/s2741/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2741%2Fb
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1203
 
 

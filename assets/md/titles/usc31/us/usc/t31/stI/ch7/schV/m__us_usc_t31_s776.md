@@ -47,7 +47,7 @@
 
         (2) A benefit under this section and sections 773–775 of this title is not assignable or subject to legal process.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 906][/us/stat/96/906]; [Pub. L. 100–426, title II, § 206][/us/pl/100/426/s206], Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 906][/us/stat/96/906]; [Pub. L. 100–426, title II][/us/pl/100/426/tII], § 206, Sept. 9, 1988, [102 Stat. 1601][/us/stat/102/1601]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -181,9 +181,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(f), (j)(last 13 words before colon)
 
     2004—Subsec. (c)(2)(B). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–426, § 206(1)][/us/pl/100/426/s206/1], inserted “before age 55” after “remarries”.
+    1988—Subsec. (b)(1). [Pub. L. 100–426][/us/pl/100/426], § 206(1), inserted “before age 55” after “remarries”.
 
-    Subsec. (b)(2). [Pub. L. 100–426, § 206(2)][/us/pl/100/426/s206/2], inserted “(unless the child is then a student as described in [section 771(1)(C) of this title][/us/usc/t31/s771/1/C])” after “age”.
+    Subsec. (b)(2). [Pub. L. 100–426][/us/pl/100/426], § 206(2), inserted “(unless the child is then a student as described in [section 771(1)(C) of this title][/us/usc/t31/s771/1/C])” after “age”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -202,13 +202,13 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 319(f), (j)(last 13 words before colon)
 [/us/usc/t31/s775/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs775%2Fd
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F906
-[/us/pl/100/426/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs206
+[/us/pl/100/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2FtII
 [/us/stat/102/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1601
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/426/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs206%2F1
-[/us/pl/100/426/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs206%2F2
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
+[/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/usc/t31/s771/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs771%2F1%2FC
 [/us/pl/100/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426
 [/us/pl/100/426/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F426%2Fs208
