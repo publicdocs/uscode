@@ -257,25 +257,27 @@ June 29, 1936, ch. 858, title XIII, § 1303(h), as added Pub. L. 96–453, §�
 
     2014—[Pub. L. 113–291][/us/pl/113/291] amended section generally. Prior to amendment, section related to the Board of Visitors and consisted of subsecs. (a) to (d) relating to establishment of the Board, appointment of board members, designation of staff members to the board, and travel expenses, respectively.
 
- __Deadlines__ 
+ __Deadlines; Continuation of Service__ 
 
-[Pub. L. 113–291, div. C, title XXXV, § 3504(b)][/us/pl/113/291/s3504/b], Dec. 19, 2014, [128 Stat. 3909][/us/stat/128/3909], provided that:
+[Pub. L. 113–291, div. C, title XXXV, § 3504(b)][/us/pl/113/291/s3504/b], (c), Dec. 19, 2014, [128 Stat. 3909][/us/stat/128/3909], provided that:
 
->     “(1)  __Selection of designated federal officer__  __.—__ 
+>     “(b) __Deadlines.—__ 
 
->     The Secretary of Transportation shall select a Designated Federal Officer under subsection (g)(2) of [section 51312 of title 46][/us/usc/t46/s51312], United States Code, as amended by this Act, by not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\].
+>         “(1)  __Selection of designated federal officer__  __.—__ 
 
->     “(2)  __Appointment of members__  __.—__ 
+>         The Secretary of Transportation shall select a Designated Federal Officer under subsection (g)(2) of [section 51312 of title 46][/us/usc/t46/s51312], United States Code, as amended by this Act, by not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\].
 
->     Appointments under subsection (b)(1) of such section shall be completed by not later than 60 days after the date of the enactment of this Act.
+>         “(2)  __Appointment of members__  __.—__ 
 
->     “(3)  __Organization of first meeting__  __.—__ 
+>         Appointments under subsection (b)(1) of such section shall be completed by not later than 60 days after the date of the enactment of this Act.
 
->     Such Designated Federal Officer shall organize a meeting of the Board under section (d)(2) of such section by not later than 60 days after the date of the enactment of this Act.
+>         “(3)  __Organization of first meeting__  __.—__ 
 
->         “(c)  __Continuation of Service of Current Members__  __.—__ 
+>         Such Designated Federal Officer shall organize a meeting of the Board under section (d)(2) of such section by not later than 60 days after the date of the enactment of this Act.
 
->         Each member of the Board of Visitors serving as a member of the Board on the date of the enactment of this Act shall continue to serve on the Board for the remainder of such member’s term.”
+>     “(c)  __Continuation of Service of Current Members__  __.—__ 
+
+>     Each member of the Board of Visitors serving as a member of the Board on the date of the enactment of this Act shall continue to serve on the Board for the remainder of such member’s term.”
 
 ----------
 
