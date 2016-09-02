@@ -39,7 +39,7 @@
 
     (c) __Report__ 
 
-        The report referred to in subsection (a) is a report containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of the proposed action.
+        The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of the proposed action.
 
     (d) __Computation of days__ 
 
@@ -55,13 +55,15 @@
 
             Funds appropriated pursuant to a DOE national security authorization may not be used for an item for which Congress has specifically denied funds.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4702][/us/pl/107/314/s4702], formerly div. C, title XXXVI, § 3621, Dec. 2, 2002, [116 Stat. 2757][/us/stat/116/2757]; renumbered div. D, title XLVII, § 4702, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(D)(i), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
+([Pub. L. 107–314, div. D, title XLVII, § 4702][/us/pl/107/314/s4702], formerly div. C, title XXXVI, § 3621, Dec. 2, 2002, [116 Stat. 2757][/us/stat/116/2757]; renumbered div. D, title XLVII, § 4702, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(D)(i), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI, § 3146(h)(1)][/us/pl/113/66/s3146/h/1], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7386a of Title 42][/us/usc/t42/s7386a], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] substituted “this subsection” for “subsection (a)”.
 
     2003—Subsec. (a). [Pub. L. 108–136, § 3141(j)(2)(D)(i)][/us/pl/108/136/s3141/j/2/D/i], in introductory provisions, made technical amendment to reference in original act which appears in text as reference to sections 2750 and 2751 of this title.
 
@@ -76,8 +78,11 @@
 [/us/stat/116/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2757
 [/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
+[/us/pl/113/66/s3146/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F1
+[/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s7386a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/108/136/s3141/j/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FD%2Fi
 
 

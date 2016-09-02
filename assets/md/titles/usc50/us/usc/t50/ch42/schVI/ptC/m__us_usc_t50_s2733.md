@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall establish and carry out a program for the identification and on-going medical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
+        The Secretary of Energy shall establish and carry out a program for the identification and on-going medical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
 
     (b) __Implementation of program__ 
 
@@ -41,7 +41,7 @@
 
             (A) In determining the most appropriate means of carrying out the activities referred to in subparagraphs (A) through (D) of paragraph (1), the Secretary shall consult with the Secretary of Health and Human Services under the agreement referred to in subsection (c).
 
-            (B) The Secretary of Health and Human Services, with the assistance of the Director of the Centers for Disease Control and the Director of the National Institute for Occupational Safety and Health, and the Secretary of Labor shall identify the levels of exposure to the substances referred to in subparagraph (A) of paragraph (1) that present employees referred to in such subparagraph with significant health risks under Federal and State occupational, health, and safety standards;
+            (B) The Secretary of Health and Human Services, with the assistance of the Director of the Centers for Disease Control and Prevention and the Director of the National Institute for Occupational Safety and Health, and the Secretary of Labor shall identify the levels of exposure to the substances referred to in subparagraph (A) of paragraph (1) that present employees referred to in such subparagraph with significant health risks under Federal and State occupational, health, and safety standards.
 
         (3)
 
@@ -51,13 +51,13 @@
 
             (B) The National Academy of Sciences.
 
-            (C) The National Council on Radiation Protection.
+            (C) The National Council on Radiation Protection and Measurements.
 
             (D) Any labor organization or other collective bargaining agent authorized to act on the behalf of employees of a Department of Energy defense nuclear facility.
 
-        (4) The Secretary shall provide for each employee identified under paragraph (1)(D) and provided with any medical examination or test under paragraph (1)(E) to be notified by the appropriate medical personnel of the identification and the results of any such examination or test. Each notification under this paragraph shall be provided in a form that is readily understandable by the employee.
+        (4) The Secretary shall provide for each employee identified under paragraph (1)(B) and provided with any medical examination or test under paragraph (1) to be notified by the appropriate medical personnel of the identification and the results of any such examination or test. Each notification under this paragraph shall be provided in a form that is readily understandable by the employee.
 
-        (5) The Secretary shall collect and assemble information relating to the examinations and tests carried out under paragraph (1)(E).
+        (5) The Secretary shall collect and assemble information relating to the examinations and tests carried out under paragraph (1).
 
         (6) The Secretary shall commence carrying out the program described in this subsection not later than October 23, 1993.
 
@@ -73,7 +73,7 @@
 
         (2) The term “Department of Energy employee” means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4643][/us/pl/107/314/s4643], formerly [Pub. L. 102–484, div. C, title XXXI, § 3162][/us/pl/102/484/s3162], Oct. 23, 1992, [106 Stat. 2646][/us/stat/106/2646]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4643][/us/pl/107/314/s4643], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(14)][/us/pl/108/136/s3141/i/14], Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 112–239, div. C, title XXXI, § 3134(b)(2)][/us/pl/112/239/s3134/b/2], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193].)
+([Pub. L. 107–314, div. D, title XLVI, § 4643][/us/pl/107/314/s4643], formerly [Pub. L. 102–484, div. C, title XXXI, § 3162][/us/pl/102/484/s3162], Oct. 23, 1992, [106 Stat. 2646][/us/stat/106/2646]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4643][/us/pl/107/314/s4643], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(14)][/us/pl/108/136/s3141/i/14], Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 112–239, div. C, title XXXI, § 3134(b)(2)][/us/pl/112/239/s3134/b/2], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(11)][/us/pl/113/66/s3146/g/11], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
@@ -81,17 +81,23 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “section 2704(f)” for “section 2704(g)”.
+    2013—Subsec. (a). [Pub. L. 113–66, § 3146(g)(11)(A)][/us/pl/113/66/s3146/g/11/A], inserted “of Energy” after “Secretary”.
+
+    Subsec. (b)(2)(B). [Pub. L. 113–66, § 3146(g)(11)(B)(i)][/us/pl/113/66/s3146/g/11/B/i], inserted “and Prevention” after “Disease Control” and substituted a period for semicolon at end.
+
+    Subsec. (b)(3)(C). [Pub. L. 113–66, § 3146(g)(11)(B)(ii)][/us/pl/113/66/s3146/g/11/B/ii], inserted “and Measurements” after “Radiation Protection”.
+
+    Subsec. (b)(4). [Pub. L. 113–66, § 3146(g)(11)(B)(iii)][/us/pl/113/66/s3146/g/11/B/iii], substituted “paragraph (1)(B)” for “paragraph (1)(D)” and “paragraph (1)” for “paragraph (1)(E)”.
+
+    Subsec. (b)(5). [Pub. L. 113–66, § 3146(g)(11)(B)(iv)][/us/pl/113/66/s3146/g/11/B/iv], substituted “paragraph (1)” for “paragraph (1)(E)”.
+
+    Subsec. (d)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “section 2704(f)” for “section 2704(g)”.
 
     2003—Subsec. (b)(6). [Pub. L. 108–136, § 3141(i)(14)(D)(i)][/us/pl/108/136/s3141/i/14/D/i], substituted “October 23, 1993” for “1 year after October 23, 1992”.
 
     Subsec. (c). [Pub. L. 108–136, § 3141(i)(14)(D)(ii)][/us/pl/108/136/s3141/i/14/D/ii], substituted “April 23, 1993,” for “180 days after October 23, 1992,”.
 
     Subsec. (d). [Pub. L. 108–136, § 3141(i)(14)(D)(iii)][/us/pl/108/136/s3141/i/14/D/iii], added subsec. (d).
-
- __Change of Name__ 
-
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -109,13 +115,18 @@
 [/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
 [/us/pl/112/239/s3134/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F2
 [/us/stat/126/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2193
+[/us/pl/113/66/s3146/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11
+[/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s7274i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274i
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66/s3146/g/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11%2FA
+[/us/pl/113/66/s3146/g/11/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11%2FB%2Fi
+[/us/pl/113/66/s3146/g/11/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11%2FB%2Fii
+[/us/pl/113/66/s3146/g/11/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11%2FB%2Fiii
+[/us/pl/113/66/s3146/g/11/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F11%2FB%2Fiv
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/108/136/s3141/i/14/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F14%2FD%2Fi
 [/us/pl/108/136/s3141/i/14/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F14%2FD%2Fii
 [/us/pl/108/136/s3141/i/14/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F14%2FD%2Fiii
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
-[/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

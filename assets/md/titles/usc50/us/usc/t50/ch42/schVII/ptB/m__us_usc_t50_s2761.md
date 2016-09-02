@@ -25,15 +25,17 @@
 
         (1) the President fails to request funds for compliance with the environmental requirement; or
 
-        (2) the Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
+        (2) Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4721][/us/pl/107/314/s4721], formerly [Pub. L. 99–661, div. C, title I, § 3132][/us/pl/99/661/s3132], Nov. 14, 1986, [100 Stat. 4063][/us/stat/100/4063]; renumbered [Pub. L. 107–314, div. D, title XLVII, § 4721][/us/pl/107/314/s4721], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(4)][/us/pl/108/136/s3141/j/4], Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
+([Pub. L. 107–314, div. D, title XLVII, § 4721][/us/pl/107/314/s4721], formerly [Pub. L. 99–661, div. C, title I, § 3132][/us/pl/99/661/s3132], Nov. 14, 1986, [100 Stat. 4063][/us/stat/100/4063]; renumbered [Pub. L. 107–314, div. D, title XLVII, § 4721][/us/pl/107/314/s4721], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(4)][/us/pl/108/136/s3141/j/4], Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI, § 3146(h)(5)][/us/pl/113/66/s3146/h/5], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7273a of Title 42][/us/usc/t42/s7273a], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “Congress” for “the Congress”.
 
     2003—[Pub. L. 108–136, § 3141(j)(4)(D)][/us/pl/108/136/s3141/j/4/D], made technical amendment to section catchline.
 
@@ -50,8 +52,11 @@
 [/us/pl/107/314/s4721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4721
 [/us/pl/108/136/s3141/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F4
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
+[/us/pl/113/66/s3146/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F5
+[/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s7273a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/108/136/s3141/j/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F4%2FD
 
 

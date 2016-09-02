@@ -59,15 +59,15 @@
 
         Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], formerly [Pub. L. 99–145, title XV, § 1534][/us/pl/99/145/s1534], Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I, § 3131(a)][/us/pl/100/180/s3131/a], Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)][/us/pl/108/136/s3141/k/2], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783].)
+([Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], formerly [Pub. L. 99–145, title XV, § 1534][/us/pl/99/145/s1534], Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I, § 3131(a)][/us/pl/100/180/s3131/a], Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)][/us/pl/108/136/s3141/k/2], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(1)][/us/pl/113/66/s3146/i/1], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
-
-    In subsec. (b)(1), “[section 1707 of title 41][/us/usc/t41/s1707]” substituted for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b][/us/usc/t41/s418b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was formerly classified to [section 7256a of Title 42][/us/usc/t42/s7256a], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “[section 1707 of title 41][/us/usc/t41/s1707]” for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b][/us/usc/t41/s418b])”.
 
     2003—[Pub. L. 108–136, § 3141(k)(2)(D)(i)][/us/pl/108/136/s3141/k/2/D/i], made technical amendment to section catchline.
 
@@ -97,12 +97,13 @@
 [/us/pl/107/314/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4801
 [/us/pl/108/136/s3141/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2
 [/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
-[/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
-[/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/66/s3146/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F1
+[/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s7256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
+[/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
 [/us/pl/108/136/s3141/k/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FD%2Fi
 [/us/pl/108/136/s3141/k/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FD%2Fii
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

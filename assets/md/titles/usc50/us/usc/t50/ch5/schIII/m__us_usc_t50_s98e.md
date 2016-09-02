@@ -27,9 +27,11 @@
 
         (4) provide for the rotation of any material in the stockpile when necessary to prevent deterioration or technological obsolescence of such material by replacement of such material with an equivalent quantity of substantially the same material or better material;
 
-        (5) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+        (5) provide for the appropriate recovery of any strategic and critical materials under [section 98b(a) of this title][/us/usc/t50/s98b/a] that may be available from excess materials made available for recovery purposes by other Federal agencies;
 
-        (6) subject to the provisions of [section 98d(b) of this title][/us/usc/t50/s98d/b], dispose of materials in the stockpile the disposal of which is specifically authorized by law.
+        (6) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+
+        (7) subject to the provisions of [section 98d(b) of this title][/us/usc/t50/s98d/b], dispose of materials in the stockpile the disposal of which is specifically authorized by law.
 
     (b) __Federal procurement practices__ 
 
@@ -59,7 +61,7 @@
 
         The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-([June 7, 1939, ch. 190, § 6][/us/act/1939-06-07/ch190/s6], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 321][/us/stat/93/321]; amended [Pub. L. 97–35, title II, § 203(c)][/us/pl/97/35/s203/c], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3207(b)][/us/pl/99/661/s3207/b], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 101–189, div. C, title XXXIII, § 3314][/us/pl/101/189/s3314], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII, § 3301(a)][/us/pl/101/510/s3301/a], (b), Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXIII, § 3312][/us/pl/102/190/s3312], Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–337, div. C, title XXXIII, § 3302][/us/pl/103/337/s3302], Oct. 5, 1994, [108 Stat. 3098][/us/stat/108/3098]; [Pub. L. 104–106, div. A, title XV, § 1502(e)(1)][/us/pl/104/106/s1502/e/1], Feb. 10, 1996, [110 Stat. 509][/us/stat/110/509]; [Pub. L. 104–201, div. C, title XXXIII, § 3312(b)][/us/pl/104/201/s3312/b], (c), Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857]; [Pub. L. 105–85, div. C, title XXXIII, § 3306][/us/pl/105/85/s3306], Nov. 18, 1997, [111 Stat. 2058][/us/stat/111/2058]; [Pub. L. 106–65, div. A, title X, § 1067(13)][/us/pl/106/65/s1067/13], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775].)
+([June 7, 1939, ch. 190, § 6][/us/act/1939-06-07/ch190/s6], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 321][/us/stat/93/321]; amended [Pub. L. 97–35, title II, § 203(c)][/us/pl/97/35/s203/c], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3207(b)][/us/pl/99/661/s3207/b], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 101–189, div. C, title XXXIII, § 3314][/us/pl/101/189/s3314], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII, § 3301(a)][/us/pl/101/510/s3301/a], (b), Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXIII, § 3312][/us/pl/102/190/s3312], Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–337, div. C, title XXXIII, § 3302][/us/pl/103/337/s3302], Oct. 5, 1994, [108 Stat. 3098][/us/stat/108/3098]; [Pub. L. 104–106, div. A, title XV, § 1502(e)(1)][/us/pl/104/106/s1502/e/1], Feb. 10, 1996, [110 Stat. 509][/us/stat/110/509]; [Pub. L. 104–201, div. C, title XXXIII, § 3312(b)][/us/pl/104/201/s3312/b], (c), Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857]; [Pub. L. 105–85, div. C, title XXXIII, § 3306][/us/pl/105/85/s3306], Nov. 18, 1997, [111 Stat. 2058][/us/stat/111/2058]; [Pub. L. 106–65, div. A, title X, § 1067(13)][/us/pl/106/65/s1067/13], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 113–66, div. A, title XIV, § 1411(a)][/us/pl/113/66/s1411/a], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
 
  __Prior Provisions__ 
 
@@ -68,6 +70,8 @@
     Provisions similar to those in this section were contained in former [section 98b of this title][/us/usc/t50/s98b] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(5) to (7). [Pub. L. 113–66][/us/pl/113/66] added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
     1999—Subsec. (d)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -117,6 +121,7 @@
 ----------
 
 [/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
+[/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
 [/us/usc/t50/s98d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fb
 [/us/usc/t50/s98f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98f%2Fa
 [/us/usc/t50/s98b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fc
@@ -143,6 +148,8 @@
 [/us/stat/111/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2058
 [/us/pl/106/65/s1067/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F13
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
+[/us/pl/113/66/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fa
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/act/1939-06-07/ch190/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs6
 [/us/stat/53/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F812
 [/us/act/1941-05-28/ch135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-05-28%2Fch135
@@ -159,6 +166,7 @@
 [/us/usc/t50/s98c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98c%2Fb
 [/us/usc/t50/s98b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b
 [/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201/s3312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3312%2Fb

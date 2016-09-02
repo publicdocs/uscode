@@ -21,17 +21,21 @@
 
     (b) __Expectation of privacy in Administration computers__ 
 
-        Notwithstanding any other provision of law (including any provision of law enacted by the Electronic Communications Privacy Act of 1986), no user of an Administration computer shall have any expectation of privacy in the use of that computer.
+        Notwithstanding any other provision of law (including any provision of law enacted by the Electronic Communications Privacy Act of 1986 ([Public Law 99–508][/us/pl/99/508]; [100 Stat. 1848][/us/stat/100/1848])), no user of an Administration computer shall have any expectation of privacy in the use of that computer.
 
     (c) __Definition__ 
 
         For purposes of this section, the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3235][/us/pl/106/65/s3235], Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961].)
+([Pub. L. 106–65, div. C, title XXXII, § 3235][/us/pl/106/65/s3235], Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961]; [Pub. L. 113–66, div. C, title XXXI, § 3145(c)][/us/pl/113/66/s3145/c], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __References in Text__ 
 
-    The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is [Pub. L. 99–508][/us/pl/99/508], Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848], as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18][/us/usc/t18/s2510], Crimes and Criminal Procedure, and Tables.
+    The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is [Pub. L. 99–508][/us/pl/99/508], Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848]. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18][/us/usc/t18/s2510], Crimes and Criminal Procedure, and Tables.
+
+ __Amendments__ 
+
+    2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] inserted “([Public Law 99–508][/us/pl/99/508]; [100 Stat. 1848][/us/stat/100/1848])” after “of 1986”.
 
 ----------
 
@@ -40,10 +44,17 @@
 ----------
 ----------
 
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
 [/us/pl/106/65/s3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3235
 [/us/stat/113/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F961
+[/us/pl/113/66/s3145/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fc
+[/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
 
 

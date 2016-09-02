@@ -67,17 +67,15 @@
 
         (2) The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 discovered in the two-year period preceding the submittal of the report.
 
-    (g) __Definition__ 
-
-        In this section, the term “Restricted Data” has the meaning given that term in [section 2014(y) of title 42][/us/usc/t42/s2014/y].
-
-([Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], formerly [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; renumbered [Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)][/us/pl/108/136/s3141/h/12], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; [Pub. L. 110–417, div. C, title XXXI, § 3123][/us/pl/110/417/s3123], Oct. 14, 2008, [122 Stat. 4759][/us/stat/122/4759].)
+([Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], formerly [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; renumbered [Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)][/us/pl/108/136/s3141/h/12], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; [Pub. L. 110–417, div. C, title XXXI, § 3123][/us/pl/110/417/s3123], Oct. 14, 2008, [122 Stat. 4759][/us/stat/122/4759]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(H)][/us/pl/113/66/s3146/a/2/H], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __Codification__ 
 
     Section was formerly set out as a note under [section 435 of this title][/us/usc/t50/s435] prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (g), which defined “Restricted Data”.
 
     2008—Subsec. (e). [Pub. L. 110–417, § 3121(a)(1)][/us/pl/110/417/s3121/a/1], (b), substituted “in each even-numbered year” for “on a periodic basis” and “subsection (b)(5)” for “subsection (b)(4)”.
 
@@ -108,7 +106,6 @@
 
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
-[/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
 [/us/pl/107/314/s4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4522
 [/us/pl/105/261/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3161
 [/us/stat/112/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2259
@@ -121,8 +118,11 @@
 [/us/stat/117/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1774
 [/us/pl/110/417/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3123
 [/us/stat/122/4759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4759
+[/us/pl/113/66/s3146/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FH
+[/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/417/s3121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3121%2Fa%2F1
 [/us/pl/110/417/s3123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3123%2Fa%2F2
 [/us/pl/108/136/s3141/h/12/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F12%2FD%2Fi

@@ -127,7 +127,7 @@
 
     (l) __Relationship to other laws__ 
 
-        The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 ([Public Law 101–512][/us/pl/101/512])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
+        The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 ([Public Law 101–12][/us/pl/101/12]; [103 Stat. 16][/us/stat/103/16]) or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
 
     (m) __Annual report__ 
 
@@ -135,11 +135,7 @@
 
         (2) A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.
 
-    (n) __Implementation report__ 
-
-        Not later than December 5, 1999, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the implementation of the program required by this section.
-
-([Pub. L. 107–314, div. D, title XLVI, § 4602][/us/pl/107/314/s4602], formerly [Pub. L. 106–65, div. C, title XXXI, § 3164][/us/pl/106/65/s3164], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4602][/us/pl/107/314/s4602], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(3)][/us/pl/108/136/s3141/i/3], Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776].)
+([Pub. L. 107–314, div. D, title XLVI, § 4602][/us/pl/107/314/s4602], formerly [Pub. L. 106–65, div. C, title XXXI, § 3164][/us/pl/106/65/s3164], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4602][/us/pl/107/314/s4602], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(3)][/us/pl/108/136/s3141/i/3], Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(2)][/us/pl/113/66/s3146/g/2], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
 
  __References in Text__ 
 
@@ -151,6 +147,10 @@
 
  __Amendments__ 
 
+    2013—Subsec. (l). [Pub. L. 113–66, § 3146(g)(2)(A)][/us/pl/113/66/s3146/g/2/A], substituted “[Public Law 101–12][/us/pl/101/12]; [103 Stat. 16][/us/stat/103/16]” for “[Public Law 101–512][/us/pl/101/512]”.
+
+    Subsec. (n). [Pub. L. 113–66, § 3146(g)(2)(B)][/us/pl/113/66/s3146/g/2/B], struck out subsec. (n). Text read as follows: “Not later than December 5, 1999, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the implementation of the program required by this section.”
+
     2003—Subsec. (n). [Pub. L. 108–136, § 3141(i)(3)(D)][/us/pl/108/136/s3141/i/3/D], substituted “December 5, 1999,” for “60 days after October 5, 1999,”.
 
 ----------
@@ -160,13 +160,16 @@
 ----------
 ----------
 
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
 [/us/pl/107/314/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4602
 [/us/pl/106/65/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3164
 [/us/stat/113/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F946
 [/us/pl/107/314/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4602
 [/us/pl/108/136/s3141/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F3
 [/us/stat/117/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1776
+[/us/pl/113/66/s3146/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F2
+[/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
 [/us/usc/t5/s3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3352
@@ -174,6 +177,11 @@
 [/us/usc/t5/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1201
 [/us/usc/t42/s7239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7239
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66/s3146/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F2%2FA
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/113/66/s3146/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F2%2FB
 [/us/pl/108/136/s3141/i/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F3%2FD
 
 

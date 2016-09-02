@@ -23,7 +23,7 @@
 
         (1) __Remedy__ 
 
-            The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or by the Act of March 3, 1925 (46 U.S.C. App. 781–790), <sup>\[1\]</sup>  as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
+            The remedy against the United States provided by sections 1346(b) and 2672 of title 28, or by chapter 309 or 311 of title 46, as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
 
         (2) __Exclusivity__ 
 
@@ -41,19 +41,15 @@
 
         For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], formerly [Pub. L. 101–510, div. C, title XXXI, § 3141][/us/pl/101/510/s3141], Nov. 5, 1990, [104 Stat. 1837][/us/stat/104/1837]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(4)][/us/pl/108/136/s3141/k/4], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783].)
-
- __References in Text__ 
-
-    The Act of March 9, 1920, referred to in subsec. (b)(1), is [act Mar. 9, 1920, ch. 95][/us/act/1920-03-09/ch95], [41 Stat. 525][/us/stat/41/525], commonly known as the “Suits in Admiralty Act”, which was classified generally to chapter 20 (§§ 741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by [Pub. L. 109–304][/us/pl/109/304], §§ 6(c), 19, Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], 1710. [Section 30901 of Title 46][/us/usc/t46/s30901] provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101].
-
-    The Act of March 3, 1925, referred to in subsec. (b)(1), is [act Mar. 3, 1925, ch. 428][/us/act/1925-03-03/ch428], [43 Stat. 1112][/us/stat/43/1112], commonly known as the “Public Vessels Act”, which was classified generally to chapter 22 (§§ 781 to 790) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 311 of Title 46, Shipping, by [Pub. L. 109–304][/us/pl/109/304], §§ 6(c), 19, Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], 1710. [Section 31101 of Title 46][/us/usc/t46/s31101] provides that chapter 311 of Title 46 may be cited as the Public Vessels Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101].
+([Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], formerly [Pub. L. 101–510, div. C, title XXXI, § 3141][/us/pl/101/510/s3141], Nov. 5, 1990, [104 Stat. 1837][/us/stat/104/1837]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(4)][/us/pl/108/136/s3141/k/4], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(2)][/us/pl/113/66/s3146/i/2], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
 
     Section was formerly classified to [section 2212 of Title 42][/us/usc/t42/s2212], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “or by chapter 309 or 311 of title 46” for “by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)”.
 
     2003—[Pub. L. 108–136, § 3141(k)(4)(D)(i)][/us/pl/108/136/s3141/k/4/D/i], made technical amendment to section catchline.
 
@@ -75,20 +71,11 @@
 [/us/pl/107/314/s4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4803
 [/us/pl/108/136/s3141/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4
 [/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/act/1920-03-09/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-09%2Fch95
-[/us/stat/41/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F525
-[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
-[/us/usc/t46/s30901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30901
-[/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/act/1925-03-03/ch428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch428
-[/us/stat/43/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1112
-[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
-[/us/usc/t46/s31101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31101
-[/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
+[/us/pl/113/66/s3146/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F2
+[/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2212
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/108/136/s3141/k/4/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4%2FD%2Fi
 [/us/pl/108/136/s3141/k/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4%2FD%2Fii
 

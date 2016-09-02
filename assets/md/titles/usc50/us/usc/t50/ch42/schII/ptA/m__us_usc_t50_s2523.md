@@ -147,13 +147,33 @@
 
             (E) an assessment of the readiness status of the skills and capabilities described in subparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
 
-        (6) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+        (6)
+
+         A strategy for the integrated management of plutonium for stockpile and stockpile stewardship needs over a 20-year period that includes the following:
+
+            (A) An assessment of the baseline science issues necessary to understand plutonium aging under static and dynamic conditions under manufactured and nonmanufactured plutonium geometries.
+
+            (B) An assessment of scientific and testing instrumentation for plutonium at elemental and bulk conditions.
+
+            (C) An assessment of manufacturing and handling technology for plutonium and plutonium components.
+
+            (D) An assessment of computational models of plutonium performance under static and dynamic loading, including manufactured and nonmanufactured conditions.
+
+            (E) An identification of any capability gaps with respect to the assessments described in subparagraphs (A) through (D).
+
+            (F) An estimate of costs relating to the issues, instrumentation, technology, and models described in subparagraphs (A) through (D) over the period covered by the future-years nuclear security program under [section 2453 of this title][/us/usc/t50/s2453].
+
+            (G) An estimate of the cost of eliminating the capability gaps identified under subparagraph (E) over the period covered by the future-years nuclear security program.
+
+            (H) Such other items as the Administrator considers important for the integrated management of plutonium for stockpile and stockpile stewardship needs.
+
+        (7) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
 
     (e) __Nuclear Weapons Council assessment__ 
 
         (1)
 
-         For each detailed report on the plan submitted under subsection (b)(2), the Nuclear Weapons Council established by [section 179 of title 10][/us/usc/t10/s179] shall conduct an assessment that includes the following:
+         For each detailed report on the plan submitted under subsection (b)(2), the Nuclear Weapons Council shall conduct an assessment that includes the following:
 
             (A)
 
@@ -203,7 +223,7 @@
 
             (E) nuclear incident response.
 
-([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187].)
+([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072.)
 
  __Codification__ 
 
@@ -218,6 +238,10 @@
  __Amendments__ 
 
     2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section related to the plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile.
+
+    Subsec. (d)(6), (7). [Pub. L. 113–66, § 3123][/us/pl/113/66/s3123], added par. (6) and redesignated former par. (6) as (7).
+
+    Subsec. (e)(1). [Pub. L. 113–66, § 3146(a)(2)(A)][/us/pl/113/66/s3146/a/2/A], struck out “established by [section 179 of title 10][/us/usc/t10/s179]” after “Council” in introductory provisions.
 
     2004—Subsec. (c). [Pub. L. 108–375][/us/pl/108/375] substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
 
@@ -314,7 +338,7 @@
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t50/s2521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521%2Fa
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
-[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
+[/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
@@ -328,6 +352,8 @@
 [/us/stat/118/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2162
 [/us/pl/112/239/s3133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fa%2F1
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3153
@@ -335,6 +361,9 @@
 [/us/pl/105/85/s3152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3152%2Fc
 [/us/stat/111/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2042
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3123
+[/us/pl/113/66/s3146/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FA
+[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/111/84/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1251
 [/us/stat/123/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2549

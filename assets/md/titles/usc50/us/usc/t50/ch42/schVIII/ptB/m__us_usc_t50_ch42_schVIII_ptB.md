@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2785.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVIII%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2786.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVIII%2FptB)
 
 #### Part B—Research and Development
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2785.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVIII%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2786.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVIII%2FptB)
 
 ----------
 ----------

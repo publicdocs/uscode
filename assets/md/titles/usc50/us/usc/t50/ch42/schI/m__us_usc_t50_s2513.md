@@ -15,9 +15,9 @@
 
 ## § 2513. Restriction on licensing requirement for certain defense activities and facilities
 
-    None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([Public Law 96–540][/us/pl/96/540]) or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
+    None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([Public Law 96–540][/us/pl/96/540]; [94 Stat. 3197][/us/stat/94/3197]) or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
 
-([Pub. L. 107–314, div. D, title XLI, § 4103][/us/pl/107/314/s4103], formerly [Pub. L. 96–540, title II, § 210][/us/pl/96/540/s210], Dec. 17, 1980, [94 Stat. 3202][/us/stat/94/3202]; renumbered [Pub. L. 107–314, div. D, title XLI, § 4103][/us/pl/107/314/s4103], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(d)(4)][/us/pl/108/136/s3141/d/4], Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757].)
+([Pub. L. 107–314, div. D, title XLI, § 4103][/us/pl/107/314/s4103], formerly [Pub. L. 96–540, title II, § 210][/us/pl/96/540/s210], Dec. 17, 1980, [94 Stat. 3202][/us/stat/94/3202]; renumbered [Pub. L. 107–314, div. D, title XLI, § 4103][/us/pl/107/314/s4103], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(d)(4)][/us/pl/108/136/s3141/d/4], Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757]; [Pub. L. 113–66, div. C, title XXXI, § 3146(b)][/us/pl/113/66/s3146/b], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __References in Text__ 
 
@@ -35,6 +35,8 @@
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–66][/us/pl/113/66] inserted “; [94 Stat. 3197][/us/stat/94/3197]” after “[Public Law 96–540][/us/pl/96/540]”.
+
     2003—[Pub. L. 108–136, § 3131(d)(4)(C)(iii)][/us/pl/108/136/s3131/d/4/C/iii], substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([Public Law 96–540][/us/pl/96/540]) or any other Act” for “this or any other Act”.
 
  __Transfer of Functions__ 
@@ -49,12 +51,15 @@
 ----------
 
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
+[/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
 [/us/pl/107/314/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4103
 [/us/pl/96/540/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540%2Fs210
 [/us/stat/94/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3202
 [/us/pl/107/314/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4103
 [/us/pl/108/136/s3141/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fd%2F4
 [/us/stat/117/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1757
+[/us/pl/113/66/s3146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fb
+[/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 [/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
 [/us/usc/t50/s2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2762
@@ -62,6 +67,9 @@
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/96/164/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs210
 [/us/stat/93/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1264
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
+[/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 [/us/pl/108/136/s3131/d/4/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3131%2Fd%2F4%2FC%2Fiii
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585

@@ -29,8 +29,6 @@
 
         (3) To the maximum extent practicable, the Secretary shall appoint persons under paragraph (1)(B) to the positions established under paragraph (1)(A) in accordance with the merit system principles set forth in section 2301 of such title.
 
-        (4) The Secretary may not appoint more than 100 persons during fiscal year 1995 under the authority provided in this subsection.
-
     (b) __OPM review__ 
 
         (1) The Secretary shall enter into an agreement with the Director of the Office of Personnel Management under which agreement the Director shall periodically evaluate the use of the authority set forth in subsection (a)(1). The Secretary shall reimburse the Director for evaluations conducted by the Director pursuant to the agreement. Any such reimbursement shall be credited to the revolving fund referred to in [section 1304(e) of title 5][/us/usc/t5/s1304/e].
@@ -51,7 +49,7 @@
 
         (2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 
-([Pub. L. 107–314, div. D, title XLVI, § 4601][/us/pl/107/314/s4601], formerly [Pub. L. 103–337, div. C, title XXXI, § 3161][/us/pl/103/337/s3161], Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095]; [Pub. L. 105–85, div. C, title XXXI, § 3139][/us/pl/105/85/s3139], Nov. 18, 1997, [111 Stat. 2040][/us/stat/111/2040]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261], §§ 3152, 3155, Oct. 17, 1998, [112 Stat. 2253][/us/stat/112/2253], 2257; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3191\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; [Pub. L. 107–314, div. C, title XXXI, § 3174][/us/pl/107/314/s3174], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4601][/us/pl/107/314/s4601], by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(2)][/us/pl/108/136/s3141/i/2], Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776]; [Pub. L. 108–375, div. C, title XXXI, § 3112][/us/pl/108/375/s3112], Oct. 28, 2004, [118 Stat. 2160][/us/stat/118/2160]; [Pub. L. 109–364, div. C, title XXXI, § 3115][/us/pl/109/364/s3115], Oct. 17, 2006, [120 Stat. 2506][/us/stat/120/2506]; [Pub. L. 111–32, title IV, § 402][/us/pl/111/32/s402], June 24, 2009, [123 Stat. 1877][/us/stat/123/1877]; [Pub. L. 111–84, div. C, title XXXI, § 3119][/us/pl/111/84/s3119], Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI, § 3117][/us/pl/111/383/s3117], Jan. 7, 2011, [124 Stat. 4513][/us/stat/124/4513].)
+([Pub. L. 107–314, div. D, title XLVI, § 4601][/us/pl/107/314/s4601], formerly [Pub. L. 103–337, div. C, title XXXI, § 3161][/us/pl/103/337/s3161], Oct. 5, 1994, [108 Stat. 3095][/us/stat/108/3095]; [Pub. L. 105–85, div. C, title XXXI, § 3139][/us/pl/105/85/s3139], Nov. 18, 1997, [111 Stat. 2040][/us/stat/111/2040]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261], §§ 3152, 3155, Oct. 17, 1998, [112 Stat. 2253][/us/stat/112/2253], 2257; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3191\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; [Pub. L. 107–314, div. C, title XXXI, § 3174][/us/pl/107/314/s3174], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4601][/us/pl/107/314/s4601], by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(2)][/us/pl/108/136/s3141/i/2], Nov. 24, 2003, [117 Stat. 1776][/us/stat/117/1776]; [Pub. L. 108–375, div. C, title XXXI, § 3112][/us/pl/108/375/s3112], Oct. 28, 2004, [118 Stat. 2160][/us/stat/118/2160]; [Pub. L. 109–364, div. C, title XXXI, § 3115][/us/pl/109/364/s3115], Oct. 17, 2006, [120 Stat. 2506][/us/stat/120/2506]; [Pub. L. 111–32, title IV, § 402][/us/pl/111/32/s402], June 24, 2009, [123 Stat. 1877][/us/stat/123/1877]; [Pub. L. 111–84, div. C, title XXXI, § 3119][/us/pl/111/84/s3119], Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI, § 3117][/us/pl/111/383/s3117], Jan. 7, 2011, [124 Stat. 4513][/us/stat/124/4513]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(1)][/us/pl/113/66/s3146/g/1], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
 
  __References in Text__ 
 
@@ -62,6 +60,8 @@
     Section was formerly set out as a note under [section 7231 of Title 42][/us/usc/t42/s7231], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4). [Pub. L. 113–66][/us/pl/113/66] struck out par. (4) which read as follows: “The Secretary may not appoint more than 100 persons during fiscal year 1995 under the authority provided in this subsection.”
 
     2011—Subsec. (c)(1). [Pub. L. 111–383][/us/pl/111/383] substituted “September 30, 2016” for “September 30, 2011”.
 
@@ -121,9 +121,12 @@
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
 [/us/pl/111/383/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3117
 [/us/stat/124/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4513
+[/us/pl/113/66/s3146/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F1
+[/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t42/s7231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7231
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32

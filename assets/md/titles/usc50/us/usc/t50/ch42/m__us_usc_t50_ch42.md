@@ -73,6 +73,14 @@ SUBCHAPTER I—ORGANIZATIONAL MATTERS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2515" data-uslm-ref="/us/usc/t50/s2515">2515.</a>  </td>
+
+    <td> Establishment of Center for Security Technology, Analysis, Response, and Testing.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—NUCLEAR WEAPONS STOCKPILE MATTERS  </td>
@@ -219,7 +227,7 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2534" data-uslm-ref="/us/usc/t50/s2534">2534.</a>  </td>
 
-    <td> Plan for transformation of National Nuclear Security Administration nuclear security enterprise.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -283,7 +291,7 @@ Part B—Tritium  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2543" data-uslm-ref="/us/usc/t50/s2543">2543.</a>  </td>
 
-    <td> Tritium production.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -313,17 +321,9 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2561" data-uslm-ref="/us/usc/t50/s2561">2561.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2561" data-uslm-ref="/us/usc/t50/s2561">2561</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2562" data-uslm-ref="/us/usc/t50/s2562">2562.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2562" data-uslm-ref="/us/usc/t50/s2562">2562.</a>  </td>
-
-    <td> Nonproliferation initiatives and activities.  </td>
 
   </tr>
 
@@ -339,7 +339,7 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2564" data-uslm-ref="/us/usc/t50/s2564">2564.</a>  </td>
 
-    <td> Nuclear Cities Initiative.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -364,14 +364,6 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2567" data-uslm-ref="/us/usc/t50/s2567">2567.</a>  </td>
 
     <td> Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2568" data-uslm-ref="/us/usc/t50/s2568">2568.</a>  </td>
-
-    <td> Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union.  </td>
 
   </tr>
 
@@ -427,7 +419,7 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
 
     <td> 
 
-SUBCHAPTER IV—ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT MATTERS  </td>
+SUBCHAPTER IV—DEFENSE ENVIRONMENTAL CLEANUP MATTERS  </td>
 
   </tr>
 
@@ -435,7 +427,7 @@ SUBCHAPTER IV—ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT MATTERS  </td>
 
     <td> 
 
-Part A—Environmental Restoration and Waste Management  </td>
+Part A—Defense Environmental Cleanup  </td>
 
   </tr>
 
@@ -443,7 +435,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2581" data-uslm-ref="/us/usc/t50/s2581">2581.</a>  </td>
 
-    <td> Defense Environmental Restoration and Waste Management Account.  </td>
+    <td> Defense Environmental Cleanup Account.  </td>
 
   </tr>
 
@@ -451,7 +443,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2582" data-uslm-ref="/us/usc/t50/s2582">2582.</a>  </td>
 
-    <td> Requirement to develop future use plans for environmental management programs.  </td>
+    <td> Requirement to develop future use plans for defense environmental cleanup.  </td>
 
   </tr>
 
@@ -459,7 +451,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2582a" data-uslm-ref="/us/usc/t50/s2582a">2582a.</a>  </td>
 
-    <td> Future-years defense environmental management plan.  </td>
+    <td> Future-years defense environmental cleanup plan.  </td>
 
   </tr>
 
@@ -475,7 +467,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2584" data-uslm-ref="/us/usc/t50/s2584">2584.</a>  </td>
 
-    <td> Baseline environmental management reports.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -483,7 +475,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2585" data-uslm-ref="/us/usc/t50/s2585">2585.</a>  </td>
 
-    <td> Accelerated schedule for environmental restoration and waste management activities.  </td>
+    <td> Accelerated schedule for defense environmental cleanup activities.  </td>
 
   </tr>
 
@@ -491,7 +483,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2586" data-uslm-ref="/us/usc/t50/s2586">2586.</a>  </td>
 
-    <td> Defense waste cleanup technology program.  </td>
+    <td> Defense environmental cleanup technology program.  </td>
 
   </tr>
 
@@ -499,7 +491,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2587" data-uslm-ref="/us/usc/t50/s2587">2587.</a>  </td>
 
-    <td> Report on environmental restoration expenditures.  </td>
+    <td> Report on defense environmental cleanup expenditures.  </td>
 
   </tr>
 
@@ -507,7 +499,7 @@ Part A—Environmental Restoration and Waste Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2588" data-uslm-ref="/us/usc/t50/s2588">2588.</a>  </td>
 
-    <td> Public participation in planning for environmental restoration and waste management at defense nuclear facilities.  </td>
+    <td> Public participation in planning for defense environmental cleanup.  </td>
 
   </tr>
 
@@ -531,7 +523,7 @@ Part B—Closure of Facilities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2601" data-uslm-ref="/us/usc/t50/s2601">2601.</a>  </td>
 
-    <td> Projects to accelerate closure activities at defense nuclear facilities.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -547,23 +539,7 @@ Part B—Closure of Facilities  </td>
 
     <td> 
 
-Part C—Privatization  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2611" data-uslm-ref="/us/usc/t50/s2611">2611.</a>  </td>
-
-    <td> Defense environmental management privatization projects.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part D—Hanford Reservation, Washington  </td>
+Part C—Hanford Reservation, Washington  </td>
 
   </tr>
 
@@ -601,9 +577,17 @@ Part D—Hanford Reservation, Washington  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2625" data-uslm-ref="/us/usc/t50/s2625">2625.</a>  </td>
+
+    <td> Plan for tank farm waste at Hanford Nuclear Reservation.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
-Part E—Savannah River Site, South Carolina  </td>
+Part D—Savannah River Site, South Carolina  </td>
 
   </tr>
 
@@ -633,33 +617,9 @@ Part E—Savannah River Site, South Carolina  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2634" data-uslm-ref="/us/usc/t50/s2634">2634.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2634" data-uslm-ref="/us/usc/t50/s2634">2634</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2637" data-uslm-ref="/us/usc/t50/s2637">2637.</a>  </td>
 
-    <td> Continuation of processing, treatment, and disposition of legacy nuclear materials.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2635" data-uslm-ref="/us/usc/t50/s2635">2635.</a>  </td>
-
-    <td> Continuation of processing, treatment, and disposition of legacy nuclear materials.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2636" data-uslm-ref="/us/usc/t50/s2636">2636.</a>  </td>
-
-    <td> Continuation of processing, treatment, and disposal of legacy nuclear materials.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2637" data-uslm-ref="/us/usc/t50/s2637">2637.</a>  </td>
-
-    <td> Continuation of processing, treatment, and disposal of legacy nuclear materials.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -691,7 +651,7 @@ Part A—Safeguards and Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2651" data-uslm-ref="/us/usc/t50/s2651">2651.</a>  </td>
 
-    <td> Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified.  </td>
+    <td> Prohibition on international inspections of Department of Energy facilities unless protection of Restricted Data is certified.  </td>
 
   </tr>
 
@@ -739,7 +699,7 @@ Part A—Safeguards and Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2657" data-uslm-ref="/us/usc/t50/s2657">2657.</a>  </td>
 
-    <td> Submittal of annual report on status of security functions at nuclear weapons facilities.  </td>
+    <td> Annual report and certification on status of security of atomic energy defense facilities.  </td>
 
   </tr>
 
@@ -747,7 +707,7 @@ Part A—Safeguards and Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2658" data-uslm-ref="/us/usc/t50/s2658">2658.</a>  </td>
 
-    <td> Report on counterintelligence and security practices at national security laboratories.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -827,22 +787,6 @@ Part B—Classified Information  </td>
 
     <td> 
 
-Part C—Emergency Response  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2691" data-uslm-ref="/us/usc/t50/s2691">2691.</a>  </td>
-
-    <td> Responsibility for Defense Programs Emergency Response Program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
 SUBCHAPTER VI—PERSONNEL MATTERS  </td>
 
   </tr>
@@ -875,7 +819,7 @@ Part A—Personnel Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2703" data-uslm-ref="/us/usc/t50/s2703">2703.</a>  </td>
 
-    <td> Employee incentives for employees at closure project facilities.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -1083,7 +1027,7 @@ Part A—Recurring National Security Authorization Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2750" data-uslm-ref="/us/usc/t50/s2750">2750.</a>  </td>
 
-    <td> Transfer of defense environmental management funds.  </td>
+    <td> Transfer of defense environmental cleanup funds.  </td>
 
   </tr>
 
@@ -1217,6 +1161,14 @@ Part A—Contracts  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2786" data-uslm-ref="/us/usc/t50/s2786">2786.</a>  </td>
+
+    <td> Enhanced procurement authority to manage supply chain risk.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part B—Research and Development  </td>
@@ -1251,7 +1203,7 @@ Part B—Research and Development  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2793" data-uslm-ref="/us/usc/t50/s2793">2793.</a>  </td>
 
-    <td> Limitation on use of funds for certain research and development purposes.  </td>
+    <td> Report on use of funds for certain research and development purposes.  </td>
 
   </tr>
 
@@ -1291,7 +1243,7 @@ Part C—Facilities Management  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2812" data-uslm-ref="/us/usc/t50/s2812">2812.</a>  </td>
 
-    <td> Engineering and manufacturing research, development, and demonstration by plant managers of certain nuclear weapons production plants.  </td>
+    <td> Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities.  </td>
 
   </tr>
 

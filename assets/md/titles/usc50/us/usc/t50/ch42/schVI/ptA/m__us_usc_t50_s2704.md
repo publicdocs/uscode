@@ -55,7 +55,7 @@
 
          The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
 
-            (A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\];
+            (A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.);
 
             (B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2391][/us/usc/t10/s2391] note); and
 
@@ -75,7 +75,7 @@
 
     In this section, the term “Department of Energy defense nuclear facility” means—
 
-        (1) a production facility or utilization facility (as those terms are defined in [section 2014 of title 42][/us/usc/t42/s2014]) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
+        (1) a production facility or utilization facility (as those terms are defined in [section 2014 of title 42][/us/usc/t42/s2014]) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, and the 236 H facility at Savannah River, South Carolina), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
         (2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
@@ -93,7 +93,7 @@
 
             (C) was operated for national security purposes.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193.)
+([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
 
  __References in Text__ 
 
@@ -113,11 +113,15 @@
 
  __Amendments__ 
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 3134(b)(1)(A)][/us/pl/112/239/s3134/b/1/A], struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
+    2013—Subsec. (b)(1). [Pub. L. 112–239, § 3134(b)(1)(A)][/us/pl/112/239/s3134/b/1/A], struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
+
+    Subsec. (c)(6)(A). [Pub. L. 113–66, § 3146(g)(4)(A)][/us/pl/113/66/s3146/g/4/A], inserted “([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” after “1998”.
 
     Subsec. (e). [Pub. L. 112–239, § 3134(b)(1)(B)][/us/pl/112/239/s3134/b/1/B], (D), redesignated subsec. (f) as (e) and struck out former subsec. (e), which required the Secretary to issue plan updates.
 
     Subsec. (f). [Pub. L. 112–239, § 3134(b)(1)(D)][/us/pl/112/239/s3134/b/1/D], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+    Subsec. (f)(1). [Pub. L. 113–66, § 3146(g)(4)(B)][/us/pl/113/66/s3146/g/4/B], substituted “and the 236 H facility at Savannah River, South Carolina” for “the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio”.
 
     Subsec. (f)(2). [Pub. L. 112–239, § 3134(b)(1)(C)][/us/pl/112/239/s3134/b/1/C], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary shall submit to Congress any updates of the plan under subsection (e) immediately upon completion of any such update.
 
@@ -185,6 +189,8 @@
 [/us/stat/117/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1777
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
+[/us/pl/113/66/s3146/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4
+[/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/pl/101/189/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3152
 [/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
@@ -200,8 +206,11 @@
 [/us/usc/t42/s7274h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274h
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239/s3134/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FA
+[/us/pl/113/66/s3146/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4%2FA
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/112/239/s3134/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FB
 [/us/pl/112/239/s3134/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FD
+[/us/pl/113/66/s3146/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4%2FB
 [/us/pl/112/239/s3134/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FC
 [/us/pl/112/239/s3134/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FC%2Fii
 [/us/pl/112/239/s3131/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fq%2F1

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptC/m__us_usc_t50_s2811.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptC/m__us_usc_t50_s2813.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2812)
 
-## § 2812. Engineering and manufacturing research, development, and demonstration by plant managers of certain nuclear weapons production plants
+## § 2812. Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities
 
     (a) __Authority for programs at nuclear weapons productions facilities__ 
 
@@ -29,7 +29,7 @@
 
         (3) training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3156\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–467; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(12)][/us/pl/108/136/s3141/k/12], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI, § 3131(z)][/us/pl/112/239/s3131/z], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185].)
+([Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3156\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–467; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(12)][/us/pl/108/136/s3141/k/12], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI, § 3131(z)][/us/pl/112/239/s3131/z], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(7)(A)][/us/pl/113/66/s3146/i/7/A], Dec. 26, 2013, [127 Stat. 1083][/us/stat/127/1083].)
 
  __Codification__ 
 
@@ -37,7 +37,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 112–239, § 3131(z)(1)][/us/pl/112/239/s3131/z/1], substituted “nuclear security enterprise” for “nuclear weapons complex” in introductory provisions.
+    2013—[Pub. L. 113–66][/us/pl/113/66] substituted “managers of certain nuclear weapons production facilities” for “plant managers of certain nuclear weapons production plants” in section catchline.
+
+    Subsec. (b). [Pub. L. 112–239, § 3131(z)(1)][/us/pl/112/239/s3131/z/1], substituted “nuclear security enterprise” for “nuclear weapons complex” in introductory provisions.
 
     Subsecs. (c) to (e). [Pub. L. 112–239, § 3131(z)(2)][/us/pl/112/239/s3131/z/2], struck out subsecs. (c) to (e), which related, respectively, to funding, a report, and definition of “nuclear weapons production facility”.
 
@@ -82,8 +84,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/117/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1785
 [/us/pl/112/239/s3131/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fz
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
+[/us/pl/113/66/s3146/i/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F7%2FA
+[/us/stat/127/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1083
 [/us/usc/t42/s7274r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274r
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s3131/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fz%2F1
 [/us/pl/112/239/s3131/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fz%2F2
 [/us/pl/108/447/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs308

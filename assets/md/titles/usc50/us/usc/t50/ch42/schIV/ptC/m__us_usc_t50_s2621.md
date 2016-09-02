@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_ch42_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2622.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2621)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_ch42_schIV_ptC.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2622.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2621)
 
 ## § 2621. Safety measures for waste tanks at Hanford Nuclear Reservation
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_ch42_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2622.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2621)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_ch42_schIV_ptC.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2622.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2621)
 
 ----------
 ----------

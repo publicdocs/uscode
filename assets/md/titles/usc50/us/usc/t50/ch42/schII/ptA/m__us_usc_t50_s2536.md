@@ -17,7 +17,7 @@
 
     (a) __Reports required__ 
 
-    Before proceeding beyond phase 6.2 activities with respect to any lifetime extension program, the Nuclear Weapons Council established by [section 179 of title 10][/us/usc/t10/s179] shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
+    Before proceeding beyond phase 6.2 activities with respect to any lifetime extension program, the Nuclear Weapons Council shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
 
         (1) an assessment of the lifetime extension options considered for the phase 6.2 activities, including whether the subsystems and components in each option are considered to be a refurbishment, reuse, or replacement of such subsystem or component; and
 
@@ -33,7 +33,11 @@
 
         In this section, the term “phase 6.2 activities” means, with respect to a lifetime extension program, the phase 6.2 feasibility study and option down-select.
 
-([Pub. L. 107–314, div. D, title XLII, § 4216][/us/pl/107/314/s4216], as added [Pub. L. 112–239, div. C, title XXXI, § 3141(a)][/us/pl/112/239/s3141/a], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193].)
+([Pub. L. 107–314, div. D, title XLII, § 4216][/us/pl/107/314/s4216], as added [Pub. L. 112–239, div. C, title XXXI, § 3141(a)][/us/pl/112/239/s3141/a], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(B)][/us/pl/113/66/s3146/a/2/B], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
+
+ __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] struck out “established by [section 179 of title 10][/us/usc/t10/s179]” after “Nuclear Weapons Council” in introductory provisions.
 
 ----------
 
@@ -42,9 +46,12 @@
 ----------
 ----------
 
-[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/pl/107/314/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4216
 [/us/pl/112/239/s3141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3141%2Fa
 [/us/stat/126/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2193
+[/us/pl/113/66/s3146/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FB
+[/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 
 

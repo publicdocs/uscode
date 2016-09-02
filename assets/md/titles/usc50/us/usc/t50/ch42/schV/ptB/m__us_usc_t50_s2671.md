@@ -17,13 +17,13 @@
 
     (a) __In general__ 
 
-        The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
+        The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains Restricted Data.
 
     (b) __Limitation on declassification__ 
 
-        The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing restricted data.
+        The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing Restricted Data.
 
-([Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], formerly [Pub. L. 104–106, div. C, title XXXI, § 3155][/us/pl/104/106/s3155], Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(11)][/us/pl/108/136/s3141/h/11], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(p)][/us/pl/112/239/s3131/p], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183].)
+([Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], formerly [Pub. L. 104–106, div. C, title XXXI, § 3155][/us/pl/104/106/s3155], Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(11)][/us/pl/108/136/s3141/h/11], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(p)][/us/pl/112/239/s3131/p], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(G)][/us/pl/113/66/s3146/a/2/G], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __References in Text__ 
 
@@ -35,7 +35,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (c), which defined “restricted data”.
+    2013—Subsecs. (a), (b). [Pub. L. 113–66][/us/pl/113/66] substituted “Restricted Data” for “restricted data”.
+
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (c), which defined “restricted data”.
 
 ----------
 
@@ -52,10 +54,13 @@
 [/us/stat/117/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1774
 [/us/pl/112/239/s3131/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fp
 [/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
+[/us/pl/113/66/s3146/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FG
+[/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

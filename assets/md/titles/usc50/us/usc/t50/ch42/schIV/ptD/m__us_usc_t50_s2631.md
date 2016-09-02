@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_ch42_schIV_ptE.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_s2632.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2631)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_ch42_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2632.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2631)
 
 ## § 2631. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_ch42_schIV_ptE.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_s2632.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2631)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_ch42_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2632.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2631)
 
 ----------
 ----------

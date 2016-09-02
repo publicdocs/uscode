@@ -65,7 +65,7 @@
 
     (c) __Procurement authority__ 
 
-        The Administrator is the senior procurement executive for the Administration for the purposes of [section 414(3) of title 41][/us/usc/t41/s414/3]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        The Administrator is the senior procurement executive for the Administration for the purposes of [section 1702(c) of title 41][/us/usc/t41/s1702/c].
 
     (d) __Policy authority__ 
 
@@ -83,15 +83,13 @@
 
         (2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3212][/us/pl/106/65/s3212], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, §§ 3152(b), 3159(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464, 1654A–469; [Pub. L. 107–107, div. A, title X, § 1048(i)(12)][/us/pl/107/107/s1048/i/12], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230]; [Pub. L. 108–375, div. A, title IX, § 902(e)][/us/pl/108/375/s902/e], Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 110–417, div. C, title XXXI, § 3111][/us/pl/110/417/s3111], Oct. 14, 2008, [122 Stat. 4753][/us/stat/122/4753]; [Pub. L. 112–239, div. C, title XXXI, § 3132(d)(1)][/us/pl/112/239/s3132/d/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187].)
-
- __References in Text__ 
-
-    [Section 414 of title 41][/us/usc/t41/s414], referred to in subsec. (c), was amended generally by [Pub. L. 108–136, div. A, title XIV, § 1421(a)(1)][/us/pl/108/136/s1421/a/1], Nov. 24, 2003, [117 Stat. 1666][/us/stat/117/1666], and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. [Section 414(c) of title 41][/us/usc/t41/s414/c] was subsequently repealed and restated as [section 1702(c) of Title 41][/us/usc/t41/s1702/c], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+([Pub. L. 106–65, div. C, title XXXII, § 3212][/us/pl/106/65/s3212], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, §§ 3152(b), 3159(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464, 1654A–469; [Pub. L. 107–107, div. A, title X, § 1048(i)(12)][/us/pl/107/107/s1048/i/12], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230]; [Pub. L. 108–375, div. A, title IX, § 902(e)][/us/pl/108/375/s902/e], Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 110–417, div. C, title XXXI, § 3111][/us/pl/110/417/s3111], Oct. 14, 2008, [122 Stat. 4753][/us/stat/122/4753]; [Pub. L. 112–239, div. C, title XXXI, § 3132(d)(1)][/us/pl/112/239/s3132/d/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI, § 3145(a)][/us/pl/113/66/s3145/a], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239] made technical amendment to reference in original act which appears in text as reference to [section 7132 of title 42][/us/usc/t42/s7132].
+
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “[section 414(3) of title 41][/us/usc/t41/s414/3]”.
 
     2008—Subsec. (b)(18), (19). [Pub. L. 110–417][/us/pl/110/417] added par. (18) and redesignated former par. (18) as (19).
 
@@ -241,7 +239,7 @@
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132
 [/us/usc/t50/s2406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2406%2Fb
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/usc/t41/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2F3
+[/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481
 [/us/pl/106/65/s3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3212
@@ -256,16 +254,13 @@
 [/us/stat/122/4753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4753
 [/us/pl/112/239/s3132/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F1
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
-[/us/usc/t41/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414
-[/us/pl/108/136/s1421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1421%2Fa%2F1
-[/us/stat/117/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1666
-[/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
-[/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/66/s3145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fa
+[/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
+[/us/usc/t41/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2F3
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

@@ -15,7 +15,7 @@
 
 ## § 2501. Definitions
 
-    In this chapter:
+    Except as otherwise provided, in this chapter:
 
     (1) The term “Administration” means the National Nuclear Security Administration.
 
@@ -31,9 +31,11 @@
 
         (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-    (5) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+    (5) The terms “defense nuclear facility” and “Department of Energy defense nuclear facility” have the meaning given the term “Department of Energy defense nuclear facility” in [section 2286g of title 42][/us/usc/t42/s2286g].
 
-    (6)
+    (6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+
+    (7)
 
      The term “national security laboratory” means any of the following:
 
@@ -43,7 +45,9 @@
 
         (C) Lawrence Livermore National Laboratory, Livermore, California.
 
-    (7)
+    (8) The term “Nuclear Weapons Council” means the Nuclear Weapons Council established by [section 179 of title 10][/us/usc/t10/s179].
+
+    (9)
 
      The term “nuclear weapons production facility” means any of the following:
 
@@ -59,13 +63,17 @@
 
         (F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
 
-    (8) The term “restricted data” has the meaning given such term in [section 2014(y) of title 42][/us/usc/t42/s2014/y].
+    (10) The term “Restricted Data” has the meaning given such term in [section 2014(y) of title 42][/us/usc/t42/s2014/y].
 
-([Pub. L. 107–314, div. D, § 4002][/us/pl/107/314/s4002], as added [Pub. L. 108–136, div. C, title XXXI, § 3141(c)(2)][/us/pl/108/136/s3141/c/2], Nov. 24, 2003, [117 Stat. 1756][/us/stat/117/1756]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(a)(1)][/us/pl/112/239/s3131/a/1], Jan. 2, 2013, [126 Stat. 2179][/us/stat/126/2179].)
+([Pub. L. 107–314, div. D, § 4002][/us/pl/107/314/s4002], as added [Pub. L. 108–136, div. C, title XXXI, § 3141(c)(2)][/us/pl/108/136/s3141/c/2], Nov. 24, 2003, [117 Stat. 1756][/us/stat/117/1756]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(a)(1)][/us/pl/112/239/s3131/a/1], Jan. 2, 2013, [126 Stat. 2179][/us/stat/126/2179]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(1)][/us/pl/113/66/s3146/a/1], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section defined “congressional defense committees”.
+    2013—[Pub. L. 113–66, § 3146(a)(1)(A)][/us/pl/113/66/s3146/a/1/A], substituted “Except as otherwise provided, in this chapter” for “In this chapter” in introductory provisions.
+
+    [Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section defined “congressional defense committees”.
+
+    Pars. (5) to (10). [Pub. L. 113–66, § 3146(a)(1)(B)][/us/pl/113/66/s3146/a/1/B]–(E), added pars. (5) and (8), redesignated former pars. (5), (6), (7), and (8) as (6), (7), (9), and (10), respectively, and in par. (10), substituted “Restricted Data” for “restricted data”.
 
  __Short Title__ 
 
@@ -104,13 +112,19 @@
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t42/s2286g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286g
+[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
 [/us/pl/107/314/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4002
 [/us/pl/108/136/s3141/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fc%2F2
 [/us/stat/117/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1756
 [/us/pl/112/239/s3131/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fa%2F1
 [/us/stat/126/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2179
+[/us/pl/113/66/s3146/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1
+[/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
+[/us/pl/113/66/s3146/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1%2FA
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/s3146/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1%2FB
 [/us/pl/107/314/s4001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4001%2Fa
 [/us/stat/116/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2756
 [/us/pl/108/136/s3141/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fc%2F1%2FA

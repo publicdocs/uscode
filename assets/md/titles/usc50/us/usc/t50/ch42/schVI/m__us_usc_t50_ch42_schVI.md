@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schV/ptC/m__us_usc_t50_s2691.md) | [Next](./../../../../..//us/usc/t50/ch42/schVI/ptA/m__us_usc_t50_ch42_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVI)
+[Previous](./../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2675.md) | [Next](./../../../../..//us/usc/t50/ch42/schVI/ptA/m__us_usc_t50_ch42_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVI)
 
 ### SUBCHAPTER VI—PERSONNEL MATTERS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schV/ptC/m__us_usc_t50_s2691.md) | [Next](./../../../../..//us/usc/t50/ch42/schVI/ptA/m__us_usc_t50_ch42_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVI)
+[Previous](./../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2675.md) | [Next](./../../../../..//us/usc/t50/ch42/schVI/ptA/m__us_usc_t50_ch42_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVI)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2621.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2623.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2622)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2623.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2622)
 
 ## § 2622. Hanford waste tank cleanup program reforms
 
@@ -45,9 +45,11 @@
 
         The Office shall terminate on September 30, 2019. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4442][/us/pl/107/314/s4442], formerly [Pub. L. 105–261, div. C, title XXXI, § 3139][/us/pl/105/261/s3139], Oct. 17, 1998, [112 Stat. 2250][/us/stat/112/2250]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3141(b)–(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–463; [Pub. L. 107–107, div. C, title XXXI, § 3135][/us/pl/107/107/s3135], Dec. 28, 2001, [115 Stat. 1368][/us/stat/115/1368]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4442][/us/pl/107/314/s4442], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(17)][/us/pl/108/136/s3141/g/17], Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767]; [Pub. L. 112–81, div. C, title XXXI, § 3113][/us/pl/112/81/s3113], Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709].)
+([Pub. L. 107–314, div. D, title XLIV, § 4442][/us/pl/107/314/s4442], formerly [Pub. L. 105–261, div. C, title XXXI, § 3139][/us/pl/105/261/s3139], Oct. 17, 1998, [112 Stat. 2250][/us/stat/112/2250]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3141(b)–(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–463; [Pub. L. 107–107, div. C, title XXXI, § 3135][/us/pl/107/107/s3135], Dec. 28, 2001, [115 Stat. 1368][/us/stat/115/1368]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4442][/us/pl/107/314/s4442], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(17)][/us/pl/108/136/s3141/g/17], Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767]; [Pub. L. 112–81, div. C, title XXXI, § 3113][/us/pl/112/81/s3113], Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709]; [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(13)][/us/pl/113/66/s3146/e/13], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].)
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “responsible for managing all aspects” for “responsible for managing all aspects”.
 
     2011—Subsec. (b)(2). [Pub. L. 112–81, § 3113(1)][/us/pl/112/81/s3113/1], substituted “all aspects of the River Protection Project, Richland, Washington, including Hanford Tank Farm operations and the Waste Treatment Plant” for “, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington”.
 
@@ -71,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2621.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2623.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2622)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2623.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2622)
 
 ----------
 ----------
@@ -88,6 +90,9 @@
 [/us/stat/117/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1767
 [/us/pl/112/81/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3113
 [/us/stat/125/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1709
+[/us/pl/113/66/s3146/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F13
+[/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s3113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3113%2F1
 [/us/pl/112/81/s3113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3113%2F2
 [/us/pl/112/81/s3113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3113%2F3

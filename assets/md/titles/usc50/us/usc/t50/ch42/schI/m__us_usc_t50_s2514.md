@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2513.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/m__us_usc_t50_ch42_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2514)
+[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2513.md) | [Next](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2515.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2514)
 
 ## § 2514. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2513.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/m__us_usc_t50_ch42_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2514)
+[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2513.md) | [Next](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2515.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2514)
 
 ----------
 ----------

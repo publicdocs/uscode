@@ -21,7 +21,7 @@
 
     (b) __Fund operations__ 
 
-        (1) All moneys received from the sale of materials in the stockpile under paragraphs (5) and (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a] shall be covered into the fund.
+        (1) All moneys received from the sale of materials in the stockpile under paragraphs (5) and (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be covered into the fund.
 
         (2)
 
@@ -33,13 +33,15 @@
 
             (C) Development of current specifications of stockpile materials and the upgrading of existing stockpile materials to meet current specifications (including transportation, when economical, related to such upgrading).
 
-            (D) Testing and quality studies of stockpile materials.
+            (D) Encouraging the appropriate conservation of strategic and critical materials.
 
-            (E) Studying future material and mobilization requirements for the stockpile.
+            (E) Testing and quality studies of stockpile materials.
 
-            (F) Activities authorized under [section 98h–6 of this title][/us/usc/t50/s98h–6].
+            (F) Studying future material and mobilization requirements for the stockpile.
 
-            (G)
+            (G) Activities authorized under [section 98h–6 of this title][/us/usc/t50/s98h–6].
+
+            (H)
 
              Contracting under competitive procedures for materials development and research to—
 
@@ -47,15 +49,15 @@
 
                 (ii) develop new materials for the stockpile.
 
-            (H) Improvement or rehabilitation of facilities, structures, and infrastructure needed to maintain the integrity of stockpile materials.
+            (I) Improvement or rehabilitation of facilities, structures, and infrastructure needed to maintain the integrity of stockpile materials.
 
-            (I) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
+            (J) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
 
-            (J) Performance of environmental remediation, restoration, waste management, or compliance activities at locations of the stockpile that are required under a Federal law or are undertaken by the Government under an administrative decision or negotiated agreement.
+            (K) Performance of environmental remediation, restoration, waste management, or compliance activities at locations of the stockpile that are required under a Federal law or are undertaken by the Government under an administrative decision or negotiated agreement.
 
-            (K) Pay of employees of the National Defense Stockpile program.
+            (L) Pay of employees of the National Defense Stockpile program.
 
-            (L) Other expenses of the National Defense Stockpile program.
+            (M) Other expenses of the National Defense Stockpile program.
 
         (3) Moneys in the fund shall remain available until expended.
 
@@ -73,13 +75,19 @@
 
         (3) not increase or decrease the balance in the fund.
 
-([June 7, 1939, ch. 190, § 9][/us/act/1939-06-07/ch190/s9], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 97–35, title II, § 203(d)][/us/pl/97/35/s203/d], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3203(a)][/us/pl/99/661/s3203/a], Nov. 14, 1986, [100 Stat. 4067][/us/stat/100/4067]; [Pub. L. 100–180, div. C, title II, § 3204][/us/pl/100/180/s3204], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 101–189, div. C, title XXXIII, § 3312(b)][/us/pl/101/189/s3312/b], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII, § 3301(c)][/us/pl/101/510/s3301/c], Nov. 5, 1990, [104 Stat. 1845][/us/stat/104/1845]; [Pub. L. 102–190, div. C, title XXXIII, § 3311(a)][/us/pl/102/190/s3311/a], Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 102–484, div. C, title XXXIII, § 3313][/us/pl/102/484/s3313], Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 103–160, div. C, title XXXIII, § 3313][/us/pl/103/160/s3313], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 105–261, div. C, title XXXIII, § 3304][/us/pl/105/261/s3304], Oct. 17, 1998, [112 Stat. 2264][/us/stat/112/2264].)
+([June 7, 1939, ch. 190, § 9][/us/act/1939-06-07/ch190/s9], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 97–35, title II, § 203(d)][/us/pl/97/35/s203/d], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3203(a)][/us/pl/99/661/s3203/a], Nov. 14, 1986, [100 Stat. 4067][/us/stat/100/4067]; [Pub. L. 100–180, div. C, title II, § 3204][/us/pl/100/180/s3204], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 101–189, div. C, title XXXIII, § 3312(b)][/us/pl/101/189/s3312/b], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII, § 3301(c)][/us/pl/101/510/s3301/c], Nov. 5, 1990, [104 Stat. 1845][/us/stat/104/1845]; [Pub. L. 102–190, div. C, title XXXIII, § 3311(a)][/us/pl/102/190/s3311/a], Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 102–484, div. C, title XXXIII, § 3313][/us/pl/102/484/s3313], Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 103–160, div. C, title XXXIII, § 3313][/us/pl/103/160/s3313], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 105–261, div. C, title XXXIII, § 3304][/us/pl/105/261/s3304], Oct. 17, 1998, [112 Stat. 2264][/us/stat/112/2264]; [Pub. L. 113–66, div. A, title XIV, § 1411(b)][/us/pl/113/66/s1411/b], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
+
+ __References in Text__ 
+
+    Paragraphs (5) and (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a], referred to in subsec. (b)(1), were redesignated as paragraphs (6) and (7) of [section 98e(a) of this title][/us/usc/t50/s98e/a] by [Pub. L. 113–66, div. A, title XIV, § 1411(a)][/us/pl/113/66/s1411/a], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
 
  __Prior Provisions__ 
 
     A prior section 98h, [act June 7, 1939, ch. 190, § 9][/us/act/1939-06-07/ch190/s9], as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 600][/us/stat/60/600], related to disposition of receipts, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98h(b)(1) of this title][/us/usc/t50/s98h/b/1].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2)(D) to (M). [Pub. L. 113–66][/us/pl/113/66] added subpar. (D) and redesignated former subpars. (D) to (L) as (E) to (M), respectively.
 
     1998—Subsec. (b)(2)(J) to (L). [Pub. L. 105–261][/us/pl/105/261] added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
@@ -161,11 +169,18 @@
 [/us/stat/107/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1962
 [/us/pl/105/261/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3304
 [/us/stat/112/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2264
+[/us/pl/113/66/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fb
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
+[/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
+[/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
+[/us/pl/113/66/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fa
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/act/1939-06-07/ch190/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs9
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F600
 [/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
 [/us/usc/t50/s98h/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/160/s3313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3313%2Fa
 [/us/pl/103/160/s3313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3313%2Fb

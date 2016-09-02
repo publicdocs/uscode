@@ -15,9 +15,9 @@
 
 ## § 2533. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities
 
-    (a) __Reports by heads of laboratories and plants__ 
+    (a) __Reports by heads of laboratories and facilities__ 
 
-        In the event of a difficulty at a national security laboratory or a nuclear weapons production facility that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or plant, as the case may be, shall submit to the Administrator a report on the difficulty. The head of the laboratory or plant shall submit the report as soon as practicable after discovery of the difficulty.
+        In the event of a difficulty at a national security laboratory or a nuclear weapons production facility that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or facility, as the case may be, shall submit to the Administrator a report on the difficulty. The head of the laboratory or facility shall submit the report as soon as practicable after discovery of the difficulty.
 
     (b) __Transmittal by Administrator__ 
 
@@ -25,11 +25,11 @@
 
     (c) __Omitted__ 
 
-    (d) __Inclusion of reports in annual stockpile certification__ 
+    (d) __Inclusion of reports in annual stockpile assessment__ 
 
-        Any report submitted pursuant to subsection (a) shall also be included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President for the year in which such report is submitted.
+        Any report submitted pursuant to subsection (a) shall also be submitted to the President and Congress with the matters required to be submitted under [section 2525(f) of this title][/us/usc/t50/s2525/f] for the year in which such report is submitted.
 
-([Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159][/us/pl/104/201/s3159], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], § 4218(c), (d), formerly [Pub. L. 105–85, div. A, title XIII, § 1305(c)][/us/pl/105/85/s1305/c], (d), Nov. 18, 1997, [111 Stat. 1954][/us/stat/111/1954]; [Pub. L. 106–65, div. C, title XXXI, § 3163(f)][/us/pl/106/65/s3163/f], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(c)][/us/pl/107/314/s4218/c], (d), and amended [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(f)(1), 3164(a)(3), Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181], 2206.)
+([Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159][/us/pl/104/201/s3159], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], § 4218(b), (c), formerly [Pub. L. 105–85, div. A, title XIII, § 1305(c)][/us/pl/105/85/s1305/c], (d), Nov. 18, 1997, [111 Stat. 1954][/us/stat/111/1954]; [Pub. L. 106–65, div. C, title XXXI, § 3163(f)][/us/pl/106/65/s3163/f], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(c)][/us/pl/107/314/s4218/c], (d), and amended [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(f)(1), 3164(a)(3), Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181], 2206; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(b)][/us/pl/107/314/s4218/b], (c), and amended [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(7)][/us/pl/113/66/s3146/c/7], (10)(B), Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074], 1075.)
 
  __Codification__ 
 
@@ -39,19 +39,25 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 3164(a)(3)][/us/pl/112/239/s3164/a/3], renumbered [Pub. L. 105–85, § 1305(c)][/us/pl/105/85/s1305/c], (d), as [Pub. L. 107–314, § 4218(c)][/us/pl/107/314/s4218/c], (d). See 1997 Amendment note below.
+    2013—[Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], renumbered [Pub. L. 107–314, § 4218(c)][/us/pl/107/314/s4218/c], (d), as § 4218(b), (c). See 1997 Amendment note below.
+
+    [Pub. L. 112–239, § 3164(a)(3)][/us/pl/112/239/s3164/a/3], renumbered [Pub. L. 105–85, § 1305(c)][/us/pl/105/85/s1305/c], (d), as [Pub. L. 107–314, § 4218(c)][/us/pl/107/314/s4218/c], (d). See 1997 Amendment note below.
 
     [Pub. L. 112–239, § 3131(f)(1)(A)][/us/pl/112/239/s3131/f/1/A], substituted “national security laboratories and nuclear weapons production facilities” for “nuclear weapons laboratories and nuclear weapons production plants” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–239, § 3131(f)(1)(B)][/us/pl/112/239/s3131/f/1/B], in first sentence, substituted “national security laboratory” for “nuclear weapons laboratory”, “production facility” for “production plant”, and “Administrator” for “Assistant Secretary of Energy for Defense Programs”.
+    Subsec. (a). [Pub. L. 113–66, § 3146(c)(7)(A)][/us/pl/113/66/s3146/c/7/A], substituted “facilities” for “plants” in heading and “facility” for “plant” after “the laboratory or” in two places in text.
+
+    [Pub. L. 112–239, § 3131(f)(1)(B)][/us/pl/112/239/s3131/f/1/B], in first sentence, substituted “national security laboratory” for “nuclear weapons laboratory”, “production facility” for “production plant”, and “Administrator” for “Assistant Secretary of Energy for Defense Programs”.
 
     Subsec. (b). [Pub. L. 112–239, § 3131(f)(1)(C)][/us/pl/112/239/s3131/f/1/C], substituted “Administrator” for “Assistant Secretary” in heading and in two places in text.
+
+    Subsec. (d). [Pub. L. 113–66, § 3146(c)(7)(B)][/us/pl/113/66/s3146/c/7/B], substituted “assessment” for “certification” in heading and “submitted to the President and Congress with the matters required to be submitted under [section 2525(f) of this title][/us/usc/t50/s2525/f]” for “included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President” in text.
 
     Subsec. (e). [Pub. L. 112–239, § 3131(f)(1)(D)][/us/pl/112/239/s3131/f/1/D], struck out subsec. (e), which defined terms “nuclear weapons laboratory” and “nuclear weapons production plant”.
 
     1999—Subsecs. (d), (e). [Pub. L. 106–65][/us/pl/106/65] added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    1997—Subsec. (b). [Pub. L. 107–314, § 4218(c)][/us/pl/107/314/s4218/c], (d), formerly [Pub. L. 105–85, § 1305(c)][/us/pl/105/85/s1305/c], (d), substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
+    1997—Subsec. (b). [Pub. L. 107–314, § 4218(b)][/us/pl/107/314/s4218/b], (c), formerly § 4218(c), (d), formerly [Pub. L. 105–85, § 1305(c)][/us/pl/105/85/s1305/c], (d), substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
 
  __Transfer of Functions__ 
 
@@ -66,6 +72,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s2525/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2525%2Ff
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/pl/104/201/s3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3159
 [/us/stat/110/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2842
@@ -82,19 +89,27 @@
 [/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2181
+[/us/pl/107/314/s4218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fb
+[/us/pl/113/66/s3146/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F7
+[/us/stat/127/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1074
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
+[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
+[/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
 [/us/pl/112/239/s3164/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fa%2F3
 [/us/pl/105/85/s1305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1305%2Fc
 [/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
 [/us/pl/112/239/s3131/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Ff%2F1%2FA
+[/us/pl/113/66/s3146/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F7%2FA
 [/us/pl/112/239/s3131/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Ff%2F1%2FB
 [/us/pl/112/239/s3131/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Ff%2F1%2FC
+[/us/pl/113/66/s3146/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F7%2FB
+[/us/usc/t50/s2525/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2525%2Ff
 [/us/pl/112/239/s3131/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Ff%2F1%2FD
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
+[/us/pl/107/314/s4218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fb
 [/us/pl/105/85/s1305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1305%2Fc
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481

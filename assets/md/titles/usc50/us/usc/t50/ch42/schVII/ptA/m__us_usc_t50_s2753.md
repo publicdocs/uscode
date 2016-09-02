@@ -45,11 +45,11 @@
 
                 Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
 
-        (3) __Defense environmental management projects__ 
+        (3) __Defense environmental cleanup projects__ 
 
             (A) __In general__ 
 
-            The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental management project that is—
+            The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental cleanup project that is—
 
                 (i) in excess of $50,000,000; and
 
@@ -91,11 +91,15 @@
 
         (2) be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
 
-([Pub. L. 107–314, div. D, title XLVII, § 4713][/us/pl/107/314/s4713], as added [Pub. L. 111–383, div. C, title XXXI, § 3114(a)][/us/pl/111/383/s3114/a], Jan. 7, 2011, [124 Stat. 4510][/us/stat/124/4510]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(t)][/us/pl/112/239/s3131/t], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184].)
+([Pub. L. 107–314, div. D, title XLVII, § 4713][/us/pl/107/314/s4713], as added [Pub. L. 111–383, div. C, title XXXI, § 3114(a)][/us/pl/111/383/s3114/a], Jan. 7, 2011, [124 Stat. 4510][/us/stat/124/4510]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(t)][/us/pl/112/239/s3131/t], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(h)(4)][/us/pl/113/66/s3146/h/4], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(1)(A). [Pub. L. 112–239][/us/pl/112/239] struck out “for Nuclear Security” after “Administrator” and struck out “National Nuclear Security” after “life extension project of the”.
+
+    Subsec. (a)(3). [Pub. L. 113–66, § 3146(h)(4)(A)][/us/pl/113/66/s3146/h/4/A], substituted “cleanup” for “management” in heading.
+
+    Subsec. (a)(3)(A). [Pub. L. 113–66, § 3146(h)(4)(B)][/us/pl/113/66/s3146/h/4/B], substituted “environmental cleanup” for “environmental management” in introductory provisions.
 
 ----------
 
@@ -109,6 +113,10 @@
 [/us/stat/124/4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4510
 [/us/pl/112/239/s3131/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Ft
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
+[/us/pl/113/66/s3146/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F4
+[/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/s3146/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F4%2FA
+[/us/pl/113/66/s3146/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F4%2FB
 
 

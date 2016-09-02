@@ -11,16 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2611.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptD)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2625.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptD)
 
-#### Part D—Hanford Reservation, Washington
+#### Part D—Savannah River Site, South Carolina
+
+ __Prior Provisions__ 
+
+    A prior part D, consisting of sections 2621 to 2624, was redesignated part C of this subchapter by [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(16)(C)][/us/pl/113/66/s3146/e/16/C], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].
+
+ __Amendments__ 
+
+    2013—[Pub. L. 113–66, div. C, title XXXI, § 3146(e)(16)(C)][/us/pl/113/66/s3146/e/16/C], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078], redesignated part E as D.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2611.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptD)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2625.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptD)
 
 ----------
 ----------
 
+[/us/pl/113/66/s3146/e/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F16%2FC
+[/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
+[/us/pl/113/66/s3146/e/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F16%2FC
+[/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
 
 

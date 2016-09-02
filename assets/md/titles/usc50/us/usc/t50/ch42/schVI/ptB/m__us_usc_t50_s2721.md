@@ -33,15 +33,17 @@
 
         (5) Methods for conducting long-range technical and budget planning.
 
-        (6) Procedures for reviewing and applying innovative technology to environmental restoration and defense waste management.
+        (6) Procedures for reviewing and applying innovative technology to defense environmental cleanup.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4621][/us/pl/107/314/s4621], formerly [Pub. L. 101–189, div. C, title XXXI, § 3142][/us/pl/101/189/s3142], Nov. 29, 1989, [103 Stat. 1680][/us/stat/103/1680]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4621][/us/pl/107/314/s4621], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(8)][/us/pl/108/136/s3141/i/8], Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778].)
+([Pub. L. 107–314, div. D, title XLVI, § 4621][/us/pl/107/314/s4621], formerly [Pub. L. 101–189, div. C, title XXXI, § 3142][/us/pl/101/189/s3142], Nov. 29, 1989, [103 Stat. 1680][/us/stat/103/1680]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4621][/us/pl/107/314/s4621], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(8)][/us/pl/108/136/s3141/i/8], Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(6)][/us/pl/113/66/s3146/g/6], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7236 of Title 42][/us/usc/t42/s7236], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(6). [Pub. L. 113–66][/us/pl/113/66] substituted “defense environmental cleanup” for “environmental restoration and defense waste management”.
 
     2003—[Pub. L. 108–136, § 3141(i)(8)(D)][/us/pl/108/136/s3141/i/8/D], made technical amendment to section catchline.
 
@@ -58,8 +60,11 @@
 [/us/pl/107/314/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4621
 [/us/pl/108/136/s3141/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F8
 [/us/stat/117/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1778
+[/us/pl/113/66/s3146/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F6
+[/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s7236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7236
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/108/136/s3141/i/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F8%2FD
 
 

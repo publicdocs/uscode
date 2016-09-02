@@ -21,7 +21,7 @@
 
     (b) __Cooperative research and development centers__ 
 
-        (1) Subject to the availability of appropriations provided for such purpose, the Administrator for Nuclear Security shall establish a cooperative research and development center described in paragraph (2) at each national security laboratory.
+        (1) Subject to the availability of appropriations provided for such purpose, the Administrator shall establish a cooperative research and development center described in paragraph (2) at each national security laboratory.
 
         (2) A cooperative research and development center described in this paragraph is a center to foster collaborative scientific research, technology development, and the appropriate transfer of research and technology to users in addition to the national security laboratories.
 
@@ -45,21 +45,7 @@
 
             (B) that has military applications and nonmilitary applications; and
 
-            (C)
-
-             that either—
-
-                (i)
-
-                    (I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 42; and
-
-                    (II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
-
-                (ii)
-
-                    (I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 1 of title 10; and
-
-                    (II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.
+            (C) that is a defense critical technology (as defined in [section 2500 of title 10][/us/usc/t10/s2500]).
 
         (2) The term “cooperative research and development agreement” has the meaning given that term by [section 3710a(d) of title 15][/us/usc/t15/s3710a/d].
 
@@ -77,19 +63,15 @@
 
                 (ii) Departments and agencies of the Federal Government other than the Department of Energy.
 
-                (iii) Agencies of State Governments.
+                (iii) Agencies of State governments.
 
                 (iv) Any other persons or entities that may be eligible and appropriate, as determined in accordance with applicable laws and regulations.
 
         (4) The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], formerly [Pub. L. 102–190, div. C, title XXXI, § 3136][/us/pl/102/190/s3136], Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II, § 203(b)(3)][/us/pl/103/35/s203/b/3], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(8)][/us/pl/108/136/s3141/k/8], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI, § 3115(a)][/us/pl/111/383/s3115/a], Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI, § 3131(x)][/us/pl/112/239/s3131/x], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184].)
+([Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], formerly [Pub. L. 102–190, div. C, title XXXI, § 3136][/us/pl/102/190/s3136], Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II, § 203(b)(3)][/us/pl/103/35/s203/b/3], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(8)][/us/pl/108/136/s3141/k/8], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI, § 3115(a)][/us/pl/111/383/s3115/a], Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI, § 3131(x)][/us/pl/112/239/s3131/x], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(5)][/us/pl/113/66/s3146/i/5], Dec. 26, 2013, [127 Stat. 1082][/us/stat/127/1082].)
 
  __References in Text__ 
-
-    [Section 6683 of title 42][/us/usc/t42/s6683], referred to in subsec. (c)(1)(C)(i)(I), was omitted from the Code.
-
-    [Section 2506 of title 10][/us/usc/t10/s2506], referred to in subsec. (c)(1)(C)(ii)(I), was amended generally by [Pub. L. 104–201, div. A, title VIII, § 829(d)][/us/pl/104/201/s829/d], Sept. 23, 1996, [110 Stat. 2613][/us/stat/110/2613], and, as so amended, no longer relates to submission of a plan to Congress.
 
     Executive Order No. 12344, dated February 1, 1982, referred to in subsec. (c)(4), is set out as a note under [section 2511 of this title][/us/usc/t50/s2511].
 
@@ -99,7 +81,21 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239] struck out par. (5) which read as follows: “The term ‘national security laboratory’ has the meaning given that term in [section 2471 of this title][/us/usc/t50/s2471].”
+    2013—Subsec. (b)(1). [Pub. L. 113–66, § 3146(i)(5)(A)][/us/pl/113/66/s3146/i/5/A], struck out “for Nuclear Security” after “Administrator”.
+
+    Subsec. (c)(1)(C). [Pub. L. 113–66, § 3146(i)(5)(B)(i)][/us/pl/113/66/s3146/i/5/B/i], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “that either—
+
+    “(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to [section 6683(d) of title 42][/us/usc/t42/s6683/d]; and
+
+    “(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
+
+    “(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to [section 2506 of title 10][/us/usc/t10/s2506]; and
+
+    “(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.”
+
+    Subsec. (c)(3)(B)(iii). [Pub. L. 113–66, § 3146(i)(5)(B)(ii)][/us/pl/113/66/s3146/i/5/B/ii], substituted “governments” for “Governments”.
+
+    Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239] struck out par. (5) which read as follows: “The term ‘national security laboratory’ has the meaning given that term in [section 2471 of this title][/us/usc/t50/s2471].”
 
     2011—[Pub. L. 111–383, § 3115(a)(3)][/us/pl/111/383/s3115/a/3], inserted “and cooperative research and development centers” after “partnerships” in section catchline.
 
@@ -160,6 +156,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500
 [/us/usc/t15/s3710a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fd
 [/us/pl/107/314/s4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4813
 [/us/pl/102/190/s3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3136
@@ -173,13 +170,16 @@
 [/us/stat/124/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4511
 [/us/pl/112/239/s3131/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fx
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
-[/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
-[/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
-[/us/pl/104/201/s829/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fd
-[/us/stat/110/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2613
+[/us/pl/113/66/s3146/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5
+[/us/stat/127/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1082
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/usc/t42/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2123
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66/s3146/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FA
+[/us/pl/113/66/s3146/i/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FB%2Fi
+[/us/usc/t42/s6683/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683%2Fd
+[/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
+[/us/pl/113/66/s3146/i/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FB%2Fii
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
 [/us/pl/111/383/s3115/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3115%2Fa%2F3

@@ -23,13 +23,17 @@
 
     (b) __Disposal__ 
 
-        Except for disposals made under the authority of paragraph (3), (4), or (5) of [section 98e(a) of this title][/us/usc/t50/s98e/a] or under [section 98f(a) of this title][/us/usc/t50/s98f/a], no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+        Except for disposals made under the authority of paragraph (3), (4), or (5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of [section 98e(a) of this title][/us/usc/t50/s98e/a] or under [section 98f(a) of this title][/us/usc/t50/s98f/a], no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
 
     (c) __Authorization of appropriations__ 
 
         There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
 ([June 7, 1939, ch. 190, § 5][/us/act/1939-06-07/ch190/s5], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 321][/us/stat/93/321]; amended [Pub. L. 97–35, title II, § 203(a)][/us/pl/97/35/s203/a], (b), Aug. 13, 1981, [95 Stat. 381][/us/stat/95/381], 382; [Pub. L. 98–525, title IX, § 903][/us/pl/98/525/s903], Oct. 19, 1984, [98 Stat. 2573][/us/stat/98/2573]; [Pub. L. 99–661, div. C, title II, § 3207(a)(2)][/us/pl/99/661/s3207/a/2], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 100–180, div. C, title II, § 3206(a)][/us/pl/100/180/s3206/a], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 102–484, div. C, title XXXIII, § 3312][/us/pl/102/484/s3312], Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 103–160, div. C, title XXXIII, § 3312][/us/pl/103/160/s3312], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962].)
+
+ __References in Text__ 
+
+    Paragraph (5) of [section 98e(a) of this title][/us/usc/t50/s98e/a], referred to in subsec. (b), was redesignated paragraph (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a] by [Pub. L. 113–66, div. A, title XIV, § 1411(a)][/us/pl/113/66/s1411/a], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
 
  __Prior Provisions__ 
 
@@ -76,6 +80,8 @@
  __Materials in the National Defense Stockpile__ 
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+    [Pub. L. 113–66, div. A, title XIV, § 1412][/us/pl/113/66/s1412], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
 
     [Pub. L. 110–181, div. A, title XIV][/us/pl/110/181], §§ 1413, 1414, Jan. 28, 2008, [122 Stat. 418][/us/stat/122/418], 419.
 
@@ -177,6 +183,10 @@ Provisions relating to certain materials in the National Defense Stockpile were 
 [/us/stat/106/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2653
 [/us/pl/103/160/s3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3312
 [/us/stat/107/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1962
+[/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
+[/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
+[/us/pl/113/66/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fa
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/act/1939-06-07/ch190/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs5
 [/us/stat/53/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F812
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
@@ -204,6 +214,8 @@ Provisions relating to certain materials in the National Defense Stockpile were 
 [/us/stat/99/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F776
 [/us/pl/99/661/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3201
 [/us/stat/100/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4067
+[/us/pl/113/66/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1412
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F418
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

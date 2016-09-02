@@ -853,7 +853,9 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
  __Extension of Term of National Industrial Security Program Policy Advisory Committee__ 
 
-    Term of the National Industrial Security Program Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of the National Industrial Security Program Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of the National Industrial Security Program Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Ex. Ord. No. 12937. Declassification of Selected Records Within National Archives of United States__ 
 
@@ -2713,7 +2715,9 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 
  __Extension of Term of State, Local, Tribal, and Private Sector Policy Advisory Committee__ 
 
-    Term of the State, Local, Tribal, and Private Sector Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of State, Local, Tribal, and Private Sector Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of State, Local, Tribal, and Private Sector Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Ex. Ord. No. 13587. Structural Reforms To Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2409.md) | [Next](./../../../../..//us/usc/t50/ch41/schII/m__us_usc_t50_ch41_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410)
+[Previous](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2409.md) | [Next](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2411.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410)
 
 ## § 2410. Status of Administration and contractor personnel within Department of Energy
 
@@ -57,13 +57,15 @@
 
         Notwithstanding the restrictions of subsections (a) and (b), each officer or employee of the Administration, or of a contractor of the Administration, who is carrying out activities related to intelligence or counterintelligence shall, in carrying out those activities, be subject to the authority, direction, and control of the Secretary of Energy or the Secretary’s delegate.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3220][/us/pl/106/65/s3220], formerly § 3213, Oct. 5, 1999, [113 Stat. 958][/us/stat/113/958]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3157\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–468; renumbered § 3220, [Pub. L. 107–107, div. C, title XXXI, § 3141(a)(1)][/us/pl/107/107/s3141/a/1], Dec. 28, 2001, [115 Stat. 1370][/us/stat/115/1370]; [Pub. L. 109–364, div. C, title XXXI, § 3117(a)(2)(B)][/us/pl/109/364/s3117/a/2/B], (d), Oct. 17, 2006, [120 Stat. 2507][/us/stat/120/2507], 2508; [Pub. L. 111–84, div. C, title XXXI, § 3121][/us/pl/111/84/s3121], Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710].)
+([Pub. L. 106–65, div. C, title XXXII, § 3220][/us/pl/106/65/s3220], formerly § 3213, Oct. 5, 1999, [113 Stat. 958][/us/stat/113/958]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3157\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–468; renumbered § 3220, [Pub. L. 107–107, div. C, title XXXI, § 3141(a)(1)][/us/pl/107/107/s3141/a/1], Dec. 28, 2001, [115 Stat. 1370][/us/stat/115/1370]; [Pub. L. 109–364, div. C, title XXXI, § 3117(a)(2)(B)][/us/pl/109/364/s3117/a/2/B], (d), Oct. 17, 2006, [120 Stat. 2507][/us/stat/120/2507], 2508; [Pub. L. 111–84, div. C, title XXXI, § 3121][/us/pl/111/84/s3121], Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710]; [Pub. L. 113–66, div. C, title XXXI, § 3145(b)][/us/pl/113/66/s3145/b], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Codification__ 
 
     Section was formerly classified to [section 2403 of this title][/us/usc/t50/s2403].
 
  __Amendments__ 
+
+    2013—Subsecs. (a)(1)(A), (b). [Pub. L. 113–66][/us/pl/113/66] made technical amendment to reference in original act which appears in text as reference to [section 7132(c)(3) of title 42][/us/usc/t42/s7132/c/3].
 
     2009—Subsec. (e). [Pub. L. 111–84][/us/pl/111/84] amended [Pub. L. 109–364, § 3117(a)][/us/pl/109/364/s3117/a]. See 2006 Amendment note below.
 
@@ -79,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2409.md) | [Next](./../../../../..//us/usc/t50/ch41/schII/m__us_usc_t50_ch41_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410)
+[Previous](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2409.md) | [Next](./../../../../..//us/usc/t50/ch41/schI/m__us_usc_t50_s2411.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410)
 
 ----------
 ----------
@@ -96,7 +98,11 @@
 [/us/stat/120/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2507
 [/us/pl/111/84/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3121
 [/us/stat/123/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2710
+[/us/pl/113/66/s3145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fb
+[/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/usc/t50/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2403
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/usc/t42/s7132/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132%2Fc%2F3
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/364/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Fa
 [/us/pl/109/364/s3117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Fa

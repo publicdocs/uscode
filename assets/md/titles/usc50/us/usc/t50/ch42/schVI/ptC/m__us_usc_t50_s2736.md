@@ -17,7 +17,7 @@
 
     (a) __Notification__ 
 
-        The Secretary of Energy and the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
+        The Secretary of Energy or the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
 
     (b) __Elements of notification__ 
 
@@ -75,7 +75,11 @@
 
             (B) defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4646][/us/pl/107/314/s4646], as added [Pub. L. 112–239, div. C, title XXXI, § 3142(a)(1)][/us/pl/112/239/s3142/a/1], Jan. 2, 2013, [126 Stat. 2194][/us/stat/126/2194].)
+([Pub. L. 107–314, div. D, title XLVI, § 4646][/us/pl/107/314/s4646], as added [Pub. L. 112–239, div. C, title XXXI, § 3142(a)(1)][/us/pl/112/239/s3142/a/1], Jan. 2, 2013, [126 Stat. 2194][/us/stat/126/2194]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(13)][/us/pl/113/66/s3146/g/13], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+
+ __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] substituted “Energy or” for “Energy and”.
 
 ----------
 
@@ -87,5 +91,8 @@
 [/us/pl/107/314/s4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4646
 [/us/pl/112/239/s3142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3142%2Fa%2F1
 [/us/stat/126/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2194
+[/us/pl/113/66/s3146/g/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F13
+[/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

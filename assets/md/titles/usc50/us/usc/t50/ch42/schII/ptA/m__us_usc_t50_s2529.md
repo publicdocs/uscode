@@ -63,13 +63,15 @@
 
             (B) in production as of that date.
 
-([Pub. L. 107–314, div. D, title XLII, § 4209][/us/pl/107/314/s4209], formerly div. C, title XXXI, § 3143, Dec. 2, 2002, [116 Stat. 2733][/us/stat/116/2733]; renumbered div. D, title XLII, § 4209, by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(10)][/us/pl/108/136/s3141/e/10], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3115][/us/pl/111/84/s3115], Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707].)
+([Pub. L. 107–314, div. D, title XLII, § 4209][/us/pl/107/314/s4209], formerly div. C, title XXXI, § 3143, Dec. 2, 2002, [116 Stat. 2733][/us/stat/116/2733]; renumbered div. D, title XLII, § 4209, by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(10)][/us/pl/108/136/s3141/e/10], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3115][/us/pl/111/84/s3115], Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707]; [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(5)][/us/pl/113/66/s3146/c/5], Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7271d of Title 42][/us/usc/t42/s7271d], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Subsec. (d). [Pub. L. 113–66][/us/pl/113/66] made technical amendment to reference in original act which appears in text as reference to “December 2, 2002” in two places.
 
     2009—Subsec. (c). [Pub. L. 111–84, § 3115(1)][/us/pl/111/84/s3115/1], substituted “necessary to address proliferation concerns.” for “necessary—
 
@@ -101,8 +103,11 @@
 [/us/stat/117/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1759
 [/us/pl/111/84/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3115
 [/us/stat/123/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2707
+[/us/pl/113/66/s3146/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F5
+[/us/stat/127/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1074
 [/us/usc/t42/s7271d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7271d
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s3115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3115%2F1
 [/us/pl/111/84/s3115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3115%2F2
 [/us/pl/108/136/s3116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3116%2Fc

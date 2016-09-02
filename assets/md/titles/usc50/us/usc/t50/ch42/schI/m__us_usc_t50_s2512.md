@@ -63,6 +63,12 @@
 
     2003—Subsec. (d)(2). [Pub. L. 108–136, § 3141(d)(3)(D)][/us/pl/108/136/s3141/d/3/D], substituted “January 21, 1997,” for “120 days after the date of the enactment of this Act,”.
 
+ __Clarification of Role of Secretary of Energy__ 
+
+[Pub. L. 113–66, div. C, title XXXI, § 3141][/us/pl/113/66/s3141], Dec. 26, 2013, [127 Stat. 1069][/us/stat/127/1069], provided that: 
+
+> “The amendment made by section 3113 of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [126 Stat. 2169][/us/stat/126/2169]) to section 4102 of the Atomic Energy Defense Act ([50 U.S.C. 2512][/us/usc/t50/s2512]) may not be construed as affecting the authority of the Secretary of Energy, in carrying out national security programs, with respect to the management, planning, and oversight of the National Nuclear Security Administration or as affecting the delegation by the Secretary of authority to carry out such activities, as set forth under subsection (a) of such section 4102 as it existed before the amendment made by such section 3113.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2511.md) | [Next](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2513.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2512)
@@ -86,5 +92,10 @@
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/108/136/s3141/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fd%2F3%2FD
+[/us/pl/113/66/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3141
+[/us/stat/127/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1069
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/stat/126/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2169
+[/us/usc/t50/s2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2512
 
 

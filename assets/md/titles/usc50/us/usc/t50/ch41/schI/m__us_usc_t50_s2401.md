@@ -35,15 +35,25 @@
 
         (6) To support United States leadership in science and technology.
 
-    (c) __Operations and activities to be carried out consistent with certain principles__ 
+    (c) __Operations and activities to be carried out consistently with certain principles__ 
 
-        In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.
+    In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of—
 
-([Pub. L. 106–65, div. C, title XXXII, § 3211][/us/pl/106/65/s3211], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957].)
+        (1) protecting the environment;
+
+        (2) safeguarding the safety and health of the public and of the workforce of the Administration; and
+
+        (3) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
+
+([Pub. L. 106–65, div. C, title XXXII, § 3211][/us/pl/106/65/s3211], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 113–66, div. C, title XXXI, § 3111][/us/pl/113/66/s3111], Dec. 26, 2013, [127 Stat. 1049][/us/stat/127/1049].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of [Pub. L. 106–65][/us/pl/106/65], Oct. 5, 1999, [113 Stat. 953][/us/stat/113/953], as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+
+ __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] amended subsec. (c) generally. Prior to amendment, text read as follows: “In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.”
 
  __Effective Date__ 
 
@@ -160,8 +170,11 @@
 
 [/us/pl/106/65/s3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3211
 [/us/stat/113/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F957
+[/us/pl/113/66/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3111
+[/us/stat/127/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1049
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132

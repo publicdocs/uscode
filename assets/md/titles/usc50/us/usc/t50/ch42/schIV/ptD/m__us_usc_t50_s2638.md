@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_s2637.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/m__us_usc_t50_ch42_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2638)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2633.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/m__us_usc_t50_ch42_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2638)
 
 ## § 2638. Limitation on use of funds for decommissioning F–canyon facility
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptE/m__us_usc_t50_s2637.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/m__us_usc_t50_ch42_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2638)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptD/m__us_usc_t50_s2633.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/m__us_usc_t50_ch42_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2638)
 
 ----------
 ----------

@@ -29,7 +29,7 @@
 
     (c) __Dual validation teams in support of assessments__ 
 
-    In support of the assessments required by subsection (a), the Administrator for Nuclear Security may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+    In support of the assessments required by subsection (a), the Administrator may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
 
         (1) be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
 
@@ -77,11 +77,19 @@
 
             (B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by [section 2532 of this title][/us/usc/t50/s2532] to identify and fix any inadequacy with respect to the matters covered by the assessments;
 
-            (C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations; and
+            (C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations;
 
-            (D) a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c).
+            (D) a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c); and
 
-        (4) In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types.
+            (E) a concise summary of any significant finding investigations initiated or active during the previous year for which the head of the national security laboratory has full or partial responsibility.
+
+        (4)
+
+         In the case of a report submitted by the Commander of the United States Strategic Command—
+
+            (A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
+
+            (B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
 
         (5) An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 
@@ -89,7 +97,7 @@
 
         (1)
 
-         Not later than March 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
+         Not later than February 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
 
             (A) each report, without change, submitted to either Secretary under subsection (e) during the preceding year;
 
@@ -101,25 +109,21 @@
 
         (2) Not later than March 15 of each year, the President shall forward to Congress the matters received by the President under paragraph (1) for that year, together with any comments the President considers appropriate.
 
+        (3) If the President does not forward to Congress the matters required under paragraph (2) by the date required by such paragraph, the officials specified in subsection (b) shall provide a briefing to the congressional defense committees not later than March 30 on the report such officials submitted to the Secretary concerned under subsection (e).
+
     (g) __Classified form__ 
 
         Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
 
-    (h) __Definitions__ 
+    (h) __Definition__ 
 
-    In this section:
+    In this section, the term “Secretary concerned” means—
 
-        (1) The term “national security laboratory” has the meaning given such term in [section 2471 of this title][/us/usc/t50/s2471].
+        (1) the Secretary of Energy, with respect to matters concerning the Department of Energy; and
 
-        (2)
+        (2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-         The term “Secretary concerned” means—
-
-            (A) the Secretary of Energy, with respect to matters concerning the Department of Energy; and
-
-            (B) the Secretary of Defense, with respect to matters concerning the Department of Defense.
-
-([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180].)
+([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3122, 3146(c)(3), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1074.)
 
  __Codification__ 
 
@@ -127,7 +131,19 @@
 
  __Amendments__ 
 
-    2013—Subsec. (i). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
+    2013—Subsec. (c). [Pub. L. 113–66, § 3146(c)(3)(A)][/us/pl/113/66/s3146/c/3/A], struck out “for Nuclear Security” before “may establish teams,” in introductory provisions.
+
+    Subsec. (e)(3)(E). [Pub. L. 113–66, § 3122(a)(1)][/us/pl/113/66/s3122/a/1], added subpar. (E).
+
+    Subsec. (e)(4). [Pub. L. 113–66, § 3122(a)(2)][/us/pl/113/66/s3122/a/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types.”
+
+    Subsec. (f)(1). [Pub. L. 113–66, § 3122(b)(1)][/us/pl/113/66/s3122/b/1], substituted “February 1” for “March 1” in introductory provisions.
+
+    Subsec. (f)(3). [Pub. L. 113–66, § 3122(b)(2)][/us/pl/113/66/s3122/b/2], added par. (3).
+
+    Subsec. (h). [Pub. L. 113–66, § 3146(c)(3)(B)][/us/pl/113/66/s3146/c/3/B], in heading, substituted “Definition” for “Definitions” and, in text, substituted “section,” for “section:” and “the term ‘Secretary’ ” for “The term ‘Secretary’ ”, struck out par. (1) which defined “national security laboratory” and par. (2) designation, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2) respectively, and realigned margins.
+
+    Subsec. (i). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
 
     2009—Subsec. (c). [Pub. L. 111–84, § 3114(a)(2)(B)][/us/pl/111/84/s3114/a/2/B], added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -167,7 +183,6 @@
 ----------
 
 [/us/usc/t50/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2532
-[/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
 [/us/pl/107/314/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4205
 [/us/stat/116/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2730
 [/us/pl/108/136/s3141/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F6
@@ -176,8 +191,16 @@
 [/us/stat/123/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2706
 [/us/pl/112/239/s3131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fc
 [/us/stat/126/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2180
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
 [/us/usc/t42/s7274s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274s
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66/s3146/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F3%2FA
+[/us/pl/113/66/s3122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fa%2F1
+[/us/pl/113/66/s3122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fa%2F2
+[/us/pl/113/66/s3122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fb%2F1
+[/us/pl/113/66/s3122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fb%2F2
+[/us/pl/113/66/s3146/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F3%2FB
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84/s3114/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3114%2Fa%2F2%2FB
 [/us/pl/111/84/s3114/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3114%2Fa%2F2%2FA

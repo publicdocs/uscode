@@ -57,13 +57,17 @@
 
         (2) The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3291][/us/pl/106/65/s3291], Oct. 5, 1999, [113 Stat. 968][/us/stat/113/968]; [Pub. L. 112–239, div. C, title XXXI, § 3132(b)(1)][/us/pl/112/239/s3132/b/1], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185].)
+([Pub. L. 106–65, div. C, title XXXII, § 3291][/us/pl/106/65/s3291], Oct. 5, 1999, [113 Stat. 968][/us/stat/113/968]; [Pub. L. 112–239, div. C, title XXXI, § 3132(b)(1)][/us/pl/112/239/s3132/b/1], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 113–66, div. C, title XXXI, § 3145(j)][/us/pl/113/66/s3145/j], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
 
  __Amendments__ 
 
     2013—Subsec. (c). [Pub. L. 112–239, § 3132(b)(1)(A)][/us/pl/112/239/s3132/b/1/A], substituted “of the Administration” for “specified in subsection (a)”.
 
-    Subsecs. (d), (e). [Pub. L. 112–239, § 3132(b)(1)(B)][/us/pl/112/239/s3132/b/1/B], added subsecs. (d) and (e).
+    Subsec. (d). [Pub. L. 112–239, § 3132(b)(1)(B)][/us/pl/112/239/s3132/b/1/B], added subsec. (d).
+
+    Subsec. (d)(1). [Pub. L. 113–66][/us/pl/113/66] realigned margins of concluding provisions.
+
+    Subsec. (e). [Pub. L. 112–239, § 3132(b)(1)(B)][/us/pl/112/239/s3132/b/1/B], added subsec. (e).
 
  __Construction__ 
 
@@ -92,7 +96,11 @@
 [/us/stat/113/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F968
 [/us/pl/112/239/s3132/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fb%2F1
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
+[/us/pl/113/66/s3145/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fj
+[/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
 [/us/pl/112/239/s3132/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fb%2F1%2FA
+[/us/pl/112/239/s3132/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fb%2F1%2FB
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s3132/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fb%2F1%2FB
 [/us/pl/112/239/s3132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fb%2F3
 [/us/stat/126/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2186

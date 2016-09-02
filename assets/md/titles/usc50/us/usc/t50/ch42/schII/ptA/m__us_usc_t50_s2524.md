@@ -17,7 +17,7 @@
 
     (a) __Program required__ 
 
-    The Secretary of Energy, acting through the Administrator for Nuclear Security and in consultation with the Secretary of Defense, shall carry out a program, in support of the stockpile stewardship program, to provide for the effective management of the weapons in the nuclear weapons stockpile, including the extension of the effective life of such weapons. The program shall have the following objectives:
+    The Secretary of Energy, acting through the Administrator and in consultation with the Secretary of Defense, shall carry out a program, in support of the stockpile stewardship program, to provide for the effective management of the weapons in the nuclear weapons stockpile, including the extension of the effective life of such weapons. The program shall have the following objectives:
 
         (1) To increase the reliability, safety, and security of the nuclear weapons stockpile of the United States.
 
@@ -47,7 +47,7 @@
 
         In accordance with the requirements under [section 2529 of this title][/us/usc/t50/s2529], for each budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 
-([Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], formerly [Pub. L. 106–65, div. C, title XXXI, § 3133][/us/pl/106/65/s3133], Oct. 5, 1999, [113 Stat. 926][/us/stat/113/926]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136], §§ 3111, 3141(e)(5), Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], 1758; [Pub. L. 111–84, div. C, title XXXI, § 3113(a)(2)][/us/pl/111/84/s3113/a/2], Oct. 28, 2009, [123 Stat. 2704][/us/stat/123/2704]; [Pub. L. 112–239, div. C, title XXXI, § 3133(d)][/us/pl/112/239/s3133/d], Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192].)
+([Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], formerly [Pub. L. 106–65, div. C, title XXXI, § 3133][/us/pl/106/65/s3133], Oct. 5, 1999, [113 Stat. 926][/us/stat/113/926]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136], §§ 3111, 3141(e)(5), Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], 1758; [Pub. L. 111–84, div. C, title XXXI, § 3113(a)(2)][/us/pl/111/84/s3113/a/2], Oct. 28, 2009, [123 Stat. 2704][/us/stat/123/2704]; [Pub. L. 112–239, div. C, title XXXI, § 3133(d)][/us/pl/112/239/s3133/d], Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192]; [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(2)][/us/pl/113/66/s3146/c/2], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __Codification__ 
 
@@ -55,7 +55,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(2)(B). [Pub. L. 112–239, § 3133(d)(1)][/us/pl/112/239/s3133/d/1], substituted “nuclear security enterprise” for “nuclear complex”.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] struck out “for Nuclear Security” after “Administrator” in introductory provisions.
+
+    Subsec. (b)(2)(B). [Pub. L. 112–239, § 3133(d)(1)][/us/pl/112/239/s3133/d/1], substituted “nuclear security enterprise” for “nuclear complex”.
 
     Subsecs. (c) to (e). [Pub. L. 112–239, § 3133(d)(2)][/us/pl/112/239/s3133/d/2], (3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d), which related, respectively, to program plan and annual updates.
 
@@ -90,8 +92,11 @@
 [/us/stat/123/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2704
 [/us/pl/112/239/s3133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd
 [/us/stat/126/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2192
+[/us/pl/113/66/s3146/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F2
+[/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s3133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd%2F1
 [/us/pl/112/239/s3133/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd%2F2
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

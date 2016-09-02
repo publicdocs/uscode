@@ -19,23 +19,17 @@
 
     (1) The term “DOE national security authorization” means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
 
-    (2)
+    (2) The term “minor construction threshold” means $10,000,000.
 
-     The term “congressional defense committees” means—
-
-        (A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-        (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-    (3) The term “minor construction threshold” means $10,000,000.
-
-([Pub. L. 107–314, div. D, title XLVII, § 4701][/us/pl/107/314/s4701], formerly div. C, title XXXVI, § 3620, Dec. 2, 2002, [116 Stat. 2756][/us/stat/116/2756]; renumbered div. D, title XLVII, § 4701, by [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 111–84, div. C, title XXXI, § 3118(a)][/us/pl/111/84/s3118/a], (b), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI, § 3121(a)][/us/pl/111/383/s3121/a], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
+([Pub. L. 107–314, div. D, title XLVII, § 4701][/us/pl/107/314/s4701], formerly div. C, title XXXVI, § 3620, Dec. 2, 2002, [116 Stat. 2756][/us/stat/116/2756]; renumbered div. D, title XLVII, § 4701, by [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 111–84, div. C, title XXXI, § 3118(a)][/us/pl/111/84/s3118/a], (b), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI, § 3121(a)][/us/pl/111/383/s3121/a], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(I)][/us/pl/113/66/s3146/a/2/I], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7386 of Title 42][/us/usc/t42/s7386], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2013—Pars. (2), (3). [Pub. L. 113–66][/us/pl/113/66] redesignated par. (3) as (2) and struck out former par. (2) which defined “congressional defense committees”.
 
     2011—Par. (3). [Pub. L. 111–383][/us/pl/111/383] substituted “$10,000,000” for “$5,000,000”.
 
@@ -62,8 +56,11 @@
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
 [/us/pl/111/383/s3121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3121%2Fa
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
+[/us/pl/113/66/s3146/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FI
+[/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s7386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84/s3118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fb
 [/us/pl/111/84/s3118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fa

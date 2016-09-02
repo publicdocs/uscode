@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2514.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_ch42_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschII)
+[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2515.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_ch42_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschII)
 
 ### SUBCHAPTER II—NUCLEAR WEAPONS STOCKPILE MATTERS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2514.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_ch42_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschII)
+[Previous](./../../../../..//us/usc/t50/ch42/schI/m__us_usc_t50_s2515.md) | [Next](./../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_ch42_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschII)
 
 ----------
 ----------

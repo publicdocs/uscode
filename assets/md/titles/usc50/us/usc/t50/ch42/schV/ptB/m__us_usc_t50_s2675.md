@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2674.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/ptC/m__us_usc_t50_ch42_schV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2675)
+[Previous](./../../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2674.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVI/m__us_usc_t50_ch42_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2675)
 
 ## § 2675. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities
 
@@ -23,17 +23,7 @@
 
         No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
 
-    (c) __Report on automatic declassification of Department of Energy records__ 
-
-    Not later than February 1, 2001, the Secretary of Energy shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the efforts of the Department of Energy relating to the declassification of classified records under the control of the Department of Energy. Such report shall include the following:
-
-        (1) An assessment of whether the Department will be able to review all relevant records for declassification before any date established for automatic declassification.
-
-        (2) An estimate of the number of records, if any, that the Department will be unable to review for declassification before any such date and the effect on national security of the automatic declassification of those records.
-
-        (3) An estimate of the length of time by which any such date would need to be extended to avoid the automatic declassification of records that have not yet been reviewed as of such date.
-
-([Pub. L. 107–314, div. D, title XLV, § 4525][/us/pl/107/314/s4525], formerly [Pub. L. 106–65, div. C, title XXXI, § 3173][/us/pl/106/65/s3173], Oct. 5, 1999, [113 Stat. 949][/us/stat/113/949]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4525][/us/pl/107/314/s4525], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(15)][/us/pl/108/136/s3141/h/15], Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775].)
+([Pub. L. 107–314, div. D, title XLV, § 4525][/us/pl/107/314/s4525], formerly [Pub. L. 106–65, div. C, title XXXI, § 3173][/us/pl/106/65/s3173], Oct. 5, 1999, [113 Stat. 949][/us/stat/113/949]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4525][/us/pl/107/314/s4525], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(15)][/us/pl/108/136/s3141/h/15], Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775]; [Pub. L. 113–66, div. C, title XXXI, § 3146(f)(4)][/us/pl/113/66/s3146/f/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
 
  __Codification__ 
 
@@ -41,11 +31,13 @@
 
  __Amendments__ 
 
+    2013—Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (c) which required submission of a report on automatic declassification of Department of Energy records.
+
     2003—Subsec. (b). [Pub. L. 108–136, § 3141(h)(15)(D)][/us/pl/108/136/s3141/h/15/D], substituted “October 5, 1999,” for “the date of the enactment of this Act”.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2674.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/ptC/m__us_usc_t50_ch42_schV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2675)
+[Previous](./../../../../../..//us/usc/t50/ch42/schV/ptB/m__us_usc_t50_s2674.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVI/m__us_usc_t50_ch42_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2675)
 
 ----------
 ----------
@@ -59,8 +51,11 @@
 [/us/pl/107/314/s4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4525
 [/us/pl/108/136/s3141/h/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F15
 [/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
+[/us/pl/113/66/s3146/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Ff%2F4
+[/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/108/136/s3141/h/15/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F15%2FD
 
 

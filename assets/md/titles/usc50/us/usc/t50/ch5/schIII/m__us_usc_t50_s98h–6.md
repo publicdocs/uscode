@@ -17,7 +17,7 @@
 
     (a) __Purchase of materials of domestic origin; processing of materials in domestic facilities__ 
 
-    Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to [section 98b(a) of this title][/us/usc/t50/s98b/a] to be strategic and critical materials—
+    Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to [section 98b(a) of this title][/us/usc/t50/s98b/a] to be strategic and critical materials—
 
         (1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
 
@@ -45,7 +45,11 @@
 
         The President shall include in the reports required under [section 98h–2(a) of this title][/us/usc/t50/s98h–2/a] information with respect to activities conducted under this section.
 
-([June 7, 1939, ch. 190, § 15][/us/act/1939-06-07/ch190/s15], as added [Pub. L. 101–189, div. C, title XXXIII, § 3312(a)][/us/pl/101/189/s3312/a], Nov. 29, 1989, [103 Stat. 1687][/us/stat/103/1687].)
+([June 7, 1939, ch. 190, § 15][/us/act/1939-06-07/ch190/s15], as added [Pub. L. 101–189, div. C, title XXXIII, § 3312(a)][/us/pl/101/189/s3312/a], Nov. 29, 1989, [103 Stat. 1687][/us/stat/103/1687]; amended [Pub. L. 113–66, div. A, title XIV, § 1411(c)][/us/pl/113/66/s1411/c], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
+
+ __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] inserted “and appropriate conservation” after “development” in introductory provisions.
 
 ----------
 
@@ -61,5 +65,8 @@
 [/us/act/1939-06-07/ch190/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs15
 [/us/pl/101/189/s3312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3312%2Fa
 [/us/stat/103/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1687
+[/us/pl/113/66/s1411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fc
+[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 
