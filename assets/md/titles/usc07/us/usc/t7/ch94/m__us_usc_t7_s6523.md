@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6522.md) | [Next](./../../../..//us/usc/t7/ch95/m__us_usc_t7_ch95.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6523)
+[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6522.md) | [Next](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6524.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6523)
 
 ## § 6523. National organic certification cost-share program
 
@@ -79,7 +79,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6522.md) | [Next](./../../../..//us/usc/t7/ch95/m__us_usc_t7_ch95.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6523)
+[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6522.md) | [Next](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6524.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6523)
 
 ----------
 ----------

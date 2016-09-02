@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6523.md) | [Next](./../../../..//us/usc/t7/ch95/schI/m__us_usc_t7_ch95_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch95)
+[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6524.md) | [Next](./../../../..//us/usc/t7/ch95/schI/m__us_usc_t7_ch95_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch95)
 
 ## CHAPTER 95—RURAL REVITALIZATION THROUGH FORESTRY
 
@@ -107,7 +107,7 @@ SUBCHAPTER II—NATIONAL FOREST-DEPENDENT RURAL COMMUNITIES  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6523.md) | [Next](./../../../..//us/usc/t7/ch95/schI/m__us_usc_t7_ch95_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch95)
+[Previous](./../../../..//us/usc/t7/ch94/m__us_usc_t7_s6524.md) | [Next](./../../../..//us/usc/t7/ch95/schI/m__us_usc_t7_ch95_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch95)
 
 ----------
 ----------

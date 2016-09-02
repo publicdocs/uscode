@@ -169,14 +169,6 @@
 
     Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Food for Peace Act which comprises this chapter.
 
- __Effective Date__ 
-
-    Section effective May 22, 2008, see [section 4(b) of Pub. L. 110–246][/us/pl/110/246/s4/b], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].
-
- __Definition of “Secretary”__ 
-
-    “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title][/us/usc/t7/s8701].
-
  __Amendments__ 
 
     2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 3207(1)(A), (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
@@ -201,6 +193,14 @@
 
     Subsecs. (f), (g). [Pub. L. 113–79][/us/pl/113/79], § 3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
 
+ __Effective Date__ 
+
+    Section effective May 22, 2008, see [section 4(b) of Pub. L. 110–246][/us/pl/110/246/s4/b], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].
+
+ __Definition of “Secretary”__ 
+
+    “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title][/us/usc/t7/s8701].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t7/ch41/schIII/m__us_usc_t7_s1726b.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_ch41_schIII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1726c)
@@ -213,17 +213,17 @@
 [/us/stat/122/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1840
 [/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

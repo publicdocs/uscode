@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], as amended, popularly known as the “Sodbuster Law”, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
+    Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
 
  __Codification__ 
 

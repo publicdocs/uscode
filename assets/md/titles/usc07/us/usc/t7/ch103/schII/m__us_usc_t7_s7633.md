@@ -73,7 +73,7 @@
 
         (2) __Administration__ 
 
-            Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i(b) of this title][/us/usc/t7/s450i/b] shall apply with respect to the making of a competitive grant under this section.
+            Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title][/us/usc/t7/s450i] shall apply with respect to the making of a competitive grant under this section.
 
         (3) __Maintenance of effort__ 
 
@@ -104,7 +104,7 @@
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t7/s450i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i%2Fb
+[/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
 [/us/pl/105/185/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtIV
 [/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F829

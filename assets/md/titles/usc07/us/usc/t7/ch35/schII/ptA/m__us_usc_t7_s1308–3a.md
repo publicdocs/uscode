@@ -85,7 +85,7 @@
 
     The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(C), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
-    The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
+    The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
  __Codification__ 
 

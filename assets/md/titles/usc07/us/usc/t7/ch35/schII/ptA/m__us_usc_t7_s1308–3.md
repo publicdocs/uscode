@@ -43,7 +43,7 @@
 
     The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is [act June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], [62 Stat. 1070][/us/stat/62/1070], as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15][/us/usc/t15/s714] and Tables.
 
-    The Food Security Act of 1985, referred to in subsec. (a), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
+    The Food Security Act of 1985, referred to in subsec. (a), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
  __Codification__ 
 

@@ -245,7 +245,7 @@
 
     The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
-    Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
+    Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
 
  __Codification__ 
 

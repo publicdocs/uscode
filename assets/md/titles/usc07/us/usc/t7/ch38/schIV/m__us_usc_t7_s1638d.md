@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schIV/m__us_usc_t7_s1638c.md) | [Next](./../../../../..//us/usc/t7/ch39/m__us_usc_t7_ch39.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638d)
+[Previous](./../../../../..//us/usc/t7/ch38/schIV/m__us_usc_t7_s1638c.md) | [Next](./../../../../..//us/usc/t7/ch38/schV/m__us_usc_t7_ch38_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638d)
 
 ## § 1638d. Applicability
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schIV/m__us_usc_t7_s1638c.md) | [Next](./../../../../..//us/usc/t7/ch39/m__us_usc_t7_ch39.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638d)
+[Previous](./../../../../..//us/usc/t7/ch38/schIV/m__us_usc_t7_s1638c.md) | [Next](./../../../../..//us/usc/t7/ch38/schV/m__us_usc_t7_ch38_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1638d)
 
 ----------
 ----------

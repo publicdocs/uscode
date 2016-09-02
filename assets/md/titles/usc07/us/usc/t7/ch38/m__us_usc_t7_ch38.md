@@ -471,6 +471,70 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+SUBCHAPTER V—NATIONAL BIOENGINEERED FOOD DISCLOSURE STANDARD  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639" data-uslm-ref="/us/usc/t7/s1639">1639.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639a" data-uslm-ref="/us/usc/t7/s1639a">1639a.</a>  </td>
+
+    <td> Applicability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639b" data-uslm-ref="/us/usc/t7/s1639b">1639b.</a>  </td>
+
+    <td> Establishment of national bioengineered food disclosure standard.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639c" data-uslm-ref="/us/usc/t7/s1639c">1639c.</a>  </td>
+
+    <td> Savings provisions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER VI—LABELING OF CERTAIN FOOD  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639i" data-uslm-ref="/us/usc/t7/s1639i">1639i.</a>  </td>
+
+    <td> Federal preemption.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1639j" data-uslm-ref="/us/usc/t7/s1639j">1639j.</a>  </td>
+
+    <td> Exclusion from Federal preemption.  </td>
+
+  </tr>
+
 </table>
 
 ----------

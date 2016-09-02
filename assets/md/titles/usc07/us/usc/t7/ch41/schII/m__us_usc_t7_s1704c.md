@@ -25,7 +25,9 @@
 
  __Codification__ 
 
-    Section consists of [section 9(a) of Pub. L. 97–214][/us/pl/97/214/s9/a]. [Section 9(b) of Pub. L. 97–214][/us/pl/97/214/s9/b] is classified as a note set out under [section 1594k of Title 42][/us/usc/t42/s1594k], The Public Health and Welfare. Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
+    Section consists of [section 9(a) of Pub. L. 97–214][/us/pl/97/214/s9/a]. [Section 9(b) of Pub. L. 97–214][/us/pl/97/214/s9/b] is classified as a note set out under [section 1594k of Title 42][/us/usc/t42/s1594k], The Public Health and Welfare.
+
+    Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
 
  __Amendments__ 
 

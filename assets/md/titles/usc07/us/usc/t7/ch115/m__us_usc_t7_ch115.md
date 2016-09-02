@@ -51,7 +51,7 @@ SUBCHAPTER I—COMMODITY POLICY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs9012" data-uslm-ref="/us/usc/t7/s9012">9012.</a>  </td>
 
-    <td> Base Acres.  </td>
+    <td> Base acres.  </td>
 
   </tr>
 

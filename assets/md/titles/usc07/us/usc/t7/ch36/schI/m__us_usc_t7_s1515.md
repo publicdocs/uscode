@@ -315,7 +315,7 @@
 
     The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], [52 Stat. 31][/us/stat/52/31], as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
-    The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
+    The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
     The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
