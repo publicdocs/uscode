@@ -15,13 +15,13 @@
 
 ## § 402. Basic allowance for subsistence
 
-    (a) __Entitlement to Allowance.—__ 
+    (a)  __Entitlement to Allowance__  __.—__ 
 
         (1) Except as provided in paragraph (2) or otherwise provided by law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
 
         (2) An enlisted member is not entitled to the basic allowance for subsistence during basic training.
 
-    (b) __Rates of Allowance Based on Food Costs.—__ 
+    (b)  __Rates of Allowance Based on Food Costs__  __.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
         (3) For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
 
-    (c) __Advance Payment.—__ 
+    (c)  __Advance Payment__  __.—__ 
 
     The allowance to an enlisted member may be paid in advance for a period of not more than three months.
 
-    (d) __Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals.—__ 
+    (d)  __Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals__  __.—__ 
 
     The Secretary of Defense, and the Secretary of the department in which the Coast Guard is operating, may pay an enlisted member the basic allowance for subsistence under this section at a monthly rate that is twice the amount in effect under subsection (b)(1) while—
 
@@ -47,11 +47,11 @@
 
         (2) there is no Government messing facility serving those quarters that is capable of making meals available to the occupants of the quarters.
 
-    (e) __Special Rule for Certain Enlisted Reserve Members.—__ 
+    (e)  __Special Rule for Certain Enlisted Reserve Members__  __.—__ 
 
     Unless entitled to basic pay under [section 204 of this title][/us/usc/t37/s204], an enlisted member of a reserve component may receive, at the discretion of the Secretary concerned, rations in kind, or a part thereof, when the member’s instruction or duty periods, as described in [section 206(a) of this title][/us/usc/t37/s206/a], total at least 8 hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
 
-    (f) __Special Rule for High-Cost Duty Locations and Other Unique and Unusual Circumstances.—__ 
+    (f)  __Special Rule for High-Cost Duty Locations and Other Unique and Unusual Circumstances__  __.—__ 
 
     The Secretary of Defense may authorize a member of the armed forces who is not entitled to the meals portion of the per diem in connection with an assignment in a high-cost duty location or under other unique and unusual circumstances, as determined by the Secretary, to receive any or all of the following:
 
@@ -61,11 +61,11 @@
 
         (3) A supplemental subsistence allowance at a rate higher than the basic allowance for subsistence rates in effect under this section, regardless of the entitlement of the member for all meals or select meals during the duty day.
 
-    (g) __Policies on Use of Dining and Messing Facilities.—__ 
+    (g)  __Policies on Use of Dining and Messing Facilities__  __.—__ 
 
     The Secretary of Defense, in consultation with the Secretaries concerned, shall prescribe policies regarding use of dining and field messing facilities of the uniformed services.
 
-    (h) __No Payment for Meals Received at Military Treatment Facilities.—__ 
+    (h)  __No Payment for Meals Received at Military Treatment Facilities__  __.—__ 
 
         (1) A member of the armed forces who is undergoing medical recuperation or therapy, or is otherwise in the status of continuous care, including outpatient care, at a military treatment facility for an injury, illness, or disease described in paragraph (2) shall not be required to pay any charge for meals provided to the member by the military treatment facility.
 
@@ -77,7 +77,7 @@
 
             (B) in any other operation designated by the Secretary of Defense as a combat operation or in an area designated by the Secretary as a combat zone.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations for the administration of this section. Before prescribing the regulations, the Secretary shall consult with each Secretary concerned.
 

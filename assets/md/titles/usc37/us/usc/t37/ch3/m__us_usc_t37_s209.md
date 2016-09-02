@@ -15,7 +15,7 @@
 
 ## § 209. Members of precommissioning programs
 
-    (a) __Senior ROTC Members in Advanced Training.—__ 
+    (a)  __Senior ROTC Members in Advanced Training__  __.—__ 
 
         (1) Except when on active duty, a member of the Senior Reserve Officers’ Training Corps who is selected for advance training under [section 2104 of title 10][/us/usc/t10/s2104] is entitled to a monthly subsistence allowance at a rate prescribed under paragraph (2) beginning on the day he starts advanced training and ending upon the completion of his instruction under that section, but in no event shall any member receive such pay for more than 30 months.
 
@@ -23,19 +23,19 @@
 
         (3) A subsistence allowance under this section may not be considered financial assistance requiring additional service within the meaning of the third sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)).
 
-    (b) __Senior ROTC Members Appointed in Reserves.—__ 
+    (b)  __Senior ROTC Members Appointed in Reserves__  __.—__ 
 
     Except when on active duty, a cadet or midshipman appointed under [section 2107 of title 10][/us/usc/t10/s2107] is entitled to a monthly subsistence allowance at a rate prescribed under subsection (a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under [section 2104 of title 10][/us/usc/t10/s2104] as prescribed in subsection (a).
 
-    (c) __Nonscholarship Senior ROTC Members Not in Advanced Training.—__ 
+    (c)  __Nonscholarship Senior ROTC Members Not in Advanced Training__  __.—__ 
 
     A member of the Selected Reserve Officers’ Training Corps who has entered into an agreement under [section 2103a of title 10][/us/usc/t10/s2103a] is entitled to a monthly subsistence allowance at a rate prescribed under subsection (a). That allowance may be paid to the member by reason of such agreement for a maximum of 20 months.
 
-    (d) __Pay While Attending Training or Practice Cruise.—__ 
+    (d)  __Pay While Attending Training or Practice Cruise__  __.—__ 
 
     Each cadet or midshipman in the Senior Reserve Officers’ Training Corps, while he is attending training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned, and each applicant for membership in the Senior Reserve Officers’ Training Corps, while he is attending field training or practice cruises to satisfy the requirements of [section 2104(b)(6)(B) of title 10][/us/usc/t10/s2104/b/6/B] for admission to advanced training, is entitled, while so attending, to pay at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies under [section 203(c) of this title][/us/usc/t37/s203/c], except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under [section 203 of this title][/us/usc/t37/s203].
 
-    (e) __Members of Marine Corps Officer Candidate Program.—__ 
+    (e)  __Members of Marine Corps Officer Candidate Program__  __.—__ 
 
     Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at a monthly rate prescribed under subsection (a) for a member of the Senior Reserve Officers’ Training Corps who is selected for advanced training under [section 2104 of title 10][/us/usc/t10/s2104].
 

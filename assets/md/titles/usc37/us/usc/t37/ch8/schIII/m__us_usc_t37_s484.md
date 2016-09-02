@@ -309,7 +309,7 @@ Mar. 7, 1942, ch. 166, § 14 (as applicable to § 12 (1st sentence)), 56 Sta
 
  __Effective Date of 1998 Amendment__ 
 
-    For provisions relating to the applicability of amendment by [Pub. L. 105–261][/us/pl/105/261], see [section 653(e) of Pub. L. 105–261][/us/pl/105/261/s653/e], set out as a note under [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces.
+    For provisions relating to the applicability of amendment by [Pub. L. 105–261][/us/pl/105/261], see [section 653(e) of Pub. L. 105–261][/us/pl/105/261/s653/e], set out as a note under [section 475a of this title][/us/usc/t37/s475a].
 
  __Effective Date of 1974 Amendment__ 
 
@@ -394,7 +394,7 @@ Mar. 7, 1942, ch. 166, § 14 (as applicable to § 12 (1st sentence)), 56 Sta
 [/us/usc/t37/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs484
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/261/s653/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs653%2Fe
-[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
+[/us/usc/t37/s475a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs475a
 [/us/pl/93/548/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F548%2Fs4
 [/us/stat/88/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1743
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623

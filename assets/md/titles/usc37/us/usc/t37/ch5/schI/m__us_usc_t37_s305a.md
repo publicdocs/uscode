@@ -15,23 +15,23 @@
 
 ## § 305a. Special pay: career sea pay
 
-    (a) __Availability of Special Pay.—__ 
+    (a)  __Availability of Special Pay__  __.—__ 
 
     A member of a uniformed service who is entitled to basic pay is also entitled, while on sea duty, to special pay at the applicable rate under subsection (b).
 
-    (b) __Rates; Maximum.—__ 
+    (b)  __Rates; Maximum__  __.—__ 
 
     The Secretary concerned shall prescribe the monthly rates for special pay applicable to members of each armed force under the Secretary’s jurisdiction. No monthly rate may exceed $750.
 
-    (c) __Premium.—__ 
+    (c)  __Premium__  __.—__ 
 
     A member of a uniformed service entitled to career sea pay under this section who has served 36 consecutive months of sea duty is also entitled to a career sea pay premium for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member. The monthly amount of the premium shall be prescribed by the Secretary concerned, but may not exceed $350.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
 
-    (e) __Definition of Sea Duty.—__ 
+    (e)  __Definition of Sea Duty__  __.—__ 
 
         (1)
 
@@ -141,17 +141,17 @@
 
 [Pub. L. 100–180, div. A, title VI, § 621(d)][/us/pl/100/180/s621/d]–(f), Dec. 4, 1987, [101 Stat. 1100][/us/stat/101/1100], provided that:
 
->     “(d) __Save Pay.—__ 
+>     “(d)  __Save Pay__  __.—__ 
 
 >     A member of the uniformed services who at any time during the three-month period ending on the day before the effective date applicable to that member under subsection (e) for the new rates of career sea pay is entitled to career sea pay at a rate that is higher than the rate established under such new rates for the member’s pay grade and years of sea duty shall be paid such special pay, when entitled to receive it, at such higher rate until the member is permanently reassigned to duty for which the member is not entitled to such special pay. In the case of a member covered by the preceding sentence who is reduced in grade under the Uniform Code of Military Justice (chapter 47 of title 10, United States Code), the old rate of career sea pay applicable to such member under the preceding sentence which may be paid in lieu of the rate applicable to the member under the new rates of career sea pay shall be the rate under the old rates of career sea pay for the member’s pay grade as so reduced and the member’s years of sea duty.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >         (1) Except as provided under paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to duty performed on or after that date.
 
 >         “(2) The new rates of career sea pay that are applicable to enlisted members in pay grades above pay grade E-4 who have five or more years of sea duty and the amendment made by subsection (b) \[amending this section\] shall take effect on the first day of the fourth month beginning after the effective date specified under paragraph (1). In the case of such members, the old rates of career sea pay shall remain in effect until the new rates take effect under the preceding sentence.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of subsections (d) and (e):
 

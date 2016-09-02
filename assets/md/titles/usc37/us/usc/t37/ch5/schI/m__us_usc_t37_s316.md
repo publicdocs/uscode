@@ -15,7 +15,7 @@
 
 ## § 316. Special pay: bonus for members with foreign language proficiency
 
-    (a) __Availability of Bonus.—__ 
+    (a)  __Availability of Bonus__  __.—__ 
 
     Subject to subsection (c), the Secretary concerned may pay a bonus under this section to a member of the uniformed services who—
 
@@ -27,15 +27,15 @@
 
         (4) is proficient in a foreign language for which the uniformed service may have a critical need, as determined by the Secretary concerned.
 
-    (b) __Bonus Amount; Time for Payment.—__ 
+    (b)  __Bonus Amount; Time for Payment__  __.—__ 
 
     A bonus under subsection (a) may not exceed $12,000 per one-year certification period under subsection (c). The Secretary concerned may pay the bonus in a single lump sum at the beginning of the certification period or in installments during the certification period. The bonus is in addition to any other pay or allowance payable to a member under any other provision of law.
 
-    (c) __Certification of Proficiency.—__ 
+    (c)  __Certification of Proficiency__  __.—__ 
 
     To be eligible to receive a bonus under this section, a member described in subsection (a) must be certified by the Secretary concerned as being proficient in the foreign language for which the bonus is offered. The certification of the member shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
 
-    (d) __Certification Interrupted by Contingency Operation.—__ 
+    (d)  __Certification Interrupted by Contingency Operation__  __.—__ 
 
         (1)
 
@@ -53,11 +53,11 @@
 
         (4) If a member fails to obtain the required certification under subsection (c) before the end of the period provided under paragraph (3), the Secretary concerned may require the member to repay all or a portion of the bonus in the manner provided in [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (e) __Repayment.—__ 
+    (e)  __Repayment__  __.—__ 
 
     A member who receives a bonus under this section, but who does not satisfy an eligibility requirement specified in paragraph (1), (2), (3), or (4) of subsection (a) for the entire certification period, shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 

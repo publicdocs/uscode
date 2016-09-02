@@ -15,7 +15,7 @@
 
 ## § 454. Travel and transportation: pilot programs
 
-    (a) __Pilot Programs.—__ 
+    (a)  __Pilot Programs__  __.—__ 
 
     Except as otherwise prohibited by law, the Secretary of Defense may conduct pilot programs to evaluate alternative travel and transportation programs, policies, and processes for Department of Defense authorized travelers. Any such pilot program shall be designed to enhance cost savings or other efficiencies that accrue to the Government and be conducted so as to evaluate one or more of the following:
 
@@ -25,7 +25,7 @@
 
         (3) Means for reducing the environmental impact of travel.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) Not more than three pilot programs may be carried out under subsection (a) at any one time.
 
@@ -33,7 +33,7 @@
 
         (3) The authority to carry out a pilot program is subject to the availability of appropriated funds.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
             (B) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program.
 
-    (d) __Congressional Defense Committees Defined.—__ 
+    (d)  __Congressional Defense Committees Defined__  __.—__ 
 
     In this section, the term “congressional defense committees” has the meaning given that term in [section 101(a)(16) of title 10][/us/usc/t10/s101/a/16].
 

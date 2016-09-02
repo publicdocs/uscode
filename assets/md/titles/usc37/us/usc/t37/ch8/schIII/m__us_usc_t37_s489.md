@@ -15,11 +15,11 @@
 
 ## § 489. Travel and transportation allowances: minor dependent schooling
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations to be prescribed by the Secretary of Defense, a member of a uniformed service whose permanent station is outside the United States may be allowed transportation in kind for any minor dependent (or reimbursement therefor), or a monetary allowance in place of such transportation in kind, to a school operated by the Department of Defense under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921][/us/usc/t20/s921] et seq.) for dependents in an overseas area which is operated, and which such dependent attends, on a 5-day-a-week dormitory basis or on a 7-day-a-week dormitory basis. In the case of a dependent attending a school on a 5-day-a-week dormitory basis, the transportation in kind or allowance authorized by this section shall be for weekly trips to and from such school, and in the case of a dependent attending a school on a 7-day-a-week dormitory basis, such transportation in kind or allowances shall be for not less than three trips to and from such school during the school year.
 
-    (b) __Termination.—__ 
+    (b)  __Termination__  __.—__ 
 
     No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

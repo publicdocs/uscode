@@ -15,13 +15,13 @@
 
 ## § 403. Basic allowance for housing
 
-    (a) __General Entitlement.—__ 
+    (a)  __General Entitlement__  __.—__ 
 
         (1) Except as otherwise provided by law, a member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for housing at the monthly rates prescribed under this section or another provision of law with regard to the applicable component of the basic allowance for housing. The amount of the basic allowance for housing for a member will vary according to the pay grade in which the member is assigned or distributed for basic pay purposes, the dependency status of the member, and the geographic location of the member. The basic allowance for housing may be paid in advance.
 
         (2) A member of a uniformed service with dependents is not entitled to a basic allowance for housing as a member with dependents unless the member makes a certification to the Secretary concerned indicating the status of each dependent of the member. The certification shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
-    (b) __Basic Allowance for Housing Inside the United States.—__ 
+    (b)  __Basic Allowance for Housing Inside the United States__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe the rates of the basic allowance for housing that are applicable for the various military housing areas in the United States. The rates for an area shall be based on the costs of adequate housing determined for the area under paragraph (2).
 
@@ -69,9 +69,9 @@
 
             (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-            (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2013.
+            (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2014.
 
-    (c) __Basic Allowance for Housing Outside the United States.—__ 
+    (c)  __Basic Allowance for Housing Outside the United States__  __.—__ 
 
         (1) The Secretary of Defense may prescribe an overseas basic allowance for housing for a member of a uniformed service who is on duty outside of the United States. The Secretary shall establish the basic allowance for housing under this subsection on the basis of housing costs in the overseas area in which the member is assigned.
 
@@ -91,7 +91,7 @@
 
             (C) The Secretary concerned shall recoup the full amount of any deposit or advance rent payments made by the Secretary under subparagraph (A), including any gain resulting from currency fluctuations between the time of payment and the time of recoupment.
 
-    (d) __Basic Allowance for Housing When Dependents Do Not Accompany Member.—__ 
+    (d)  __Basic Allowance for Housing When Dependents Do Not Accompany Member__  __.—__ 
 
         (1) A member of a uniformed service with dependents who is on permanent duty at a location described in paragraph (2) may be paid a family separation basic allowance for housing under this subsection at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to that location, for members in the same grade at that location without dependents.
 
@@ -123,7 +123,7 @@
 
         (4) A family separation basic allowance for housing paid to a member under this subsection is in addition to any other allowance or per diem that the member receives under this title. A member may receive a basic allowance for housing under both paragraphs (1) and (3).
 
-    (e) __Effect of Assignment to Quarters.—__ 
+    (e)  __Effect of Assignment to Quarters__  __.—__ 
 
         (1) Except as otherwise provided by law, a member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service appropriate to the grade, rank, or rating of the member and adequate for the member and dependents of the member, if with dependents, is not entitled to a basic allowance for housing.
 
@@ -135,7 +135,7 @@
 
         (5) A member with dependents who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service may be paid the basic allowance for housing if, because of orders of competent authority, the dependents are prevented from occupying those quarters.
 
-    (f) __Ineligibility During Initial Field Duty or Sea Duty.—__ 
+    (f)  __Ineligibility During Initial Field Duty or Sea Duty__  __.—__ 
 
         (1) A member of a uniformed service without dependents who makes a permanent change of station for assignment to a unit conducting field operations is not entitled to a basic allowance for housing while on that initial field duty unless the commanding officer of the member certifies that the member was necessarily required to procure quarters at the member’s expense.
 
@@ -149,7 +149,7 @@
 
         (3) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall prescribe regulations defining the terms “field duty” and “sea duty” for purposes of this section.
 
-    (g) __Reserve Members.—__ 
+    (g)  __Reserve Members__  __.—__ 
 
         (1)
 
@@ -189,19 +189,19 @@
 
             (D) Subsections (d)(3) and (o) also apply to a member described in subparagraph (A).
 
-    (h) __Rental of Public Quarters.—__ 
+    (h)  __Rental of Public Quarters__  __.—__ 
 
     Notwithstanding any other law (including those restricting the occupancy of housing facilities under the jurisdiction of a department or agency of the United States by members, and their dependents, of the armed forces above specified grades, or by members, and their dependents, of the National Oceanic and Atmospheric Administration and the Public Health Service), a member of a uniformed service, and the dependents of the member, may be accepted as tenants in, and may occupy on a rental basis, any of those housing facilities, other than public quarters constructed or designated for assignment to an occupancy without charge by such a member and the dependents of the member, if any. Such a member may not, because of occupancy under this subsection, be deprived of any money allowance to which the member is otherwise entitled for the rental of quarters.
 
-    (i) __Temporary Housing Allowance While in Travel or Leave Status.—__ 
+    (i)  __Temporary Housing Allowance While in Travel or Leave Status__  __.—__ 
 
     A member of a uniformed service is entitled to a temporary basic allowance for housing (at a rate determined by the Secretary of Defense) while the member is in a travel or leave status between permanent duty stations, including time granted as delay en route or proceed time, when the member is not assigned to quarters of the United States.
 
-    (j) __Aviation Cadets.—__ 
+    (j)  __Aviation Cadets__  __.—__ 
 
     The eligibility of an aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard for a basic allowance for housing shall be determined as if the aviation cadet were a member of the uniformed services in pay grade E–4.
 
-    (k) __Administration.—__ 
+    (k)  __Administration__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
@@ -209,7 +209,7 @@
 
         (3) Parking facilities (including utility connections) provided members of the uniformed services for house trailers and mobile homes not owned by the Government shall not be considered to be quarters for the purposes of this section or any other provision of law. Any fees established by the Government for the use of such a facility shall be established in an amount sufficient to cover the cost of maintenance, services, and utilities and to amortize the cost of construction of the facility over the 25-year period beginning with the completion of such construction.
 
-    (l) __Temporary Continuation of Allowance for Dependents of Members Dying on Active Duty.—__ 
+    (l)  __Temporary Continuation of Allowance for Dependents of Members Dying on Active Duty__  __.—__ 
 
         (1) The Secretary of Defense, or the Secretary of Homeland Security in the case of the Coast Guard when not operating as a service in the Navy, may allow the dependents of a member of the armed forces who dies on active duty and whose dependents are occupying family housing provided by the Department of Defense, or by the Department of Homeland Security in the case of the Coast Guard, other than on a rental basis on the date of the member’s death to continue to occupy such housing without charge for a period of 365 days.
 
@@ -227,7 +227,7 @@
 
         (4) The payment of the allowance under paragraph (2) shall terminate 365 days after the date of the member’s death.
 
-    (m) __Members Paying Child Support.—__ 
+    (m)  __Members Paying Child Support__  __.—__ 
 
         (1)
 
@@ -251,17 +251,17 @@
 
         (5) In the case of two members, who have one or more common dependents (and no others), who are not married to each other, and one of whom pays child support to the other, the amount of the basic allowance for housing paid to each member under this section shall be reduced in accordance with regulations prescribed by the Secretary of Defense. The total amount of the basic allowances for housing paid to the two members may not exceed the sum of the amounts of the allowance to which each member would be otherwise entitled under this section.
 
-    (n) __Partial Allowance for Members Without Dependents.—__ 
+    (n)  __Partial Allowance for Members Without Dependents__  __.—__ 
 
         (1) A member of a uniformed service without dependents who is not entitled to receive a basic allowance for housing under subsection (b), (c), or (d) is entitled to a partial basic allowance for housing at a rate determined by the Secretary of Defense under paragraph (2).
 
         (2) The rate of the partial basic allowance for housing is the partial rate of the basic allowance for quarters for the member’s pay grade as such partial rate was in effect on December 31, 1997, under [section 1009(c)(2) of this title][/us/usc/t37/s1009/c/2] (as such section was in effect on such date).
 
-    (o) __Treatment of Low-Cost and No-Cost Moves as Not Being Reassignments.—__ 
+    (o)  __Treatment of Low-Cost and No-Cost Moves as Not Being Reassignments__  __.—__ 
 
     In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member’s entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 470][/us/stat/76/470]; [Pub. L. 88–132, § 10][/us/pl/88/132/s10], Oct. 2, 1963, [77 Stat. 216][/us/stat/77/216]; [Pub. L. 89–718][/us/pl/89/718], §§ 49(a)(1), 54, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121], 1122; [Pub. L. 90–207, § 1(3)][/us/pl/90/207/s1/3], Dec. 16, 1967, [81 Stat. 651][/us/stat/81/651]; [Pub. L. 92–129, title II, § 204][/us/pl/92/129/s204], Sept. 28, 1971, [85 Stat. 358][/us/stat/85/358]; [Pub. L. 93–64, title I, § 105][/us/pl/93/64/s105], July 9, 1973, [87 Stat. 148][/us/stat/87/148]; [Pub. L. 93–419, § 3(6)][/us/pl/93/419/s3/6], Sept. 19, 1974, [88 Stat. 1152][/us/stat/88/1152]; [Pub. L. 96–343, § 4(a)(1)][/us/pl/96/343/s4/a/1], (2), Sept. 8, 1980, [94 Stat. 1125][/us/stat/94/1125]; [Pub. L. 96–513, title V, § 516(10)][/us/pl/96/513/s516/10], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579][/us/pl/96/579], §§ 6(a)–(c), 7, Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], 3368; [Pub. L. 97–22, § 11(b)(2)][/us/pl/97/22/s11/b/2], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–94, title IX, § 907(a)][/us/pl/98/94/s907/a], Sept. 24, 1983, [97 Stat. 637][/us/stat/97/637]; [Pub. L. 98–525, title VI][/us/pl/98/525], §§ 602(c), 604(a), Oct. 19, 1984, [98 Stat. 2534][/us/stat/98/2534], 2537; [Pub. L. 99–145, title VI][/us/pl/99/145], §§ 604(a), 605(a), title VIII, § 809(b), title XIII, § 1303(b)(6), Nov. 8, 1985, [99 Stat. 638][/us/stat/99/638], 681, 740; [Pub. L. 99–227, § 1][/us/pl/99/227/s1], Dec. 28, 1985, [99 Stat. 1745][/us/stat/99/1745]; [Pub. L. 100–26, § 8(d)(5)][/us/pl/100/26/s8/d/5], Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190], §§ 602(a), 604(a), 632(a), Dec. 5, 1991, [105 Stat. 1373][/us/stat/105/1373], 1374, 1380; [Pub. L. 103–337, div. A, title VI, § 604(a)][/us/pl/103/337/s604/a], (b), Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106], §§ 603(a), 604(a), Feb. 10, 1996, [110 Stat. 357][/us/stat/110/357], 358; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 604(a)–(c), 605, Sept. 23, 1996, [110 Stat. 2540][/us/stat/110/2540], 2541; [Pub. L. 105–85, div. A, title VI, § 603(a)][/us/pl/105/85/s603/a], Nov. 18, 1997, [111 Stat. 1775][/us/stat/111/1775]; [Pub. L. 105–261, div. A, title VI, § 603(a)][/us/pl/105/261/s603/a], Oct. 17, 1998, [112 Stat. 2037][/us/stat/112/2037]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, §§ 605(a)–(d), 607, 608, title X, § 1087(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–147 to 1654A–149, 1654A–292; [Pub. L. 107–107, div. A, title VI, § 605(a)][/us/pl/107/107/s605/a], Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 602][/us/pl/107/314/s602], Dec. 2, 2002, [116 Stat. 2566][/us/stat/116/2566]; [Pub. L. 108–136, div. A, title VI, § 605(a)][/us/pl/108/136/s605/a], Nov. 24, 2003, [117 Stat. 1500][/us/stat/117/1500]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 603, 604, Oct. 28, 2004, [118 Stat. 1944][/us/stat/118/1944]; [Pub. L. 109–13, div. A, title I, § 1022(a)][/us/pl/109/13/s1022/a], May 11, 2005, [119 Stat. 251][/us/stat/119/251]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 609(a), 610, 611, Jan. 6, 2006, [119 Stat. 3289][/us/stat/119/3289], 3290; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 604(a), 605(a), Oct. 17, 2006, [120 Stat. 2245][/us/stat/120/2245], 2246; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 602(a), 603(b), Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 601, 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1447][/us/stat/125/1447], 1465; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239], §§ 602, 603(a), 604(a), title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1773][/us/stat/126/1773], 1774, 1948.)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 470][/us/stat/76/470]; [Pub. L. 88–132, § 10][/us/pl/88/132/s10], Oct. 2, 1963, [77 Stat. 216][/us/stat/77/216]; [Pub. L. 89–718][/us/pl/89/718], §§ 49(a)(1), 54, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121], 1122; [Pub. L. 90–207, § 1(3)][/us/pl/90/207/s1/3], Dec. 16, 1967, [81 Stat. 651][/us/stat/81/651]; [Pub. L. 92–129, title II, § 204][/us/pl/92/129/s204], Sept. 28, 1971, [85 Stat. 358][/us/stat/85/358]; [Pub. L. 93–64, title I, § 105][/us/pl/93/64/s105], July 9, 1973, [87 Stat. 148][/us/stat/87/148]; [Pub. L. 93–419, § 3(6)][/us/pl/93/419/s3/6], Sept. 19, 1974, [88 Stat. 1152][/us/stat/88/1152]; [Pub. L. 96–343, § 4(a)(1)][/us/pl/96/343/s4/a/1], (2), Sept. 8, 1980, [94 Stat. 1125][/us/stat/94/1125]; [Pub. L. 96–513, title V, § 516(10)][/us/pl/96/513/s516/10], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579][/us/pl/96/579], §§ 6(a)–(c), 7, Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], 3368; [Pub. L. 97–22, § 11(b)(2)][/us/pl/97/22/s11/b/2], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–94, title IX, § 907(a)][/us/pl/98/94/s907/a], Sept. 24, 1983, [97 Stat. 637][/us/stat/97/637]; [Pub. L. 98–525, title VI][/us/pl/98/525], §§ 602(c), 604(a), Oct. 19, 1984, [98 Stat. 2534][/us/stat/98/2534], 2537; [Pub. L. 99–145, title VI][/us/pl/99/145], §§ 604(a), 605(a), title VIII, § 809(b), title XIII, § 1303(b)(6), Nov. 8, 1985, [99 Stat. 638][/us/stat/99/638], 681, 740; [Pub. L. 99–227, § 1][/us/pl/99/227/s1], Dec. 28, 1985, [99 Stat. 1745][/us/stat/99/1745]; [Pub. L. 100–26, § 8(d)(5)][/us/pl/100/26/s8/d/5], Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190], §§ 602(a), 604(a), 632(a), Dec. 5, 1991, [105 Stat. 1373][/us/stat/105/1373], 1374, 1380; [Pub. L. 103–337, div. A, title VI, § 604(a)][/us/pl/103/337/s604/a], (b), Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106], §§ 603(a), 604(a), Feb. 10, 1996, [110 Stat. 357][/us/stat/110/357], 358; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 604(a)–(c), 605, Sept. 23, 1996, [110 Stat. 2540][/us/stat/110/2540], 2541; [Pub. L. 105–85, div. A, title VI, § 603(a)][/us/pl/105/85/s603/a], Nov. 18, 1997, [111 Stat. 1775][/us/stat/111/1775]; [Pub. L. 105–261, div. A, title VI, § 603(a)][/us/pl/105/261/s603/a], Oct. 17, 1998, [112 Stat. 2037][/us/stat/112/2037]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, §§ 605(a)–(d), 607, 608, title X, § 1087(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–147 to 1654A–149, 1654A–292; [Pub. L. 107–107, div. A, title VI, § 605(a)][/us/pl/107/107/s605/a], Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 602][/us/pl/107/314/s602], Dec. 2, 2002, [116 Stat. 2566][/us/stat/116/2566]; [Pub. L. 108–136, div. A, title VI, § 605(a)][/us/pl/108/136/s605/a], Nov. 24, 2003, [117 Stat. 1500][/us/stat/117/1500]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 603, 604, Oct. 28, 2004, [118 Stat. 1944][/us/stat/118/1944]; [Pub. L. 109–13, div. A, title I, § 1022(a)][/us/pl/109/13/s1022/a], May 11, 2005, [119 Stat. 251][/us/stat/119/251]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 609(a), 610, 611, Jan. 6, 2006, [119 Stat. 3289][/us/stat/119/3289], 3290; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 604(a), 605(a), Oct. 17, 2006, [120 Stat. 2245][/us/stat/120/2245], 2246; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 602(a), 603(b), Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 601, 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1447][/us/stat/125/1447], 1465; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239], §§ 602, 603(a), 604(a), title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1773][/us/stat/126/1773], 1774, 1948; [Pub. L. 113–66, div. A, title VI, § 601][/us/pl/113/66/s601], Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
 
 <table>
 
@@ -371,7 +371,9 @@ June 29, 1950, ch. 405, § 102, 64 Stat. 288.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (b)(7)(E). [Pub. L. 112–239, § 602][/us/pl/112/239/s602], substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (b)(7)(E). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239, § 602][/us/pl/112/239/s602], substituted “December 31, 2013” for “December 31, 2012”.
 
     Subsec. (d)(2)(A). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
 
@@ -1561,11 +1563,11 @@ E–1  </td>
 
 [Pub. L. 109–364, div. A, title VI, § 605(b)][/us/pl/109/364/s605/b], Oct. 17, 2006, [120 Stat. 2246][/us/stat/120/2246], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2006.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     After October 1, 2006, the Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard, may pay the allowance authorized by section 403(l)(2) of title 37, United States Code, to a member of the uniformed services who is the spouse of a member who died on active duty during the one-year period ending on that date, except that the payment of the allowance must terminate within 365 days after the date of the member’s death.”
 
@@ -1755,11 +1757,11 @@ E–1  </td>
 
 [Pub. L. 112–239, div. A, title VI, § 604(b)][/us/pl/112/239/s604/b], Jan. 2, 2013, [126 Stat. 1774][/us/stat/126/1774], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of [section 403(g) of title 37][/us/usc/t37/s403/g], United States Code, as added by subsection (a), who on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Jan. 2, 2013\] is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6).
 
->     “(2) __Alternative rate.—__ 
+>     “(2)  __Alternative rate__  __.—__ 
 
 >     The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
 
@@ -1767,11 +1769,11 @@ E–1  </td>
 
 [Pub. L. 106–246, div. B, title I, § 101(a)][/us/pl/106/246/s101/a], (b), July 13, 2000, [114 Stat. 528][/us/stat/114/528], provided that:
 
->     “(a) __Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services.—__ 
+>     “(a)  __Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services__  __.—__ 
 
 >     During the period beginning on January 1, 2000, and ending on September 30, 2001 (or such earlier date as the Secretary of Defense considers appropriate), a member of the uniformed services entitled to a basic allowance for housing for a military housing area in the United States shall be paid the allowance at a monthly rate not less than the rate in effect on December 31, 1999, in that area for members serving in the same pay grade and with the same dependency status as the member.
 
->     “(b) __Annual Limitation on Allowance.—__ 
+>     “(b)  __Annual Limitation on Allowance__  __.—__ 
 
 >     In light of the rates for the basic allowance for housing authorized by subsection (a), the Secretary of Defense may exceed the limitation on the total amount paid during fiscal year 2000 and 2001 for the basic allowance for housing in the United States otherwise applicable under [section 403(b)(3) of title 37][/us/usc/t37/s403/b/3], United States Code.”
 
@@ -1917,6 +1919,9 @@ E–1  </td>
 [/us/stat/125/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1447
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1773
+[/us/pl/113/66/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs601
+[/us/stat/127/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F779
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs602
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA

@@ -15,7 +15,7 @@
 
 ## § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units
 
-    (a) __Retention Bonus Authorized.—__ 
+    (a)  __Retention Bonus Authorized__  __.—__ 
 
     An officer or enlisted member of the armed forces who is serving on active duty in a regular component or in an active status in a reserve component and who is qualified in a critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection may be paid a retention bonus as provided in this section if—
 
@@ -25,23 +25,23 @@
 
         (3) in the case of an enlisted member serving pursuant to an indefinite reenlistment, the member executes a written agreement to remain on active duty for a period of at least one year or to remain in an active status in a reserve component for a period of at least one year.
 
-    (b) __Eligibility Criteria.—__ 
+    (b)  __Eligibility Criteria__  __.—__ 
 
         (1) A designated critical military skill referred to in subsection (a) is a military skill designated as critical by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
         (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may designate a unit as a high priority unit regarding which a retention bonus will be provided to a member of the armed forces who agrees to accept an assignment to the unit under subsection (a).
 
-    (c) __Payment Methods.—__ 
+    (c)  __Payment Methods__  __.—__ 
 
     A bonus under this section may be paid in a single lump sum or in periodic installments.
 
-    (d) __Maximum Bonus Amount.—__ 
+    (d)  __Maximum Bonus Amount__  __.—__ 
 
         (1) A member may enter into an agreement under this section, or reenlist or voluntarily extend the member’s enlistment, more than once to receive a bonus under this section. However, a member may not receive a total of more than $200,000 (or $100,000 in the case of a reserve component member) in payments under this section.
 
         (2) The limitation in paragraph (1) on the total bonus payments that a member may receive under this section does not apply with respect to an officer who is assigned duties as a health care professional.
 
-    (e) __Certain Members Ineligible.—__ 
+    (e)  __Certain Members Ineligible__  __.—__ 
 
         (1)
 
@@ -63,23 +63,25 @@
 
         (4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
 
-    (f) __Relationship to Other Incentives.—__ 
+    (f)  __Relationship to Other Incentives__  __.—__ 
 
     A retention bonus paid under this section is in addition to any other pay and allowances to which a member is entitled.
 
-    (g) __Repayment.—__ 
+    (g)  __Repayment__  __.—__ 
 
     A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title][/us/usc/t37/s373].
 
-    (h) __Termination of Bonus Authority.—__ 
+    (h)  __Termination of Bonus Authority__  __.—__ 
 
-    No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2013, and no agreement under this section may be entered into after that date.
+    No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2014, and no agreement under this section may be entered into after that date.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 633(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, § 323; amended [Pub. L. 107–107, div. A, title VI, § 614(d)][/us/pl/107/107/s614/d], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 614(d), 618, Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2570; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(d), 622, title X, § 1045(b)(1), Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501], 1505, 1612; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(e), 621, title X, § 1084(e)(2), Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948], 1954, 2064; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3302, 3303, 3332; [Pub. L. 109–364, div. A, title VI, § 614(e)][/us/pl/109/364/s614/e], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; renumbered § 355 and amended [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 614(d), 622, 661(c), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 152, 178; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(h), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 614(9)][/us/pl/111/84/s614/9], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–207, § 4(a)(4)][/us/pl/111/207/s4/a/4], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251]; [Pub. L. 111–383, div. A, title VI, § 614(9)][/us/pl/111/383/s614/9], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(9)][/us/pl/112/81/s614/9], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(9)][/us/pl/112/239/s614/9], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
+(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 633(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, § 323; amended [Pub. L. 107–107, div. A, title VI, § 614(d)][/us/pl/107/107/s614/d], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 614(d), 618, Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2570; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(d), 622, title X, § 1045(b)(1), Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501], 1505, 1612; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(e), 621, title X, § 1084(e)(2), Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948], 1954, 2064; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3302, 3303, 3332; [Pub. L. 109–364, div. A, title VI, § 614(e)][/us/pl/109/364/s614/e], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; renumbered § 355 and amended [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 614(d), 622, 661(c), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 152, 178; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(h), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 614(9)][/us/pl/111/84/s614/9], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–207, § 4(a)(4)][/us/pl/111/207/s4/a/4], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251]; [Pub. L. 111–383, div. A, title VI, § 614(9)][/us/pl/111/383/s614/9], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(9)][/us/pl/112/81/s614/9], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(9)][/us/pl/112/239/s614/9], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(9)][/us/pl/113/66/s614/9], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
 
  __Amendments__ 
 
-    2013—Subsec. (h). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (h). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (h). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -207,6 +209,9 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s614/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs614%2F9
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
+[/us/pl/113/66/s614/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs614%2F9
+[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

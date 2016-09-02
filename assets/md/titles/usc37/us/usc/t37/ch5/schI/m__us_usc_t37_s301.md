@@ -2063,19 +2063,19 @@ Oct. 12, 1949, ch. 681, §§ 204, 501(d), (e) (as applicable to incentive pay)
 
 [Pub. L. 111–84, div. A, title VI, § 620][/us/pl/111/84/s620], Oct. 28, 2009, [123 Stat. 2357][/us/stat/123/2357], provided that:
 
->     “(a) __Special Pay Authorized.—__ 
+>     “(a)  __Special Pay Authorized__  __.—__ 
 
 >     The Secretary of the military department concerned may pay monthly special pay to any member of the Army, Navy, Air Force, or Marine Corps (including a member of a reserve component thereof) for any month, or portion of a month, in which the member serves on active duty in the Armed Forces, or has the member’s eligibility for retirement from the Armed Forces suspended, as described in subsection (b).
 
->     “(b) __Eligibility Requirements.—__ 
+>     “(b)  __Eligibility Requirements__  __.—__ 
 
 >     A member of the Armed Forces referred to in subsection (a) is eligible to receive special pay under this section if the member, at any time during the period beginning on October 1, 2009, and ending on June 30, 2011, serves on active duty while the member’s enlistment or period of obligated service is extended, or has the member’s eligibility for retirement suspended, pursuant to section 123 or 12305 of title 10, United States Code, or any other provision of law (commonly referred to as a ‘stop-loss authority’) that authorizes the President to extend an enlistment or period of obligated service, or suspend eligibility for retirement, of a member of the Armed Forces in time of war or national emergency declared by Congress or the President.
 
->     “(c) __Amount.—__ 
+>     “(c)  __Amount__  __.—__ 
 
 >     The amount of monthly special pay payable to a member under this section for a month may not exceed $500.
 
->     “(d) __Construction With Other Pays.—__ 
+>     “(d)  __Construction With Other Pays__  __.—__ 
 
 >     Monthly special pay payable to a member under this section is in addition to any other amounts payable to the member by law.”
 
@@ -2085,23 +2085,23 @@ Oct. 12, 1949, ch. 681, §§ 204, 501(d), (e) (as applicable to incentive pay)
 
 >     “(a) __Implementation Plan.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         The Secretary of Defense shall develop a plan to implement subchapters II and III of chapter 5 of title 37, United States Code, as added by section 661(a), and to correspondingly transition all of the special and incentive pay programs for members of the uniformed services solely to provisions of such subchapters.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary shall submit the implementation plan to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
 
->     “(b) __Transition Period.—__ 
+>     “(b)  __Transition Period__  __.—__ 
 
 >     During a transition period of not more than 10 years beginning on the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, the Secretary of a military department, and the Secretaries referred to in subsection (d) may continue to use the authorities in provisions in subchapter I of chapter 5 of title 37, United States Code, as designated by section 661(a), but subject to the terms of such provisions and such modifications as the Secretary of Defense may include in the implementation plan, to provide bonuses and special and incentive pays for members of the uniformed services.
 
->     “(c) __Notice of Implementation of New Authorities.—__ 
+>     “(c)  __Notice of Implementation of New Authorities__  __.—__ 
 
 >     Not less than 30 days before the date on which a special pay or bonus authority provided under subchapter II of chapter 5 of title 37, United States Code, as added by section 661(a), is first utilized, the Secretary of Defense shall submit to the congressional defense committees a notice of the implementation of the authority, including whether, as a result of implementation of the authority, a corresponding authority in subchapter I of such chapter, as designated by section 661(a), will no longer be used.
 
->     “(d) __Coordination.—__ 
+>     “(d)  __Coordination__  __.—__ 
 
 >     The Secretary of Defense shall prepare the implementation plan in coordination with—
 
@@ -2111,7 +2111,7 @@ Oct. 12, 1949, ch. 681, §§ 204, 501(d), (e) (as applicable to incentive pay)
 
 >         “(3) the Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
 
->     “(e) __No Effect on Fiscal Year 2008 Obligations.—__ 
+>     “(e)  __No Effect on Fiscal Year__  __2008__  __Obligations__  __.—__ 
 
 >     During fiscal year 2008, obligations incurred under subchapters I, II, and III of chapter 5 of title 37, United States Code, as amended by section 661, to provide bonuses, incentive pays, special pays, and similar payments to members of the uniformed services under such subchapters may not exceed the obligations that would be incurred in the absence of the amendments made by such section.”
 
@@ -2119,15 +2119,15 @@ Oct. 12, 1949, ch. 681, §§ 204, 501(d), (e) (as applicable to incentive pay)
 
 [Pub. L. 105–261, div. A, title VI, § 622][/us/pl/105/261/s622], Oct. 17, 1998, [112 Stat. 2042][/us/stat/112/2042], provided that:
 
->     “(a) __Requirement for New Incentives.—__ 
+>     “(a)  __Requirement for New Incentives__  __.—__ 
 
 >     The Secretary of Defense shall establish and provide for members of the Armed Forces qualified in critically short military occupational specialties a series of new incentives that the Secretary considers potentially effective for increasing the rates at which those members are retained in the Armed Forces for service in such specialties.
 
->     “(b) __Critically Short Military Occupational Specialties.—__ 
+>     “(b)  __Critically Short Military Occupational Specialties__  __.—__ 
 
 >     For the purposes of this section, a military occupational specialty is a critically short military occupational specialty for an Armed Force if the number of members retained in that Armed Force in fiscal year 1998 for service in that specialty is less than 50 percent of the number of members of that Armed Force that were projected to be retained in that Armed Force for service in the specialty by the Secretary of the military department concerned as of October 1, 1997.
 
->     “(c) __Incentives.—__ 
+>     “(c)  __Incentives__  __.—__ 
 
 >     It is the sense of Congress that, among the new incentives established and provided under this section, the Secretary of Defense should include the following incentives:
 
@@ -2143,11 +2143,11 @@ Oct. 12, 1949, ch. 681, §§ 204, 501(d), (e) (as applicable to incentive pay)
 
 >         “(6) Special consideration for Government housing or additional housing allowances.
 
->     “(d) __Relationship to Other Incentives.—__ 
+>     “(d)  __Relationship to Other Incentives__  __.—__ 
 
 >     Incentives provided under this section are in addition to any special pay or other benefit that is authorized under any other provision of law.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >         (1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 

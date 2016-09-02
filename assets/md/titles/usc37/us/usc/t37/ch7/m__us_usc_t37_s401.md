@@ -15,7 +15,7 @@
 
 ## § 401. Definitions
 
-    (a) __Dependent Defined.—__ 
+    (a)  __Dependent Defined__  __.—__ 
 
     In this chapter, the term “dependent”, with respect to a member of a uniformed service, means the following persons:
 
@@ -63,7 +63,7 @@
 
             (E) is not a dependent of a member under any other paragraph.
 
-    (b) __Other Definitions.—__ 
+    (b)  __Other Definitions__  __.—__ 
 
     For purposes of subsection (a):
 

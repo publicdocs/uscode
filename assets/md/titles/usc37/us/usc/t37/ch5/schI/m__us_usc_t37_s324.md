@@ -15,11 +15,11 @@
 
 ## § 324. Special pay: accession bonus for new officers in critical skills
 
-    (a) __Accession Bonus Authorized.—__ 
+    (a)  __Accession Bonus Authorized__  __.—__ 
 
     Under regulations prescribed by the Secretary concerned, a person who executes a written agreement to accept a commission or an appointment as an officer of the armed forces and serve on active duty in a designated critical officer skill for the period specified in the agreement may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
-    (b) __Designation of Critical Officer Skills.—__ 
+    (b)  __Designation of Critical Officer Skills__  __.—__ 
 
     The Secretary concerned shall designate the critical officer skills for the purposes of this section. A skill may be designated as a critical officer skill for an armed force under this subsection if—
 
@@ -27,31 +27,33 @@
 
         (2) in order to mitigate a current or projected significant shortage of personnel in the armed force who are qualified in that skill, it is critical to access into that armed force in sufficient numbers persons who are qualified in that skill or are to be trained in that skill.
 
-    (c) __Limitation on Amount of Bonus.—__ 
+    (c)  __Limitation on Amount of Bonus__  __.—__ 
 
     The amount of an accession bonus under subsection (a) may not exceed $60,000.
 
-    (d) __Payment Method.—__ 
+    (d)  __Payment Method__  __.—__ 
 
     Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid by the Secretary in a lump sum or installments.
 
-    (e) __Relation to Other Accession Bonus Authority.—__ 
+    (e)  __Relation to Other Accession Bonus Authority__  __.—__ 
 
     An individual may not receive an accession bonus under this section and section 302d, 302h, 302j, or 312b of this title for the same period of service.
 
-    (f) __Repayment.—__ 
+    (f)  __Repayment__  __.—__ 
 
     An individual who, having received all or part of the bonus under an agreement referred to in subsection (a), is not thereafter commissioned as an officer or does not commence or complete the total period of active duty service specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (g) __Termination of Authority.—__ 
+    (g)  __Termination of Authority__  __.—__ 
 
-    No agreement under this section may be entered into after December 31, 2013.
+    No agreement under this section may be entered into after December 31, 2014.
 
-(Added [Pub. L. 107–107, div. A, title VI, § 621(a)][/us/pl/107/107/s621/a], Dec. 28, 2001, [115 Stat. 1139][/us/stat/115/1139]; amended [Pub. L. 107–314, div. A, title VI, § 614(e)][/us/pl/107/314/s614/e], title X, § 1062(c)(2), Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2651; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(e), 623, Nov. 24, 2003, [117 Stat. 1502][/us/stat/117/1502], 1505; [Pub. L. 108–375, div. A, title VI, § 614(f)][/us/pl/108/375/s614/f], Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(f), 687(b)(32), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3332; [Pub. L. 109–364, div. A, title VI, § 614(f)][/us/pl/109/364/s614/f], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI, § 614(e)][/us/pl/110/181/s614/e], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(e), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(5)][/us/pl/111/84/s615/5], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(5)][/us/pl/111/383/s615/5], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(5)][/us/pl/112/81/s615/5], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(5)][/us/pl/112/239/s615/5], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
+(Added [Pub. L. 107–107, div. A, title VI, § 621(a)][/us/pl/107/107/s621/a], Dec. 28, 2001, [115 Stat. 1139][/us/stat/115/1139]; amended [Pub. L. 107–314, div. A, title VI, § 614(e)][/us/pl/107/314/s614/e], title X, § 1062(c)(2), Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568], 2651; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 614(e), 623, Nov. 24, 2003, [117 Stat. 1502][/us/stat/117/1502], 1505; [Pub. L. 108–375, div. A, title VI, § 614(f)][/us/pl/108/375/s614/f], Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(f), 687(b)(32), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3332; [Pub. L. 109–364, div. A, title VI, § 614(f)][/us/pl/109/364/s614/f], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI, § 614(e)][/us/pl/110/181/s614/e], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(e), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(5)][/us/pl/111/84/s615/5], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(5)][/us/pl/111/383/s615/5], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(5)][/us/pl/112/81/s615/5], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(5)][/us/pl/112/239/s615/5], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 615(5)][/us/pl/113/66/s615/5], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -119,6 +121,9 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs615%2F5
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
+[/us/pl/113/66/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs615%2F5
+[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

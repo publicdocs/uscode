@@ -15,7 +15,7 @@
 
 ## § 314. Special pay or bonus: qualified members extending duty at designated locations overseas
 
-    (a) __Covered Members.—__ 
+    (a)  __Covered Members__  __.—__ 
 
     This section applies with respect to a member of an armed force who—
 
@@ -27,7 +27,7 @@
 
         (4) at the end of that tour of duty executes an agreement to extend that tour for a period of not less than one year.
 
-    (b) __Special Pay or Bonus Authorized.—__ 
+    (b)  __Special Pay or Bonus Authorized__  __.—__ 
 
     Upon the acceptance by the Secretary concerned of the agreement providing for an extension of the tour of duty of a member described in subsection (a), the member is entitled, at the election of the Secretary concerned, to either—
 
@@ -35,15 +35,15 @@
 
         (2) an annual bonus in an amount prescribed by the Secretary, but not to exceed $2,000 per year.
 
-    (c) __Selection and Payment of Special Pay or Bonus.—__ 
+    (c)  __Selection and Payment of Special Pay or Bonus__  __.—__ 
 
     Not later than the date on which the Secretary concerned accepts an agreement described in subsection (a)(4) providing for the extension of a member’s tour of duty, the Secretary concerned shall notify the member regarding whether the member will receive special pay or a bonus under this section. The payment rate for the special pay or bonus shall be fixed at the time of the agreement and may not be changed during the period of the extended tour of duty. The Secretary concerned may pay a bonus under this section either in a lump sum or installments.
 
-    (d) __Repayment.—__ 
+    (d)  __Repayment__  __.—__ 
 
     A member who, having entered into a written agreement to extend a tour of duty for a period under subsection (a), receives a bonus payment under subsection (b)(2) for a 12-month period covered by the agreement and ceases during that 12-month period to perform the agreed tour of duty shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (e) __Effect of Rest and Recuperative Absence.—__ 
+    (e)  __Effect of Rest and Recuperative Absence__  __.—__ 
 
     A member who elects to receive one of the benefits specified in [section 705(b) of title 10][/us/usc/t10/s705/b] as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension of duty for which the benefit under such section is provided.
 

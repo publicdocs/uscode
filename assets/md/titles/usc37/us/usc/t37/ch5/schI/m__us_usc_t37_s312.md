@@ -15,7 +15,7 @@
 
 ## § 312. Special pay: nuclear-qualified officers extending period of active service
 
-    (a) __Special Pay Authorized; Eligibility.—__ 
+    (a)  __Special Pay Authorized; Eligibility__  __.—__ 
 
     Under regulations to be prescribed by the Secretary of the Navy, the Secretary may pay special pay under subsection (b) to an officer of the naval service who—
 
@@ -25,7 +25,7 @@
 
         (3) executes a written agreement to remain on active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants for a period of not less than three years, so long as the new period of obligated active service does not extend beyond the end of 30 years of commissioned service, in addition to any other period of obligated active service.
 
-    (b) __Payment Amount; Payment Options.—__ 
+    (b)  __Payment Amount; Payment Options__  __.—__ 
 
         (1) The total amount paid to an officer under an agreement under subsection (a) or (e)(1) may not exceed $30,000 for each year of the active-service agreement. Amounts paid under the agreement are in addition to all other compensation to which the officer is entitled.
 
@@ -35,29 +35,31 @@
 
         (4) The Secretary may accept an active service agreement under this section not more than one year in advance of the end of an officer’s existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, and, if the special pay will be paid in annual installments, the number of installments may not exceed the number of years covered by the agreement plus one.
 
-    (c) __Repayment.—__ 
+    (c)  __Repayment__  __.—__ 
 
     An officer who does not complete the period of active duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants that the officer agreed to serve, and for which a payment was made under subsection (b) or (e)(1), shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (d) __Relation to Service Obligation.—__ 
+    (d)  __Relation to Service Obligation__  __.—__ 
 
     Nothing in this section shall alter or modify the obligation of a regular officer to perform active service at the pleasure of the President. Completion of the additional period of active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer.
 
-    (e) __New Agreement.—__ 
+    (e)  __New Agreement__  __.—__ 
 
         (1) An officer who is performing obligated service under an agreement under subsection (a) may, if the amount that may be paid under subsection (b) is higher than at the time the officer executed such agreement, execute a new agreement under this subsection. The period of such an agreement shall be a period equal to or exceeding the original period of the officer’s existing agreement, so long as the period of obligated active service under the new agreement does not extend beyond the maximum number of years of commissioned service authorized by subsection (a)(3). If a new agreement is executed under this subsection, the existing active-service agreement shall be cancelled, effective on the day before an anniversary date of that agreement after the date on which the amount that may be paid under this section is increased.
 
         (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-    (f) __Duration of Authority.—__ 
+    (f)  __Duration of Authority__  __.—__ 
 
-    The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2013, execute the required written agreement to remain in active service.
+    The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2014, execute the required written agreement to remain in active service.
 
-(Added [Pub. L. 91–20, § 1(1)][/us/pl/91/20/s1/1], June 3, 1969, [83 Stat. 12][/us/stat/83/12]; amended [Pub. L. 92–581, § 1(1)][/us/pl/92/581/s1/1], (2), Oct. 27, 1972, [86 Stat. 1277][/us/stat/86/1277]; [Pub. L. 94–356, § 2][/us/pl/94/356/s2], July 12, 1976, [90 Stat. 901][/us/stat/90/901]; [Pub. L. 96–513, title V, § 516(8)][/us/pl/96/513/s516/8], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579, § 2(a)][/us/pl/96/579/s2/a], Dec. 23, 1980, [94 Stat. 3359][/us/stat/94/3359]; [Pub. L. 99–145, title VI, § 632(a)][/us/pl/99/145/s632/a], Nov. 8, 1985, [99 Stat. 643][/us/stat/99/643]; [Pub. L. 101–189, div. A, title VI, § 614(a)][/us/pl/101/189/s614/a], Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI, § 613(g)][/us/pl/103/337/s613/g], Oct. 5, 1994, [108 Stat. 2783][/us/stat/108/2783]; [Pub. L. 104–106, div. A, title VI, § 613(e)][/us/pl/104/106/s613/e], Feb. 10, 1996, [110 Stat. 360][/us/stat/110/360]; [Pub. L. 104–201, div. A, title VI, § 613(d)][/us/pl/104/201/s613/d], Sept. 23, 1996, [110 Stat. 2544][/us/stat/110/2544]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85], §§ 613(d), 624(a), Nov. 18, 1997, [111 Stat. 1786][/us/stat/111/1786], 1793; [Pub. L. 105–261, div. A, title VI, § 613(d)][/us/pl/105/261/s613/d], Oct. 17, 1998, [112 Stat. 2039][/us/stat/112/2039]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 613(e), 624(a), Oct. 5, 1999, [113 Stat. 650][/us/stat/113/650], 654; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 623(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–152; [Pub. L. 107–107, div. A, title VI, § 613(a)][/us/pl/107/107/s613/a], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–314, div. A, title VI, § 613(a)][/us/pl/107/314/s613/a], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI, § 613(a)][/us/pl/108/136/s613/a], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI, § 613(a)][/us/pl/108/375/s613/a], Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 623(a), 637, 687(b)(21), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3301, 3331; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 613(a), 618, Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248], 2251; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 613(a), 621(a), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 151; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, §§ 613(a), 617, Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485], 4486; [Pub. L. 111–84, div. A, title VI, § 613(1)][/us/pl/111/84/s613/1], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 613(1)][/us/pl/111/383/s613/1], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 613(1)][/us/pl/112/81/s613/1], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 613(1)][/us/pl/112/239/s613/1], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776].)
+(Added [Pub. L. 91–20, § 1(1)][/us/pl/91/20/s1/1], June 3, 1969, [83 Stat. 12][/us/stat/83/12]; amended [Pub. L. 92–581, § 1(1)][/us/pl/92/581/s1/1], (2), Oct. 27, 1972, [86 Stat. 1277][/us/stat/86/1277]; [Pub. L. 94–356, § 2][/us/pl/94/356/s2], July 12, 1976, [90 Stat. 901][/us/stat/90/901]; [Pub. L. 96–513, title V, § 516(8)][/us/pl/96/513/s516/8], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579, § 2(a)][/us/pl/96/579/s2/a], Dec. 23, 1980, [94 Stat. 3359][/us/stat/94/3359]; [Pub. L. 99–145, title VI, § 632(a)][/us/pl/99/145/s632/a], Nov. 8, 1985, [99 Stat. 643][/us/stat/99/643]; [Pub. L. 101–189, div. A, title VI, § 614(a)][/us/pl/101/189/s614/a], Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI, § 613(g)][/us/pl/103/337/s613/g], Oct. 5, 1994, [108 Stat. 2783][/us/stat/108/2783]; [Pub. L. 104–106, div. A, title VI, § 613(e)][/us/pl/104/106/s613/e], Feb. 10, 1996, [110 Stat. 360][/us/stat/110/360]; [Pub. L. 104–201, div. A, title VI, § 613(d)][/us/pl/104/201/s613/d], Sept. 23, 1996, [110 Stat. 2544][/us/stat/110/2544]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85], §§ 613(d), 624(a), Nov. 18, 1997, [111 Stat. 1786][/us/stat/111/1786], 1793; [Pub. L. 105–261, div. A, title VI, § 613(d)][/us/pl/105/261/s613/d], Oct. 17, 1998, [112 Stat. 2039][/us/stat/112/2039]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 613(e), 624(a), Oct. 5, 1999, [113 Stat. 650][/us/stat/113/650], 654; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 623(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–152; [Pub. L. 107–107, div. A, title VI, § 613(a)][/us/pl/107/107/s613/a], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–314, div. A, title VI, § 613(a)][/us/pl/107/314/s613/a], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI, § 613(a)][/us/pl/108/136/s613/a], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI, § 613(a)][/us/pl/108/375/s613/a], Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 623(a), 637, 687(b)(21), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3301, 3331; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 613(a), 618, Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248], 2251; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 613(a), 621(a), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149], 151; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, §§ 613(a), 617, Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485], 4486; [Pub. L. 111–84, div. A, title VI, § 613(1)][/us/pl/111/84/s613/1], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 613(1)][/us/pl/111/383/s613/1], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 613(1)][/us/pl/112/81/s613/1], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 613(1)][/us/pl/112/239/s613/1], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 613(1)][/us/pl/113/66/s613/1], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
 
  __Amendments__ 
 
-    2013—Subsec. (f). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (f). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (f). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -295,6 +297,9 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s613/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs613%2F1
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
+[/us/pl/113/66/s613/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs613%2F1
+[/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

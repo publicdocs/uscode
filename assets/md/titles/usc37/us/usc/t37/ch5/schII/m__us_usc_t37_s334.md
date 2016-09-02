@@ -15,7 +15,7 @@
 
 ## § 334. Special aviation incentive pay and bonus authorities for officers
 
-    (a) __Aviation Incentive Pay.—__ 
+    (a)  __Aviation Incentive Pay__  __.—__ 
 
     The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
 
@@ -29,7 +29,7 @@
 
         (5) meets such other criteria as the Secretary concerned determines appropriate.
 
-    (b) __Aviation Bonus.—__ 
+    (b)  __Aviation Bonus__  __.—__ 
 
     The Secretary concerned may pay an aviation bonus under this section to an officer in a regular or reserve component of a uniformed service who—
 
@@ -43,7 +43,7 @@
 
     (c) __Maximum Amount and Method of Payment.—__ 
 
-        (1) __Maximum amount.—__ 
+        (1)  __Maximum amount__  __.—__ 
 
         The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
 
@@ -51,15 +51,15 @@
 
             (B) an aviation bonus under subsection (b) may not exceed $25,000 for each 12-month period of obligated service agreed to under subsection (d).
 
-        (2) __Lump sum or installments.—__ 
+        (2)  __Lump sum or installments__  __.—__ 
 
         A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
 
-        (3) __Fixing bonus amount.—__ 
+        (3)  __Fixing bonus amount__  __.—__ 
 
         Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
 
-    (d) __Written Agreement for Bonus.—__ 
+    (d)  __Written Agreement for Bonus__  __.—__ 
 
     To receive an aviation officer bonus under this section, an officer determined to be eligible for the bonus shall enter into a written agreement with the Secretary concerned that specifies—
 
@@ -71,25 +71,25 @@
 
         (4) the type or conditions of the service.
 
-    (e) __Reserve Component Officers Performing Inactive Duty Training.—__ 
+    (e)  __Reserve Component Officers Performing Inactive Duty Training__  __.—__ 
 
     A reserve component officer who is entitled to compensation under [section 206 of this title][/us/usc/t37/s206] and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under section 206 for inactive-duty training.
 
     (f) __Relationship to Other Pay and Allowances.—__ 
 
-        (1) __Aviation incentive pay.—__ 
+        (1)  __Aviation incentive pay__  __.—__ 
 
         Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353 of this title for the same skill and period of service.
 
-        (2) __Aviation bonus.—__ 
+        (2)  __Aviation bonus__  __.—__ 
 
         An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 332 or 353 of this title for the same skill and period of service.
 
-    (g) __Repayment.—__ 
+    (g)  __Repayment__  __.—__ 
 
     An officer who receives aviation incentive pay or an aviation bonus under this section and who fails to fulfill the eligibility requirements for the receipt of the incentive pay or bonus or complete the period of service for which the incentive pay or bonus is paid, as specified in the written agreement under subsection (d) in the case of a bonus, shall be subject to the repayment provisions of [section 373 of this title][/us/usc/t37/s373].
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -101,15 +101,17 @@
 
         (4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 6911 of title 10][/us/usc/t10/s6911].
 
-    (i) __Termination of Authority.—__ 
+    (i)  __Termination of Authority__  __.—__ 
 
-    No agreement may be entered into under this section after December 31, 2013.
+    No agreement may be entered into under this section after December 31, 2014.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 167][/us/stat/122/167]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 618(b), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title VI, § 614(4)][/us/pl/111/84/s614/4], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(4)][/us/pl/111/383/s614/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(4)][/us/pl/112/81/s614/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(4)][/us/pl/112/239/s614/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
+(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 167][/us/stat/122/167]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 618(b), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title VI, § 614(4)][/us/pl/111/84/s614/4], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(4)][/us/pl/111/383/s614/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(4)][/us/pl/112/81/s614/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(4)][/us/pl/112/239/s614/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(4)][/us/pl/113/66/s614/4], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
 
  __Amendments__ 
 
-    2013—Subsec. (i). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (i). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (i). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -143,6 +145,9 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s614/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs614%2F4
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
+[/us/pl/113/66/s614/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs614%2F4
+[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

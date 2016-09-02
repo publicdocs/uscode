@@ -385,7 +385,7 @@
 
 [Pub. L. 101–189, div. A, title VI, § 631(e)][/us/pl/101/189/s631/e], (f), Nov. 29, 1989, [103 Stat. 1450][/us/stat/103/1450], provided that:
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >         (1)
 
@@ -399,7 +399,7 @@
 
 >         “(3) If the Secretary of a military department delays under paragraph (2) the implementation of the amendments made by subsection (c) beyond October 1, 1991, the Secretary may also delay implementation of the amendments made by subsections (a), (b), and (d) until the date on which the Secretary implements the amendments made by subsection (c). During the delay in implementation, the provisions of [section 301a of title 37][/us/usc/t37/s301a], United States Code, as in effect on the day before the date of the enactment of this Act, shall continue to apply in the case of such department to the payment of aviation career incentive pay under such section.
 
->     “(f) __Transition.—__ 
+>     “(f)  __Transition__  __.—__ 
 
 >         (1)
 

@@ -15,11 +15,11 @@
 
 ## § 472. Definitions and other incorporated provisions of chapter 7
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     The provisions of [section 401 of this title][/us/usc/t37/s401] apply to this subchapter.
 
-    (b) __Other Provisions.—__ 
+    (b)  __Other Provisions__  __.—__ 
 
     The provisions of sections 421 and 423 of this title apply to this subchapter.
 

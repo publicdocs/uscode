@@ -15,11 +15,11 @@
 
 ## § 488. Allowance for recruiting expenses
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     In addition to other pay or allowances authorized by law, and under uniform regulations prescribed by the Secretaries concerned, a member who is assigned to recruiting duties for his armed force may be reimbursed for actual and necessary expenses incurred in connection with those duties.
 
-    (b) __Termination.—__ 
+    (b)  __Termination__  __.—__ 
 
     No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 

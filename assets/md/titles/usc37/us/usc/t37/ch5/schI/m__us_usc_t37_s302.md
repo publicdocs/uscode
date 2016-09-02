@@ -15,7 +15,7 @@
 
 ## § 302. Special pay: medical officers of the armed forces
 
-    (a) __Variable, Additional, and Board Certification Special Pay.—__ 
+    (a)  __Variable, Additional, and Board Certification Special Pay__  __.—__ 
 
         (1) An officer who is an officer of the Medical Corps of the Army or the Navy or an officer of the Air Force designated as a medical officer and who is on active duty under a call or order to active duty for a period of not less than one year is entitled to special pay in accordance with this subsection.
 
@@ -59,19 +59,19 @@
 
             (E) $6,000 per year, if the officer has eighteen or more years of creditable service.
 
-    (b) __Incentive Special Pay.—__ 
+    (b)  __Incentive Special Pay__  __.—__ 
 
         (1) Subject to subsection (c) and paragraph (2) and under regulations prescribed under [section 303a(a) of this title][/us/usc/t37/s303a/a], an officer who is entitled to variable special pay under subsection (a)(2) may be paid incentive special pay for any twelve-month period during which the officer is not undergoing medical internship or initial residency training. The amount of incentive special pay paid to an officer under this subsection may not exceed $75,000 for any 12-month period.
 
         (2) An officer is not eligible for incentive special pay under paragraph (1) unless the Secretary concerned has determined that such officer is qualified in the medical profession.
 
-    (c) __Active-Duty Agreement.—__ 
+    (c)  __Active-Duty Agreement__  __.—__ 
 
         (1) An officer may not be paid additional special pay under subsection (a)(4) or incentive special pay under subsection (b) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
         (2) Under regulations prescribed by the Secretary of Defense under [section 303a(a) of this title][/us/usc/t37/s303a/a], the Secretary of the military department concerned may terminate at any time an officer’s entitlement to the special pay authorized by subsection (a)(4) or (b)(1). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     Regulations prescribed by the Secretary of Defense under [section 303a(a) of this title][/us/usc/t37/s303a/a] shall include standards for determining—
 
@@ -79,15 +79,15 @@
 
         (2) whether an officer is board certified for purposes of subsection (a)(5).
 
-    (e) __Frequency of Payments.—__ 
+    (e)  __Frequency of Payments__  __.—__ 
 
     Special pay payable to an officer under paragraphs (2), (3), and (5) of subsection (a) shall be paid monthly. Special pay payable to an officer under subsection (a)(4) or (b)(1) shall be paid annually at the beginning of the twelve-month period for which the officer is entitled to such payment.
 
-    (f) __Repayment.—__ 
+    (f)  __Repayment__  __.—__ 
 
     An officer who does not complete the period for which the payment was made under subsection (a)(4) or subsection (b)(1) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (g) __Determination of Creditable Service.—__ 
+    (g)  __Determination of Creditable Service__  __.—__ 
 
     For purposes of this section, creditable service of an officer is computed by adding—
 
@@ -95,7 +95,7 @@
 
         (2) all periods of active service in the Medical Corps of the Army or Navy, as an officer of the Air Force designated as a medical officer, or as a medical officer of the Public Health Service.
 
-    (h) __Reserve Medical Officers Special Pay.—__ 
+    (h)  __Reserve Medical Officers Special Pay__  __.—__ 
 
         (1) A reserve medical officer described in paragraph (2) is entitled to special pay at the rate of $450 a month for each month of active duty, including active duty in the form of annual training, active duty for training, and active duty for special work.
 
@@ -107,7 +107,7 @@
 
             (B) is on active duty under a call or order to active duty for a period of less than one year.
 
-    (i) __Effect of Discharge in Bankruptcy.—__ 
+    (i)  __Effect of Discharge in Bankruptcy__  __.—__ 
 
     A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 

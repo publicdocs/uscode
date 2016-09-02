@@ -15,17 +15,17 @@
 
 ## § 373. Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met
 
-    (a) __Repayment and Termination.—__ 
+    (a)  __Repayment and Termination__  __.—__ 
 
     Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member’s satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portion of the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service or eligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
 
     (b) __Exceptions.—__ 
 
-        (1) __Discretion to provide exception to termination and repayment requirements.—__ 
+        (1)  __Discretion to provide exception to termination and repayment requirements__  __.—__ 
 
         Pursuant to the regulations prescribed to administer this section, the Secretary concerned may grant an exception to the repayment requirement and requirement to terminate the payment of unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that the imposition of the repayment and termination requirements with regard to a member of the uniformed services would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-        (2) __Special rule for deceased and disabled members.—__ 
+        (2)  __Special rule for deceased and disabled members__  __.—__ 
 
             (A)
 
@@ -43,7 +43,7 @@
 
             (E) In this paragraph, the term “combat-related disability” has the meaning given that term in [section 1413a(e) of title 10][/us/usc/t10/s1413a/e].
 
-        (3) __Special rule for members who receive sole survivorship discharge.—__ 
+        (3)  __Special rule for members who receive sole survivorship discharge__  __.—__ 
 
             (A)
 
@@ -67,7 +67,7 @@
 
                 (ii) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 
-    (c) __Effect of Bankruptcy.—__ 
+    (c)  __Effect of Bankruptcy__  __.—__ 
 
     An obligation to repay the United States under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after—
 
@@ -75,7 +75,7 @@
 
         (2) in the absence of such an agreement or contract, the date of the termination of the service on which the debt is based.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

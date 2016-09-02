@@ -15,7 +15,7 @@
 
 ## § 481h. Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury
 
-    (a) __Travel and Transportation Authorized.—__ 
+    (a)  __Travel and Transportation Authorized__  __.—__ 
 
         (1) Under uniform regulations prescribed by the Secretaries concerned, travel and transportation described in subsection (c) may be provided for not more than three individuals who, with respect to a member described in paragraph (2), are designated individuals for that member if the attending physician or surgeon and the commander or head of the military medical facility exercising control over the member determine, with respect to any such individual, that the presence of such individual may contribute to the member’s health and welfare. In circumstances determined to be appropriate by the Secretary concerned, the Secretary may waive the limitation on the number of designated individuals provided travel and transportation under this section.
 
@@ -37,7 +37,7 @@
 
         (4) In the case of a designated individual who is also a member of the uniformed services, that member may be provided travel and transportation under this section in the same manner as a designated individual who is not a member.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
         (1)
 
@@ -81,13 +81,13 @@
 
                 (iii) The member is diagnosed with a mental disorder and has severe symptoms or severe impairment in functioning that require intensive mental health treatment or hospitalization.
 
-    (c) __Round Trip Transportation and Per Diem Allowance.—__ 
+    (c)  __Round Trip Transportation and Per Diem Allowance__  __.—__ 
 
         (1) The transportation authorized by subsection (a) is round-trip transportation between the home of the designated individual and the location of the medical facility in which the member is hospitalized.
 
         (2) In addition to the transportation authorized by subsection (a), the Secretary concerned may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established under [section 474(d) of this title][/us/usc/t37/s474/d].
 
-    (d) __Method of Transportation Authorized.—__ 
+    (d)  __Method of Transportation Authorized__  __.—__ 
 
         (1)
 
@@ -103,7 +103,7 @@
 
         (3) Reimbursement payable under this subsection may not exceed the cost of government-procured commercial round-trip air travel.
 
-    (e) __Termination.—__ 
+    (e)  __Termination__  __.—__ 
 
     No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

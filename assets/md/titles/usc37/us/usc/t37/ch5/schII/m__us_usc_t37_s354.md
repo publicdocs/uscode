@@ -15,7 +15,7 @@
 
 ## § 354. Special pay: 15-year career status bonus for members entering service on or after August 1, 1986
 
-    (a) __Availability of Bonus.—__ 
+    (a)  __Availability of Bonus__  __.—__ 
 
     The Secretary concerned shall pay a bonus under this section to an eligible career bonus member if the member—
 
@@ -23,7 +23,7 @@
 
         (2) executes a written agreement (prescribed by the Secretary concerned) to remain continuously on active duty until the member has completed 20 years of active-duty service creditable under [section 1405 of title 10][/us/usc/t10/s1405].
 
-    (b) __Eligible Career Bonus Member Defined.—__ 
+    (b)  __Eligible Career Bonus Member Defined__  __.—__ 
 
     In this section, the term “eligible career bonus member” means a member of a uniformed service serving on active duty who—
 
@@ -31,11 +31,11 @@
 
         (2) has completed 15 years of active duty in the uniformed services (or has received notification under subsection (e) that the member is about to complete that duty).
 
-    (c) __Election Method.—__ 
+    (c)  __Election Method__  __.—__ 
 
     An election under subsection (a)(1) shall be made in such form and within such period as the Secretary concerned may prescribe. An election under that subsection is irrevocable.
 
-    (d) __Amount of Bonus; Payment.—__ 
+    (d)  __Amount of Bonus; Payment__  __.—__ 
 
         (1) A bonus under this section shall be equal to $30,000.
 
@@ -63,7 +63,7 @@
 
         (4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concerned receives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
 
-    (e) __Notification of Eligibility.—__ 
+    (e)  __Notification of Eligibility__  __.—__ 
 
         (1) The Secretary concerned shall transmit to each member who meets the definition of eligible career bonus member a written notification of the opportunity of the member to elect to receive a bonus under this section. The Secretary shall provide the notification not later than 180 days before the date on which the member will complete 15 years of active duty.
 
@@ -75,7 +75,7 @@
 
             (B) An explanation of the effects under sections 1401a, 1409, and 1410 of title 10 that such an election has on the computation of any retired or retainer pay that the member may become eligible to receive.
 
-    (f) __Repayment.—__ 
+    (f)  __Repayment__  __.—__ 
 
     If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of [section 373 of this title][/us/usc/t37/s373].
 

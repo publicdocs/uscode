@@ -63,7 +63,11 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    For provisions relating to the applicability of amendment by [Pub. L. 105–261][/us/pl/105/261], see [section 653(e) of Pub. L. 105–261][/us/pl/105/261/s653/e], set out as a note under [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces.
+[Pub. L. 105–261, div. A, title VI, § 653(e)][/us/pl/105/261/s653/e], Oct. 17, 1998, [112 Stat. 2052][/us/stat/112/2052], provided that:
+
+>     “(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section \[amending this section and sections 406 and 554 of this title and [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces\] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delay in the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard.
+
+>     “(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act \[Oct. 17, 1998\] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments.”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -130,8 +134,8 @@
 [/us/pl/97/60/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs121%2Fc
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/89/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F608
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/261/s653/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs653%2Fe
+[/us/stat/112/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2052
 [/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/pl/104/106/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs622%2Fb
 [/us/stat/110/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F363

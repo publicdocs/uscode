@@ -15,7 +15,7 @@
 
 ## § 325. Incentive bonus: savings plan for education expenses and other contingencies
 
-    (a) __Benefit and Eligibility.—__ 
+    (a)  __Benefit and Eligibility__  __.—__ 
 
     The Secretary concerned may purchase United States savings bonds under this section for a member of the armed forces who is eligible as follows:
 
@@ -25,7 +25,7 @@
 
         (3) A member who, after completing nine years of service on active duty, enters into a commitment to perform qualifying service.
 
-    (b) __Qualifying Service.—__ 
+    (b)  __Qualifying Service__  __.—__ 
 
     For the purposes of this section, qualifying service is service on active duty in a specialty designated by the Secretary concerned as critical to meet requirements (whether or not such specialty is designated as critical to meet wartime or peacetime requirements) for a period that—
 
@@ -33,7 +33,7 @@
 
         (2) does not include any part of a period for which the member is obligated to serve on active duty under an enlistment or other agreement for which a benefit has previously been paid under this section.
 
-    (c) __Forms of Commitment to Additional Service.—__ 
+    (c)  __Forms of Commitment to Additional Service__  __.—__ 
 
     For the purposes of this section, a commitment means—
 
@@ -41,7 +41,7 @@
 
         (2) in the case of a commissioned officer, an agreement entered into with the Secretary concerned.
 
-    (d) __Amounts of Bonds.—__ 
+    (d)  __Amounts of Bonds__  __.—__ 
 
     The total of the face amounts of the United States savings bonds authorized to be purchased for a member under this section for a commitment shall be as follows:
 
@@ -51,7 +51,7 @@
 
         (3) In the case of a purchase for a member under paragraph (3) of subsection (a), the amount equal to the excess of $30,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
 
-    (e) __Total Amount of Benefit.—__ 
+    (e)  __Total Amount of Benefit__  __.—__ 
 
     The total amount of the benefit authorized for a member when United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
 
@@ -59,19 +59,19 @@
 
         (2) the amounts that would be deducted and withheld for the payment of individual income taxes if the total amount computed under this subsection for that commitment were paid to the member as a bonus.
 
-    (f) __Amount Withheld for Taxes.—__ 
+    (f)  __Amount Withheld for Taxes__  __.—__ 
 
     The total amount payable for a member under subsection (e)(2) for a commitment by that member shall be withheld, credited, and otherwise treated in the same manner as amounts deducted and withheld from the basic pay of the member.
 
-    (g) __Repayment.—__ 
+    (g)  __Repayment__  __.—__ 
 
     If a person does not complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (h) __Relationship to Other Special Pays.—__ 
+    (h)  __Relationship to Other Special Pays__  __.—__ 
 
     The benefit authorized under this section is in addition to any other bonus or incentive or special pay that is paid or payable to a member under any other provision of this chapter for any portion of the same qualifying service.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 

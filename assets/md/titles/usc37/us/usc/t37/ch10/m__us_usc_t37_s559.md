@@ -143,15 +143,15 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 667\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, as amended by [Pub. L. 110–181, div. A, title VI, § 675(a)][/us/pl/110/181/s675/a], Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186], provided that:
 
->     “(a) __Entitlement of Former Prisoners of War.—__ 
+>     “(a)  __Entitlement of Former Prisoners of War__  __.—__ 
 
 >     Upon receipt of a claim made in accordance with this section, the Secretary of the Navy shall pay, from any appropriation currently available to the Secretary, back pay to any person who, by reason of being interned as a prisoner of war while serving as a member of the Navy or the Marine Corps during World War II, was not available to accept a promotion for which the person had been selected.
 
->     “(b) __Payment to Surviving Spouse of Deceased Former Member.—__ 
+>     “(b)  __Payment to Surviving Spouse of Deceased Former Member__  __.—__ 
 
 >     In the case of a person described in subsection (a) who is deceased, the back pay for that person under this section shall be paid to the living surviving spouse of that person, if any. If there is no living surviving spouse, no claim may be paid under this section with respect to that person.
 
->     “(c) __Amount of Back Pay.—__ 
+>     “(c)  __Amount of Back Pay__  __.—__ 
 
 >         (1)
 
@@ -179,31 +179,31 @@
 
 >         “(3) The amount determined for a person under paragraph (1) shall be increased to reflect increases in cost of living since the basic pay referred to in paragraph (1)(B) was paid to or for that person, calculated on the basis of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics.
 
->     “(d) __Time Limitations.—__ 
+>     “(d)  __Time Limitations__  __.—__ 
 
 >         (1) To be eligible for a payment under this section, a claimant must file a claim for such payment with the Secretary of the Navy within two years after the effective date of the regulations prescribed to carry out this section.
 
 >         “(2) Not later than 18 months after receiving a claim for payment under this section, the Secretary shall determine the eligibility of the claimant for payment of the claim. Subject to subsection (f), if the Secretary determines that the claimant is eligible for the payment, the Secretary shall promptly pay the claim.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of the Navy shall prescribe regulations to carry out this section. Such regulations shall include procedures by which persons may submit claims for payment under this section.
 
->     “(f) __Limitation on Disbursement.—__ 
+>     “(f)  __Limitation on Disbursement__  __.—__ 
 
 >         (1) Notwithstanding any power of attorney, assignment of interest, contract, or other agreement, the actual disbursement of a payment of back pay under this section may be made only to a person who is eligible for the payment under subsection (a) or (b).
 
 >         “(2) In the case of a claim approved for payment but not disbursed as a result of paragraph (1), the Secretary shall hold the funds in trust for the person in an interest bearing account until such time as the person makes an election under such paragraph.
 
->     “(g) __Attorney Fees.—__ 
+>     “(g)  __Attorney Fees__  __.—__ 
 
 >     Notwithstanding any contract, the representative of a person may not receive, for services rendered in connection with the claim of, or with respect to, a person under this section, more than 10 percent of the amount of a payment made under this section on that claim.
 
->     “(h) __Outreach.—__ 
+>     “(h)  __Outreach__  __.—__ 
 
 >     The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this section are widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
 
->     “(i) __Definition.—__ 
+>     “(i)  __Definition__  __.—__ 
 
 >     In this section, the term ‘World War II’ has the meaning given that term in [section 101(8) of title 38][/us/usc/t38/s101/8], United States Code.”
 

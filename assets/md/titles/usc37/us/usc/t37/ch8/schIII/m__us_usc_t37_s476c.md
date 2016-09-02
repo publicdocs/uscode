@@ -15,7 +15,7 @@
 
 ## § 476c. Travel and transportation allowances: members assigned to a vessel under construction
 
-    (a) __Allowance Authorized.—__ 
+    (a)  __Allowance Authorized__  __.—__ 
 
         (1)
 
@@ -37,25 +37,29 @@
 
         (3) The amount of reimbursement for personally procured transportation or the allowance for transportation under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
-    (b) __Dependents Travel.—__ 
+    (b)  __Dependents Travel__  __.—__ 
 
         (1) In lieu of the entitlement of a member of the uniformed services to transportation under subsection (a), the Secretary concerned may provide transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in [section 474(d)(1) of this title][/us/usc/t37/s474/d/1] for the travel of the dependents of the member from the designated home port of the ship, or the area where the dependents of the member are residing, to the port of construction.
 
         (2) The total reimbursement for transportation for the member’s dependents under paragraph (1) may not exceed the cost of Government-procured commercial round-trip travel.
 
-    (c) __Change of Home Port.—__ 
+    (c)  __Change of Home Port__  __.—__ 
 
-    In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title][/us/usc/t37/s476] and [section 2634 of title 10][/us/usc/t10/s2634].
+    In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title][/us/usc/t37/s476] and section 2634  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 10.
 
-    (d) __Application of Other Law.—__ 
+    (d)  __Application of Other Law__  __.—__ 
 
     [Section 420 of this title][/us/usc/t37/s420] does not apply with respect to transportation or allowances provided under this section.
 
-    (e) __Termination.—__ 
+    (e)  __Termination__  __.—__ 
 
     No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 (Added [Pub. L. 101–189, div. A, title VI, § 624(a)(1)][/us/pl/101/189/s624/a/1], Nov. 29, 1989, [103 Stat. 1447][/us/stat/103/1447], § 406c; amended [Pub. L. 102–190, div. A, title VI, § 622][/us/pl/102/190/s622], Dec. 5, 1991, [105 Stat. 1378][/us/stat/105/1378]; renumbered § 476c and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(9), (f)(4)(A), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1462, 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+
+ __References in Text__ 
+
+    [Section 2634 of title 10][/us/usc/t10/s2634], referred to in subsec. (c), was repealed by [Pub. L. 113–66, div. A, title VI, § 621(g)(1)][/us/pl/113/66/s621/g/1], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784].
 
  __Amendments__ 
 
@@ -83,7 +87,6 @@
 [/us/usc/t37/s474/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F3
 [/us/usc/t37/s474/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F1
 [/us/usc/t37/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs476
-[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t37/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs420
 [/us/pl/101/189/s624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs624%2Fa%2F1
 [/us/stat/103/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1447
@@ -93,6 +96,9 @@
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
+[/us/pl/113/66/s621/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fg%2F1
+[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA

@@ -15,11 +15,11 @@
 
 ## § 910. Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service
 
-    (a) __Payment Required.—__ 
+    (a)  __Payment Required__  __.—__ 
 
     The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
         (1)
 
@@ -47,13 +47,13 @@
 
             (B) a comparable benefit under an administratively established program for civilian employees absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services.
 
-    (c) __Minimum and Maximum Payment Amounts.—__ 
+    (c)  __Minimum and Maximum Payment Amounts__  __.—__ 
 
         (1) A payment under this section shall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
 
         (2) Notwithstanding the amount determined under subsection (d) for a member for a month, the monthly payment to a member under this section may not exceed $3,000.
 
-    (d) __Monthly Active-Duty Income Differential.—__ 
+    (d)  __Monthly Active-Duty Income Differential__  __.—__ 
 
     For purposes of this section, the monthly active-duty income differential of a member is the difference between—
 
@@ -61,7 +61,7 @@
 
         (2) the member’s total monthly military compensation.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -75,19 +75,21 @@
 
             (B) any amount of special pay or incentive pay and any allowance (other than an allowance included in regular military compensation) that is paid to the member on a monthly basis.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-    (g) __Termination.—__ 
+    (g)  __Termination__  __.—__ 
 
-    No payment shall be made to a member under this section for months beginning after December 31, 2013, unless the entitlement of the member to payments under this section commenced on or before that date.
+    No payment shall be made to a member under this section for months beginning after December 31, 2014, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added [Pub. L. 109–163, div. A, title VI, § 614(a)][/us/pl/109/163/s614/a], Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI, § 604][/us/pl/110/181/s604], Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI, § 611(7)][/us/pl/111/84/s611/7], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)][/us/pl/112/81/s611/7], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(8)][/us/pl/112/239/s611/8], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776].)
+(Added [Pub. L. 109–163, div. A, title VI, § 614(a)][/us/pl/109/163/s614/a], Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI, § 604][/us/pl/110/181/s604], Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI, § 611(7)][/us/pl/111/84/s611/7], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)][/us/pl/112/81/s611/7], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(8)][/us/pl/112/239/s611/8], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(8)][/us/pl/113/66/s611/8], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (b)(3). [Pub. L. 111–383, § 601(a)][/us/pl/111/383/s601/a], added par. (3).
 
@@ -147,6 +149,9 @@
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
 [/us/pl/112/239/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F8
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
+[/us/pl/113/66/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F8
+[/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs601%2Fa
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
