@@ -115,7 +115,7 @@
 
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6232" data-uslm-ref="/us/usc/t26/s6232">6232.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Repealed.]  <sup>[1]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>   </td>
 
   </tr>
 
@@ -137,6 +137,100 @@
 
 </table>
 
+ __Repeal and Reenactment of Analysis__ 
+
+[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is repealed and a new analysis for subchapter C is enacted to read as follows:
+
+> 
+
+<table>
+
+>   <tr>
+
+>     <td colspan="2"> 
+
+> Subchapter C—Treatment of Partnerships  </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> Part  </td>
+
+>     <td> 
+
+   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> I.  </td>
+
+>     <td> 
+
+> In General.  </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> II.  </td>
+
+>     <td> 
+
+> Partnership Adjustments.  </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> III.  </td>
+
+>     <td> 
+
+> Procedure.  </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> IV.  </td>
+
+>     <td> 
+
+> Definitions and Special Rules.  </td>
+
+> 
+
+  </tr>
+
+> </table>
+
+ __Codification__ 
+
+    New sections 6232 and 6235 were enacted on Nov. 2, 2015, by [Pub. L. 114–74][/us/pl/114/74] applicable, with certain exceptions, to returns filed for partnership taxable years beginning after Dec. 31, 2017. However, because section 6232 had previously been repealed and section 6235 did not exist, the text of those sections as enacted by [Pub. L. 114–74][/us/pl/114/74] is currently being set out within this subchapter. As a result, the current analysis for subchapter C set out above does not conform with respect to those sections.
+
  __Amendments__ 
 
     1997—[Pub. L. 105–34, title XII, § 1231(c)][/us/pl/105/34/s1231/c], Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], added item 6234.
@@ -154,6 +248,10 @@
 ----------
 ----------
 
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1231%2Fc
 [/us/stat/111/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1023
 [/us/pl/100/418/s1941/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F3%2FD

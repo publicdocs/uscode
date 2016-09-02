@@ -73,9 +73,15 @@
 
         (2) For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings to enforce an overpayment determined by such court, see section 7430.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 811][/us/stat/68A/811]; [Pub. L. 87–870, § 4][/us/pl/87/870/s4], Oct. 23, 1962, [76 Stat. 1161][/us/stat/76/1161]; [Pub. L. 91–172, title I, § 101(j)(47)][/us/pl/91/172/s101/j/47], (48), title IX, § 960(b), Dec. 30, 1969, [83 Stat. 531][/us/stat/83/531], 734; [Pub. L. 91–614, title I, § 102(d)(9)][/us/pl/91/614/s102/d/9], Dec. 31, 1970, [84 Stat. 1842][/us/stat/84/1842]; [Pub. L. 93–406, title II, § 1016(a)(16)][/us/pl/93/406/s1016/a/16], Sept. 2, 1974, [88 Stat. 930][/us/stat/88/930]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(vii)][/us/pl/94/455/s1307/d/2/F/vii], title XVI, § 1605(b)(9), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1834; [Pub. L. 95–600, title II, § 212(b)(2)][/us/pl/95/600/s212/b/2], Nov. 6, 1978, [92 Stat. 2819][/us/stat/92/2819]; [Pub. L. 96–223, title I, § 101(f)(6)][/us/pl/96/223/s101/f/6], Apr. 2, 1980, [94 Stat. 253][/us/stat/94/253]; [Pub. L. 96–589, § 6(d)(3)][/us/pl/96/589/s6/d/3], Dec. 24, 1980, [94 Stat. 3408][/us/stat/94/3408]; [Pub. L. 97–248, title IV, § 402(c)(8)][/us/pl/97/248/s402/c/8], (9), Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 100–418, title I, § 1941(b)(2)(J)][/us/pl/100/418/s1941/b/2/J], (K), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI][/us/pl/100/647], §§ 6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, [102 Stat. 3750–3752][/us/stat/102/3750-3752]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1239(c)(2), 1282(a), title XIV, § 1451(a), (b), Aug. 5, 1997, [111 Stat. 1028][/us/stat/111/1028], 1037, 1054; [Pub. L. 105–206, title III, § 3464(b)][/us/pl/105/206/s3464/b], (c), July 22, 1998, [112 Stat. 767][/us/stat/112/767]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(19)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 811][/us/stat/68A/811]; [Pub. L. 87–870, § 4][/us/pl/87/870/s4], Oct. 23, 1962, [76 Stat. 1161][/us/stat/76/1161]; [Pub. L. 91–172, title I, § 101(j)(47)][/us/pl/91/172/s101/j/47], (48), title IX, § 960(b), Dec. 30, 1969, [83 Stat. 531][/us/stat/83/531], 734; [Pub. L. 91–614, title I, § 102(d)(9)][/us/pl/91/614/s102/d/9], Dec. 31, 1970, [84 Stat. 1842][/us/stat/84/1842]; [Pub. L. 93–406, title II, § 1016(a)(16)][/us/pl/93/406/s1016/a/16], Sept. 2, 1974, [88 Stat. 930][/us/stat/88/930]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(vii)][/us/pl/94/455/s1307/d/2/F/vii], title XVI, § 1605(b)(9), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1834; [Pub. L. 95–600, title II, § 212(b)(2)][/us/pl/95/600/s212/b/2], Nov. 6, 1978, [92 Stat. 2819][/us/stat/92/2819]; [Pub. L. 96–223, title I, § 101(f)(6)][/us/pl/96/223/s101/f/6], Apr. 2, 1980, [94 Stat. 253][/us/stat/94/253]; [Pub. L. 96–589, § 6(d)(3)][/us/pl/96/589/s6/d/3], Dec. 24, 1980, [94 Stat. 3408][/us/stat/94/3408]; [Pub. L. 97–248, title IV, § 402(c)(8)][/us/pl/97/248/s402/c/8], (9), Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 100–418, title I, § 1941(b)(2)(J)][/us/pl/100/418/s1941/b/2/J], (K), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI][/us/pl/100/647], §§ 6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, [102 Stat. 3750–3752][/us/stat/102/3750-3752]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1239(c)(2), 1282(a), title XIV, § 1451(a), (b), Aug. 5, 1997, [111 Stat. 1028][/us/stat/111/1028], 1037, 1054; [Pub. L. 105–206, title III, § 3464(b)][/us/pl/105/206/s3464/b], (c), July 22, 1998, [112 Stat. 767][/us/stat/112/767]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(19)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 114–74, title XI, § 1101(f)(7)][/us/pl/114/74/s1101/f/7], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Subsection (b)(3)__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(7)][/us/pl/114/74/s1101/f/7], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(3) of this section is amended by striking the second sentence. See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3). [Pub. L. 114–74][/us/pl/114/74] struck out concluding provisions “In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).” before “In a case described in subparagraph (B)”.
 
     2000—Subsec. (a)(1), (2), (5). [Pub. L. 106–554][/us/pl/106/554] substituted a comma for a semicolon before “and” at end.
 
@@ -130,6 +136,10 @@
     Subsec. (b)(1). [Pub. L. 91–172][/us/pl/91/172], §§ 101(j)(48), 960(b), inserted reference to chapter 42 taxes and inserted reference to the exception to the Tax Court’s jurisdiction provided for in par. (2) and in [section 7463 of this title][/us/usc/t26/s7463].
 
     1962—Subsec. (b)(2)(C). [Pub. L. 87–870][/us/pl/87/870] added subpar. (C).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -227,6 +237,11 @@
 [/us/stat/112/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F767
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/114/74/s1101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F7
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F7
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/206/s3464/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3464%2Fb
 [/us/pl/105/206/s3464/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3464%2Fc
@@ -255,6 +270,9 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7463
 [/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34/s1239/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fc%2F2
 [/us/pl/105/34/s1239/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Ff
 [/us/usc/t26/s6225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6225

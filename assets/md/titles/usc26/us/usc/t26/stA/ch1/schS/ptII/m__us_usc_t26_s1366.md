@@ -87,7 +87,7 @@
 
     (e) __Treatment of family group__ 
 
-        If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+        If an individual who is a member of the family (within the meaning of section 704(e)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
 
     (f) __Special rules__ 
 
@@ -108,6 +108,10 @@
             (B) the total passive investment income for the taxable year.
 
 (Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1677][/us/stat/96/1677]; amended [Pub. L. 98–369, div. A, title IV, § 474(r)(26)][/us/pl/98/369/s474/r/26], title VII, § 735(c)(16), July 18, 1984, [98 Stat. 844][/us/stat/98/844], 985; [Pub. L. 99–514, title VI, § 632(c)(2)][/us/pl/99/514/s632/c/2], title VII, § 701(e)(4)(K), Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], 2343; [Pub. L. 100–647, title I, § 1006(f)(5)(E)][/us/pl/100/647/s1006/f/5/E], Nov. 10, 1988, [102 Stat. 3406][/us/stat/102/3406]; [Pub. L. 101–239, title VII, § 7811(c)(7)][/us/pl/101/239/s7811/c/7], Dec. 19, 1989, [103 Stat. 2407][/us/stat/103/2407]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, [110 Stat. 1779][/us/stat/110/1779], 1782, 1783, 1784; [Pub. L. 108–357, title II, § 235(a)][/us/pl/108/357/s235/a], Oct. 22, 2004, [118 Stat. 1435][/us/stat/118/1435]; [Pub. L. 110–172, § 3(b)][/us/pl/110/172/s3/b], Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474].)
+
+ __References in Text__ 
+
+    Section 704(e)(3), referred to in subsec. (e), was redesignated [section 704(e)(2) of this title][/us/usc/t26/s704/e/2] by [Pub. L. 114–74, title XI, § 1102(b)][/us/pl/114/74/s1102/b], Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639].
 
  __Amendments__ 
 
@@ -206,6 +210,9 @@
 [/us/stat/118/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1435
 [/us/pl/110/172/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fb
 [/us/stat/121/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2474
+[/us/usc/t26/s704/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs704%2Fe%2F2
+[/us/pl/114/74/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fb
+[/us/stat/129/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F639
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/104/188/s1302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1302%2Fe

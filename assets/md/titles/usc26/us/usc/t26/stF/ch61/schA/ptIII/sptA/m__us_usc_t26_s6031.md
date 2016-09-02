@@ -55,9 +55,23 @@
 
         In the case of any electing investment partnership (as defined in section 743(e)(6)), the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 741][/us/stat/68A/741]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title IV, § 403][/us/pl/97/248/s403], Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; [Pub. L. 99–514, title XV, § 1501(c)(16)][/us/pl/99/514/s1501/c/16], title XVIII, § 1811(b)(1)(A), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740], 2832; [Pub. L. 100–647, title V, § 5074(a)][/us/pl/100/647/s5074/a], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682]; [Pub. L. 105–34, title XI, § 1141(a)][/us/pl/105/34/s1141/a], title XII, § 1223(a), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], 1019; [Pub. L. 108–357, title VIII, § 833(b)(4)(B)][/us/pl/108/357/s833/b/4/B], Oct. 22, 2004, [118 Stat. 1590][/us/stat/118/1590].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 741][/us/stat/68A/741]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title IV, § 403][/us/pl/97/248/s403], Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; [Pub. L. 99–514, title XV, § 1501(c)(16)][/us/pl/99/514/s1501/c/16], title XVIII, § 1811(b)(1)(A), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740], 2832; [Pub. L. 100–647, title V, § 5074(a)][/us/pl/100/647/s5074/a], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682]; [Pub. L. 105–34, title XI, § 1141(a)][/us/pl/105/34/s1141/a], title XII, § 1223(a), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], 1019; [Pub. L. 108–357, title VIII, § 833(b)(4)(B)][/us/pl/108/357/s833/b/4/B], Oct. 22, 2004, [118 Stat. 1590][/us/stat/118/1590]; [Pub. L. 114–74, title XI, § 1101(e)][/us/pl/114/74/s1101/e], (f)(1), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
+
+ __Amendment of Subsection (b)__ 
+
+    [Pub. L. 114–74, title XI, § 1101(e)][/us/pl/114/74/s1101/e], (f)(1), (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended as follows:
+
+    (1) by adding at the end the following: “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.”; and
+
+    (2) by striking the last sentence.
+
+    See 2015 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–74, § 1101(f)(1)][/us/pl/114/74/s1101/f/1], which directed amendment of subsec. (b) by striking the last sentence, was executed, to reflect the probable intent of Congress, by striking “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”, which was the last sentence prior to the intervening amendment by [Pub. L. 114–74, § 1101(e)][/us/pl/114/74/s1101/e]. See below.
+
+    [Pub. L. 114–74, § 1101(e)][/us/pl/114/74/s1101/e], inserted at end “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.”
 
     2004—Subsec. (f). [Pub. L. 108–357][/us/pl/108/357] added subsec. (f).
 
@@ -78,6 +92,10 @@
     Subsec. (b). [Pub. L. 97–248, § 403(a)][/us/pl/97/248/s403/a], added subsec. (b).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -144,6 +162,13 @@
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
 [/us/pl/108/357/s833/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F4%2FB
 [/us/stat/118/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1590
+[/us/pl/114/74/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fe
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/74/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fe
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/74/s1101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F1
+[/us/pl/114/74/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fe
+[/us/pl/114/74/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fe
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34/s1223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1223%2Fa
 [/us/pl/105/34/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1141%2Fa
@@ -154,6 +179,9 @@
 [/us/pl/97/248/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs403%2Fb
 [/us/pl/97/248/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs403%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s833/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fd%2F2
 [/us/usc/t26/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs743

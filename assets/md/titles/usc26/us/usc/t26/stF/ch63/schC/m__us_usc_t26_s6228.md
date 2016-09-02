@@ -141,6 +141,10 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 656][/us/stat/96/656]; amended [Pub. L. 97–448, title III, § 306(c)(1)(B)][/us/pl/97/448/s306/c/1/B], Jan. 12, 1983, [96 Stat. 2406][/us/stat/96/2406]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–147, title IV, § 417(19)(B)][/us/pl/107/147/s417/19/B], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+
  __Amendments__ 
 
     2002—Subsec. (a)(1). [Pub. L. 107–147, § 417(19)(B)(i)][/us/pl/107/147/s417/19/B/i], substituted “subsection (c) of section 6227” for “subsection (b) of section 6227”.
@@ -152,6 +156,10 @@
     1992—Subsec. (a)(1)(C), (6). [Pub. L. 102–572][/us/pl/102/572] substituted “Court of Federal Claims” for “Claims Court”.
 
     1983—Subsec. (a)(6). [Pub. L. 97–448][/us/pl/97/448] substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1992 Amendment__ 
 
@@ -176,11 +184,15 @@
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/107/147/s417/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/107/147/s417/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fi
 [/us/pl/107/147/s417/19/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fii
 [/us/pl/107/147/s417/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fiii
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

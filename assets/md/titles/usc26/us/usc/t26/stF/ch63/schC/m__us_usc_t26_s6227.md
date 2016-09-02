@@ -87,6 +87,36 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 655][/us/stat/96/655]; amended [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1236(a), 1243(a), Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], 1029; [Pub. L. 107–147, title IV, § 417(19)(A)][/us/pl/107/147/s417/19/A], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
+ __Repeal and Reenactment of Section__ 
+
+[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 631, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6227 is enacted to read as follows:
+
+>     § 6227. Administrative adjustment request by partnership
+
+    (a) In general
+
+    A partnership may file a request for an administrative adjustment in the amount of one or more items of income, gain, loss, deduction, or credit of the partnership for any partnership taxable year.
+
+    (b) Adjustment
+
+    Any such adjustment under subsection (a) shall be determined and taken into account for the partnership taxable year in which the administrative adjustment request is made—
+
+    (1) by the partnership under rules similar to the rules of section 6225 (other than paragraphs (2), (6) and (7) of subsection (c) thereof) for the partnership taxable year in which the administrative adjustment request is made, or
+
+    (2) by the partnership and partners under rules similar to the rules of section 6226 (determined without regard to the substitution described in subsection (c)(2)(C) thereof).
+
+    In the case of an adjustment that would not result in an imputed underpayment, paragraph (1) shall not apply and paragraph (2) shall apply with appropriate adjustments.
+
+    (c) Period of limitations
+
+    A partnership may not file such a request more than 3 years after the later of—
+
+    (1) the date on which the partnership return for such year is filed, or
+
+    (2) the last day for filing the partnership return for such year (determined without regard to extensions).
+
+    In no event may a partnership file such a request after a notice of an administrative proceeding with respect to the taxable year is mailed under section 6231.
+
  __Amendments__ 
 
     2002—Subsec. (d). [Pub. L. 107–147][/us/pl/107/147] substituted “subsection (c)” for “subsection (b)” in introductory provisions.
@@ -94,6 +124,10 @@
     1997—Subsecs. (b) to (d). [Pub. L. 105–34, § 1236(a)][/us/pl/105/34/s1236/a], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
     Subsec. (e). [Pub. L. 105–34, § 1243(a)][/us/pl/105/34/s1243/a], added subsec. (e).
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -130,9 +164,13 @@
 [/us/stat/111/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025
 [/us/pl/107/147/s417/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FA
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/105/34/s1236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1236%2Fa
 [/us/pl/105/34/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1243%2Fa
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34/s1236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1236%2Fb
 [/us/stat/111/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

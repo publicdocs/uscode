@@ -125,6 +125,28 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 649][/us/stat/96/649].)
 
+ __Repeal and Reenactment of Section__ 
+
+[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 627, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6223 is enacted to read as follows:
+
+>     § 6223. Partners bound by actions of partnership
+
+    (a) Designation of partnership representative
+
+    Each partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.
+
+    (b) Binding effect
+
+    A partnership and all partners of such partnership shall be bound—
+
+    (1) by actions taken under this subchapter by the partnership, and
+
+    (2) by any final decision in a proceeding brought under this subchapter with respect to the partnership.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6222.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6224.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6223)
@@ -134,5 +156,9 @@
 
 [/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
 [/us/stat/96/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F649
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 
 

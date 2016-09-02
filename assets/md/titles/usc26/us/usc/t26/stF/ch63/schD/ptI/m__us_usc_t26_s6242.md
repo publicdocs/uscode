@@ -135,6 +135,10 @@
 
 (Added [Pub. L. 105–34, title XII, § 1222(a)][/us/pl/105/34/s1222/a], Aug. 5, 1997, [111 Stat. 1010][/us/stat/111/1010].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(b)(2)][/us/pl/114/74/s1101/b/2], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+
  __Prior Provisions__ 
 
     A prior section 6242, added [Pub. L. 97–354, § 4(a)][/us/pl/97/354/s4/a], Oct. 19, 1982, [96 Stat. 1691][/us/stat/96/1691], directed that shareholder’s return be consistent with corporate return, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
@@ -142,6 +146,10 @@
     A prior section 6243, added [Pub. L. 97–354, § 4(a)][/us/pl/97/354/s4/a], Oct. 19, 1982, [96 Stat. 1691][/us/stat/96/1691], directed that shareholders be notified of proceedings and given opportunity to participate, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
     A prior section 6244, added [Pub. L. 97–354, § 4(a)][/us/pl/97/354/s4/a], Oct. 19, 1982, [96 Stat. 1691][/us/stat/96/1691], directed that certain provisions of subchapter C apply to subchapter S items, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
 ----------
 
@@ -152,6 +160,8 @@
 
 [/us/pl/105/34/s1222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fa
 [/us/stat/111/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1010
+[/us/pl/114/74/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F2
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/97/354/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs4%2Fa
 [/us/stat/96/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1691
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -164,5 +174,7 @@
 [/us/stat/96/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1691
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/stat/110/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1781
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 
 

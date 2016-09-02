@@ -163,11 +163,19 @@
 
 (Added [Pub. L. 105–34, title XII, § 1221(a)][/us/pl/105/34/s1221/a], Aug. 5, 1997, [111 Stat. 1002][/us/stat/111/1002]; amended [Pub. L. 109–58, title XIII, § 1322(a)(3)(I)][/us/pl/109/58/s1322/a/3/I], (J), Aug. 8, 2005, [119 Stat. 1012][/us/stat/119/1012].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(b)(1)][/us/pl/114/74/s1101/b/1], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+
  __Amendments__ 
 
     2005—Subsec. (a)(9) to (11). [Pub. L. 109–58, § 1322(a)(3)(I)][/us/pl/109/58/s1322/a/3/I], inserted “and” at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: “the credit allowable under section 29, and”.
 
     Subsec. (d)(5). [Pub. L. 109–58, § 1322(a)(3)(J)][/us/pl/109/58/s1322/a/3/J], substituted “and the foreign tax credit” for “the foreign tax credit, and the credit allowable under section 29”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -184,8 +192,12 @@
 [/us/stat/111/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1002
 [/us/pl/109/58/s1322/a/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FI
 [/us/stat/119/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1012
+[/us/pl/114/74/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F1
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/109/58/s1322/a/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FI
 [/us/pl/109/58/s1322/a/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FJ
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s1322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fc%2F1
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K

@@ -111,6 +111,10 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 659][/us/stat/96/659]; amended [Pub. L. 99–514, title XVIII, § 1875(d)(1)][/us/pl/99/514/s1875/d/1], Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I, § 1018][/us/pl/100/647/s1018](o)(3), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1233(a)–(c), 1235(a), Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], 1024; [Pub. L. 107–147, title IV, § 416(d)(1)(B)][/us/pl/107/147/s416/d/1/B], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 111–147, title V, § 513(a)(2)(B)][/us/pl/111/147/s513/a/2/B], Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+
  __Amendments__ 
 
     2010—Subsec. (c)(2). [Pub. L. 111–147][/us/pl/111/147] substituted “and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A)” for “which is in excess of 25 percent of the amount of gross income stated in its return”.
@@ -128,6 +132,10 @@
     1988—Subsec. (f). [Pub. L. 100–647][/us/pl/100/647] inserted sentence at end relating to extension of period with respect to any partner by agreement entered into by Secretary and such partner.
 
     1986—Subsec. (g). [Pub. L. 99–514][/us/pl/99/514] added subsec. (g).
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -190,6 +198,8 @@
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
 [/us/pl/111/147/s513/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs513%2Fa%2F2%2FB
 [/us/stat/124/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F112
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/105/34/s1233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fc
@@ -198,6 +208,8 @@
 [/us/pl/105/34/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fb
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/111/147/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs513%2Fd
 [/us/stat/124/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F112
 [/us/usc/t26/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6501

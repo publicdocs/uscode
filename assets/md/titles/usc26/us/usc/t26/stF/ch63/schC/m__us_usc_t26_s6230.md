@@ -183,6 +183,10 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 660][/us/stat/96/660]; amended [Pub. L. 98–369, div. A, title VII, § 714(p)(2)(A)][/us/pl/98/369/s714/p/2/A], July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 99–514, title XVIII, § 1875(d)(2)(A)][/us/pl/99/514/s1875/d/2/A], Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I, § 1018][/us/pl/100/647/s1018](o)(1), Nov. 10, 1988, [102 Stat. 3584][/us/stat/102/3584]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, [111 Stat. 1025–1028][/us/stat/111/1025-1028]; [Pub. L. 105–206, title III, § 3201(e)(2)][/us/pl/105/206/s3201/e/2], July 22, 1998, [112 Stat. 740][/us/stat/112/740]; [Pub. L. 110–172, § 11(a)(36)][/us/pl/110/172/s11/a/36], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+
  __Amendments__ 
 
     2007—Subsec. (a)(3)(A), (B). [Pub. L. 110–172][/us/pl/110/172] substituted “section 6015” for “section 6013(e)”.
@@ -220,6 +224,10 @@
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514] substituted “Coordination with deficiency proceedings” for “Normal deficiency proceedings do not apply to computational adjustments” as subsec. heading, and amended text generally. Prior to amendment text read as follows: “Subchapter B of this chapter shall not apply to the assessment or collection of any computational adjustment.”
 
     1984—Subsec. (c)(1)(B). [Pub. L. 98–369][/us/pl/98/369] struck out “(or erroneously computed the amount of any such credit or refund)” after “section 6228(a)”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -280,6 +288,8 @@
 [/us/stat/112/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F740
 [/us/pl/110/172/s11/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F36
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34/s1237/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1237%2Fc%2F1
@@ -298,6 +308,8 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fg%2F1
 [/us/usc/t26/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6015

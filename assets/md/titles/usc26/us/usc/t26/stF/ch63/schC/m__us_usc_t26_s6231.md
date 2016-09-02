@@ -199,6 +199,32 @@
 
 (Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 663][/us/stat/96/663]; amended [Pub. L. 98–369, div. A, title VII, § 714(p)(2)(B)][/us/pl/98/369/s714/p/2/B]–(D), (I), July 18, 1984, [98 Stat. 964][/us/stat/98/964], 965; [Pub. L. 105–34, title XI, § 1141(b)][/us/pl/105/34/s1141/b], title XII, §§ 1232(a), 1234(a), Aug. 5, 1997, [111 Stat. 981][/us/stat/111/981], 1023, 1024; [Pub. L. 105–206, title III, § 3507(a)][/us/pl/105/206/s3507/a], July 22, 1998, [112 Stat. 772][/us/stat/112/772]; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 416(d)(1)(C), 417(19)(C), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55], 57.)
 
+ __Enactment of Part and Repeal and Reenactment of Section__ 
+
+[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 632, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 1 \[sic\] heading “Procedure” and analysis consisting of items 6231 to 6235 are enacted, this section is repealed, and a new section 6231 following the Part 1 analysis is enacted to read as follows:
+
+>     § 6231. Notice of proceedings and adjustment
+
+    (a) In general
+
+    The Secretary shall mail to the partnership and the partnership representative—
+
+    (1) notice of any administrative proceeding initiated at the partnership level with respect to an adjustment of any item of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year, or any partner’s distributive share thereof,
+
+    (2) notice of any proposed partnership adjustment resulting from such proceeding, and
+
+    (3) notice of any final partnership adjustment resulting from such proceeding.
+
+    Any notice of a final partnership adjustment shall not be mailed earlier than 270 days after the date on which the notice of the proposed partnership adjustment is mailed. Such notices shall be sufficient if mailed to the last known address of the partnership representative or the partnership (even if the partnership has terminated its existence). The first sentence shall apply to any proceeding with respect to an administrative adjustment request filed by a partnership under section 6227.
+
+    (b) Further notices restricted
+
+    If the Secretary mails a notice of a final partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6234 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
+
+    (c) Authority to rescind notice with partnership consent
+
+    The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+
  __Amendments__ 
 
     2002—Subsec. (b)(1)(C). [Pub. L. 107–147, § 416(d)(1)(C)][/us/pl/107/147/s416/d/1/C], inserted “or the Attorney General (or his delegate)” after “Secretary”.
@@ -226,6 +252,10 @@
     Subsec. (d)(1)(A). [Pub. L. 98–369, § 714(p)(2)(C)][/us/pl/98/369/s714/p/2/C], amended subpar. (A) generally, substituting “disposed of” and “disposition” for “liquidated, sold, or exchanged” and “liquidation, sale, or exchange”, respectively.
 
     Subsec. (f). [Pub. L. 98–369, § 714(p)(2)(D)][/us/pl/98/369/s714/p/2/D], substituted “such loss or credit” for “such deduction or credit”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -276,6 +306,8 @@
 [/us/stat/112/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F772
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/107/147/s416/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FC
 [/us/pl/107/147/s417/19/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FC
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -286,6 +318,8 @@
 [/us/pl/98/369/s714/p/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FI
 [/us/pl/98/369/s714/p/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FC
 [/us/pl/98/369/s714/p/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FD
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/107/147/s416/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FC
 [/us/pl/107/147/s416/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F2
 [/us/usc/t26/s6224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6224

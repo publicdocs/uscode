@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6234.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/ptI/m__us_usc_t26_stF_ch63_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD)
+[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6235.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/ptI/m__us_usc_t26_stF_ch63_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD)
 
 #### Subchapter D—Treatment of Electing Large Partnerships
 
@@ -49,12 +49,18 @@
 
 </table>
 
+ __Repeal of Subchapter__ 
+
+    [Pub. L. 114–74, title XI, § 1101(b)(2)][/us/pl/114/74/s1101/b/2], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this subchapter is repealed.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6234.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/ptI/m__us_usc_t26_stF_ch63_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD)
+[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6235.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/ptI/m__us_usc_t26_stF_ch63_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD)
 
 ----------
 ----------
 
+[/us/pl/114/74/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F2
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 
 

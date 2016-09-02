@@ -79,27 +79,25 @@
 
         A partner’s distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner’s interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
 
-    (e) __Family partnerships__ 
+    (e) __Partnership interests created by gift__ 
 
-        (1) __Recognition of interest created by purchase or gift__ 
-
-            A person shall be recognized as a partner for purposes of this subtitle if he owns a capital interest in a partnership in which capital is a material income-producing factor, whether or not such interest was derived by purchase or gift from any other person.
-
-        (2) __Distributive share of donee includible in gross income__ 
+        (1) __Distributive share of donee includible in gross income__ 
 
             In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor’s capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
 
-        (3) __Purchase of interest by member of family__ 
+        (2) __Purchase of interest by member of family__ 
 
-            For purposes of this section, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The “family” of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.
+            For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The “family” of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.
 
     (f) __Cross reference__ 
 
         For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see section 706(c)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 240][/us/stat/68A/240]; [Pub. L. 94–455, title II, § 213(c)(2)][/us/pl/94/455/s213/c/2], (3)(A), (d), (e), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 95–600, title II, § 201(b)(1)][/us/pl/95/600/s201/b/1], Nov. 6, 1978, [92 Stat. 2816][/us/stat/92/2816]; [Pub. L. 98–369, div. A, title I, § 71(a)][/us/pl/98/369/s71/a], July 18, 1984, [98 Stat. 589][/us/stat/98/589]; [Pub. L. 101–239, title VII, § 7642(a)][/us/pl/101/239/s7642/a], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379]; [Pub. L. 102–486, title XIX, § 1937(b)(1)][/us/pl/102/486/s1937/b/1], Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033]; [Pub. L. 105–34, title X, § 1063(a)][/us/pl/105/34/s1063/a], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947]; [Pub. L. 108–357, title VIII, § 833(a)][/us/pl/108/357/s833/a], Oct. 22, 2004, [118 Stat. 1589][/us/stat/118/1589].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 240][/us/stat/68A/240]; [Pub. L. 94–455, title II, § 213(c)(2)][/us/pl/94/455/s213/c/2], (3)(A), (d), (e), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 95–600, title II, § 201(b)(1)][/us/pl/95/600/s201/b/1], Nov. 6, 1978, [92 Stat. 2816][/us/stat/92/2816]; [Pub. L. 98–369, div. A, title I, § 71(a)][/us/pl/98/369/s71/a], July 18, 1984, [98 Stat. 589][/us/stat/98/589]; [Pub. L. 101–239, title VII, § 7642(a)][/us/pl/101/239/s7642/a], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379]; [Pub. L. 102–486, title XIX, § 1937(b)(1)][/us/pl/102/486/s1937/b/1], Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033]; [Pub. L. 105–34, title X, § 1063(a)][/us/pl/105/34/s1063/a], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947]; [Pub. L. 108–357, title VIII, § 833(a)][/us/pl/108/357/s833/a], Oct. 22, 2004, [118 Stat. 1589][/us/stat/118/1589]; [Pub. L. 114–74, title XI, § 1102(b)][/us/pl/114/74/s1102/b], Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639].)
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–74][/us/pl/114/74] substituted “Partnership interests created by gift” for “Family partnerships” in heading, redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “this subsection” for “this section” in par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “A person shall be recognized as a partner for purposes of this subtitle if he owns a capital interest in a partnership in which capital is a material income-producing factor, whether or not such interest was derived by purchase or gift from any other person.”
 
     2004—Subsec. (c)(1)(C). [Pub. L. 108–357][/us/pl/108/357] added subpar. (C).
 
@@ -122,6 +120,12 @@
     Subsec. (d). [Pub. L. 94–455, § 213(e)][/us/pl/94/455/s213/e], inserted provision relating to the determination of the adjusted basis of a partner’s liability where there is no personal liability and the applicability of such determination where [section 465 of this title][/us/usc/t26/s465] applies or the principal activity of the partnership is real estate investment.
 
     Subsec. (f). [Pub. L. 94–455, § 213(c)(3)(A)][/us/pl/94/455/s213/c/3/A], added subsec. (f).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title XI, § 1102(c)][/us/pl/114/74/s1102/c], Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 761 of this title][/us/usc/t26/s761]\] shall apply to partnership taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -198,6 +202,9 @@
 [/us/stat/111/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F947
 [/us/pl/108/357/s833/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fa
 [/us/stat/118/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1589
+[/us/pl/114/74/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fb
+[/us/stat/129/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F639
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
@@ -210,6 +217,9 @@
 [/us/pl/94/455/s213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fe
 [/us/usc/t26/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs465
 [/us/pl/94/455/s213/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F3%2FA
+[/us/pl/114/74/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fc
+[/us/stat/129/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F639
+[/us/usc/t26/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs761
 [/us/pl/108/357/s833/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fd%2F1
 [/us/stat/118/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1592
 [/us/pl/105/34/s1063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1063%2Fb

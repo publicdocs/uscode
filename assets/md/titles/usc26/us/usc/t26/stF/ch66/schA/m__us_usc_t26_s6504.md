@@ -39,9 +39,15 @@
 
     (11) Assessments of tax attributable to partnership items, see section 6229.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 807][/us/stat/68A/807]; [Apr. 2, 1956, ch. 160, § 4(d)][/us/act/1956-04-02/ch160/s4/d], [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(e)(5), [70 Stat. 397][/us/stat/70/397]; [Pub. L. 85–866, title I, § 84(b)][/us/pl/85/866/s84/b], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 88–272, title I, § 112(d)(2)][/us/pl/88/272/s112/d/2], Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24]; [Pub. L. 91–172, title II, § 213(c)(3)][/us/pl/91/172/s213/c/3], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]; [Pub. L. 91–614, title I, § 101(d)(2)][/us/pl/91/614/s101/d/2], Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837]; [Pub. L. 93–625, § 7(d)(4)][/us/pl/93/625/s7/d/4], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XII, § 1203(h)(2)][/us/pl/94/455/s1203/h/2], title XIX, 1901(b)(31)(D), (36)(C), (37)(D), (39)(B), 1906(a)(32), Oct. 4, 1976, [90 Stat. 1694][/us/stat/90/1694], 1800, 1802, 1803, 1829; [Pub. L. 95–30, title I, § 101(d)(16)][/us/pl/95/30/s101/d/16], May 23, 1977, [91 Stat. 134][/us/stat/91/134]; [Pub. L. 95–600, title IV, § 405(c)(6)][/us/pl/95/600/s405/c/6], title VII, § 703(j)(10), Nov. 6, 1978, [92 Stat. 2871][/us/stat/92/2871], 2942; [Pub. L. 95–618, title II, § 233(b)(2)(D)][/us/pl/95/618/s233/b/2/D], Nov. 9, 1978, [92 Stat. 3191][/us/stat/92/3191]; [Pub. L. 97–248, title IV, § 402(c)(6)][/us/pl/97/248/s402/c/6], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–424, title V, § 515(b)(10)][/us/pl/97/424/s515/b/10], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 99–514, title I, § 104(b)(18)][/us/pl/99/514/s104/b/18], Oct. 22, 1986, [100 Stat. 2106][/us/stat/100/2106]; [Pub. L. 105–34, title III, § 312(d)(13)][/us/pl/105/34/s312/d/13], Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 807][/us/stat/68A/807]; [Apr. 2, 1956, ch. 160, § 4(d)][/us/act/1956-04-02/ch160/s4/d], [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(e)(5), [70 Stat. 397][/us/stat/70/397]; [Pub. L. 85–866, title I, § 84(b)][/us/pl/85/866/s84/b], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 88–272, title I, § 112(d)(2)][/us/pl/88/272/s112/d/2], Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24]; [Pub. L. 91–172, title II, § 213(c)(3)][/us/pl/91/172/s213/c/3], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]; [Pub. L. 91–614, title I, § 101(d)(2)][/us/pl/91/614/s101/d/2], Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837]; [Pub. L. 93–625, § 7(d)(4)][/us/pl/93/625/s7/d/4], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XII, § 1203(h)(2)][/us/pl/94/455/s1203/h/2], title XIX, 1901(b)(31)(D), (36)(C), (37)(D), (39)(B), 1906(a)(32), Oct. 4, 1976, [90 Stat. 1694][/us/stat/90/1694], 1800, 1802, 1803, 1829; [Pub. L. 95–30, title I, § 101(d)(16)][/us/pl/95/30/s101/d/16], May 23, 1977, [91 Stat. 134][/us/stat/91/134]; [Pub. L. 95–600, title IV, § 405(c)(6)][/us/pl/95/600/s405/c/6], title VII, § 703(j)(10), Nov. 6, 1978, [92 Stat. 2871][/us/stat/92/2871], 2942; [Pub. L. 95–618, title II, § 233(b)(2)(D)][/us/pl/95/618/s233/b/2/D], Nov. 9, 1978, [92 Stat. 3191][/us/stat/92/3191]; [Pub. L. 97–248, title IV, § 402(c)(6)][/us/pl/97/248/s402/c/6], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–424, title V, § 515(b)(10)][/us/pl/97/424/s515/b/10], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 99–514, title I, § 104(b)(18)][/us/pl/99/514/s104/b/18], Oct. 22, 1986, [100 Stat. 2106][/us/stat/100/2106]; [Pub. L. 105–34, title III, § 312(d)(13)][/us/pl/105/34/s312/d/13], Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840]; [Pub. L. 114–74, title XI, § 1101(f)(5)][/us/pl/114/74/s1101/f/5], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(5)][/us/pl/114/74/s1101/f/5], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (11). See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Par. (11). [Pub. L. 114–74][/us/pl/114/74] struck out par. (11) which read as follows: “Assessments of tax attributable to partnership items, see section 6229.”
 
     1997—Pars. (4) to (12). [Pub. L. 105–34][/us/pl/105/34] redesignated pars. (5) to (12) as (4) to (11), respectively, and struck out former par. (4) which read as follows: “Gain upon sale or exchange of principal residence, see section 1034(j).”
 
@@ -104,6 +110,10 @@
     1956—Par. (13). Act. Apr. 2, 1956, added par. (13).
 
     Par. (14). Act June 29, 1956, added par. (14).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -204,6 +214,11 @@
 [/us/stat/100/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2106
 [/us/pl/105/34/s312/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F13
 [/us/stat/111/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F840
+[/us/pl/114/74/s1101/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F5
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F5
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
@@ -235,6 +250,9 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121

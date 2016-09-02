@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6233.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/m__us_usc_t26_stF_ch63_schD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6234)
+[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6233.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6234)
 
 ## § 6234. Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return
 
@@ -125,9 +125,51 @@
 
 (Added [Pub. L. 105–34, title XII, § 1231(a)][/us/pl/105/34/s1231/a], Aug. 5, 1997, [111 Stat. 1020][/us/stat/111/1020]; amended [Pub. L. 107–147, title IV, § 416(d)(1)(D)][/us/pl/107/147/s416/d/1/D], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55].)
 
+ __Repeal and Reenactment of Section__ 
+
+[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 634, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6234 is enacted to read as follows:
+
+>     § 6234. Judicial review of partnership adjustment
+
+    (a) In general
+
+    Within 90 days after the date on which a notice of a final partnership adjustment is mailed under section 6231 with respect to any partnership taxable year, the partnership may file a petition for a readjustment for such taxable year with—
+
+    (1) the Tax Court,
+
+    (2) the district court of the United States for the district in which the partnership’s principal place of business is located, or
+
+    (3) the Claims Court.
+
+    (b) Jurisdictional requirement for bringing action in district court or Claims Court
+
+    (1) In general
+
+    A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount of the imputed underpayment (as of the date of the filing of the petition) if the partnership adjustment was made as provided by the notice of final partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
+
+    (2) Interest payable
+
+    Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
+
+    (c) Scope of judicial review
+
+    A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all items of income, gain, loss, deduction, or credit of the partnership for the partnership taxable year to which the notice of final partnership adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under this subchapter.
+
+    (d) Determination of court reviewable
+
+    Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
+
+    (e) Effect of decision dismissing action
+
+    If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
+
  __Amendments__ 
 
     2002—Subsec. (g)(4)(A). [Pub. L. 107–147][/us/pl/107/147] inserted “or the Attorney General (or his delegate)” after “Secretary”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -139,7 +181,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6233.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schD/m__us_usc_t26_stF_ch63_schD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6234)
+[Previous](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6233.md) | [Next](./../../../../../..//us/usc/t26/stF/ch63/schC/m__us_usc_t26_s6235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6234)
 
 ----------
 ----------
@@ -148,7 +190,11 @@
 [/us/stat/111/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1020
 [/us/pl/107/147/s416/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FD
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/147/s416/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F2
 [/us/usc/t26/s6224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6224

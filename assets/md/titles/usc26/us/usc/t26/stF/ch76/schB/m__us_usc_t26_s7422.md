@@ -105,13 +105,19 @@
 
         (4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see [section 2006 of Title 28][/us/usc/t28/s2006] of the United States Code.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 876][/us/stat/68A/876]; [Pub. L. 85–866, title I, § 78][/us/pl/85/866/s78], Sept. 2, 1958, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 89–713, § 3(a)][/us/pl/89/713/s3/a], Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 91–172, title I, § 101(i)][/us/pl/91/172/s101/i], (j)(56), Dec. 30, 1969, [83 Stat. 525][/us/stat/83/525], 532; [Pub. L. 92–178, title III, § 309(a)][/us/pl/92/178/s309/a], Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 93–406, title II, § 1016(a)(26)][/us/pl/93/406/s1016/a/26], Sept. 2, 1974, [88 Stat. 931][/us/stat/88/931]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(viii)][/us/pl/94/455/s1307/d/2/F/viii], title XVI, § 1605(b)(11), title XIX, § 1906(a)(44), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1830, 1834; [Pub. L. 96–222, title I, § 108(b)(1)(D)][/us/pl/96/222/s108/b/1/D]–(F), Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 96–223, title I, § 101(f)(1)(J)][/us/pl/96/223/s101/f/1/J], Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–596, § 2(c)(2)][/us/pl/96/596/s2/c/2], Dec. 24, 1980, [94 Stat. 3474][/us/stat/94/3474]; [Pub. L. 97–164, title I, § 151][/us/pl/97/164/s151], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 97–248, title IV, § 402(c)(11)][/us/pl/97/248/s402/c/11], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 98–369, div. A, title VII, § 714(g)(1)][/us/pl/98/369/s714/g/1], (p)(2)(H), July 18, 1984, [98 Stat. 961][/us/stat/98/961], 965; [Pub. L. 99–514, title XVIII, § 1899A(58)][/us/pl/99/514/s1899A/58], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 100–203, title X, § 10712(c)(5)][/us/pl/100/203/s10712/c/5], Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467]; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(x)][/us/pl/100/418/s1941/b/2/B/x], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–168, title XIII, § 1311(c)(4)][/us/pl/104/168/s1311/c/4], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 105–206, title III, § 3104(a)][/us/pl/105/206/s3104/a], July 22, 1998, [112 Stat. 731][/us/stat/112/731].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 876][/us/stat/68A/876]; [Pub. L. 85–866, title I, § 78][/us/pl/85/866/s78], Sept. 2, 1958, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 89–713, § 3(a)][/us/pl/89/713/s3/a], Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 91–172, title I, § 101(i)][/us/pl/91/172/s101/i], (j)(56), Dec. 30, 1969, [83 Stat. 525][/us/stat/83/525], 532; [Pub. L. 92–178, title III, § 309(a)][/us/pl/92/178/s309/a], Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 93–406, title II, § 1016(a)(26)][/us/pl/93/406/s1016/a/26], Sept. 2, 1974, [88 Stat. 931][/us/stat/88/931]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(viii)][/us/pl/94/455/s1307/d/2/F/viii], title XVI, § 1605(b)(11), title XIX, § 1906(a)(44), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1830, 1834; [Pub. L. 96–222, title I, § 108(b)(1)(D)][/us/pl/96/222/s108/b/1/D]–(F), Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 96–223, title I, § 101(f)(1)(J)][/us/pl/96/223/s101/f/1/J], Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–596, § 2(c)(2)][/us/pl/96/596/s2/c/2], Dec. 24, 1980, [94 Stat. 3474][/us/stat/94/3474]; [Pub. L. 97–164, title I, § 151][/us/pl/97/164/s151], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 97–248, title IV, § 402(c)(11)][/us/pl/97/248/s402/c/11], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 98–369, div. A, title VII, § 714(g)(1)][/us/pl/98/369/s714/g/1], (p)(2)(H), July 18, 1984, [98 Stat. 961][/us/stat/98/961], 965; [Pub. L. 99–514, title XVIII, § 1899A(58)][/us/pl/99/514/s1899A/58], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 100–203, title X, § 10712(c)(5)][/us/pl/100/203/s10712/c/5], Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467]; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(x)][/us/pl/100/418/s1941/b/2/B/x], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–168, title XIII, § 1311(c)(4)][/us/pl/104/168/s1311/c/4], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 105–206, title III, § 3104(a)][/us/pl/105/206/s3104/a], July 22, 1998, [112 Stat. 731][/us/stat/112/731]; [Pub. L. 114–74, title XI, § 1101(f)(11)][/us/pl/114/74/s1101/f/11], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(11)][/us/pl/114/74/s1101/f/11], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking subsection (h). See 2015 Amendment note below.
 
  __References in Text__ 
 
     The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 1954.
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–74][/us/pl/114/74] struck out subsec. (h). Text read as follows: “No action may be brought for a refund attributable to partnership items (as defined in section 6231(a)(3)) except as provided in section 6228(b) or section 6230(c).”
 
     1998—Subsecs. (j), (k). [Pub. L. 105–206][/us/pl/105/206] added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -158,6 +164,10 @@
     1966—Subsecs. (f), (g). [Pub. L. 89–713][/us/pl/89/713] added subsec. (f) and redesignated former subsec. (f) as (g).
 
     1958—Subsec. (f)(2). [Pub. L. 85–866][/us/pl/85/866] struck out “district” before “attorneys”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -286,6 +296,11 @@
 [/us/stat/110/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1478
 [/us/pl/105/206/s3104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fa
 [/us/stat/112/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F731
+[/us/pl/114/74/s1101/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F11
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F11
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
@@ -311,6 +326,9 @@
 [/us/pl/91/172/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fi
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/206/s3104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fc
 [/us/stat/112/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F732
 [/us/usc/t26/s7479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7479

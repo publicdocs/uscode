@@ -39,13 +39,19 @@
 
     (12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 802][/us/stat/68A/802], § 6420; renumbered § 6421, [Apr. 2, 1956, ch. 160, § 1][/us/act/1956-04-02/ch160/s1], [70 Stat. 87][/us/stat/70/87]; renumbered § 6422, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(c), [70 Stat. 394][/us/stat/70/394]; amended [Pub. L. 85–859, title II, § 204(4)][/us/pl/85/859/s204/4], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 88–36, title II, § 201(c)][/us/pl/88/36/s201/c], June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 94–455, title XVI, § 1601(f)(1)][/us/pl/94/455/s1601/f/1], title XIX, §§ 1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1828; [Pub. L. 95–600, title III, § 362(d)(4)][/us/pl/95/600/s362/d/4], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV, § 402(c)(4)][/us/pl/97/248/s402/c/4], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–258, § 3(f)(8)][/us/pl/97/258/s3/f/8], (9), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 101–508, title XI, § 11801(c)(17)(A)][/us/pl/101/508/s11801/c/17/A], Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 105–34, title XI, § 1131(c)(3)][/us/pl/105/34/s1131/c/3], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 802][/us/stat/68A/802], § 6420; renumbered § 6421, [Apr. 2, 1956, ch. 160, § 1][/us/act/1956-04-02/ch160/s1], [70 Stat. 87][/us/stat/70/87]; renumbered § 6422, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(c), [70 Stat. 394][/us/stat/70/394]; amended [Pub. L. 85–859, title II, § 204(4)][/us/pl/85/859/s204/4], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 88–36, title II, § 201(c)][/us/pl/88/36/s201/c], June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 94–455, title XVI, § 1601(f)(1)][/us/pl/94/455/s1601/f/1], title XIX, §§ 1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1828; [Pub. L. 95–600, title III, § 362(d)(4)][/us/pl/95/600/s362/d/4], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV, § 402(c)(4)][/us/pl/97/248/s402/c/4], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–258, § 3(f)(8)][/us/pl/97/258/s3/f/8], (9), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 101–508, title XI, § 11801(c)(17)(A)][/us/pl/101/508/s11801/c/17/A], Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 105–34, title XI, § 1131(c)(3)][/us/pl/105/34/s1131/c/3], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980]; [Pub. L. 114–74, title XI, § 1101(f)(2)][/us/pl/114/74/s1101/f/2], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(2)][/us/pl/114/74/s1101/f/2], (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (12). See 2015 Amendment note below.
 
  __References in Text__ 
 
     Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), was repealed by [Pub. L. 94–412, title V, § 501(g)][/us/pl/94/412/s501/g], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Amendments__ 
+
+    2015—Par. (12). [Pub. L. 114–74][/us/pl/114/74] struck out par. (12) which read as follows: “For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
 
     1997—Pars. (5) to (13). [Pub. L. 105–34][/us/pl/105/34] struck out par. (5) and redesignated pars. (6) to (13) as (5) to (12), respectively. Prior to amendment, par. (5) read as follows: “For abatement or refund of tax on transfers to avoid income tax, see section 1494(b).”
 
@@ -76,6 +82,10 @@
     1963—Pars. (7) to (14). [Pub. L. 88–36][/us/pl/88/36] redesignated pars. (8) to (14) as (7) to (13), respectively. Former par. (7), which was cross reference provision for abatement or refund in case of tax on silver bullion to section 4894, was struck out.
 
     1958—[Pub. L. 85–859][/us/pl/85/859] substituted “subtitle E” for “sections 5011, 5044, 5057, 5063, 5705, and 5707” in par. (14).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -136,8 +146,13 @@
 [/us/stat/104/1388-527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-527
 [/us/pl/105/34/s1131/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F3
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
+[/us/pl/114/74/s1101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F2
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/74/s1101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F2
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
 [/us/pl/94/412/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fg
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1481
@@ -164,6 +179,9 @@
 [/us/pl/94/455/s1601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Ff%2F1
 [/us/pl/88/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

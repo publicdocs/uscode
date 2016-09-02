@@ -69,7 +69,21 @@
 
 </table>
 
+ __Amendment of Analysis__ 
+
+    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (b)(2), (c)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:
+
+    (1) by striking the item relating to subchapter C “Tax treatment of partnership items”;
+
+    (2) by striking the item relating to subchapter D “Treatment of electing large partnerships”; and
+
+    (3) by inserting after the item relating to subchapter B the following new item for subchapter C: “Treatment of partnerships”.
+
+    See 2015 Amendment note below.
+
  __Amendments__ 
+
+    2015—[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (b)(2), (c)(2), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, added item for subchapter C and struck out former items for subchapter C “Tax treatment of partnership items” and subchapter D “Treatment of electing large partnerships”.
 
     1997—[Pub. L. 105–34, title XII, § 1222(c)][/us/pl/105/34/s1222/c], Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], added item for subchapter D.
 
@@ -88,6 +102,10 @@
 ----------
 ----------
 
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
+[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/105/34/s1222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fc
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
 [/us/pl/104/188/s1307/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fc%2F3%2FC

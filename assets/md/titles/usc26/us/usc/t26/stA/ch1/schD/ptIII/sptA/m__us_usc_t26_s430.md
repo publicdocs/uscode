@@ -659,15 +659,11 @@
 
                             <td> 
 
-                        The
-
-                        applicable minimum percentage is:  </td>
+                        The applicable minimum percentage is:  </td>
 
                             <td> 
 
-                        The
-
-                        applicable maximum percentage is:  </td>
+                        The applicable maximum percentage is:  </td>
 
   </tr>
 
@@ -675,7 +671,7 @@
 
                             <td> 
 
-                        2012, 2013, 2014, 2015, 2016, or 2017  </td>
+                        2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020  </td>
 
                             <td> 
 
@@ -691,7 +687,7 @@
 
                             <td> 
 
-                        2018  </td>
+                        2021  </td>
 
                             <td> 
 
@@ -707,7 +703,7 @@
 
                             <td> 
 
-                        2019  </td>
+                        2022  </td>
 
                             <td> 
 
@@ -723,7 +719,7 @@
 
                             <td> 
 
-                        2020  </td>
+                        2023  </td>
 
                             <td> 
 
@@ -739,7 +735,7 @@
 
                             <td> 
 
-                        After 2020  </td>
+                        After 2023  </td>
 
                             <td> 
 
@@ -1351,7 +1347,7 @@
 
         In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847; [Pub. L. 113–159, title II, § 2003(a)][/us/pl/113/159/s2003/a], (d)(1), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], (D)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
+(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847; [Pub. L. 113–159, title II, § 2003(a)][/us/pl/113/159/s2003/a], (d)(1), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], (D)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046]; [Pub. L. 114–74, title V, § 504(a)][/us/pl/114/74/s504/a], Nov. 2, 2015, [129 Stat. 593][/us/stat/129/593].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1370,6 +1366,8 @@
     The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(2)(C)(iv)(II). [Pub. L. 114–74][/us/pl/114/74] amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2020 and after.
 
     2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], struck out subpar. (A) designation and heading and subpar. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
@@ -1437,6 +1435,12 @@
 
     Subsec. (k)(6)(B). [Pub. L. 110–458, § 101(b)(2)(H)(ii)][/us/pl/110/458/s101/b/2/H/ii], struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title V, § 504(c)][/us/pl/114/74/s504/c], Nov. 2, 2015, [129 Stat. 594][/us/stat/129/594], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1021 and 1083 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2015.”
+
  __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
@@ -1502,6 +1506,22 @@
 [Pub. L. 109–280, title I, § 112(b)][/us/pl/109/280/s112/b], Aug. 17, 2006, [120 Stat. 846][/us/stat/120/846], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to plan years beginning after December 31, 2007.”
+
+ __Mortality Tables__ 
+
+[Pub. L. 114–74, title V, § 503][/us/pl/114/74/s503], Nov. 2, 2015, [129 Stat. 593][/us/stat/129/593], provided that:
+
+>     “(a)  __Credibility__  __.—__ 
+
+>     For purposes of subclause (I) of section 430(h)(3)(C)(iii) of the Internal Revenue Code of 1986 and subclause (I) of section 303(h)(3)(C)(iii) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(h)(3)(C)(iii)][/us/usc/t29/s1083/h/3/C/iii]\], the determination of whether plans have credible information shall be made in accordance with established actuarial credibility theory, which—
+
+>         “(1) is materially different from rules under such section of such Code, including Revenue Procedure 2007–37, that are in effect on the date of the enactment of this Act \[Nov. 2, 2015\]; and
+
+>         “(2) permits the use of tables that reflect adjustments to the tables described in subparagraphs (A) and (B) of section 430(h)(3) of such Code, and subparagraphs (A) and (B) of section 303(h)(3) of such Act, if such adjustments are based on the experience described in subclause (II) of section 430(h)(3)(C)(iii) of such Code and in subclause (II) of section 303(h)(3)(C)(iii) of such Act.
+
+>     “(b)  __Effective Date__  __.—__ 
+
+>     This section shall apply to plan years beginning after December 31, 2015.”
 
  __Applicability of Subtitles A and B of Title I of__  __[__  __Pub. L. 109–280__  __][/us/pl/109/280]__ 
 
@@ -1872,6 +1892,8 @@
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
 [/us/pl/113/295/s221/a/57/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fi
 [/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
+[/us/pl/114/74/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fa
+[/us/stat/129/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F593
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -1884,6 +1906,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/113/295/s221/a/57/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fi
 [/us/pl/113/159/s2003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F1
 [/us/pl/113/159/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fa
@@ -1917,6 +1940,8 @@
 [/us/pl/110/458/s101/b/2/G/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FG%2Fiii
 [/us/pl/110/458/s101/b/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fi
 [/us/pl/110/458/s101/b/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fii
+[/us/pl/114/74/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fc
+[/us/stat/129/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F594
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -1954,6 +1979,9 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs112%2Fb
 [/us/stat/120/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F846
+[/us/pl/114/74/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs503
+[/us/stat/129/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F593
+[/us/usc/t29/s1083/h/3/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F3%2FC%2Fiii
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

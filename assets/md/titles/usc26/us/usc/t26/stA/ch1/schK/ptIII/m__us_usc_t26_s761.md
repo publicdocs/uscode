@@ -29,7 +29,7 @@
 
     (b) __Partner__ 
 
-        For purposes of this subtitle, the term “partner” means a member of a partnership.
+        For purposes of this subtitle, the term “partner” means a member of a partnership. In the case of a capital interest in a partnership in which capital is a material income-producing factor, whether a person is a partner with respect to such interest shall be determined without regard to whether such interest was derived by gift from any other person.
 
     (c) __Partnership agreement__ 
 
@@ -77,9 +77,11 @@
 
         For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see sections 704(b) and 706(c)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 252][/us/stat/68A/252]; [Pub. L. 94–455, title II, § 213(c)(3)(B)][/us/pl/94/455/s213/c/3/B], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 96–222, title I, § 102(a)(2)(C)][/us/pl/96/222/s102/a/2/C], Apr. 1, 1980, [94 Stat. 208][/us/stat/94/208]; [Pub. L. 98–369, div. A, title I, § 75(b)][/us/pl/98/369/s75/b], July 18, 1984, [98 Stat. 594][/us/stat/98/594]; [Pub. L. 99–514, title XVIII, § 1805(c)(2)][/us/pl/99/514/s1805/c/2], Oct. 22, 1986, [100 Stat. 2810][/us/stat/100/2810]; [Pub. L. 110–28, title VIII, § 8215(a)][/us/pl/110/28/s8215/a], May 25, 2007, [121 Stat. 193][/us/stat/121/193].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 252][/us/stat/68A/252]; [Pub. L. 94–455, title II, § 213(c)(3)(B)][/us/pl/94/455/s213/c/3/B], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 96–222, title I, § 102(a)(2)(C)][/us/pl/96/222/s102/a/2/C], Apr. 1, 1980, [94 Stat. 208][/us/stat/94/208]; [Pub. L. 98–369, div. A, title I, § 75(b)][/us/pl/98/369/s75/b], July 18, 1984, [98 Stat. 594][/us/stat/98/594]; [Pub. L. 99–514, title XVIII, § 1805(c)(2)][/us/pl/99/514/s1805/c/2], Oct. 22, 1986, [100 Stat. 2810][/us/stat/100/2810]; [Pub. L. 110–28, title VIII, § 8215(a)][/us/pl/110/28/s8215/a], May 25, 2007, [121 Stat. 193][/us/stat/121/193]; [Pub. L. 114–74, title XI, § 1102(a)][/us/pl/114/74/s1102/a], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–74][/us/pl/114/74] inserted at end “In the case of a capital interest in a partnership in which capital is a material income-producing factor, whether a person is a partner with respect to such interest shall be determined without regard to whether such interest was derived by gift from any other person.”
 
     2007—Subsecs. (f), (g). [Pub. L. 110–28][/us/pl/110/28] added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -92,6 +94,10 @@
     1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
 
     Subsec. (e). [Pub. L. 94–455, § 213(c)(3)(B)][/us/pl/94/455/s213/c/3/B], added subsec. (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to partnership taxable years beginning after Dec. 31, 2015, see [section 1102(c) of Pub. L. 114–74][/us/pl/114/74/s1102/c], set out as a note under [section 704 of this title][/us/usc/t26/s704].
 
  __Effective Date of 2007 Amendment__ 
 
@@ -138,12 +144,18 @@
 [/us/stat/100/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2810
 [/us/pl/110/28/s8215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8215%2Fa
 [/us/stat/121/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F193
+[/us/pl/114/74/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fa
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s213/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F3%2FB
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fc
+[/us/usc/t26/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs704
 [/us/pl/110/28/s8215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8215%2Fc
 [/us/stat/121/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F194
 [/us/usc/t26/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1402

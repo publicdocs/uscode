@@ -35,9 +35,15 @@
 
         (2) For deposit of United States bonds or notes in lieu of sureties, see [section 9303 of title 31][/us/usc/t31/s9303], United States Code.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX, § 960(h)(3)][/us/pl/91/172/s960/h/3], Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735]; [Pub. L. 97–248, title IV, § 402(c)(16)][/us/pl/97/248/s402/c/16], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–258, § 3(f)(15)][/us/pl/97/258/s3/f/15], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(4), 1241(a), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1029.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX, § 960(h)(3)][/us/pl/91/172/s960/h/3], Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735]; [Pub. L. 97–248, title IV, § 402(c)(16)][/us/pl/97/248/s402/c/16], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–258, § 3(f)(15)][/us/pl/97/258/s3/f/15], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(4), 1241(a), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1029; [Pub. L. 114–74, title XI, § 1101(f)(14)][/us/pl/114/74/s1101/f/14], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Subsection (b)__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(14)][/us/pl/114/74/s1101/f/14], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended by striking “section 6226, 6228(a), 6247, or 6252” and inserting “section 6234”. See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–74][/us/pl/114/74] substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
     1997—Subsec. (b). [Pub. L. 105–34, § 1222(b)(4)(B)][/us/pl/105/34/s1222/b/4/B], amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
 
@@ -50,6 +56,10 @@
     Subsec. (c)(2). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 9303 of title 31][/us/usc/t31/s9303], United States Code” for “[6 U.S.C. 15][/us/usc/t6/s15]”. Notwithstanding the directory language that amendment be made to subsec. (b)(2), the amendment was executed to subsec. (c)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (b) as (c) by [Pub. L. 97–248][/us/pl/97/248].
 
     1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172] substituted “notice of appeal” for “petition for review” and “appeal bond” for “review bond”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -85,6 +95,11 @@
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
+[/us/pl/114/74/s1101/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F14
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F14
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34/s1222/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4%2FB
 [/us/pl/105/34/s1222/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4%2FA
 [/us/pl/105/34/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1241%2Fa
@@ -94,6 +109,9 @@
 [/us/usc/t6/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs15
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34/s1222/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4
 [/us/pl/105/34/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1226
 [/us/usc/t26/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6011

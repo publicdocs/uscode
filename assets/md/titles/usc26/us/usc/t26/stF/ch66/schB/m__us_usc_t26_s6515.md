@@ -29,9 +29,15 @@
 
     (6) Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 813][/us/stat/68A/813]; [Pub. L. 94–455, title XVI, § 1601(f)(3)][/us/pl/94/455/s1601/f/3], title XIX, § 1901(b)(36)(D), (37)(E), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1803; [Pub. L. 95–600, title III, § 362(d)(4)][/us/pl/95/600/s362/d/4], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV, § 402(c)(10)][/us/pl/97/248/s402/c/10], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 101–508, title XI, § 11801(c)(17)(C)][/us/pl/101/508/s11801/c/17/C], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 813][/us/stat/68A/813]; [Pub. L. 94–455, title XVI, § 1601(f)(3)][/us/pl/94/455/s1601/f/3], title XIX, § 1901(b)(36)(D), (37)(E), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1803; [Pub. L. 95–600, title III, § 362(d)(4)][/us/pl/95/600/s362/d/4], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV, § 402(c)(10)][/us/pl/97/248/s402/c/10], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 101–508, title XI, § 11801(c)(17)(C)][/us/pl/101/508/s11801/c/17/C], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528]; [Pub. L. 114–74, title XI, § 1101(f)(8)][/us/pl/114/74/s1101/f/8], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(8)][/us/pl/114/74/s1101/f/8], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (6).
 
  __Amendments__ 
+
+    2015—Par. (6). [Pub. L. 114–74][/us/pl/114/74] struck out par. (6) which read as follows: “Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
 
     1990—[Pub. L. 101–508][/us/pl/101/508] struck out par. (2) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (3) to (7)) by redesignating such pars. as (2) to (6), respectively. Prior to amendment, par. (2) provided a cross reference to section 1481 for overpayment in certain renegotiations of war contracts.
 
@@ -46,6 +52,10 @@
     Pars. (3) to (7). [Pub. L. 94–455, § 1901(b)(37)(E)][/us/pl/94/455/s1901/b/37/E], redesignated pars. (3) to (7) as (1) to (5), respectively.
 
     Par. (8). [Pub. L. 94–455, § 1601(f)(3)][/us/pl/94/455/s1601/f/3], added par. (8) which was redesignated par. (6) by [section 1901(b)(37)(E) of Pub. L. 94–455][/us/pl/94/455/s1901/b/37/E].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -82,6 +92,11 @@
 [/us/stat/96/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F668
 [/us/pl/101/508/s11801/c/17/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F17%2FC
 [/us/stat/104/1388-528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-528
+[/us/pl/114/74/s1101/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F8
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F8
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
@@ -90,6 +105,9 @@
 [/us/pl/94/455/s1901/b/37/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F37%2FE
 [/us/pl/94/455/s1601/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Ff%2F3
 [/us/pl/94/455/s1901/b/37/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F37%2FE
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

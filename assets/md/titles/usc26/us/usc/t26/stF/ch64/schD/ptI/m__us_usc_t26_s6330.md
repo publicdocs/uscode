@@ -171,9 +171,19 @@
 
             A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added [Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)][/us/pl/109/280/s855/a], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV, § 407(b)][/us/pl/109/432/s407/b], Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII, § 8243(a)][/us/pl/110/28/s8243/a], (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II, § 2104(a)][/us/pl/111/240/s2104/a]–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565].)
+(Added [Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)][/us/pl/109/280/s855/a], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV, § 407(b)][/us/pl/109/432/s407/b], Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII, § 8243(a)][/us/pl/110/28/s8243/a], (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II, § 2104(a)][/us/pl/111/240/s2104/a]–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565]; [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
+
+ __Amendment of Subsection (c)(4)__ 
+
+    [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking “or” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; or”, and by inserting after subparagraph (B) the following new subparagraph:
+
+    “(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.”
+
+    See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(4)(C). [Pub. L. 114–74][/us/pl/114/74] added subpar. (C).
 
     2010—Subsec. (f). [Pub. L. 111–240, § 2104(c)][/us/pl/111/240/s2104/c], substituted “Exceptions” for “Jeopardy and State refund collection” in heading.
 
@@ -202,6 +212,10 @@
     2000—Subsec. (d)(1)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(d)\], substituted “with respect to” for “to hear”.
 
     Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -250,6 +264,11 @@
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
 [/us/pl/111/240/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fa
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
+[/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
+[/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/111/240/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fc
 [/us/pl/111/240/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fa
 [/us/pl/111/240/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fb
@@ -261,6 +280,9 @@
 [/us/pl/109/432/s407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb%2F1
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/111/240/s2104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fd
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
 [/us/pl/110/28/s8243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8243%2Fc

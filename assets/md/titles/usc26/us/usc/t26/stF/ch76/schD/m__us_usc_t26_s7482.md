@@ -91,9 +91,35 @@
 
             The United States Court of Appeals and the Supreme Court shall have the power to require the taxpayer to pay to the United States a penalty in any case where the decision of the Tax Court is affirmed and it appears that the appeal was instituted or maintained primarily for delay or that the taxpayer’s position in the appeal is frivolous or groundless.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 890][/us/stat/68A/890]; [Pub. L. 89–713, § 3(c)][/us/pl/89/713/s3/c], Nov. 2, 1966, [80 Stat. 1109][/us/stat/80/1109]; [Pub. L. 91–172, title IX, § 960(h)(2)][/us/pl/91/172/s960/h/2], Dec. 30, 1969, 83 Stat 735; [Pub. L. 93–406, title II, § 1041(b)(3)][/us/pl/93/406/s1041/b/3], Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title X, § 1042(d)(2)(A)][/us/pl/94/455/s1042/d/2/A], (B), title XIII, § 1306(b)(4), (5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1638][/us/stat/90/1638], 1639, 1719, 1834; [Pub. L. 95–600, title III, § 336(c)(1)][/us/pl/95/600/s336/c/1], Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842]; [Pub. L. 97–164, title I, § 154][/us/pl/97/164/s154], Apr. 2, 1982, [96 Stat. 47][/us/stat/96/47]; [Pub. L. 97–248, title IV, § 402(c)(15)][/us/pl/97/248/s402/c/15], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 98–369, div. A, title I, § 131(e)(2)(A)][/us/pl/98/369/s131/e/2/A], July 18, 1984, [98 Stat. 665][/us/stat/98/665]; [Pub. L. 99–514, title XV, § 1558(a)][/us/pl/99/514/s1558/a], (b), title XVIII, §§ 1810(g)(2), 1899A(60), Oct. 22, 1986, [100 Stat. 2757][/us/stat/100/2757], 2758, 2828, 2962; [Pub. L. 100–647, title VI, § 6243(b)][/us/pl/100/647/s6243/b], Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 101–239, title VII, § 7731(b)][/us/pl/101/239/s7731/b], Dec. 19, 1989, [103 Stat. 2401][/us/stat/103/2401]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(3), 1239(d), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 890][/us/stat/68A/890]; [Pub. L. 89–713, § 3(c)][/us/pl/89/713/s3/c], Nov. 2, 1966, [80 Stat. 1109][/us/stat/80/1109]; [Pub. L. 91–172, title IX, § 960(h)(2)][/us/pl/91/172/s960/h/2], Dec. 30, 1969, 83 Stat 735; [Pub. L. 93–406, title II, § 1041(b)(3)][/us/pl/93/406/s1041/b/3], Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title X, § 1042(d)(2)(A)][/us/pl/94/455/s1042/d/2/A], (B), title XIII, § 1306(b)(4), (5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1638][/us/stat/90/1638], 1639, 1719, 1834; [Pub. L. 95–600, title III, § 336(c)(1)][/us/pl/95/600/s336/c/1], Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842]; [Pub. L. 97–164, title I, § 154][/us/pl/97/164/s154], Apr. 2, 1982, [96 Stat. 47][/us/stat/96/47]; [Pub. L. 97–248, title IV, § 402(c)(15)][/us/pl/97/248/s402/c/15], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 98–369, div. A, title I, § 131(e)(2)(A)][/us/pl/98/369/s131/e/2/A], July 18, 1984, [98 Stat. 665][/us/stat/98/665]; [Pub. L. 99–514, title XV, § 1558(a)][/us/pl/99/514/s1558/a], (b), title XVIII, §§ 1810(g)(2), 1899A(60), Oct. 22, 1986, [100 Stat. 2757][/us/stat/100/2757], 2758, 2828, 2962; [Pub. L. 100–647, title VI, § 6243(b)][/us/pl/100/647/s6243/b], Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 101–239, title VII, § 7731(b)][/us/pl/101/239/s7731/b], Dec. 19, 1989, [103 Stat. 2401][/us/stat/103/2401]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(3), 1239(d), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028; [Pub. L. 114–74, title XI, § 1101(f)(13)][/us/pl/114/74/s1101/f/13], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+
+ __Amendment of Subsection (b)(1)__ 
+
+    [Pub. L. 114–74, title XI, § 1101(f)(13)][/us/pl/114/74/s1101/f/13], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(1) of this section is amended as follows:
+
+    (1) in subparagraph (E), by striking “section 6226, 6228, 6247, or 6252” and inserting “section 6234”;
+
+    (2) by striking subparagraph (F), by striking “or” at the end of subparagraph (E) and inserting a period, and by inserting “or” at the end of subparagraph (D); and
+
+    (3) in the last sentence, by striking “section 6226, 6228(a), or 6234(c)” and inserting “section 6234”.
+
+    See 2015 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–74, § 1101(f)(13)(C)][/us/pl/114/74/s1101/f/13/C], substituted “section 6234” for “section 6226, 6228(a), or 6234(c)” in concluding provisions.
+
+    Subsec. (b)(1)(D). [Pub. L. 114–74, § 1101(f)(13)(B)][/us/pl/114/74/s1101/f/13/B], inserted “or” at end.
+
+    Subsec. (b)(1)(E). [Pub. L. 114–74, § 1101(f)(13)(B)][/us/pl/114/74/s1101/f/13/B], substituted period for “or” after “partnership,”.
+
+    [Pub. L. 114–74, § 1101(f)(13)(A)][/us/pl/114/74/s1101/f/13/A], which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
+
+    Subsec. (b)(1)(F). [Pub. L. 114–74, § 1101(f)(13)(B)][/us/pl/114/74/s1101/f/13/B], struck out subpar. (F) which read as follows: “in the case of a petition under section 6234(c)—
+
+    “(i) the legal residence of the petitioner if the petitioner is not a corporation, and
+
+    “(ii) the place or office applicable under subparagraph (B) if the petitioner is a corporation.”
 
     1997—Subsec. (b)(1). [Pub. L. 105–34, § 1239(d)(2)][/us/pl/105/34/s1239/d/2], substituted “, 6228(a), or 6234(c)” for “or 6228(a)” in concluding provisions.
 
@@ -134,6 +160,10 @@
     1969—Subsec. (c). [Pub. L. 91–172][/us/pl/91/172] substituted “[section 2072 of title 28][/us/usc/t28/s2072]” for “[section 2074 of title 28][/us/usc/t28/s2074]” in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under [section 2072 of title 28][/us/usc/t28/s2072] become effective and, in par. (4), substituted “notice of appeal” for “petition”.
 
     1966—Subsec. (b)(1). [Pub. L. 89–713][/us/pl/89/713] substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -224,6 +254,15 @@
 [/us/stat/103/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2401
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
+[/us/pl/114/74/s1101/f/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13
+[/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
+[/us/pl/114/74/s1101/f/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13%2FC
+[/us/pl/114/74/s1101/f/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13%2FB
+[/us/pl/114/74/s1101/f/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13%2FB
+[/us/pl/114/74/s1101/f/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13%2FA
+[/us/pl/114/74/s1101/f/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F13%2FB
 [/us/pl/105/34/s1239/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fd%2F2
 [/us/pl/105/34/s1222/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F3
 [/us/pl/105/34/s1239/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fd%2F1
@@ -247,6 +286,9 @@
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34/s1222/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F3
 [/us/pl/105/34/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1226
 [/us/usc/t26/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6011
