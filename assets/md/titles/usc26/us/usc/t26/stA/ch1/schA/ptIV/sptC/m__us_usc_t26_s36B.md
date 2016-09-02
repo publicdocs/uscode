@@ -583,11 +583,11 @@
 
 [Pub. L. 112–56, title IV, § 401(c)][/us/pl/112/56/s401/c], Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734], provided that:
 
->     “(1) __Estimate of secretary.—__ 
+>     “(1)  __Estimate of secretary__  __.—__ 
 
 >     The Secretary of the Treasury, or the Secretary’s delegate, shall annually estimate the impact that the amendments made by subsection (a) \[amending this section\] have on the income and balances of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]).
 
->     “(2) __Transfer of funds.—__ 
+>     “(2)  __Transfer of funds__  __.—__ 
 
 >     If, under paragraph (1), the Secretary of the Treasury or the Secretary’s delegate estimates that such amendments have a negative impact on the income and balances of such trust funds, the Secretary shall transfer, not less frequently than quarterly, from the general fund an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of such amendments.”
 

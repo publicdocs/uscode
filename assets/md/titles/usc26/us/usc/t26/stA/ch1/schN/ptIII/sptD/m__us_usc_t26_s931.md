@@ -77,23 +77,23 @@
 
 [Pub. L. 99–514, title XII, § 1277][/us/pl/99/514/s1277], Oct. 22, 1986, [100 Stat. 2600][/us/stat/100/2600], as amended by [Pub. L. 100–647, title I, § 1012(z)][/us/pl/100/647/s1012/z], Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle G (§§ 1271–1277) of title XII of [Pub. L. 99–514][/us/pl/99/514], enacting [section 932 of this title][/us/usc/t26/s932], amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and [section 932 of this title][/us/usc/t26/s932]\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(b) __Special Rule for Guam, American Samoa, and the Northern Mariana Islands.—__ 
+>     “(b)  __Special Rule for Guam, American Samoa, and the Northern Mariana Islands__  __.—__ 
 
 >     The amendments made by this subtitle shall apply with respect to Guam, American Samoa, or the Northern Mariana Islands (and to residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement under section 1271 \[set out below\] is in effect between the United States and such possession.
 
 >     “(c) __Special Rules for the Virgin Islands.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by section 1275(c) \[amending sections 28, 48, 338, 864, and 934 of this title and repealing [section 934A of this title][/us/usc/t26/s934A]\] shall apply with respect to the Virgin Islands (and residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement is in effect between the United States and the Virgin Islands with respect to the establishment of rules under which the evasion or avoidance of United States income tax shall not be permitted or facilitated by such possession. Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury, after consultation with the Secretary of the Interior.
 
->         “(2) __Section 1275(b).—__ 
+>         “(2)  __Section 1275__  __(b).—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendment made by section 1275(b) \[amending [section 7651 of this title][/us/usc/t26/s7651]\] shall apply with respect to—
 
@@ -101,7 +101,7 @@
 
 >                 “(ii) any pre-1987 open year.
 
->             “(B) __Special rules.—__ 
+>             “(B)  __Special rules__  __.—__ 
 
 >             In the case of any pre-1987 open year—
 
@@ -117,11 +117,11 @@
 
 >                  For purposes of clause (ii)(II), any tax paid before January 1, 1987, pursuant to a process in effect before August 16, 1986, shall be treated as paid before the date of the enactment of this Act.
 
->             “(C) __Pre-1987 open year.—__ 
+>             “(C)  __Pre-1987 open year__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘pre-1987 open year’ means any taxable year beginning before January 1, 1987, if on the date of the enactment of this Act \[Oct. 22, 1986\] the assessment of a deficiency of income tax for such taxable year is not barred by any law or rule of law.
 
->             “(D) __Exception.—__ 
+>             “(D)  __Exception__  __.—__ 
 
 >             In the case of any pre-1987 open year, the amendment made by section 1275(b) shall not apply to any domestic corporation if—
 
@@ -131,11 +131,11 @@
 
 >             “(E) __Exception for certain transactions.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In the case of any pre-1987 open year, the amendment made by section 1275(b) shall not apply to any income derived from transactions described in clause (ii) by 1 or more corporations which were formed in Delaware on or about March 6, 1981, and which have owned 1 or more office buildings in St. Thomas, United States Virgin Islands, for at least 5 years before the date of the enactment of this Act \[Oct. 22, 1986\].
 
->                 “(ii) __Description of transactions.—__ 
+>                 “(ii)  __Description of transactions__  __.—__ 
 
 >                 The transactions described in this clause are—
 
@@ -145,11 +145,11 @@
 
 >                          “(III) interest earned before January 1, 1987, on bank deposits of proceeds received from such redemptions to the extent such deposits are located in the United States Virgin Islands.
 
->                 “(iii) __Limitation.—__ 
+>                 “(iii)  __Limitation__  __.—__ 
 
 >                 The aggregate reduction in tax by reason of this subparagraph shall not exceed $8,312,000. If the taxes which would be payable as the result of the application of the amendment made by section 1275(b) to pre-1987 open years exceeds the limitation of the preceding sentence, such excess shall be treated as attributable to income received in taxable years in reverse chronological order.
 
->     “(d) __Report on Implementing Agreements.—__ 
+>     “(d)  __Report on Implementing Agreements__  __.—__ 
 
 >     If, during the 1-year period beginning on the date of the enactment of this Act \[Oct. 22, 1986\], any implementing agreement described in subsection (b) or (c) is not executed, the Secretary of the Treasury or his delegate shall report to the Committee on Finance of the United States Senate, the Committee on Ways and Means, and the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the House of Representatives with respect to—
 
@@ -157,11 +157,11 @@
 
 >         “(2) the reason why such agreement has not been executed.
 
->     “(e) __Treatment of Certain United States Persons.—__ 
+>     “(e)  __Treatment of Certain United States Persons__  __.—__ 
 
 >     Except as otherwise provided in regulations prescribed by the Secretary of the Treasury or his delegate, if a United States person becomes a resident of Guam, American Samoa, or the Northern Mariana Islands, the rules of section 877(c) of the Internal Revenue Code of 1954 \[now 1986\] shall apply to such person during the 10-year period beginning when such person became such a resident. Notwithstanding subsection (b), the preceding sentence shall apply to dispositions after December 31, 1985, in taxable years ending after such date.
 
->     “(f) __Exemption From Withholding.—__ 
+>     “(f)  __Exemption From Withholding__  __.—__ 
 
 >     Notwithstanding subsection (b), the modification of section 884 of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986.”
 
@@ -199,7 +199,7 @@
 
 [Pub. L. 99–514, title XII, § 1271][/us/pl/99/514/s1271], Oct. 22, 1986, [100 Stat. 2591][/us/stat/100/2591], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), nothing in the laws of the United States shall prevent Guam, American Samoa, or the Northern Mariana Islands from enacting tax laws (which shall apply in lieu of the mirror system) with respect to income—
 
@@ -207,7 +207,7 @@
 
 >         “(2) received or accrued by any resident of such possession.
 
->     “(b) __Agreements To Alleviate Certain Problems Relating to Tax Administration.—__ 
+>     “(b)  __Agreements To Alleviate Certain Problems Relating to Tax Administration__  __.—__ 
 
 >     Subsection (a) shall apply to Guam, American Samoa, or the Northern Mariana Islands only if (and so long as) an implementing agreement is in effect between the United States and such possession with respect to—
 
@@ -221,35 +221,35 @@
 
 >         Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury after consultation with the Secretary of the Interior.
 
->     “(c) __Revenues Not To Decrease.—__ 
+>     “(c)  __Revenues Not To Decrease__  __.—__ 
 
 >     The total amount of the revenue received by any possession referred to in subsection (a) pursuant to its tax laws during the implementation year and each of the 4 fiscal years thereafter shall not be less than the revenue (adjusted for inflation) which was received by such possession pursuant to tax laws for its last fiscal year before the implementation year.
 
->     “(d) __Nondiscriminatory Treatment Required.—__ 
+>     “(d)  __Nondiscriminatory Treatment Required__  __.—__ 
 
 >     Nothing in any tax law of a possession referred to in subsection (a) may discriminate against any United States person or any resident (corporate or otherwise) of any other possession.
 
 >     “(e) __Enforcement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the Secretary of the Treasury (after consultation with the Secretary of the Interior) determines that any possession has failed to comply with subsection (c) or (d), the Secretary of the Treasury shall so notify the Governor of such possession in writing. If such possession does not comply with subsection (c) or (d) (as the case may be) within 90 days of such notification, the Secretary of the Treasury shall notify the Congress of such noncompliance. Unless the Congress by law provides otherwise, the mirror system of taxation shall be reinstated in such possession and shall be in full force and effect for taxable years beginning after such notification to the Congress.
 
->         “(2) __Special rule for revenue requirements.—__ 
+>         “(2)  __Special rule for revenue requirements__  __.—__ 
 
 >         If the failure to comply with subsection (c) is for good cause and does not jeopardize the fiscal integrity of the possession, the Secretary may waive the requirements of subsection (c) for such period as he determines appropriate.
 
 >     “(f) __Definitions and Special Rules.—__ 
 
->         “(1) __Implementation year.—__ 
+>         “(1)  __Implementation year__  __.—__ 
 
 >         For purposes of this section, the term “implementation year” means the 1st fiscal year of the possession in which the tax laws authorized by subsection (a) take effect.
 
->         “(2) __Mirror system.—__ 
+>         “(2)  __Mirror system__  __.—__ 
 
 >         For purposes of this section, the mirror system of taxation consists of the provisions of law (in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) which make the provisions of the income tax laws of the United States (as in effect from time to time) in effect in a possession of the United States.
 
->         “(3) __Special rule for northern mariana islands.—__ 
+>         “(3)  __Special rule for northern mariana islands__  __.—__ 
 
 >         Notwithstanding the provisions of the last clause of [section 601(a) of Public Law 94–241][/us/pl/94/241/s601/a] \[[48 U.S.C. 1801][/us/usc/t48/s1801] note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
 

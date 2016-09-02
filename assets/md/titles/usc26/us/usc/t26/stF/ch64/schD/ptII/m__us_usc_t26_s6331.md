@@ -319,11 +319,11 @@
 
 [Pub. L. 105–206, title III, § 3462(e)][/us/pl/105/206/s3462/e], July 22, 1998, [112 Stat. 766][/us/stat/112/766], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 6159 and 7122 of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Suspension of collection by levy.—__ 
+>     “(2)  __Suspension of collection by levy__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to offers-in-compromise pending on or made after December 31, 1999.”
 
@@ -339,11 +339,11 @@
 
 [Pub. L. 100–647, title VI, § 6236(h)][/us/pl/100/647/s6236/h], Nov. 10, 1988, [102 Stat. 3740][/us/stat/102/3740], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section (other than subsection (g)) \[amending this section and sections 6332, 6334, and 6343 of this title\] shall apply to levies issued on or after July 1, 1989.
 
->     “(2) __Subsection (g).—__ 
+>     “(2)  __Subsection__  __(g).—__ 
 
 >     The amendment made by subsection (g) \[amending [section 6335 of this title][/us/usc/t26/s6335]\] shall apply to requests made on or after January 1, 1989.”
 

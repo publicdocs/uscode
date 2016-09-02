@@ -165,7 +165,7 @@
 
 >         “(1) __Coal producers.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, if—
 
@@ -177,19 +177,19 @@
 
 >                   then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
 
->             “(B) __Special rules for certain taxpayers.—__ 
+>             “(B)  __Special rules for certain taxpayers__  __.—__ 
 
 >             For purposes of this section—
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 If a coal producer or a party related to a coal producer has received a judgment described in clause (iii), such coal producer shall be deemed to have established the export of coal to a foreign country or shipment of coal to a possession of the United States under subparagraph (A)(i).
 
->                 “(ii) __Amount of payment.—__ 
+>                 “(ii)  __Amount of payment__  __.—__ 
 
 >                 If a taxpayer described in clause (i) is entitled to a payment under subparagraph (A), the amount of such payment shall be reduced by any amount paid pursuant to the judgment described in clause (iii).
 
->                 “(iii) __Judgment described.—__ 
+>                 “(iii)  __Judgment described__  __.—__ 
 
 >                 A judgment is described in this subparagraph if such judgment—
 
@@ -199,7 +199,7 @@
 
 >                          “(III) is in favor of the coal producer or the party related to the coal producer.
 
->         “(2) __Exporters.—__ 
+>         “(2)  __Exporters__  __.—__ 
 
 >         Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, and a judgment described in paragraph (1)(B)(iii) of this subsection, if—
 
@@ -209,23 +209,23 @@
 
 >             “(C) such exporter files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,      then the Secretary shall pay to such exporter an amount equal to $0.825 per ton of such coal exported by the exporter or caused to be exported or shipped, or caused to be exported or shipped, \[sic\] by the exporter.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     Subsection (a) shall not apply with respect to exported coal if a settlement with the Federal Government has been made with and accepted by, the coal producer, a party related to such coal producer, or the exporter, of such coal, as of the date that the claim is filed under this section with respect to such exported coal. For purposes of this subsection, the term ‘settlement with the Federal Government’ shall not include any settlement or stipulation entered into as of the date of the enactment of this Act \[Oct. 3, 2008\], the terms of which contemplate a judgment concerning which any party has reserved the right to file an appeal, or has filed an appeal.
 
->     “(c) __Subsequent Refund Prohibited.—__ 
+>     “(c)  __Subsequent Refund Prohibited__  __.—__ 
 
 >     No refund shall be made under this section to the extent that a credit or refund of such tax on such exported or shipped coal has been paid to any person.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Coal producer.—__ 
+>         “(1)  __Coal producer__  __.—__ 
 
 >         The term ‘coal producer’ means the person in whom is vested ownership of the coal immediately after the coal is severed from the ground, without regard to the existence of any contractual arrangement for the sale or other disposition of the coal or the payment of any royalties between the producer and third parties. The term includes any person who extracts coal from coal waste refuse piles or from the silt waste product which results from the wet washing (or similar processing) of coal.
 
->         “(2) __Exporter.—__ 
+>         “(2)  __Exporter__  __.—__ 
 
 >         The term ‘exporter’ means a person, other than a coal producer, who does not have a contract, fee arrangement, or any other agreement with a producer or seller of such coal to export or ship such coal to a third party on behalf of the producer or seller of such coal and—
 
@@ -233,7 +233,7 @@
 
 >             “(B) actually exported such coal to a foreign country or shipped such coal to a possession of the United States, or caused such coal to be so exported or shipped.
 
->         “(3) __Related party.—__ 
+>         “(3)  __Related party__  __.—__ 
 
 >         The term ‘a party related to such coal producer’ means a person who—
 
@@ -243,19 +243,19 @@
 
 >             “(C) has a contract, fee arrangement, or any other agreement with such coal producer to sell such coal to a third party on behalf of such coal producer.
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of \[the\] Treasury or the Secretary’s designee.
 
->     “(e) __Timing of Refund.—__ 
+>     “(e)  __Timing of Refund__  __.—__ 
 
 >     With respect to any claim for refund filed pursuant to this section, the Secretary shall determine whether the requirements of this section are met not later than 180 days after such claim is filed. If the Secretary determines that the requirements of this section are met, the claim for refund shall be paid not later than 180 days after the Secretary makes such determination.
 
->     “(f) __Interest.—__ 
+>     “(f)  __Interest__  __.—__ 
 
 >     Any refund paid pursuant to this section shall be paid by the Secretary with interest from the date of overpayment determined by using the overpayment rate and method under section 6621 of the Internal Revenue Code of 1986.
 
->     “(g) __Denial of Double Benefit.—__ 
+>     “(g)  __Denial of Double Benefit__  __.—__ 
 
 >     The payment under subsection (a) with respect to any coal shall not exceed—
 
@@ -263,17 +263,17 @@
 
 >         “(2) in the case of a payment to an exporter, an amount equal to $0.825 per ton with respect to such coal exported by the exporter or caused to be exported by the exporter.
 
->     “(h) __Application of Section.—__ 
+>     “(h)  __Application of Section__  __.—__ 
 
 >     This section applies only to claims on coal exported or shipped on or after October 1, 1990, through the date of the enactment of this Act \[Oct. 3, 2008\].
 
 >     “(i) __Standing Not Conferred.—__ 
 
->         “(1) __Exporters.—__ 
+>         “(1)  __Exporters__  __.—__ 
 
 >         With respect to exporters, this section shall not confer standing upon an exporter to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by a coal producer of any Federal or State tax, fee, or royalty paid by the coal producer.
 
->         “(2) __Coal producers.—__ 
+>         “(2)  __Coal producers__  __.—__ 
 
 >         With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax, fee, or royalty paid by the producer and alleged to have been passed on to an exporter.”
 

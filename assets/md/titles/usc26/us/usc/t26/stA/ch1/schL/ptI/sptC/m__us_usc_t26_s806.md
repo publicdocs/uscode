@@ -145,7 +145,7 @@
 
 [Pub. L. 98–369, div. A, title II, § 217(h)][/us/pl/98/369/s217/h], July 18, 1984, [98 Stat. 763][/us/stat/98/763], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of applying paragraph (2) of section 806(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to nonlife insurance members included for asset test) for the first taxable year beginning after December 31, 1983, the members of the controlled group referred to in such paragraph shall be treated as including only those members of such group which are described in paragraph (2) of this subsection if—
 
@@ -155,7 +155,7 @@
 
 >         “(C) the sum of the contributions to capital received by members of the controlled group which are taxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
 
->     “(2) __Members of group taken into account.—__ 
+>     “(2)  __Members of group taken into account__  __.—__ 
 
 >     For purposes of paragraph (1), the members of the controlled group which are described in this paragraph are—
 
@@ -185,11 +185,11 @@
 
 [Pub. L. 98–369, div. A, title II, § 217][/us/pl/98/369/s217](l), July 18, 1984, [98 Stat. 765][/us/stat/98/765], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of determining the amount of the special deductions under section 806 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§ 211–219) of title II of div. A of [Pub. L. 98–369][/us/pl/98/369], see Tables for classification\]), for any taxable year beginning before January 1, 1988, the amount of tentative LICTI of any qualified life insurance company shall be computed without taking into account any income, gain, loss, or deduction attributable to a qualified GIC.
 
->     “(2) __Qualified life insurance company.—__ 
+>     “(2)  __Qualified life insurance company__  __.—__ 
 
 >     For purposes of this subsection, the term ‘qualified life insurance company’ means any life insurance company if—
 
@@ -197,7 +197,7 @@
 
 >         “(B) such life insurance company makes an election under this subsection on its return for its first taxable year beginning after December 31, 1983.
 
->     “(3) __Qualified gic.—__ 
+>     “(3)  __Qualified gic__  __.—__ 
 
 >     The term ‘qualified GIC’ means any group contract—
 
@@ -209,15 +209,15 @@
 
 >         “(D) which is a pension plan contract (as defined in section 818(a) of the Internal Revenue Code of 1986).
 
->     “(4) __Scope of election.—__ 
+>     “(4)  __Scope of election__  __.—__ 
 
 >     An election under this subsection shall apply to all qualified GIC’s of a qualified life insurance company. Any such election, once made, shall be irrevocable.
 
->     “(5) __Income on underlying assets taken into account.—__ 
+>     “(5)  __Income on underlying assets taken into account__  __.—__ 
 
 >     In determining the amount of any income attributable to a qualified GIC, income on any asset attributable to such contract (as determined in the manner provided by the Secretary of the Treasury or his delegate) shall be taken into account.
 
->     “(6) __Limitation on tax benefit.—__ 
+>     “(6)  __Limitation on tax benefit__  __.—__ 
 
 >     The amount of any reduction in tax for any taxable year by reason of this subsection for any qualified life insurance company (or controlled group within the meaning of section 806(d)(3) of the Internal Revenue Code of 1986) shall not exceed the applicable amount set forth in the following table:
 
@@ -289,11 +289,11 @@
 
 [Pub. L. 98–369, div. A, title II, § 217(m)][/us/pl/98/369/s217/m], July 18, 1984, [98 Stat. 766][/us/stat/98/766], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of section 806 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the ownership by a qualified life insurance company of any undivided interest in operating mineral interests with respect to any oil or gas properties held on December 31, 1983, shall be treated as an insurance business.
 
->     “(2) __Qualified life insurance company.—__ 
+>     “(2)  __Qualified life insurance company__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘qualified life insurance company’ means a mutual life insurance company which—
 

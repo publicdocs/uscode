@@ -435,15 +435,15 @@
 
 [Pub. L. 112–240, title III, § 324(c)][/us/pl/112/240/s324/c], Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to stock acquired after December 31, 2011.
 
->     “(2) __Subsection (b)(1).—__ 
+>     “(2)  __Subsection (b)(1)__  __.—__ 
 
 >     The amendment made by subsection (b)(1) \[amending this section\] shall take effect as if included in section 1241(a) of division B of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5]\].
 
->     “(3) __Subsection (b)(2).—__ 
+>     “(3)  __Subsection (b)(2)__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending this section\] shall take effect as if included in section 2011(a) of the Creating Small Business Jobs Act of 2010 \[title II of [Pub. L. 111–240][/us/pl/111/240]\].”
 

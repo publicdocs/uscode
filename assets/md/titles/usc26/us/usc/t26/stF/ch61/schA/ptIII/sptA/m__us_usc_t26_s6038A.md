@@ -245,7 +245,7 @@
 
 [Pub. L. 101–508, title XI, § 11314][/us/pl/101/508/s11314], Nov. 5, 1990, [104 Stat. 1388–455][/us/stat/104/1388-455], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The amendments made by section 7403 of the Revenue Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239], amending this section\] shall apply to—
 
@@ -259,7 +259,7 @@
 
 >         without regard to when the taxable year (to which the information, records, authorization, or summons relates) began. Such amendments shall also apply in any case to which they would apply without regard to this section.
 
->     “(b) __Continuation of Old Failures.—__ 
+>     “(b)  __Continuation of Old Failures__  __.—__ 
 
 >     In the case of any failure with respect to a taxable year beginning on or before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
 

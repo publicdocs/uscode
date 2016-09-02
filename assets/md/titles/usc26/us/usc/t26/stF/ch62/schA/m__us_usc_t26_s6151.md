@@ -47,21 +47,21 @@
 
 [Pub. L. 94–452, § 3(e)][/us/pl/94/452/s3/e], Oct. 2, 1976, [90 Stat. 1514][/us/stat/90/1514], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 6158 of this title][/us/usc/t26/s6158] and amending this section and sections 6503 and 6601 of this title\] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by section 2(a) of this Act).
 
->     “(2) __Special rule for certifying sales which have already taken place.—__ 
+>     “(2)  __Special rule for certifying sales which have already taken place__  __.—__ 
 
 >     For purposes of section 6158(a) of the Internal Revenue Code of 1986 (as added by subsection (a) of this section) in the case of any sale which takes place on or before the 90th day after the date of the enactment of this Act \[Oct. 2, 1976\], a certification by the Federal Reserve Board described in section 6158(a) shall be treated as made before the sale if application for such certification is made before the close of the 90th day after the date of the enactment of this Act \[Oct. 2, 1976\].
 
 >     “(3) __Refund of tax.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If any tax attributable to a sale which occurred before October 1, 1977, is payable in annual installments by reason of an election under section 6158(a) of the Internal Revenue Code of 1986, any portion of such tax for which the due date of the installment does not occur before October 1, 1977, shall, on application of the taxpayer, be treated as an overpayment of tax.
 
->         “(B) __Interest on overpayments.—__ 
+>         “(B)  __Interest on overpayments__  __.—__ 
 
 >         For purposes of section 6611(b) in the case of any overpayment attributable to subparagraph (A), the date of the overpayment shall be the day which is 6 months after the latest of the following:
 
@@ -71,7 +71,7 @@
 
 >             “(iii) the date of the enactment of this Act \[Oct. 2, 1976\].
 
->         “(C) __Extension of period of limitations.—__ 
+>         “(C)  __Extension of period of limitations__  __.—__ 
 
 >         If any refund or credit of tax attributable to the application of subparagraph (A) is prevented at any time before October 1, 1978, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before October 1, 1978.”
 

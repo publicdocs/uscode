@@ -171,15 +171,15 @@
 
         (13) __Special rules for certain amounts received from controlled entities.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If an organization (in this paragraph referred to as the “controlling organization”) receives or accrues (directly or indirectly) a specified payment from another entity which it controls (in this paragraph referred to as the “controlled entity”), notwithstanding paragraphs (1), (2), and (3), the controlling organization shall include such payment as an item of gross income derived from an unrelated trade or business to the extent such payment reduces the net unrelated income of the controlled entity (or increases any net unrelated loss of the controlled entity). There shall be allowed all deductions of the controlling organization directly connected with amounts treated as derived from an unrelated trade or business under the preceding sentence.
 
-            (B) __Net unrelated income or loss.—__ 
+            (B)  __Net unrelated income or loss__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __Net unrelated income.—__ 
+                (i)  __Net unrelated income__  __.—__ 
 
                 The term “net unrelated income” means—
 
@@ -187,19 +187,19 @@
 
                     (II) in the case of a controlled entity which is exempt from tax under section 501(a), the amount of the unrelated business taxable income of the controlled entity.
 
-                (ii) __Net unrelated loss.—__ 
+                (ii)  __Net unrelated loss__  __.—__ 
 
                 The term “net unrelated loss” means the net operating loss adjusted under rules similar to the rules of clause (i).
 
-            (C) __Specified payment.—__ 
+            (C)  __Specified payment__  __.—__ 
 
             For purposes of this paragraph, the term “specified payment” means any interest, annuity, royalty, or rent.
 
-            (D) __Definition of control.—__ 
+            (D)  __Definition of control__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __Control.—__ 
+                (i)  __Control__  __.—__ 
 
                 The term “control” means—
 
@@ -209,17 +209,17 @@
 
                     (III) in any other case, ownership of more than 50 percent of the beneficial interests in the entity.
 
-                (ii) __Constructive ownership.—__ 
+                (ii)  __Constructive ownership__  __.—__ 
 
                 Section 318 (relating to constructive ownership of stock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
 
             (E) __Paragraph to apply only to certain excess payments.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued by the controlling organization that exceeds the amount which would have been paid or accrued if such payment met the requirements prescribed under section 482.
 
-                (ii) __Addition to tax for valuation misstatements.—__ 
+                (ii)  __Addition to tax for valuation misstatements__  __.—__ 
 
                 The tax imposed by this chapter on the controlling organization shall be increased by an amount equal to 20 percent of the larger of—
 
@@ -227,7 +227,7 @@
 
                     (II) such excess determined with regard to all such amendments and supplements.
 
-                (iii) __Qualifying specified payment.—__ 
+                (iii)  __Qualifying specified payment__  __.—__ 
 
                 The term “qualifying specified payment” means a specified payment which is made pursuant to—
 
@@ -235,11 +235,11 @@
 
                     (II) a contract which is a renewal, under substantially similar terms, of a contract described in subclause (I).
 
-                (iv) __Termination.—__ 
+                (iv)  __Termination__  __.—__ 
 
                 This subparagraph shall not apply to payments received or accrued after December 31, 2013.
 
-            (F) __Related persons.—__ 
+            (F)  __Related persons__  __.—__ 
 
             The Secretary shall prescribe such rules as may be necessary or appropriate to prevent avoidance of the purposes of this paragraph through the use of related persons.
 
@@ -295,13 +295,13 @@
 
         (17) __Treatment of certain amounts derived from foreign corporations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraph (1), any amount included in gross income under section 951(a)(1)(A) shall be included as an item of gross income derived from an unrelated trade or business to the extent the amount so included is attributable to insurance income (as defined in section 953) which, if derived directly by the organization, would be treated as gross income from an unrelated trade or business. There shall be allowed all deductions directly connected with amounts included in gross income under the preceding sentence.
 
             (B) __Exception.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subparagraph (A) shall not apply to income attributable to a policy of insurance or reinsurance with respect to which the person (directly or indirectly) insured is—
 
@@ -311,37 +311,37 @@
 
                     (III) a director or officer of, or an individual who (directly or indirectly) performs services for, such organization or affiliate but only if the insurance covers primarily risks associated with the performance of services in connection with such organization or affiliate.
 
-                (ii) __Affiliate.—__ 
+                (ii)  __Affiliate__  __.—__ 
 
                 For purposes of this subparagraph—
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The determination as to whether an entity is an affiliate of an organization shall be made under rules similar to the rules of section 168(h)(4)(B).
 
-                    (II) __Special rule.—__ 
+                    (II)  __Special rule__  __.—__ 
 
                     Two or more organizations (and any affiliates of such organizations) shall be treated as affiliates if such organizations are colleges or universities described in section 170(b)(1)(A)(ii) or organizations described in section 170(b)(1)(A)(iii) and participate in an insurance arrangement that provides for any profits from such arrangement to be returned to the policyholders in their capacity as such.
 
-            (C) __Regulations.—__ 
+            (C)  __Regulations__  __.—__ 
 
             The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations for the application of this paragraph in the case of income paid through 1 or more entities or between 2 or more chains of entities.
 
-        (18) __Treatment of mutual or cooperative electric companies.—__ 
+        (18)  __Treatment of mutual or cooperative electric companies__  __.—__ 
 
         In the case of a mutual or cooperative electric company described in section 501(c)(12), there shall be excluded income which is treated as member income under subparagraph (H) thereof.
 
         (19) __Treatment of gain or loss on sale or exchange of certain brownfield sites.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraph (5)(B), there shall be excluded any gain or loss from the qualified sale, exchange, or other disposition of any qualifying brownfield property by an eligible taxpayer.
 
-            (B) __Eligible taxpayer.—__ 
+            (B)  __Eligible taxpayer__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The term “eligible taxpayer” means, with respect to a property, any organization exempt from tax under section 501(a) which—
 
@@ -349,7 +349,7 @@
 
                     (II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at the time such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
 
-                (ii) __Exception.—__ 
+                (ii)  __Exception__  __.—__ 
 
                 Such term shall not include any organization which is—
 
@@ -359,23 +359,23 @@
 
                     (III) the result of a reorganization of a business entity which was so potentially liable.
 
-            (C) __Qualifying brownfield property.—__ 
+            (C)  __Qualifying brownfield property__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The term “qualifying brownfield property” means any real property which is certified, before the taxpayer incurs any eligible remediation expenditures (other than to obtain a Phase I environmental site assessment), by an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located as a brownfield site within the meaning of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
 
-                (ii) __Request for certification.—__ 
+                (ii)  __Request for certification__  __.—__ 
 
                 Any request by an eligible taxpayer for a certification described in clause (i) shall include a sworn statement by the eligible taxpayer and supporting documentation of the presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property given the property’s reasonably anticipated future land uses or capacity for uses of the property (including a Phase I environmental site assessment and, if applicable, evidence of the property’s presence on a local, State, or Federal list of brownfields or contaminated property) and other environmental assessments prepared or obtained by the taxpayer.
 
-            (D) __Qualified sale, exchange, or other disposition.—__ 
+            (D)  __Qualified sale, exchange, or other disposition__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A sale, exchange, or other disposition of property shall be considered as qualified if—
 
@@ -385,7 +385,7 @@
 
                  For purposes of subclause (II), before issuing such certification, the Environmental Protection Agency or appropriate State agency shall respond to comments received pursuant to clause (ii)(V) in the same form and manner as required under section 117(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
 
-                (ii) __Request for certification.—__ 
+                (ii)  __Request for certification__  __.—__ 
 
                 Any request by an eligible taxpayer for a certification described in clause (i) shall be made not later than the date of the transfer and shall include a sworn statement by the eligible taxpayer certifying the following:
 
@@ -399,19 +399,19 @@
 
                     (V) Public notice and the opportunity for comment on the request for certification was completed before the date of such request. Such notice and opportunity for comment shall be in the same form and manner as required for public participation required under section 117(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph). For purposes of this subclause, public notice shall include, at a minimum, publication in a major local newspaper of general circulation.
 
-                (iii) __Attachment to tax returns.—__ 
+                (iii)  __Attachment to tax returns__  __.—__ 
 
                 A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligible taxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
 
-                (iv) __Substantial completion.—__ 
+                (iv)  __Substantial completion__  __.—__ 
 
                 For purposes of this subparagraph, a remedial action is substantially complete when any necessary physical construction is complete, all immediate threats have been eliminated, and all long-term threats are under control.
 
-            (E) __Eligible remediation expenditures.—__ 
+            (E)  __Eligible remediation expenditures__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The term “eligible remediation expenditures” means, with respect to any qualifying brownfield property, any amount paid or incurred by the eligible taxpayer to an unrelated third person to obtain a Phase I environmental site assessment of the property, and any amount so paid or incurred after the date of the certification described in subparagraph (C)(i) for goods and services necessary to obtain a certification described in subparagraph (D)(i) with respect to such property, including expenditures—
 
@@ -423,7 +423,7 @@
 
                     (IV) regardless of whether it is necessary to obtain a certification described in subparagraph (D)(i)(II), to obtain remediation cost-cap or stop-loss coverage, re-opener or regulatory action coverage, or similar coverage under environmental insurance policies, or financial guarantees required to manage such remediation and monitoring.
 
-                (ii) __Exceptions.—__ 
+                (ii)  __Exceptions__  __.—__ 
 
                 Such term shall not include—
 
@@ -437,17 +437,17 @@
 
                  For purposes of subclause (III), the Secretary may issue guidance regarding the treatment of government-provided funds for purposes of determining eligible remediation expenditures.
 
-            (F) __Determination of gain or loss.—__ 
+            (F)  __Determination of gain or loss__  __.—__ 
 
             For purposes of this paragraph, the determination of gain or loss shall not include an amount treated as gain which is ordinary income with respect to section 1245 or section 1250 property, including amounts deducted as section 198 expenses which are subject to the recapture rules of section 198(e), if the taxpayer had deducted such amounts in the computation of its unrelated business taxable income.
 
             (G) __Special rules for partnerships.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In the case of an eligible taxpayer which is a partner of a qualifying partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property, this paragraph shall apply to the eligible taxpayer’s distributive share of the qualifying partnership’s gain or loss from the sale, exchange, or other disposition of such property.
 
-                (ii) __Qualifying partnership.—__ 
+                (ii)  __Qualifying partnership__  __.—__ 
 
                 The term “qualifying partnership” means a partnership which—
 
@@ -457,11 +457,11 @@
 
                     (III) is not an organization which would be prevented from constituting an eligible taxpayer by reason of subparagraph (B)(ii).
 
-                (iii) __Requirement that tax-exempt partner be a partner since first certification.—__ 
+                (iii)  __Requirement that tax-exempt partner be a partner since first certification__  __.—__ 
 
                 This paragraph shall apply with respect to any eligible taxpayer which is a partner of a partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property only if such eligible taxpayer was a partner of the qualifying partnership at all times beginning on the date of the first certification received by the partnership under subparagraph (C)(i) and ending on the date of the sale, exchange, or other disposition of the property by the partnership.
 
-                (iv) __Regulations.—__ 
+                (iv)  __Regulations__  __.—__ 
 
                 The Secretary shall prescribe such regulations as are necessary to prevent abuse of the requirements of this subparagraph, including abuse through—
 
@@ -471,11 +471,11 @@
 
             (H) __Special rules for multiple properties.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 An eligible taxpayer or a qualifying partnership of which the eligible taxpayer is a partner may make a 1-time election to apply this paragraph to more than 1 qualifying brownfield property by averaging the eligible remediation expenditures for all such properties acquired during the election period. If the eligible taxpayer or qualifying partnership makes such an election, the election shall apply to all qualified sales, exchanges, or other dispositions of qualifying brownfield properties the acquisition and transfer of which occur during the period for which the election remains in effect.
 
-                (ii) __Election.—__ 
+                (ii)  __Election__  __.—__ 
 
                 An election under clause (i) shall be made with the eligible taxpayer’s or qualifying partnership’s timely filed tax return (including extensions) for the first taxable year for which the taxpayer or qualifying partnership intends to have the election apply. An election under clause (i) is effective for the period—
 
@@ -483,15 +483,15 @@
 
                     (II) ending on the date which is the earliest of a date of revocation selected by the eligible taxpayer or qualifying partnership, the date which is 8 years after the date described in subclause (I), or, in the case of an election by a qualifying partnership of which the eligible taxpayer is a partner, the date of the termination of the qualifying partnership.
 
-                (iii) __Revocation.—__ 
+                (iii)  __Revocation__  __.—__ 
 
                 An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
-            (I) __Recapture.—__ 
+            (I)  __Recapture__  __.—__ 
 
             If an eligible taxpayer excludes gain or loss from a sale, exchange, or other disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
 
-            (J) __Related persons.—__ 
+            (J)  __Related persons__  __.—__ 
 
             For purposes of this paragraph, a person shall be treated as related to another person if—
 
@@ -499,7 +499,7 @@
 
                 (ii) in the case such other person is a nonprofit organization, if such person controls directly or indirectly more than 25 percent of the governing body of such organization.
 
-            (K) __Termination.—__ 
+            (K)  __Termination__  __.—__ 
 
             Except for purposes of determining the average eligible remediation expenditures for properties acquired during the election period under subparagraph (H), this paragraph shall not apply to any property acquired by the eligible taxpayer or qualifying partnership after December 31, 2009.
 
@@ -745,11 +745,11 @@
 
 [Pub. L. 105–34, title X, § 1041(b)][/us/pl/105/34/s1041/b], Aug. 5, 1997, [111 Stat. 939][/us/stat/111/939], as amended by [Pub. L. 105–206, title VI, § 6010(j)(3)][/us/pl/105/206/s6010/j/3], July 22, 1998, [112 Stat. 815][/us/stat/112/815], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply to any amount received or accrued during the first 2 taxable years beginning on or after the date of the enactment of this Act if such amount is received or accrued pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such amount is received or accrued. The preceding sentence shall not apply to any amount which would (but for the exercise of an option to accelerate payment of such amount) be received or accrued after such 2 taxable years.”
 
@@ -763,11 +763,11 @@
 
 [Pub. L. 104–188, title I, § 1115(b)][/us/pl/104/188/s1115/b], Aug. 20, 1996, [110 Stat. 1761][/us/stat/110/1761], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     If—
 
@@ -777,7 +777,7 @@
 
 >         then, for purposes of applying such part III to any such taxable year, in no event shall any portion of such dues be treated as derived in an unrelated trade or business.
 
->     “(3) __Reasonable basis.—__ 
+>     “(3)  __Reasonable basis__  __.—__ 
 
 >     For purposes of paragraph (2), an organization shall be treated as having a reasonable basis for not treating membership dues as income derived in an unrelated trade or business if the taxpayer’s treatment of such dues was in reasonable reliance on any of the following:
 

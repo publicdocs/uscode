@@ -81,11 +81,11 @@
 
 [Pub. L. 100–647, title VI, § 6076][/us/pl/100/647/s6076], Nov. 10, 1988, [102 Stat. 3706][/us/stat/102/3706], provided that:
 
->     “(a) __Treatment for Taxable Years Beginning Before 1987.—__ 
+>     “(a)  __Treatment for Taxable Years Beginning Before__  __1987.—__ 
 
 >     In the case of any taxable year beginning before January 1, 1987, a deficiency shall not be assessed against (and if assessed, shall not be collected from) any qualified group self-insurers’ fund to the extent such deficiency is attributable to the timing of policyholder dividend deductions.
 
->     “(b) __Qualified Group Self-Insurers’ Fund.—__ 
+>     “(b)  __Qualified Group Self-Insurers’ Fund__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified group self-insurers’ fund’ means any group of 2 or more employers which has been in existence for not less than 2 years, and who enter into agreements to pool their liabilities under the State workers’ disability compensation laws for the purpose of qualifying as a self-insurer under such laws, if—
 
@@ -107,11 +107,11 @@
 
 [Pub. L. 99–514, title X, § 1011(d)][/us/pl/99/514/s1011/d], Oct. 22, 1986, [100 Stat. 2390][/us/stat/100/2390], as amended by [Pub. L. 100–647, title I, § 1010(a)(2)][/us/pl/100/647/s1010/a/2], (3), Nov. 10, 1988, [102 Stat. 3450][/us/stat/102/3450], 3451, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding the amendments made by subtitle B of title III \[amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the Internal Revenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
 
->     “(2) __Qualified life insurance company.—__ 
+>     “(2)  __Qualified life insurance company__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘qualified life insurance company’ means any life insurance company subject to tax under part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986.”
 
@@ -131,7 +131,7 @@
 
 [Pub. L. 99–514, title XVIII, § 1879(q)][/us/pl/99/514/s1879/q], Oct. 22, 1986, [100 Stat. 2911][/us/stat/100/2911], provided that:
 
->     “(1) __Moratorium on collection activities.—__ 
+>     “(1)  __Moratorium on collection activities__  __.—__ 
 
 >     During the period beginning on the date of the enactment of this Act \[Oct. 22, 1986\] and ending on August 16, 1987, the Secretary of the Treasury or his delegate—
 
@@ -141,15 +141,15 @@
 
 >         “(C) shall take no steps to collect from such fund any underpayment, interest, or penalty involving such issue.
 
->     “(2) __Suspension of running of interest.—__ 
+>     “(2)  __Suspension of running of interest__  __.—__ 
 
 >     No interest shall be payable under chapter 67 of the Internal Revenue Code of 1986 on any underpayment by a self-insured workers’ compensation fund involving such issue for the period beginning on August 16, 1986, and ending on August 16, 1987.
 
->     “(3) __Additional time to file tax court proceeding.—__ 
+>     “(3)  __Additional time to file tax court proceeding__  __.—__ 
 
 >     If the period during which a petition involving such issue could have been filed with the Tax Court by any self-insured workers’ compensation fund had not expired before August 16, 1986, such period shall not expire before August 16, 1987.
 
->     “(4) __Self-insured workers’ compensation fund.—__ 
+>     “(4)  __Self-insured workers’ compensation fund__  __.—__ 
 
 >     For purposes of this subsection, the term ‘self-insured workers’ compensation fund’ means any self-insured workers’ compensation fund established pursuant to applicable State law regulating self-insured workers’ compensation funds.”
 
@@ -159,21 +159,21 @@
 
 >     “(a) __Recomputation of Reserves.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As of the beginning of the first taxable year beginning after December 31, 1983, for purposes of subchapter L of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (other than section 816 thereof), the reserve for any contract shall be recomputed as if the amendments made by this subtitle \[see Effective Date note above\] had applied to such contract when it was issued.
 
->         “(2) __Premiums earned.—__ 
+>         “(2)  __Premiums earned__  __.—__ 
 
 >         For the first taxable year beginning after December 31, 1983, in determining ‘premiums earned on insurance contracts during the taxable year’ as provided in section 832(b)(4) of the Internal Revenue Code of 1986, life insurance reserves which are included in unearned premiums on outstanding business at the end of the preceding taxable year shall be determined as provided in section 807 of the Internal Revenue Code of 1986, as amended by this subtitle, as though section 807 was applicable to such reserves in such preceding taxable year.
 
->         “(3) __Issuance date for group contracts.—__ 
+>         “(3)  __Issuance date for group contracts__  __.—__ 
 
 >         For purposes of this subsection, the issuance date of any group contract shall be determined under section 807(e)(2) of the Internal Revenue Code of 1986 (as added by this subtitle), except that if such issuance date cannot be determined, the issuance date shall be determined on the basis prescribed by the Secretary of the Treasury or his delegate for purposes of this subsection.
 
 >     “(b) __Fresh Start.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company’s first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting ‘1985’ for ‘1984’ in the case of an insurance company which is a member of a controlled group (as defined in section 806(d)(3)), the common parent of which is
 
@@ -183,13 +183,13 @@
 
 >         “(2) __Treatment of adjustments from years before 1984.—__ 
 
->             “(A) __Adjustments attributable to decreases in reserves.—__ 
+>             “(A)  __Adjustments attributable to decreases in reserves__  __.—__ 
 
 >             No adjustment under section 810(d) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) attributable to any decrease in reserves as a result of a change in a taxable year beginning before 1984 shall be taken into account in any taxable year beginning after 1983.
 
 >             “(B) __Adjustments attributable to increases in reserves.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Any adjustment under section 810(d) of the Internal Revenue Code of 1986 (as so in effect) attributable to an increase in reserves as a result of a change in a taxable year beginning before 1984 shall be taken into account in taxable years beginning after 1983 to the extent that—
 
@@ -197,7 +197,7 @@
 
 >                          “(II) the amount of any fresh start adjustment attributable to contracts for which there was such an increase in reserves as a result of such change.
 
->                 “(ii) __Fresh start adjustment.—__ 
+>                 “(ii)  __Fresh start adjustment__  __.—__ 
 
 >                 For purposes of clause (i), the fresh start adjustment with respect to any contract is the excess (if any) of—
 
@@ -205,13 +205,13 @@
 
 >                          “(II) the reserve for such contract as of the beginning of the taxpayer’s first taxable year beginning after 1983 as recomputed under subsection (a) of this section.
 
->             “(C) __Related income inclusions not taken into account to the extent deduction disallowed under subparagraph (b).—__ 
+>             “(C)  __Related income inclusions not taken into account to the extent deduction disallowed under subparagraph__  __(b).—__ 
 
 >             No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
 
 >         “(3) __Reinsurance transactions, and reserve strengthening, after__  __september 27, 1983__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Paragraph (1) shall not apply (and section 807(f) of the Internal Revenue Code of 1986 as amended by this subtitle shall apply)—
 
@@ -227,35 +227,35 @@
 
 >                   Clause (ii) shall not apply to the computation of reserves on any contract issued if such computation employs the reserve practice used for purposes of the most recent annual statement filed before September 27, 1983, for the type of contract with respect to which such reserves are set up. For purposes of this subparagraph, if the reinsurer’s taxable year is not a calendar year, the first day of the reinsurer’s first taxable year beginning after December 31, 1983, shall be substituted for ‘January 1, 1984’ each place it appears.
 
->             “(B) __Treatment of reserve attributable to section 818(c) election.—__ 
+>             “(B)  __Treatment of reserve attributable to section 818__  __(c)__  __election__  __.—__ 
 
 >             In the case of any reserve described in subparagraph (A), for purposes of section 807(f) of the Internal Revenue Code of 1986, any change in the treatment of any contract to which an election under section 818(c) of such Code (as in effect on the day before the date of the enactment of this Act) applied shall be treated as a change in the basis for determining the amount of any reserve.
 
->             “(C) __10-year spread inapplicable where no 10-year spread under prior law.—__ 
+>             “(C) __10-__  __year spread inapplicable where no 10-year spread under prior law__  __.—__ 
 
 >             In the case of any item to which section 807(f) of such Code applies by reason of subparagraph (A) or (B), such item shall be taken into account for the first taxable year beginning after December 31, 1983 (in lieu of over the 10-year period otherwise provided in such section) unless the item would have been required to be taken into account over a period of 10 taxable years under section 810(d) of such Code (as in effect on the day before the date of the enactment of this Act).
 
->             “(D) __Disallowance of special life insurance company deduction and small life insurance company deduction.—__ 
+>             “(D)  __Disallowance of special life insurance company deduction and small life insurance company deduction__  __.—__ 
 
 >             Any amount included in income under section 807(f) of such Code by reason of subparagraph (A) or (B) (and any income attributable to expenses transferred in connection with the transfer of reserves described in subparagraph (A)) shall not be taken into account for purposes of determining the amount of special life insurance company deduction and the small life insurance company deduction.
 
->             “(E) __Disallowance of deductions under \[former\] section 809(d).—__ 
+>             “(E)  __Disallowance of deductions under \[former\] section 809__  __(d).—__ 
 
 >             No deduction shall be allowed under paragraph (5) or (6) of \[former\] section 809(d) of such Code (as in effect before the amendments made by this subtitle) with respect to any amount described in either such paragraph which is transferred in connection with the transfer of reserves described in subparagraph (A).
 
->         “(4) __Elections under section 818(c) after__  __september 27, 1983__  __, not to take effect.—__ 
+>         “(4)  __Elections under section 818__  __(c) after__  __september 27, 1983__  __, not to take effect.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), any election after September 27, 1983, under section 818(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) shall not take effect.
 
->             “(B) __Exception for certain contracts issued under plan of insurance first filed after__  __march 1, 1982__  __, and before__  __september 28, 1983__  __.—__ 
+>             “(B)  __Exception for certain contracts issued under plan of insurance first filed after __  __march 1, 1982__  __, and before __  __september 28, 1983__  __.—__ 
 
 >             Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
 
->             “(C) __Section 818(c) elections made by certain acquired companies.—__ 
+>             “(C)  __Section 818(__  __c) elections made by certain acquired companies.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 If the case of any corporation—
 
@@ -265,15 +265,15 @@
 
 >                   the fact that such corporation is treated as a new corporation under section 338 of such Code shall not result in the election described in subclause (I) not applying to such new corporation.
 
->                 “(ii) __Time for making section 818(c) or 338 election.—__ 
+>                 “(ii)  __Time for making section 818(__  __c__  __) or 338 election__  __.—__ 
 
 >                 In the case of any corporation described in clause (i), the time for making an election under section 818(c) of such Code (with respect to the first taxable year of the corporation beginning in 1983 and ending after September 28, 1983), or making an election under section 338 of such Code with respect to the qualified stock purchase described in clause (i)(II), shall not expire before the close of the 60th day after the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\].
 
->                 “(iii) __Statute of limitations.—__ 
+>                 “(iii)  __Statute of limitations__  __.—__ 
 
 >                 In the case of any such election under section 818(c) or 338 of such Code which would not have been timely made but for clause (ii), the period for assessing any deficiency attributable to such election (or for filing claim for credit or refund of any overpayment attributable to such election) shall not expire before the date 2 years after the date of the enactment of this Act \[July 18, 1984\].
 
->         “(5) __Recapture of reinsurance after__  __december 31, 1983__  __.—__ 
+>         “(5)  __Recapture of reinsurance after __  __december 31, 1983__  __.—__ 
 
 >         If (A) insurance or annuity contracts in force on December 31, 1983, are subject to a conventional coinsurance agreement entered into after December 31, 1981, and before January 1, 1984, and (B) such contracts are recaptured by the reinsured in any taxable year beginning after December 31, 1983, then—
 
@@ -285,7 +285,7 @@
 
 >     “(c) __Election Not To Have Reserves Recomputed.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a qualified life insurance company makes an election under this paragraph—
 
@@ -295,7 +295,7 @@
 
 >         “(2) __Election with respect to contracts issued after 1983 and before 1989.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If—
 
@@ -305,7 +305,7 @@
 
 >                   such company may elect under this paragraph to have the reserve for any contract issued on or after the first day of such first taxable year and before January 1, 1989, be equal to the greater of the statutory reserve for such contract (adjusted as provided in subparagraph (B)) or the net surrender value of such contract (as defined in section 807(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).
 
->             “(B) __Adjustment to reserves.—__ 
+>             “(B)  __Adjustment to reserves__  __.—__ 
 
 >             If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section 805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
 
@@ -313,15 +313,15 @@
 
 >                 “(ii) the adjusted reserves rate.
 
->         “(3) __Qualified life insurance company.—__ 
+>         “(3)  __Qualified life insurance company__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified life insurance company’ means any life insurance company which, as of December 31, 1983, had assets of less than $100,000,000 (determined in the same manner as under section 806(b)(3) of such Code).
 
->         “(4) __Special rules for controlled groups.—__ 
+>         “(4)  __Special rules for controlled groups__  __.—__ 
 
 >         For purposes of applying the dollar limitations of paragraphs (2) and (3), rules similar to the rules of section 806(d) of such Code shall apply.
 
->         “(5) __Elections.—__ 
+>         “(5)  __Elections__  __.—__ 
 
 >         Any election under paragraph (1) or (2)—
 
@@ -345,7 +345,7 @@
 
 [Pub. L. 98–369, div. A, title II, § 231][/us/pl/98/369/s231], July 18, 1984, [98 Stat. 776][/us/stat/98/776], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Revenue Reports.—__ 
+>     “(a)  __Revenue Reports__  __.—__ 
 
 >     Not later than July 1, 1985, and July 1 of each calendar year thereafter, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
 
@@ -357,11 +357,11 @@
 
 >     “(b) __Report With Respect to Segment Balance, Etc.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury (in consultation with the Joint Committee on Taxation, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate) shall conduct a full and complete study of the operation of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 during 1984, 1985, and 1986. Such study shall also include an analysis of life insurance products and the taxation thereof. Such study shall also include an analysis of whether part I of such subchapter L operates as a disincentive to growing companies.
 
->         “(2) __Items to be included.—__ 
+>         “(2)  __Items to be included__  __.—__ 
 
 >         The study conducted under paragraph (1) shall include—
 
@@ -389,15 +389,15 @@
 
 >         “(3) __Reports.—__ 
 
->             “(A) __Interim reports.—__ 
+>             “(A)  __Interim reports__  __.—__ 
 
 >             The Secretary of the Treasury shall submit interim reports on the study conducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than January 1, 1989, the Secretary of the Treasury shall submit a final report on the study conducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
->     “(c) __Authority To Require Data.—__ 
+>     “(c)  __Authority To Require Data__  __.—__ 
 
 >     The Secretary of the Treasury shall have authority to require reporting of such data with respect to life insurance companies and their products as may be necessary to carry out the purposes of this section.”
 

@@ -115,11 +115,11 @@
 
 [Pub. L. 99–514, title VI, § 642(c)][/us/pl/99/514/s642/c], Oct. 22, 1986, [100 Stat. 2284][/us/stat/100/2284], as amended by [Pub. L. 100–647, title I, § 1006(i)(3)][/us/pl/100/647/s1006/i/3], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
 
->     “(2) __Transitional rule for binding contracts.—__ 
+>     “(2)  __Transitional rule for binding contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply to sales made after August 14, 1986, which are made pursuant to a binding contract in effect on August 14, 1986, and at all times thereafter.”
 

@@ -1499,7 +1499,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 104–188, title I, § 1116(a)(3)][/us/pl/104/188/s1116/a/3], Aug. 20, 1996, [110 Stat. 1762][/us/stat/110/1762], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section, [section 6050A of this title][/us/usc/t26/s6050A], and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare\] shall apply to remuneration paid—
 
@@ -1507,7 +1507,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(ii) after December 31, 1984, and before January 1, 1995, unless the payor treated such remuneration (when paid) as being subject to tax under chapter 21 of the Internal Revenue Code of 1986.
 
->     “(B) __Reporting requirement.—__ 
+>     “(B)  __Reporting requirement__  __.—__ 
 
 >     The amendment made by paragraph (1)(C) \[amending [section 6050A of this title][/us/usc/t26/s6050A]\] shall apply to remuneration paid after December 31, 1996.”
 
@@ -1739,7 +1739,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 96–499, title XI, § 1141(c)][/us/pl/96/499/s1141/c], Dec. 5, 1980, [94 Stat. 2694][/us/stat/94/2694], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section, [section 3306 of this title][/us/usc/t26/s3306], and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare\] shall apply with respect to remuneration paid after December 31, 1980.
 
@@ -2005,11 +2005,11 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 105–34, title IX, § 921][/us/pl/105/34/s921], Aug. 5, 1997, [111 Stat. 879][/us/stat/111/879], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In determining for purposes of the Internal Revenue Code of 1986 whether a registered representative of a securities broker-dealer is an employee (as defined in section 3121(d) of the Internal Revenue Code of 1986), no weight shall be given to instructions from the service recipient which are imposed only in compliance with investor protection standards imposed by the Federal Government, any State government, or a governing body pursuant to a delegation by a Federal or State agency.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to services performed after December 31, 1997.”
 
@@ -2017,7 +2017,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 104–188, title I, § 1802][/us/pl/104/188/s1802], Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of subsection (s) of section 3121 of the Internal Revenue Code of 1986 (relating to concurrent employment by 2 or more employers)—
 
@@ -2039,7 +2039,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(2) remuneration which is disbursed by such agency account to any such faculty member of the medical school described in paragraph (1)(A) shall be deemed to have been actually disbursed by the State, or such State university, as the case may be, as a common paymaster and not to have been actually disbursed by such agency account.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of subsection (a) shall apply to remuneration paid after December 31, 1996.”
 
@@ -2055,7 +2055,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 100–647, title VI, § 6305][/us/pl/100/647/s6305], Nov. 10, 1988, [102 Stat. 3756][/us/stat/102/3756], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     A State may treat a person who renders dependent care or similar services as other than an employee \[for\] employment tax purposes for the applicable period if all of the following conditions are satisfied with respect to such person for such applicable period:
 
@@ -2069,19 +2069,19 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(v) No more than ten percent of the State’s employees are provided with insurance under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] pursuant to voluntary agreements with the Secretary of Health and Human Services under section 218 of such title \[[42 U.S.C. 418][/us/usc/t42/s418]\].
 
->     “(b) __State.—__ 
+>     “(b)  __State__  __.—__ 
 
 >     For purposes of this section, the term ‘State’ shall mean the government of the United States, District of Columbia, any State or political subdivision thereof, and any agency or instrumentality of any of the foregoing.
 
->     “(c) __Employment Tax.—__ 
+>     “(c)  __Employment Tax__  __.—__ 
 
 >     For purposes of this section, the term ‘employment tax’ means any tax imposed by subtitle C of the Internal Revenue Code of 1986.
 
->     “(d) __Applicable Period.—__ 
+>     “(d)  __Applicable Period__  __.—__ 
 
 >     For purposes of this section, the term ‘applicable period’ means the period beginning on January 1, 1984 and ending on December 31, 1990.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     The Secretary of the Treasury shall report to the Senate Committee on Finance and the House Committee on Ways and Means on the text \[tax\] status of day care providers compensated pursuant to the program described in the section no later than December 31, 1989.”
 
@@ -2129,7 +2129,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 [Pub. L. 98–21, title I, § 125][/us/pl/98/21/s125], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of subsection (s) of section 3121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to concurrent employment by 2 or more employers)—
 
@@ -2149,7 +2149,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(2) remuneration which is disbursed by such faculty practice plan to a health professional employed by both such entities shall be deemed to have been actually disbursed by such university as a common paymaster and not to have been actually disbursed by such faculty practice plan.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of subsection (a) shall apply to remuneration paid after December 31, 1983.”
 
@@ -2171,7 +2171,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >     “(a) __Waiver Certificate.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, any waiver certificate filed by a qualified corporation (hereinafter in this section referred to as the ‘corporation’) under section 3121(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to waiver of exemption from social security taxes by certain organizations) shall be deemed not to be effective, for purposes of the taxes imposed by section 3101 of such Code, with respect to any wages—
 
@@ -2181,15 +2181,15 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(2) __Application of paragraph (1).—__ 
 
->             “(A) __Evidence to be submitted to secretary.—__ 
+>             “(A)  __Evidence to be submitted to secretary__  __.—__ 
 
 >             The provisions of paragraph (1) shall not apply to wages described in subparagraph (A) or (B) of such paragraph unless, prior to the close of the one-year period which begins on the date of the enactment of this Act \[Dec. 28, 1980\], the Corporation furnishes to the Secretary of the Treasury or his delegate the evidence referred to in either such subparagraph.
 
->             “(B) __Tax not imposed.—__ 
+>             “(B)  __Tax not imposed__  __.—__ 
 
 >             If the provisions of paragraph (1) apply with respect to any wages paid by the Corporation to an employee thereof, no taxes imposed on such wages by section 3101 of the Internal Revenue Code of 1986 shall be payable, and no interest or penalty with respect to the imposition of taxes by such section on such wages (or with respect to the imposition of taxes by such section or section 3111 of such Code on any wages paid by the Corporation prior to January 1, 1978) shall be imposed or collected.
 
->             “(C) __Credit against tax.—__ 
+>             “(C)  __Credit against tax__  __.—__ 
 
 >             Under regulations prescribed by the Secretary, there shall be allowed as a one-time credit against the tax imposed on the Corporation under section 3101 or 3111 of the Internal Revenue Code of 1986 (and any interest or penalties imposed thereon) an amount equal to the sum of—
 
@@ -2197,7 +2197,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >                 “(ii) all amounts paid by such Corporation as a penalty or as interest with respect to the tax imposed by section 3101 or 3111 of such Code on such wages.
 
->     “(b) __Treatment for Purposes of Social Security Act.—__ 
+>     “(b)  __Treatment for Purposes of Social Security Act__  __.—__ 
 
 >     In the administration of titles II and XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq. and 1395 et seq.\], any wages paid to any individual to which the provisions of subsection (a) apply shall be treated as wages (within the meaning of section 209 of such Act) \[[42 U.S.C. 409][/us/usc/t42/s409]\] for purposes of determining—
 
@@ -2205,7 +2205,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(2) entitlement of such individual to benefits under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] or entitlement of any other person to such benefits on the basis of the wages and self-employment income of such individual.
 
->     “(c) __Qualified Corporation Defined.—__ 
+>     “(c)  __Qualified Corporation Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified corporation’ means any corporation which—
 
@@ -2217,7 +2217,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >         “(4) was notified during 1977 by the Internal Revenue Service that the certificate had been filed during 1968.
 
->     “(d) __Liability for Taxes.—__ 
+>     “(d)  __Liability for Taxes__  __.—__ 
 
 >     Except as provided in subsection (a)(2)(C)(ii), nothing in this section shall be construed to relieve the Corporation of any liability for the payment of the taxes imposed by section 3111 of the Internal Revenue Code of 1986 with respect to any wages paid by it to any individual for any period.”
 

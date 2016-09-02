@@ -473,7 +473,9 @@
 
     Amendment by [section 1101(b)(1) of Pub. L. 112–95][/us/pl/112/95/s1101/b/1] effective Feb. 18, 2012, see [section 1101(c) of Pub. L. 112–95][/us/pl/112/95/s1101/c], set out as an Effective and Termination Dates of 2012 Amendment note under [section 4081 of this title][/us/usc/t26/s4081].
 
-[Pub. L. 112–95, title XI, § 1103(d)(3)][/us/pl/112/95/s1103/d/3], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: The amendments made by subsection (c) \[amending this section\] shall apply to taxable transportation provided after March 31, 2012.”
+[Pub. L. 112–95, title XI, § 1103(d)(3)][/us/pl/112/95/s1103/d/3], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: 
+
+> “The amendments made by subsection (c) \[amending this section\] shall apply to taxable transportation provided after March 31, 2012.”
 
     Amendment by [Pub. L. 112–91][/us/pl/112/91] effective Feb. 1, 2012, see [section 2(c) of Pub. L. 112–91][/us/pl/112/91/s2/c], set out as an Effective and Termination Dates of 2012 Amendment note under [section 4081 of this title][/us/usc/t26/s4081].
 
@@ -545,11 +547,11 @@
 
 [Pub. L. 105–34, title X, § 1031(e)(2)][/us/pl/105/34/s1031/e/2], Aug. 5, 1997, [111 Stat. 932][/us/stat/111/932], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by subsections (b) and (c) \[amending this section and sections 4263 and 4271 of this title\] shall apply to transportation beginning on or after October 1, 1997.
 
->     “(B) __Treatment of amounts paid for tickets purchased before__  __October 1, 1997__  __.—__ 
+>     “(B)  __Treatment of amounts paid for tickets purchased before October__  __1, 1997.—__ 
 
 >     The amendments made by subsection (c) \[amending this section and [section 4263 of this title][/us/usc/t26/s4263]\] shall not apply to amounts paid before October 1, 1997; except that—
 
@@ -559,11 +561,11 @@
 
 >     “(C) __Amounts paid for right to award mileage awards.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         Paragraph (3) of section 4261(e) of the Internal Revenue Code of 1986 (as added by the amendment made by subsection (c)) shall apply to amounts paid (and other benefits provided) after September 30, 1997.
 
->         “(ii) __Payments within controlled group.—__ 
+>         “(ii)  __Payments within controlled group__  __.—__ 
 
 >         For purposes of clause (i), any amount paid after June 11, 1997, and before October 1, 1997, by 1 member of a controlled group for a right which is described in such section 4261(e)(3) and is furnished by another member of such group after September 30, 1997, shall be treated as paid after September 30, 1997. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of such Code shall be treated as members of a controlled group.”
 
@@ -575,15 +577,15 @@
 
 [Pub. L. 105–2, § 2(e)(2)][/us/pl/105/2/s2/e/2], Feb. 28, 1997, [111 Stat. 7][/us/stat/111/7], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and [section 4271 of this title][/us/usc/t26/s4271]\] shall apply to transportation beginning on or after such 7th day \[means the 7th day after Feb. 28, 1997\].
 
->     “(B) __Exception for certain payments.—__ 
+>     “(B)  __Exception for certain payments__  __.—__ 
 
 >     Except as provided in subparagraph (C), the amendments made by subsection (b) shall not apply to any amount paid before such 7th day.
 
->     “(C) __Payments of property transportation tax within controlled group.—__ 
+>     “(C)  __Payments of property transportation tax within controlled group__  __.—__ 
 
 >     In the case of the tax imposed by section 4271 of the Internal Revenue Code of 1986, subparagraph (B) shall not apply to any amount paid by 1 member of a controlled group for transportation furnished by another member of such group. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as members of a controlled group.”
 

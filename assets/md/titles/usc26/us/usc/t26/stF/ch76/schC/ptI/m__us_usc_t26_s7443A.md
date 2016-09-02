@@ -97,15 +97,15 @@
 
 [Pub. L. 99–514, title XV, § 1556(c)][/us/pl/99/514/s1556/c], Oct. 22, 1986, [100 Stat. 2755][/us/stat/100/2755], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 7456 and 7471 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
 
->     “(2) __Salary.—__ 
+>     “(2)  __Salary__  __.—__ 
 
 >     Subsection (d) of section 7443A of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall take effect on the 1st day of the 1st month beginning after the date of the enactment of this Act \[Oct. 22, 1986\].
 
->     “(3) __New appointments not required.—__ 
+>     “(3)  __New appointments not required__  __.—__ 
 
 >     Nothing in the amendments made by this section shall be construed to require the reappointment of any individual serving as a special trial judge of the Tax Court on the day before the date of the enactment of this Act \[Oct. 22, 1986\].”
 

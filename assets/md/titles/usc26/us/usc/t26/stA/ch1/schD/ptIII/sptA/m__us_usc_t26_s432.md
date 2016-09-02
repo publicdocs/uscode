@@ -735,7 +735,7 @@
 
 [Pub. L. 110–458, title II, § 204][/us/pl/110/458/s204], Dec. 23, 2008, [122 Stat. 5118][/us/stat/122/5118], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding the actuarial certification under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1085(b)(3)][/us/usc/t29/s1085/b/3]\] and section 432(b)(3) of the Internal Revenue Code of 1986, if a plan sponsor of a multiemployer plan elects the application of this section, then, for purposes of section 305 of such Act and section 432 of such Code—
 
@@ -745,7 +745,7 @@
 
 >         If section 305 of the Employee Retirement Income Security Act of 1974 and section 432 of the Internal Revenue Code of 1986 did not apply to the preceding plan year described in paragraph (1), the plan actuary shall make a certification of the status of the plan under section 305(b)(3) of such Act and section 432(b)(3) of such Code for the preceding plan year in the same manner as if such sections had applied to such preceding plan year.
 
->     “(b) __Exception for Plans Becoming Critical During Election.—__ 
+>     “(b)  __Exception for Plans Becoming Critical During Election__  __.—__ 
 
 >     If—
 
@@ -757,7 +757,7 @@
 
 >     “(c) __Election and Notice.—__ 
 
->         “(1) __Election.—__ 
+>         “(1)  __Election__  __.—__ 
 
 >         An election under subsection (a) shall—
 
@@ -773,7 +773,7 @@
 
 >         “(2) __Notice to participants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding section 305(b)(3)(D) of such Act and section 431(b)(3)(D) of such Code, if the plan is neither in endangered nor critical status by reason of an election made under subsection (a)—
 
@@ -787,7 +787,7 @@
 
 >                          “(II) if the election is made after such date, not later than 30 days after the date of the election.
 
->             “(B) __Notice of endangered status.—__ 
+>             “(B)  __Notice of endangered status__  __.—__ 
 
 >             Notwithstanding section 305(b)(3)(D) of such Act and section 431(b)(3)(D) of such Code, if the plan is certified to be in critical status for any plan year but is in endangered status by reason of an election made under subsection (a), the notice provided under such sections shall be the notice which would have been provided if the plan had been certified to be in endangered status.”
 
@@ -795,7 +795,7 @@
 
 [Pub. L. 110–458, title II, § 205][/us/pl/110/458/s205], Dec. 23, 2008, [122 Stat. 5120][/us/stat/122/5120], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If the plan sponsor of a multiemployer plan which is in endangered or critical status for a plan year beginning in 2008 or 2009 (determined after application of section 204 \[of [Pub. L. 110–458][/us/pl/110/458], set out above\]) elects the application of this section, then, for purposes of section 305 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1085][/us/usc/t29/s1085]\] and section 432 of the Internal Revenue Code of 1986—
 
@@ -803,19 +803,19 @@
 
 >         “(2) in the case of a plan in seriously endangered status, the plan’s funding improvement period shall be 18 years rather than 15 years.
 
->     “(b) __Definitions and Special Rules.—__ 
+>     “(b)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Election.—__ 
+>         “(1)  __Election__  __.—__ 
 
 >         An election under this section shall be made at such time, and in such manner and form, as (in consultation with the Secretary of Labor) the Secretary of the Treasury or the Secretary’s delegate may prescribe.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         Any term which is used in this section which is also used in section 305 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1085][/us/usc/t29/s1085]\] and section 432 of the Internal Revenue Code of 1986 shall have the same meaning as when used in such sections.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to plan years beginning after December 31, 2007.”
 

@@ -179,7 +179,7 @@
 
 [Pub. L. 94–455, title XXI, § 2211][/us/pl/94/455/s2211], Oct. 4, 1976, [90 Stat. 1905][/us/stat/90/1905], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Suspension of Rulings.—__ 
+>     “(a)  __Suspension of Rulings__  __.—__ 
 
 >     Until January 1, 1979, the law with respect to the duty of an employer under section 6041(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to report charge account tips of employees to the Internal Revenue Service (other than charge account tips included in statements furnished to the employer under section 6053(a) of such Code) shall be administered—
 
@@ -187,7 +187,7 @@
 
 >         “(2) in accordance with the manner in which such law was administered before the issuance of such rulings.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on January 1, 1976.”
 

@@ -859,11 +859,11 @@
 
 [Pub. L. 98–369, div. A, title IV, § 414(a)][/us/pl/98/369/s414/a], July 18, 1984, [98 Stat. 793][/us/stat/98/793], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by sections 411 and 412 \[amending this section and sections 871, 1403, 6012, 6020, 6201, 6362, 6601, 6651, 7203, 7216, and 7701 of this title and repealing sections 6015, 6073, and 6153 of this title\] shall apply with respect to taxable years beginning after December 31, 1984.
 
->     “(2) __Waiver authority.—__ 
+>     “(2)  __Waiver authority__  __.—__ 
 
 >     The provisions of paragraph (3) of section 6654(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 411) shall also apply with respect to underpayments for taxable years beginning in 1984.”
 

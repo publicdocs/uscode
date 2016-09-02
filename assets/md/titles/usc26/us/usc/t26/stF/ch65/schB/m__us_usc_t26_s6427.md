@@ -1033,11 +1033,11 @@
 
 [Pub. L. 109–432, div. A, title IV, § 420(c)][/us/pl/109/432/s420/c], Dec. 20, 2006, [120 Stat. 2970][/us/stat/120/2970], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 4082, 9502, and 9503 of this title\] shall apply to kerosene sold after September 30, 2005.
 
->     “(2) __Special rule for pending claims.—__ 
+>     “(2)  __Special rule for pending claims__  __.—__ 
 
 >     In the case of kerosene sold for use in aviation (other than kerosene to which section 6427(l)(4)(C)(ii) of the Internal Revenue Code of 1986 (as added by subsection (a)) applies or kerosene to which section 6427(l)(5) of such Code (as redesignated by subsection (b)) applies) after September 30, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], the ultimate purchaser shall be treated as having waived the right to payment under section 6427(l)(1) of such Code and as having assigned such right to the ultimate vendor if such ultimate vendor has met the requirements of subparagraph (A), (B), or (D) of section 6416(a)(1) of such Code.”
 
@@ -1171,11 +1171,11 @@
 
 [Pub. L. 96–223, title II, § 232(h)(2)][/us/pl/96/223/s232/h/2], Apr. 2, 1980, [94 Stat. 281][/us/stat/94/281], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section and sections 39 \[now 34\], 4081, 7210, 7603, 7604, 7605, 7609, and 7610 of this title\] shall take effect on January 1, 1979.
 
->     “(B) __Transitional rule.—__ 
+>     “(B)  __Transitional rule__  __.—__ 
 
 >     Any mixture sold or used on or after January 1, 1979, and before the date of the enactment of this Act \[Apr. 2, 1980\] which is described in section 6427(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (d)) shall, for purposes of section 6427 of such Code, be treated as sold or used on the date of the enactment of this Act.”
 
@@ -1217,23 +1217,23 @@
 
 [Pub. L. 109–432, div. A, title IV, § 420(d)][/us/pl/109/432/s420/d], Dec. 20, 2006, [120 Stat. 2970][/us/stat/120/2970], provided that:
 
->     “(1) __Refunds for purchases after__  __december 31, 2004__  __, and before__  __october 1, 2005__  __.—__ 
+>     “(1)  __Refunds for purchases after december__  __31, 2004,__  __and before october__  __1, 2005.—__ 
 
 >     The Secretary of the Treasury shall pay to the ultimate purchaser of any kerosene which is used in aviation on a farm for farming purposes and which was purchased after December 31, 2004, and before October 1, 2005, an amount equal to the aggregate amount of tax imposed on such fuel under section 4041 or 4081 of the Internal Revenue Code of 1986, as the case may be, reduced by any payment to the ultimate vendor under section 6427(l)(5)(C) of such Code (as in effect on the day before the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: a Legacy for Users \[Aug. 10, 2005\]).
 
->     “(2) __Use on a farm for farming purposes.—__ 
+>     “(2)  __Use on a farm for farming purposes__  __.—__ 
 
 >     For purposes of paragraph (1), kerosene shall be treated as used on a farm for farming purposes if such kerosene is used for farming purposes (within the meaning of section 6420(c)(3) of the Internal Revenue Code of 1986) in carrying on a trade or business on a farm situated in the United States. For purposes of the preceding sentence, rules similar to the rules of section 6420(c)(4) of such Code shall apply.
 
->     “(3) __Time for filing claims.—__ 
+>     “(3)  __Time for filing claims__  __.—__ 
 
 >     No claim shall be allowed under paragraph (1) unless the ultimate purchaser files such claim before the date that is 3 months after the date of the enactment of this Act \[Dec. 20, 2006\].
 
->     “(4) __No double benefit.—__ 
+>     “(4)  __No double benefit__  __.—__ 
 
 >     No amount shall be paid under paragraph (1) or section 6427(l) of the Internal Revenue Code of 1986 with respect to any kerosene described in paragraph (1) to the extent that such amount is in excess of the tax imposed on such kerosene under section 4041 or 4081 of such Code, as the case may be.
 
->     “(5) __Applicable laws.—__ 
+>     “(5)  __Applicable laws__  __.—__ 
 
 >     For purposes of this subsection, rules similar to the rules of section 6427(j) of the Internal Revenue Code of 1986 shall apply.”
 

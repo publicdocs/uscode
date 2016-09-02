@@ -317,11 +317,11 @@
 
 [Pub. L. 97–248, title II, § 211(e)][/us/pl/97/248/s211/e], Sept. 3, 1982, [96 Stat. 450][/us/stat/96/450], as amended by [Pub. L. 97–448, title III, § 306(a)(5)][/us/pl/97/448/s306/a/5], [96 Stat. 2401][/us/stat/96/2401]; [Pub. L. 98–369, div. A, title VII, § 712(e)][/us/pl/98/369/s712/e], July 18, 1984, [98 Stat. 947][/us/stat/98/947], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 904 of this title][/us/usc/t26/s904]\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Retention of old sections 907(b) and 904(f)(4) where taxpayer had separate basket foreign loss.—__ 
+>     “(2)  __Retention of old sections 907__  __(b)__  __ and 904__  __(f)(4) where taxpayer had separate basket foreign loss.—__ 
 
 >         “(A) __In general.—__ 
 

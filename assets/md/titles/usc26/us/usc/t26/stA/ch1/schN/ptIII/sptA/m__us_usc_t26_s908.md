@@ -33,11 +33,11 @@
 
 [Pub. L. 94–455, title X, § 1066(a)][/us/pl/94/455/s1066/a], Oct. 4, 1976, [90 Stat. 1654][/us/stat/90/1654], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     The amendments made by this part (other than by section 1065) \[enacting this section and [section 999 of this title][/us/usc/t26/s999] and amending sections 952 and 995 of this title\] apply to participation in or cooperation with an international boycott more than 30 days after the date of enactment of this Act \[Oct. 4, 1976\].
 
->     “(2) __Existing contracts.—__ 
+>     “(2)  __Existing contracts__  __.—__ 
 
 >     In the case of operations which constitute participation in or cooperation with an international boycott and which are carried out in accordance with the terms of a binding contract entered into before September 2, 1976, the amendments made by this part (other than by section 1065) apply to such participation or cooperation after December 31, 1977.”
 

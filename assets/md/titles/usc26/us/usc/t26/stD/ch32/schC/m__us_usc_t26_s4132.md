@@ -155,7 +155,7 @@
 
 [Pub. L. 113–15, § 1(b)][/us/pl/113/15/s1/b], June 25, 2013, [127 Stat. 476][/us/stat/127/476], provided that:
 
->     “(1) __Sales, etc.—__ 
+>     “(1)  __Sales, etc__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to sales and uses on or after the later of—
 
@@ -163,7 +163,7 @@
 
 >         “(B) the date on which the Secretary of Health and Human Services lists any vaccine against seasonal influenza (other than any vaccine against seasonal influenza listed by the Secretary prior to the date of the enactment of this Act) for purposes of compensation for any vaccine-related injury or death through the Vaccine Injury Compensation Trust Fund.
 
->     “(2) __Deliveries.—__ 
+>     “(2)  __Deliveries__  __.—__ 
 
 >     For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
@@ -171,11 +171,11 @@
 
 [Pub. L. 109–432, div. A, title IV, § 408(c)][/us/pl/109/432/s408/c], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962], provided that:
 
->     “(1) __Sales, etc.—__ 
+>     “(1)  __Sales, etc__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Dec. 20, 2006\].
 
->     “(2) __Deliveries.—__ 
+>     “(2)  __Deliveries__  __.—__ 
 
 >     For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
@@ -183,17 +183,17 @@
 
 [Pub. L. 108–357, title VIII, § 889(b)][/us/pl/108/357/s889/b], Oct. 22, 2004, [118 Stat. 1643][/us/stat/118/1643], provided that:
 
->     “(1) __Sales, etc.—__ 
+>     “(1)  __Sales, etc__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Deliveries.—__ 
+>     “(2)  __Deliveries__  __.—__ 
 
 >     For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
 [Pub. L. 108–357, title VIII, § 890(b)][/us/pl/108/357/s890/b], Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644], provided that:
 
->     “(1) __Sales, etc.—__ 
+>     “(1)  __Sales, etc__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to sales and uses on or after the later of—
 
@@ -201,7 +201,7 @@
 
 >         “(B) the date on which the Secretary of Health and Human Services lists any vaccine against influenza for purposes of compensation for any vaccine-related injury or death through the Vaccine Injury Compensation Trust Fund.
 
->     “(2) __Deliveries.—__ 
+>     “(2)  __Deliveries__  __.—__ 
 
 >     For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 
@@ -209,11 +209,11 @@
 
 [Pub. L. 106–170, title V, § 523(a)(2)][/us/pl/106/170/s523/a/2], Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927], provided that:
 
->     “(A) __Sales.—__ 
+>     “(A)  __Sales__  __.—__ 
 
 >     The amendment made by this subsection \[amending this section\] shall apply to vaccine sales after the date of the enactment of this Act \[Dec. 17, 1999\], but shall not take effect if subsection (b) \[see note below\] does not take effect.
 
->     “(B) __Deliveries.—__ 
+>     “(B)  __Deliveries__  __.—__ 
 
 >     For purposes of subparagraph (A), in the case of sales on or before the date described in such subparagraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
 

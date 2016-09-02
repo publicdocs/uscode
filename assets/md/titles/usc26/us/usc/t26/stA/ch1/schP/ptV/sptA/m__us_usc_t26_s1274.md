@@ -311,11 +311,11 @@
 
 [Pub. L. 99–121, title I, § 105(a)][/us/pl/99/121/s105/a], Oct. 11, 1985, [99 Stat. 510][/us/stat/99/510], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by sections 101 and 102 \[enacting section 1274A and amending this section and sections 280G and 483 of this title\] shall apply to sales and exchanges after June 30, 1985, in taxable years ending after such date. The amendment made by [section 2 of Public Law 98–612][/us/pl/98/612/s2] \[amending [section 44(b) of Pub. L. 98–369][/us/pl/98/369/s44/b], set out as a note under [section 1271 of this title][/us/usc/t26/s1271]\] shall not apply to sales and exchanges after June 30, 1985, in taxable years ending after such date.
 
->     “(2) __Regulatory authority to establish lower rate.—__ 
+>     “(2)  __Regulatory authority to establish lower rate__  __.—__ 
 
 >     Section 1274(d)(1)(D) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by section 101(b), shall apply as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], see Effective Date note set out under [section 1271 of this title][/us/usc/t26/s1271]\].”
 

@@ -201,15 +201,15 @@
 
 [Pub. L. 99–509, title VIII, § 8011(c)][/us/pl/99/509/s8011/c], Oct. 21, 1986, [100 Stat. 1953][/us/stat/100/1953], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 5054, 5703, and 5704 of this title\] shall apply to removals during semimonthly periods ending on or after December 31, 1986.
 
->     “(2) __Imported articles, etc.—__ 
+>     “(2)  __Imported articles, etc__  __.—__ 
 
 >     Subparagraphs (B) and (C) of section 5703(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section), paragraphs (2) and (3) of section 5061(d) of such Code (as amended by this section), and the amendments made by subsections (a)(2) and (b)(2) \[amending sections 5054 and 5704 of this title\] shall apply to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after December 15, 1986.
 
->     “(3) __Special rule for distilled spirits and tobacco for semimonthly period ending__  __december 15, 1986__  __.—__ 
+>     “(3)  __Special rule for distilled spirits and tobacco for semimonthly period ending __  __december 15, 1986__  __.—__ 
 
 >     With respect to remittances of—
 
@@ -219,7 +219,7 @@
 
 >         for the semimonthly period ending December 15, 1986, the last day for payment of such remittances shall be January 14, 1987.
 
->     “(4) __Treatment of smokeless tobacco in inventory on__  __June 30, 1986__  __.—__ 
+>     “(4)  __Treatment of smokeless tobacco in inventory on __  __June 30, 1986__  __.—__ 
 
 >     The tax imposed by section 5701(e) of the Internal Revenue Code of 1986 shall not apply to any smokeless tobacco which—
 
@@ -251,21 +251,21 @@
 
 [Pub. L. 96–39, title VIII, § 808][/us/pl/96/39/s808], July 26, 1979, [93 Stat. 291][/us/stat/93/291], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Liability for Payment of Tax.—__ 
+>     “(a)  __Liability for Payment of Tax__  __.—__ 
 
 >     Except as otherwise provided in this section, the tax on all distilled spirits which have been withdrawn from bond on determination of tax and on which tax has not been paid by the close of December 31, 1979, shall become due on January 1, 1980, and shall be payable in accordance with section 5061 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 >     “(b) __Treatment of Controlled Stock and Bulk Wine.—__ 
 
->         “(1) __Election with respect to controlled stock.—__ 
+>         “(1)  __Election with respect to controlled stock__  __.—__ 
 
 >         The proprietor of a distilled spirits plant may elect to convert any distilled spirits or wine which on January 1, 1980, is controlled stock.
 
->         “(2) __Election with respect to wine.—__ 
+>         “(2)  __Election with respect to wine__  __.—__ 
 
 >         The proprietor of a distilled spirits plant may elect to convert any bulk wine which on January 1, 1980, is on the premises of a distilled spirits plant.
 
->         “(3) __Effect of election.—__ 
+>         “(3)  __Effect of election__  __.—__ 
 
 >         If an election under paragraph (1) or (2) is in effect with respect to any controlled stock or wine—
 
@@ -273,29 +273,29 @@
 
 >             “(B) such controlled stock or wine shall be treated as distilled spirits or wine on which tax has not been paid or determined.
 
->         “(4) __Making of elections.—__ 
+>         “(4)  __Making of elections__  __.—__ 
 
 >         The elections under this subsection shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
 >     “(c) __Taxpaid Stock.—__ 
 
->         “(1) __Taxpaid stock may remain on bonded premises during 1980.—__ 
+>         “(1)  __Taxpaid stock may remain on bonded premises during 1980__  __.—__ 
 
 >         Section 5612(a) of the Internal Revenue Code of 1986 (relating to forfeiture of taxpaid distilled spirits remaining on bonded premises) shall not apply during 1980.
 
->         “(2) __Separation of taxpaid stock.—__ 
+>         “(2)  __Separation of taxpaid stock__  __.—__ 
 
 >         All distilled spirits and wine on which tax has been paid and which are on the bonded premises of a distilled spirits plant shall be physically separated from other distilled spirits and wine. Such separation shall be by the use of separate tanks, rooms, or buildings, or by partitioning, or by such other methods as the Secretary finds will distinguish such distilled spirits and wine from other distilled spirits and wine on the bonded premises of the distilled spirits plant.
 
->     “(d) __Return of Distilled Spirits Products Containing Taxpaid Wine.—__ 
+>     “(d)  __Return of Distilled Spirits Products Containing Taxpaid Wine__  __.—__ 
 
 >     With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilled spirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
 
->     “(e) __Return of Distilled Spirits Products Containing Other Alcoholic Ingredients.—__ 
+>     “(e)  __Return of Distilled Spirits Products Containing Other Alcoholic Ingredients__  __.—__ 
 
 >     With respect to distilled spirits to which alcoholic ingredients other than distilled spirits have been added and which have been withdrawn from a distilled spirits plant before January 1, 1980, section 5215(a) of the Internal Revenue Code of 1986 shall apply only if such spirits are returned to the distilled spirits plant from which withdrawn.
 
->     “(f) __Secretary Defined.—__ 
+>     “(f)  __Secretary Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 

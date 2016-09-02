@@ -193,11 +193,11 @@
 
 [Pub. L. 100–647, title V, § 5053(c)][/us/pl/100/647/s5053/c], Nov. 10, 1988, [102 Stat. 3678][/us/stat/102/3678], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 148 of this title][/us/usc/t26/s148]\] shall apply to obligations issued after October 21, 1988.
 
->     “(2) __Exception for construction or binding agreement.—__ 
+>     “(2)  __Exception for construction or binding agreement__  __.—__ 
 
 >         “(A)
 
@@ -215,7 +215,7 @@
 
 >         “(B) Subparagraph (A) shall not apply to any bond issued after December 31, 1989, and shall not apply unless it is reasonably expected (at the time of issuance of the bond) that the facility will be placed in service before January 1, 1990.
 
->     “(3) __Refundings.—__ 
+>     “(3)  __Refundings__  __.—__ 
 
 >     The amendments made by this section shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued before July 15, 1988, if—
 

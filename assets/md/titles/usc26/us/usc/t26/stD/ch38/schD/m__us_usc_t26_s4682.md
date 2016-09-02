@@ -681,15 +681,15 @@
 
 >     “(1) __Recycled halon.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendment made by subsection (a)(1) \[amending this section\] shall take effect on January 1, 1997.
 
->         “(B) __Halon-1211.—__ 
+>         “(B)  __Halon-1211__  __.—__ 
 
 >         In the case of Halon-1211, the amendment made by subsection (a)(1) shall take effect on January 1, 1998.
 
->     “(2) __Metered-dose inhalers.—__ 
+>     “(2)  __Metered-dose inhalers__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect on the 7th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
 

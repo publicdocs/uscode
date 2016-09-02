@@ -267,19 +267,19 @@
 
 [Pub. L. 98–369, div. A, title I, § 68(e)][/us/pl/98/369/s68/e], July 18, 1984, [98 Stat. 588][/us/stat/98/588], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1804(k)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2809, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 57 and 995 of this title\] shall apply to taxable years beginning after December 31, 1984.
 
->     “(2) __1250 gain.—__ 
+>     “(2) __1250__  __gain__  __.—__ 
 
 >     The amendments made by this section to section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and the amendment made by subsection (c)(2) of this section \[amending [section 57 of this title][/us/usc/t26/s57]\], shall apply to sales or other dispositions after December 31, 1984, in taxable years ending after such date.
 
->     “(3) __Pollution control facilities.—__ 
+>     “(3)  __Pollution control facilities__  __.—__ 
 
 >     The amendments made by this section to section 291(a)(5) \[now 291(a)(4)\] of such Code, and so much of the amendment made by subsection (c)(1) of this section \[amending [section 57 of this title][/us/usc/t26/s57]\] as relates to pollution control facilities, shall apply to property placed in service after December 31, 1984, in taxable years ending after such date.
 
->     “(4) __Drilling and mining costs.—__ 
+>     “(4)  __Drilling and mining costs__  __.—__ 
 
 >     The amendments made by this section to section 291(b) of such Code shall apply to expenditures after December 31, 1984, in taxable years ending after such date.”
 

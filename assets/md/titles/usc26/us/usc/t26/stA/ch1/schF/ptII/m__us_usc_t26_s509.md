@@ -175,11 +175,11 @@
 
 [Pub. L. 109–280, title XII, § 1241(e)][/us/pl/109/280/s1241/e], Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Charitable trusts which are type iii supporting organizations.—__ 
+>     “(2)  __Charitable trusts which are type iii supporting organizations__  __.—__ 
 
 >     Subsection (c) \[enacting provisions set out as a note below\] shall take effect—
 
@@ -227,11 +227,11 @@
 
 [Pub. L. 109–280, title XII, § 1241(d)][/us/pl/109/280/s1241/d], Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Treasury shall promulgate new regulations under section 509 of the Internal Revenue Code of 1986 on payments required by type III supporting organizations which are not functionally integrated type III supporting organizations. Such regulations shall require such organizations to make distributions of a percentage of either income or assets to supported organizations (as defined in section 509(f)(3) of such Code) in order to ensure that a significant amount is paid to such organizations.
 
->     “(2) __Type iii supporting organization; functionally integrated type iii supporting organization.—__ 
+>     “(2)  __Type iii supporting organization; functionally integrated type iii supporting organization__  __.—__ 
 
 >     For purposes of paragraph (1), the terms ‘type III supporting organization’ and ‘functionally integrated type III supporting organization’ have the meanings given such terms under subparagraphs (A) and (B) section 4943(f)(5) of the Internal Revenue Code of 1986 (as added by this Act), respectively.”
 

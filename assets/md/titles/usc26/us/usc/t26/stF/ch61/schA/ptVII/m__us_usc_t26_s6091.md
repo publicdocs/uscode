@@ -67,7 +67,7 @@
 
                 (i) corporations which have no principal place of business or principal office or agency in any internal revenue district,
 
-                (ii) corporations which claim the benefits of section 936 (relating to possession tax credit), and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Word “and” probably is superfluous. </sup></sup> 
+                (ii) corporations which claim the benefits of section 936 (relating to possession tax credit), and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
 
                 (iii) foreign corporations, and
 

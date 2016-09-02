@@ -137,11 +137,11 @@
 
 [Pub. L. 111–312, title III, § 303(c)][/us/pl/111/312/s303/c], Dec. 17, 2010, [124 Stat. 3303][/us/stat/124/3303], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 2505, 2631, and 6018 of this title\] shall apply to estates of decedents dying and gifts made after December 31, 2010.
 
->     “(2) __Conforming amendment relating to generation-skipping transfers.—__ 
+>     “(2)  __Conforming amendment relating to generation-skipping transfers__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending [section 2631 of this title][/us/usc/t26/s2631]\] shall apply to generation-skipping transfers after December 31, 2010.”
 
@@ -149,15 +149,15 @@
 
 [Pub. L. 107–16, title V, § 521(e)][/us/pl/107/16/s521/e], June 7, 2001, [115 Stat. 72][/us/stat/115/72], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 2057, 2505, and 2631 of this title\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
 
->     “(2) __Subsection (b)(2).—__ 
+>     “(2)  __Subsection__  __(b)(2).—__ 
 
 >     The amendments made by subsection (b)(2) \[amending [section 2505 of this title][/us/usc/t26/s2505]\] shall apply to gifts made after December 31, 2009.
 
->     “(3) __Subsections (c) and (d).—__ 
+>     “(3)  __Subsections__  __(c)__  __and__  __(d).—__ 
 
 >     The amendments made by subsections (c) and (d) \[amending sections 2057 and 2631 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2003.”
 

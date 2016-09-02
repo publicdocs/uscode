@@ -175,7 +175,7 @@
 
 [Pub. L. 99–514, title VI, § 601(b)][/us/pl/99/514/s601/b], Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after July 1, 1987.
 
@@ -187,11 +187,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 66(c)][/us/pl/98/369/s66/c], July 18, 1984, [98 Stat. 585][/us/stat/98/585], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1561 of this title][/us/usc/t26/s1561]\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Amendments not treated as changed in rate of tax.—__ 
+>     “(2)  __Amendments not treated as changed in rate of tax__  __.—__ 
 
 >     The amendments made by this subsection \[probably should be “section”\] shall not be treated as a change in a rate of tax for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 

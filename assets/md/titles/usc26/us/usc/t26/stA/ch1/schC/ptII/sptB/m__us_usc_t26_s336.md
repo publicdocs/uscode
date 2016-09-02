@@ -113,7 +113,7 @@
 
 [Pub. L. 99–514, title VI, § 633][/us/pl/99/514/s633], Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], as amended by [Pub. L. 100–647, title I, § 1006(g)][/us/pl/100/647/s1006/g], Nov. 10, 1988, [102 Stat. 3407][/us/stat/102/3407], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle D (§§ 631–634) of title VI of [Pub. L. 99–514][/us/pl/99/514], enacting this section and [section 337 of this title][/us/usc/t26/s337], amending sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealing former sections 333, 336, and 337 of this title\] shall apply to—
 
@@ -125,17 +125,17 @@
 
 >     “(b) __Built-In Gains of S Corporations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by section 632 (other than subsection (b) thereof) \[amending sections 26, 1366, 1374, and 1375 of this title\] shall apply to taxable years beginning after December 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after December 31, 1986.
 
->         “(2) __Application of prior law.—__ 
+>         “(2)  __Application of prior law__  __.—__ 
 
 >         In the case of any taxable year of an S corporation which begins after December 31, 1986, and to which the amendments made by section 632 (other than subsection (b) thereof) do not apply, paragraph (1) of section 1374(b) of the Internal Revenue Code of 1954 (as in effect on the date before the date of the enactment of this Act \[Oct. 22, 1986\]) shall be applied as if it read as follows:    “ ‘(1) an amount equal to 34 percent of the amount by which the net capital gain of the corporation for the taxable year exceeds $25,000, or’\[.\]
 
 >     “(c) __Exception for Certain Plans of Liquidation and Binding Contracts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by this subtitle shall not apply to—
 
@@ -147,7 +147,7 @@
 
 >             “(D) any transaction described in section 338 of the Internal Revenue Code of 1986 with respect to any target corporation if a qualified stock purchase of such target corporation is made on or after August 1, 1986, pursuant to a written binding contract in effect before such date and the acquisition date (within the meaning of such section 338) is before January 1, 1988.
 
->         “(2) __Special rule for certain actions taken before__  __november 20, 1985__  __.—__ 
+>         “(2)  __Special rule for certain actions taken before __  __november 20, 1985__  __.—__ 
 
 >         For purposes of paragraph (1), transactions shall be treated as pursuant to a plan of liquidation adopted before August 1, 1986, if—
 
@@ -173,11 +173,11 @@
 
 >     “(d) __Transitional Rule for Certain Small Corporations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of the complete liquidation before January 1, 1989, of a qualified corporation, the amendments made by this subtitle shall not apply to the applicable percentage of each gain or loss which (but for this paragraph) would be recognized by the liquidating corporation by reason of the amendments made by this subtitle. Section 333 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) shall continue to apply to any complete liquidation described in the preceding sentence.
 
->         “(2) __Paragraph (1) not to apply to certain items.—__ 
+>         “(2)  __Paragraph (1) not to apply to certain items__  __.—__ 
 
 >         Paragraph (1) shall not apply to—
 
@@ -193,7 +193,7 @@
 
 >                 “(ii) a principal purpose for the transfer of such asset to the qualified corporation was to secure the benefits of this subsection.
 
->         “(3) __Applicable percentage.—__ 
+>         “(3)  __Applicable percentage__  __.—__ 
 
 >         For purposes of this subsection, the term ‘applicable percentage’ means—
 
@@ -207,11 +207,11 @@
 
 >                 “(ii) $5,000,000.
 
->         “(4) __Applicable value.—__ 
+>         “(4)  __Applicable value__  __.—__ 
 
 >         For purposes of this subsection, the applicable value is the fair market value of all of the stock of the corporation on the date of the adoption of the plan of complete liquidation (or if greater, on August 1, 1986).
 
->         “(5) __Qualified corporation.—__ 
+>         “(5)  __Qualified corporation__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified corporation’ means any corporation if—
 
@@ -219,17 +219,17 @@
 
 >             “(B) the applicable value of such corporation does not exceed $10,000,000.
 
->         “(6) __Definitions and special rules.—__ 
+>         “(6)  __Definitions and special rules__  __.—__ 
 
 >         For purposes of this subsection—
 
 >             “(A) __Qualified group.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), the term ‘qualified group’ means any group of 10 or fewer qualified persons who at all times during the 5-year period ending on the date of the adoption of the plan of complete liquidation (or, if shorter, the period during which the corporation or any predecessor was in existence) owned (or was treated as owning under the rules of subparagraph (C)) more than 50 percent (by value) of the stock in such corporation.
 
->                 “(ii) __5-year ownership requirement not to apply in certain cases.—__ 
+>                 “(ii) __5__  __-year ownership requirement not to apply in certain cases__  __.—__ 
 
 >                 In the case of—
 
@@ -243,7 +243,7 @@
 
 >                  the term ‘qualified group’ means any group of 10 or fewer qualified persons.
 
->             “(B) __Qualified person.—__ 
+>             “(B)  __Qualified person__  __.—__ 
 
 >             The term ‘qualified person’ means—
 
@@ -255,39 +255,39 @@
 
 >             “(C) __Attribution rules.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Any stock owned by a corporation, trust (other than a trust referred to in subparagraph (B)(iii)\[)\], or partnership shall be treated as owned proportionately by its shareholders, beneficiaries, or partners, and shall not be treated as owned by such corporation, trust, or partnership. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
->                 “(ii) __Family members.—__ 
+>                 “(ii)  __Family members__  __.—__ 
 
 >                 Stock owned (or treated as owned) by members of the same family (within the meaning of section 318(a)(1) of the Internal Revenue Code of 1986) shall be treated as owned by 1 person, and shall be treated as owned by such 1 person for any period during which it was owned (or treated as owned) by any such member.
 
->                 “(iii) __Treatment of certain trusts.—__ 
+>                 “(iii)  __Treatment of certain trusts__  __.—__ 
 
 >                 Stock owned (or treated as owned) by the estate of any decedent or by any trust referred to in subparagraph (B)(iii) with respect to such decedent shall be treated as owned by 1 person and shall be treated as owned by such 1 person for the period during which it was owned (or treated as owned) by such estate or any such trust or by the decedent.
 
->             “(D) __Special holding period rules.—__ 
+>             “(D)  __Special holding period rules__  __.—__ 
 
 >             Any property acquired by reason of the death of an individual shall be treated as owned at all times during which such property was owned (or treated as owned) by the decedent.
 
->             “(E) __Controlled group of corporations.—__ 
+>             “(E)  __Controlled group of corporations__  __.—__ 
 
 >             All members of the same controlled group (as defined in section 267(f)(1) of such Code) shall be treated as 1 corporation for purposes of determining whether any of such corporations met the requirement of paragraph (5)(B) and for purposes of determining the applicable percentage with respect to any of such corporations. For purposes of the preceding sentence, an S corporation shall not be treated as a member of a controlled group unless such corporation was a C corporation for its taxable year which includes August 1, 1986, or it was not described for such taxable year in paragraph (1) or (2) of section 1374(c) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]).
 
->         “(7) __Section 338 transactions.—__ 
+>         “(7)  __Section 338 transactions__  __.—__ 
 
 >         The provisions of this subsection shall also apply in the case of a transaction described in section 338 of the Internal Revenue Code of 1986 where the acquisition date (within the meaning of such section 338) is before January 1, 1989.
 
->         “(8) __Application of section 1374.—__ 
+>         “(8)  __Application of section 1374__  __.—__ 
 
 >         Rules similar to the rules of this subsection shall apply for purposes of applying section 1374 of the Internal Revenue Code of 1986 (as amended by section 632) in the case of a qualified corporation which makes an election to be an S corporation under section 1362 of such Code before January 1, 1989, without regard to whether such corporation is completely liquidated.
 
->         “(9) __Application to nonliquidating distributions.—__ 
+>         “(9)  __Application to nonliquidating distributions__  __.—__ 
 
 >         The provisions of this subsection shall also apply in the case of any distribution (not in complete liquidation) made by a qualified corporation before January 1, 1989, without regard to whether such corporation is completely liquidated.
 
->     “(e) __Complete Liquidation Defined.—__ 
+>     “(e)  __Complete Liquidation Defined__  __.—__ 
 
 >     For purposes of this section, a corporation shall be treated as completely liquidated if all of the assets of such corporation are distributed in complete liquidation, less assets retained to meet claims.
 
@@ -363,15 +363,15 @@
 
 >     “(g) __Treatment of Certain Distributions in Response To Hostile Tender Offer.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         No gain or loss shall be recognized under the Internal Revenue Code of 1986 to a corporation (hereinafter in this subsection referred to as ‘parent’) on a qualified distribution.
 
->         “(2) __Qualified Distribution Defined.—__ 
+>         “(2)  __Qualified Distribution Defined__  __.—__ 
 
 >         For purposes of paragraph (1)—
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘qualified distribution’ means a distribution—
 
@@ -381,7 +381,7 @@
 
 >                 “(iii) which was made not more than 60 days after the board of directors of parent recommended rejection of an unsolicited tender offer to obtain control of parent.
 
->             “(B) __Qualified subsidiary.—__ 
+>             “(B)  __Qualified subsidiary__  __.—__ 
 
 >             The term ‘qualified subsidiary’ means a corporation created or organized under the laws of Delaware on September 7, 1976, all of the stock of which was owned by parent immediately before the qualified distribution.”
 

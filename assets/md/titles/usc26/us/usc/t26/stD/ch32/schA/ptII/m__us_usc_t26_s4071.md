@@ -213,11 +213,11 @@
 
 >     “(b) __Determination of Overpayment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The determination of the extent to which any overpayment of tax imposed by section 4071(a)(1) or (2) or section 4071(b) has arisen by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, shall be determined in accordance with the principles set forth in regulations and rulings relating thereto to the extent in effect on March 31, 1978.
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         This subsection shall apply to the adjustment of any tire after March 31, 1978, and prior to January 1, 1983.”
 

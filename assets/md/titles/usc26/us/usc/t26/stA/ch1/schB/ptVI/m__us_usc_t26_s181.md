@@ -133,11 +133,11 @@
 
 [Pub. L. 110–343, div. C, title V, § 502(e)][/us/pl/110/343/s502/e], Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 199 of this title][/us/usc/t26/s199]\] shall apply to qualified film and television productions commencing after December 31, 2007.
 
->     “(2) __Deduction.—__ 
+>     “(2)  __Deduction__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 199 of this title][/us/usc/t26/s199]\] shall apply to taxable years beginning after December 31, 2007.”
 

@@ -361,11 +361,11 @@
 
 [Pub. L. 100–647, title VI, § 6130(d)][/us/pl/100/647/s6130/d], Nov. 10, 1988, [102 Stat. 3719][/us/stat/102/3719], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1092 of this title][/us/usc/t26/s1092]\] shall apply with respect to forward contracts, future contracts, options, and similar instruments entered into or acquired after October 21, 1988.
 
->     “(2) __Time for making election.—__ 
+>     “(2)  __Time for making election__  __.—__ 
 
 >     The time for making any election under subparagraph (D) or (E) of section 988(c)(1) of the 1986 Code shall not expire before the date 30 days after the date of the enactment of this Act \[Nov. 10, 1988\].
 

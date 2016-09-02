@@ -121,7 +121,7 @@
 
 [Pub. L. 111–240, title II, § 2103][/us/pl/111/240/s2103], Sept. 27, 2010, [124 Stat. 2564][/us/stat/124/2564], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:
 
@@ -135,7 +135,7 @@
 
 >         “(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions).
 
->     “(b) __Additional Information.—__ 
+>     “(b)  __Additional Information__  __.—__ 
 
 >     The report required under subsection (a) shall also include information on the following with respect to each year:
 
@@ -143,7 +143,7 @@
 
 >         “(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
 
->     “(c) __Date of Report.—__ 
+>     “(c)  __Date of Report__  __.—__ 
 
 >     The first report required under subsection (a) shall be submitted not later than December 31, 2010.”
 

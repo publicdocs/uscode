@@ -321,11 +321,11 @@
 
 [Pub. L. 112–240, title I, § 101(c)(3)][/us/pl/112/240/s101/c/3], Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and [section 2010 of this title][/us/usc/t26/s2010]\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
 
->     “(B) __Technical correction.—__ 
+>     “(B)  __Technical correction__  __.—__ 
 
 >     The amendment made by paragraph (2) \[amending [section 2010 of this title][/us/usc/t26/s2010]\] shall take effect as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[[Pub. L. 111–312][/us/pl/111/312]\].”
 
@@ -339,11 +339,11 @@
 
 [Pub. L. 107–16, title V, § 511(f)(1)][/us/pl/107/16/s511/f/1], (2), June 7, 2001, [115 Stat. 71][/us/stat/115/71], provided that:
 
->     “(1) __Subsections (a) and (b).—__ 
+>     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2002.”
 
@@ -415,21 +415,21 @@
 
 [Pub. L. 98–369, div. A, title VI, § 641][/us/pl/98/369/s641], July 18, 1984, [98 Stat. 939][/us/stat/98/939], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Nothing in any provision of law exempting any property (or interest therein) from taxation shall exempt the transfer of such property (or interest therein) from Federal estate, gift, and generation-skipping transfer taxes. In the case of any provision of law enacted after the date of the enactment of this Act \[July 18, 1984\], such provision shall not be treated as exempting the transfer of property from Federal estate, gift, and generation-skipping transfer taxes unless it refers to the appropriate provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 >     “(b) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The provisions of subsection (a) shall apply to the estates of decedents dying, gifts made, and transfers made on or after June 19, 1984.
 
->         “(2) __Treatment of certain transfers treated as taxable.—__ 
+>         “(2)  __Treatment of certain transfers treated as taxable__  __.—__ 
 
 >         The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
 
->         “(3) __No inference.—__ 
+>         “(3)  __No inference__  __.—__ 
 
 >         No inference shall arise from paragraphs (1) and (2) that any transfer of property (or interest therein) before June 19, 1984, is exempt from Federal estate and gift taxes.”
 
@@ -437,11 +437,11 @@
 
 [Pub. L. 98–369, div. A, title VI, § 642][/us/pl/98/369/s642], July 18, 1984, [98 Stat. 939][/us/stat/98/939], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     With respect to transfers of public housing bonds occurring after December 31, 1983, and before June 19, 1984, the taxpayer shall report the date and amount of such transfer and such other information as the Secretary of the Treasury or his delegate shall prescribe by regulations to allow the determination of the tax and interest due if it is ultimately determined that such transfers are subject to estate, gift, or generation-skipping tax.
 
->     “(b) __Penalty for Failure to Report.—__ 
+>     “(b)  __Penalty for Failure to Report__  __.—__ 
 
 >     Any taxpayer failing to provide the information required by subsection (a) shall be liable for a penalty equal to 25 percent of the excess of (1) the estate, gift, or generation-skipping tax that is payable assuming that such transfers are subject to tax, over (2) the tax payable assuming such transfers are not so subject.”
 

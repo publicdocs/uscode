@@ -281,11 +281,11 @@
 
 [Pub. L. 105–34, title XIII, § 1303][/us/pl/105/34/s1303], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     In the case of any trust created under an instrument executed before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\], such trust shall be treated as meeting the requirements of paragraph (1) of section 2056A(a) of the Internal Revenue Code of 1986 if the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of subsection (a) shall take effect as if included in the provisions of section 11702(g) of the Revenue Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
 

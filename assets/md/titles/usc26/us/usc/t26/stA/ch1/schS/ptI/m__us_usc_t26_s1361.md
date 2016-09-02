@@ -457,11 +457,11 @@
 
 [Pub. L. 110–28, title VIII, § 8232(c)][/us/pl/110/28/s8232/c], May 25, 2007, [121 Stat. 198][/us/stat/121/198], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1368 of this title][/us/usc/t26/s1368]\] shall apply to taxable years beginning after December 31, 2006.
 
->     “(2) __Special rule for treatment as second class of stock.—__ 
+>     “(2)  __Special rule for treatment as second class of stock__  __.—__ 
 
 >     In the case of any taxable year beginning after December 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
 
@@ -545,15 +545,15 @@
 
 [Pub. L. 98–369, div. A, title VII, § 721(y)][/us/pl/98/369/s721/y], July 18, 1984, [98 Stat. 972][/us/stat/98/972], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[[Pub. L. 97–354][/us/pl/97/354]\].
 
->     “(2) __Amendment made by subsection (b)(2).—__ 
+>     “(2)  __Amendment made by subsection__  __(b)__  __(2)__  __.—__ 
 
 >     Subparagraph (C) of section 108(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (b)(2)) shall apply to contributions to capital after December 31, 1980, in taxable years ending after such date.
 
->     “(3) __Amendment made by subsection (g)(1).—__ 
+>     “(3)  __Amendment made by subsection__  __(g)__  __(1)__  __.—__ 
 
 >     If—
 
@@ -563,11 +563,11 @@
 
 >         then the amendment made by paragraph (1) of subsection (g) \[amending [section 1362 of this title][/us/usc/t26/s1362]\] shall not apply to such qualified stock purchase.
 
->     “(4) __Amendments made by subsection__  __(l__  __).—__ 
+>     “(4)  __Amendments made by subsection __  __(l__  __).—__ 
 
 >     The amendments made by subsection (l) \[amending [section 1362 of this title][/us/usc/t26/s1362]\] shall apply to any election under section 1362 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) made after October 19, 1982.
 
->     “(5) __Amendment made by subsection (t).—__ 
+>     “(5)  __Amendment made by subsection__  __(t).—__ 
 
 >     If—
 
@@ -581,21 +581,21 @@
 
 [Pub. L. 97–354, § 6][/us/pl/97/354/s6], Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697], as amended by [Pub. L. 97–448, title III, § 305(d)(1)(A)][/us/pl/97/448/s305/d/1/A], Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 98–369, div. A, title VII, § 721(i)][/us/pl/98/369/s721/i], (k), July 18, 1984, [98 Stat. 969][/us/stat/98/969]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this Act \[enacting this section and sections 1362, 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 31, 44D to 44F, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and [section 1108 of Title 29][/us/usc/t29/s1108], Labor, omitting [section 1376 of this title][/us/usc/t26/s1376], and enacting provisions set out as a note under [section 1 of this title][/us/usc/t26/s1]\] shall apply to taxable years beginning after December 31, 1982.
 
 >     “(b) __Transitional Rules.—__ 
 
->         “(1) __Sections 1379 and 62(9) continue to apply for 1983.—__ 
+>         “(1)  __Sections 1379 and 62(9) continue to apply for 1983__  __.—__ 
 
 >         Sections 1379 and 62(9) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Oct. 19, 1982\]) shall remain in effect for years beginning before January 1, 1984.
 
->         “(2) __Allowance of exclusion of death benefit.—__ 
+>         “(2)  __Allowance of exclusion of death benefit__  __.—__ 
 
 >         Notwithstanding section 241(b) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 241(b) of Pub. L. 97–248][/us/pl/97/248/s241/b], set out as a note under [section 416 of this title][/us/usc/t26/s416]\] in the case of amounts received under a plan of an S corporation, the amendment made by section 239 of such Act \[[section 239 of Pub. L. 97–248][/us/pl/97/248/s239], amending [section 101 of this title][/us/usc/t26/s101]\] shall apply with respect to decedents dying after December 31, 1982.
 
->         “(3) __New passive income rules apply to taxable years beginning during 1982.—__ 
+>         “(3)  __New passive income rules apply to taxable years beginning during 1982__  __.—__ 
 
 >         In the case of a taxable year beginning during 1982—
 
@@ -607,13 +607,13 @@
 
 >     “(c) __Grandfather Rules.—__ 
 
->         “(1) __Subsidiaries which are foreign corporations or disc’s.—__ 
+>         “(1)  __Subsidiaries which are foreign corporations or disc’s__  __.—__ 
 
 >         In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
 
 >         “(2) __Casualty insurance companies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any qualified casualty insurance electing small business corporation—
 
@@ -621,7 +621,7 @@
 
 >                 “(ii) subchapter S (as in effect on July 1, 1982) of chapter 1 of the Internal Revenue Code of 1986 \[former sections 1371 to 1379 of this title\] and part III of subchapter L of chapter 1 of such Code \[section 831 et seq. of this title\] shall apply.
 
->             “(B) __Qualified casualty insurance electing small business corporation.—__ 
+>             “(B)  __Qualified casualty insurance electing small business corporation__  __.—__ 
 
 >             The term ‘qualified casualty insurance electing small business corporation’ means any corporation described in section 831(a) of the Internal Revenue Code of 1986 if—
 
@@ -635,7 +635,7 @@
 
 >         “(3) __Certain corporations with oil and gas production.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any qualified oil corporation—
 
@@ -643,7 +643,7 @@
 
 >                 “(ii) subchapter S (as in effect on July 1, 1982) of chapter 1 of the Internal Revenue Code of 1986 \[former sections 1371 to 1379 of this title\] shall apply.
 
->             “(B) __Qualified oil corporation.—__ 
+>             “(B)  __Qualified oil corporation__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘qualified oil corporation’ means any corporation if—
 
@@ -659,17 +659,17 @@
 
 >                 “(iii) such corporation makes an election under this subparagraph at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
->             “(C) __Average daily production.—__ 
+>             “(C)  __Average daily production__  __.—__ 
 
 >             For purposes of subparagraph (B), the average daily production of domestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
 
->             “(D) __Substantial shareholder.—__ 
+>             “(D)  __Substantial shareholder__  __.—__ 
 
 >             For purposes of subparagraph (B), the term ‘substantial shareholder’ means any person who on July 1, 1982, owns more than 40 percent (in value) of the stock of the corporation.
 
 >         “(4) __Continuity required.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             This subsection shall cease to apply with respect to any corporation after—
 
@@ -685,11 +685,11 @@
 
 >     “(d) __Treatment of Existing Fringe Benefit Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of existing fringe benefits of a corporation which as of September 28, 1982, was an electing small business corporation, section 1372 of the Internal Revenue Code of 1986 (as added by this Act \[[Pub. L. 97–354][/us/pl/97/354]\]) shall apply only with respect to taxable years beginning after December 31, 1987.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         This subsection shall cease to apply with respect to any corporation after whichever of the following first occurs:
 
@@ -699,15 +699,15 @@
 
 >             “(C) the first day on which more than 50 percent of the stock of the corporation is newly owned stock within the meaning of section 1378(c)(2) of such Code (as amended by this Act \[[Pub. L. 97–354][/us/pl/97/354]\]).
 
->         “(3) __Existing fringe benefit.—__ 
+>         “(3)  __Existing fringe benefit__  __.—__ 
 
 >         For purposes of this subsection, the term ‘existing fringe benefit’ means any employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
 
->     “(e) __Treatment of Certain Elections Under Prior Law.—__ 
+>     “(e)  __Treatment of Certain Elections Under Prior Law__  __.—__ 
 
 >     For purposes of section 1362(g) of the Internal Revenue Code of 1986, as amended by this Act \[[Pub. L. 97–354][/us/pl/97/354]\] (relating to no election permitted within 5 years after termination of prior election), any termination or revocation under section 1372(e) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\]) shall not be taken into account.
 
->     “(f) __Taxable Year of S Corporations.—__ 
+>     “(f)  __Taxable Year of S Corporations__  __.—__ 
 
 >     Section 1378 of the Internal Revenue Code of 1986 (as added by this Act \[[Pub. L. 97–354][/us/pl/97/354]\]) shall take effect on the day after the date of the enactment of this Act \[Oct. 19, 1982\]. For purposes of applying such section, the reference in subsection (a)(2) of such section to an election under section 1362(a) shall include a reference to an election under section 1372(a) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\].”
 

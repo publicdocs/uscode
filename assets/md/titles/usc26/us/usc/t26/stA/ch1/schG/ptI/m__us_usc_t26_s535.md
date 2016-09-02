@@ -235,11 +235,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 125(b)][/us/pl/98/369/s125/b], July 18, 1984, [98 Stat. 647][/us/stat/98/647], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to distributions and interest payments received by a United States-owned foreign corporation (within the meaning of section 535(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) on or after May 23, 1983, in taxable years ending on or after such date.
 
->     “(2) __Corporations in existence on__  __may 23, 1983__  __.—__ 
+>     “(2)  __Corporations in existence on __  __may 23, 1983__  __.—__ 
 
 >     In the case of a United States-owned foreign corporation (as so defined) in existence on May 23, 1983, the amendment made by subsection (a) shall apply to taxable years beginning after December 31, 1984.”
 

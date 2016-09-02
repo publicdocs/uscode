@@ -267,15 +267,15 @@
 
 [Pub. L. 110–343, div. B, title I, § 106(f)][/us/pl/110/343/s106/f], Oct. 3, 2008, [122 Stat. 3817][/us/stat/122/3817], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 24, 25B, 25D, 26, and 45 of this title\] shall apply to taxable years beginning after December 31, 2007.
 
->     “(2) __Solar electric property limitation.—__ 
+>     “(2)  __Solar electric property limitation__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 25D of this title][/us/usc/t26/s25D]\] shall apply to taxable years beginning after December 31, 2008.
 
->     “(3) __Application of egtrra sunset.—__ 
+>     “(3)  __Application of egtrra sunset__  __.—__ 
 
 >     The amendments made by subparagraphs (A) and (B) of subsection (e)(2) \[amending this section and [section 24 of this title][/us/usc/t26/s24]\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[[Pub. L. 107–16, § 901][/us/pl/107/16/s901], which was repealed by [Pub. L. 112–240, title I, § 101(a)(1)][/us/pl/112/240/s101/a/1], Jan. 2, 2013, [126 Stat. 2315][/us/stat/126/2315], was formerly set out as an Effective and Termination Dates of 2001 Amendment note under [section 1 of this title][/us/usc/t26/s1]\] in the same manner as the provisions of such Act to which such amendments relate.”
 
@@ -291,15 +291,15 @@
 
 [Pub. L. 109–135, title IV, § 402(m)][/us/pl/109/135/s402/m], Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[see Tables for classification\] shall take effect as if included in the provisions of the Energy Policy Act of 2005 \[[Pub. L. 109–58][/us/pl/109/58]\] to which they relate.
 
->     “(2) __Repeal of public utility holding company act of 1935.—__ 
+>     “(2)  __Repeal of public utility holding company act of 1935__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending sections 121, 246, 247, 1223, 1245, and 1250 of this title and repealing sections 1081 to 1083 of this title\] shall not apply with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 \[[15 U.S.C. 79][/us/usc/t15/s79] et seq.\] before its repeal.
 
->     “(3) __Coordination of personal credits.—__ 
+>     “(3)  __Coordination of personal credits__  __.—__ 
 
 >     The amendments made by subsection (i)(3) \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2005.”
 
@@ -329,11 +329,11 @@
 
 [Pub. L. 107–16, title II, § 202(g)][/us/pl/107/16/s202/g], June 7, 2001, [115 Stat. 49][/us/stat/115/49], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 24, 26, 137, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001.
 
->     “(2) __Subsection (a).—__ 
+>     “(2)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section and [section 137 of this title][/us/usc/t26/s137]\] shall apply to taxable years beginning after December 31, 2002.”
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 105–34, title XVI, § 1601(j)][/us/pl/105/34/s1601/j], Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 30A, 52, 55, 137, 401, 403, 404, 408, 414, 512, 529, 593, 641, 679, 860L, 956, 1361, 1374, 4001, 4041, 4092, 4261, 6039D, 6048, 6050R, 6501, 6693, 7701, and 9503 of this title, [section 1055 of Title 29][/us/usc/t29/s1055], Labor, and provisions set out as notes under sections 529 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[[Pub. L. 104–188][/us/pl/104/188]\] to which they relate.
 
->     “(2) __Certain administrative requirements with respect to certain pension plans.—__ 
+>     “(2)  __Certain administrative requirements with respect to certain pension plans__  __.—__ 
 
 >     The amendment made by subsection (d)(2)(D) \[amending [section 401 of this title][/us/usc/t26/s401]\] shall apply to calendar years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

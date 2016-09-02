@@ -101,49 +101,21 @@
 
         A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to the amounts of compensation attributable under the State law to service performed in the employ of such organization (or group).
 
-    (f) __Transition__ 
+    (f) __Prohibition on noncharging due to employer fault__ 
 
-    To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies, a State law may provide that an organization (or group of organizations) which elects before April 1, 1972, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before January 1, 1969, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to service performed in its employ, until the total of such compensation equals the amount—
+        (1) __In general__ 
 
-        (1) by which the contributions paid by such organization (or group) with respect to a period before the election provided by section 3309(a)(2), exceed
+        A State law shall be treated as meeting the requirements of subsection (a)(1) only if such law provides that an employer’s account shall not be relieved of charges relating to a payment from the State unemployment fund if the State agency determines that—
 
-        (2) the unemployment compensation for the same period which was charged to the experience-rating account of such organization (or group) or paid under the State law on the basis of wages paid by it or service performed in its employ, whichever is appropriate.
+            (A) the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and
 
-    (g) __Transitional rule for Unemployment Compensation Amendments of 1976__ 
+            (B) the employer or agent has established a pattern of failing to respond timely or adequately to such requests.
 
-    To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies by reason of the enactment of the Unemployment Compensation Amendments of 1976, a State law may provide that an organization (or group of organizations) which elects, when such election first becomes available under the State law with respect to such service, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before the date of the enactment of this subsection, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to such service performed in its employ, until the total of such compensation equals the amount—
+        (2) __State authority to impose stricter standards__ 
 
-        (1) by which the contributions paid by such organization (or group) on the basis of wages for such service with respect to a period before the election provided by section 3309(a)(2), exceed
+            Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-        (2) the unemployment compensation for the same period which was charged to the experience-rating account of such organization (or group) or paid under the State law on the basis of such service performed in its employ or wages paid for such service, whichever is appropriate.
-
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 122(a)][/us/pl/94/566/s122/a], (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II, § 252(a)][/us/pl/112/40/s252/a], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–40, title II, § 252][/us/pl/112/40/s252], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421], provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:
-
-    (f) Prohibition on noncharging due to employer fault
-
-    (1) In general
-
-    A State law shall be treated as meeting the requirements of subsection (a)(1) only if such law provides that an employer’s account shall not be relieved of charges relating to a payment from the State unemployment fund if the State agency determines that—
-
-    (A) the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and
-
-    (B) the employer or agent has established a pattern of failing to respond timely or adequately to such requests.
-
-    (2) State authority to impose stricter standards
-
-    Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
-
-    See 2011 Amendment notes below.
-
- __References in Text__ 
-
-    The Unemployment Compensation Amendments of 1976, referred to in subsec. (g), is [Pub. L. 94–566][/us/pl/94/566], Oct. 20, 1976, [90 Stat. 2667][/us/stat/90/2667], as amended. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 3311 of this title][/us/usc/t26/s3311] and Tables.
-
-    The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of [Pub. L. 94–566][/us/pl/94/566], which was approved Oct. 20, 1976.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 122(a)][/us/pl/94/566/s122/a], (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II, § 252(a)][/us/pl/112/40/s252/a], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421].).
 
  __Amendments__ 
 
@@ -167,11 +139,11 @@
 
 [Pub. L. 112–40, title II, § 252(b)][/us/pl/112/40/s252/b], Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act \[Oct. 21, 2011\].
 
->     “(2) __Authority.—__ 
+>     “(2)  __Authority__  __.—__ 
 
 >     A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1).”
 
@@ -215,7 +187,7 @@
 
 >         “(B) January 1, 1984,
 
->     then section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
+>     then \[former\] section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
 
 ----------
 
@@ -236,12 +208,6 @@
 [/us/stat/90/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2675
 [/us/pl/112/40/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252%2Fa
 [/us/stat/125/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F421
-[/us/pl/112/40/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252
-[/us/stat/125/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F421
-[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
-[/us/stat/90/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2667
-[/us/usc/t26/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3311
-[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/566/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fb

@@ -451,11 +451,11 @@
 
 [Pub. L. 109–280, title X, § 1004(c)][/us/pl/109/280/s1004/c], Aug. 17, 2006, [120 Stat. 1055][/us/stat/120/1055], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to plan years beginning after December 31, 2007.
 
->     “(2) __Special rule for collectively bargained plans.—__ 
+>     “(2)  __Special rule for collectively bargained plans__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], the amendments made by this section shall not apply to plan years beginning before the earlier of—
 

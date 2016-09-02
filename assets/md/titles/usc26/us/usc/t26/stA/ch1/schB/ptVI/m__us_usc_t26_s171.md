@@ -173,11 +173,11 @@
 
 [Pub. L. 99–514, title VI, § 643(b)][/us/pl/99/514/s643/b], Oct. 22, 1986, [100 Stat. 2285][/us/stat/100/2285], as amended by [Pub. L. 100–647, title I, § 1006(j)(2)][/us/pl/100/647/s1006/j/2], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to obligations acquired after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
 
->     “(2) __Revocation of election.—__ 
+>     “(2)  __Revocation of election__  __.—__ 
 
 >     In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 

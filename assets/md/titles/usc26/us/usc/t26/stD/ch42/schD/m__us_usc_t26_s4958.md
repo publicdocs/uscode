@@ -255,11 +255,11 @@
 
 [Pub. L. 109–280, title XII, § 1242(c)][/us/pl/109/280/s1242/c], Aug. 17, 2006, [120 Stat. 1105][/us/stat/120/1105], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (a) \[probably should be “subsection (b)”, amending this section\] shall apply to transactions occurring after July 25, 2006.”
 

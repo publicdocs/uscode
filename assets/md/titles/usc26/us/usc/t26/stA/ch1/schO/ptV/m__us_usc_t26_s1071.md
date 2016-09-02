@@ -21,7 +21,7 @@
 
 [Pub. L. 104–7, § 2(d)][/us/pl/104/7/s2/d], Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[repealing this section and amending sections 1245 and 1250 of this title\] shall apply to—
 
@@ -31,21 +31,21 @@
 
 >     “(2) __Binding contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to any sale or exchange pursuant to a written contract which was binding on January 16, 1995, and at all times thereafter before the sale or exchange, if the FCC tax certificate with respect to such sale or exchange was applied for, or issued, on or before such date.
 
 >         “(B) __Sales contingent on issuance of certificate.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             A contract shall be treated as not binding for purposes of subparagraph (A) if the sale or exchange pursuant to such contract, or the material terms of such contract, were contingent, at any time on January 16, 1995, on the issuance of an FCC tax certificate. The preceding sentence shall not apply if the FCC tax certificate for such sale or exchange is issued on or before January 16, 1995.
 
->             “(ii) __Material terms.—__ 
+>             “(ii)  __Material terms__  __.—__ 
 
 >             For purposes of clause (i), the material terms of a contract shall not be treated as contingent on the issuance of an FCC tax certificate solely because such terms provide that the sales price would, if such certificate were not issued, be increased by an amount not greater than 10 percent of the sales price otherwise provided in the contract.
 
->     “(3) __FCC tax certificate.—__ 
+>     “(3)  __FCC tax certificate__  __.—__ 
 
 >     For purposes of this subsection, the term ‘FCC tax certificate’ means any certificate of the Federal Communications Commission for the effectuation of section 1071 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Apr. 11, 1995\]).”
 

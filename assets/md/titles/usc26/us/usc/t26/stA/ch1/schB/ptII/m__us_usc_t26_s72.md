@@ -1669,11 +1669,11 @@
 
 [Pub. L. 109–280, title VIII, § 827(c)][/us/pl/109/280/s827/c], Aug. 17, 2006, [120 Stat. 1001][/us/stat/120/1001], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendment made by this section \[amending this section and sections 401 and 403 of this title\] shall apply to distributions after September 11, 2001.
 
->     “(2) __Waiver of limitations.—__ 
+>     “(2)  __Waiver of limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Aug. 17, 2006\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
@@ -1683,23 +1683,23 @@
 
 [Pub. L. 109–280, title VIII, § 844(g)][/us/pl/109/280/s844/g], Aug. 17, 2006, [120 Stat. 1013][/us/stat/120/1013], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 6050U of this title][/us/usc/t26/s6050U] and amending this section and sections 848, 1035, 6724, and 7702B of this title\] shall apply to contracts issued after December 31, 1996, but only with respect to taxable years beginning after December 31, 2009.
 
->     “(2) __Tax-free exchanges.—__ 
+>     “(2)  __Tax-free exchanges__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 1035 of this title][/us/usc/t26/s1035]\] shall apply with respect to exchanges occurring after December 31, 2009.
 
->     “(3) __Information reporting.—__ 
+>     “(3)  __Information reporting__  __.—__ 
 
 >     The amendments made by subsection (d) \[enacting [section 6050U of this title][/us/usc/t26/s6050U] and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to charges made after December 31, 2009.
 
->     “(4) __Policy acquisition expenses.—__ 
+>     “(4)  __Policy acquisition expenses__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending [section 848 of this title][/us/usc/t26/s848]\] shall apply to specified policy acquisition expenses determined for taxable years beginning after December 31, 2009.
 
->     “(5) __Technical amendment.—__ 
+>     “(5)  __Technical amendment__  __.—__ 
 
 >     The amendment made by subsection (f) \[amending [section 7702B of this title][/us/usc/t26/s7702B]\] shall take effect as if included in section 321(a) of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\].”
 
@@ -1797,15 +1797,15 @@
 
 [Pub. L. 99–514, title XI, § 1123(e)][/us/pl/99/514/s1123/e], Oct. 22, 1986, [100 Stat. 2475][/us/stat/100/2475], as amended by [Pub. L. 100–647, title I, § 1011A(c)(11)][/us/pl/100/647/s1011A/c/11], (12), Nov. 10, 1988, [102 Stat. 3476][/us/stat/102/3476], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 403 and 408 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending [section 403 of this title][/us/usc/t26/s403]\] shall apply to years beginning after December 31, 1988, but only with respect to distributions from contracts described in section 403(b) of the Internal Revenue Code of 1986 which are attributable to assets other than assets held as of the close of the last year beginning before January 1, 1989.
 
->     “(3) __Exception where distribution commences.—__ 
+>     “(3)  __Exception where distribution commences__  __.—__ 
 
 >     The amendments made by this section shall not apply to distributions to any employee from a plan maintained by any employer if—
 
@@ -1815,11 +1815,11 @@
 
 >         “(C) such distribution is made pursuant to such written election.
 
->     “(4) __Transition rule.—__ 
+>     “(4)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any benefits with respect to which a designation is in effect under section 242(b)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 242(b)(2) of Pub. L. 97–248][/us/pl/97/248/s242/b/2], formerly set out as an Effective Date of 1982 Amendment note under [section 401 of this title][/us/usc/t26/s401]\].
 
->     “(5) __Special rule for distributions under an annuity contract.—__ 
+>     “(5)  __Special rule for distributions under an annuity contract__  __.—__ 
 
 >     The amendments made by paragraphs (1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
 
@@ -1859,11 +1859,11 @@
 
 [Pub. L. 98–369, div. A, title II, § 222(c)][/us/pl/98/369/s222/c], July 18, 1984, [98 Stat. 774][/us/stat/98/774], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to contracts issued after the day which is 6 months after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Transitional rules for contracts issued before effective date.—__ 
+>     “(2)  __Transitional rules for contracts issued before effective date__  __.—__ 
 
 >     In the case of any contract (other than a single premium contract) which is issued on or before the day which is 6 months after the date of the enactment of this Act, for purposes of section 72(q)(1)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act), any investment in such contract which is made during any calendar year shall be treated as having been made on January 1 of such calendar year.”
 
@@ -1885,15 +1885,15 @@
 
 [Pub. L. 98–76, title II, § 227(b)][/us/pl/98/76/s227/b], Aug. 12, 1983, [97 Stat. 426][/us/stat/97/426], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by section 224 \[enacting [section 6050G of this title][/us/usc/t26/s6050G], amending this section and [section 86 of this title][/us/usc/t26/s86], and enacting provisions set out as a note under [section 231n of Title 45][/us/usc/t45/s231n], Railroads\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.
 
->     “(2) __Treatment of certain lump-sum payments received after__  __december 31, 1983__  __.—__ 
+>     “(2)  __Treatment of certain lump-sum payments received after __  __december 31, 1983__  __.—__ 
 
 >     The amendments made by section 224 shall not apply to any portion of a lump-sum payment received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.
 
->     “(3) __No fresh start.—__ 
+>     “(3)  __No fresh start__  __.—__ 
 
 >     For purposes of determining whether any benefit received after December 31, 1983, is includible in gross income by reason of section 72(r) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this Act, the amendments made by section 224 be treated as having been in effect during all periods before 1984.”
 
@@ -1907,29 +1907,29 @@
 
 [Pub. L. 97–248, title II, § 236(c)][/us/pl/97/248/s236/c], Sept. 3, 1982, [96 Stat. 510][/us/stat/96/510], as amended by [Pub. L. 97–448, title III, § 306(a)(11)][/us/pl/97/448/s306/a/11], Jan. 12, 1983, [96 Stat. 2404][/us/stat/96/2404]; [Pub. L. 98–369, div. A, title V, § 554][/us/pl/98/369/s554], title VII, § 713(b)(2), July 18, 1984, [98 Stat. 897][/us/stat/98/897], 957; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to loans, assignments, and pledges made after August 13, 1982. For purposes of the preceding sentence, the outstanding balance of any loan which is renegotiated, extended, renewed, or revised after such date shall be treated as an amount received as a loan on the date of such renegotiation, extension, renewal, or revision.
 
 >     “(2) __Exception for certain loans used to repay outstanding obligations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Any qualified refunding loan shall not be treated as a distribution by reason of the amendments made by this section to the extent such loan is repaid before August 14, 1983.
 
->         “(B) __Qualified refunding loan.—__ 
+>         “(B)  __Qualified refunding loan__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified refunding loan’ means any loan made after August 13, 1982, and before August 14, 1983, to the extent such loan is used to make a required principal payment.
 
->         “(C) __Required principal payment.—__ 
+>         “(C)  __Required principal payment__  __.—__ 
 
 >         For purposes of subparagraph (B), the term ‘required principal payment’ means any principal repayment on a loan made under the plan which was outstanding on August 13, 1982, if such repayment is required to be made after August 13, 1982, and before August 14, 1983 or if such loan was payable on demand.
 
->         “(D) __Special rule for non-key employees.—__ 
+>         “(D)  __Special rule for non-key employees__  __.—__ 
 
 >         In the case of a non-key employee (within the meaning of section 416(i)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), this paragraph shall be applied by substituting ‘January 1, 1985’ for ‘August 14, 1983’ each place it appears.
 
->     “(3) __Treatment of certain renegotiations.—__ 
+>     “(3)  __Treatment of certain renegotiations__  __.—__ 
 
 >     If—
 
@@ -1943,11 +1943,11 @@
 
 [Pub. L. 97–248, title II, § 265(c)][/us/pl/97/248/s265/c], Sept. 3, 1982, [96 Stat. 547][/us/stat/96/547], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on August 13, 1982.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 46, 50A, 53, 901, 1302, and 1304 of this title\] shall apply to distributions after December 31, 1982.”
 
@@ -2047,15 +2047,15 @@
 
 > “For purposes of this title \[see Tables for classification\]:
 
->     “(1) __Amendment of 1986 code.—__ 
+>     “(1)  __Amendment of 1986 code__  __.—__ 
 
 >     The term ‘1986 Code’ means the Internal Revenue Code of 1986.
 
->     “(2) __Amendment of erisa.—__ 
+>     “(2)  __Amendment of erisa__  __.—__ 
 
 >     The term ‘ERISA’ means the Employee Retirement Income Security Act of 1974 \[[Pub. L. 93–406][/us/pl/93/406]; see Short Title note under [section 1001 of Title 29][/us/usc/t29/s1001], Labor\].
 
->     “(3) __2006 act.—__ 
+>     “(3) __2006__  __act__  __.—__ 
 
 >     The term ‘2006 Act’ means the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280]; see Short Title of 2006 Amendment note under [section 1001 of Title 29][/us/usc/t29/s1001], Labor\].”
 

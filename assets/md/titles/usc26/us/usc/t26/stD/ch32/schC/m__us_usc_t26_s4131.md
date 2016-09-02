@@ -123,7 +123,7 @@
 
 [Pub. L. 103–66, title XIII, § 13421(c)][/us/pl/103/66/s13421/c], Aug. 10, 1993, [107 Stat. 566][/us/stat/107/566], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On any taxable vaccine—
 
@@ -137,23 +137,23 @@
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         The person holding any taxable vaccine to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before the last day of the 6th month beginning after the date of the enactment of this Act.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, terms used in this subsection which are also used in section 4131 of such Code shall have the respective meanings such terms have in such section.
 
->     “(4) __Other laws applicable.—__ 
+>     “(4)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4131 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 4131.”
 

@@ -237,11 +237,11 @@
 
 [Pub. L. 99–272, title X, § 10001(e)][/us/pl/99/272/s10001/e], Apr. 7, 1986, [100 Stat. 227][/us/stat/100/227], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 162 of this title][/us/usc/t26/s162]\] shall apply to plan years beginning on or after July 1, 1986.
 
->     “(2) __Special rule for collective bargaining agreements.—__ 
+>     “(2)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this section shall not apply to plan years beginning before the later of—
 

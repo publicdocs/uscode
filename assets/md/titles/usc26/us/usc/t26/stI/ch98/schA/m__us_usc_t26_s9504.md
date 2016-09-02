@@ -337,11 +337,11 @@ The date of the enactment of the Safe, Accountable, Flexible, Efficient Transpor
 
 [Pub. L. 98–369, div. A, title X, § 1016(e)][/us/pl/98/369/s1016/e], July 18, 1984, [98 Stat. 1021][/us/stat/98/1021], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending [section 9503 of this title][/us/usc/t26/s9503], and repealing [section 13107 of Title 46][/us/usc/t46/s13107], Shipping\] shall take effect on October 1, 1984.
 
->     “(2) __Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—__ 
+>     “(2)  __Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund__  __.—__ 
 
 >     The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] [section 13107 of title 46][/us/usc/t46/s13107], United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
 

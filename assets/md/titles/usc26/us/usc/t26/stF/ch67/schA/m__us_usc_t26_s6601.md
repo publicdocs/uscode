@@ -297,11 +297,11 @@
 
 [Pub. L. 105–206, title III, § 3301(c)][/us/pl/105/206/s3301/c], July 22, 1998, [112 Stat. 741][/us/stat/112/741], as amended by [Pub. L. 105–277, div. J, title IV, § 4002(d)][/us/pl/105/277/s4002/d], Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided under paragraph (2), the amendments made by this section \[amending this section and [section 6621 of this title][/us/usc/t26/s6621]\] shall apply to interest for periods beginning after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     Subject to any applicable statute of limitation not having expired with regard to either a tax underpayment or a tax overpayment, the amendments made by this section shall apply to interest for periods beginning before the date of the enactment of this Act if the taxpayer—
 
@@ -359,11 +359,11 @@
 
 [Pub. L. 99–514, title XV, § 1564(b)][/us/pl/99/514/s1564/b], Oct. 22, 1986, [100 Stat. 2762][/us/stat/100/2762], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to interest accruing after December 31, 1982.
 
->     “(2) __Statute of limitations.—__ 
+>     “(2)  __Statute of limitations__  __.—__ 
 
 >     If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
 

@@ -363,11 +363,11 @@
 
 [Pub. L. 99–514, title VI, § 654(b)][/us/pl/99/514/s654/b], Oct. 22, 1986, [100 Stat. 2298][/us/stat/100/2298], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].
 
->     “(2) __Treatment of certain existing series funds.—__ 
+>     “(2)  __Treatment of certain existing series funds__  __.—__ 
 
 >     In the case of a regulated investment company which has more than one fund on the date of the enactment of this act, and has before such date been treated for Federal income tax purposes as a single corporation—
 

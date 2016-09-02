@@ -417,11 +417,11 @@
 
 [Pub. L. 112–240, title III, § 321(b)][/us/pl/112/240/s321/b], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2012. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(2) __Amounts withheld on or before date of enactment.—__ 
+>     “(2)  __Amounts withheld on or before date of enactment__  __.—__ 
 
 >     In the case of a regulated investment company—
 
@@ -435,11 +435,11 @@
 
 [Pub. L. 111–312, title VII, § 749(b)][/us/pl/111/312/s749/b], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2010. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 17, 2010\].
 
->     “(2) __Amounts withheld on or before date of enactment.—__ 
+>     “(2)  __Amounts withheld on or before date of enactment__  __.—__ 
 
 >     In the case of a regulated investment company—
 
@@ -535,7 +535,7 @@
 
 [Pub. L. 99–514, title XII, § 1228][/us/pl/99/514/s1228], Oct. 22, 1986, [100 Stat. 2560][/us/stat/100/2560], as amended by [Pub. L. 100–647, title I, § 1012(m)][/us/pl/100/647/s1012/m], Nov. 10, 1988, [102 Stat. 3513][/us/stat/102/3513], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 897 of the Internal Revenue Code of 1986, gain shall not be recognized on the transfer, sale, exchange, or other disposition, of shares of stock of a United States real property holding company, if—
 
@@ -553,13 +553,13 @@
 
 >         In the case of any underpayment attributable to a failure to meet any requirement of this subsection, the period during which such underpayment may be assessed shall in no event expire before the date 5 years after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988.
 
->     “(b) __Member of a Qualified Ownership Group.—__ 
+>     “(b)  __Member of a Qualified Ownership Group__  __.—__ 
 
 >     For purposes of this section, the term ‘member of a qualified ownership group’ means a corporation incorporated on June 16, 1890, under the laws of the Netherlands or a corporation incorporated on October 18, 1897, under the laws of the United Kingdom or any corporation owned directly or indirectly by either or both such corporations.
 
 >     “(c) __\[Repealed.__  __[__  __Pub. L. 100–647, title I, § 1012(m)(2)__  __][/us/pl/100/647/s1012/m/2]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3513__  __][/us/stat/102/3513]__  __.\]__ 
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall take effect on the date of the enactment of this section \[Oct. 22, 1986\].”
 

@@ -81,7 +81,7 @@
 
 [Pub. L. 100–647, title VII, § 7106(b)][/us/pl/100/647/s7106/b], Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of any calendar month beginning before January 1, 1991—
 
@@ -95,7 +95,7 @@
 
 >         “(B) subsection (c) of such section shall not apply to so much of the tax imposed by such section as is attributable to the surtax rate.
 
->     “(2) __Surtax rate.—__ 
+>     “(2)  __Surtax rate__  __.—__ 
 
 >     For purposes of paragraph (1), the surtax rate shall be—
 

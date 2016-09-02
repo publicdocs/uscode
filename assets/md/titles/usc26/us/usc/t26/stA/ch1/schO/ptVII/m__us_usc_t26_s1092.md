@@ -489,11 +489,11 @@
 
 [Pub. L. 110–172, § 7(e)][/us/pl/110/172/s7/e], Dec. 29, 2007, [121 Stat. 2483][/us/stat/121/2483], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 45, 45H, 179B, 280C, 470, 1016, and 6501 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\] to which they relate.
 
->     “(2) __Identification requirement of amendment related to section 888 of the american jobs creation act of 2004.—__ 
+>     “(2)  __Identification requirement of amendment related to section 888 of the american jobs creation act of 2004__  __.—__ 
 
 >     The amendment made by subsection (d)(2)(A) \[amending this section\] shall apply to straddles acquired after the date of the enactment of this Act \[Dec. 29, 2007\].”
 
@@ -531,19 +531,19 @@
 
 [Pub. L. 98–369, div. A, title I, § 101(e)][/us/pl/98/369/s101/e], July 18, 1984, [98 Stat. 619][/us/stat/98/619], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to positions established after December 31, 1983, in taxable years ending after such date.
 
->     “(2) __Special rule for offsetting position stock.—__ 
+>     “(2)  __Special rule for offsetting position stock__  __.—__ 
 
 >     In the case of any stock of a corporation formed or availed of to take positions in personal property which offset positions taken by any shareholder, the amendments made by this section shall apply to positions established on or after May 23, 1983, in taxable years ending on or after such date.
 
->     “(3) __Subsection (c).—__ 
+>     “(3)  __Subsection__  __(c).—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to positions established after June 30, 1984, in taxable years ending after such date.
 
->     “(4) __Subsection (d).—__ 
+>     “(4)  __Subsection__  __(d).—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply to positions established after the date of the enactment of this Act in taxable years ending after such date.”
 
@@ -551,11 +551,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 103(b)][/us/pl/98/369/s103/b], (c), July 18, 1984, [98 Stat. 628][/us/stat/98/628], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(b) __Requirement That Regulations Be Issued Within 6 Months After the Date of Enactment.—__ 
+>     “(b)  __Requirement That Regulations Be Issued Within__  __6__  __ Months After the Date of Enactment__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall prescribe initial regulations under section 1092(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (including regulations relating to mixed straddles) not later than the date 6 months after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(c) __Effective Date of Regulations With Respect to Mixed Straddles.—__ 
+>     “(c)  __Effective Date of Regulations With Respect to Mixed Straddles__  __.—__ 
 
 >     The regulations described in subsection (b) with respect to the application of section 1233 of the Internal Revenue Code of 1986 to mixed straddles shall not apply to mixed straddles all of the positions of which were established before January 1, 1984.”
 
@@ -571,7 +571,7 @@
 
 [Pub. L. 97–34, title V, § 508][/us/pl/97/34/s508], Aug. 13, 1981, [95 Stat. 333][/us/stat/95/333], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title, amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under [section 1256 of this title][/us/usc/t26/s1256]\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
 
@@ -581,11 +581,11 @@
 
 >         The amendments made by section 506 \[amending [section 1236 of this title][/us/usc/t26/s1236]\] shall apply to property acquired by the taxpayer after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.
 
->         “(2) __Under section 1256(e)(2)(c) of code.—__ 
+>         “(2)  __Under section 1256__  __(e)(2)(c) of code.—__ 
 
 >         Section 1256(e)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply to property acquired and positions established by the taxpayer after December 31, 1981, in taxable years ending after such date.
 
->     “(c) __Election With Respect to Property Held on__  __June 23, 1981__  __.—__ 
+>     “(c)  __Election With Respect to Property Held on June__  __23, 1981.—__ 
 
 >     If the taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) with respect to all regulated futures contracts or positions held by the taxpayer on June 23, 1981, the amendments made by this title shall apply to all such contracts and positions, effective for periods after such date in taxable years ending after such date. For purposes of the preceding sentence, the term ‘regulated futures contract’ has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986, and the term ‘position’ has the meaning given to such term by section 1092(d)(2) of such Code.”
 
@@ -597,7 +597,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 108][/us/pl/98/369/s108], July 18, 1984, [98 Stat. 630][/us/stat/98/630], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1808(d), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2817, provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of any disposition of 1 or more positions—
 
@@ -607,23 +607,23 @@
 
 >         any loss from such disposition shall be allowed for the taxable year of the disposition if such loss is incurred in a trade or business, or if such loss is incurred in a transaction entered into for profit though not connected with a trade or business.
 
->     “(b) __Loss Incurred in a Trade or Business.—__ 
+>     “(b)  __Loss Incurred in a Trade or Business__  __.—__ 
 
 >     For purposes of subsection (a), any loss incurred by a commodities dealer in the trading of commodities shall be treated as a loss incurred in a trade or business.
 
->     “(c) __Net Loss Allowed.—__ 
+>     “(c)  __Net Loss Allowed__  __.—__ 
 
 >     If any loss with respect to a position described in paragraphs (1) and (2) of subsection (a) is not allowable as a deduction (after applying subsections (a) and (b)), such loss shall be allowed in determining the gain or loss from dispositions of other positions in the straddle to the extent required to accurately reflect the taxpayer’s net gain or loss from all positions in such straddle.
 
->     “(d) __Other Rules.—__ 
+>     “(d)  __Other Rules__  __.—__ 
 
 >     Except as otherwise provided in subsections (a) and (c) and in sections 1233 and 1234 of such Code, the determination of whether there is recognized gain or loss with respect to a position, and the amount and timing of such gain or loss, and the treatment of such gain or loss as long-term or short-term shall be made without regard to whether such position constitutes part of a straddle.
 
->     “(e) __Straddle.—__ 
+>     “(e)  __Straddle__  __.—__ 
 
 >     For purposes of this section, the term ‘straddle’ has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
 
->     “(f) __Commodities Dealer.—__ 
+>     “(f)  __Commodities Dealer__  __.—__ 
 
 >     For purposes of this section, the term ‘commodities dealer’ means any taxpayer who—
 
@@ -637,11 +637,11 @@
 
 >             “(B) 1 or more members of the families (as so defined) of such individuals.
 
->     “(g) __Regulated Futures Contracts.—__ 
+>     “(g)  __Regulated Futures Contracts__  __.—__ 
 
 >     For purposes of this section, the term ‘regulated futures contracts’ has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
 
->     “(h) __Syndicates.—__ 
+>     “(h)  __Syndicates__  __.—__ 
 
 >     For purposes of this section, any loss incurred by a person (other than a commodities dealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
 

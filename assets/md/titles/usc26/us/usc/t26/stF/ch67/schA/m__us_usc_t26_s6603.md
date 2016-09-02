@@ -79,11 +79,11 @@
 
 [Pub. L. 108–357, title VIII, § 842(c)][/us/pl/108/357/s842/c], Oct. 22, 2004, [118 Stat. 1599][/us/stat/118/1599], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to deposits made after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Coordination with deposits made under revenue procedure 84–58.—__ 
+>     “(2)  __Coordination with deposits made under revenue procedure 84–58__  __.—__ 
 
 >     In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in the nature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603.”
 

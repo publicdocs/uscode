@@ -159,7 +159,7 @@
 
 [Pub. L. 99–514, title XV, § 1502(c)][/us/pl/99/514/s1502/c], Oct. 22, 1986, [100 Stat. 2741][/us/stat/100/2741], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply—
 
@@ -175,7 +175,7 @@
 
 >         In the case of a failure to pay described in subparagraph (B), paragraph (2) of section 6651(d) of such Code (as added by subsection (a)) shall be applied by taking into account the first notice (or renotice) after December 31, 1986.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to amounts assessed after December 31, 1986, with respect to failures to pay which begin before, on, or after such date.”
 
@@ -209,7 +209,7 @@
 
 [Pub. L. 105–206, title III, § 3707][/us/pl/105/206/s3707], July 22, 1998, [112 Stat. 778][/us/stat/112/778], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The officers and employees of the Internal Revenue Service—
 
@@ -223,11 +223,11 @@
 
 >             “(B) shall disregard any such designation not located in the individual master file.
 
->     “(b) __Designation of Nonfilers Allowed.—__ 
+>     “(b)  __Designation of Nonfilers Allowed__  __.—__ 
 
 >     An officer or employee of the Internal Revenue Service may designate any appropriate taxpayer as a nonfiler, but shall remove such designation once the taxpayer has filed income tax returns for 2 consecutive taxable years and paid all taxes shown on such returns.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall take effect on the date of the enactment of this Act \[July 22, 1998\], except that the removal of any designation under subsection (a)(2)(A) shall not be required to begin before January 1, 1999.”
 

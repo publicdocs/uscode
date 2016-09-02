@@ -199,15 +199,15 @@
 
 >         “(1) __Eligibility.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to paragraph (5)(B), the Secretary of the Treasury shall disburse a $250 payment to each individual who, for any month during the 3-month period ending with the month which ends prior to the month that includes the date of the enactment of this Act \[Feb. 17, 2009\], is entitled to a benefit payment described in clause (i), (ii), or (iii) of subparagraph (B) or is eligible for a SSI cash benefit described in subparagraph (C).
 
->             “(B) __Benefit payment described.—__ 
+>             “(B)  __Benefit payment described__  __.—__ 
 
 >             For purposes of subparagraph (A):
 
->                 “(i) __Title ii benefit.—__ 
+>                 “(i)  __Title ii benefit__  __.—__ 
 
 >                 A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the Social Security Act ([42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(b))\[)\] under—
 
@@ -233,7 +233,7 @@
 
 >                          “(XI) section 228 of such Act ([42 U.S.C. 428][/us/usc/t42/s428]).
 
->                 “(ii) __Railroad retirement benefit.—__ 
+>                 “(ii)  __Railroad retirement benefit__  __.—__ 
 
 >                 A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231d(a)(ii)][/us/usc/t45/s231d/a/ii])) under—
 
@@ -253,7 +253,7 @@
 
 >                          “(VIII) section 7(b)(2) of such Act ([45 U.S.C. 231f(b)(2)][/us/usc/t45/s231f/b/2]) with respect to any of the benefit payments described in clause (i) of this subparagraph.
 
->                 “(iii) __Veterans benefit.—__ 
+>                 “(iii)  __Veterans benefit__  __.—__ 
 
 >                 A benefit payment described in this clause is a compensation or pension payment payable under—
 
@@ -267,19 +267,19 @@
 
 >                  to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code, who received that benefit during any month within the 3 month period ending with the month which ends prior to the month that includes the date of the enactment of this Act \[Feb. 17, 2009\].
 
->             “(C) __Ssi cash benefit described.—__ 
+>             “(C)  __Ssi cash benefit described__  __.—__ 
 
 >             A SSI cash benefit described in this subparagraph is a cash benefit payable under section 1611 (other than under subsection (e)(1)(B) of such section) or 1619(a) of the Social Security Act ([42 U.S.C. 1382][/us/usc/t42/s1382], 1382h\[(a)\]).
 
->         “(2) __Requirement.—__ 
+>         “(2)  __Requirement__  __.—__ 
 
 >         A payment shall be made under paragraph (1) only to individuals who reside in 1 of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, or the Northern Mariana Islands. For purposes of the preceding sentence, the determination of the individual’s residence shall be based on the current address of record under a program specified in paragraph (1).
 
->         “(3) __No double payments.—__ 
+>         “(3)  __No double payments__  __.—__ 
 
 >         An individual shall be paid only 1 payment under this section, regardless of whether the individual is entitled to, or eligible for, more than 1 benefit or cash payment described in paragraph (1).
 
->         “(4) __Limitation.—__ 
+>         “(4)  __Limitation__  __.—__ 
 
 >         A payment under this section shall not be made—
 
@@ -293,57 +293,57 @@
 
 >         “(5) __Timing and manner of payments.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of the Treasury shall commence disbursing payments under this section at the earliest practicable date but in no event later than 120 days after the date of enactment of this Act \[Feb. 17, 2009\]. The Secretary of the Treasury may disburse any payment electronically to an individual in such manner as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of paragraph (1).
 
->             “(B) __Deadline.—__ 
+>             “(B)  __Deadline__  __.—__ 
 
 >             No payments shall be disbursed under this section after December 31, 2010, regardless of any determinations of entitlement to, or eligibility for, such payments made after such date.
 
->     “(b) __Identification of Recipients.—__ 
+>     “(b)  __Identification of Recipients__  __.—__ 
 
 >     The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall certify the individuals entitled to receive payments under this section and provide the Secretary of the Treasury with the information needed to disburse such payments. A certification of an individual shall be unaffected by any subsequent determination or redetermination of the individual’s entitlement to, or eligibility for, a benefit specified in subparagraph (B) or (C) of subsection (a)(1).
 
 >     “(c) __Treatment of Payments.—__ 
 
->         “(1) __Payment to be disregarded for purposes of all federal and federally assisted programs.—__ 
+>         “(1)  __Payment to be disregarded for purposes of all federal and federally assisted programs__  __.—__ 
 
 >         A payment under subsection (a) shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for purposes of determining the eligibility of the recipient (or the recipient’s spouse or family) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 
->         “(2) __Payment not considered income for purposes of taxation.—__ 
+>         “(2)  __Payment not considered income for purposes of taxation__  __.—__ 
 
 >         A payment under subsection (a) shall not be considered as gross income for purposes of the Internal Revenue Code of 1986.
 
->         “(3) __Payments protected from assignment.—__ 
+>         “(3)  __Payments protected from assignment__  __.—__ 
 
 >         The provisions of sections 207 and 1631(d)(1) of the Social Security Act ([42 U.S.C. 407][/us/usc/t42/s407], 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231m(a)][/us/usc/t45/s231m/a]), and [section 5301 of title 38][/us/usc/t38/s5301], United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).
 
->         “(4) __Payments subject to offset.—__ 
+>         “(4)  __Payments subject to offset__  __.—__ 
 
 >         Notwithstanding paragraph (3), for purposes of [section 3716 of title 31][/us/usc/t31/s3716], United States Code, any payment made under this section shall not be considered a benefit payment or cash benefit made under the applicable program described in subparagraph (B) or (C) of subsection (a)(1) and all amounts paid shall be subject to offset to collect delinquent debts.
 
 >     “(d) __Payment to Representative Payees and Fiduciaries.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In any case in which an individual who is entitled to a payment under subsection (a) and whose benefit payment or cash benefit described in paragraph (1) of that subsection is paid to a representative payee or fiduciary, the payment under subsection (a) shall be made to the individual’s representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.
 
 >         “(2) __Applicability.—__ 
 
->             “(A) __Payment on the basis of a title ii or ssi benefit.—__ 
+>             “(A)  __Payment on the basis of a title ii or ssi benefit__  __.—__ 
 
 >             Section 1129(a)(3) of the Social Security Act ([42 U.S.C. 1320a–8(a)(3)][/us/usc/t42/s1320a–8/a/3]) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(i) or (1)(C) of subsection (a) in the same manner as such section applies to a payment under title II or XVI of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\].
 
->             “(B) __Payment on the basis of a railroad retirement benefit.—__ 
+>             “(B)  __Payment on the basis of a railroad retirement benefit__  __.—__ 
 
 >             Section 13 of the Railroad Retirement Act \[of 1974\] ([45 U.S.C. 231][/us/usc/t45/s231]l) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[[45 U.S.C. 231][/us/usc/t45/s231] et seq.\].
 
->             “(C) __Payment on the basis of a veterans benefit.—__ 
+>             “(C)  __Payment on the basis of a veterans benefit__  __.—__ 
 
 >             Sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(iii) of subsection (a) in the same manner as those sections apply to a payment under that title.
 
->     “(e) __Appropriation.—__ 
+>     “(e)  __Appropriation__  __.—__ 
 
 >     Out of any sums in the Treasury of the United States not otherwise appropriated, the following sums are appropriated for the period of fiscal years 2009 through 2011, to remain available until expended, to carry out this section:
 
@@ -381,15 +381,15 @@
 
 [Pub. L. 111–5, div. B, title II, § 2202][/us/pl/111/5/s2202], Feb. 17, 2009, [123 Stat. 454][/us/stat/123/454], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for the first taxable year beginning in 2009 an amount equal \[to\] $250 ($500 in the case of a joint return where both spouses are eligible individuals).
 
->     “(b) __Eligible Individual.—__ 
+>     “(b)  __Eligible Individual__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘eligible individual’ means any individual—
 
@@ -397,7 +397,7 @@
 
 >             “(B) who does not receive a payment under section 2201 \[set out above\] during such taxable year.
 
->         “(2) __Identification number requirement.—__ 
+>         “(2)  __Identification number requirement__  __.—__ 
 
 >         Such term shall not include any individual who does not include on the return of tax for the taxable year—
 
@@ -411,19 +411,19 @@
 
 >         “(1) __Refundable credit.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986.
 
->             “(B) __Appropriations.—__ 
+>             “(B)  __Appropriations__  __.—__ 
 
 >             For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
->         “(2) __Deficiency rules.—__ 
+>         “(2)  __Deficiency rules__  __.—__ 
 
 >         For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
->     “(d) __Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—__ 
+>     “(d)  __Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs__  __.—__ 
 
 >     Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
 
@@ -433,15 +433,15 @@
 
 >     “(1) __Payments to possessions.—__ 
 
->         “(A) __Mirror code possession.—__ 
+>         “(A)  __Mirror code possession__  __.—__ 
 
 >         The Secretary of the Treasury shall make a payment to each possession of the United States with a mirror code tax system in an amount equal to the loss to that possession by reason of the amendments made by this section. Such amount shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
->         “(B) __Other possessions.—__ 
+>         “(B)  __Other possessions__  __.—__ 
 
 >         The Secretary of the Treasury shall make a payment to each possession of the United States which does not have a mirror code tax system in an amount estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payment to the residents of such possession.
 
->     “(2) __Coordination with credit allowed against united states income taxes.—__ 
+>     “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
 >     No credit shall be allowed against United States income taxes under section 6428 of the Internal Revenue Code of 1986 (as amended by this section) to any person—
 
@@ -451,15 +451,15 @@
 
 >     “(3) __Definitions and special rules.—__ 
 
->         “(A) __Possession of the united states.—__ 
+>         “(A)  __Possession of the united states__  __.—__ 
 
 >         For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
->         “(B) __Mirror code tax system.—__ 
+>         “(B)  __Mirror code tax system__  __.—__ 
 
 >         For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
->         “(C) __Treatment of payments.—__ 
+>         “(C)  __Treatment of payments__  __.—__ 
 
 >         For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 6428 of the Internal Revenue Code of 1986 (as amended by this section).”
 

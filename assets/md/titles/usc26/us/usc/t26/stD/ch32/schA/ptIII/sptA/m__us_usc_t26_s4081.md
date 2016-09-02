@@ -629,11 +629,11 @@
 
 [Pub. L. 101–508, title XI, § 11212(f)][/us/pl/101/508/s11212/f], Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 4103 of this title][/us/usc/t26/s4103] and amending this section and sections 4093, 4101, 4222, 6103, 6416, and 6724 of this title\] shall take effect on July 1, 1991.
 
->     “(2) __Registration, etc.—__ 
+>     “(2)  __Registration, etc__  __.—__ 
 
 >     The amendments made by subsections (b), (c), and (e) (other than paragraph (2) thereof) \[enacting [section 4103 of this title][/us/usc/t26/s4103] and amending sections 4093, 4101, 4222, 6103, and 6724 of this title\] shall take effect on December 1, 1990.”
 
@@ -709,11 +709,11 @@
 
 [Pub. L. 109–59, title XI, § 11141][/us/pl/109/59/s11141], Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a Motor Fuel Tax Enforcement Advisory Commission (in this section referred to as the ‘Commission’).
 
->     “(b) __Function.—__ 
+>     “(b)  __Function__  __.—__ 
 
 >     The Commission shall—
 
@@ -741,7 +741,7 @@
 
 >     “(c) __Membership.—__ 
 
->         “(1) __Appointment.—__ 
+>         “(1)  __Appointment__  __.—__ 
 
 >         The Commission shall be composed of the following representatives appointed by the Chairmen and the Ranking Members of the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives:
 
@@ -759,35 +759,35 @@
 
 >             “(G) Two representatives from the staff of the Committee on Finance of the Senate and two representatives from the staff of the Committee on Ways and Means of the House of Representatives.
 
->         “(2) __Terms.—__ 
+>         “(2)  __Terms__  __.—__ 
 
 >         Members shall be appointed for the life of the Commission.
 
->         “(3) __Vacancies.—__ 
+>         “(3)  __Vacancies__  __.—__ 
 
 >         A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
->         “(4) __Travel expenses.—__ 
+>         “(4)  __Travel expenses__  __.—__ 
 
 >         Members shall serve without pay but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
->         “(5) __Chairman.—__ 
+>         “(5)  __Chairman__  __.—__ 
 
 >         The Chairman of the Commission shall be elected by the members.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Such sums as are necessary shall be available from the Highway Trust fund for the expenses of the Commission.
 
->     “(e) __Consultation.—__ 
+>     “(e)  __Consultation__  __.—__ 
 
 >     Upon request of the Commission, representatives of the Department of the Treasury and the Internal Revenue Service shall be available for consultation to assist the Commission in carrying out its duties under this section.
 
->     “(f) __Obtaining Data.—__ 
+>     “(f)  __Obtaining Data__  __.—__ 
 
 >     The Commission may secure directly from any department or agency of the United States, information (other than information required by any law to be kept confidential by such department or agency) necessary for the Commission to carry out its duties under this section. Upon request of the Commission, the head of that department or agency shall furnish such nonconfidential information to the Commission. The Commission shall also gather evidence through such means as it may deem appropriate, including through holding hearings and soliciting comments by means of Federal Register notices.
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The Commission shall terminate as of the close of September 30, 2009.”
 
@@ -795,7 +795,7 @@
 
 [Pub. L. 108–357, title VIII, § 853(f)][/us/pl/108/357/s853/f], Oct. 22, 2004, [118 Stat. 1614][/us/stat/118/1614], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     There is hereby imposed on aviation-grade kerosene held on January 1, 2005, by any person a tax equal to—
 
@@ -809,21 +809,21 @@
 
 >             “(ii) in the case of kerosene held exclusively for such person’s own use, the amount which such person would (but for this clause) reasonably expect (as of such date) to be paid as a refund under section 6427(l) of such Code with respect to such kerosene.
 
->     “(2) __Exception for fuel held in aircraft fuel tank.—__ 
+>     “(2)  __Exception for fuel held in aircraft fuel tank__  __.—__ 
 
 >     Paragraph (1) shall not apply to kerosene held in the fuel tank of an aircraft on January 1, 2005.
 
 >     “(3) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         The person holding the kerosene on January 1, 2005, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method and time for payment.—__ 
+>         “(B)  __Method and time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid at such time and in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe, including the nonapplication of such tax on de minimis amounts of kerosene.
 
->     “(4) __Transfer of floor stock tax revenues to trust funds.—__ 
+>     “(4)  __Transfer of floor stock tax revenues to trust funds__  __.—__ 
 
 >     For purposes of determining the amount transferred to any trust fund, the tax imposed by this subsection shall be treated as imposed by section 4081 of the Internal Revenue Code of 1986—
 
@@ -831,93 +831,93 @@
 
 >         “(B) at the rate under section 4081(a)(2)(A)(iv) of such Code to the extent of the remainder.
 
->     “(5) __Held by a person.—__ 
+>     “(5)  __Held by a person__  __.—__ 
 
 >     For purposes of this subsection, kerosene shall be considered as held by a person if title thereto has passed to such person (whether or not delivery to the person has been made).
 
->     “(6) __Other laws applicable.—__ 
+>     “(6)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the tax imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock tax imposed by paragraph (1) to the same extent as if such tax were imposed by such section.”
 
 [Pub. L. 105–34, title X, § 1032(g)][/us/pl/105/34/s1032/g], Aug. 5, 1997, [111 Stat. 936][/us/stat/111/936], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     In the case of kerosene which is held on July 1, 1998, by any person, there is hereby imposed a floor stocks tax of 24.4 cents per gallon.
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding kerosene on July 1, 1998, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before August 31, 1998.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Held by a person.—__ 
+>         “(A)  __Held by a person__  __.—__ 
 
 >         Kerosene shall be considered as ‘held by a person’ if title thereto has passed to such person (whether or not delivery to the person has been made).
 
->         “(B) __Secretary.—__ 
+>         “(B)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
->     “(4) __Exception for exempt uses.—__ 
+>     “(4)  __Exception for exempt uses__  __.—__ 
 
 >     The tax imposed by paragraph (1) shall not apply to kerosene held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 of the Internal Revenue Code of 1986 is allowable for such use.
 
->     “(5) __Exception for fuel held in vehicle tank.—__ 
+>     “(5)  __Exception for fuel held in vehicle tank__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on kerosene held in the tank of a motor vehicle or motorboat.
 
 >     “(6) __Exception for certain amounts of fuel.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         No tax shall be imposed by paragraph (1) on kerosene held on July 1, 1998, by any person if the aggregate amount of kerosene held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
->         “(B) __Exempt fuel.—__ 
+>         “(B)  __Exempt fuel__  __.—__ 
 
 >         For purposes of subparagraph (A), there shall not be taken into account fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
 
->         “(C) __Controlled groups.—__ 
+>         “(C)  __Controlled groups__  __.—__ 
 
 >         For purposes of this paragraph—
 
 >             “(i) __Corporations.—__ 
 
->                 “(I) __In general.—__ 
+>                 “(I)  __In general__  __.—__ 
 
 >                 All persons treated as a controlled group shall be treated as 1 person.
 
->                 “(II) __Controlled group.—__ 
+>                 “(II)  __Controlled group__  __.—__ 
 
 >                 The term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
->             “(ii) __Nonincorporated persons under common control.—__ 
+>             “(ii)  __Nonincorporated persons under common control__  __.—__ 
 
 >             Under regulations prescribed by the Secretary, principles similar to the principles of clause (i) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
->     “(7) __Coordination with section 4081.—__ 
+>     “(7)  __Coordination with section 4081__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on kerosene to the extent that tax has been (or will be) imposed on such kerosene under section 4081 or 4091 of such Code.
 
->     “(8) __Other laws applicable.—__ 
+>     “(8)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081.”
 
 [Pub. L. 105–2, § 2(d)][/us/pl/105/2/s2/d], Feb. 28, 1997, [111 Stat. 6][/us/stat/111/6], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     In the case of any aviation liquid on which tax was imposed under section 4081 or 4091 of the Internal Revenue Code of 1986 before the tax effective date and which is held on such date by any person, there is hereby imposed a floor stocks tax of—
 
@@ -927,47 +927,47 @@
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding, on the tax effective date, any aviation liquid to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before the first day of the 5th month beginning after the tax effective date.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Tax effective date.—__ 
+>         “(A)  __Tax effective date__  __.—__ 
 
 >         The term ‘tax effective date’ means the date which is 7 days after the date of the enactment of this Act \[Feb. 28, 1997\].
 
->         “(B) __Aviation liquid.—__ 
+>         “(B)  __Aviation liquid__  __.—__ 
 
 >         The term ‘aviation liquid’ means aviation gasoline and aviation fuel.
 
->         “(C) __Aviation gasoline.—__ 
+>         “(C)  __Aviation gasoline__  __.—__ 
 
 >         The term ‘aviation gasoline’ has the meaning given such term in section 4081 of such Code.
 
->         “(D) __Aviation fuel.—__ 
+>         “(D)  __Aviation fuel__  __.—__ 
 
 >         The term ‘aviation fuel’ has the meaning given such term by section 4093 of such Code.
 
->         “(E) __Held by a person.—__ 
+>         “(E)  __Held by a person__  __.—__ 
 
 >         Aviation liquid shall be considered as ‘held by a person’ if title thereto has passed to such person (whether or not delivery to the person has been made).
 
->         “(F) __Secretary.—__ 
+>         “(F)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or the Secretary’s delegate.
 
->     “(4) __Exception for exempt uses.—__ 
+>     “(4)  __Exception for exempt uses__  __.—__ 
 
 >     The tax imposed by paragraph (1) shall not apply to—
 
@@ -977,91 +977,91 @@
 
 >     “(5) __Exception for certain amounts of fuel.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         No tax shall be imposed by paragraph (1) on any aviation liquid held on the tax effective date by any person if the aggregate amount of such liquid (determined separately for aviation gasoline and aviation fuel) held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
->         “(B) __Exempt fuel.—__ 
+>         “(B)  __Exempt fuel__  __.—__ 
 
 >         Any liquid to which the tax imposed by paragraph (1) does not apply by reason of paragraph (4) shall not be taken into account under subparagraph (A).
 
->         “(C) __Controlled groups.—__ 
+>         “(C)  __Controlled groups__  __.—__ 
 
 >         For purposes of this paragraph—
 
 >             “(i) __Corporations.—__ 
 
->                 “(I) __In general.—__ 
+>                 “(I)  __In general__  __.—__ 
 
 >                 All persons treated as a controlled group shall be treated as 1 person.
 
->                 “(II) __Controlled group.—__ 
+>                 “(II)  __Controlled group__  __.—__ 
 
 >                 The term ‘controlled group’ has the meaning given such term by subsection (a) of section 1563 of such Code; except that for such purposes, the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
->             “(ii) __Nonincorporated persons under common control.—__ 
+>             “(ii)  __Nonincorporated persons under common control__  __.—__ 
 
 >             Under regulations prescribed by the Secretary, principles similar to the principles of clause (i) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
->     “(6) __Other laws applicable.—__ 
+>     “(6)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 or 4091 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081 or 4091, as the case may be.”
 
 [Pub. L. 103–66, title XIII, § 13241(h)][/us/pl/103/66/s13241/h], Aug. 10, 1993, [107 Stat. 512][/us/stat/107/512], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     In the case of gasoline, diesel fuel, and aviation fuel on which tax was imposed under section 4081 or 4091 of the Internal Revenue Code of 1986 before October 1, 1993, and which is held on such date by any person, there is hereby imposed a floor stocks tax of 4.3 cents per gallon on such gasoline, diesel fuel, and aviation fuel.
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding gasoline, diesel fuel, or aviation fuel on October 1, 1993, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before November 30, 1993.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Held by a person.—__ 
+>         “(A)  __Held by a person__  __.—__ 
 
 >         Gasoline, diesel fuel, and aviation fuel shall be considered as ‘held by a person’ if title thereto has passed to such person (whether or not delivery to the person has been made).
 
->         “(B) __Gasoline.—__ 
+>         “(B)  __Gasoline__  __.—__ 
 
 >         The term ‘gasoline’ has the meaning given such term by section 4082 \[see section 4083\] of such Code.
 
->         “(C) __Diesel fuel.—__ 
+>         “(C)  __Diesel fuel__  __.—__ 
 
 >         The term ‘diesel fuel’ has the meaning given such term by section 4092 \[see section 4083\] of such Code.
 
->         “(D) __Aviation fuel.—__ 
+>         “(D)  __Aviation fuel__  __.—__ 
 
 >         The term ‘aviation fuel’ has the meaning given such term by section 4092 \[see section 4093\] of such Code.
 
->         “(E) __Secretary.—__ 
+>         “(E)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
->     “(4) __Exception for exempt uses.—__ 
+>     “(4)  __Exception for exempt uses__  __.—__ 
 
 >     The tax imposed by paragraph (1) shall not apply to gasoline, diesel fuel, or aviation fuel held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 or 4091 of such Code, as the case may be, is allowable for such use.
 
->     “(5) __Exception for fuel held in vehicle tank.—__ 
+>     “(5)  __Exception for fuel held in vehicle tank__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on gasoline or diesel fuel held in the tank of a motor vehicle or motorboat.
 
 >     “(6) __Exception for certain amounts of fuel.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         No tax shall be imposed by paragraph (1)—
 
@@ -1071,35 +1071,35 @@
 
 >             The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
->         “(B) __Exempt fuel.—__ 
+>         “(B)  __Exempt fuel__  __.—__ 
 
 >         For purposes of subparagraph (A), there shall not be taken into account fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4) or (5).
 
->         “(C) __Controlled groups.—__ 
+>         “(C)  __Controlled groups__  __.—__ 
 
 >         For purposes of this paragraph—
 
 >             “(i) __Corporations.—__ 
 
->                 “(I) __In general.—__ 
+>                 “(I)  __In general__  __.—__ 
 
 >                 All persons treated as a controlled group shall be treated as 1 person.
 
->                 “(II) __Controlled group.—__ 
+>                 “(II)  __Controlled group__  __.—__ 
 
 >                 The term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
->             “(ii) __Nonincorporated persons under common control.—__ 
+>             “(ii)  __Nonincorporated persons under common control__  __.—__ 
 
 >             Under regulations prescribed by the Secretary, principles similar to the principles of clause (i) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
->     “(7) __Other law applicable.—__ 
+>     “(7)  __Other law applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code in the case of gasoline and section 4091 of such Code in the case of diesel fuel and aviation fuel shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4081 or 4091.”
 
 [Pub. L. 103–66, title XIII, § 13243][/us/pl/103/66/s13243], Aug. 10, 1993, [107 Stat. 529][/us/stat/107/529], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is hereby imposed a floor stocks tax on diesel fuel held by any person on January 1, 1994, if—
 
@@ -1107,47 +1107,47 @@
 
 >         “(2) tax would have been imposed by section 4081 of such Code, as amended by this Act, on any prior removal, entry, or sale of such fuel had such section 4081 applied to such fuel for periods before January 1, 1994.
 
->     “(b) __Rate of Tax.—__ 
+>     “(b)  __Rate of Tax__  __.—__ 
 
 >     The rate of the tax imposed by subsection (a) shall be the amount of tax which would be imposed under section 4081 of the Internal Revenue Code of 1986 if there were a taxable sale of such fuel on such date.
 
 >     “(c) __Liability and Payment of Tax.—__ 
 
->         “(1) __Liability for tax.—__ 
+>         “(1)  __Liability for tax__  __.—__ 
 
 >         A person holding the diesel fuel on January 1, 1994, to which the tax imposed by this section applies shall be liable for such tax.
 
->         “(2) __Method of payment.—__ 
+>         “(2)  __Method of payment__  __.—__ 
 
 >         The tax imposed by this section shall be paid in such manner as the Secretary shall prescribe.
 
->         “(3) __Time for payment.—__ 
+>         “(3)  __Time for payment__  __.—__ 
 
 >         The tax imposed by this section shall be paid on or before July 31, 1994.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Diesel fuel.—__ 
+>         “(1)  __Diesel fuel__  __.—__ 
 
 >         The term ‘diesel fuel’ has the meaning given such term by section 4083(a) of such Code.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
 >     “(e) __Exceptions.—__ 
 
->         “(1) __Persons entitled to credit or refund.—__ 
+>         “(1)  __Persons entitled to credit or refund__  __.—__ 
 
 >         The tax imposed by this section shall not apply to fuel held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 is allowable for such use.
 
->         “(2) __Compliance with dyeing required.—__ 
+>         “(2)  __Compliance with dyeing required__  __.—__ 
 
 >         Paragraph (1) shall not apply to the holder of any fuel if the holder of such fuel fails to comply with any requirement imposed by the Secretary with respect to dyeing and marking such fuel.
 
->     “(f) __Other Laws Applicable.—__ 
+>     “(f)  __Other Laws Applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4081 of such Code shall, insofar as applicable and not inconsistent with the provisions of this section, apply with respect to the floor stock taxes imposed by this section to the same extent as if such taxes were imposed by such section 4081.”
 
@@ -1163,15 +1163,15 @@
 
 [Pub. L. 97–424, title V, § 518][/us/pl/97/424/s518], Jan. 6, 1983, [96 Stat. 2184][/us/stat/96/2184], as amended by [Pub. L. 98–369, div. A, title VII, § 734(i)][/us/pl/98/369/s734/i], July 18, 1984, [98 Stat. 980][/us/stat/98/980]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __14-Day Extension.—__ 
+>     “(a) __14-__  __Day Extension__  __.—__ 
 
 >     The Secretary shall prescribe regulations which permit any qualified person whose liability for tax under section 4081 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is payable with respect to semi-monthly periods to pay such tax on or before the day which is 14 days after the close of such semi-monthly period if such payment is made by wire transfer to, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, any Federal Reserve Bank.
 
->     “(b) __Qualified Person Defined.—__ 
+>     “(b)  __Qualified Person Defined__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified person’ means—
 
@@ -1179,11 +1179,11 @@
 
 >             “(B) any independent refiner (within the meaning of section 4995(b)(4) of such Code).
 
->         “(2) __Aggregation rules.—__ 
+>         “(2)  __Aggregation rules__  __.—__ 
 
 >         For purposes of paragraph (1), in determining whether any person’s production exceeds 1,000 barrels per day, rules similar to the rules of section 4992(e) of the Internal Revenue Code of 1986 shall apply.
 
->     “(c) __Special Rule Where 14th Day Falls on Saturday, Sunday, or Holiday.—__ 
+>     “(c)  __Special Rule Where__  __14__  __th Day Falls on Saturday, Sunday, or Holiday__  __.—__ 
 
 >     If, but for this subsection, the due date under subsection (a) would fall on a Saturday, Sunday, or a holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday.”
 

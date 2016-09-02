@@ -151,11 +151,11 @@
 
 [Pub. L. 109–222, title V, § 516(d)][/us/pl/109/222/s516/d], May 17, 2006, [120 Stat. 372][/us/stat/120/372], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6011, 6033, and 6652 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[May 17, 2006\], with respect to transactions before, on, or after such date, except that no tax under section 4965(a) of the Internal Revenue Code of 1986 (as added by this section) shall apply with respect to income or proceeds that are properly allocable to any period ending on or before the date which is 90 days after such date of enactment.
 
->     “(2) __Disclosure.—__ 
+>     “(2)  __Disclosure__  __.—__ 
 
 >     The amendments made by subsections (b) and (c) \[amending sections 6011, 6033, and 6652 of this title\] shall apply to disclosures the due date for which are after the date of the enactment of this Act.”
 

@@ -281,17 +281,17 @@
 
 [Pub. L. 98–369, div. B, title VI, § 2681(b)][/us/pl/98/369/s2681/b], July 18, 1984, [98 Stat. 1173][/us/stat/98/1173], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to articles brought into the United States on or after March 1, 1984.
 
 >     “(2) __Exception for puerto rico for periods before__  __january 1, 1985__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to the limitations of subparagraphs (B) and (C), the amendments made by subsection (a) \[amending this section\] shall not apply with respect to articles containing distilled spirits brought into the United States from Puerto Rico after February 29, 1984, and before January 1, 1985.
 
->         “(B) __$130,000,000 limitation.—__ 
+>         “(B) __$130,000,000__  __limitation__  __.—__ 
 
 >         In the case of such articles brought into the United States after February 29, 1984, and before July 1, 1984, the aggregate amount payable to Puerto Rico by reason of subparagraph (A) shall not exceed the excess of—
 
@@ -299,7 +299,7 @@
 
 >             “(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
 
->         “(C) __$75,000,000 limitation.—__ 
+>         “(C) __$75,000,000__  __limitation__  __.—__ 
 
 >         The aggregate amount payable to Puerto Rico by reason of subparagraph (A) shall not exceed $75,000,000 in the case of articles—
 
@@ -313,35 +313,35 @@
 
 >     “(3) __Limitation on incentive payments to united states distillers.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of articles to which this paragraph applies, the aggregate amount of incentive payments paid to any United States distiller with respect to such articles shall not exceed the limitation described in subparagraph (C).
 
->         “(B) __Articles to which paragraph applies.—__ 
+>         “(B)  __Articles to which paragraph applies__  __.—__ 
 
 >         This paragraph shall apply to any article containing distilled spirits described in clauses (i) through (iv) of paragraph (2)(C).
 
 >         “(C) __Limitation.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The limitation described in this subparagraph is $1,500,000.
 
->             “(ii) __Special rule.—__ 
+>             “(ii)  __Special rule__  __.—__ 
 
 >             The limitation described in this subparagraph shall be zero with respect to any distiller who was not entitled to or receiving incentive payments as of March 1, 1984.
 
->         “(D) __Payments in excess of limitation.—__ 
+>         “(D)  __Payments in excess of limitation__  __.—__ 
 
 >         If any United States distiller receives any incentive payment with respect to articles to which this paragraph applies in excess of the limitation described in subparagraph (C), such distiller shall pay to the United States the total amount of such incentive payments with respect to such articles in the same manner, and subject to the same penalties, as if such amount were tax due and payable under section 5001 of such Code on the date such payments were received.
 
 >         “(E) __Incentive payments.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘incentive payment’ means any payment made directly or indirectly by the commonwealth of Puerto Rico to any United States distiller as an incentive to engage in redistillation operations.
 
->             “(ii) __Transportation payments excluded.—__ 
+>             “(ii)  __Transportation payments excluded__  __.—__ 
 
 >             Such term shall not include any payment of a direct cost of transportation to or from Puerto Rico with respect to any article to which this paragraph applies.”
 
@@ -375,7 +375,7 @@
 
 > “Notwithstanding section 7652 of the Internal Revenue Code of 1986, the following rules shall apply with respect to any transfer before the first day of the month within which the date of the enactment of the Trade and Development Act of 2000 \[May 18, 2000\] occurs, of amounts relating to the increase in the cover over of taxes by reason of the amendment made by subsection (a) \[amending this section\]:
 
->     “(1) __Initial transfer of incremental increase in cover over.—__ 
+>     “(1)  __Initial transfer of incremental increase in cover over__  __.—__ 
 
 >     The Secretary of the Treasury shall, within 15 days after the date of the enactment of this Act \[Dec. 17, 1999\], transfer an amount equal to the lesser of—
 
@@ -383,7 +383,7 @@
 
 >         “(B) $20,000,000.
 
->     “(2) __Second transfer of incremental increase in cover over attributable to periods before resumption of regular payments.—__ 
+>     “(2)  __Second transfer of incremental increase in cover over attributable to periods before resumption of regular payments__  __.—__ 
 
 >     The Secretary of the Treasury shall transfer on the first payment date after the date of the enactment of the Trade and Development Act of 2000 \[May 18, 2000\] an amount equal to the excess of—
 

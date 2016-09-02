@@ -35,7 +35,7 @@
 
 [Pub. L. 109–59, title XI, § 11146][/us/pl/109/59/s11146], Aug. 10, 2005, [119 Stat. 1966][/us/stat/119/1966], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If a State owns all of the outstanding stock of a corporation—
 
@@ -45,7 +45,7 @@
 
 >         “(3) substantially all of the activities of which consist of the ownership, leasing, and operation by such corporation of facilities, equipment, and other property used by the corporation or other persons for railroad transportation and for economic development purposes for the benefit of the State and its citizens, then, to the extent such activities are of a type which are an essential governmental function within the meaning of section 115 of the Internal Revenue Code of 1986, income derived from such activities by the corporation shall be treated as accruing to the State for purposes of section 115 of such Code.
 
->     “(b) __Gain or Loss not Recognized on Conversion.—__ 
+>     “(b)  __Gain or Loss not Recognized on Conversion__  __.—__ 
 
 >     Notwithstanding section 337(d) of the Internal Revenue Code of 1986—
 
@@ -55,7 +55,7 @@
 
 >     “(c) __Tax-Exempt Financing.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any obligation issued by a corporation described in subsection (a) at least 95 percent of the net proceeds (as defined in section 150(a) of the Internal Revenue Code of 1986) of which are to be used to provide for the acquisition, construction, or improvement of railroad transportation infrastructure (including railroad terminal facilities)—
 
@@ -63,23 +63,23 @@
 
 >             “(B) shall not be treated as a private activity bond (within the meaning of section 103(b)(1) of such Code) solely by reason of the ownership or use of such railroad transportation infrastructure by the corporation.
 
->         “(2) __No inference.—__ 
+>         “(2)  __No inference__  __.—__ 
 
 >         Except as provided in paragraph (1), nothing in this subsection shall be construed to affect the treatment of the private use of proceeds or property financed with obligations issued by the corporation for purposes of section 103 of the Internal Revenue Code of 1986 and part IV of subchapter B \[probably means part IV of subchapter B of chapter 1\] of such Code.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Real estate investment trust.—__ 
+>         “(1)  __Real estate investment trust__  __.—__ 
 
 >         The term ‘real estate investment trust’ has the meaning given such term by section 856(a) of the Internal Revenue Code of 1986.
 
->         “(2) __Non-operating class iii railroad.—__ 
+>         “(2)  __Non-operating class iii railroad__  __.—__ 
 
 >         The term ‘non-operating class III railroad’ has the meaning given such term by part A of subtitle IV of title 49, United States Code ([49 U.S.C. 10101][/us/usc/t49/s10101] et seq.), and the regulations thereunder.
 
->         “(3) __State.—__ 
+>         “(3)  __State__  __.—__ 
 
 >         The term ‘State’ includes—
 
@@ -89,11 +89,11 @@
 
 >     “(e) __Applicability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section shall apply on and after the date on which a State becomes the owner of all of the outstanding stock of a corporation described in subsection (a) through action of such corporation’s board of directors.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         This section shall not apply to any State which—
 

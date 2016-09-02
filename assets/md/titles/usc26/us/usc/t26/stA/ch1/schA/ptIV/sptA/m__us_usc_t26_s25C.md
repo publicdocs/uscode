@@ -281,21 +281,21 @@
 
 [Pub. L. 111–5, div. B, title I, § 1103(c)][/us/pl/111/5/s1103/c], Feb. 17, 2009, [123 Stat. 321][/us/stat/123/321], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section and sections 25D and 48 to 48B of this title\] shall apply to periods after December 31, 2008, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\]).
 
->     “(2) __Conforming amendments.—__ 
+>     “(2)  __Conforming amendments__  __.—__ 
 
 >     The amendments made by subparagraphs (A) and (B) of subsection (b)(2) \[amending this section and [section 25D of this title][/us/usc/t26/s25D]\] shall apply to taxable years beginning after December 31, 2008.”
 
 [Pub. L. 111–5, div. B, title I, § 1121(f)][/us/pl/111/5/s1121/f], Feb. 17, 2009, [123 Stat. 324][/us/stat/123/324], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.
 
->     “(2) __Efficiency standards.—__ 
+>     “(2)  __Efficiency standards__  __.—__ 
 
 >     The amendments made by paragraphs (1), (2), and (3) of subsection (b) and subsections (c) and (d) shall apply to property placed in service after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -303,11 +303,11 @@
 
 [Pub. L. 110–343, div. B, title III, § 302(f)][/us/pl/110/343/s302/f], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made \[by\] this section \[amending this section\] shall apply to expenditures made after December 31, 2008.
 
->     “(2) __Modification of qualified energy efficiency improvements.—__ 
+>     “(2)  __Modification of qualified energy efficiency improvements__  __.—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\].”
 

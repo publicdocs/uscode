@@ -63,11 +63,11 @@
 
         (1) __In general__ 
 
-            The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)][/us/usc/t30/s1232/h]).
+            The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)][/us/usc/t30/s1232/h]). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([30 U.S.C. 1232][/us/usc/t30/s1232]).” </sup></sup> 
 
         (2) __Use of funds__ 
 
-            Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Act”. </sup></sup>  described in paragraph (1).
+            Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Act”. </sup></sup>  described in paragraph (1).
 
 (Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3046][/us/stat/106/3046]; amended [Pub. L. 109–432, div. C, title II, § 212(a)(1)][/us/pl/109/432/s212/a/1], Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023].)
 
@@ -91,6 +91,7 @@
 ----------
 
 [/us/usc/t30/s1232/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh
+[/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
 [/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
 [/us/stat/106/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3046
 [/us/pl/109/432/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F1

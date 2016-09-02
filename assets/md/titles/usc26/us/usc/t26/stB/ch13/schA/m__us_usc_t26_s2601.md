@@ -27,17 +27,17 @@
 
 [Pub. L. 99–514, title XIV, § 1433][/us/pl/99/514/s1433], Oct. 22, 1986, [100 Stat. 2731][/us/stat/100/2731], as amended by [Pub. L. 100–647, title I, § 1014(h)(1)][/us/pl/100/647/s1014/h/1]–(3)(A), (4), Nov. 10, 1988, [102 Stat. 3567][/us/stat/102/3567], 3568, provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle D (§§ 1431–1433) of title XIV of [Pub. L. 99–514][/us/pl/99/514], amending chapter 13 of this title, enacting [section 2515 of this title][/us/usc/t26/s2515], and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act \[Oct. 22, 1986\].
 
 >     “(b) __Special Rules.—__ 
 
->         “(1) __Treatment of certain inter vivos transfers made after__  __september 25, 1985__  __.—__ 
+>         “(1)  __Treatment of certain inter vivos transfers made after __  __september 25, 1985__  __.—__ 
 
 >         For purposes of subsection (a) (and chapter 13 of the Internal Revenue Code of 1986 as amended by this part), any inter vivos transfer after September 25, 1985, and on or before the date of the enactment of this Act \[Oct. 22, 1986\] shall be treated as if it were made on the 1st day after the date of enactment of this Act.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         The amendments made by this subtitle shall not apply to—
 
@@ -57,11 +57,11 @@
 
 >         “(3) __Treatment of certain transfers to grandchildren.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of chapter 13 of the Internal Revenue Code of 1986, the term ‘direct skip’ shall not include any transfer before January 1, 1990, from a transferor to a grandchild of the transferor to the extent the aggregate transfers from such transferor to such grandchild do not exceed $2,000,000.
 
->             “(B) __Treatment of transfers in trust.—__ 
+>             “(B)  __Treatment of transfers in trust__  __.—__ 
 
 >             For purposes of subparagraph (A), a transfer in trust for the benefit of a grandchild shall be treated as a transfer to such grandchild if (and only if)—
 
@@ -71,31 +71,31 @@
 
 >                 “(iii) all of the income of the trust for periods after the grandchild has attained age 21 will be distributed to (or for the benefit of) such grandchild not less frequently than annually.
 
->             “(C) __Coordination with section 2653(a) of the 1986 code.—__ 
+>             “(C)  __Coordination with section 2653__  __(a)__  __of the 1986 code__  __.—__ 
 
 >             In the case of any transfer which would be a generation-skipping transfer but for subparagraph (A), the rules of section 2653(a) of the Internal Revenue Code of 1986 shall apply as if such transfer were a generation-skipping transfer.
 
->             “(D) __Coordination with taxable terminations and taxable distributions.—__ 
+>             “(D)  __Coordination with taxable terminations and taxable distributions__  __.—__ 
 
 >             For purposes of chapter 13 of the Internal Revenue Code of 1986, the terms ‘taxable termination’ and ‘taxable distribution’ shall not include any transfer which would be a direct skip but for subparagraph (A).
 
->         “(4) __Definitions.—__ 
+>         “(4)  __Definitions__  __.—__ 
 
 >         Terms used in this section shall have the same respective meanings as when used in chapter 13 of the Internal Revenue Code of 1986; except that section 2612(c)(2) of such Code shall not apply in determining whether an individual is a grandchild of the transferor.
 
 >     “(c) __Repeal of Existing Tax on Generation-Skipping Transfers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any tax imposed by chapter 13 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]), such tax (including interest, additions to tax, and additional amounts) shall not be assessed and if assessed, the assessment shall be abated, and if collected, shall be credited or refunded (with interest) as an overpayment.
 
->         “(2) __Waiver of statute of limitations.—__ 
+>         “(2)  __Waiver of statute of limitations__  __.—__ 
 
 >         If on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of paragraph (1) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the date 1 year after the date of the enactment of this Act.
 
 >     “(d) __Election for Certain Transfers Benefiting Grandchild.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of chapter 13 of the Internal Revenue Code of 1986 (as amended by this Act) and subsection (b) of this section, any transfer in trust for the benefit of a grandchild of a transferor shall be treated as a direct skip to such grandchild if—
 
@@ -107,7 +107,7 @@
 
 >             Any transfer treated as a direct skip by reason of the preceding sentence shall be subject to Federal estate tax on the grandchild’s death in the same manner as if the contingent gift over had been to the grandchild’s estate.
 
->         “(2) __Election.—__ 
+>         “(2)  __Election__  __.—__ 
 
 >         An election under paragraph (1) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe.
 
@@ -137,11 +137,11 @@
 
 [Pub. L. 94–455, title XX, § 2006(c)][/us/pl/94/455/s2006/c], Oct. 4, 1976, [90 Stat. 1889][/us/stat/90/1889], as amended by [Pub. L. 95–600, title VII, § 702(n)(1)][/us/pl/95/600/s702/n/1], Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935]; [Pub. L. 97–34, title IV, § 428][/us/pl/97/34/s428], Aug. 13, 1981, [95 Stat. 319][/us/stat/95/319]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this chapter and amending sections 303, 691, and 2013 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) made after June 11, 1976.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by this section shall not apply to any generation-skipping transfer—
 
@@ -151,7 +151,7 @@
 
 >         For purposes of subparagraph (B), if the decedent on June 11, 1976, was under a mental disability to change the disposition of his property, the period set forth in such subparagraph shall not expire before the date which is 2 years after the date on which he first regains his competence to dispose of such property.
 
->     “(3) __Trust equivalents.—__ 
+>     “(3)  __Trust equivalents__  __.—__ 
 
 >     For purposes of paragraph (2), in the case of a trust equivalent within the meaning of subsection (d) of section 2611 of the Internal Revenue Code of 1986, the provisions of such subsection (d) shall apply.”
 

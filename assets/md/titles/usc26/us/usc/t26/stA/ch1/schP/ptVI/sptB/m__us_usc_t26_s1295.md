@@ -69,11 +69,11 @@
 
 [Pub. L. 100–647, title VI, § 6127(c)][/us/pl/100/647/s6127/c], Nov. 10, 1988, [102 Stat. 3715][/us/stat/102/3715], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1291 of this title][/us/usc/t26/s1291]\] shall take effect as if included in the amendments made by section 1235 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\].
 
->     “(2) __Time for making election.—__ 
+>     “(2)  __Time for making election__  __.—__ 
 
 >     The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

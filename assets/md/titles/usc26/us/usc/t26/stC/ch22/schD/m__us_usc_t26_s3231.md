@@ -359,7 +359,7 @@
 
 [Pub. L. 101–239, title X, § 10205(b)][/us/pl/101/239/s10205/b], Dec. 19, 1989, [103 Stat. 2474][/us/stat/103/2474] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to—
 
@@ -367,25 +367,25 @@
 
 >         “(B) remuneration paid before January 1, 1990, which the employer treated as compensation when paid.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer’s former employees who separated from employment with the employer on or before December 31, 1989, to the extent that such payments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation.
 
->     “(3) __Benefit determinations to take into account remuneration on which tax paid.—__ 
+>     “(3)  __Benefit determinations to take into account remuneration on which tax paid__  __.—__ 
 
 >     The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 \[[45 U.S.C. 231(h)][/us/usc/t45/s231/h]\] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (a).”
 
 [Pub. L. 101–239, title X, § 10206(c)][/us/pl/101/239/s10206/c], Dec. 19, 1989, [103 Stat. 2475][/us/stat/103/2475], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to remuneration paid after December 31, 1989.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     Except as otherwise provided in this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (b) \[amending this section\] shall apply to—
 
@@ -393,15 +393,15 @@
 
 >             “(ii) remuneration paid before January 1, 1990, which the employer treated as compensation when paid.
 
->         “(B) __Benefit determinations to take into account remuneration on which tax paid.—__ 
+>         “(B)  __Benefit determinations to take into account remuneration on which tax paid__  __.—__ 
 
 >         The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 \[[45 U.S.C. 231(h)][/us/usc/t45/s231/h]\] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (b).
 
->     “(3) __Special rule for certain payments.—__ 
+>     “(3)  __Special rule for certain payments__  __.—__ 
 
 >     For purposes of applying the amendment made by subsection (b) to remuneration paid after December 31, 1989, which would have been taken into account before January 1, 1990, if such amendments had applied to periods before January 1, 1990, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied).
 
->     “(4) __Exception for certain 401(k) contributions.—__ 
+>     “(4)  __Exception for certain 401__  __(k)__  __contributions__  __.—__ 
 
 >     The amendment made by subsection (b) shall not apply to employer contributions made during 1990 and attributable to services performed during 1989 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of the arrangement as in effect on June 15, 1989—
 
@@ -409,7 +409,7 @@
 
 >         “(B) the employer identifies the amount of such contribution before January 1, 1990.
 
->     “(5) __Special rule with respect to nonqualified deferred compensation plans.—__ 
+>     “(5)  __Special rule with respect to nonqualified deferred compensation plans__  __.—__ 
 
 >     In the case of an agreement in existence on June 15, 1989, between a nonqualified deferred compensation plan (as defined in section 3121(v)(2)(C) of such Code) and an individual, the amendment made by subsection (b) shall apply with respect to services performed by the individual after December 31, 1989. The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies.”
 

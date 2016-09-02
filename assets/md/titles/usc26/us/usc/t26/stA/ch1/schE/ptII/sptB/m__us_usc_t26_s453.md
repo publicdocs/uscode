@@ -485,11 +485,11 @@
 
 [Pub. L. 106–573, § 2][/us/pl/106/573/s2], Dec. 28, 2000, [114 Stat. 3061][/us/stat/114/3061], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) \[[Pub. L. 106–170][/us/pl/106/170], amending this section\] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act \[Dec. 17, 1999\].
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted.”
 
@@ -509,23 +509,23 @@
 
 [Pub. L. 100–203, title X, § 10202(e)][/us/pl/100/203/s10202/e], Dec. 22, 1987, [101 Stat. 1330–392][/us/stat/101/1330-392], as amended by [Pub. L. 100–647, title II, § 2004(d)(3)][/us/pl/100/647/s2004/d/3], (4), (6), Nov. 10, 1988, [102 Stat. 3599][/us/stat/102/3599], 3600, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 56, 381, 453A, and 691 of this title and repealing [section 453C of this title][/us/usc/t26/s453C]\] shall apply to dispositions in taxable years beginning after December 31, 1987.
 
 >     “(2) __Special rules for dealers.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing [section 453C of this title][/us/usc/t26/s453C]\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
 >         “(B) __Special rules for obligations arising from dealer dispositions after__  __february 28, 1986__  __, and before__  __january 1, 1988__  __.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of an applicable installment obligation arising from a disposition described in subclause (I) or (II) of section 453C(e)(1)(A)(i) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section) before January 1, 1988, the amendments made by subsections (a) and (b) shall apply to taxable years beginning after December 31, 1987.
 
->             “(ii) __Change in method of accounting.—__ 
+>             “(ii)  __Change in method of accounting__  __.—__ 
 
 >             In the case of any taxpayer who is required by clause (i) to change its method of accounting for any taxable year with respect to obligations described in clause (i)—
 
@@ -535,29 +535,29 @@
 
 >                 “(III) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.
 
->         “(C) __Certain rules made applicable.—__ 
+>         “(C)  __Certain rules made applicable__  __.—__ 
 
 >         For purposes of this paragraph, rules similar to the rules of paragraphs (4) and (5) of section 812(c) of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date of 1986 Amendment note below\] (as added by the Technical and Miscellaneous Revenue Act of 1988 \[[Pub. L. 100–647][/us/pl/100/647]\]) shall apply.
 
 >     “(3) __Special rule for nondealers.—__ 
 
->         “(A) __Election.—__ 
+>         “(A)  __Election__  __.—__ 
 
 >         A taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by subsections (a) and (c) \[amending sections 381, 453A, and 691 of this title and repealing [section 453C of this title][/us/usc/t26/s453C]\] apply to taxable years ending after December 31, 1986, with respect to dispositions and pledges occurring after August 16, 1986.
 
->         “(B) __Pledging rules.—__ 
+>         “(B)  __Pledging rules__  __.—__ 
 
 >         Except as provided in subparagraph (A)—
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Section 453A(d) of the Internal Revenue Code of 1986 shall apply to any installment obligation which is pledged to secure any secured indebtedness (within the meaning of section 453A(d)(4) of such Code) after December 17, 1987, in taxable years ending after such date.
 
->             “(ii) __Coordination with section 453c.—__ 
+>             “(ii)  __Coordination with section 453c__  __.—__ 
 
 >             For purposes of section 453C of such Code (as in effect before its repeal), the face amount of any obligation to which section 453A(d) of such Code applies shall be reduced by the amount treated as payments on such obligation under section 453A(d) of such Code and the amount of any indebtedness secured by it shall not be taken into account.
 
->         “(C) __Certain dispositions deemed made on 1st day of taxable year.—__ 
+>         “(C)  __Certain dispositions deemed made on 1st day of taxable year__  __.—__ 
 
 >         If the taxpayer makes an election under subparagraph (A), in the case of the taxpayer’s 1st taxable year ending after December 31, 1986—
 
@@ -565,11 +565,11 @@
 
 >             “(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratio to $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
 
->     “(4) __Minimum tax.—__ 
+>     “(4)  __Minimum tax__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending [section 56 of this title][/us/usc/t26/s56]\] shall apply to dispositions in taxable years beginning after December 31, 1986.
 
->     “(5) __Coordination with tax reform act of 1986.—__ 
+>     “(5)  __Coordination with tax reform act of 1986__  __.—__ 
 
 >     The amendments made by this section shall not apply to any installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[[section 811 of Pub. L. 99–514][/us/pl/99/514/s811], amending former [section 453C of this title][/us/usc/t26/s453C] and enacting provisions set out as a note under former [section 453C of this title][/us/usc/t26/s453C]\] do not apply to such obligation or during such period.”
 
@@ -581,15 +581,15 @@
 
 [Pub. L. 99–514, title VIII, § 812(c)][/us/pl/99/514/s812/c], Oct. 22, 1986, [100 Stat. 2372][/us/stat/100/2372], as amended by [Pub. L. 100–647, title I, § 1008(g)(3)][/us/pl/100/647/s1008/g/3]–(6), Nov. 10, 1988, [102 Stat. 3443][/us/stat/102/3443], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Sales of stock, etc.—__ 
+>     “(2)  __Sales of stock, etc__  __.—__ 
 
 >     Section 453(k)(2) of the Internal Revenue Code of 1986, as added by subsection (a), shall apply to sales after December 31, 1986, in taxable years ending after such date.
 
->     “(3) __Change in method of accounting.—__ 
+>     “(3)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer who made sales under a revolving credit plan and was on the installment method under section 453 or 453A of the Internal Revenue Code of 1986 for such taxpayer’s last taxable year beginning before January 1, 1987, the amendments made by this section \[amending this section and [section 453A of this title][/us/usc/t26/s453A]\] shall be treated as a change in method of accounting for its 1st taxable year beginning after December 31, 1986, and—
 
@@ -675,7 +675,7 @@
 
 >     “(4) __Acceleration of adjustments where contraction in amount of installment obligations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
 
@@ -683,7 +683,7 @@
 
 >             “(ii) any increase in the applicable percentage by reason of clause (i) shall be applied to reduce the applicable percentage determined under paragraph (3)(D) for subsequent taxable years in the adjustment period (beginning with the 1st of such subsequent taxable years).
 
->         “(B) __Determination of percentage.—__ 
+>         “(B)  __Determination of percentage__  __.—__ 
 
 >         For purposes of subparagraph (A), the percentage determined under this subparagraph for any taxable year in the adjustment period is the excess (if any) of—
 
@@ -691,7 +691,7 @@
 
 >             “(ii) the sum of the applicable percentages under paragraph (3)(D) (as modified by this paragraph) for prior taxable years in the adjustment period.
 
->         “(C) __Aggregate contraction in revolving installment obligations.—__ 
+>         “(C)  __Aggregate contraction in revolving installment obligations__  __.—__ 
 
 >         For purposes of subparagraph (B), the aggregate contraction in revolving installment obligations is the amount by which—
 
@@ -699,11 +699,11 @@
 
 >             “(ii) the aggregate face amount of the revolving installment obligations outstanding as of the close of the taxable year involved.
 
->         “(D) __Revolving installment obligations.—__ 
+>         “(D)  __Revolving installment obligations__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘revolving installment obligations’ means installment obligations arising under a revolving credit plan.
 
->         “(E) __Treatment of certain obligations disposed of on or before__  __october 26, 1987__  __.—__ 
+>         “(E)  __Treatment of certain obligations disposed of on or before __  __october 26, 1987__  __.—__ 
 
 >         For purposes of subparagraphs (B)(i) and (C)(i), in determining the aggregate face amount of revolving installment obligations outstanding as of the close of the taxpayer’s last taxable year beginning before January 1, 1987, there shall not be taken into account any obligation—
 
@@ -713,7 +713,7 @@
 
 >             For purposes of the preceding sentence, the term ‘unrelated person’ means any person who is not a related person (as defined in section 453(g) of the Internal Revenue Code of 1986).
 
->     “(5) __Limitation on losses from sales of obligations under revolving credit plans.—__ 
+>     “(5)  __Limitation on losses from sales of obligations under revolving credit plans__  __.—__ 
 
 >     If 1 or more obligations arising under a revolving credit plan and taken into account under paragraph (3) are disposed of during the adjustment period, then, notwithstanding any other provision of law—
 
@@ -721,7 +721,7 @@
 
 >         “(B) the aggregate amount of the adjustment for taxable years in the adjustment period (in reverse order of time) shall be reduced by the amount of such losses.
 
->     “(6) __Adjustment period.—__ 
+>     “(6)  __Adjustment period__  __.—__ 
 
 >     For purposes of paragraphs (4) and (5), the adjustment period is the 4-year period under paragraph (3).”
 
@@ -731,15 +731,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 112(b)][/us/pl/98/369/s112/b], July 18, 1984, [98 Stat. 635][/us/stat/98/635], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply with respect to dispositions made after June 6, 1984.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any disposition conducted pursuant to a contract which was binding on March 22, 1984, and at all times thereafter.
 
->     “(3) __Special rule for certain dispositions before__  __october 1, 1984__  __.—__ 
+>     “(3)  __Special rule for certain dispositions before __  __october 1, 1984__  __.—__ 
 
 >     The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989.”
 
@@ -759,31 +759,31 @@
 
 [Pub. L. 96–471, § 6(a)][/us/pl/96/471/s6/a], Oct. 19, 1980, [94 Stat. 2256][/us/stat/94/2256], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by sections 2 \[enacting this section and sections 453A and 453B of this title and amending sections 311, 336, 337, 381, former section 453, and sections 453B, 481, 644, 691, and 1255 of this title\] and 5 \[amending [section 1239 of this title][/us/usc/t26/s1239]\] shall apply to dispositions made after the date of the enactment of this Act \[Oct. 19, 1980\] in taxable years ending after such date.
 
->     “(2) __For section 453(e).—__ 
+>     “(2)  __For section 453__  __(e).—__ 
 
 >     Section 453(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 2) shall apply to first dispositions made after May 14, 1980.
 
->     “(3) __For section 453(h).—__ 
+>     “(3)  __For section 453__  __(h).—__ 
 
 >     Paragraphs (1) and (2) of section 453(h) of such Code (as amended by section 2) shall apply in the case of distributions of installment obligations after March 31, 1980.
 
->     “(4) __For section 453a.—__ 
+>     “(4)  __For section 453__  __a.—__ 
 
 >     Section 453A of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to taxable years ending after the date of enactment of this Act \[Oct. 19, 1980\].
 
->     “(5) __For section 453b(f).—__ 
+>     “(5)  __For section 453__  __b(f).—__ 
 
 >     Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
 
->     “(6) __For section 2(c).—__ 
+>     “(6)  __For section 2__  __(c).—__ 
 
 >     The amendments made by section 2(c) \[amending sections 336, 337, 453B, and former [section 453 of this title][/us/usc/t26/s453]\] shall take effect as if included in the amendments made by section 403(b) of the Crude Oil Windfall Profit Tax Act of 1980 \[see [section 403(b)(3) of Pub. L. 96–223][/us/pl/96/223/s403/b/3], set out as an Effective Date of 1980 Amendments note under [section 337 of this title][/us/usc/t26/s337]\].
 
->     “(7) __Special rule for application of former section 453 to certain dispositions.—__ 
+>     “(7)  __Special rule for application of former section 453 to certain dispositions__  __.—__ 
 
 >     In the case of any disposition made on or before the date of the enactment of this Act \[Oct. 19, 1980\] in any taxable year ending after such date, the provisions of section 453(b) of the Internal Revenue Code of 1986 \[see subsec. (b) of former [section 453 of this title][/us/usc/t26/s453], set out below\] as in effect before such date, shall be applied with respect to such disposition without regard to—
 

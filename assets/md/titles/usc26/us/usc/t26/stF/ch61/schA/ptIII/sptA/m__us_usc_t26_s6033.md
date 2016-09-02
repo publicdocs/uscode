@@ -553,7 +553,7 @@
 
 [Pub. L. 109–280, title XII, § 1223(e)][/us/pl/109/280/s1223/e], Aug. 17, 2006, [120 Stat. 1091][/us/stat/120/1091], provided that:
 
->     “(1) __Notice requirement.—__ 
+>     “(1)  __Notice requirement__  __.—__ 
 
 >     The Secretary of the Treasury shall notify in a timely manner every organization described in section 6033(i) of the Internal Revenue Code of 1986 (as added by this section) of the requirement under such section 6033(i) and of the penalty established under section 6033(j) of such Code—
 
@@ -561,7 +561,7 @@
 
 >         “(B) by Internet or other means of outreach, in the case of any other organization.
 
->     “(2) __Loss of status penalty for failure to file return.—__ 
+>     “(2)  __Loss of status penalty for failure to file return__  __.—__ 
 
 >     The Secretary of the Treasury shall publicize, in a timely manner in appropriate forms and instructions and through other appropriate means, the penalty established under section 6033(j) of such Code for the failure to file a return under subsection (a)(1) or (i) of section 6033 of such Code.”
 

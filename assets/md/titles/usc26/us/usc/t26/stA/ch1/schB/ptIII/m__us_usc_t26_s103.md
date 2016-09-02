@@ -311,23 +311,23 @@
 
 [Pub. L. 98–369, div. A, title VI, § 624(c)][/us/pl/98/369/s624/c], July 18, 1984, [98 Stat. 924][/us/stat/98/924], as amended by [Pub. L. 99–514, title XVIII, § 1867(a)][/us/pl/99/514/s1867/a], Oct. 22, 1986, [100 Stat. 2888][/us/stat/100/2888], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 103A of this title][/us/usc/t26/s103A]\] shall apply with respect to bonds issued after December 31, 1984.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to obligations issued for the Essex County New Jersey Resource Recovery Project authorized by the Port Authority of New York and New Jersey on November 10, 1983, as part of an agreement approved by Essex County, New Jersey, on July 7, 1981, and approved by the State of New Jersey on December 31, 1981. The aggregate face amount of bonds to which this paragraph applies shall not exceed $350,000,000.”
 
 [Pub. L. 98–369, div. A, title VI, § 626(b)][/us/pl/98/369/s626/b], July 18, 1984, [98 Stat. 927][/us/stat/98/927], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XIII, § 1317(22), title XVIII, § 1869(c)(5), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2698, 2890; [Pub. L. 100–647, title I, § 1013(g)(24)][/us/pl/100/647/s1013/g/24], Nov. 10, 1988, [102 Stat. 3554][/us/stat/102/3554], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection the amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of enactment of this Act \[July 18, 1984\].
 
 >     “(2) __Exceptions for certain student loan programs.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section \[amending this section\] shall not apply to obligations issued by a program described in the following table to the extent the aggregate face amount of such obligations does not exceed the amount of allowable obligations specified in the following table with respect to such program:
 
@@ -573,15 +573,15 @@
 
 >         </table>
 
->         “(B) __Pennsylvania higher education assistance agency.—__ 
+>         “(B)  __Pennsylvania higher education assistance agency__  __.—__ 
 
 >         Subparagraph (A) shall apply to obligations issued by the Pennsylvania Higher Education Assistance Agency only if such obligations are issued solely for the purpose of refunding student loan bonds outstanding on March 15, 1984.
 
->     “(3) __Certain tax-exempt mortgage subsidy bonds.—__ 
+>     “(3)  __Certain tax-exempt mortgage subsidy bonds__  __.—__ 
 
 >     For purposes of applying section 103(o) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the term ‘consumer loan bond’ shall not include any mortgage subsidy bond (within the meaning of section 103A(b) of such Code) to which the amendments made by section 1102 of the Mortgage Subsidy Bond Tax Act of 1980 \[enacting [section 103A of this title][/us/usc/t26/s103A]\] do not apply.
 
->     “(4) __Refunding exception.—__ 
+>     “(4)  __Refunding exception__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any obligation or series of obligations the proceeds of which are used exclusively to refund obligations issued before March 15, 1984, except that—
 
@@ -589,7 +589,7 @@
 
 >         “(B) the maturity date of any refunding obligation may not be later than the date which is 17 years after the date on which the refunded obligation was issued (or, in the case of a series of refundings, the date on which the original obligation was issued).
 
->     “(5) __Exception for certain established programs.—__ 
+>     “(5)  __Exception for certain established programs__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any obligation substantially all of the proceeds of which are used to carry out a program established under State law which has been in effect in substantially the same form during the 30-year period ending on the date of enactment of this Act \[July 18, 1984\], but only if such proceeds are used to make loans or to fund similar obligations—
 
@@ -601,11 +601,11 @@
 
 >         such program was operated on March 15, 1984. This subparagraph shall not apply to obligations issued on or after March 15, 1987.
 
->     “(6) __Certain bonds for renewable energy property.—__ 
+>     “(6)  __Certain bonds for renewable energy property__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any obligations described in section 243 of the Crude Oil Windfall Profit Tax Act of 1980 \[[Pub. L. 96–223][/us/pl/96/223], set out as a note below\].
 
->     “(7) __Exception for certain downtown redevelopment project.—__ 
+>     “(7)  __Exception for certain downtown redevelopment project__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
 
@@ -621,11 +621,11 @@
 
 >     “(a) __Private Activity Bond Cap.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the amendment made by section 621 \[amending this section\] shall apply to obligations issued after December 31, 1983.
 
->         “(2) __Inducement resolution before__  __june 19, 1984__  __.—__ 
+>         “(2)  __Inducement resolution before __  __june 19, 1984__  __.—__ 
 
 >         The amendment made by section 621 shall not apply to any issue of obligations if—
 
@@ -633,7 +633,7 @@
 
 >             “(B) the issue is issued before January 1, 1985.
 
->         “(3) __Certain projects preliminarily approved before__  __october 19, 1983__  __, given approval.—__ 
+>         “(3)  __Certain projects preliminarily approved before __  __october 19, 1983__  __, given approval__  __.—__ 
 
 >         If—
 
@@ -657,13 +657,13 @@
 
 >     “(b) __Property Financed With Tax-Exempt Bonds Required To Be Depreciated on Straight-Line Basis.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this section, the amendments made by section 628(b) \[amending [section 168 of this title][/us/usc/t26/s168]\] shall apply to property placed in service after December 31, 1983, to the extent such property is financed by the proceeds of an obligation (including a refunding obligation) issued after October 18, 1983.
 
 >         “(2) __Exceptions.—__ 
 
->             “(A) __Construction or binding agreement.—__ 
+>             “(A)  __Construction or binding agreement__  __.—__ 
 
 >             The amendments made by section 628(b) shall not apply with respect to facilities—
 
@@ -673,31 +673,31 @@
 
 >             “(B) __Refunding.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), in the case of property placed in service after December 31, 1983, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before October 19, 1983, the amendments made by section 628(b) shall apply only with respect to an amount equal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
 
->                 “(ii) __Significant expenditures.—__ 
+>                 “(ii)  __Significant expenditures__  __.—__ 
 
 >                 In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before January 1, 1984, the amendments made by section 628(b) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before October 19, 1983.
 
->             “(C) __Facilities.—__ 
+>             “(C)  __Facilities__  __.—__ 
 
 >             In the case of an inducement resolution or other comparable preliminary approval adopted by an issuing authority before October 19, 1983, for purposes of applying subparagraphs (A)(i) and (B)(ii) with respect to obligations described in such resolution, the term ‘facilities’ means the facilities described in such resolution.
 
 >     “(c) __Other Provisions Relating to Tax-Exempt Bonds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subtitle, the amendments made by sections 622, 623, 627, and 628(c), (d), and (e) (and the provisions of sections 625(c), 628(f), and 629(b)) \[amending this section and enacting provisions set out as notes under this section\] shall apply to obligations issued after December 31, 1983.
 
->         “(2) __Obligations invested in federally insured deposits.—__ 
+>         “(2)  __Obligations invested in federally insured deposits__  __.—__ 
 
 >         Notwithstanding any other provision of this section, clause (ii) of section 103(h)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle) shall apply to obligations issued after April 14, 1983; except that such clause shall not apply to any obligation issued pursuant to a binding contract in effect on March 4, 1983.
 
 >         “(3) __Exceptions.—__ 
 
->             “(A) __Construction or binding agreement.—__ 
+>             “(A)  __Construction or binding agreement__  __.—__ 
 
 >             The amendments (and provisions) referred to in paragraph (1) shall not apply to obligations with respect to facilities—
 
@@ -707,19 +707,19 @@
 
 >                 “(iii) acquired after October 19, 1983, pursuant to a binding contract entered into on or before such date.
 
->             “(B) __Facilities.—__ 
+>             “(B)  __Facilities__  __.—__ 
 
 >             Subparagraph (C) of subsection (b)(2) shall apply for purposes of subparagraph (A) of this paragraph.
 
->             “(C) __Exception.—__ 
+>             “(C)  __Exception__  __.—__ 
 
 >             Subparagraph (A) shall not apply with respect to the amendment made by section 628(e) and the provisions of sections 628(f) and 629(b) \[amending this section and enacting provisions set out as notes under this section\].
 
->         “(4) __Repeal of advance refunding of qualified public facilities.—__ 
+>         “(4)  __Repeal of advance refunding of qualified public facilities__  __.—__ 
 
 >         The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting ‘the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]’ for ‘December 31, 1984’ and the amendments made by section 1301 of the Tax Reform Act of 1986 \[[section 1301 of Pub. L. 99–514][/us/pl/99/514/s1301], enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing [section 103A of this title][/us/usc/t26/s103A], enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under [section 103A of this title][/us/usc/t26/s103A]\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1984’ and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
 
->         “(5) __Special rule for health club facilities.—__ 
+>         “(5)  __Special rule for health club facilities__  __.—__ 
 
 >         In the case of any health club facility, with respect to the amendment made by section 627(c) \[amending this section\]—
 
@@ -727,7 +727,7 @@
 
 >             “(B) paragraph (3) shall be applied by substituting ‘April 13, 1984’ for ‘October 19, 1983’ each place it appears.
 
->     “(d) __Provisions of This Subtitle Not To Apply to Certain Property.—__ 
+>     “(d)  __Provisions of This Subtitle Not To Apply to Certain Property__  __.—__ 
 
 >     The amendments made by this subtitle \[sections 621–632 of [Pub. L. 98–369][/us/pl/98/369], amending this section and sections 103A and 168 of this title and enacting provisions set out as notes under this section\] shall not apply to any property (and shall not apply to obligations issued to finance such property) if such property is described in any of the following paragraphs:
 
@@ -759,7 +759,7 @@
 
 >     “(e) __Determination of Significant Expenditure.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘significant expenditures’ means expenditures which equal or exceed the lesser of—
 
@@ -767,11 +767,11 @@
 
 >             “(B) 20 percent of the estimated cost of the facilities.
 
->         “(2) __Certain grants treated as expenditures.—__ 
+>         “(2)  __Certain grants treated as expenditures__  __.—__ 
 
 >         For purposes of paragraph (1), the amount of any UDAG grant preliminarily approved on May 5, 1981, or April 4, 1983, shall be treated as an expenditure with respect to the facility for which such grant was so approved.
 
->     “(f) __Exceptions for Certain Other Amendments.—__ 
+>     “(f)  __Exceptions for Certain Other Amendments__  __.—__ 
 
 >     If—
 
@@ -799,25 +799,25 @@
 
 [Pub. L. 97–248, title II, § 214(f)][/us/pl/97/248/s214/f], Sept. 3, 1982, [96 Stat. 468][/us/stat/96/468], provided that:
 
->     “(1) __Composite issues; small issue exemption.—__ 
+>     “(1)  __Composite issues; small issue exemption__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
 
->     “(2) __Termination.—__ 
+>     “(2)  __Termination__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\].
 
->     “(3) __Research expenditures.—__ 
+>     “(3)  __Research expenditures__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply with respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
 
->     “(4) __Certain facilities.—__ 
+>     “(4)  __Certain facilities__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending this section\] shall apply to obligations issued after December 31, 1982.”
 
 [Pub. L. 97–248, title II, § 215(c)][/us/pl/97/248/s215/c], Sept. 3, 1982, [96 Stat. 470][/us/stat/96/470], provided that:
 
->     “(1) __Public approval.—__ 
+>     “(1)  __Public approval__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1982, other than obligations issued solely to refund any obligation which—
 
@@ -825,7 +825,7 @@
 
 >         “(B) has a maturity which does not exceed 3 years.
 
->     “(2) __Information reporting.—__ 
+>     “(2)  __Information reporting__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 1982 (including any obligation issued to refund an obligation issued before such date).”
 
@@ -839,23 +839,23 @@
 
 [Pub. L. 97–248, title II, § 221(d)][/us/pl/97/248/s221/d], Sept. 3, 1982, [96 Stat. 478][/us/stat/96/478], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1104 of Pub. L. 96–499][/us/pl/96/499/s1104], formerly set out as a note under [section 103A of this title][/us/usc/t26/s103A]\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any obligation to which the amendments made by section 1103 of the Mortgage Subsidy Bond Tax Act of 1980 \[[section 1103 of Pub. L. 96–499][/us/pl/96/499/s1103], amending this section\] do not apply by reason of section 1104 of such Act \[[section 1104 of Pub. L. 96–499][/us/pl/96/499/s1104], formerly set out as a note under [section 103A of this title][/us/usc/t26/s103A]\].”
 
 [Pub. L. 97–248, title III, § 310(d)][/us/pl/97/248/s310/d], Sept. 3, 1982, [96 Stat. 599][/us/stat/96/599], as amended by [Pub. L. 97–448, title III, § 306(b)(2)][/us/pl/97/448/s306/b/2], [96 Stat. 2405][/us/stat/96/2405]; [Pub. L. 98–216, § 6(b)][/us/pl/98/216/s6/b], Feb. 14, 1984, [98 Stat. 8][/us/stat/98/8]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 4701 of this title][/us/usc/t26/s4701] and section 757c–5 of former Title 31, Money and Finance, and amending this section and sections 103A, 163, 165, 312, and 1232 of this title\] shall apply to obligations issued after December 31, 1982.
 
 >     “(2) __\[Repealed.__  __[__  __Pub. L. 98–216, § 6(b)__  __][/us/pl/98/216/s6/b]__  __,__  __Feb. 14, 1984__  __,__  __[__  __98 Stat. 8__  __][/us/stat/98/8]__  __.\]__ 
 
->     “(3) __Exception for certain warrants, etc.—__ 
+>     “(3)  __Exception for certain warrants, etc__  __.—__ 
 
 >     The amendments made by subsection (b) \[enacting [section 4701 of this title][/us/usc/t26/s4701] and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) \[now 163(f)(2)(B)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for ‘August 10, 1982’.
 
@@ -1021,11 +1021,11 @@
 
 [Pub. L. 99–514, title XVIII, § 1865(c)][/us/pl/99/514/s1865/c], Oct. 22, 1986, [100 Stat. 2886][/us/stat/100/2886], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any obligation which is part of an issue a substantial portion of the proceeds of which is to be used to finance a solid waste disposal facility described in paragraph (2) shall not, for purposes of section 103(h) of the Internal Revenue Code of 1954 \[now 1986\], be treated as an obligation which is federally guaranteed by reason of the sale of fuel, steam, electricity, or other forms of usable energy to the Federal Government or any agency or instrumentality thereof.
 
->     “(2) __Solid waste disposal facility.—__ 
+>     “(2)  __Solid waste disposal facility__  __.—__ 
 
 >     A solid waste disposal facility is described in this paragraph if such facility is described in section 103(b)(4)(E) of such Code and—
 
@@ -1113,7 +1113,7 @@
 
 [Pub. L. 99–514, title XVIII, § 1869(c)(1)][/us/pl/99/514/s1869/c/1]–(4), Oct. 22, 1986, [100 Stat. 2889][/us/stat/100/2889], as amended by [Pub. L. 100–647, title I, § 1018(n)][/us/pl/100/647/s1018/n], Nov. 10, 1988, [102 Stat. 3584][/us/stat/102/3584], provided that:
 
->     “(1) __Treatment of certain obligations issued by the city of baltimore.—__ 
+>     “(1)  __Treatment of certain obligations issued by the city of baltimore__  __.—__ 
 
 >     Obligations issued by the city of Baltimore, Maryland, after June 30, 1985, shall not be treated as private loan bonds for purposes of section 103(o) of the Internal Revenue Code of 1954 \[now 1986\] (or as private activity bonds for purposes of section 103 and part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986, as amended by title XIII of this Act \[sections 1301 to 1318 of [Pub. L. 99–514][/us/pl/99/514]\]) by reason of the use of a portion of the proceeds of such obligations to finance or refinance temporary advances made by the city of Baltimore in connection with loans to persons who are not exempt persons (within the meaning of section 103(b)(3) of such Code) if—
 
@@ -1125,11 +1125,11 @@
 
 >         “(D) the aggregate amount of such temporary advances financed or refinanced by such obligations does not exceed $27,000,000.
 
->     “(2) __White pine power project.—__ 
+>     “(2)  __White pine power project__  __.—__ 
 
 >     The amendment made by section 626(a) of the Tax Reform Act of 1984 \[[section 626(a) of Pub. L. 98–369][/us/pl/98/369/s626/a], amending this section\] shall not apply to any obligation issued during 1984 to provide financing for the White Pine Power Project in Nevada.
 
->     “(3) __Tax increment bonds.—__ 
+>     “(3)  __Tax increment bonds__  __.—__ 
 
 >     The amendment made by section 626(a) of the Tax Reform Act of 1984 shall not apply to any tax increment financing obligation issued before August 16, 1986, if—
 
@@ -1149,7 +1149,7 @@
 
 >         “(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
->     “(4) __Eastern maine electric cooperative.—__ 
+>     “(4)  __Eastern maine electric cooperative__  __.—__ 
 
 >     The amendment made by section 626(a) of the Tax Reform Act of 1984 shall not apply to obligations issued by Massachusetts Municipal Wholesale Electric Company Project No. 6 if—
 
@@ -1165,7 +1165,7 @@
 
 [Pub. L. 99–514, title XVIII, § 1869(c)(6)][/us/pl/99/514/s1869/c/6], Oct. 22, 1986, [100 Stat. 2890][/us/stat/100/2890], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by section 626(a) of the Tax Reform Act of 1984 \[[section 626(a) of Pub. L. 98–369][/us/pl/98/369/s626/a], amending this section\] shall not apply to any obligation issued to finance the project described in subparagraph (B) if—
 
@@ -1177,7 +1177,7 @@
 
 >         Clause (ii) shall not apply to any obligation issued for the advance refunding of any obligation.
 
->     “(B) __Description of project.—__ 
+>     “(B)  __Description of project__  __.—__ 
 
 >     The project described in this subparagraph in the St. Johns River Power Park system in Florida which was authorized by legislation enacted by the Florida Legislature in February of 1982.”
 
@@ -1185,7 +1185,7 @@
 
 [Pub. L. 98–369, div. A, title VI, § 629][/us/pl/98/369/s629], July 18, 1984, [98 Stat. 932][/us/stat/98/932], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XIII, § 1316(g)(8)(B), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2670, provided that:
 
->     “(a) __Certain Public Utilities.—__ 
+>     “(a)  __Certain Public Utilities__  __.—__ 
 
 >     For purposes of applying section 103(b)(3) of the Internal Revenue Code \[of 1986\] with respect to—
 
@@ -1195,7 +1195,7 @@
 
 >         the term ‘exempt person’ shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 ([Public Law 90–364][/us/pl/90/364]) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, and provided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting ‘and a rural electric cooperative utility’ after ‘regulated public utility’ but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
 
->     “(b) __Certain Railroads.—__ 
+>     “(b)  __Certain Railroads__  __.—__ 
 
 >     Section 103(b)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any obligation which is described in section 103(b)(6)(A) of such Code if—
 
@@ -1203,17 +1203,17 @@
 
 >         “(2) the Federal Railroad Administration provides joint financing for such acquisitions.
 
->     “(c) __Special Rules for Subsection (a).—__ 
+>     “(c)  __Special Rules for Subsection__  __(a).—__ 
 
->         “(1) __Obligations subject to cap.—__ 
+>         “(1)  __Obligations subject to cap__  __.—__ 
 
 >         Any obligation described in subsection (a) shall be treated as a private activity bond for purposes of section 103(n) of the Internal Revenue Code of 1986.
 
->         “(2) __Limitation on amount of obligations to which subsection (a)(1) applies—__ 
+>         “(2)  __Limitation on amount of obligations to which subsection__  __(a)(1)__  __applies__  __—__ 
 
 >         The aggregate amount of obligations to which subsection (a)(1) applies shall not exceed $911,000,000.
 
->         “(3) __Limitation on purposes.—__ 
+>         “(3)  __Limitation on purposes__  __.—__ 
 
 >         Subsection (a)(1) shall only apply to obligations issued as part of an issue substantially all the proceeds of which are used to provide 1 or more of the following:
 
@@ -1263,7 +1263,7 @@
 
 >     “(a) __Arbitrage Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall prescribe regulations which specify the circumstances under which a qualified student loan bond shall be treated as an arbitrage bond for purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. Such regulations may provide that—
 
@@ -1273,27 +1273,27 @@
 
 >             to qualified student loan bonds.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection—
 
->             “(A) __Qualified student loan bond.—__ 
+>             “(A)  __Qualified student loan bond__  __.—__ 
 
 >             The term ‘qualified student loan bond’ has the meaning given to such term by section 103(o)(3) of the Internal Revenue Code of 1986 (as amended by this Act).
 
->             “(B) __Arbitrage bond.—__ 
+>             “(B)  __Arbitrage bond__  __.—__ 
 
 >             The term ‘arbitrage bond’ has the meaning given to such term by section 103(c)(2).
 
 >         “(3) __Effective date.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as otherwise provided in this paragraph, any regulations prescribed by the Secretary under paragraph (1) shall apply to obligations issued after the qualified date.
 
 >             “(B) __Qualified date.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of this paragraph, the term ‘qualified date’ means the earlier of—
 
@@ -1301,15 +1301,15 @@
 
 >                          “(II) the date, after the date of enactment of this Act \[July 18, 1984\], on which the Higher Education Act of 1965 is reauthorized.
 
->                 “(ii) __Publication of regulations.—__ 
+>                 “(ii)  __Publication of regulations__  __.—__ 
 
 >                 Notwithstanding clause (i), the qualified date shall not be a date which is prior to the date that is 6 months after the date on which the regulations prescribed under paragraph (1) are published in the Federal Register.
 
->             “(C) __Refunding obligations.—__ 
+>             “(C)  __Refunding obligations__  __.—__ 
 
 >             Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligation (or series of refunding obligations) issued exclusively to refund any qualified student loan bond which was issued before the qualified date, except that the requirements of subparagraphs (A) and (B) of section 626(b)(4) of this Act \[set out in Effective Date of 1984 Amendment note above\] must be met with respect to such refunding.
 
->             “(D) __Fulfillment of commitments.—__ 
+>             “(D)  __Fulfillment of commitments__  __.—__ 
 
 >             Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligations which are needed to fulfill written commitments to acquire or finance student loans which are originated after June 30, 1984, and before the qualified date, but only if—
 
@@ -1317,11 +1317,11 @@
 
 >                 “(ii) the amount of such commitments is consistent with practices of the issuer which were in effect on March 15, 1984, with respect to establishing secondary markets for student loans.
 
->     “(b) __Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—__ 
+>     “(b)  __Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds__  __.—__ 
 
 >     Under regulations prescribed by the Secretary of the Treasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code.
 
->     “(c) __Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—__ 
+>     “(c)  __Issuance of Student Loan Bonds Which Are Not Tax-Exempt__  __.—__ 
 
 >     Any issuer who may issue obligations described in section 103(a) of the Internal Revenue Code of 1986 may elect to issue student loan bonds which are not described in such section 103(a) of such Code without prejudice to—
 
@@ -1329,13 +1329,13 @@
 
 >         “(2) the status of the issuer as an organization exempt from taxation under such Code.
 
->     “(d) __Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—__ 
+>     “(d)  __Federal Executive Branch Jurisdiction Over Tax-Exempt Status__  __.—__ 
 
 >     For purposes of Federal law, any determination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury.
 
 >     “(e) __Study on Tax-Exempt Student Loan Bonds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General of the United States and the Director of the Congressional Budget Office, shall conduct studies of—
 
@@ -1343,7 +1343,7 @@
 
 >             “(B) the appropriate arbitrage rules for such bonds.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\].”
 
@@ -1351,11 +1351,11 @@
 
 [Pub. L. 96–223, title II, § 241(b)][/us/pl/96/223/s241/b], Apr. 2, 1980, [94 Stat. 282][/us/stat/94/282], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     For purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any obligation issued by an authority for 2 or more political subdivisions of a State which is part of an issue substantially all of the proceeds of which are to be used to provide solid waste-energy producing facilities shall be treated as an obligation of a political subdivision of a State which meets the requirements of section 103(b)(4)(E) of such Code (relating to solid waste disposal, etc., facilities). Nothing in the preceding sentence shall be construed to override the limitations of section 103(c) of such Code (relating to arbitrage bonds).
 
->     “(2) __Solid waste-energy producing facilities.—__ 
+>     “(2)  __Solid waste-energy producing facilities__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘solid waste-energy producing facilities’ means any solid waste disposal facility and any facility for the production of steam and electrical energy if—
 
@@ -1365,11 +1365,11 @@
 
 >         “(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States.
 
->     “(3) __Solid waste disposal facility.—__ 
+>     “(3)  __Solid waste disposal facility__  __.—__ 
 
 >     For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal Revenue Code of 1986 (determined without regard to section 103(g) of such Code).
 
->     “(4) __Obligations must be in registered form.—__ 
+>     “(4)  __Obligations must be in registered form__  __.—__ 
 
 >     This subsection shall not apply to any obligation which is not issued in registered form.”
 
@@ -1377,7 +1377,7 @@
 
 [Pub. L. 96–223, title II, § 241(c)][/us/pl/96/223/s241/c], Apr. 2, 1980, [94 Stat. 282][/us/stat/94/282], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subparagraph (C) of section 103(g)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall not apply to any facility for the production of alcohol from solid waste if—
 
@@ -1393,11 +1393,11 @@
 
 >         “(B) before March 1, 1980, there were negotiations between a governmental body and an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 with respect to the utilization of a special process for the production of alcohol at such alcohol-producing facility.
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     The aggregate amount of obligations which may be issued by reason of paragraph (1) with respect to any project shall not exceed $30,000,000.
 
->     “(3) __Termination.—__ 
+>     “(3)  __Termination__  __.—__ 
 
 >     This subsection shall not apply to obligations issued after December 31, 1985.”
 
@@ -1405,7 +1405,7 @@
 
 [Pub. L. 96–223, title II, § 242(b)][/us/pl/96/223/s242/b], Apr. 2, 1980, [94 Stat. 284][/us/stat/94/284], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of section 103(b)(4)(H) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to qualified hydroelectric generating facilities), in the case of a hydroelectric generating facility described in paragraph (2)—
 
@@ -1413,7 +1413,7 @@
 
 >         “(B) the fraction referred to in subparagraph (C) of section 103(b)(8) of such Code shall be deemed to be 1.
 
->     “(2) __Facilities to which paragraph (1) applies.—__ 
+>     “(2)  __Facilities to which paragraph (1) applies__  __.—__ 
 
 >     A facility is described in this paragraph if—
 
@@ -1445,7 +1445,7 @@
 
 >     “(a) __Certain State Obligations for Renewable Energy Property.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Paragraph (1) of subsection (b) of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any obligation issued as part of an issue substantially all of the proceeds of which are to be used to provide renewable energy property, if—
 
@@ -1465,11 +1465,11 @@
 
 >             “(E) such obligations meet the requirements of paragraph (1) of section 103(h) of the Internal Revenue Code of 1986.
 
->         “(2) __Renewable energy property.—__ 
+>         “(2)  __Renewable energy property__  __.—__ 
 
 >         For purposes of this subsection, the term ‘renewable energy property’ means property used to produce energy (including heat, electricity, and substitute fuels) from renewable energy sources (including wind, solar, and geothermal energy, waste heat, biomass, and water).
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply with respect to obligations issued after the date of enactment of this Act \[Apr. 2, 1980\].”
 
@@ -1477,7 +1477,7 @@
 
 [Pub. L. 95–600, title III, § 337][/us/pl/95/600/s337], Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842], as amended by [Pub. L. 96–222, title I, § 103(a)(8)][/us/pl/96/222/s103/a/8], Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The payment to a charitable organization of a refund profit held in a trust fund or escrow arrangement, or held by an underwriter or other person under a qualified agreement in accordance with that agreement—
 
@@ -1485,7 +1485,7 @@
 
 >         “(2) may be paid without penalty imposed on the issuer of such obligations.
 
->     “(b) __Rule for Governments Which Have Already Paid Arbitrage Profits to the United States.—__ 
+>     “(b)  __Rule for Governments Which Have Already Paid Arbitrage Profits to the United States__  __.—__ 
 
 >     In the case of a State or local government which, before January 1, 1977—
 
@@ -1495,23 +1495,23 @@
 
 >         which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local government under this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Refund profit.—__ 
+>         “(1)  __Refund profit__  __.—__ 
 
 >         The term ‘Refund profit’ means interest, profit, or other amounts generated by, or arising out of, the advance refunding, before September 24, 1976, of an obligation of a State or local government described in section 103 of such Code.
 
->         “(2) __Charitable organization.—__ 
+>         “(2)  __Charitable organization__  __.—__ 
 
 >         The term ‘charitable organization’ means an organization described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
 
->         “(3) __Qualified agreement.—__ 
+>         “(3)  __Qualified agreement__  __.—__ 
 
 >         The term ‘qualified agreement’ means an agreement (whether or not enforceable) which provides for, or contemplates, the payment of refund profit to one or more charitable organizations.
 
->         “(4) __Low-interest united states obligations.—__ 
+>         “(4)  __Low-interest united states obligations__  __.—__ 
 
 >         The term ‘low-interest United States obligations’ means United States obligations which bear an interest rate lower than the highest rate of interest borne by public debt securities generally available for purchase at the time such obligations were purchased.”
 

@@ -359,11 +359,11 @@
 
 [Pub. L. 105–206, title III, § 3445(c)][/us/pl/105/206/s3445/c], July 22, 1998, [112 Stat. 763][/us/stat/112/763], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     With respect to permits issued by a State and required under State law for the harvest of fish or wildlife in the trade or business of an individual taxpayer, the term ‘other assets’ as used in section 6334(e)(2) of the Internal Revenue Code of 1986 shall include future income which may be derived by such taxpayer from the commercial sale of fish or wildlife under such permit.
 
->     “(2) __Construction.—__ 
+>     “(2)  __Construction__  __.—__ 
 
 >     Paragraph (1) shall not be construed to invalidate or in any way prejudice any assertion that the privilege embodied in permits described in paragraph (1) is not property or a right to property under the Internal Revenue Code of 1986.”
 

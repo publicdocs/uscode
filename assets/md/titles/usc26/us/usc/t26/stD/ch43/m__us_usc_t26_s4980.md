@@ -311,11 +311,11 @@
 
 [Pub. L. 101–508, title XII, § 12003][/us/pl/101/508/s12003], Nov. 5, 1990, [104 Stat. 1388–566][/us/stat/104/1388-566], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle A (§§ 12001–12003) of title XII of [Pub. L. 101–508][/us/pl/101/508], amending this section and sections 1002, 1104, and 1344 of Title 29, Labor\] shall apply to reversions occurring after September 30, 1990.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by this subtitle shall not apply to any reversion after September 30, 1990, if—
 
@@ -337,11 +337,11 @@
 
 [Pub. L. 100–647, title VI, § 6069(b)][/us/pl/100/647/s6069/b], Nov. 10, 1988, [102 Stat. 3704][/us/stat/102/3704], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to reversions occurring on or after October 21, 1988.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any reversion on or after October 21, 1988, pursuant to a plan termination if—
 
@@ -357,31 +357,31 @@
 
 [Pub. L. 99–514, title XI, § 1132(c)][/us/pl/99/514/s1132/c], Oct. 22, 1986, [100 Stat. 2480][/us/stat/100/2480], as amended by [Pub. L. 100–647, title I, § 1011A(f)(4)][/us/pl/100/647/s1011A/f/4], (5), Nov. 10, 1988, [102 Stat. 3479][/us/stat/102/3479], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to reversions occurring after December 31, 1985.
 
 >     “(2) __Exception where termination date occurred before__  __january 1, 1986__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by this section shall not apply to any reversion after December 31, 1985, which occurs pursuant to a plan termination where the termination date is before January 1, 1986.
 
->         “(B) __Election to have amendments apply.—__ 
+>         “(B)  __Election to have amendments apply__  __.—__ 
 
 >         A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State of Delaware in March, 1978, and became a parent corporation of the consolidated group on September 19, 1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
 
->     “(3) __Termination date.—__ 
+>     “(3)  __Termination date__  __.—__ 
 
 >     For purposes of paragraph (2), the term ‘termination date’ is the date of the termination (within the meaning of section 411(d)(3) of the Internal Revenue Code of 1986) of the plan.
 
 >     “(4) __Transition rule for certain terminations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a taxpayer to which this paragraph applies, the amendments made by this section shall not apply to any termination occurring before the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\].
 
->         “(B) __Taxpayers to whom paragraph applies.—__ 
+>         “(B)  __Taxpayers to whom paragraph applies__  __.—__ 
 
 >         This paragraph shall apply to—
 
@@ -395,7 +395,7 @@
 
 >             “(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986.
 
->     “(5) __Special rule for employee stock ownership plans.—__ 
+>     “(5)  __Special rule for employee stock ownership plans__  __.—__ 
 
 >     Section 4980(c)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to reversions occurring after March 31, 1985.”
 

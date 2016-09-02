@@ -175,11 +175,11 @@ Section, added [Pub. L. 98–369, div. A, title V, § 543(a)][/us/pl/98/369/s5
 
 [Pub. L. 104–188, title I, § 1602(c)][/us/pl/104/188/s1602/c], Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending sections 291, 812, 852, 4978, 6047, and 7872 of this title and repealing this section and [section 4978B of this title][/us/usc/t26/s4978B]\] shall apply to loans made after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Refinancings.—__ 
+>     “(2)  __Refinancings__  __.—__ 
 
 >     The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
 
@@ -191,7 +191,7 @@ Section, added [Pub. L. 98–369, div. A, title V, § 543(a)][/us/pl/98/369/s5
 
 >         For purposes of this paragraph, the term ‘securities acquisition loan’ includes a loan from a corporation to an employee stock ownership plan described in section 133(b)(3) of such Code (as so in effect).
 
->     “(3) __Exception.—__ 
+>     “(3)  __Exception__  __.—__ 
 
 >     Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act.”
 

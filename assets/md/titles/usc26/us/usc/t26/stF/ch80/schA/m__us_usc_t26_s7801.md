@@ -99,9 +99,17 @@
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
+    Similar provisions were contained in the following appropriation act:
+
+    [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
+
 [Pub. L. 112–74, div. C, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 889][/us/stat/125/889], provided in part: 
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
+
+    Similar provisions were contained in the following appropriation act:
+
+    [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
 
  __Elimination of User Fee for Requests to IRS Regarding Pension Plans__ 
 
@@ -111,11 +119,11 @@
 
 [Pub. L. 106–58, title VI, § 650][/us/pl/106/58/s650], Sept. 29, 1999, [113 Stat. 479][/us/stat/113/479], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(P), May 22, 2008, [110 Stat. 1096][/us/stat/110/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(P), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than April 15, 2000, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayer may generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer’s total tax payments among the major expenditure categories.
 
->     “(b) __Information Necessary To Generate Receipt.—__ 
+>     “(b)  __Information Necessary To Generate Receipt__  __.—__ 
 
 >     For purposes of generating an itemized receipt under subsection (a), the interactive program—
 
@@ -123,7 +131,7 @@
 
 >         “(2) shall not require any identifying information relating to the taxpayer.
 
->     “(c) __Total Tax Payments.—__ 
+>     “(c)  __Total Tax Payments__  __.—__ 
 
 >     For purposes of this section, total tax payments of an individual for any taxable year are—
 
@@ -133,7 +141,7 @@
 
 >     “(d) __Content of Tax Receipt.—__ 
 
->         “(1) __Major expenditure categories.—__ 
+>         “(1)  __Major expenditure categories__  __.—__ 
 
 >         For purposes of subsection (a), the major expenditure categories are:
 
@@ -157,11 +165,11 @@
 
 >         “(2) __Other items on receipt.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In addition, the tax receipt shall include selected examples of more specific expenditure items, including the items listed in subparagraph (B), either at the budget function, subfunction, or program, project, or activity levels, along with any other information deemed appropriate by the Secretary of the Treasury and the Director of the Office of Management and Budget to enhance taxpayer understanding of the Federal budget.
 
->             “(B) __Listed items.—__ 
+>             “(B)  __Listed items__  __.—__ 
 
 >             The expenditure items listed in this subparagraph are as follows:
 
@@ -203,11 +211,11 @@
 
 >                 “(xix) United States Postal Service.
 
->     “(e) __Cost.—__ 
+>     “(e)  __Cost__  __.—__ 
 
 >     No charge shall be imposed to cover any cost associated with the production or distribution of the tax receipt.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
 
@@ -217,7 +225,7 @@
 
 [Pub. L. 105–206, title I, § 1001][/us/pl/105/206/s1001], July 22, 1998, [112 Stat. 689][/us/stat/112/689], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
 
@@ -231,11 +239,11 @@
 
 >     “(b) __Savings Provisions.—__ 
 
->         “(1) __Preservation of specific tax rights and remedies.—__ 
+>         “(1)  __Preservation of specific tax rights and remedies__  __.—__ 
 
 >         Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
 
->         “(2) __Continuing effect of legal documents.—__ 
+>         “(2)  __Continuing effect of legal documents__  __.—__ 
 
 >         All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -245,23 +253,23 @@
 
 >             shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of the Treasury, the Commissioner of Internal Revenue, or other authorized official, a court of competent jurisdiction, or by operation of law.
 
->         “(3) __Proceedings not affected.—__ 
+>         “(3)  __Proceedings not affected__  __.—__ 
 
 >         The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) at the time this section takes effect, with respect to functions transferred or affected by the reorganization under this section but such proceedings and applications shall continue. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
 
->         “(4) __Suits not affected.—__ 
+>         “(4)  __Suits not affected__  __.—__ 
 
 >         The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted.
 
->         “(5) __Nonabatement of actions.—__ 
+>         “(5)  __Nonabatement of actions__  __.—__ 
 
 >         No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
 
->         “(6) __Administrative actions relating to promulgation of regulations.—__ 
+>         “(6)  __Administrative actions relating to promulgation of regulations__  __.—__ 
 
 >         Any administrative action relating to the preparation or promulgation of a regulation by the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) relating to a function transferred or affected by the reorganization under this section may be continued by the Department of the Treasury through any appropriate administrative unit of the Department, including the Internal Revenue Service with the same effect as if this section had not been enacted.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -275,11 +283,11 @@
 
 [Pub. L. 105–206, title III, § 3501][/us/pl/105/206/s3501], July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], establish procedures to clearly alert married taxpayers of their joint and several liabilities on all appropriate publications and instructions.
 
->     “(b) __Right To Limit Liability.—__ 
+>     “(b)  __Right To Limit Liability__  __.—__ 
 
 >     The procedures under subsection (a) shall include requirements that notice of an individual’s right to relief under section 6015 of the Internal Revenue Code of 1986 shall be included in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[[Pub. L. 100–647][/us/pl/100/647], set out below\] (Internal Revenue Service Publication No. 1) and in any collection-related notices.”
 
@@ -297,11 +305,11 @@
 
 [Pub. L. 105–206, title III, § 3503][/us/pl/105/206/s3503], July 22, 1998, [112 Stat. 771][/us/stat/112/771], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[[Pub. L. 100–647][/us/pl/100/647], set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
 
->     “(b) __Transmission to Committees of Congress.—__ 
+>     “(b)  __Transmission to Committees of Congress__  __.—__ 
 
 >     The Secretary shall transmit drafts of the statement required under subsection (a) (or proposed revisions to any such statement) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the same day.”
 
@@ -315,7 +323,7 @@
 
 [Pub. L. 105–206, title III, § 3705][/us/pl/105/206/s3705], July 22, 1998, [112 Stat. 777][/us/stat/112/777], provided that:
 
->     “(a) __Notice.—__ 
+>     “(a)  __Notice__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall provide that—
 
@@ -325,33 +333,33 @@
 
 >         “(3) an Internal Revenue Service employee shall give a taxpayer during a telephone or personal contact the employee’s name and unique identifying number.
 
->     “(b) __Single Contact.—__ 
+>     “(b)  __Single Contact__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall develop a procedure under which, to the extent practicable and if advantageous to the taxpayer, one Internal Revenue Service employee shall be assigned to handle a taxpayer’s matter until it is resolved.
 
->     “(c) __Telephone Helpline in Spanish.—__ 
+>     “(c)  __Telephone Helpline in Spanish__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall provide, in appropriate circumstances, that taxpayer questions on telephone helplines of the Internal Revenue Service are answered in Spanish.
 
->     “(d) __Other Telephone Helpline Options.—__ 
+>     “(d)  __Other Telephone Helpline Options__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall provide, in appropriate circumstances, on telephone helplines of the Internal Revenue Service an option for any taxpayer to talk to an Internal Revenue Service employee during normal business hours. The person shall direct phone questions of the taxpayer to other Internal Revenue Service personnel who can provide assistance to the taxpayer.
 
 >     “(e) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, this section shall take effect 60 days after the date of the enactment of this Act \[July 22, 1998\].
 
->         “(2) __Subsection (c).—__ 
+>         “(2)  __Subsection__  __(c).—__ 
 
 >         Subsection (c) shall take effect on January 1, 2000.
 
->         “(3) __Subsection (d).—__ 
+>         “(3)  __Subsection__  __(d).—__ 
 
 >         Subsection (d) shall take effect on January 1, 2000.
 
->         “(4) __Unique identifying number.—__ 
+>         “(4)  __Unique identifying number__  __.—__ 
 
 >         Any requirement under this section to provide a unique identifying number shall take effect 6 months after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -371,7 +379,7 @@
 
 [Pub. L. 105–206, title IV, § 4022(a)][/us/pl/105/206/s4022/a], July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Commissioner of Internal Revenue shall conduct each year after 1998 an analysis of the sources of complexity in administration of the Federal tax laws. Such analysis may include an analysis of—
 
@@ -389,7 +397,7 @@
 
 >         “(G) forms supplied by the Internal Revenue Service, including the time it takes for taxpayers to complete and review forms, the number of taxpayers who use each form, and how recent legislation has affected the time it takes to complete and review forms.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Commissioner shall not later than March 1 of each year report the results of the analysis conducted under paragraph (1) for the preceding year to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate. The report shall include any recommendations—
 
@@ -401,7 +409,7 @@
 
 [Pub. L. 104–52, title VI, § 637][/us/pl/104/52/s637], Nov. 19, 1995, [109 Stat. 509][/us/stat/109/509], as amended by [Pub. L. 104–134, title II, § 2904(a)][/us/pl/104/134/s2904/a], Apr. 26, 1996, [110 Stat. 1321–333][/us/stat/110/1321-333]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 643(a)–(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–365, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -419,11 +427,11 @@
 
 >     “(b) __Composition of the Commission.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         To carry out the purposes of this section, there is established a National Commission on Restructuring the Internal Revenue Service (in this section referred to as the ‘Commission’).
 
->         “(2) __Composition.—__ 
+>         “(2)  __Composition__  __.—__ 
 
 >         The Commission shall be composed of seventeen members, as follows:
 
@@ -437,27 +445,27 @@
 
 >             “(E) Two members appointed by the Minority Leader of the House of Representatives, one from Members of the House of Representatives and one from private life.    “The Commissioner of the Internal Revenue Service shall be an ex officio member of the Commission.
 
->         “(3) __Co-Chairs.—__ 
+>         “(3)  __Co-Chairs__  __.—__ 
 
 >         The Commission shall elect Co-Chairs from among its members.
 
->         “(4) __Meeting; quorum; vacancies.—__ 
+>         “(4)  __Meeting; quorum; vacancies__  __.—__ 
 
 >         After its initial meeting, the Commission shall meet upon the call of the Co-Chairs or a majority of its members. Nine members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
 
 >         “(5) __Appointment; initial meeting.—__ 
 
->             “(A) __Appointment.—__ 
+>             “(A)  __Appointment__  __.—__ 
 
 >             It is the sense of the Congress that members of the Committee \[Commission\] should be appointed not more than 60 days after the date of the enactment of this section \[Nov. 19, 1995\].
 
->             “(B) __Initial meeting.—__ 
+>             “(B)  __Initial meeting__  __.—__ 
 
 >             If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select Co-Chairs who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
 
 >     “(c) __Functions of Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The functions of the Commission shall be—
 
@@ -465,7 +473,7 @@
 
 >             “(B) to submit to the Congress a final report of the results of the review, including recommendations for restructuring the IRS.
 
->         “(2) __Review.—__ 
+>         “(2)  __Review__  __.—__ 
 
 >         The Commission shall review—
 
@@ -503,7 +511,7 @@
 
 >     “(d) __Powers of the Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >             (A)
 
@@ -515,15 +523,15 @@
 
 >             “(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States ([2 U.S.C. 192–194][/us/usc/t2/s192–194]) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
->         “(2) __Contracting.—__ 
+>         “(2)  __Contracting__  __.—__ 
 
 >         The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this section.
 
->         “(3) __Information from federal agencies.—__ 
+>         “(3)  __Information from federal agencies__  __.—__ 
 
 >         The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this section. Each such department, bureau, agency, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Co-Chairs.
 
->         “(4) __Assistance from federal agencies.—__ 
+>         “(4)  __Assistance from federal agencies__  __.—__ 
 
 >             (A) The Secretary of the Treasury is authorized on a nonreimbursable basis to provide the Commission with administrative services, funds, facilities, staff, and other support services for the performance of the Commission’s functions.
 
@@ -531,53 +539,53 @@
 
 >             “(C) In addition to the assistance set forth in subparagraphs (A) and (B), departments and agencies of the United States are authorized to provide to the Commission such services, funds, facilities, staff, and other support services as they may deem advisable and as may be authorized by law.
 
->         “(5) __Postal services.—__ 
+>         “(5)  __Postal services__  __.—__ 
 
 >         The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
 
->         “(6) __Gifts.—__ 
+>         “(6)  __Gifts__  __.—__ 
 
 >         The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this section.
 
 >     “(e) __Staff of the Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
->         “(2) __Consultant services.—__ 
+>         “(2)  __Consultant services__  __.—__ 
 
 >         The Commission is authorized to procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
 >     “(f) __Compensation and Travel Expenses.—__ 
 
->         “(1) __Compensation.—__ 
+>         “(1)  __Compensation__  __.—__ 
 
 >             (A) Except as provided in subparagraph (B), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
 
 >             “(B) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay on account of their service on the Commission.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5][/us/usc/t5/s5703/b], United States Code.
 
 >     “(g) __Final Report of Commission; Termination.—__ 
 
->         “(1) __Final report.—__ 
+>         “(1)  __Final report__  __.—__ 
 
 >         Not later than 15 months after the date of the first meeting of the Commission, the Commission shall submit to the Congress its final report, as described in subsection (c)(2).
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >             (A) The Commission, and all the authorities of this section, shall terminate on the date which is 60 days after the date on which a final report is required to be transmitted under paragraph (1).
 
 >             “(B) The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its final report and disseminating that report.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     Such sums as may be necessary are authorized to be appropriated for the activities of the Commission.
 
->     “(i) __Appropriations.—__ 
+>     “(i)  __Appropriations__  __.—__ 
 
 >     Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
 
@@ -603,7 +611,7 @@
 
 [Pub. L. 100–647, title VI, § 6227][/us/pl/100/647/s6227], Nov. 10, 1988, [102 Stat. 3731][/us/stat/102/3731], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\], prepare a statement which sets forth in simple and nontechnical terms—
 
@@ -615,11 +623,11 @@
 
 >         “(4) the procedures which the Service may use in enforcing the internal revenue laws (including assessment, jeopardy assessment, levy and distraint, and enforcement of liens).
 
->     “(b) __Transmission to Committees of Congress.—__ 
+>     “(b)  __Transmission to Committees of Congress__  __.—__ 
 
 >     The Secretary of the Treasury shall transmit drafts of the statement required under subsection (a) (or proposed revisions of any such statement) to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation on the same day.
 
->     “(c) __Distribution.—__ 
+>     “(c)  __Distribution__  __.—__ 
 
 >     The statement prepared in accordance with subsections (a) and (b) shall be distributed by the Secretary of the Treasury to all taxpayers the Secretary contacts with respect to the determination or collection of any tax (other than by providing tax forms). The Secretary shall take such actions as the Secretary deems necessary to ensure that such distribution does not result in multiple statements being sent to any one taxpayer.”
 
@@ -770,8 +778,12 @@
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F888
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F889
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
 [/us/pl/107/16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs620
 [/us/stat/115/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F110
 [/us/pl/108/89/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fb%2F3

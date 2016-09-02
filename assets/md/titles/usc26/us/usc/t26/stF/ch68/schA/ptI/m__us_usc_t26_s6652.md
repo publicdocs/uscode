@@ -497,17 +497,17 @@
 
 [Pub. L. 97–448, title II, § 203(a)][/us/pl/97/448/s203/a], (b), Jan. 12, 1983, [96 Stat. 2397][/us/stat/96/2397], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), any amendment made by this title \[amending this section and sections 44D, 46, 48, 193, 613A, 4988, 4989, 4991–4997, 6015, 6154, 6654, 6655, and 6678 of this title, enacting provisions set out as notes under [section 4996 of this title][/us/usc/t26/s4996], and amending a provision set out as a note under [section 44E of this title][/us/usc/t26/s44E]\] shall take effect as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980 \[[Pub. L. 96–223][/us/pl/96/223]\] to which such amendment relates.
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __Definition of independent producer.—__ 
+>         “(1)  __Definition of independent producer__  __.—__ 
 
 >         The amendment made by section 201(d)(1) \[amending [section 4992 of this title][/us/usc/t26/s4992]\] shall take effect on January 1, 1983.
 
->         “(2) __Penalty provision.—__ 
+>         “(2)  __Penalty provision__  __.—__ 
 
 >         The amendments made by section 201(i) \[amending this section and sections 4997 and 6678 of this title\] shall apply with respect to returns and statements the due dates for which (without regard to extensions) are after the date of the enactment of this Act \[Jan. 12, 1983\].
 
@@ -517,7 +517,7 @@
 
 >             “(B) The amendment made by section 202(d)(2) \[amending [section 613A of this title][/us/usc/t26/s613A]\] shall apply to bulk sales after September 18, 1982.
 
->         “(4) __No withholding by reason of condensate provision.—__ 
+>         “(4)  __No withholding by reason of condensate provision__  __.—__ 
 
 >         No withholding of tax shall be required under section 4995 of the Internal Revenue Code of 1986 by reason of the amendment made by section 201(h)(2)(A) of this Act \[amending [section 4996 of this title][/us/usc/t26/s4996]\] before the date on which regulations with respect to such amendment are published in the Federal Register.”
 

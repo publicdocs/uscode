@@ -229,11 +229,11 @@
 
 [Pub. L. 99–514, title II, § 211(e)][/us/pl/99/514/s211/e], Oct. 22, 1986, [100 Stat. 2169][/us/stat/100/2169], as amended by [Pub. L. 100–647, title I, § 1002(e)(4)][/us/pl/100/647/s1002/e/4]–(7), Nov. 10, 1988, [102 Stat. 3367][/us/stat/102/3367], 3368, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[enacting this section and provisions set out below\] shall apply to property placed in service after December 31, 1985, in taxable years ending after such date. Section 49(c) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to taxable years ending after June 30, 1987, and to amounts carried to such taxable years.
 
->     “(2) __Exceptions for certain films.—__ 
+>     “(2)  __Exceptions for certain films__  __.—__ 
 
 >     For purposes of determining whether any property is transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986—
 
@@ -251,7 +251,7 @@
 
 >             “(iii) all of the films funded by such public offering are required to be distributed pursuant to distribution agreements entered into before September 26, 1985.
 
->     “(3) __Normalization rules.—__ 
+>     “(3)  __Normalization rules__  __.—__ 
 
 >     The provisions of subsection (b) \[see Normalization Rules note below\] shall apply to any violation of the normalization requirements under paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 occurring in taxable years ending after December 31, 1985.
 

@@ -99,11 +99,11 @@
 
 [Pub. L. 97–455, § 1(e)][/us/pl/97/455/s1/e], Jan. 12, 1983, [96 Stat. 2498][/us/stat/96/2498], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting section 934A and amending this section\] shall apply to amounts received after the date of the enactment of this Act \[Jan. 12, 1983\] in taxable years ending after such date.
 
->     “(2) __Withholding.—__ 
+>     “(2)  __Withholding__  __.—__ 
 
 >     The amendment made by subsection (b) \[enacting [section 1444 of this title][/us/usc/t26/s1444]\] shall apply to payments made after the date of the enactment of this Act.”
 

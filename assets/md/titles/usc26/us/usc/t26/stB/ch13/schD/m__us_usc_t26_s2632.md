@@ -185,11 +185,11 @@
 
 [Pub. L. 107–16, title V, § 561(c)][/us/pl/107/16/s561/c], June 7, 2001, [115 Stat. 89][/us/stat/115/89], provided that:
 
->     “(1) __Deemed allocation.—__ 
+>     “(1)  __Deemed allocation__  __.—__ 
 
 >     Section 2632(c) of the Internal Revenue Code of 1986 (as added by subsection (a)), and the amendment made by subsection (b) \[amending this section\], shall apply to transfers subject to chapter 11 or 12 made after December 31, 2000, and to estate tax inclusion periods ending after December 31, 2000.
 
->     “(2) __Retroactive allocations.—__ 
+>     “(2)  __Retroactive allocations__  __.—__ 
 
 >     Section 2632(d) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to deaths of non-skip persons occurring after December 31, 2000.”
 

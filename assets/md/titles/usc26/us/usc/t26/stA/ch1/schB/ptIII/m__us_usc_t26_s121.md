@@ -471,11 +471,11 @@
 
 [Pub. L. 108–121, title I, § 101(b)][/us/pl/108/121/s101/b], Nov. 11, 2003, [117 Stat. 1336][/us/stat/117/1336], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34]\].
 
->     “(2) __Waiver of limitations.—__ 
+>     “(2)  __Waiver of limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the amendments made by this section \[amending this section\] is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Nov. 11, 2003\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
@@ -483,15 +483,15 @@
 
 [Pub. L. 107–16, title V, § 542(f)][/us/pl/107/16/s542/f], June 7, 2001, [115 Stat. 86][/us/stat/115/86], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1022 and 6716 of this title and amending this section and sections 170, 684, 1040, 1221, 1246, 1291, 1296, 4947, 6018, 6019, 6075, and 7701 of this title\] shall apply to estates of decedents dying after December 31, 2009.
 
->     “(2) __Transfers to nonresidents.—__ 
+>     “(2)  __Transfers to nonresidents__  __.—__ 
 
 >     The amendments made by subsection (e)(1) \[amending [section 684 of this title][/us/usc/t26/s684]\] shall apply to transfers after December 31, 2009.
 
->     “(3) __Section 4947.—__ 
+>     “(3)  __Section 4947__  __.—__ 
 
 >     The amendment made by subsection (e)(4) \[amending [section 4947 of this title][/us/usc/t26/s4947]\] shall apply to deductions for taxable years beginning after December 31, 2009.”
 
@@ -503,19 +503,19 @@
 
 [Pub. L. 105–34, title III, § 312(d)][/us/pl/105/34/s312/d], Aug. 5, 1997, [111 Stat. 841][/us/stat/111/841], as amended by [Pub. L. 105–206, title VI, § 6005(e)(3)][/us/pl/105/206/s6005/e/3], July 22, 1998, [112 Stat. 806][/us/stat/112/806], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 25, 32, 56, 143, 163, 215, 280A, 464, 512, 1016, 1033, 1038, 1223, 1250, 1274, 6012, 6045, 6212, 6334, 6504, and 7872 of this title and repealing [section 1034 of this title][/us/usc/t26/s1034]\] shall apply to sales and exchanges after May 6, 1997.
 
->     “(2) __Sales on or before date of enactment.—__ 
+>     “(2)  __Sales on or before date of enactment__  __.—__ 
 
 >     At the election of the taxpayer, the amendments made by this section shall not apply to any sale or exchange on or before the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(3) __Certain sales within 2 years after date of enactment.—__ 
+>     “(3)  __Certain sales within 2 years after date of enactment__  __.—__ 
 
 >     Section 121 of the Internal Revenue Code of 1986 (as amended by this section) shall be applied without regard to subsection (c)(2)(B) thereof in the case of any sale or exchange of property during the 2-year period beginning on the date of the enactment of this Act if the taxpayer held such property on the date of the enactment of this Act and fails to meet the ownership and use requirements of subsection (a) thereof with respect to such property.
 
->     “(4) __Binding contracts.—__ 
+>     “(4)  __Binding contracts__  __.—__ 
 
 >     At the election of the taxpayer, the amendments made by this section shall not apply to a sale or exchange after the date of the enactment of this Act, if—
 

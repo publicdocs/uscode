@@ -319,11 +319,11 @@
 
 [Pub. L. 101–239, title VII, § 7612(e)(2)][/us/pl/101/239/s7612/e/2], Dec. 19, 1989, [103 Stat. 2375][/us/stat/103/2375], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after March 31, 1990.
 
->     “(B) __Special rule for year which includes__  __march 31, 1990__  __.—__ 
+>     “(B)  __Special rule for year which includes __  __march 31, 1990__  __.—__ 
 
 >     In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii) of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
 

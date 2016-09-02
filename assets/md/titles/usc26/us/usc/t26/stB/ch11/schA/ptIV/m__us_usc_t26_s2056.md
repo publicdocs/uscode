@@ -313,13 +313,13 @@
 
 [Pub. L. 102–486, title XIX, § 1941(c)][/us/pl/102/486/s1941/c], Oct. 24, 1992, [106 Stat. 3036][/us/stat/106/3036], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Oct. 24, 1992\].
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         The amendment made by subsection (a) shall not apply to any interest in property which passes (or has passed) to the surviving spouse of the decedent pursuant to a will (or revocable trust) in existence on the date of the enactment of this Act if—
 
@@ -329,7 +329,7 @@
 
 >             The preceding sentence shall not apply if such will (or revocable trust) is amended at any time after such date of enactment in any respect which will increase the amount of the interest which so passes or alters the terms of the transfer by which the interest so passes.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending [section 2523 of this title][/us/usc/t26/s2523]\] shall apply to gifts made after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
@@ -355,7 +355,7 @@
 
 [Pub. L. 100–647, title VI, § 6152(c)][/us/pl/100/647/s6152/c], Nov. 10, 1988, [102 Stat. 3725][/us/stat/102/3725], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection—
 
@@ -363,11 +363,11 @@
 
 >         “(B) the amendment made by subsection (b) \[amending [section 2523 of this title][/us/usc/t26/s2523]\] shall apply to transfers after December 31, 1981.
 
->     “(2) __Not to apply to extent inconsistent with prior return.—__ 
+>     “(2)  __Not to apply to extent inconsistent with prior return__  __.—__ 
 
 >     In the case of any estate or gift tax return filed before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and [section 2523 of this title][/us/usc/t26/s2523]\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
 
->     “(3) __Extension of time for election out.—__ 
+>     “(3)  __Extension of time for election out__  __.—__ 
 
 >     The time for making an election under section 2056(b)(7)(C)(ii) or 2523(f)(6)(B) of the 1986 Code (as added by this subsection) shall not expire before the day 2 years after the date of the enactment of this Act (and, if such election is made within the time permitted under this paragraph, the requirement of such section 2056(b)(7)(C)(ii) that it be made on the return shall not apply).”
 

@@ -317,11 +317,11 @@
 
 [Pub. L. 98–21, title I, § 124(d)][/us/pl/98/21/s124/d], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 32, 164, 275, 401, and 1402 of this title, and [section 411 of Title 42][/us/usc/t42/s411], The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending sections 32, 164, 275, 401, and 1402 of this title and [section 411 of Title 42][/us/usc/t42/s411]\] shall apply to taxable years beginning after December 31, 1989.”
 
@@ -391,7 +391,7 @@
 
 [Pub. L. 111–312, title VI, § 601][/us/pl/111/312/s601], Dec. 17, 2010, [124 Stat. 3309][/us/stat/124/3309], as amended by [Pub. L. 112–78, title I, § 101(a)][/us/pl/112/78/s101/a]–(d), Dec. 23, 2011, [125 Stat. 1281][/us/stat/125/1281], 1282; [Pub. L. 112–96, title I, § 1001(a)][/us/pl/112/96/s1001/a], (b), Feb. 22, 2012, [126 Stat. 158][/us/stat/126/158], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law—
 
@@ -401,11 +401,11 @@
 
 >     “(b) __Coordination With Deductions for Employment Taxes.—__ 
 
->         “(1) __Deduction in computing net earnings from self-employment.—__ 
+>         “(1)  __Deduction in computing net earnings from self-employment__  __.—__ 
 
 >         For purposes of applying section 1402(a)(12) of the Internal Revenue Code of 1986, the rate of tax imposed by subsection 1401(a) of such Code shall be determined without regard to the reduction in such rate under this section.
 
->         “(2) __Individual deduction.—__ 
+>         “(2)  __Individual deduction__  __.—__ 
 
 >         In the case of the taxes imposed by section 1401 of such Code for any taxable year which begins in the payroll tax holiday period, the deduction under section 164(f) of such Code with respect to such taxes shall be equal to the sum of—
 
@@ -413,25 +413,25 @@
 
 >             “(B) one-half of the portion of such taxes attributable to the tax imposed by section 1401(b) of such Code.
 
->     “(c) __Payroll Tax Holiday Period.—__ 
+>     “(c)  __Payroll Tax Holiday Period__  __.—__ 
 
 >     The term ‘payroll tax holiday period’ means calendar years 2011 and 2012.
 
->     “(d) __Employer Notification.—__ 
+>     “(d)  __Employer Notification__  __.—__ 
 
 >     The Secretary of the Treasury shall notify employers of the payroll tax holiday period in any manner the Secretary deems appropriate.
 
 >     “(e) __Transfers of Funds.—__ 
 
->         “(1) __Transfers to federal old-age and survivors insurance trust fund.—__ 
+>         “(1)  __Transfers to federal old-age and survivors insurance trust fund__  __.—__ 
 
 >         There are hereby appropriated to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.
 
->         “(2) __Transfers to social security equivalent benefit account.—__ 
+>         “(2)  __Transfers to social security equivalent benefit account__  __.—__ 
 
 >         There are hereby appropriated to the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n–1(a)][/us/usc/t45/s231n–1/a]) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a)(2). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Account had such amendments not been enacted.
 
->         “(3) __Coordination with other federal laws.—__ 
+>         “(3)  __Coordination with other federal laws__  __.—__ 
 
 >         For purposes of applying any provision of Federal law other than the provisions of the Internal Revenue Code of 1986, the rate of tax in effect under section 3101(a) of such Code shall be determined without regard to the reduction in such rate under this section.”
 

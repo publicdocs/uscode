@@ -81,19 +81,19 @@
 
 [Pub. L. 100–647, title III, § 3031(h)][/us/pl/100/647/s3031/h], Nov. 10, 1988, [102 Stat. 3639][/us/stat/102/3639], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, any amendment made by this section \[enacting [section 2207B of this title][/us/usc/t26/s2207B] and amending this section and [section 2501 of this title][/us/usc/t26/s2501]\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[[Pub. L. 100–203, title X][/us/pl/100/203]\] to which such amendment relates.
 
->     “(2) __Subsection (a).—__ 
+>     “(2)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section and [section 2501 of this title][/us/usc/t26/s2501]\] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988.
 
->     “(3) __Subsection (f).—__ 
+>     “(3)  __Subsection__  __(f).—__ 
 
 >     If an amount is included in the gross estate of a decedent under section 2036 of the 1986 Code other than solely by reason of section 2036(c) of the 1986 Code, the amendments made by subsection (f) \[enacting [section 2207B of this title][/us/usc/t26/s2207B]\] shall apply to such amount only with respect to property transferred after the date of the enactment of this Act \[Nov. 10, 1988\].
 
->     “(4) __Correction period.—__ 
+>     “(4)  __Correction period__  __.—__ 
 
 >     If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to any interest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—
 
@@ -101,7 +101,7 @@
 
 >         “(B) the original transferor and his spouse on January 1, 1990 (or, if earlier, the date of the original transferor’s death), does not hold any interest in the enterprise involved.
 
->     “(5) __Clarification of effective date.—__ 
+>     “(5)  __Clarification of effective date__  __.—__ 
 
 >     For purposes of section 10402(b) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out as an Effective Date of 1987 Amendment note below\], with respect to property transferred on or before December 17, 1987—
 

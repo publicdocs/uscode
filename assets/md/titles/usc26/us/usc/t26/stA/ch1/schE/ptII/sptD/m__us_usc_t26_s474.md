@@ -121,11 +121,11 @@
 
 [Pub. L. 99–514, title VIII, § 802(c)][/us/pl/99/514/s802/c], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Treatment of taxpayers who made elections under existing section 474.—__ 
+>     “(2)  __Treatment of taxpayers who made elections under existing section 474__  __.—__ 
 
 >     The amendments made by this section shall not apply to any taxpayer who made an election under section 474 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any period during which such election is in effect. Notwithstanding any provision of such section 474 (as so in effect), an election under such section may be revoked without the consent of the Secretary.”
 

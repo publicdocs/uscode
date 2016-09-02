@@ -457,17 +457,17 @@
 
 [Pub. L. 110–289, div. C, title III, § 3091(e)][/us/pl/110/289/s3091/e], July 30, 2008, [122 Stat. 2911][/us/stat/122/2911], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 6050W of this title][/us/usc/t26/s6050W] and amending this section and [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to returns for calendar years beginning after December 31, 2010.
 
 >     “(2) __Application of backup withholding.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (c) \[amending this section\] shall apply to amounts paid after December 31, 2011.
 
->         “(B) __Eligibility for tin matching program.—__ 
+>         “(B)  __Eligibility for tin matching program__  __.—__ 
 
 >         Solely for purposes of carrying out any TIN matching program established by the Secretary under section 3406(i) of the Internal Revenue Code of 1986—
 
@@ -533,25 +533,25 @@
 
 [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a]–(d), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subtitle A of title III of the Tax Equity and Fiscal Responsibility Act of 1982 (relating to withholding of tax from interest and dividends) \[subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248], which enacted this section and sections 3452 to 3456 of this title, amended sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title and enacted provisions set out as a note above\] is hereby repealed as of the close of June 30, 1983.
 
->     “(b) __Conforming Amendment.—__ 
+>     “(b)  __Conforming Amendment__  __.—__ 
 
 >     Except as provided in this section, the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
->     “(c) __Repeal Not To Apply to Amounts Deducted and Withheld Before__  __September 2, 1983__  __.—__ 
+>     “(c)  __Repeal Not To Apply to Amounts Deducted and Withheld Before September__  __2, 1983.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If, notwithstanding the repeal made by subsection (a) (and the provisions of subsection (b)), an amount is deducted and withheld before September 2, 1983, under subchapter B of chapter 24 of the Internal Revenue Code of 1986 (as in effect before its repeal by subsection (a)), the repeal made by subsection (a) (and the provisions of subsection (b)) shall not apply to the amount so deducted and withheld.
 
->         “(2) __Election to have paragraph (1) not apply.—__ 
+>         “(2)  __Election to have paragraph (1) not apply__  __.—__ 
 
 >         Paragraph (1) shall not apply with respect to any payor who elects (at the time and in the manner prescribed by the Secretary of the Treasury or his delegate) to have paragraph (1) not apply.
 
->     “(d) __Estimated Tax Payments.—__ 
+>     “(d)  __Estimated Tax Payments__  __.—__ 
 
 >     For purposes of determining the amount of any addition to tax under section 6654 of the Internal Revenue Code of 1986 with respect to any installment required to be paid before July 1, 1983, the amount of the credit allowed by section 31 of such Code for any taxable year which includes any portion of the period beginning July 1, 1983, and ending December 31, 1983, shall be increased by an amount equal to 10 percent of the aggregate amount of payments—
 

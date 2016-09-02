@@ -31,11 +31,11 @@
 
 [Pub. L. 107–181, § 2(b)][/us/pl/107/181/s2/b], May 20, 2002, [116 Stat. 583][/us/stat/116/583], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.
 
->     “(2) __Returns positions.—__ 
+>     “(2)  __Returns positions__  __.—__ 
 
 >     The amendment made by this section also shall apply to any taxable year beginning before January 1, 2002, for which the taxpayer—
 
@@ -43,7 +43,7 @@
 
 >         “(B) filed a return after April 16, 2002.
 
->     “(3) __Other years before 2002.—__ 
+>     “(3)  __Other years before 2002__  __.—__ 
 
 >     Except as provided in paragraph (2), notwithstanding any prior regulation, revenue ruling, or other guidance issued by the Internal Revenue Service, no person shall be subject to the limitations added to section 107 of such Code by this Act for any taxable year beginning before January 1, 2002.”
 

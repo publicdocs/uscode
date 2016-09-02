@@ -55,7 +55,7 @@
 
             In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).
 
-        (2) __Amounts paid for certain lodging away from home treated as paid for medical care.—__ 
+        (2)  __Amounts paid for certain lodging away from home treated as paid for medical care__  __.—__ 
 
         Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
@@ -65,15 +65,15 @@
 
             The amount taken into account under the preceding sentence shall not exceed $50 for each night for each individual.
 
-        (3) __Prescribed drug.—__ 
+        (3)  __Prescribed drug__  __.—__ 
 
         The term “prescribed drug” means a drug or biological which requires a prescription of a physician for its use by an individual.
 
-        (4) __Physician.—__ 
+        (4)  __Physician__  __.—__ 
 
         The term “physician” has the meaning given to such term by section 1861(r) of the Social Security Act ([42 U.S.C. 1395x(r)][/us/usc/t42/s1395x/r]).
 
-        (5) __Special rule in the case of child of divorced parents, etc.—__ 
+        (5)  __Special rule in the case of child of divorced parents, etc__  __.—__ 
 
         Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this section.
 
@@ -93,17 +93,17 @@
 
         (9) __Cosmetic surgery.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “medical care” does not include cosmetic surgery or other similar procedures, unless the surgery or procedure is necessary to ameliorate a deformity arising from, or directly related to, a congenital abnormality, a personal injury resulting from an accident or trauma, or disfiguring disease.
 
-            (B) __Cosmetic surgery defined.—__ 
+            (B)  __Cosmetic surgery defined__  __.—__ 
 
             For purposes of this paragraph, the term “cosmetic surgery” means any procedure which is directed at improving the patient’s appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
 
         (10) __Eligible long-term care premiums.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For purposes of this section, the term “eligible long-term care premiums” means the amount paid during a taxable year for any qualified long-term care insurance contract (as defined in section 7702B(b)) covering an individual, to the extent such amount does not exceed the limitation determined under the following table:
 
@@ -175,11 +175,11 @@
 
             (B) __Indexing.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In the case of any taxable year beginning in a calendar year after 1997, each dollar amount contained in subparagraph (A) shall be increased by the medical care cost adjustment of such amount for such calendar year. If any increase determined under the preceding sentence is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10.
 
-                (ii) __Medical care cost adjustment.—__ 
+                (ii)  __Medical care cost adjustment__  __.—__ 
 
                 For purposes of clause (i), the medical care cost adjustment for any calendar year is the percentage (if any) by which—
 
@@ -189,7 +189,7 @@
 
                  The Secretary shall, in consultation with the Secretary of Health and Human Services, prescribe an adjustment which the Secretary determines is more appropriate for purposes of this paragraph than the adjustment described in the preceding sentence, and the adjustment so prescribed shall apply in lieu of the adjustment described in the preceding sentence.
 
-        (11) __Certain payments to relatives treated as not paid for medical care.—__ 
+        (11)  __Certain payments to relatives treated as not paid for medical care__  __.—__ 
 
         An amount paid for a qualified long-term care service (as defined in section 7702B(c)) provided to an individual shall be treated as not paid for medical care if such service is provided—
 
@@ -381,11 +381,11 @@
 
 [Pub. L. 97–248, title II, § 202(c)][/us/pl/97/248/s202/c], Sept. 3, 1982, [96 Stat. 421][/us/stat/96/421], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section and [section 105 of this title][/us/usc/t26/s105]\] shall apply to taxable years beginning after December 31, 1983.”
 

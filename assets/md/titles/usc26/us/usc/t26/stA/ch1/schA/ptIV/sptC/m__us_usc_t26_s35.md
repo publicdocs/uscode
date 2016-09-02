@@ -377,7 +377,7 @@
 
 [Pub. L. 112–40, title II, § 241(c)][/us/pl/112/40/s241/c], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section, [section 7527 of this title][/us/usc/t26/s7527], and [section 2918 of Title 29][/us/usc/t29/s2918], Labor\] shall apply to coverage months beginning after February 12, 2011.
 
@@ -437,11 +437,11 @@
 
 [Pub. L. 107–210, div. A, title II, § 201(d)][/us/pl/107/210/s201/d], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and [section 300gg–45 of Title 42][/us/usc/t42/s300gg–45], The Public Health and Welfare, amending [section 1324 of Title 31][/us/usc/t31/s1324], Money and Finance, and renumbering former [section 35 of this title][/us/usc/t26/s35] as [section 36 of this title][/us/usc/t26/s36]\] shall apply to taxable years beginning after December 31, 2001.
 
->     “(2) __State high risk pools.—__ 
+>     “(2)  __State high risk pools__  __.—__ 
 
 >     The amendment made by subsection (b) \[enacting [section 300gg–45 of Title 42][/us/usc/t42/s300gg–45]\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\].”
 
@@ -455,15 +455,15 @@
 
 >     “(a) __Survey.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’).
 
->         “(2) __Information obtained.—__ 
+>         “(2)  __Information obtained__  __.—__ 
 
 >         The survey conducted under subsection (a) shall obtain the following information:
 
->             “(A) __HCTC participants.—__ 
+>             “(A) __HCTC__  __participants__  __.—__ 
 
 >             In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—
 
@@ -475,7 +475,7 @@
 
 >                 “(iv) any other information that the Secretary determines is appropriate.
 
->             “(B) __Non-HCTC participants.—__ 
+>             “(B)  __Non-HCTC participants__  __.—__ 
 
 >             In the case of eligible individuals not receiving the health coverage tax credit—
 
@@ -489,11 +489,11 @@
 
 >                 “(v) any other information that the Secretary determines is appropriate.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
 

@@ -175,7 +175,7 @@
 
 [Pub. L. 102–486, title XIX, § 19142][/us/pl/102/486/s19142], Oct. 24, 1992, [106 Stat. 3037][/us/stat/106/3037], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -183,7 +183,7 @@
 
 >         “(2) in order to secure the stability of interstate commerce, it is necessary to modify the current private health care benefit plan structure for retirees in the coal industry to identify persons most responsible for plan liabilities in order to stabilize plan funding and allow for the provision of health care benefits to such retirees.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     It is the policy of this subtitle \[subtitle C (§§ 19141–19143) of title XIX of [Pub. L. 102–486][/us/pl/102/486], enacting this subtitle, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under [section 1 of this title][/us/usc/t26/s1]\]—
 

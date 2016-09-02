@@ -217,23 +217,23 @@
 
 [Pub. L. 108–357, title VIII, § 903(d)][/us/pl/108/357/s903/d], Oct. 22, 2004, [118 Stat. 1652][/us/stat/118/1652], as amended by [Pub. L. 109–135, title III, § 303(a)(1)][/us/pl/109/135/s303/a/1], Dec. 21, 2005, [119 Stat. 2608][/us/stat/119/2608]; [Pub. L. 109–432, div. A, title IV, § 426(b)(1)][/us/pl/109/432/s426/b/1], Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2003.
 
 >     “(2) __Exception for reportable or listed transactions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (c) \[amending this section\] shall apply with respect to interest accruing after October 3, 2004.
 
 >         “(B) __Special rule for certain listed and reportable transactions.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Except as provided in clauses (ii), (iii), and (iv), the amendments made by subsection (c) shall also apply with respect to interest accruing on or before October 3, 2004.
 
->             “(ii) __Participants in settlement initiatives.—__ 
+>             “(ii)  __Participants in settlement initiatives__  __.—__ 
 
 >             Clause (i) shall not apply to any transaction if, as of January 23, 2006—
 
@@ -243,11 +243,11 @@
 
 >                   Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiative or the Secretary of the Treasury or the Secretary’s delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
 
->             “(iii) __Taxpayers acting in good faith.—__ 
+>             “(iii)  __Taxpayers acting in good faith__  __.—__ 
 
 >             The Secretary of the Treasury or the Secretary’s delegate may except from the application of clause (i) any transaction in which the taxpayer has acted reasonably and in good faith.
 
->             “(iv) __Closed transactions.—__ 
+>             “(iv)  __Closed transactions__  __.—__ 
 
 >             Clause (i) shall not apply to a transaction if, as of December 14, 2005—
 
@@ -281,7 +281,7 @@
 
 [Pub. L. 105–206, title III, § 3309(b)][/us/pl/105/206/s3309/b], (c), July 22, 1998, [112 Stat. 745][/us/stat/112/745], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to disasters declared after December 31, 1997, with respect to taxable years beginning after December 31, 1997.
 
@@ -319,11 +319,11 @@
 
 [Pub. L. 99–514, title XV, § 1563(b)][/us/pl/99/514/s1563/b], Oct. 22, 1986, [100 Stat. 2762][/us/stat/100/2762], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after December 31, 1978.
 
->     “(2) __Statute of limitations.—__ 
+>     “(2)  __Statute of limitations__  __.—__ 
 
 >     If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
 

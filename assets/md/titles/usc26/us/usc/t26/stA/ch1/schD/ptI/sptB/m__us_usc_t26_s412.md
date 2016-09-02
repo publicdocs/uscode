@@ -505,15 +505,15 @@
 
 [Pub. L. 109–280, title II, § 212(e)][/us/pl/109/280/s212/e], Aug. 17, 2006, [120 Stat. 917][/us/stat/120/917], as amended by [Pub. L. 110–458, title I, § 102(b)(3)(B)][/us/pl/110/458/s102/b/3/B], (C), Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 432 of this title][/us/usc/t26/s432] and amending this section and [section 4971 of this title][/us/usc/t26/s4971]\] shall apply with respect to plan years beginning after 2007, except that the amendments made by subsection (b) \[amending [section 4971 of this title][/us/usc/t26/s4971]\] shall apply to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year.
 
->     “(2) __Special rule for certain notices.—__ 
+>     “(2)  __Special rule for certain notices__  __.—__ 
 
 >     In any case in which a plan’s actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 432(b)(3) of the Internal Revenue Code of 1986, as added by this section, with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
 
->     “(3) __Special rule for certain restored benefits.—__ 
+>     “(3)  __Special rule for certain restored benefits__  __.—__ 
 
 >     In the case of a multiemployer plan—
 
@@ -525,11 +525,11 @@
 
 [Pub. L. 109–280, title II, § 221(c)][/us/pl/109/280/s221/c], Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, notwithstanding any other provision of this Act \[see Tables for classification\], the provisions of, and the amendments made by, sections 201(b), 202, and 212 \[enacting [section 432 of this title][/us/usc/t26/s432] and [section 1085 of Title 29][/us/usc/t29/s1085], Labor, amending this section, [section 4971 of this title][/us/usc/t26/s4971], and sections 1082 and 1132 of Title 29, and enacting provisions set out as notes under this section and sections 1082 and 1084 of Title 29\] shall not apply to plan years beginning after December 31, 2014.
 
->     “(2) __Funding improvement and rehabilitation plans.—__ 
+>     “(2)  __Funding improvement and rehabilitation plans__  __.—__ 
 
 >     If a plan is operating under a funding improvement or rehabilitation plan under section 305 of such Act \[probably means section 305 of the Employee Retirement Income Security Act of 1974, [Pub. L. 93–406][/us/pl/93/406], [29 U.S.C. 1085][/us/usc/t29/s1085]\] or 432 of such Code \[probably means section 432 of the Internal Revenue Code of 1986\] for its last year beginning before January 1, 2015, such plan shall continue to operate under such funding improvement or rehabilitation plan during any period after December 31, 2014, such funding improvement or rehabilitation plan is in effect and all provisions of such Act or Code relating to the operation of such funding improvement or rehabilitation plan shall continue in effect during such period.”
 
@@ -567,11 +567,11 @@
 
 [Pub. L. 103–465, title VII, § 752(b)][/us/pl/103/465/s752/b], Dec. 8, 1994, [108 Stat. 5023][/us/stat/108/5023], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to changes in assumptions for plan years beginning after October 28, 1993.
 
->     “(2) __Certain changes cease to be effective.—__ 
+>     “(2)  __Certain changes cease to be effective__  __.—__ 
 
 >     In the case of changes in assumptions for plan years beginning after December 31, 1992, and on or before October 28, 1993, such changes shall cease to be effective for plan years beginning after December 31, 1994, if—
 
@@ -603,27 +603,27 @@
 
 [Pub. L. 100–203, title IX, § 9301(c)(1)][/us/pl/100/203/s9301/c/1], (2), Dec. 22, 1987, [101 Stat. 1330–333][/us/stat/101/1330-333], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082], Labor\] shall apply to years beginning after December 31, 1987.
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall prescribe such regulations as are necessary to carry out the amendments made by this section no later than August 15, 1988.”
 
 [Pub. L. 100–203, title IX, § 9303(e)][/us/pl/100/203/s9303/e], Dec. 22, 1987, [101 Stat. 1330–342][/us/stat/101/1330-342], as amended by [Pub. L. 101–239, title VII, § 7881(a)(7)][/us/pl/101/239/s7881/a/7], Dec. 19, 1989, [103 Stat. 2436][/us/stat/103/2436], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082], Labor\] shall apply with respect to plan years beginning after December 31, 1988.
 
->     “(2) __Subsections (c) and (d).—__ 
+>     “(2)  __Subsections__  __(c)__  __and__  __(d).—__ 
 
 >     The amendments made by subsections (c) \[set out below\] and (d) \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082]\] shall apply with respect to years beginning after December 31, 1987.
 
 >     “(3) __Special rule for steel companies.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For any plan year beginning before January 1, 1994, any increase in the funding standard account under \[former\] section 412(l) of the 1986 Code or section 302(d) of ERISA (as added by this section) \[[29 U.S.C. 1082(d)][/us/usc/t29/s1082/d]\] with respect to any steel employee plan shall not exceed the sum of—
 
@@ -631,7 +631,7 @@
 
 >             “(ii) the amount determined under subparagraph (C)(i) for such plan year.
 
->         “(B) __Required percentage.—__ 
+>         “(B)  __Required percentage__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘required percentage’ means, with respect to any plan year, the excess (if any) of—
 
@@ -645,15 +645,15 @@
 
 >             “(ii) the funded current liability percentage as of the beginning of the plan year for which such determination is being made.
 
->         “(C) __Special rules for contingent events.—__ 
+>         “(C)  __Special rules for contingent events__  __.—__ 
 
 >         In the case of any unpredictable contingent event benefit with respect to which the event on which such benefits are contingent occurs after December 17, 1987—
 
->             “(i) __Amortization amount.—__ 
+>             “(i)  __Amortization amount__  __.—__ 
 
 >             For purposes of subparagraph (A)(ii), the amount determined under this clause for any plan year is the amount which would be determined if the unpredictable contingent event benefit liability were amortized in equal annual installments over 10 plan years (beginning with the plan year in which such event occurs).
 
->             “(ii) __Benefit and contributions not taken into account.—__ 
+>             “(ii)  __Benefit and contributions not taken into account__  __.—__ 
 
 >             For purposes of subparagraph (B), in determining the funded current liability percentage for any plan year, there shall not be taken into account—
 
@@ -661,7 +661,7 @@
 
 >                 “(II) any amount contributed to the plan which is attributable to clause (i) (and any income allocable to such amount).
 
->         “(D) __Steel employee plan.—__ 
+>         “(D)  __Steel employee plan__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘steel employee plan’ means any plan if—
 
@@ -669,19 +669,19 @@
 
 >             “(ii) substantially all of the employees covered by such plan are employees of such company.
 
->         “(E) __Other definitions.—__ 
+>         “(E)  __Other definitions__  __.—__ 
 
 >         For purposes of this paragraph—
 
->             “(i) __Steel company.—__ 
+>             “(i)  __Steel company__  __.—__ 
 
 >             The term ‘steel company’ means any corporation described in section 806(b) of the Steel Import Stabilization Act \[[section 806(b) of Pub. L. 98–573][/us/pl/98/573/s806/b], [19 U.S.C. 2253][/us/usc/t19/s2253] note\].
 
->             “(ii) __Other definitions.—__ 
+>             “(ii)  __Other definitions__  __.—__ 
 
 >             The terms ‘current liability’, ‘funded current liability percentage’, and ‘unpredictable contingent event benefit’ have the meanings given such terms by \[former\] section 412(l) of the 1986 Code (as added by this section).
 
->         “(F) __Special rule.—__ 
+>         “(F)  __Special rule__  __.—__ 
 
 >         The provisions of this paragraph shall apply in the case of a company which was originally incorporated on April 25, 1927, in Michigan and reincorporated on June 3, 1968, in Delaware in the same manner as if such company were a steel company.”
 
@@ -703,7 +703,7 @@
 
 [Pub. L. 100–203, title IX, § 9306(f)][/us/pl/100/203/s9306/f], Dec. 22, 1987, [101 Stat. 1330–355][/us/stat/101/1330-355], as amended by [Pub. L. 101–239, title VII, § 7881(c)(3)][/us/pl/101/239/s7881/c/3], Dec. 19, 1989, [103 Stat. 2439][/us/stat/103/2439], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 1083, 1084, and 1085a of Title 29, Labor\] shall apply in the case of—
 
@@ -713,19 +713,19 @@
 
 >     “(2) __Special rule for application requirement.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsections (a)(1)(A) and (a)(2)(A) \[amending this section and [section 1083 of Title 29][/us/usc/t29/s1083]\] shall apply to plan years beginning after December 31, 1987.
 
->         “(B) __Transitional rule for years beginning in 1988.—__ 
+>         “(B)  __Transitional rule for years beginning in 1988__  __.—__ 
 
 >         In the case of any plan year beginning during calendar 1988, \[former\] section 412(d)(4) of the 1986 Code and section 303(d)(1) of ERISA \[[29 U.S.C. 1083(d)(1)][/us/usc/t29/s1083/d/1]\] (as added by subsection (a)(1) \[and (2)\]) shall be applied by substituting ‘6th month’ for ‘3rd month’.
 
->     “(3) __Subsection (b).—__ 
+>     “(3)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section and [section 1083 of Title 29][/us/usc/t29/s1083]\] shall apply to waivers for plan years beginning after December 31, 1987. For purposes of applying such amendments, the number of waivers which may be granted for plan years after December 31, 1987, shall be determined without regard to any waivers granted for plan years beginning before January 1, 1988.
 
->     “(4) __Subsection (d).—__ 
+>     “(4)  __Subsection__  __(d).—__ 
 
 >     The amendments made by subsection (d) \[amending this section and [section 1083 of Title 29][/us/usc/t29/s1083]\] shall apply to applications submitted more than 90 days after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -759,7 +759,7 @@
 
 [Pub. L. 103–465, title VII, § 769][/us/pl/103/465/s769], Dec. 8, 1994, [108 Stat. 5041][/us/stat/108/5041], as amended by [Pub. L. 105–34, title XV, § 1508(a)][/us/pl/105/34/s1508/a], Aug. 5, 1997, [111 Stat. 1067][/us/stat/111/1067]; [Pub. L. 108–218, title II, § 201(a)][/us/pl/108/218/s201/a], Apr. 10, 2004, [118 Stat. 608][/us/stat/118/608]; [Pub. L. 109–280, title I, § 115(d)(1)][/us/pl/109/280/s115/d/1], (e)(1), Aug. 17, 2006, [120 Stat. 856][/us/stat/120/856], provided that:
 
->     “(a) __Funding Rules Not To Apply to Certain Plans.—__ 
+>     “(a)  __Funding Rules Not To Apply to Certain Plans__  __.—__ 
 
 >     Any changes made by this Act \[[Pub. L. 103–465][/us/pl/103/465]\] to section 412 of the Internal Revenue Code of 1986 or to part 3 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1081][/us/usc/t29/s1081] et seq.\] shall not apply to—
 
@@ -767,7 +767,7 @@
 
 >         “(2) a plan established by an affected air carrier (as defined under section 4001(a)(14)(C)(ii)(I) of such Act \[[29 U.S.C. 1301(a)(14)(C)(ii)(I)][/us/usc/t29/s1301/a/14/C/ii/I]\]) and assumed by a new plan sponsor pursuant to the terms of a written agreement with the Pension Benefit Guaranty Corporation dated January 5, 1993, and approved by the United States Bankruptcy Court for the District of Delaware on December 30, 1992.
 
->     “(b) __Change in Actuarial Method.—__ 
+>     “(b)  __Change in Actuarial Method__  __.—__ 
 
 >     Any amortization installments for bases established under \[former\] section 412(b) of the Internal Revenue Code of 1986 and section 302(b) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082(b)][/us/usc/t29/s1082/b]\] for plan years beginning after December 31, 1987, and before January 1, 1993, by reason of nonelective changes under the frozen entry age actuarial cost method shall not be included in the calculation of offsets under \[former\] section 412(l)(1)(A)(ii) of such Code and section 302(d)(1)(A)(ii) of such Act for the 1st 5 plan years beginning after December 31, 1994.”
 
@@ -839,7 +839,7 @@
 
 [Pub. L. 93–406, title II, § 1013(d)][/us/pl/93/406/s1013/d], Sept. 2, 1974, [88 Stat. 923][/us/stat/88/923], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     In the case of any multiemployer plan (as defined in section 414(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to which section 412 of such Code applies, if—
 
@@ -851,7 +851,7 @@
 
 >          the plan may elect (in such manner and at such time as may be provided under regulations prescribed by the Secretary of the Treasury or his delegate) to fund the unfunded past service liability under the plan existing as of the date 12 months following the first date on which such section 412 first applies to the plan by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan in lieu of the level dollar charges to such account required under clauses (i), (ii), and (iii) of \[former\] section 412(b)(2)(B) of such Code and section 302(b)(2)(B)(i), (ii), and (iii) of this Act \[section 1082(b)(2)(B)(i), (ii), and (iii) of Title 29, Labor\].
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     In the case of a plan which makes an election under paragraph (1), the aggregate of the charges required under such paragraph for a plan year shall not be less than the interest on the unfunded past service liabilities described in clauses (i), (ii), and (iii) of \[former\] section 412(b)(2)(B) of the Internal Revenue Code of 1986.”
 

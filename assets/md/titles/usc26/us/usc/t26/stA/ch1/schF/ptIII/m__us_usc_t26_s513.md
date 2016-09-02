@@ -311,7 +311,7 @@
 
 [Pub. L. 98–369, div. A, title III, § 311][/us/pl/98/369/s311], July 18, 1984, [98 Stat. 786][/us/stat/98/786], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1834, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2852, provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of section 513 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (defining unrelated trade or business), the term ‘unrelated trade or business’ does not include any trade or business which consists of conducting any game of chance if—
 
@@ -327,7 +327,7 @@
 
 >             “(B) the conducting of such game of chance by organizations which were not nonprofit organizations would have violated such law.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to games of chance conducted after June 30, 1981, in taxable years ending after such date.”
 

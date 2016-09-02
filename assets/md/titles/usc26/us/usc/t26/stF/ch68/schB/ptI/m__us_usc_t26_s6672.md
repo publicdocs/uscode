@@ -151,7 +151,7 @@
 
 [Pub. L. 104–168, title IX, § 904(b)][/us/pl/104/168/s904/b], July 30, 1996, [110 Stat. 1467][/us/stat/110/1467], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate (hereafter in this subsection referred to as the ‘Secretary’) shall take such actions as may be appropriate to ensure that employees are aware of their responsibilities under the Federal tax depository system, the circumstances under which employees may be liable for the penalty imposed by section 6672 of the Internal Revenue Code of 1986, and the responsibility to promptly report to the Internal Revenue Service any failure referred to in subsection (a) of such section 6672. Such actions shall include—
 
@@ -159,11 +159,11 @@
 
 >         “(B) the development of a special information packet.
 
->     “(2) __Development of explanatory materials.—__ 
+>     “(2)  __Development of explanatory materials__  __.—__ 
 
 >     The Secretary shall develop materials explaining the circumstances under which board members of tax-exempt organizations (including voluntary and honorary members) may be subject to penalty under section 6672 of such Code. Such materials shall be made available to tax-exempt organizations.
 
->     “(3) __IRS instructions.—__ 
+>     “(3)  __IRS instructions__  __.—__ 
 
 >     The Secretary shall clarify the instructions to Internal Revenue Service employees on the application of the penalty under section 6672 of such Code with regard to voluntary members of boards of trustees or directors of tax-exempt organizations.”
 

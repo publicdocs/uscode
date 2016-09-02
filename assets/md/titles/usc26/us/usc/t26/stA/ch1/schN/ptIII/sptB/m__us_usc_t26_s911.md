@@ -619,11 +619,11 @@
 
 [Pub. L. 95–615, title II, § 209][/us/pl/95/615/s209], Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), the amendments made by this title \[see [section 201(a) of Pub. L. 95–615][/us/pl/95/615/s201/a], set out as a Short Title of 1978 Amendment note under [section 1 of this title][/us/usc/t26/s1]\] shall apply to taxable years beginning after December 31, 1977.
 
->     “(b) __Wage Withholding.—__ 
+>     “(b)  __Wage Withholding__  __.—__ 
 
 >     The amendment made by section 207(a) \[amending [section 3401 of this title][/us/usc/t26/s3401]\] shall apply to remuneration paid after the date of the enactment of this Act. \[Nov. 8, 1978\].
 
@@ -695,11 +695,11 @@
 
 [Pub. L. 95–615, title II, § 208][/us/pl/95/615/s208], Nov. 8, 1978, [92 Stat. 3108][/us/stat/92/3108], as amended by [Pub. L. 97–34, title I, § 114][/us/pl/97/34/s114], Aug. 13, 1981, [95 Stat. 195][/us/stat/95/195]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–508, title XI, § 11833][/us/pl/101/508/s11833], Nov. 5, 1990, [104 Stat. 1388–560][/us/stat/104/1388-560], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     As soon as practicable after December 31, 1993, and as soon as practicable after the close of each fifth calendar year thereafter, the Secretary of the Treasury shall transmit a report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate on the operation and effects of sections 911 and 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a).”
 

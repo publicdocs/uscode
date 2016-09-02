@@ -229,15 +229,15 @@
 
 [Pub. L. 111–147, title V, § 501(d)][/us/pl/111/147/s501/d], Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
 
->     “(2) __Grandfathered treatment of outstanding obligations.—__ 
+>     “(2)  __Grandfathered treatment of outstanding obligations__  __.—__ 
 
 >     The amendments made by this section shall not require any amount to be deducted or withheld from any payment under any obligation outstanding on the date which is 2 years after the date of the enactment of this Act \[Mar. 18, 2010\] or from the gross proceeds from any disposition of such an obligation.
 
->     “(3) __Interest on overpayments.—__ 
+>     “(3)  __Interest on overpayments__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 6611 of this title][/us/usc/t26/s6611]\] shall apply—
 

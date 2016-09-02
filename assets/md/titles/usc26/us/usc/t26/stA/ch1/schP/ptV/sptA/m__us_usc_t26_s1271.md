@@ -199,7 +199,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 44][/us/pl/98/369/s44], July 18, 1984, [98 Stat. 559][/us/stat/98/559], as amended by [Pub. L. 98–612, § 2][/us/pl/98/612/s2], Oct. 31, 1984, [98 Stat. 3182][/us/stat/98/3182]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1803(b), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2797, provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle C (§§ 41–44) of title I of div. A of [Pub. L. 98–369][/us/pl/98/369], enacting this section and sections 1272 to 1288 and 6706, amending sections 103A, 163, 165, 249, 341, 405, 409, 453B, 483, 751, 811, 871, 881, 1016, 1037, 1351, 1441, 6049, 7701, and 7805, and repealing sections 1232, 1232A, and 1232B of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
 
@@ -211,7 +211,7 @@
 
 >             “(B) Section 1274 of such Code and the amendment made by section 41(b) shall not apply to any sale or exchange pursuant to a written contract which was binding on March 1, 1984, and at all times thereafter before the sale or exchange.
 
->         “(2) __Revision of section 482 regulations.—__ 
+>         “(2)  __Revision of section 482 regulations__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interest rates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
 
@@ -219,7 +219,7 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __Clarification of interest accrual.—__ 
+>                 “(i)  __Clarification of interest accrual__  __.—__ 
 
 >                 In the case of any sale or exchange—
 
@@ -227,7 +227,7 @@
 
 >                          “(II) after June 8, 1984, notwithstanding section 483 of the Internal Revenue Code of 1986 or any other provision of law, no interest shall be deductible before the period to which such interest is properly allocable.
 
->                 “(ii) __Fair market rule.—__ 
+>                 “(ii)  __Fair market rule__  __.—__ 
 
 >                 In the case of any sale or exchange after March 1, 1984, such section 483 shall be treated as including provisions similar to the provisions of section 1274(b)(3) of such Code (as added by section 41).
 
@@ -237,13 +237,13 @@
 
 >                 “(ii) Subparagraph (A)(i)(II) shall not apply to any sale or exchange pursuant to a written contract which was binding on June 8, 1984, and at all times thereafter before the sale or exchange.
 
->             “(C) __Interest accrual rule not to apply where substantially equal annual payments.—__ 
+>             “(C)  __Interest accrual rule not to apply where substantially equal annual payments__  __.—__ 
 
 >             Clause (i) of subparagraph (A) shall not apply to any debt instrument with substantially equal annual payments.
 
 >         “(4) __Special rules for sales after__  __december 31, 1984__  __, and before__  __july 1, 1985__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any sale or exchange after December 31, 1984, and before July 1, 1985, of property other than new section 38 property—
 
@@ -251,11 +251,11 @@
 
 >                 “(ii) sections 483(b) and 1274(b) of such Code shall be applied by substituting the imputation rate determined under subparagraph (C) for 120 percent of the applicable Federal rate determined under section 1274(d) of such Code.
 
->             “(B) __Testing rate.—__ 
+>             “(B)  __Testing rate__  __.—__ 
 
 >             For purposes of this paragraph—
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The testing rate determined under this subparagraph is the sum of—
 
@@ -263,15 +263,15 @@
 
 >                          “(II) if the borrowed amount exceeds $2,000,000, the excess determined under clause (ii) multiplied by a fraction the numerator of which is the borrowed amount to the extent it exceeds $2,000,000, and the denominator of which is the borrowed amount.
 
->                 “(ii) __Excess.—__ 
+>                 “(ii)  __Excess__  __.—__ 
 
 >                 For purposes of clause (i), the excess determined under this clause is the excess of 110 percent of the applicable Federal rate determined under section 1274(d) of such Code over 9 percent.
 
->             “(C) __Imputation rate.—__ 
+>             “(C)  __Imputation rate__  __.—__ 
 
 >             For purposes of this paragraph—
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The imputation rate determined under this subparagraph is the sum of—
 
@@ -279,15 +279,15 @@
 
 >                          “(II) if the borrowed amount exceeds $2,000,000, the excess determined under clause (ii) multiplied by a fraction the numerator of which is the borrowed amount to the extent it exceeds $2,000,000, and the denominator of which is the borrowed amount.
 
->                 “(ii) __Excess.—__ 
+>                 “(ii)  __Excess__  __.—__ 
 
 >                 For purposes of clause (i), the excess determined under this clause is the excess of 120 percent of the applicable Federal rate determined under section 1274(d) of such Code over 10 percent.
 
->             “(D) __Borrowed amount.—__ 
+>             “(D)  __Borrowed amount__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘borrowed amount’ means the stated principal amount.
 
->             “(E) __Aggregation rules.—__ 
+>             “(E)  __Aggregation rules__  __.—__ 
 
 >             For purposes of this paragraph—
 
@@ -295,7 +295,7 @@
 
 >                 “(ii) all debt instruments arising from the same transaction (or a series of related transactions) shall be treated as one debt instrument.
 
->             “(F) __Cash method of accounting.—__ 
+>             “(F)  __Cash method of accounting__  __.—__ 
 
 >             In the case of any sale or exchange before July 1, 1985, of property (other than new section 38 property) used in the active business of farming and in which the borrowed amount does not exceed $2,000,000—
 
@@ -305,11 +305,11 @@
 
 >             The Secretary of the Treasury or his delegate may by regulation prescribe rules to prevent the mismatching of interest income and interest deductions in connection with obligations on which interest is computed on the cash receipts and disbursements method of accounting.
 
->             “(G) __Clarification of application of this paragraph, etc.—__ 
+>             “(G)  __Clarification of application of this paragraph, etc__  __.—__ 
 
 >             This paragraph and paragraphs (5), (6), and (7) shall apply only in the case of sales or exchanges to which section 1274 or 483 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 41) applies.
 
->         “(5) __General rule for assumptions of loans.—__ 
+>         “(5)  __General rule for assumptions of loans__  __.—__ 
 
 >         Except as provided in paragraphs (6) and (7), if any person—
 
@@ -321,7 +321,7 @@
 
 >         “(6) __Exception for assumptions of loans made on or before__  __october 15, 1984__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If any person—
 
@@ -331,7 +331,7 @@
 
 >                   sections 1274 and 483 of the Internal Revenue Code of 1986 shall not be applied to such debt obligation by reason of such assumption (or such acquisition) unless the terms and conditions of such debt obligation are modified in connection with the assumption (or acquisition).
 
->             “(B) __Obligations described in this subparagraph.—__ 
+>             “(B)  __Obligations described in this subparagraph__  __.—__ 
 
 >             A debt obligation is described in this subparagraph if such obligation—
 
@@ -339,17 +339,17 @@
 
 >                 “(ii) was assumed (or property was taken subject to such obligation) in connection with the sale or exchange of property (including a deemed sale under section 338 (a)) the sales price of which is not greater than $100,000,000.
 
->             “(C) __Regulations.—__ 
+>             “(C)  __Regulations__  __.—__ 
 
 >             The Secretary shall prescribe such regulations as may be appropriate to effect the purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
 
->             “(D) __Certain exempt transactions.—__ 
+>             “(D)  __Certain exempt transactions__  __.—__ 
 
 >             The Secretary shall prescribe regulations under which any transaction shall be exempt from the application of this paragraph if such exemption is not likely to significantly reduce the tax liability of the purchaser by reason of the overstatement of the adjusted basis of the acquired asset.
 
 >         “(7) __Exception for assumptions of loans with respect to certain property.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If any person—
 
@@ -359,11 +359,11 @@
 
 >                   sections 1274 and 483 of the Internal Revenue Code of 1986 shall not be applied to such debt obligation by reason of such assumption (or such acquisition) unless the terms and conditions of such debt obligation are modified in connection with the assumption (or acquisition).
 
->             “(B) __Sales or exchanges to which this paragraph applies.—__ 
+>             “(B)  __Sales or exchanges to which this paragraph applies__  __.—__ 
 
 >             This paragraph shall apply to any of the following sales or exchanges:
 
->                 “(i) __Residences.—__ 
+>                 “(i)  __Residences__  __.—__ 
 
 >                 Any sale or exchange of a residence by an individual, an estate, or a testamentary trust, but only if—
 
@@ -377,7 +377,7 @@
 
 >                          “(II) such residence was not at any time, in the hands of such individual, estate, testamentary trust, or decedent, described in section 1221(1) (relating to inventory, etc.).
 
->                 “(ii) __Farms.—__ 
+>                 “(ii)  __Farms__  __.—__ 
 
 >                 Any sale or exchange by a qualified person of—
 
@@ -389,29 +389,29 @@
 
 >                 “(iii) __Trades or businesses.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     Any sale or exchange by a qualified person of any trade or business.
 
->                          “(II) __Application with subparagraph (b).—__ 
+>                          “(II)  __Application with subparagraph (b)__  __.—__ 
 
 >                     This subparagraph shall not apply to any sale or exchange of any property described in subparagraph (B).
 
->                          “(III) __New section 38 property.—__ 
+>                          “(III)  __New section 38 property__  __.—__ 
 
 >                     This subparagraph shall not apply to the sale or exchange of any property which, in the hands of the transferee, is new section 38 property.
 
->                 “(iv) __Sale of business real estate.—__ 
+>                 “(iv)  __Sale of business real estate__  __.—__ 
 
 >                 Any sale or exchange of any real property used in an active trade or business by a person who would be a qualified person if he disposed of his entire interest.
 
 >                   This subparagraph shall not apply to any transaction described in the last sentence of paragraph (6)(B) (relating to transaction in excess of $100,000,000).
 
->             “(C) __Definitions.—__ 
+>             “(C)  __Definitions__  __.—__ 
 
 >             For purposes of this paragraph—
 
->                 “(i) __Qualified person defined.—__ 
+>                 “(i)  __Qualified person defined__  __.—__ 
 
 >                 The term ‘qualified person’ means—
 
@@ -437,43 +437,43 @@
 
 >                          “(IV) the ownership interest of whom may be readily established by reason of qualified allocations (of the type described in section 168(j)(9)(B), one class of stock, or the like).
 
->                 “(ii) __10-percent owner defined.—__ 
+>                 “(ii) __10-__  __percent owner defined__  __.—__ 
 
 >                 The term ‘10-percent owner’ means a person having at least a 10-percent ownership interest, applying the attribution rules of section 318 (other than subsection (a)(4)).
 
 >                 “(iii) __Trade or business defined.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     The term ‘trade or business’ means any trade or business, including any line of business, qualifying as an active trade or business within the meaning of section 355.
 
->                          “(II) __Rental of real property.—__ 
+>                          “(II)  __Rental of real property__  __.—__ 
 
 >                     For purposes of this clause, the holding of real property for rental shall not be treated as an active trade or business.
 
 >     “(c) __Market Discount Rules.—__ 
 
->         “(1) __Ordinary income treatment.—__ 
+>         “(1)  __Ordinary income treatment__  __.—__ 
 
 >         Section 1276 of the Internal Revenue Code of 1986 (as added by section 41) shall apply to obligations issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->         “(2) __Interest deferral rules.—__ 
+>         “(2)  __Interest deferral rules__  __.—__ 
 
 >         Section 1277 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act in taxable years ending after such date.
 
->     “(d) __Rules Relating to Discount on Short-Term Obligations.—__ 
+>     “(d)  __Rules Relating to Discount on Short-Term Obligations__  __.—__ 
 
 >     Subpart C of part V of subchapter P of chapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
 
 >     “(e) __5-Year Spread of Adjustments Required by Reason of Accrual of Discount on Certain Short-Term Obligations.—__ 
 
->         “(1) __Election to have section 1281 apply to all obligations held during taxable year.—__ 
+>         “(1)  __Election to have section 1281 apply to all obligations held during taxable year__  __.—__ 
 
 >         A taxpayer may elect for his first taxable year ending after the date of the enactment of this Act \[July 18, 1984\] to have section 1281 of the Internal Revenue Code of 1986 apply to all short-term obligations described in subsection (b) of such section which were held by the taxpayer at any time during such first taxable year.
 
 >         “(2) __5-year spread.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any taxpayer who makes an election under paragraph (1)—
 
@@ -485,7 +485,7 @@
 
 >             “(B) __Amount taken into account during each year of spread period.—__ 
 
->                 “(i) __First year.—__ 
+>                 “(i)  __First year__  __.—__ 
 
 >                 The amount taken into account for the first taxable year in the spread period shall be the sum of—
 
@@ -497,7 +497,7 @@
 
 >     “(b) one-fifth of the net adjustments.
 
->     “(ii) __For subsequent years in spread period.—__ 
+>     “(ii)  __For subsequent years in spread period__  __.—__ 
 
 >     The amount taken into account in the second or any succeeding taxable year in the spread period shall be the sum of—
 
@@ -511,41 +511,41 @@
 
 >      The excess described in subparagraph (B)(ii)(II)(a) shall be reduced by any amount taken into account under this subclause or clause (i)(II) in any prior year.
 
->     “(C) __Spread period.—__ 
+>     “(C)  __Spread period__  __.—__ 
 
 >     For purposes of this paragraph, the term ‘spread period’ means the period consisting of the 5 taxable years beginning with the year for which the election is made under paragraph (1).
 
->     “(D) __Cash basis income.—__ 
+>     “(D)  __Cash basis income__  __.—__ 
 
 >     For purposes of this paragraph, the term ‘cash basis income’ means for any taxable year the aggregate amount which would be includible in the gross income of the taxpayer with respect to short-term obligations described in subsection (b) of section 1281 of such Code if the provisions of section 1281 of such Code did not apply to such taxable year and all prior taxable years within the spread period.
 
->     “(E) __Accrual basis income.—__ 
+>     “(E)  __Accrual basis income__  __.—__ 
 
 >     For purposes of this paragraph, the term ‘accrual basis income’ means for any taxable year the aggregate amount includible in gross income under section 1281(a) of such Code for such a taxable year and all prior taxable years within the spread period.
 
->         “(f) __Treatment of Original Issue Discount on Tax-Exempt Obligations.—__ 
+>         “(f)  __Treatment of Original Issue Discount on Tax-Exempt Obligations__  __.—__ 
 
 >         Section 1288 of such Code (as added by section 41) shall apply to obligations issued after September 3, 1982, and acquired after March 1, 1984.
 
->         “(g) __Repeal of Capital Asset Requirement.—__ 
+>         “(g)  __Repeal of Capital Asset Requirement__  __.—__ 
 
 >         Section 1272 of such Code (as added by section 41) shall not apply to any obligation issued on or before December 31, 1984, which is not a capital asset in the hands of the taxpayer.
 
->         “(h) __Reporting Requirements.—__ 
+>         “(h)  __Reporting Requirements__  __.—__ 
 
 >         Section 1275(c) of such Code (as added by section 41) and the amendments made by section 41(c) \[enacting [section 6706 of this title][/us/usc/t26/s6706]\] shall take effect on the day 30 days after the date of the enactment of this Act \[July 18, 1984\].
 
 >         “(i) __Other Miscellaneous Changes.—__ 
 
->             “(1) __Accrual period.—__ 
+>             “(1)  __Accrual period__  __.—__ 
 
 >             In the case of any obligation issued after July 1, 1982, and before January 1, 1985, the accrual period, for purposes of section 1272(a) of the Internal Revenue Code of 1986 (as amended by section 41(a)), shall be a 1-year period (or shorter period to maturity) beginning on the day in the calendar year which corresponds to the date of original issue of the obligation.
 
->             “(2) __Change in reduction for purchase after original issue.—__ 
+>             “(2)  __Change in reduction for purchase after original issue__  __.—__ 
 
 >             Section 1272(a)(6) of such Code (as so amended) shall not apply to any purchase on or before the date of the enactment of this Act \[July 18, 1984\], and the rules of section 1232A(a)(6) of such Code (as in effect on the day before the date of the enactment of this Act) shall continue to apply to such purchase.
 
->         “(j) __Clarification That Prior Effective Date Rules Not Affected.—__ 
+>         “(j)  __Clarification That Prior Effective Date Rules Not Affected__  __.—__ 
 
 >         Nothing in the amendment made by section 41(a) shall affect the application of any effective date provision (including any transitional rule) for any provision which was a predecessor to any provision contained in part V of subchapter P of chapter 1 of the Internal Revenue Code of 1954 (as added by section 41).”
 

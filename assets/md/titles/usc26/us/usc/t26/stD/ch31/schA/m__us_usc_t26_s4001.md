@@ -235,11 +235,11 @@
 
 [Pub. L. 101–508, title XI, § 11221(f)][/us/pl/101/508/s11221/f], Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subchapter, redesignating former subchapters A and B of this chapter as subchapters B and C, respectively, and amending sections 4221, 4222, and 4293 of this title\] shall take effect on January 1, 1991.
 
->     “(2) __Exception for binding contracts.—__ 
+>     “(2)  __Exception for binding contracts__  __.—__ 
 
 >     In determining whether any tax imposed by subchapter A of chapter 31 of the Internal Revenue Code of 1986, as added by this section, applies to any sale after December 31, 1990, there shall not be taken into account the amount paid for any article (or any part or accessory therefor) if the purchaser held on September 30, 1990, a contract (which was binding on such date and at all times thereafter before the purchase) for the purchase of such article (or such part or accessory).”
 

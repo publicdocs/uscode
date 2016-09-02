@@ -263,11 +263,11 @@
 
 [Pub. L. 111–312, title VII, § 709(e)][/us/pl/111/312/s709/e], Dec. 17, 2010, [124 Stat. 3314][/us/stat/124/3314], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to appliances produced after December 31, 2010.
 
->     “(2) __Limitations.—__ 
+>     “(2)  __Limitations__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
 

@@ -75,13 +75,13 @@
 
 [Pub. L. 98–369, div. A, title I, § 178(b)][/us/pl/98/369/s178/b], July 18, 1984, [98 Stat. 712][/us/stat/98/712], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to dispositions after September 30, 1985.
 
 >     “(2) __Special rule for fixed contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (a) shall not apply to any disposition of an interest in coal by a person to a related person if such coal is subsequently sold before January 1, 1990, by either such person—
 
@@ -89,11 +89,11 @@
 
 >             “(ii) pursuant to a qualified fixed contract.
 
->         “(B) __Allocation where more than 1 contract.—__ 
+>         “(B)  __Allocation where more than 1 contract__  __.—__ 
 
 >         If, for any taxable year, there is a disposition described in subparagraph (A) which is not specifically allocable to a qualified fixed contract or to a contract which is not a qualified fixed contract, such disposition shall be treated as first allocable to the qualified fixed contract.
 
->         “(C) __Qualified fixed contract defined.—__ 
+>         “(C)  __Qualified fixed contract defined__  __.—__ 
 
 >         The term ‘qualified fixed contract’ means any contract for the sale of coal which—
 
@@ -103,7 +103,7 @@
 
 >             “(iii) cannot be adjusted to reflect to any extent the increase in liabilities of the person disposing of the coal for tax under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by reason of the amendment made by subsection (a).
 
->         “(D) __Related person.—__ 
+>         “(D)  __Related person__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘related person’ means a person who bears a relationship to another person described in the last sentence of section 631(c). ”
 

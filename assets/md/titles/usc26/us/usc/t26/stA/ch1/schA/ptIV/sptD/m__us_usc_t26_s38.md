@@ -507,11 +507,11 @@
 
 [Pub. L. 111–148, title I, § 1421(f)][/us/pl/111/148/s1421/f], title X, § 10105(e)(4), Mar. 23, 2010, [124 Stat. 242][/us/stat/124/242], 907, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 45R of this title][/us/usc/t26/s45R] and amending this section and sections 196 and 280C of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.
 
->     “(2) __Minimum tax.—__ 
+>     “(2)  __Minimum tax__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 45R of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2009, and to carrybacks of such credits.”
 
@@ -535,11 +535,11 @@
 
 [Pub. L. 110–289, div. C, title I, § 3022(d)(2)][/us/pl/110/289/s3022/d/2], (3), July 30, 2008, [122 Stat. 2894][/us/stat/122/2894], provided that:
 
->     “(2) __Low income housing credit.—__ 
+>     “(2)  __Low income housing credit__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to credits determined under section 42 of the Internal Revenue Code of 1986 to the extent attributable to buildings placed in service after December 31, 2007.
 
->     “(3) __Rehabilitation credit.—__ 
+>     “(3)  __Rehabilitation credit__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 47 of the Internal Revenue Code of 1986 to the extent attributable to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007.”
 
@@ -683,11 +683,11 @@
 
 [Pub. L. 101–508, title XI, § 11611(e)][/us/pl/101/508/s11611/e], Nov. 5, 1990, [104 Stat. 1388–503][/us/stat/104/1388-503], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 44 of this title][/us/usc/t26/s44] and amending this section and sections 39 and 190 of this title\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Nov. 5, 1990\].
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendment made by subsection (c) \[amending [section 190 of this title][/us/usc/t26/s190]\] shall apply to taxable years beginning after the date of the enactment of this Act.”
 
@@ -715,11 +715,11 @@
 
 [Pub. L. 99–514, title XI, § 1171(c)][/us/pl/99/514/s1171/c], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall apply to compensation paid or accrued after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Sections 404(i) and 6699 to continue to apply to pre-1987 credits.—__ 
+>     “(2)  __Sections 404(__  __i)__  __and 6699 to continue to apply to pre-1987 credits__  __.—__ 
 
 >     The provisions of sections 404(i) and 6699 of the Internal Revenue Code of 1986 shall continue to apply with respect to credits under section 41 of such Code attributable to compensation paid or accrued before January 1, 1987 (or under section 38 of such Code with respect to qualified investment before January 1, 1983).”
 
@@ -739,7 +739,7 @@
 
 [Pub. L. 111–147, title I, § 102][/us/pl/111/147/s102], Mar. 18, 2010, [124 Stat. 75][/us/stat/124/75], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of any taxable year ending after the date of the enactment of this Act \[Mar. 18, 2010\], the current year business credit determined under section 38(b) of the Internal Revenue Code of 1986 for such taxable year shall be increased, with respect to each retained worker with respect to which subsection (b)(2) is first satisfied during such taxable year, by the lesser of—
 
@@ -747,7 +747,7 @@
 
 >         “(2) 6.2 percent of the wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) paid by the taxpayer to such retained worker during the 52 consecutive week period referred to in subsection (b)(2).
 
->     “(b) __Retained Worker.—__ 
+>     “(b)  __Retained Worker__  __.—__ 
 
 >     For purposes of this section, the term ‘retained worker’ means any qualified individual (as defined in section 3111(d)(3) or section 3221(c)(3) of the Internal Revenue Code of 1986)—
 
@@ -757,7 +757,7 @@
 
 >         “(3) whose wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) for such employment during the last 26 weeks of such period equaled at least 80 percent of such wages for the first 26 weeks of such period.
 
->     “(c) __Limitation on Carrybacks.—__ 
+>     “(c)  __Limitation on Carrybacks__  __.—__ 
 
 >     No portion of the unused business credit under section 38 of the Internal Revenue Code of 1986 for any taxable year which is attributable to the increase in the current year business credit under this section may be carried to a taxable year beginning before the date of the enactment of this section \[Mar. 18, 2010\].
 
@@ -765,15 +765,15 @@
 
 >         “(1) __Payments to possessions.—__ 
 
->             “(A) __Mirror code possessions.—__ 
+>             “(A)  __Mirror code possessions__  __.—__ 
 
 >             The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
->             “(B) __Other possessions.—__ 
+>             “(B)  __Other possessions__  __.—__ 
 
 >             The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of this section (other than this subsection) if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
->         “(2) __Coordination with credit allowed against united states income taxes.—__ 
+>         “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
 >         No increase in the credit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined under subsection (a) shall be taken into account with respect to any person—
 
@@ -783,15 +783,15 @@
 
 >         “(3) __Definitions and special rules.—__ 
 
->             “(A) __Possession of the united states.—__ 
+>             “(A)  __Possession of the united states__  __.—__ 
 
 >             For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
->             “(B) __Mirror code tax system.—__ 
+>             “(B)  __Mirror code tax system__  __.—__ 
 
 >             For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
->             “(C) __Treatment of payments.—__ 
+>             “(C)  __Treatment of payments__  __.—__ 
 
 >             For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, rules similar to the rules of section 1001(b)(3)(C) of the American Recovery and Reinvestment Tax Act of 2009 \[[section 1001(b)(3)(C) of Pub. L. 111–5][/us/pl/111/5/s1001/b/3/C], set out as a note under [section 36A of this title][/us/usc/t26/s36A]\] shall apply.”
 
@@ -799,23 +799,23 @@
 
 [Pub. L. 103–66, title XIII, § 13311][/us/pl/103/66/s13311], Aug. 10, 1993, [107 Stat. 556][/us/stat/107/556], as amended by [Pub. L. 104–188, title I, § 1703(n)(13)][/us/pl/104/188/s1703/n/13], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 38 of the Internal Revenue Code of 1986, the current year business credit shall include the credit determined under this section.
 
->     “(b) __Determination of Credit.—__ 
+>     “(b)  __Determination of Credit__  __.—__ 
 
 >     The credit determined under this section for each taxable year in the credit period with respect to any qualified CDC contribution made by the taxpayer is an amount equal to 5 percent of such contribution.
 
->     “(c) __Credit Period.—__ 
+>     “(c)  __Credit Period__  __.—__ 
 
 >     For purposes of this section, the credit period with respect to any qualified CDC contribution is the period of 10 taxable years beginning with the taxable year during which such contribution was made.
 
->     “(d) __Qualified CDC Contribution.—__ 
+>     “(d)  __Qualified CDC Contribution__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified CDC contribution’ means any transfer of cash—
 
@@ -827,13 +827,13 @@
 
 >             “(D) which is designated by such corporation for purposes of this section.
 
->         “(2) __Limitations on amount designated.—__ 
+>         “(2)  __Limitations on amount designated__  __.—__ 
 
 >         The aggregate amount of contributions to a selected community development corporation which may be designated by such corporation shall not exceed $2,000,000.
 
 >     “(e) __Selected Community Development Corporations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘selected community development corporation’ means any corporation—
 
@@ -843,11 +843,11 @@
 
 >             “(C) which is selected by the Secretary of Housing and Urban Development for purposes of this section.
 
->         “(2) __Only 20 corporations may be selected.—__ 
+>         “(2)  __Only 20 corporations may be selected__  __.—__ 
 
 >         The Secretary of Housing and Urban Development may select 20 corporations for purposes of this section, subject to the availability of eligible corporations. Such selections may be made only before July 1, 1994. At least 8 of the operational areas of the corporations selected must be rural areas (as defined by section 1393(a)(2) of such Code).
 
->         “(3) __Operational areas must have certain characteristics.—__ 
+>         “(3)  __Operational areas must have certain characteristics__  __.—__ 
 
 >         A corporation may be selected for purposes of this section only if its operational area meets the following criteria:
 
@@ -857,7 +857,7 @@
 
 >             “(C) The median family income of residents of such area does not exceed 80 percent of the median gross income of residents of the jurisdiction of the local government which includes such area.
 
->     “(f) __Qualified Low-Income Assistance.—__ 
+>     “(f)  __Qualified Low-Income Assistance__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified low-income assistance’ means assistance—
 
@@ -873,11 +873,11 @@
 
 [Pub. L. 99–514, title II, § 212][/us/pl/99/514/s212], Oct. 22, 1986, [100 Stat. 2170][/us/stat/100/2170], as amended by [Pub. L. 100–647, title I, § 1002(f)][/us/pl/100/647/s1002/f], Nov. 10, 1988, [102 Stat. 3369][/us/stat/102/3369], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     If a qualified corporation makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
->     “(b) __Amount.—__ 
+>     “(b)  __Amount__  __.—__ 
 
 >     For purposes of subsection (a), the amount determined under this subsection shall be the lesser of—
 
@@ -885,23 +885,23 @@
 
 >         “(2) the corporation’s net tax liability for the carryback period.
 
->     “(c) __Corporation Making Election May Not Use Same Amounts Under Section 38.—__ 
+>     “(c)  __Corporation Making Election May Not Use Same Amounts Under Section__  __38.—__ 
 
 >     In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation’s existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
->     “(d) __Net Tax Liability for Carryback Period.—__ 
+>     “(d)  __Net Tax Liability for Carryback Period__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A corporation’s net tax liability for the carryback period is the aggregate of such corporation’s net tax liability for taxable years in the carryback period.
 
->         “(2) __Net tax liability.—__ 
+>         “(2)  __Net tax liability__  __.—__ 
 
 >         The term ‘net tax liability’ means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\] for such taxable year, reduced by the sum of the credits allowable under part IV of subchapter A of such chapter 1 (other than section 34 thereof). For purposes of the preceding sentence, any tax treated as not imposed by chapter 1 of such Code under section 26(b)(2) of such Code shall not be treated as tax imposed by such chapter 1.
 
->         “(3) __Carryback period.—__ 
+>         “(3)  __Carryback period__  __.—__ 
 
 >         The term ‘carryback period’ means the period—
 
@@ -909,7 +909,7 @@
 
 >             “(B) which ends with the corporation’s last taxable year beginning before January 1, 1986.
 
->     “(e) __No Recomputation of Minimum Tax, Etc.—__ 
+>     “(e)  __No Recomputation of Minimum Tax, Etc__  __.—__ 
 
 >     Nothing in this section shall be construed to affect—
 
@@ -921,11 +921,11 @@
 
 >     “(f) __Reinvestment Requirement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any amount determined under this section must be committed to reinvestment in, and modernization of the steel industry through investment in modern plant and equipment, research and development, and other appropriate projects, such as working capital for steel operations and programs for the retraining of steel workers.
 
->         “(2) __Special rule.—__ 
+>         “(2)  __Special rule__  __.—__ 
 
 >         In the case of the LTV Corporation, in lieu of the requirements of paragraph (1)—
 
@@ -947,21 +947,21 @@
 
 >         “(3) In the case of a qualified corporation, no offset to any refund under this section may be made by reason of any tax imposed by section 4971 of the Internal Revenue Code of 1986 (or any interest or penalty attributable to any such tax), and the date on which any such refund is to be paid shall be determined without regard to such corporation’s status under title 11, United States Code.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
 >         “(1) __Qualified corporation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘qualified corporation’ means any corporation which is described in section 806(b) of the Steel Import Stabilization Act \[[19 U.S.C. 2253][/us/usc/t19/s2253] note\] and a company which was incorporated on February 11, 1983, in Michigan.
 
->             “(B) __Certain predecessors included.—__ 
+>             “(B)  __Certain predecessors included__  __.—__ 
 
 >             In the case of any qualified corporation which has carryforward attributable to a predecessor corporation described in such section 806(b), the qualified corporation and the predecessor corporation shall be treated as 1 corporation for purposes of subsections (d) and (e).
 
->         “(2) __Existing carryforwards.—__ 
+>         “(2)  __Existing carryforwards__  __.—__ 
 
 >         The term ‘existing carryforward’ means the aggregate of the amounts which—
 
@@ -969,11 +969,11 @@
 
 >             “(B) are attributable to the amount of the regular investment credit determined for periods before January 1, 1986, under section 46(a)(1) of such Code (relating to regular percentage), or any corresponding provision of prior law, determined on the basis that the regular investment credit was used first.
 
->         “(3) __Special rule for restructuring.—__ 
+>         “(3)  __Special rule for restructuring__  __.—__ 
 
 >         In the case of any corporation, any restructuring shall not limit, increase, or otherwise affect the benefits which would have been available under this section but for such restructuring.
 
->     “(h) __Tentative Refunds.—__ 
+>     “(h)  __Tentative Refunds__  __.—__ 
 
 >     Rules similar to the rules of section 6425 of the Internal Revenue Code of 1986 shall apply to any overpayment resulting from the application of this section.”
 
@@ -981,11 +981,11 @@
 
 [Pub. L. 99–514, title II, § 213][/us/pl/99/514/s213], Oct. 22, 1986, [100 Stat. 2172][/us/stat/100/2172], as amended by [Pub. L. 100–647, title I, § 1002(g)][/us/pl/100/647/s1002/g], Nov. 10, 1988, [102 Stat. 3369][/us/stat/102/3369], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     If a taxpayer who is a qualified farmer makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such taxpayer on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
->     “(b) __Amount.—__ 
+>     “(b)  __Amount__  __.—__ 
 
 >     For purposes of subsection (a), the amount determined under this subsection shall be equal to the smallest of—
 
@@ -995,11 +995,11 @@
 
 >         “(3) $750.
 
->     “(c) __Taxpayer Making Election May Not Use Same Amounts Under Section 38.—__ 
+>     “(c)  __Taxpayer Making Election May Not Use Same Amounts Under Section__  __38.—__ 
 
 >     In the case of a qualified farmer who makes an election under subsection (a), the portion of such farmer’s existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
->     “(d) __No Recomputation of Minimum Tax, Etc.—__ 
+>     “(d)  __No Recomputation of Minimum Tax, Etc__  __.—__ 
 
 >     Nothing in this section shall be construed to affect—
 
@@ -1009,15 +1009,15 @@
 
 >         for any taxable year in the carryback period (within the meaning of section 212(d)(3) of this Act \[set out as a note above\]).
 
->     “(e) __Definitions and Special Rules.—__ 
+>     “(e)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Qualified farmer.—__ 
+>         “(1)  __Qualified farmer__  __.—__ 
 
 >         The term ‘qualified farmer’ means any taxpayer who, during the 3-taxable year period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer’s gross income from the trade or business of farming.
 
->         “(2) __Existing carryforward.—__ 
+>         “(2)  __Existing carryforward__  __.—__ 
 
 >         The term ‘existing carryforward’ means the aggregate of the amounts which—
 
@@ -1025,7 +1025,7 @@
 
 >             “(B) are attributable to the amount of the investment credit determined for periods before January 1, 1986, under section 46(a) of such Code (or any corresponding provision of prior law) with respect to section 38 property which was used by the taxpayer in the trade or business of farming, determined on the basis that such credit was used first.
 
->         “(3) __Farming.—__ 
+>         “(3)  __Farming__  __.—__ 
 
 >         The term ‘farming’ has the meaning given such term by section 2032A(e)(4) and (5) of such Code.”
 
@@ -1041,7 +1041,7 @@
 
 [Pub. L. 99–514, title XI, § 1177][/us/pl/99/514/s1177], Oct. 22, 1986, [100 Stat. 2520][/us/stat/100/2520], as amended by [Pub. L. 100–647, title I, § 1011B][/us/pl/100/647/s1011B](l)(1), (2), Nov. 10, 1988, [102 Stat. 3493][/us/stat/102/3493], provided that:
 
->     “(a) __Section 1171.—__ 
+>     “(a)  __Section__  __1171.—__ 
 
 >     The amendments made by section 1171 \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall not apply in the case of a tax credit employee stock ownership plan if—
 
@@ -1049,7 +1049,7 @@
 
 >         “(2) not later than January 11, 1984, the employer of such employees was 100 percent owned by such plan.
 
->     “(b) __Subtitle Not To Apply to Certain News­paper.—__ 
+>     “(b)  __Subtitle Not To Apply to Certain News­paper__  __.—__ 
 
 >     The amendments made by section 1175 \[amending [section 401 of this title][/us/usc/t26/s401]\] shall not apply to any daily newspaper—
 

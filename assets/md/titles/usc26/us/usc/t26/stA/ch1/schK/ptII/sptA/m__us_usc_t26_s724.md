@@ -79,11 +79,11 @@
 
 [Pub. L. 105–34, title X, § 1062(c)][/us/pl/105/34/s1062/c], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 731, 732, 735, and 751 of this title\] shall apply to sales, exchanges, and distributions after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange.”
 

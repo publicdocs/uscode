@@ -283,7 +283,7 @@
 
 [Pub. L. 101–239, title VII, § 7632(b)][/us/pl/101/239/s7632/b], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379], as amended by [Pub. L. 101–508, title XI, § 11334(b)][/us/pl/101/508/s11334/b], Nov. 5, 1990, [104 Stat. 1388–470][/us/stat/104/1388-470], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts required to be deposited after July 31, 1990.
 

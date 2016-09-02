@@ -347,23 +347,23 @@
 
 [Pub. L. 98–369, div. A, title I, § 174(c)][/us/pl/98/369/s174/c], July 18, 1984, [98 Stat. 707][/us/stat/98/707], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Subsections (a) and (b)(1).—__ 
+>     “(1)  __Subsections__  __(a)__  __and__  __(b)(1).—__ 
 
 >     The amendments made by subsections (a) and (b)(1) \[amending this section\] shall apply to amounts allowable as deductions under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1983. For purposes of the preceding sentence, the allowability of a deduction shall be determined without regard to any disallowance or postponement of deductions under section 267 of such Code.
 
->     “(2) __Subsection (b) (other than paragraph (1)).—__ 
+>     “(2)  __Subsection__  __(b) (other than paragraph (1)).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall apply to transactions after December 31, 1983, in taxable years ending after such date.
 
->         “(B) __Exception for transfers to foreign corporations on or before__  __march 1, 1984__  __.—__ 
+>         “(B)  __Exception for transfers to foreign corporations on or before __  __march 1, 1984__  __.—__ 
 
 >         The amendments made by subsection (b)(2) \[amending this section\] shall not apply to property transferred to a foreign corporation on or before March 1, 1984.
 
 >     “(3) __Exception for existing indebtedness, etc.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall not apply to any amount paid or incurred—
 
@@ -371,7 +371,7 @@
 
 >             “(ii) pursuant to a contract which was binding on September 29, 1983, and at all times thereafter before the amount is paid or incurred.
 
->         “(B) __Treatment of renegotiations, extensions, etc.—__ 
+>         “(B)  __Treatment of renegotiations, extensions, etc__  __.—__ 
 
 >         If any indebtedness (or contract described in subparagraph (A)) is renegotiated, extended, renewed, or revised after September 29, 1983, subparagraph (A) shall not apply to any amount paid or incurred on such indebtedness (or pursuant to such contract) after the date of such renegotiation, extension, renewal, or revision.”
 

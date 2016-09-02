@@ -1347,11 +1347,11 @@
 
 [Pub. L. 108–357, title VIII, § 852(c)][/us/pl/108/357/s852/c], Oct. 22, 2004, [118 Stat. 1609][/us/stat/118/1609], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Fuel taxes.—__ 
+>     “(2)  __Fuel taxes__  __.—__ 
 
 >     With respect to taxes imposed under subchapter B of chapter 31 and part III of subchapter A of chapter 32, the amendment made by this section shall apply to taxable periods beginning after the date of the enactment of this Act.”
 
@@ -1369,11 +1369,11 @@
 
 [Pub. L. 105–34, title XI, § 1174(c)][/us/pl/105/34/s1174/c], Aug. 5, 1997, [111 Stat. 989][/us/stat/111/989], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 861 and 863 of this title\] shall apply to remuneration for services performed in taxable years beginning after December 31, 1997.
 
->     “(2) __Presence.—__ 
+>     “(2)  __Presence__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
@@ -1427,7 +1427,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-    Amendment by [Pub. L. 102–90][/us/pl/102/90] effective Jan. 1, 1992, see [section 314(g)(1) of Pub. L. 102–90][/us/pl/102/90/s314/g/1], as amended, set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress.
+    Amendment by [Pub. L. 102–90][/us/pl/102/90] effective Jan. 1, 1992, see [section 314(g)(1) of Pub. L. 102–90][/us/pl/102/90/s314/g/1], as amended, set out as a note under [section 4725 of Title 2][/us/usc/t2/s4725], The Congress.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -1477,7 +1477,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 138(b)][/us/pl/98/369/s138/b], July 18, 1984, [98 Stat. 676][/us/stat/98/676], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.
 
@@ -1487,7 +1487,7 @@
 
 >         “(B) If an alien individual was a resident of the United States as of the close of calendar year 1984, but was not a resident of the United States as of the close of calendar year 1983, the determination of whether such individual meets such substantial presence test shall be made by only taking into account presence in the United States after 1983.
 
->     “(3) __Transitional rule for applying lawful residence test.—__ 
+>     “(3)  __Transitional rule for applying lawful residence test__  __.—__ 
 
 >     In the case of any individual who—
 
@@ -1615,15 +1615,15 @@
 
 [Pub. L. 96–605, title IV, § 402][/us/pl/96/605/s402], Dec. 28, 1980, [94 Stat. 3532][/us/stat/94/3532], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     An author or artist performing services under contract with a corporation shall be considered as an employee of the corporation for the purpose of applying the provisions specified in section 7701(a)(20) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], if, on December 31, 1977, such author or artist was a participant in one or more of the pension, profit-sharing or annuity plans of such corporation which are described in subsection (b)(2).
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Contract.—__ 
+>         “(1)  __Contract__  __.—__ 
 
 >         The term ‘contract’ means a contract which during its term—
 
@@ -1631,7 +1631,7 @@
 
 >             “(B) requires such author or artist to use his best efforts to produce work of specified types for the corporation.
 
->         “(2) __Corporation.—__ 
+>         “(2)  __Corporation__  __.—__ 
 
 >         The term ‘corporation’ means a corporation which for at least 15 years prior to January 1, 1978, had in effect one or more pension, profit-sharing and annuity plans, each of which—
 
@@ -1639,7 +1639,7 @@
 
 >             “(B) had been determined by the Secretary of the Treasury (taking into account the definition described in subparagraph (A)) to be a qualified plan within part I of subchapter D of chapter 1 of subtitle A of the Internal Revenue Code of 1986 \[section 401 et seq. of this title\] for all of such years.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall apply to taxable years ending after December 31, 1980.”
 
@@ -1978,7 +1978,7 @@
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 [/us/pl/102/90/s314/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fg%2F1
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/pl/101/508/s11812/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11812%2Fb%2F13
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/99/514/s252/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs252%2Ff%2F5

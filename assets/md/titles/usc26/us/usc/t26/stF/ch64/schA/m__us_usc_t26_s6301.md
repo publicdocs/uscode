@@ -27,7 +27,7 @@
 
 [Pub. L. 105–206, title III, § 3421][/us/pl/105/206/s3421], July 22, 1998, [112 Stat. 758][/us/stat/112/758], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commissioner of Internal Revenue shall develop and implement procedures under which—
 
@@ -35,7 +35,7 @@
 
 >         “(2) appropriate disciplinary action would be taken against the employee or supervisor where the procedures under paragraph (1) were not followed.
 
->     “(b) __Review Process.—__ 
+>     “(b)  __Review Process__  __.—__ 
 
 >     The review process under subsection (a)(1) may include a certification that the employee has—
 
@@ -47,11 +47,11 @@
 
 >     “(c) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
->         “(2) __Automated collection system actions.—__ 
+>         “(2)  __Automated collection system actions__  __.—__ 
 
 >         In the case of any action under an automated collection system, this section shall apply to actions initiated after December 31, 2000.”
 

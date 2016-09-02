@@ -187,11 +187,11 @@
 
 [Pub. L. 110–343, div. C, title I, § 103(c)][/us/pl/110/343/s103/c], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.
 
->     “(2) __Abatement.—__ 
+>     “(2)  __Abatement__  __.—__ 
 
 >     Section 53(f)(1), as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
 

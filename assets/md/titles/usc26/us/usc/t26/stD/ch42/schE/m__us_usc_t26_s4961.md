@@ -57,15 +57,15 @@
 
 [Pub. L. 96–596, § 2(d)][/us/pl/96/596/s2/d], Dec. 24, 1980, [94 Stat. 3474][/us/stat/94/3474], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __First tier taxes.—__ 
+>     “(1)  __First tier taxes__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and [section 4962 of this title][/us/usc/t26/s4962] and amending sections 4941 to 4945, 4951, 4952, 4971, 4975, 6213, 6214, 6503, and 7422 of this title\] with respect to any first tier tax shall take effect as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] when such tax was first imposed.
 
->     “(2) __Second tier taxes.—__ 
+>     “(2)  __Second tier taxes__  __.—__ 
 
 >     The amendments made by this section with respect to any second tier tax shall apply only with respect to taxes assessed after the date of the enactment of this Act \[Dec. 24, 1980\]. Nothing in the preceding sentence shall be construed to permit the assessment of a tax in a case to which, on the date of the enactment of this Act, the doctrine of res judicata applies.
 
->     “(3) __First and second tier tax.—__ 
+>     “(3)  __First and second tier tax__  __.—__ 
 
 >     For purposes of this subsection, the terms ‘first tier tax’ and ‘second tier tax’ have the respective meanings given to such terms by section 4962 of the Internal Revenue Code of 1986.”
 

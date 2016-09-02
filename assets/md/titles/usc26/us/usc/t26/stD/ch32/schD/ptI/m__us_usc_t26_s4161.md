@@ -197,15 +197,15 @@
 
 [Pub. L. 89–44, title VII, § 701(a)][/us/pl/89/44/s701/a], June 21, 1965, [79 Stat. 155][/us/stat/79/155], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections 4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
 
->     “(2) __Special rules.—__ 
+>     “(2)  __Special rules__  __.—__ 
 
 >     The amendments made by sections 201(b)(2) \[amending [section 4061 of this title][/us/usc/t26/s4061]\] (relating to automobile parts and accessories) and 202(a) \[amending [section 4091 of this title][/us/usc/t26/s4091]\] (relating to lubricating oil) shall apply with respect to articles sold on or after January 1, 1966. The amendments made by section 202(b) \[enacting [section 6424 of this title][/us/usc/t26/s6424]\] and (c) \[enacting section 4094 and amending sections 6206, 6675, 7210, 7603, 7604, and 7605 of this title\] (relating to payments with respect to lubricating oil) shall take effect January 1, 1966. The amendments made by section 203 \[repealing sections 4111, 4121, and 4131 of this title\], insofar as they relate to the tax imposed by section 4131 (relating to electric light bulbs) of the Code, and the amendments made by section 208 \[amending sections 4216, 4218, 4221, 4222, and 4227\], insofar as they relate to the tax imposed by section 4061(b) (relating to automotive parts and accessories), section 4091 (relating to lubricating oil), or section 4131 (relating to electric light bulbs) of the Code, shall apply with respect to articles sold on or after January 1, 1966. The amendments made by section 207 \[amending sections 4216 and 6416 of this title\] (relating to partial payments; sales of installment accounts) and 209(a) \[amending [section 6412 of this title][/us/usc/t26/s6412]\] (relating to floor stocks refunds on passenger automobiles, etc.) shall take effect on the day after the date of the enactment of this Act \[June 21, 1965\]. The amendments made by section 210 \[amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] (relating to Highway Trust Fund) shall take effect January 1, 1966.
 
->     “(3) __Installment sales, etc.—__ 
+>     “(3)  __Installment sales, etc__  __.—__ 
 
 >     For purposes of paragraphs (1) and (2), an article shall not be considered sold before the day after the date of the enactment of this Act \[June 21, 1965\] or before January 1, 1966, as the case may be, unless possession or right to possession passes to the purchaser before such day or such date. In the case of—
 
@@ -219,7 +219,7 @@
 
 >         entered into before such day or such date, payments made on or after such day or such date with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold on or after such day or such date, if the lessor or vendor establishes that the amount of payments payable on or after such day or such date with respect to such article has been reduced by an amount equal to the tax reduction applicable with respect to the lease or sale of such article.
 
->     “(4) __Electric light bulbs used in manufacture of articles upon which tax is repealed.—__ 
+>     “(4)  __Electric light bulbs used in manufacture of articles upon which tax is repealed__  __.—__ 
 
 >     For purposes of applying section 4218(a) of the Code with respect to the use of an electric light bulb or tube by the manufacturer, producer, or importer thereof, and for purposes of applying section 4221(d)(6)(A) of the Code with respect to the sale of an electric light bulb or tube for use in further manufacture, an article which was taxable under chapter 32 of the Code on the date of the enactment of this Act \[June 21, 1965\] shall, during the period beginning with the day after the date of the enactment of this Act through December 31, 1965, be treated as an article taxable under such chapter.”
 

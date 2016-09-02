@@ -473,11 +473,11 @@
 
 [Pub. L. 111–192, title II, § 211(b)][/us/pl/111/192/s211/b], June 25, 2010, [124 Stat. 1306][/us/stat/124/1306], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1084 of Title 29][/us/usc/t29/s1084], Labor\] shall take effect as of the first day of the first plan year ending after August 31, 2008, except that any election a plan makes pursuant to this section that affects the plan’s funding standard account for the first plan year beginning after August 31, 2008, shall be disregarded for purposes of applying the provisions of section 305 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1085][/us/usc/t29/s1085]\] and section 432 of the Internal Revenue Code of 1986 to such plan year.
 
->     “(2) __Restrictions on benefit increases.—__ 
+>     “(2)  __Restrictions on benefit increases__  __.—__ 
 
 >     Notwithstanding paragraph (1), the restrictions on plan amendments increasing benefits in sections 304(b)(8)(D) of such Act \[[29 U.S.C. 1084(b)(8)(D)][/us/usc/t29/s1084/b/8/D]\] and 431(b)(8)(D) of such Code, as added by this section, shall take effect on the date of enactment of this Act \[June 25, 2010\].”
 
@@ -485,11 +485,11 @@
 
 [Pub. L. 109–280, title II, § 211(b)][/us/pl/109/280/s211/b], Aug. 17, 2006, [120 Stat. 898][/us/stat/120/898], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to plan years beginning after 2007.
 
->     “(2) __Special rule for certain amortization extensions.—__ 
+>     “(2)  __Special rule for certain amortization extensions__  __.—__ 
 
 >     If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1084][/us/usc/t29/s1084]\] and section 412(e) of the Internal Revenue Code of 1986 with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code.”
 

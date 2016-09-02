@@ -67,7 +67,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1446" data-uslm-ref="/us/usc/t26/s1446">1446.</a>  </td>
 
-    <td> Withholding of tax on foreign partners’ share of effectively connected income.  </td>
+    <td> Withholding of tax on foreign partners’ share of effectively connected income.°1°  </td>
 
   </tr>
 

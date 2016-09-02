@@ -169,11 +169,11 @@
 
 [Pub. L. 98–369, div. A, title V, § 513(c)][/us/pl/98/369/s513/c], July 18, 1984, [98 Stat. 865][/us/stat/98/865], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to years beginning after December 31, 1984.
 
->     “(2) __Treatment of certain benefits in pay status as of__  __january 1, 1985__  __.—__ 
+>     “(2)  __Treatment of certain benefits in pay status as of __  __january 1, 1985__  __.—__ 
 
 >     For purposes of determining whether a plan meets the requirements of section 505(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), there may (at the election of the employer) be excluded from consideration all disability or severance payments payable to individuals who are in pay status as of January 1, 1985. The preceding sentence shall not apply to any payment to the extent such payment is increased by any plan amendment adopted after June 22, 1984.”
 

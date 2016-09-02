@@ -103,11 +103,11 @@
 
 [Pub. L. 99–514, title VIII, § 805(d)][/us/pl/99/514/s805/d], Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 81, 108, 461, and 805 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer who maintained a reserve for bad debts for such taxpayer’s last taxable year beginning before January 1, 1987, and who is required by the amendments made by this section to change its method of accounting for any taxable year—
 

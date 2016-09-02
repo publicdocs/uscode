@@ -293,21 +293,21 @@
 
 [Pub. L. 111–226, title II, § 217(d)][/us/pl/111/226/s217/d], Aug. 10, 2010, [124 Stat. 2402][/us/stat/124/2402], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 871, 904, and 2104 of this title\] shall apply to taxable years beginning after December 31, 2010.
 
 >     “(2) __Grandfather rule for outstanding debt obligations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to payments of interest on obligations issued before the date of the enactment of this Act \[Aug. 10, 2010\].
 
->         “(B) __Exception for related party debt.—__ 
+>         “(B)  __Exception for related party debt__  __.—__ 
 
 >         Subparagraph (A) shall not apply to any interest which is payable to a related person (determined under rules similar to the rules of section 954(d)(3)).
 
->         “(C) __Significant modifications treated as new issues.—__ 
+>         “(C)  __Significant modifications treated as new issues__  __.—__ 
 
 >         For purposes of subparagraph (A), a significant modification of the terms of any obligation (including any extension of the term of such obligation) shall be treated as a new issue.”
 
@@ -357,37 +357,37 @@
 
 [Pub. L. 99–514, title XII, § 1214(d)][/us/pl/99/514/s1214/d], Oct. 22, 1986, [100 Stat. 2543][/us/stat/100/2543], as amended by [Pub. L. 100–647, title I, § 1012(g)(1)(A)][/us/pl/100/647/s1012/g/1/A], (2), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500], 3501, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 871, 881, 1441, and 6049 of this title\] shall apply to payments made in a taxable year of the payor beginning after December 31, 1986.
 
 >     “(2) __Treatment of certain interest.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to any interest paid or accrued on any obligation outstanding on December 31, 1985. The preceding sentence shall not apply to any interest paid pursuant to any extension or renewal of such an obligation agreed to after December 31, 1985.
 
->         “(B) __Special rule for related payee.—__ 
+>         “(B)  __Special rule for related payee__  __.—__ 
 
 >         If the payee of any interest to which subparagraph (A) applies is related (within the meaning of section 904(d)(2)(H) of the Internal Revenue Code of 1986) to the payor, such interest shall be treated for purposes of section 904 of such Code as if the payor were a controlled foreign corporation (within the meaning of section 957(a) of such Code).
 
 >     “(3) __Transitional rule.—__ 
 
->         “(A) __Years before 1988.—__ 
+>         “(A)  __Years before 1988__  __.—__ 
 
 >         In applying the amendments made by this section to any payment made by a corporation in a taxable year of such corporation beginning before January 1, 1988, the requirements of clause (ii) of \[former\] section 861(c)(1)(B) of the Internal Revenue Code of 1986 (relating to active business requirements), as amended by this section, shall not apply to gross income of such corporation for taxable years beginning before January 1, 1987.
 
->         “(B) __Years after 1987.—__ 
+>         “(B)  __Years after 1987__  __.—__ 
 
 >         In applying the amendments made by this section to any payment made by a corporation in a taxable year of such corporation beginning after December 31, 1987, the testing period for purposes of \[former\] section 861(c) of such Code (as so amended) shall not include any taxable year beginning before January 1, 1987.
 
 >     “(4) __Certain dividends.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to any dividend paid before January 1, 1991, by a qualified corporation with respect to stock which was outstanding on May 31, 1985.
 
->         “(B) __Qualified corporation.—__ 
+>         “(B)  __Qualified corporation__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified corporation’ means any business systems corporation which—
 
@@ -421,17 +421,17 @@
 
 [Pub. L. 95–600, title III, § 370(b)][/us/pl/95/600/s370/b], Nov. 6, 1978, [92 Stat. 2858][/us/stat/92/2858], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to all railroad rolling stock placed in service with respect to the taxpayer after the date of the enactment of this Act \[Nov. 6, 1978\].
 
->     “(2) __Election to extend section 861(f) \[now 861(e)\] to railroad rolling stock placed in service before date of enactment.__ 
+>     “(2)  __Election to extend section 861(__  __f) \[now 861(e)\] to railroad rolling stock placed in service before date of enactment.__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         At the election of the taxpayer, the amendment made by subsection (a) shall also apply, for taxable years beginning after the date of the enactment of this Act, to all railroad rolling stock placed in service with respect to the taxpayer on or before such date of enactment. Such an election may not be revoked except with the consent of the Secretary of the Treasury or his delegate.
 
->         “(B) __Manner and time of election and revocation.—__ 
+>         “(B)  __Manner and time of election and revocation__  __.—__ 
 
 >         An election under subparagraph (A), and any revocation of such an election, shall be made in such manner and at such time as the Secretary of the Treasury or his delegate may by regulations prescribe.”
 
@@ -517,7 +517,7 @@
 
 [Pub. L. 100–647, title I, § 1012(aa)(2)][/us/pl/100/647/s1012/aa/2]–(4), Nov. 10, 1988, [102 Stat. 3531][/us/stat/102/3531], 3532, provided that:
 
->     “(2) __Certain amendments to apply notwithstanding treaties.—__ 
+>     “(2)  __Certain amendments to apply notwithstanding treaties__  __.—__ 
 
 >     The following amendments made by the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\] shall apply notwithstanding any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
@@ -525,7 +525,7 @@
 
 >         “(B) The amendments made by title VII of the Reform Act \[enacting sections 53 and 55 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48, 173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] to the extent such amendments relate to the alternative minimum tax foreign tax credit.
 
->     “(3) __Certain amendments not to apply to the extent inconsistent with treaties.—__ 
+>     “(3)  __Certain amendments not to apply to the extent inconsistent with treaties__  __.—__ 
 
 >     The following amendments made by the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
@@ -555,7 +555,7 @@
 
 >         “(J) The amendments made by section 123 of the Reform Act \[amending sections 74, 117, 1441, and 7871 of this title\].
 
->     “(4) __Treatment of technical corrections.—__ 
+>     “(4)  __Treatment of technical corrections__  __.—__ 
 
 >     For purposes of paragraphs (2) and (3), any amendment made by this title \[see Tables for classification\] shall be treated as if it had been included in the provision of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\] to which such amendment relates.”
 
@@ -563,7 +563,7 @@
 
 [Pub. L. 100–647, title IV, § 4009][/us/pl/100/647/s4009], Nov. 10, 1988, [102 Stat. 3653][/us/stat/102/3653], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of sections 861(b), 862(b), and 863(b) of the 1986 Code, qualified research and experimental expenditures shall be allocated and apportioned as follows:
 
@@ -579,13 +579,13 @@
 
 >         “(3) The remaining portion of qualified research and experimental expenditures (not allocated under paragraphs (1) and (2)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall be at least 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
->     “(b) __Qualified Research and Experimental Expenditures.—__ 
+>     “(b)  __Qualified Research and Experimental Expenditures__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified research and experimental expenditures’ means amounts which are research and experimental expenditures within the meaning of section 174 of the 1986 Code. For purposes of this subsection, rules similar to the rules of subsection (c) of section 174 of the 1986 Code shall apply.
 
 >     “(c) __Special Rules for Expenditures Attributable to Activities Conducted in Space, Etc.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any qualified research and experimental expenditures described in paragraph (2)—
 
@@ -593,7 +593,7 @@
 
 >             “(B) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted outside the United States.
 
->         “(2) __Description of expenditures.—__ 
+>         “(2)  __Description of expenditures__  __.—__ 
 
 >         For purposes of paragraph (1), qualified research and experimental expenditures are described in this paragraph if such expenditures are attributable to activities conducted—
 
@@ -625,11 +625,11 @@
 
 >     “(e) __Years to Which Section Applies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in this subsection, this section shall apply to the taxpayer’s 1st taxable year beginning after August 1, 1987.
 
->         “(2) __Reduction in amounts to which section applies.—__ 
+>         “(2)  __Reduction in amounts to which section applies__  __.—__ 
 
 >         Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
 
@@ -641,7 +641,7 @@
 
 [Pub. L. 99–514, title XII, § 1216][/us/pl/99/514/s1216], Oct. 22, 1986, [100 Stat. 2549][/us/stat/100/2549], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of section 861(b), section 862(b), and section 863(b) of the Internal Revenue Code of 1954 \[now 1986\], notwithstanding section 864(e) of such Code—
 
@@ -651,11 +651,11 @@
 
 >         The preceding sentence shall not apply to any expenditures described in section 1.861–8(e)(3)(i)(B) of the Income Tax Regulations.
 
->     “(b) __Qualified Research and Experimental Expenditures.—__ 
+>     “(b)  __Qualified Research and Experimental Expenditures__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified research and experimental expenditures’ means amounts—
 
@@ -663,11 +663,11 @@
 
 >             “(B) which are attributable to activities conducted in the United States.
 
->         “(2) __Treatment of depreciation, etc.—__ 
+>         “(2)  __Treatment of depreciation, etc__  __.—__ 
 
 >         Rules similar to the rules of section 174(c) of such Code shall apply.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to taxable years beginning after August 1, 1986, and on or before August 1, 1987.”
 
@@ -675,15 +675,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 126][/us/pl/98/369/s126], July 18, 1984, [98 Stat. 648][/us/stat/98/648], as amended by [Pub. L. 99–272, title XIII, § 13211][/us/pl/99/272/s13211], Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 861(b), section 862(b), and section 863(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], all amounts allowable as a deduction for qualified research and experimental expenditures shall be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States.
 
->     “(b) __Qualified Research and Experimental Expenditures.—__ 
+>     “(b)  __Qualified Research and Experimental Expenditures__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified research and experimental expenditures’ means amounts—
 
@@ -691,17 +691,17 @@
 
 >             “(B) which are attributable to activities conducted in the United States.
 
->         “(2) __Treatment of depreciation, etc.—__ 
+>         “(2)  __Treatment of depreciation, etc__  __.—__ 
 
 >         Rules similar to the rules of subsection (c) of section 174 of such Code shall apply.
 
 >     “(c) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall apply to taxable years beginning after August 13, 1983, and on or before August 1, 1986.
 
->         “(2) __Special rule.—__ 
+>         “(2)  __Special rule__  __.—__ 
 
 >         If the taxpayer’s 4th taxable year beginning after August 13, 1981, is not described in paragraph (1), this section shall apply also to such 4th taxable year.”
 

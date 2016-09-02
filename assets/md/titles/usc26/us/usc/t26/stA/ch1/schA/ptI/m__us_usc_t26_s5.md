@@ -109,11 +109,11 @@
 
 [Pub. L. 88–272, title II, § 232(g)][/us/pl/88/272/s232/g], Feb. 26, 1964, [78 Stat. 112][/us/stat/78/112], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1301 to 1305, amending this section and sections 4, 72, 144, 402, 403, 6511, and omitting former sections 1301 to 1307 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.
 
->     “(2) __Income from an employment.—__ 
+>     “(2)  __Income from an employment__  __.—__ 
 
 >     If, in a taxable year beginning after December 31, 1963, an individual or partnership receives or accrues compensation from an employment (as defined by section 1301(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect immediately before the enactment of this Act \[Feb. 26, 1964\] and the employment began before February 6, 1963, the tax attributable to such compensation may, at the election of the taxpayer, be computed under the provisions of sections 1301 and 1307 of such Code as in effect immediately before the enactment of this Act. If a taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate by regulations prescribes), he may not choose for such taxable year the benefits provided by part I of subchapter Q of chapter 1 of such Code (relating to income averaging) as amended by this Act and (if he elects to have subsection (e) of such section 1307 apply) section 170(b)(5) of such Code as amended by this Act shall not apply to charitable contributions paid in such taxable year.”
 

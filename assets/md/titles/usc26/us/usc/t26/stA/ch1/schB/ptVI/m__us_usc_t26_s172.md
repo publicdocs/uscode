@@ -895,11 +895,11 @@
 
 [Pub. L. 111–5, div. B, title I, § 1211(d)][/us/pl/111/5/s1211/d], Feb. 17, 2009, [123 Stat. 336][/us/stat/123/336], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to net operating losses arising in taxable years ending after December 31, 2007.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of a net operating loss for a taxable year ending before the date of the enactment of this Act \[Feb. 17, 2009\]—
 
@@ -967,11 +967,11 @@
 
 [Pub. L. 101–508, title XI, § 11324(b)][/us/pl/101/508/s11324/b], Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after October 9, 1990.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any acquisition pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition.”
 
@@ -985,11 +985,11 @@
 
 [Pub. L. 101–239, title VII, § 7211(c)][/us/pl/101/239/s7211/c], Dec. 19, 1989, [103 Stat. 2345][/us/stat/103/2345], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to corporate equity reduction transactions occurring after August 2, 1989, in taxable years ending after August 2, 1989.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     In determining whether a corporate equity reduction transaction has occurred after August 2, 1989, there shall not be taken into account—
 
@@ -1015,11 +1015,11 @@
 
 [Pub. L. 99–514, title IX, § 903(c)][/us/pl/99/514/s903/c], Oct. 22, 1986, [100 Stat. 2384][/us/stat/100/2384], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to losses incurred in taxable years beginning after December 31, 1986.
 
->     “(2) __Additional carryforward period for losses of thrift institutions.—__ 
+>     “(2)  __Additional carryforward period for losses of thrift institutions__  __.—__ 
 
 >     Subparagraph (M) of section 172(b)(1) of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses incurred in taxable years beginning after December 31, 1981.”
 
@@ -1031,13 +1031,13 @@
 
 [Pub. L. 98–369, div. A, title I, § 177(d)][/us/pl/98/369/s177/d], July 18, 1984, [98 Stat. 711][/us/stat/98/711], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1812(d)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2836, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 246 of this title][/us/usc/t26/s246] and [section 1452 of Title 12][/us/usc/t12/s1452], Banks and Banking\] shall take effect on January 1, 1985.
 
 >     “(2) __Adjusted basis of assets.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in subparagraph (B), the adjusted basis of any asset of the Federal Home Loan Mortgage Corporation held on January 1, 1985, shall—
 
@@ -1045,7 +1045,7 @@
 
 >             “(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of such asset or the fair market value of such asset as of such date.
 
->         “(B) __Special rule for tangible depreciable property.—__ 
+>         “(B)  __Special rule for tangible depreciable property__  __.—__ 
 
 >         In the case of any tangible property which—
 
@@ -1057,39 +1057,39 @@
 
 >     “(3) __Treatment of participation certificates.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Paragraph (2) shall not apply to any right to receive income with respect to any mortgage pool participation certificate or other similar interest in any mortgage (not including any mortgage).
 
->         “(B) __Treatment of certain sales after__  __march 15, 1984__  __, and before__  __january 1, 1985__  __.—__ 
+>         “(B)  __Treatment of certain sales after __  __march 15, 1984__  __, and before __  __january 1, 1985__  __.—__ 
 
 >         If any gain is realized on the sale or exchange of any right described in subparagraph (A) after March 15, 1984, and before January 1, 1985, the gain shall not be recognized when realized but shall be recognized on January 1, 1985.
 
 >     “(4) __Clarification of earnings and profits of federal home loan mortgage corporation.—__ 
 
->         “(A) __Treatment of distribution of preferred stock, etc.—__ 
+>         “(A)  __Treatment of distribution of preferred stock, etc__  __.—__ 
 
 >         For purposes of the Internal Revenue Code of 1986, the distribution of preferred stock by the Federal Home Loan Mortgage Corporation during December of 1984, and the other distributions of such stock by Federal Home Loan Banks during January of 1985, shall be treated as if they were distributions of money equal to the fair market value of the stock on the date of the distribution by the Federal Home Loan Banks (and such stock shall be treated as if it were purchased with the money treated as so distributed). No deduction shall be allowed under section 243 of the Internal Revenue Code of 1986 with respect to any dividend paid by the Federal Home Loan Mortgage Corporation out of earnings and profits accumulated before January 1, 1985.
 
->         “(B) __Section 246(a) not to apply to distributions out of earnings and profits accumulated during 1985.—__ 
+>         “(B)  __Section 246__  __(a)__  __not to apply to distributions out of earnings and profits accumulated during 1985__  __.—__ 
 
 >         Subsection (a) of section 246 of the Internal Revenue Code of 1986 shall not apply to any dividend paid by the Federal Home Loan Mortgage Corporation during 1985 out of earnings and profits accumulated after December 31, 1984.
 
->     “(5) __Adjusted basis.—__ 
+>     “(5)  __Adjusted basis__  __.—__ 
 
 >     For purposes of this subsection, the adjusted basis of any asset shall be determined under part II of subchapter O of the Internal Revenue Code of 1986.
 
->     “(6) __No carrybacks for years before 1985.—__ 
+>     “(6)  __No carrybacks for years before 1985__  __.—__ 
 
 >     No net operating loss, capital loss, or excess credit of the Federal Home Loan Mortgage Corporation for any taxable year beginning after December 31, 1984, shall be allowed as a carryback to any taxable year beginning before January 1, 1985.
 
 >     “(7) __No deduction allowed for interest on replacement obligations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Federal Home Loan Mortgage Corporation shall not be allowed any deduction for interest accruing after December 31, 1984, on any replacement obligation.
 
->         “(B) __Replacement obligation defined.—__ 
+>         “(B)  __Replacement obligation defined__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘replacement obligation’ means any obligation to any person created after March 15, 1984, which the Secretary of the Treasury or his delegate determines replaces any equity or debt interest of a Federal Home Loan Bank or any other person in the Federal Home Loan Mortgage Corporation existing on such date. The preceding sentence shall not apply to any obligation with respect to which the Federal Home Loan Mortgage Corporation establishes that there is no tax avoidance effect.”
 
@@ -1237,7 +1237,7 @@
 
 >     “(a) __Elective Carryback.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the National Railroad Passenger Corporation (in this section referred to as the ‘Corporation’)—
 
@@ -1249,7 +1249,7 @@
 
 >         “(2) __Conditions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             This section shall only apply to the Corporation if it agrees (in such manner as the Secretary of the Treasury or his delegate may prescribe) to—
 
@@ -1259,11 +1259,11 @@
 
 >             “(B) __Repayment.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Corporation shall repay to the United States any amount not used in accordance with this paragraph and any amount remaining unused as of January 1, 2010.
 
->                 “(ii) __Special rules.—__ 
+>                 “(ii)  __Special rules__  __.—__ 
 
 >                 For purposes of clause (i)—
 
@@ -1271,11 +1271,11 @@
 
 >                          “(II) the Corporation shall not be treated as failing to meet the requirements of clause (i) by reason of investing any amount for a temporary period.
 
->         “(3) __Amount.—__ 
+>         “(3)  __Amount__  __.—__ 
 
 >         For purposes of paragraph (1)—
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amount determined under this paragraph shall be the lesser of—
 
@@ -1283,29 +1283,29 @@
 
 >                 “(ii) the Corporation’s net tax liability for the carryback period.
 
->             “(B) __Dollar limit.—__ 
+>             “(B)  __Dollar limit__  __.—__ 
 
 >             Such amount shall not exceed $2,323,000,000.
 
->     “(b) __Existing Qualified Carryovers; Net Tax Liability.—__ 
+>     “(b)  __Existing Qualified Carryovers; Net Tax Liability__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Existing qualified carryovers.—__ 
+>         “(1)  __Existing qualified carryovers__  __.—__ 
 
 >         The term ‘existing qualified carryovers’ means the aggregate of the amounts which are net operating loss carryovers under section 172(b) of the Internal Revenue Code of 1986 to the Corporation’s first taxable year ending after September 30, 1997.
 
 >         “(2) __Net tax liability for carryback period.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Corporation’s net tax liability for the carryback period is the aggregate of the net tax liability of the Corporation’s railroad predecessors for taxable years in the carryback period.
 
->             “(B) __Net tax liability.—__ 
+>             “(B)  __Net tax liability__  __.—__ 
 
 >             The term ‘net tax liability’ means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) for such taxable year, reduced by the sum of the credits allowable against such tax under such Code (or any corresponding provision of prior law).
 
->             “(C) __Carryback period.—__ 
+>             “(C)  __Carryback period__  __.—__ 
 
 >             The term ‘carryback period’ means the period—
 
@@ -1315,7 +1315,7 @@
 
 >         “(3) __Railroad predecessor.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘railroad predecessor’ means—
 
@@ -1323,21 +1323,21 @@
 
 >                 “(ii) any predecessor thereof.
 
->             “(B) __Consolidated returns.—__ 
+>             “(B)  __Consolidated returns__  __.—__ 
 
 >             If any railroad described in subparagraph (A) was a member of an affiliated group which filed a consolidated return for any taxable year in the carryback period, each member of such group shall be treated as a railroad predecessor for such year.
 
 >     “(c) __Payments to Non-Amtrak States.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Within 30 days after receipt of any refund of any payment described in subsection (a)(1), the Corporation shall pay to each non-Amtrak State an amount equal to 1 percent of the amount of such refund.
 
->         “(2) __Use of payment.—__ 
+>         “(2)  __Use of payment__  __.—__ 
 
 >         Each non-Amtrak State shall use the payment described in paragraph (1) (and any interest thereon) solely to finance qualified expenses of the State.
 
->         “(3) __Repayment.—__ 
+>         “(3)  __Repayment__  __.—__ 
 
 >         A non-Amtrak State shall pay to the United States—
 
@@ -1349,29 +1349,29 @@
 
 >     “(d) __Tax Consequences.—__ 
 
->         “(1) __Reduction in carryovers.—__ 
+>         “(1)  __Reduction in carryovers__  __.—__ 
 
 >         If the Corporation elects the application of this section, the Corporation’s existing qualified carryovers shall be reduced by an amount equal to the amount determined under subsection (a)(3) divided by 0.35.
 
 >         “(2) __Reduction in tax paid by railroad predecessors.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of the Treasury or his delegate shall appropriately adjust the tax account of each railroad predecessor to reduce the net tax liability of such predecessor for taxable years beginning in the carryback period which is offset by reason of the application of this section.
 
->             “(B) __FIFO ordering rule.—__ 
+>             “(B)  __FIFO ordering rule__  __.—__ 
 
 >             The Secretary shall make the adjustments under subparagraph (A) first for the earliest year in the carryback period and then for each subsequent year in such period.
 
->             “(C) __No effect on other taxpayers.—__ 
+>             “(C)  __No effect on other taxpayers__  __.—__ 
 
 >             In no event shall any taxpayer other than the Corporation be allowed a refund or credit by reason of this section.
 
->             “(D) __Waiver of limitations.—__ 
+>             “(D)  __Waiver of limitations__  __.—__ 
 
 >             If the adjustment under subparagraph (A) is barred by the operation of any law or rule of law, such law or rule of law shall be waived solely for purposes of making such adjustment.
 
->         “(3) __Tax treatment of expenditures.—__ 
+>         “(3)  __Tax treatment of expenditures__  __.—__ 
 
 >         With respect to any payment by the Corporation of qualified expenses described in subsection (e)(1)(A) during any taxable year from the amount of any refund of the payment described in subsection (a)(1)—
 
@@ -1379,15 +1379,15 @@
 
 >             “(B) the basis of any property shall be reduced by the portion of the cost of such property which is attributable to such amount.
 
->         “(4) __Payments to a non-amtrak state.—__ 
+>         “(4)  __Payments to a non-amtrak state__  __.—__ 
 
 >         No deduction shall be allowed to the Corporation under chapter 1 of the Internal Revenue Code of 1986 for any payment to a non-Amtrak State required under subsection (a)(2)(A)(ii).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Qualified expenses.—__ 
+>         “(1)  __Qualified expenses__  __.—__ 
 
 >         The term ‘qualified expenses’ means expenses incurred for—
 
@@ -1425,21 +1425,21 @@
 
 >             In the case of a non-Amtrak State which provides its own intercity passenger rail service on the date of the enactment of this paragraph \[Aug. 5, 1997\], subparagraph (B) shall be applied by only taking into account clauses (i) and (iv).
 
->         “(2) __Non-amtrak state.—__ 
+>         “(2)  __Non-amtrak state__  __.—__ 
 
 >         The term ‘non-Amtrak State’ means any State which is not receiving intercity passenger rail service from the Corporation as of the date of the enactment of this Act \[Aug. 5, 1997\].
 
 >     “(f) __Authorizing Reform Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall not make payment of any refund of any payment described in subsection (a)(1) earlier than the date of the enactment of Federal legislation, other than legislation included in this section, which is enacted after July 29, 1997, and which authorizes reforms of the National Railroad Passenger Corporation.
 
->         “(2) __No interest.—__ 
+>         “(2)  __No interest__  __.—__ 
 
 >         Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th day following the date of the enactment of Federal legislation described in paragraph (1).
 
->         “(3) __Estimate of revenue.—__ 
+>         “(3)  __Estimate of revenue__  __.—__ 
 
 >         For purposes of estimating revenues under budget reconciliation, the impact of this section on Federal revenues shall be determined without regard to this subsection.”
 

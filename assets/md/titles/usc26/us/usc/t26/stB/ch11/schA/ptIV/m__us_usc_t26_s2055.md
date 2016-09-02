@@ -57,11 +57,11 @@
 
         (3) __Reformations to comply with paragraph (2).—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A deduction shall be allowed under subsection (a) in respect of any qualified reformation.
 
-            (B) __Qualified reformation.—__ 
+            (B)  __Qualified reformation__  __.—__ 
 
             For purposes of this paragraph, the term “qualified reformation” means a change of a governing instrument by reformation, amendment, construction, or otherwise which changes a reformable interest into a qualified interest but only if—
 
@@ -87,19 +87,19 @@
 
                 A nonremainder interest (before reformation) for a term of years in excess of 20 years shall be treated as satisfying subclause (I) of clause (ii) if such interest (after reformation) is for a term of 20 years.
 
-            (C) __Reformable interest.—__ 
+            (C)  __Reformable interest__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The term “reformable interest” means any interest for which a deduction would be allowable under subsection (a) at the time of the decedent’s death but for paragraph (2).
 
-                (ii) __Beneficiary’s interest must be fixed.—__ 
+                (ii)  __Beneficiary’s interest must be fixed__  __.—__ 
 
                 The term “reformable interest” does not include any interest unless, before the remainder vests in possession, all payments to persons other than an organization described in subsection (a) are expressed either in specified dollar amounts or a fixed percentage of the fair market value of the property. For purposes of determining whether all such payments are expressed as a fixed percentage of the fair market value of the property, section 664(d)(3) shall be taken into account.
 
-                (iii) __Special rule where timely commencement of reformation.—__ 
+                (iii)  __Special rule where timely commencement of reformation__  __.—__ 
 
                 Clause (ii) shall not apply to any interest if a judicial proceeding is commenced to change such interest into a qualified interest not later than the 90th day after—
 
@@ -107,31 +107,31 @@
 
                     (II) if no estate tax return is required to be filed, the last date (including extensions) for filing the income tax return for the 1st taxable year for which such a return is required to be filed by the trust.
 
-                (iv) __Special rule for will executed before__  __january 1, 1979__  __, etc.—__ 
+                (iv)  __Special rule for will executed before __  __january 1, 1979__  __, etc__  __.—__ 
 
                 In the case of any interest passing under a will executed before January 1, 1979, or under a trust created before such date, clause (ii) shall not apply.
 
-            (D) __Qualified interest.—__ 
+            (D)  __Qualified interest__  __.—__ 
 
             For purposes of this paragraph, the term “qualified interest” means an interest for which a deduction is allowable under subsection (a).
 
-            (E) __Limitation.—__ 
+            (E)  __Limitation__  __.—__ 
 
             The deduction referred to in subparagraph (A) shall not exceed the amount of the deduction which would have been allowable for the reformable interest but for paragraph (2).
 
-            (F) __Special rule where income beneficiary dies.—__ 
+            (F)  __Special rule where income beneficiary dies__  __.—__ 
 
             If (by reason of the death of any individual, or by termination or distribution of a trust in accordance with the terms of the trust instrument) by the due date for filing the estate tax return (including any extension thereof) a reformable interest is in a wholly charitable trust or passes directly to a person or for a use described in subsection (a), a deduction shall be allowed for such reformable interest as if it had met the requirements of paragraph (2) on the date of the decedent’s death. For purposes of the preceding sentence, the term “wholly charitable trust” means a charitable trust which, upon the allowance of a deduction, would be described in section 4947(a)(1).
 
-            (G) __Statute of limitations.—__ 
+            (G)  __Statute of limitations__  __.—__ 
 
             The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by an additional closing parenthesis. </sup></sup>  has occurred.
 
-            (H) __Regulations.—__ 
+            (H)  __Regulations__  __.—__ 
 
             The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions of section 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
 
-            (I) __Reformations permitted in case of remainder interests in residence or farm, pooled income funds, etc.—__ 
+            (I)  __Reformations permitted in case of remainder interests in residence or farm, pooled income funds, etc__  __.—__ 
 
             The Secretary shall prescribe regulations (consistent with the provisions of this paragraph) permitting reformations in the case of any failure—
 
@@ -139,7 +139,7 @@
 
                 (ii) to meet the requirements of section 642(c)(5).
 
-            (J) __Void or reformed trust in cases of insufficient remainder interests.—__ 
+            (J)  __Void or reformed trust in cases of insufficient remainder interests__  __.—__ 
 
             In the case of a trust that would qualify (or could be reformed to qualify pursuant to subparagraph (B)) but for failure to satisfy the requirement of paragraph (1)(D) or (2)(D) of section 664(d), such trust may be—
 
@@ -151,23 +151,23 @@
 
         (4) __Works of art and their copyrights treated as separate properties in certain cases.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the case of a qualified contribution of a work of art, the work of art and the copyright on such work of art shall be treated as separate properties for purposes of paragraph (2).
 
-            (B) __Work of art defined.—__ 
+            (B)  __Work of art defined__  __.—__ 
 
             For purposes of this paragraph, the term “work of art” means any tangible personal property with respect to which there is a copyright under Federal law.
 
-            (C) __Qualified contribution defined.—__ 
+            (C)  __Qualified contribution defined__  __.—__ 
 
             For purposes of this paragraph, the term “qualified contribution” means any transfer of property to a qualified organization if the use of the property by the organization is related to the purpose or function constituting the basis for its exemption under section 501.
 
-            (D) __Qualified organization defined.—__ 
+            (D)  __Qualified organization defined__  __.—__ 
 
             For purposes of this paragraph, the term “qualified organization” means any organization described in section 501(c)(3) other than a private foundation (as defined in section 509). For purposes of the preceding sentence, a private operating foundation (as defined in section 4942(j)(3)) shall not be treated as a private foundation.
 
-        (5) __Contributions to donor advised funds.—__ 
+        (5)  __Contributions to donor advised funds__  __.—__ 
 
         A deduction otherwise allowed under subsection (a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
 
@@ -333,21 +333,21 @@
 
 [Pub. L. 98–369, div. A, title X, § 1022(e)][/us/pl/98/369/s1022/e], July 18, 1984, [98 Stat. 1029][/us/stat/98/1029], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Subsections (a), (b), and (c).—__ 
+>     “(1)  __Subsections__  __(a), (b),__  __and__  __(c).—__ 
 
 >     The amendments made by subsections (a), (b), and (c) \[amending this section and sections 170 and 2522 of this title\] shall apply to reformations after December 31, 1978; except that such amendments shall not apply to any reformation to which section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) applies. For purposes of applying clause (iii) of section 2055(e)(3)(C) of such Code (as amended by this section), the 90th day described in such clause shall be treated as not occurring before the 90th day after the date of the enactment of this Act.
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendment made by subsection (d) \[amending [section 664 of this title][/us/usc/t26/s664]\] shall apply to transfers after December 31, 1978.
 
 >     “(3) __Statute of limitations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If on the date of the enactment of this Act \[July 18, 1984\] (or at any time before the date 1 year after such date of enactment), credit or refund of any overpayment of tax attributable to the amendments made by this section is barred by any law or rule of law, such credit or refund of such overpayment may nevertheless be made if claim therefor is filed before the date 1 year after the date of the enactment of this Act.
 
->         “(B) __No interest where statute closed on date of enactment.—__ 
+>         “(B)  __No interest where statute closed on date of enactment__  __.—__ 
 
 >         In any case where the making of the credit or refund of the overpayment described in subparagraph (A) is barred on the date of the enactment of this Act \[July 18, 1984\], no interest shall be allowed with respect to such overpayment (or any related adjustment) for the period before the date 180 days after the date on which the Secretary of the Treasury (or his delegate) is notified that the reformation has occurred.”
 
@@ -387,11 +387,11 @@
 
 [Pub. L. 95–600, title V, § 514(c)][/us/pl/95/600/s514/c], as added by [Pub. L. 96–222, title I, § 105(a)(4)(B)][/us/pl/96/222/s105/a/4/B], Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __For subsection (a).—__ 
+>     “(1)  __For subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after December 31, 1969.
 
->     “(2) __For subsection (b).—__ 
+>     “(2)  __For subsection__  __(b).—__ 
 
 >     Subsection (b) \[[section 514(b) of Pub. L. 95–600][/us/pl/95/600/s514/b], set out below\]—
 

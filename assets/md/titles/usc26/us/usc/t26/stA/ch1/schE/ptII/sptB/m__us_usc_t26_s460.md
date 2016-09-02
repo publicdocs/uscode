@@ -515,11 +515,11 @@
 
 [Pub. L. 105–34, title XII, § 1211(c)][/us/pl/105/34/s1211/c], Aug. 5, 1997, [111 Stat. 1000][/us/stat/111/1000], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts completed in taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply for purposes of section 167(g) of the Internal Revenue Code of 1986 to property placed in service after September 13, 1995.”
 
@@ -535,15 +535,15 @@
 
 [Pub. L. 101–239, title VII, § 7621(d)][/us/pl/101/239/s7621/d], Dec. 19, 1989, [103 Stat. 2376][/us/stat/103/2376], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts entered into on or after July 11, 1989.
 
->     “(2) __Binding bids.—__ 
+>     “(2)  __Binding bids__  __.—__ 
 
 >     The amendments made by this section shall not apply to any contract resulting from the acceptance of a bid made before July 11, 1989. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after July 11, 1989.
 
->     “(3) __Special rule for certain ship contracts.—__ 
+>     “(3)  __Special rule for certain ship contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\]).”
 
@@ -555,21 +555,21 @@
 
 [Pub. L. 100–647, title V, § 5041(e)][/us/pl/100/647/s5041/e], Nov. 10, 1988, [102 Stat. 3675][/us/stat/102/3675], as amended by [Pub. L. 101–239, title VII, § 7815(e)(3)][/us/pl/101/239/s7815/e/3], Dec. 19, 1989, [103 Stat. 2419][/us/stat/103/2419], provided that:
 
->     “(1) __Subsections (a), (b), and (c).—__ 
+>     “(1)  __Subsections__  __(a), (b),__  __and__  __(c).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall apply to contracts entered into on or after June 21, 1988.
 
->         “(B) __Binding bids.—__ 
+>         “(B)  __Binding bids__  __.—__ 
 
 >         The amendments made by subsections (a), (b), and (c) shall not apply to any contract resulting from the acceptance of a bid made before June 21, 1988. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after June 21, 1988.
 
->         “(C) __Special rule for certain ship contracts.—__ 
+>         “(C)  __Special rule for certain ship contracts__  __.—__ 
 
 >         The amendments made by subsections (a) and (b) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\]).
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply as if included in the amendments made by section 804 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\]; except that such amendment shall not apply to any contract completed in a taxable year ending before the date of the enactment of this Act \[Nov. 10, 1988\], if the due date (determined with regard to extensions) for the return for such year is before such date of enactment.”
 
@@ -577,17 +577,17 @@
 
 [Pub. L. 100–203, title X, § 10203(b)][/us/pl/100/203/s10203/b], Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts entered into after October 13, 1987.
 
 >     “(2) __Special rule for certain ship contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply in the case of a qualified ship contract.
 
->         “(B) __Qualified ship contract.—__ 
+>         “(B)  __Qualified ship contract__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified ship contract’ means any contract for the construction in the United States of not more than 5 ships if—
 
@@ -599,13 +599,13 @@
 
 [Pub. L. 99–514, title VIII, § 804(d)][/us/pl/99/514/s804/d], Oct. 22, 1986, [100 Stat. 2361][/us/stat/100/2361], as amended by [Pub. L. 100–647, title I, § 1008(c)(3)][/us/pl/100/647/s1008/c/3], Nov. 10, 1988, [102 Stat. 3439][/us/stat/102/3439], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to any contract entered into after February 28, 1986.
 
 >     “(2) __Clarification of treatment of independent research and development expenses.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For periods before, on, or after the date of enactment of this Act \[Oct. 22, 1986\]—
 
@@ -613,7 +613,7 @@
 
 >             “(ii) any independent research and development expenses shall not be treated as amounts chargeable to capital account.
 
->         “(B) __Independent research and development expenses.—__ 
+>         “(B)  __Independent research and development expenses__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘independent research and development expenses’ has the meaning given to such term by section 460(c)(5) of the Internal Revenue Code of 1986, as added by this section.”
 
@@ -631,11 +631,11 @@
 
 [Pub. L. 108–357, title VII, § 708][/us/pl/108/357/s708], Oct. 22, 2004, [118 Stat. 1550][/us/stat/118/1550], as amended by [Pub. L. 109–135, title IV, § 403(s)][/us/pl/109/135/s403/s], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of a qualified naval ship contract, the taxable income of such contract during the 5-taxable year period beginning with the taxable year in which the construction commencement date occurs shall be determined under a method identical to the method used in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out as an Effective Date of 1987 Amendment note above\]).
 
->     “(b) __Recapture of Tax Benefit.—__ 
+>     “(b)  __Recapture of Tax Benefit__  __.—__ 
 
 >     In the case of a qualified naval ship contract to which subsection (a) applies, the taxpayer’s tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the first taxable year following the 5-taxable year period described in subsection (a) shall be increased by the excess (if any) of—
 
@@ -643,27 +643,27 @@
 
 >         “(2) the amount of tax so imposed during such period.
 
->     “(c) __Qualified Naval Ship Contract.—__ 
+>     “(c)  __Qualified Naval Ship Contract__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified naval ship contract’ means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
 
->         “(2) __Acceptance date.—__ 
+>         “(2)  __Acceptance date__  __.—__ 
 
 >         The term ‘acceptance date’ means the date 1 year after the date on which the Federal Government issues a letter of acceptance or other similar document for the ship or submarine.
 
->         “(3) __Construction commencement date.—__ 
+>         “(3)  __Construction commencement date__  __.—__ 
 
 >         The term ‘construction commencement date’ means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer’s shipyard.
 
->     “(d) __Certain Adjustments Not to Apply.—__ 
+>     “(d)  __Certain Adjustments Not to Apply__  __.—__ 
 
 >     Section 481 of the Internal Revenue Code of 1986 shall not apply with respect to any change in the method of accounting which is required by this section.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply to contracts for ships or submarines with respect to which the construction commencement date occurs after the date of the enactment of this Act \[Oct. 22, 2004\].”
 

@@ -53,15 +53,15 @@
 
 [Pub. L. 111–347, title III, § 301(b)][/us/pl/111/347/s301/b], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The head of each executive agency shall take any and all measures necessary to ensure that no funds are disbursed to any foreign contractor in order to reimburse the tax imposed under section 5000C of the Internal Revenue Code of 1986.
 
->     “(2) __Annual review.—__ 
+>     “(2)  __Annual review__  __.—__ 
 
 >     The Administrator for Federal Procurement Policy shall annually review the contracting activities of each executive agency to monitor compliance with the requirements of paragraph (1).
 
->     “(3) __Executive agency.—__ 
+>     “(3)  __Executive agency__  __.—__ 
 
 >     For purposes of this subsection, the term ‘executive agency’ has the meaning given the term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].”
 

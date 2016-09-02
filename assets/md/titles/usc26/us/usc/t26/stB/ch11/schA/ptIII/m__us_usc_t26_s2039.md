@@ -97,11 +97,11 @@
 
 [Pub. L. 98–369, div. A, title V, § 525(b)(1)][/us/pl/98/369/s525/b/1], (2), (4), July 18, 1984, [98 Stat. 874][/us/stat/98/874], as amended by [Pub. L. 99–514, title XVIII, § 1852(e)(3)][/us/pl/99/514/s1852/e/3], Oct. 22, 1986, [100 Stat. 2868][/us/stat/100/2868], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1984.
 
->     “(2) __Exception for participants in pay status.—__ 
+>     “(2)  __Exception for participants in pay status__  __.—__ 
 
 >     The amendments made by this section shall not apply to the estate of any decedent who—
 
@@ -109,7 +109,7 @@
 
 >         “(B) irrevocably elected the form of the benefit before the date of the enactment of this Act \[July 18, 1984\].
 
->     “(4) __Irrevocable election.—__ 
+>     “(4)  __Irrevocable election__  __.—__ 
 
 >     For purposes of paragraph (2) \[set out above\] and section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date of 1982 Amendment note below\], an individual who—
 

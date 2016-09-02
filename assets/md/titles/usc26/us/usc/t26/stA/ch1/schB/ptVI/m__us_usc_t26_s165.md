@@ -539,7 +539,7 @@
 
 [Pub. L. 103–66, title XIII, § 13224][/us/pl/103/66/s13224], Aug. 10, 1993, [107 Stat. 485][/us/stat/107/485], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of chapter 1 of the Internal Revenue Code of 1986—
 
@@ -547,13 +547,13 @@
 
 >         “(2) any FSLIC assistance with respect to any debt shall be taken into account for purposes of section 166, 585, or 593 of such Code in determining whether such debt is worthless (or the extent to which such debt is worthless) and in determining the amount of any addition to a reserve for bad debts arising from the worthlessness or partial worthlessness of such debts.
 
->     “(b) __FSLIC Assistance.—__ 
+>     “(b)  __FSLIC Assistance__  __.—__ 
 
 >     For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former [12 U.S.C. 1729(f)][/us/usc/t12/s1729/f]\] or \[former\] section 21A of the Federal Home Loan Bank Act \[[12 U.S.C. 1441a][/us/usc/t12/s1441a]\] (or under any similar provision of law).
 
 >     “(c) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection—
 
@@ -561,7 +561,7 @@
 
 >             “(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         The provisions of this section shall not apply to any assistance to which the amendments made by section 1401(a)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[[Pub. L. 101–73][/us/pl/101/73], amending [section 597 of this title][/us/usc/t26/s597] and repealing provisions set out as a note under [section 597 of this title][/us/usc/t26/s597]\] apply.”
 
@@ -581,11 +581,11 @@
 
 >     “(a) __Bus Operating Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[[section 266 of Pub. L. 97–34][/us/pl/97/34/s266], set out below\] shall be applied as if the term ‘motor carrier operating authority’ included a bus operating authority.
 
->         “(2) __Modifications.—__ 
+>         “(2)  __Modifications__  __.—__ 
 
 >         For purposes of paragraph (1), section 266 of such Act shall be applied—
 
@@ -593,7 +593,7 @@
 
 >             “(B) by substituting ‘November 1982’ for ‘July 1980’ in subsection (a) thereof.
 
->         “(3) __Bus operating authority defined.—__ 
+>         “(3)  __Bus operating authority defined__  __.—__ 
 
 >         For purposes of this subsection and section 266 of such Act, the term ‘bus operating authority’ means—
 
@@ -603,15 +603,15 @@
 
 >     “(b) __Freight Forwarder Operating Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[[section 266 of Pub. L. 97–34][/us/pl/97/34/s266], set out below\] shall be applied as if subsection (b) thereof contained ‘or a freight forwarder’ after ‘contract carrier of property’.
 
->         “(2) __Modifications.—__ 
+>         “(2)  __Modifications__  __.—__ 
 
 >         The modifications referred to in this paragraph are:
 
->             “(A) __60-month period.—__ 
+>             “(A) __60-__  __month period__  __.—__ 
 
 >             The 60-month period referred to in section 266(a) of such Act shall begin with the later of—
 
@@ -619,23 +619,23 @@
 
 >                 “(ii) at the election of the taxpayer, the 1st month of the taxpayer’s 1st taxable year beginning after the deregulation month.
 
->             “(B) __Authority must be held as of beginning of 60-month period.—__ 
+>             “(B)  __Authority must be held as of beginning of 60-month period__  __.—__ 
 
 >             A motor carrier operating authority shall not be taken into account unless such authority is held by the taxpayer at the beginning of the 60-month period applicable to the taxpayer under subparagraph (A).
 
->             “(C) __Adjusted basis not to exceed adjusted basis at beginning of 60-month period.—__ 
+>             “(C)  __Adjusted basis not to exceed adjusted basis at beginning of 60-month period__  __.—__ 
 
 >             The adjusted basis taken into account with respect to any motor carrier operating authority shall not exceed the adjusted basis of such authority as of the beginning of the 60-month period applicable to the taxpayer under subparagraph (A).
 
->         “(3) __Deregulation month.—__ 
+>         “(3)  __Deregulation month__  __.—__ 
 
 >         For purposes of this section, the term ‘deregulation month’ means the month in which the Secretary of the Treasury or his delegate determines that a Federal law has been enacted which deregulates the freight forwarding industry.
 
->     “(c) __Special Rule for Motor Carrier Operating Authority.—__ 
+>     “(c)  __Special Rule for Motor Carrier Operating Authority__  __.—__ 
 
 >     In the case of a corporation which was incorporated on December 29, 1969, in the State of Delaware, notwithstanding any other provision of law, there shall be allowed as a deduction for the taxable year of the taxpayer beginning in 1980 an amount equal to $2,705,188 for its entire loss due to a decline in value of its motor carrier operating authority by reason of deregulation.
 
->     “(d) __Application of Section 334(b)(2).—__ 
+>     “(d)  __Application of Section__  __334(b)(2).—__ 
 
 >     For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[[section 266(c)(2)(A)(ii) of Pub. L. 97–34][/us/pl/97/34/s266/c/2/A/ii], set out below\] shall be a reference to such section as in effect before its repeal.
 
@@ -643,15 +643,15 @@
 
 >         “(1) __Bus operating authority.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subsection (a) shall apply to taxable years ending after November 18, 1982.
 
->             “(B) __Statute of limitations.—__ 
+>             “(B)  __Statute of limitations__  __.—__ 
 
 >             If refund or credit of any overpayment of tax resulting from subsection (a) is prevented at any time on or before the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of such subsection) may, notwithstanding such law or rule of law, be made or allowed if claim therefore \[sic\] is filed on or before the date which is 18 months after such date of enactment.
 
->         “(2) __Freight forwarder operating authority.—__ 
+>         “(2)  __Freight forwarder operating authority__  __.—__ 
 
 >         Subsection (b) shall apply to taxable years ending after the month preceding the deregulation month.”
 
@@ -685,7 +685,7 @@
 
 >                   the holder of the authority may, for purposes of this section, allocate a portion of the basis of the acquiring corporation in the stock of the acquired corporation to the basis of such authority in such manner as the Secretary may prescribe in such regulations.
 
->             “(B) __Treatment of certain noncorporate taxpayers.—__ 
+>             “(B)  __Treatment of certain noncorporate taxpayers__  __.—__ 
 
 >             Under regulations prescribed by the Secretary of the Treasury or his delegate, and at the election of the holder of the authority, in any case in which—
 
@@ -717,7 +717,7 @@
 
 [Pub. L. 94–455, title XXI, § 2103][/us/pl/94/455/s2103], Oct. 4, 1976, [90 Stat. 1900][/us/stat/90/1900], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Application of Section.—__ 
+>     “(a)  __Application of Section__  __.—__ 
 
 >     This section shall apply to any individual—
 
@@ -733,7 +733,7 @@
 
 >         “(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to take the benefits of this section.
 
->     “(b) __Effect of Election.—__ 
+>     “(b)  __Effect of Election__  __.—__ 
 
 >     In the case of any individual to whom this section applies—
 
@@ -743,7 +743,7 @@
 
 >         “(3) no interest on any deficiency shall be payable for any period before April 16, 1977, to the extent such deficiency is attributable to the receipt of such compensation, and no interest on any installment referred to in paragraph (2) shall be payable for any period before the due date of such installment.
 
->     “(c) __Income Taken Into Account.—__ 
+>     “(c)  __Income Taken Into Account__  __.—__ 
 
 >     For purposes of this section, the income taken into account is—
 
@@ -751,11 +751,11 @@
 
 >         “(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not in excess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person’s liability in tort for the damage or destruction of that taxpayer’s property in connection with the disaster described in subsection (a)(1).
 
->     “(d) __Phaseout Where Adjusted Gross Income Exceeds $15,000.—__ 
+>     “(d)  __Phaseout Where Adjusted Gross Income Exceeds__  __$15,000.—__ 
 
 >     If for the taxable year for which the deduction for the loss was taken the individual’s adjusted gross income exceeded $15,000, the $5,000 limit set forth in paragraph (1) or (2) of subsection (c) (whichever applies) shall be reduced by one dollar for each full dollar that such adjusted gross income exceeds $15,000. In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting ‘$7,500’ for ‘$15,000’.
 
->     “(e) __Statute of Limitations.—__ 
+>     “(e)  __Statute of Limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable to such election) may, nevertheless, be made if made within one year after such date.”
 

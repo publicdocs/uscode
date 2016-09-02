@@ -427,7 +427,7 @@
 
 >     “(g) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and [section 172 of this title][/us/usc/t26/s172]\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
@@ -437,7 +437,7 @@
 
 >         “(2) __Taxpayer may elect earlier application.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of amounts described in paragraph (1)(A), a taxpayer may elect to have the amendments made by this section apply to amounts which—
 
@@ -447,7 +447,7 @@
 
 >                   The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an election under the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer’s entire taxable year in which occurs July 19, 1984.
 
->             “(B) __Election treated as change in the method of accounting.—__ 
+>             “(B)  __Election treated as change in the method of accounting__  __.—__ 
 
 >             For purposes of section 481 of the Internal Revenue Code of 1986, if an election is made under subparagraph (A) with respect to any amount, the application of the amendments made by this section shall be treated as a change in method of accounting—
 
@@ -457,27 +457,27 @@
 
 >                 “(iii) with respect to which section 481 of such Code shall be applied by substituting a 3-year adjustment period for a 10-year adjustment period.
 
->         “(3) __Section 461(h) to apply in certain cases.—__ 
+>         “(3)  __Section 461(__  __h)__  __to apply in certain cases__  __.—__ 
 
 >         Notwithstanding paragraph (1), section 461(h) of the Internal Revenue Code of 1986 (as added by this section) shall be treated as being in effect to the extent necessary to carry out any amendments made by this section which take effect before section 461(h).
 
->         “(4) __Effective date for treatment of mining and solid waste reclamation and closing costs.—__ 
+>         “(4)  __Effective date for treatment of mining and solid waste reclamation and closing costs__  __.—__ 
 
 >         Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting [section 468 of this title][/us/usc/t26/s468]\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
->         “(5) __Rules for nuclear decommissioning costs.—__ 
+>         “(5)  __Rules for nuclear decommissioning costs__  __.—__ 
 
 >         The amendments made by subsections (c) and (f) \[enacting sections 88 and 468A of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
->         “(6) __Modification of net operating loss carryback period.—__ 
+>         “(6)  __Modification of net operating loss carryback period__  __.—__ 
 
 >         The amendments made by subsection (d) \[amending [section 172 of this title][/us/usc/t26/s172]\] shall apply to losses for taxable years beginning after December 31, 1983.
 
->     “(h) __Exception for Certain Existing Activities and Contracts.—__ 
+>     “(h)  __Exception for Certain Existing Activities and Contracts__  __.—__ 
 
 >     If—
 
->         “(1) __Existing accounting practices.—__ 
+>         “(1)  __Existing accounting practices__  __.—__ 
 
 >         If, on March 1, 1984, any taxpayer was regularly computing his deduction for mining reclamation activities under a current cost method of accounting (as determined by the Secretary of the Treasury or his delegate), the liability for reclamation activities—
 
@@ -489,11 +489,11 @@
 
 >         “(2) __Fixed price supply contract.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any fixed price supply contract entered into before March 1, 1984, the amendments made by subsection (b) \[enacting [section 468 of this title][/us/usc/t26/s468]\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
 
->             “(B) __No extension or renegotiation.—__ 
+>             “(B)  __No extension or renegotiation__  __.—__ 
 
 >             Subparagraph (A) shall not apply—
 
@@ -503,7 +503,7 @@
 
 >     “(i) __Transitional Rule for Accrued Vacation Pay.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any taxpayer—
 
@@ -513,7 +513,7 @@
 
 >             then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to any vested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
 
->         “(2) __Vested accrued vacation pay.—__ 
+>         “(2)  __Vested accrued vacation pay__  __.—__ 
 
 >         For purposes of this subsection, the term ‘vested accrued vacation pay’ means any amount allowable under section 162(a) of such Code with respect to vacation pay of employees of the taxpayer (determined without regard to section 463 of such Code).”
 
@@ -523,11 +523,11 @@
 
 [Pub. L. 94–455, title II, § 208(b)][/us/pl/94/455/s208/b], Oct. 4, 1976, [90 Stat. 1542][/us/stat/90/1542], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
 
->     “(2) __Certain amounts paid before 1977.—__ 
+>     “(2)  __Certain amounts paid before 1977__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall not apply to amounts paid before January 1, 1977, pursuant to a binding contract or written loan commitment which existed on September 16, 1975 (and at all times thereafter), and which required prepayment of such amounts by the taxpayer.”
 

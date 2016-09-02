@@ -473,31 +473,31 @@
 
 >     “(1) __Adjustments to earnings and profits.—__ 
 
->         “(A) __Paragraphs (1), (2), and (3) of section 312(n).—__ 
+>         “(A)  __Paragraphs (1), (2), and (3) of section 312__  __(n).—__ 
 
 >         The provisions of paragraphs (1), (2), and (3) of section 312(n) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to amounts paid or incurred in taxable years beginning after September 30, 1984.
 
->         “(B) __Paragraph (4) of section 312(n).—__ 
+>         “(B)  __Paragraph (4) of section 312__  __(n).—__ 
 
 >         The provisions of paragraph (4) of section 312(n) of such Code (as so added) shall apply to distributions after September 30, 1984; except that such provisions shall not apply to any distribution to which the amendments made by section 54(a) of this Act \[amending [section 311 of this title][/us/usc/t26/s311]\] do not apply.
 
->         “(C) __LIFO inventory.—__ 
+>         “(C)  __LIFO inventory__  __.—__ 
 
 >         The provisions of paragraph (5) of section 312(n) of such Code (as so added) shall apply to taxable years beginning after September 30, 1984.
 
->         “(D) __Installment sales.—__ 
+>         “(D)  __Installment sales__  __.—__ 
 
 >         The provisions of paragraph (6) of section 312(n) of such Code (as so added) shall apply to sales after September 30, 1984, in taxable years ending after such date.
 
->         “(E) __Completed contract method.—__ 
+>         “(E)  __Completed contract method__  __.—__ 
 
 >         The provisions of paragraph (7) of section 312(n) of such Code (as so added) shall apply to contracts entered into after September 30, 1984, in taxable years ending after such date.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to property placed in service in taxable years beginning after September 30, 1984.
 
->     “(3) __Subsection (c).—__ 
+>     “(3)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending this section and [section 1275 of this title][/us/usc/t26/s1275]\] shall apply with respect to distributions declared after March 15, 1984, in taxable years ending after such date.”
 

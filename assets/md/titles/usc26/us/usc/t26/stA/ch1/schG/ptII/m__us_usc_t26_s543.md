@@ -465,19 +465,19 @@
 
 [Pub. L. 100–647, title VI, § 6280][/us/pl/100/647/s6280], Nov. 10, 1988, [102 Stat. 3754][/us/stat/102/3754], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of subtitle A of the 1986 Code, the term ‘personal holding company income’ shall not include any dividend received by a qualified bank holding company from a 25-percent owned bank during any taxable year ending in 1989 or 1990.
 
->     “(b) __$3,000,000 Limitation.—__ 
+>     “(b) __$3,000,000__  __Limitation__  __.—__ 
 
 >     The aggregate amount excluded from the personal holding company income of any qualified bank holding company under subsection (a) for the taxable year shall not exceed $3,000,000.
 
->     “(c) __Qualified Bank Holding Company.—__ 
+>     “(c)  __Qualified Bank Holding Company__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified bank holding company’ means any bank holding company (as defined in section 2(a) of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841(a)][/us/usc/t12/s1841/a]\]) if 80 percent or more (by value) of the assets of such company at all times during the taxable year consist of stock in 1 or more 25-percent owned banks.
 
->     “(d) __25-Percent Owned Bank.—__ 
+>     “(d) __25-__  __Percent Owned Bank__  __.—__ 
 
 >     For purposes of this section, the term ‘25-percent owned bank’ means any bank (as defined in section 581 of the 1986 Code) if at least 25 percent of the stock of such bank (by vote and value) is owned by the bank holding company.”
 
@@ -485,7 +485,7 @@
 
 [Pub. L. 99–514, title VI, § 645(b)][/us/pl/99/514/s645/b]–(d), Oct. 22, 1986, [100 Stat. 2292][/us/stat/100/2292], provided that:
 
->     “(b) __Special Rules for Broker-Dealers.—__ 
+>     “(b)  __Special Rules for Broker-Dealers__  __.—__ 
 
 >     In the case of a broker-dealer which is part of an affiliated group which files a consolidated Federal income tax return, the common parent of which was incorporated in Nevada on January 27, 1972, the personal holding company income (within the meaning of section 543 of the Internal Revenue Code of 1986) of such broker-dealer, shall not include any interest received after the date of the enactment of this Act \[Oct. 22, 1986\] with respect to—
 
@@ -497,19 +497,19 @@
 
 >     “(c) __Special Rule for Royalties Received by Qualified Taxpayer.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any qualified royalty received or accrued in taxable years beginning after December 31, 1981, by a qualified taxpayer shall be treated in the same manner as a royalty with respect to software is treated under the amendments made by this section \[amending this section and [section 553 of this title][/us/usc/t26/s553]\].
 
->         “(2) __Qualified taxpayer.—__ 
+>         “(2)  __Qualified taxpayer__  __.—__ 
 
 >         For purposes of this subsection, a qualified taxpayer is any taxpayer incorporated on September 7, 1978, which is engaged in the trade or business of manufacturing dolls and accessories.
 
->         “(3) __Qualified royalty.—__ 
+>         “(3)  __Qualified royalty__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified royalty’ means any royalty arising from an agreement entered into in 1982 which permits the licensee to manufacture and sell dolls and accessories.
 
->     “(d) __Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes.—__ 
+>     “(d)  __Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes__  __.—__ 
 
 >     In the case of a taxpayer which was incorporated on May 3, 1977, in California and which elected to be taxed as an S corporation for its taxable year ending on December 31, 1985, any active business computer royalties (within the meaning of section 543(d) of the Internal Revenue Code of 1986 as added by this Act) which are received by the taxpayer in taxable years beginning after December 31, 1984, shall not be treated as passive investment income (within the meaning of section 1362(d)(3)(D) \[now section 1362(d)(3)(C)\]) for purposes of subchapter S of chapter 1 of such Code.”
 

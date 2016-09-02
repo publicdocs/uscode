@@ -285,15 +285,15 @@
 
 [Pub. L. 100–203, title X, § 10631(c)][/us/pl/100/203/s10631/c], Dec. 22, 1987, [101 Stat. 1330–455][/us/stat/101/1330-455], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 142 and 146 of this title\] shall apply to bonds issued after October 13, 1987 (other than bonds issued to refund bonds issued on or before such date).
 
->     “(2) __Binding agreements.—__ 
+>     “(2)  __Binding agreements__  __.—__ 
 
 >     The amendments made by this section shall not apply to bonds (other than advance refunding bonds) with respect to a facility acquired after October 13, 1987, pursuant to a binding contract entered into on or before such date.
 
->     “(3) __Transitional rule.—__ 
+>     “(3)  __Transitional rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to bonds issued—
 
@@ -313,33 +313,33 @@
 
 > “SEC. 1311. __GENERAL EFFECTIVE DATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this subtitle, the amendments made by section 1301 \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing [section 103A of this title][/us/usc/t26/s103A], omitting former [section 143 of this title][/us/usc/t26/s143], enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under [section 103A of this title][/us/usc/t26/s103A]\] shall apply to bonds issued after August 15, 1986.
 
->     “(b) __Section 1301(f).—__ 
+>     “(b)  __Section__  __1301(f).—__ 
 
->         “(1) __Increase in trade-in rate.—__ 
+>         “(1)  __Increase in trade-in rate__  __.—__ 
 
 >         The amendments made by paragraph (1) of section 1301(f) \[amending [section 25 of this title][/us/usc/t26/s25]\] shall apply to nonissued bond amounts elected after August 15, 1986.
 
->         “(2) __Certificates.—__ 
+>         “(2)  __Certificates__  __.—__ 
 
 >         The amendments made by paragraph (2) of section 1301(f) \[amending [section 25 of this title][/us/usc/t26/s25]\] shall apply to certificates issued with respect to non-issued bond amounts elected after August 15, 1986.
 
->     “(c) __Changes in Use, Etc.__ 
+>     “(c)  __Changes in Use, Etc., of Facilities Financed With Private Activity Bonds__  __.—__ 
 
->     , of Facilities Financed With Private Activity Bonds.—Subsection (b) of section 150 of the 1986 Code shall apply to changes in use (and ownership) after August 15, 1986, but only with respect to financing (including refinancings) provided after such date.
+>     Subsection (b) of section 150 of the 1986 Code shall apply to changes in use (and ownership) after August 15, 1986, but only with respect to financing (including refinancings) provided after such date.
 
->     “(d) __Public Approval and Information Reporting.—__ 
+>     “(d)  __Public Approval and Information Reporting__  __.—__ 
 
 >     Sections 147(f) and 149(e) of the 1986 Code shall apply to bonds issued after December 31, 1986.
 
->     “(e) __Rebate Requirement for Qualified Scholarship Funding Bonds.—__ 
+>     “(e)  __Rebate Requirement for Qualified Scholarship Funding Bonds__  __.—__ 
 
 >     Section 150(d) of the 1986 Code shall apply to payments made after August 15, 1986.
 
->     “(f) __Section 1303.—__ 
+>     “(f)  __Section__  __1303.—__ 
 
 >     The amendments made by section 1303 \[amending sections 172, 1016, and 3402 of this title and repealing sections 1391 to 1397 and 6039B of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
 
@@ -347,7 +347,7 @@
 
 >     “(a) __Exception for Construction or Binding Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to bonds (other than a refunding bond) with respect to a facility—
 
@@ -361,13 +361,13 @@
 
 >             “(B) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before September 26, 1985.
 
->         “(2) __Significant expenditures.—__ 
+>         “(2)  __Significant expenditures__  __.—__ 
 
 >         For purposes of paragraph (1)(A), the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
 
->     “(b) __Certain Amendments To Apply to Bonds Under Subsection (a) Transitional Rule.—__ 
+>     “(b)  __Certain Amendments To Apply to Bonds Under Subsection__  __(a) Transitional Rule.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a bond issued after August 15, 1986, and to which subsection (a) of this section applies, the requirements of the following provisions shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code:
 
@@ -391,21 +391,21 @@
 
 >             “(J) The provisions of section 150(b) of the 1986 Code (relating to changes in use).
 
->         “(2) __Certain requirements apply only to bonds issued after__  __december 31, 1986__  __.—__ 
+>         “(2)  __Certain requirements apply only to bonds issued after __  __december 31, 1986__  __.—__ 
 
 >         In the case of subparagraphs (F) and (I) of paragraphs (1), paragraph (1) shall be applied by substituting ‘December 31, 1986’ for ‘August 15, 1986’.
 
->         “(3) __Application of volume cap.—__ 
+>         “(3)  __Application of volume cap__  __.—__ 
 
 >         Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determined without regard to any carryforward election) were such bond issued before August 16, 1986.
 
->         “(4) __Application of provisions.—__ 
+>         “(4)  __Application of provisions__  __.—__ 
 
 >         For purposes of applying the requirements referred to in any subparagraph of paragraph (1) or of subsection (a)(3) or (b)(3) of section 1313 to any bond, such bond shall be treated as described in the subparagraph of section 141(d)(1) of the 1986 Code to which the use of the proceeds of such bond most closely relates.
 
->     “(c) __Special Rules for Certain Government Bonds Issued After__  __August 15, 1986__  __.—__ 
+>     “(c)  __Special Rules for Certain Government Bonds Issued After August__  __15, 1986.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any bond described in paragraph (2)—
 
@@ -415,7 +415,7 @@
 
 >             “(C) such bond shall not be treated as a private activity bond for purposes of applying the requirements referred to in subparagraphs (H) and (I) of subsection (b)(1).
 
->         “(2) __Bond described.—__ 
+>         “(2)  __Bond described__  __.—__ 
 
 >         A bond is described in this paragraph if such bond is not—
 
@@ -431,7 +431,7 @@
 
 >             “(C) a private loan bond (as defined in section 103(o)(2)(A) of such Code, without regard to any exception from such definition other than section 103(o)(2)(C) of such Code).
 
->     “(d) __Election Out.—__ 
+>     “(d)  __Election Out__  __.—__ 
 
 >     This section shall not apply to any issue with respect to which the issuer elects not to have this section apply.
 
@@ -439,7 +439,7 @@
 
 >     “(a) __Certain Current Refundings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (3), the amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to any bond the proceeds of which are used exclusively to refund (other than to advance refund) a qualified bond (or a bond which is part of a series of refundings of a qualified bond) if—
 
@@ -453,7 +453,7 @@
 
 >             In the case of a qualified bond which was (when issued) a qualified mortgage bond or a qualified veterans’ mortgage bond, subparagraph (B)(i) shall not apply and subparagraph (B)(ii) shall be applied by substituting ‘32 years’ for ‘17 years’.
 
->         “(2) __Qualified bond.—__ 
+>         “(2)  __Qualified bond__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘qualified bond’ means any bond (other than a refunding bond)—
 
@@ -461,7 +461,7 @@
 
 >             “(B) issued after August 15, 1986, if section 1312(a) applies to such bond.
 
->         “(3) __Certain amendments to apply.—__ 
+>         “(3)  __Certain amendments to apply__  __.—__ 
 
 >         The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
 
@@ -477,7 +477,7 @@
 
 >             Subparagraphs (A) and (D) shall apply only if the refunding bond is issued after December 31, 1986. In the case of a refunding bond described in paragraph (1) with respect to a qualified bond described in paragraph (2)(B), the requirements of section 1312(b)(1) which applied to such qualified bond shall be treated as specified in this paragraph with respect to such refunding bond.
 
->         “(4) __Special rules for certain government bonds issued after__  __august 15, 1986__  __.—__ 
+>         “(4)  __Special rules for certain government bonds issued after __  __august 15, 1986__  __.—__ 
 
 >         In the case of any bond described in section 1312(c)(2)—
 
@@ -489,7 +489,7 @@
 
 >     “(b) __Certain Advance Refundings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (3), the amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to any bond the proceeds of which are used exclusively to advance refund a bond if—
 
@@ -497,11 +497,11 @@
 
 >             “(B) the requirements of subsection (a)(1)(B) are met.
 
->         “(2) __Non-idb’s, etc.—__ 
+>         “(2)  __Non-idb’s, etc__  __.—__ 
 
 >         A bond is described in this paragraph if such bond is not described in subsection (b)(2) or (o)(2)(A) of section 103 of the 1954 Code and was issued (or was issued to refund a bond issued) before August 16, 1986. For purposes of the preceding sentence, the determination of whether a bond is described in such subsection (o)(2)(A) shall be made without regard to any exception other than section 103(o)(2)(C) of such Code.
 
->         “(3) __Certain amendments to apply.—__ 
+>         “(3)  __Certain amendments to apply__  __.—__ 
 
 >         The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
 
@@ -521,7 +521,7 @@
 
 >             Subparagraphs (A) and (E) shall apply only if the refunding bond is issued after December 31, 1986.
 
->         “(4) __Special rule for certain government bonds issued after__  __august 15, 1986__  __.—__ 
+>         “(4)  __Special rule for certain government bonds issued after __  __august 15, 1986__  __.—__ 
 
 >         In the case of any bond described in section 1312(c)(2)—
 
@@ -531,13 +531,13 @@
 
 >             “(C) such bond shall not be treated as a private activity bond for purposes of applying the requirements referred to in subparagraphs (C) and (E).
 
->         “(5) __Certain refunding bonds subject to volume cap.—__ 
+>         “(5)  __Certain refunding bonds subject to volume cap__  __.—__ 
 
 >         Any refunding bond described in paragraph (1) the proceeds of which are used to refund a bond issued as part of an issue 5 percent or more of the net proceeds of which are or will be used to provide an output facility (within the meaning of section 141(b)(4) of the 1986 Code) shall be treated as a private activity bond for purposes of section 146 of the 1986 Code (to the extent of the nongovernmental use of such issue, under rules similar to the rules of section 146(m)(2) of such Code). For purposes of the preceding sentence, use by a 501(c)(3) organization with respect to its activities which do not constitute unrelated trades or businesses (determined by applying section 513(a) of the 1986 Code) shall not be taken into account.
 
->     “(c) __Treatment of Certain Refundings of Certain IDB’s and 501(c)(3) Bonds.—__ 
+>     “(c)  __Treatment of Certain Refundings of Certain IDB’s and__  __501(c)(3) Bonds.—__ 
 
->         “(1) __$40,000,000 limit for certain small issue bonds.—__ 
+>         “(1) __$40,000,000__  __limit for certain small issue bonds__  __.—__ 
 
 >         Paragraph (10) of section 144(a) of the 1986 Code shall not apply to any bond (or series of bonds) the proceeds of which are used exclusively to refund a tax-exempt bond to which such paragraph and the corresponding provision of prior law did not apply if—
 
@@ -549,7 +549,7 @@
 
 >             For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A) of the 1986 Code.
 
->         “(2) __$150,000,000 limitation for certain 501(c)(3) bonds.—__ 
+>         “(2) __$150,000,000__  __limitation for certain 501(__  __c__  __)(3) bonds__  __.—__ 
 
 >         Subsection (b) of section 145 of the 1986 Code (relating to $150,000,000 limitation for nonhospital bonds) shall not apply to any bond (or series of bonds) the proceeds of which are used exclusively to refund a tax-exempt bond to which such subsection did not apply if—
 
@@ -563,45 +563,45 @@
 
 >             Subsection (b) of section 145 of the 1986 Code shall not apply to the 1st advance refunding after March 14, 1986, of a bond issued before January 1, 1986.
 
->         “(3) __Application to later issues.—__ 
+>         “(3)  __Application to later issues__  __.—__ 
 
 >         Any bond to which section 144(a)(10) or 145(b) of the 1986 Code does not apply by reason of this section shall be taken into account in determining whether such section applies to any later issue.
 
->     “(d) __Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than 3 Years After the Date of the Original Issue.—__ 
+>     “(d)  __Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than__  __3__  __Years After the Date of the Original Issue__  __.—__ 
 
 >     Subsections (a)(3) and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
 
 > “SEC. 1314. __SPECIAL RULES WHICH OVERRIDE OTHER RULES IN THIS SUBTITLE.__ 
 
->     “(a) __Arbitrage Restriction on Investments in Annuities.—__ 
+>     “(a)  __Arbitrage Restriction on Investments in Annuities__  __.—__ 
 
 >     In the case of a bond issued after September 25, 1985, section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to an annuity contract. The preceding sentence shall not apply to the first advance refunding after September 25, 1985, if a bond issued before September 26, 1985.
 
->     “(b) __Temporary Period for Advance Refundings.—__ 
+>     “(b)  __Temporary Period for Advance Refundings__  __.—__ 
 
 >     In the case of a bond issued after December 31, 1985, to advance refund a bond, the initial temporary period under section 103(c) of the 1954 Code with respect to the proceeds of the refunding bond shall end not later than 30 days after the date of issue of the refunding bond.
 
->     “(c) __Determination of Yield.—__ 
+>     “(c)  __Determination of Yield__  __.—__ 
 
 >     In the case of a bond issued after December 31, 1985, for purposes of section 103(c) of the 1954 Code, the yield on an issue shall be determined on the basis of the issue price (within the meaning of sections 1273 and 1274 of the 1986 Code).
 
 >     “(d) __Arbitrage Rebate Requirement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, in the case of a bond issued after December 31, 1985, section 103 of the 1954 Code shall be treated as including the requirements of section 148(f) of the 1986 Code in order for section 103(a) of the 1954 Code to apply.
 
->         “(2) __Government bonds.—__ 
+>         “(2)  __Government bonds__  __.—__ 
 
 >         In the case of a bond described in section 1312(c)(2) (and not described in paragraph (3) of this subsection), paragraph (1) shall be applied by substituting ‘August 31, 1986’ for ‘December 31, 1985’.
 
 >         “(3) __Certain pools.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a bond described in section 1312(c)(2) and issued as part of an issue described in subparagraph (B), (C), (D), or (E), paragraph (1) shall be applied by substituting ‘3 p.m. E.D.T., July 17, 1986’ for ‘December 31, 1985’. Such a bond shall not be treated as a private activity bond for purposes of applying section 148(f) of the 1986 Code.
 
->             “(B) __Loans to unrelated governmental units.—__ 
+>             “(B)  __Loans to unrelated governmental units__  __.—__ 
 
 >             An issue is described in this subparagraph if any portion of the proceeds of the issue is to be used to make or finance loans to any governmental unit other than any governmental unit which is subordinate to the issuer and the jurisdiction of which is within—
 
@@ -609,15 +609,15 @@
 
 >                 “(ii) the jurisdiction of the governmental unit on behalf of which such issuer issued the issue.
 
->             “(C) __Less than 75 percent of projects identified.—__ 
+>             “(C)  __Less than 75 percent of projects identified__  __.—__ 
 
 >             An issue is described in this subparagraph if less than 75 percent of the proceeds of the issue is to be used to make or finance loans to initial borrowers to finance projects identified (with specificity) by the issuer, on or before the date of issuance of the issue, as projects to be financed with the proceeds of the issue.
 
->             “(D) __Less than 25 percent of funds committed to be borrowed.—__ 
+>             “(D)  __Less than 25 percent of funds committed to be borrowed__  __.—__ 
 
 >             An issue is described in this subparagraph if, on or before the date of issuance of the issue, commitments have not been entered into by initial borrowers to borrow at least 25 percent of the proceeds of the issue.
 
->             “(E) __Certain long maturity issues.—__ 
+>             “(E)  __Certain long maturity issues__  __.—__ 
 
 >             An issue is described in this subparagraph if—
 
@@ -627,7 +627,7 @@
 
 >             “(F) __Special rules.—__ 
 
->                 “(i) __Exception from subparagraphs (c) and (d) where similar pools issued by issuer.—__ 
+>                 “(i)  __Exception from subparagraphs (c) and (d) where similar pools issued by issuer__  __.—__ 
 
 >                 An issue shall not be treated as described in subparagraph (C) or (D) with respect to any issue to make or finance loans to governmental units if—
 
@@ -635,7 +635,7 @@
 
 >                          “(II) the aggregate face amount of such issues issued during 1986 does not exceed 250 percent of the average of the annual aggregate face amounts of such similar issues issued during 1983, 1984, or 1985.
 
->                 “(ii) __Determination of issuance.—__ 
+>                 “(ii)  __Determination of issuance__  __.—__ 
 
 >                 For purposes of subparagraph (A), an issue shall not be treated as issued until—
 
@@ -645,37 +645,37 @@
 
 >                  For purposes of the preceding sentence, the sale of a bond to a securities firm, broker, or other person acting in the capacity of an underwriter or wholesaler shall not be treated as a sale to the public.
 
->     “(e) __Information Reporting.—__ 
+>     “(e)  __Information Reporting__  __.—__ 
 
 >     In the case of a bond issued after December 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond unless such bond satisfies the requirements of section 149(e) of the 1986 Code. A bond described in section 1312(c)(2) shall not be treated as a private activity bond for purposes of applying such requirements.
 
->     “(f) __Abusive Transaction Limitation on Advance Refundings To Apply.—__ 
+>     “(f)  __Abusive Transaction Limitation on Advance Refundings To Apply__  __.—__ 
 
 >     In the case of a bond issued after August 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond if the issue of which such bond is a part is described in paragraph (4) of section 149(d) of the 1986 Code (relating to abusive transactions).
 
->     “(g) __Termination of Mortgage Bond Policy Statement Requirement.—__ 
+>     “(g)  __Termination of Mortgage Bond Policy Statement Requirement__  __.—__ 
 
 >     Paragraph (5) of section 103A(j) of the 1954 Code (relating to policy statement) shall not apply to any bond issued after August 15, 1986, and shall not apply to nonissued bond amounts elected under section 25 of the 1986 Code after such date.
 
->     “(h) __Arbitrage Restriction on Investments in Investment-Type Property.—__ 
+>     “(h)  __Arbitrage Restriction on Investments in Investment-Type Property__  __.—__ 
 
 >     In the case of a bond issued before August 16, 1986 (September 1, 1986 in the case of a bond described in section 1312(c)(2)), section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to investment-type property but only for purposes of determining whether any bond issued after October 16, 1987, to advance refund such bond (or a bond which is part of a series of refundings of such bond) is an arbitrage bond (within the meaning of section 148(a) of the 1986 Code).
 
->     “(i) __Section To Override Other Rules.—__ 
+>     “(i)  __Section To Override Other Rules__  __.—__ 
 
 >     Except as otherwise expressly provided by reference to a provision to which a subsection of this section applies, nothing in any other section of this subtitle shall be construed as exempting any bond from the application of such provision.
 
 > “SEC. 1315. __TRANSITIONAL RULES RELATING TO VOLUME CAP.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, section 146(f) of the 1986 Code shall not apply with respect to an issuing authority’s volume cap under section 103(n) of the 1954 Code, and no carryforward under such section 103(n) shall be recognized for bonds issued after August 15, 1986.
 
->     “(b) __Certain Bonds for Carryforward Projects Outside of Volume Cap.—__ 
+>     “(b)  __Certain Bonds for Carryforward Projects Outside of Volume Cap__  __.—__ 
 
 >     Bonds issued pursuant to an election under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
 
->     “(c) __Volume Cap Not To Apply With Respect to Certain Facilities and Purposes.—__ 
+>     “(c)  __Volume Cap Not To Apply With Respect to Certain Facilities and Purposes__  __.—__ 
 
 >     Section 146 of the 1986 Code shall not apply to any bond issued with respect to any facility or purpose described in a paragraph of subsection (d) if—
 
@@ -733,7 +733,7 @@
 
 >             The aggregate face amount of bonds to which this paragraph applies shall not exceed $120,000,000.
 
->     “(e) __Treatment of Redevelopment Bonds.—__ 
+>     “(e)  __Treatment of Redevelopment Bonds__  __.—__ 
 
 >     Any bond to which section 1317(6) of this Act applies shall be treated for purposes of this section as described in subsection (c)(1). The preceding sentence shall not apply to any bond which (if issued on August 15, 1986) would have been an industrial development bond (as defined in section 103(b)(2) of the 1954 Code).
 
@@ -741,11 +741,11 @@
 
 >     “(a) __Certain Loans to Veterans for the Purchase of Land.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the 1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code, but subsections (a), (b), (c), and (d) of section 147 of such Code shall not apply to such bond.
 
->         “(2) __Bond described.—__ 
+>         “(2)  __Bond described__  __.—__ 
 
 >         A bond is described in this paragraph if—
 
@@ -765,11 +765,11 @@
 
 >     “(b) __Renewable Energy Property.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the 1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code.
 
->         “(2) __Bond described.—__ 
+>         “(2)  __Bond described__  __.—__ 
 
 >         A bond is described in this paragraph if paragraph (1) of section 103(b) of the 1954 Code would not (without regard to the amendments made by this title) have applied to such bond by reason of section 243 of the Crude Oil Windfall Profit Tax Act of 1980 \[[section 243 of Pub. L. 96–223][/us/pl/96/223/s243], set out as a note under [section 103 of this title][/us/usc/t26/s103]\] if—
 
@@ -779,11 +779,11 @@
 
 >     “(c) __Certain State Programs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the 1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code.
 
->         “(2) __Bond described.—__ 
+>         “(2)  __Bond described__  __.—__ 
 
 >         A bond is described in this paragraph if such bond is issued as part of an issue 95 percent or more of the net proceeds of which are to be used to carry out a program established under sections 280A, 280B, and 280C of the Iowa Code, but only if—
 
@@ -791,15 +791,15 @@
 
 >             “(B) such proceeds are to be used to make loans or fund similar obligations for the same purposes as permitted under such program on July 1, 1986.
 
->         “(3) __$100,000,000 limitation.—__ 
+>         “(3) __$100,000,000__  __limitation__  __.—__ 
 
 >         The aggregate face amount of outstanding bonds to which this subsection applies shall not exceed $100,000,000.
 
->         “(4) __Application of section 147(b).—__ 
+>         “(4)  __Application of section 147__  __(b).—__ 
 
 >         A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) of such Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
 
->     “(d) __Use by Certain Federal Instrumentalities Treated as Use by Governmental Units.—__ 
+>     “(d)  __Use by Certain Federal Instrumentalities Treated as Use by Governmental Units__  __.—__ 
 
 >     Use by an instrumentality of the United States shall be treated as use by a State or local governmental unit for purposes of section 103, and part IV of subchapter B of chapter 1, of the 1986 Code with respect to a program approved by Congress before August 3, 1972, but only if—
 
@@ -809,7 +809,7 @@
 
 >     “(e) __Refunding Permitted of Certain Bonds Invested in Federally Insured Deposits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 149(b)(2)(B)(ii) of the 1986 Code (and section 103(h)(2)(B)(ii) of the 1954 Code) shall not apply to any bond issued to refund a bond—
 
@@ -823,7 +823,7 @@
 
 >             Section 147(c) of the 1986 Code (and section 103(b)(16) of the 1954 Code) shall not apply to any refunding bond permitted under the preceding sentence if section 103(b)(16) of the 1954 Code did not apply to the refunded bond when issued.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         A refunding bond meets the requirements of this paragraph if—
 
@@ -837,11 +837,11 @@
 
 >     “(f) __Certain Hydroelectric Generating Property.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the 1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code.
 
->         “(2) __Description.—__ 
+>         “(2)  __Description__  __.—__ 
 
 >         A bond is described in this paragraph if such bond is issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide a facility described in section 103(b)(4)(H) of the 1954 Code determined—
 
@@ -849,7 +849,7 @@
 
 >             “(B) by applying the requirements of section 142(b)(2) of the 1986 Code.
 
->     “(g) __Treatment of Bonds Subject to Transitional Rules Under Tax Reform Act of 1984.—__ 
+>     “(g)  __Treatment of Bonds Subject to Transitional Rules Under Tax Reform Act of__  __1984.—__ 
 
 >         “(1) Subsections (d)(3) and (f) of section 148 of the 1986 Code shall not apply to any bond described in section 624(c)(2) of the Tax Reform Act of 1984 \[[section 624(c)(2) of Pub. L. 98–369][/us/pl/98/369/s624/c/2], set out as a note under [section 103 of this title][/us/usc/t26/s103]\].
 
@@ -909,15 +909,15 @@
 
 >                 “(iii) in subsection (a), by adding at the end thereof the following new sentence: ‘The preceding sentence shall be applied by inserting “and a rural electric cooperative utility” after “regulated public utility” but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.’
 
->     “(h) __Certain Pollution Bonds.—__ 
+>     “(h)  __Certain Pollution Bonds__  __.—__ 
 
 >     Any bond which is treated as described in section 103(b)(4)(F) of the 1954 Code by reason of section 13209 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[[Pub. L. 99–272, title XIII, § 13209][/us/pl/99/272/s13209], Apr. 7, 1986, [100 Stat. 322][/us/stat/100/322]\] shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code, and section 147(d) of the 1986 Code shall not apply to such bond.
 
->     “(i) __Transition Rule for Aggregate Limit per Taxpayer.—__ 
+>     “(i)  __Transition Rule for Aggregate Limit per Taxpayer__  __.—__ 
 
 >     For purposes of section 144(a)(10) of the 1986 Code, tax increment bonds described in section 1869(c)(3) of this Act \[set out as a note under [section 103 of this title][/us/usc/t26/s103]\] which are issued before August 16, 1986, shall not be taken into account under subparagraph (B)(ii) thereof.
 
->     “(j) __Extension of Advance Refunding Exception for Qualified Public Facility.—__ 
+>     “(j)  __Extension of Advance Refunding Exception for Qualified Public Facility__  __.—__ 
 
 >     Paragraph (4) of section 631(c) of the Tax Reform Act of 1984 \[[section 631(c)(4) of Pub. L. 98–369][/us/pl/98/369/s631/c/4], set out as a note under [section 103 of this title][/us/usc/t26/s103]\] is amended—
 
@@ -925,7 +925,7 @@
 
 >         “(2) by adding at the end thereof the following new sentence: ‘In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting “the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988” \[Nov. 10, 1988\] for “December 31, 1984” and the amendments made by section 1301 of the Tax Reform Act of 1986 shall not apply.’
 
->     “(k) __Expansion of Exception for River Place Project.—__ 
+>     “(k)  __Expansion of Exception for River Place Project__  __.—__ 
 
 >     Section 1104 of the Mortgage Subsidy Bond Tax Act of 1980 \[[section 1104 of Pub. L. 96–499][/us/pl/96/499/s1104], formerly set out as a note under [section 103A of this title][/us/usc/t26/s103A]\], as added by the Tax Reform Act of 1984, is amended—
 
@@ -935,7 +935,7 @@
 
 > “SEC. 1317. __TRANSITIONAL RULES FOR SPECIFIC FACILITIES.__ 
 
->     “(1) __Docks and wharves.—__ 
+>     “(1)  __Docks and wharves__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any dock or wharf (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond (for a facility described in section 142(a)(2) of the 1986 Code) for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such dock or wharf is described in any of the following subparagraphs:
 
@@ -983,7 +983,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $36,500,000. A facility shall be treated as described in this subparagraph if it would be so described if ‘90 percent’ were substituted for ‘95 percent’ in the material preceding subparagraph (A) of this paragraph.
 
->     “(2) __Pollution control facilities.—__ 
+>     “(2)  __Pollution control facilities__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide air or water pollution control facilities (within the meaning of section 103(b)(4)(F) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
 
@@ -1083,7 +1083,7 @@
 
 >         “(L) A facility is described in this subparagraph if a city council passed an ordinance (ordinance number 4626) agreeing to issue bonds for such project, December 16, 1985. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $45,000,000.
 
->     “(3) __Sports facilities.—__ 
+>     “(3)  __Sports facilities__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
 
@@ -1329,7 +1329,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $80,000,000.
 
->     “(4) __Residential rental property.—__ 
+>     “(4)  __Residential rental property__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to finance a residential rental project within the meaning of section 103(b)(4) of the 1954 Code shall be treated as an exempt facility bond within the meaning of section 142(a)(7) of the 1986 Code if the facility with respect to the bond is issued satisfies all low-income occupancy requirements applicable to such bonds before August 15, 1986, and the bonds are issued pursuant to—
 
@@ -1341,7 +1341,7 @@
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $25,400,000.
 
->     “(5) __Airports.—__ 
+>     “(5)  __Airports__  __.—__ 
 
 >     A bond issued as a part of an issue 95 percent or more of the net proceeds of which are to be used to provide an airport (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond (for facilities described in section 142(a)(1) of the 1986 Code) for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if the facility is described in any of the following subparagraphs:
 
@@ -1353,7 +1353,7 @@
 
 >         “(D) A facility is described in this subparagraph if such facility is the airport for the County of Sacramento, California. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
 
->     “(6) __Redevelopment projects.—__ 
+>     “(6)  __Redevelopment projects__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to finance redevelopment activities as part of a project within a specific designated area shall be treated as a qualified redevelopment bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such project is described in any of the following subparagraphs:
 
@@ -1529,7 +1529,7 @@
 
 >         “(Z) Any designated area with respect to which a project is described in any subparagraph of this paragraph shall be taken into account in applying section 144(c)(4)(C) of the 1986 Code in determining whether other areas (not so described) may be designated.
 
->     “(7) __Convention centers.—__ 
+>     “(7)  __Convention centers__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any convention or trade show facility (within the meaning of section 103(b)(4)(C) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
 
@@ -1659,7 +1659,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $7,500,000.
 
->     “(8) __Sports or convention facilities.—__ 
+>     “(8)  __Sports or convention facilities__  __.—__ 
 
 >     A bond issued as a part of an issue 95 percent or more of the net proceeds of which are to be used to provide either a sports facility (within the meaning of section 103(b)(4)(B) of the 1954 Code) or a convention facility (within the meaning of section 103(b)(4)(C) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
 
@@ -1707,7 +1707,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $25,000,000.
 
->     “(9) __Parking facilities.—__ 
+>     “(9)  __Parking facilities__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide a parking facility (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
 
@@ -1853,7 +1853,7 @@
 
 >         “(C) A facility is described in this subparagraph if it is described in section 1865(c)(2)(C) of this Act \[set out as a note under [section 103 of this title][/us/usc/t26/s103]\].
 
->     “(12) __Qualified scholarship funding bonds.—__ 
+>     “(12)  __Qualified scholarship funding bonds__  __.—__ 
 
 >     Subsections (d)(3) and (f) of section 148 of the 1986 Code shall not apply to any bond or series of bonds the proceeds of which are used exclusively to refund qualified scholarship funding bonds (as defined in section 150 of the 1986 Code) issued before January 1, 1986, if—
 
@@ -1871,7 +1871,7 @@
 
 >         “(D) the face amount of the refunding bonds does not exceed $175,000,000.
 
->     “(13) __Residential rental property projects.—__ 
+>     “(13)  __Residential rental property projects__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide a project for residential rental property which satisfies the requirements of section 103(b)(4)(A) of the 1954 Code shall be treated as an exempt facility bond (for projects described in section 142(a)(7) of the 1986 Code) for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if the project is described in any of the following subparagraphs:
 
@@ -2131,11 +2131,11 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $27,750,000.
 
->     “(14) __Qualified student loans.—__ 
+>     “(14)  __Qualified student loans__  __.—__ 
 
 >     The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to any qualified student loan bonds (as defined in section 144 of the 1986 Code) issued by the Volunteer State Student Assistance Corporation incorporated on February 20, 1985. The aggregate face amount of bonds to which this paragraph applies shall not exceed $130,000,000. In the case of bonds to which this paragraph applies, the requirements of sections 148 and 149(d) of the 1986 Code shall be treated as included in section 103 of the 1954 Code and shall apply to such bonds.
 
->     “(15) __Annuity contracts.—__ 
+>     “(15)  __Annuity contracts__  __.—__ 
 
 >     The treatment of annuity contracts as investment property under section 148(b)(2) of the 1986 Code shall not apply to any bond described in any of the following subparagraphs:
 
@@ -2171,7 +2171,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $500,000,000.
 
->     “(16) __Solid waste disposal facility.—__ 
+>     “(16)  __Solid waste disposal facility__  __.—__ 
 
 >     The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to any solid waste disposal facility if—
 
@@ -2183,7 +2183,7 @@
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $120,000,000.
 
->     “(17) __Refunding of bond anticipation notes.—__ 
+>     “(17)  __Refunding of bond anticipation notes__  __.—__ 
 
 >     There shall not be taken into account under section 146 of the 1986 Code any refunding of bond anticipation notes—
 
@@ -2195,11 +2195,11 @@
 
 >         “(D) the aggregate face amount of the refunding bonds does not exceed $25,500,000.
 
->     “(18) __Certain airports.—__ 
+>     “(18)  __Certain airports__  __.—__ 
 
 >     The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to a bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any airport (within the meaning of section 103(b)(4)(D) of the 1954 Code) if such airport is a mid-field airport terminal and accompanying facilities at a major air carrier airport which during April 1980 opened a new precision instrument approach runway 10R28L. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $425,000,000.
 
->     “(19) __Mass commuting facilities.—__ 
+>     “(19)  __Mass commuting facilities__  __.—__ 
 
 >     A bond issued as a part of an issue 95 percent or more of the net proceeds of which are to be used to provide a mass commuting facility (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond (for facilities described in section 142(a)(3) of the 1986 Code) for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in 1 of the following subparagraphs:
 
@@ -2253,7 +2253,7 @@
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $250,000,000. Notwithstanding the last paragraph of this subsection, this subparagraph shall apply to bonds issued before January 1, 1996.
 
->     “(20) __Private colleges.—__ 
+>     “(20)  __Private colleges__  __.—__ 
 
 >     Subsections (c)(2) and (f) of section 148 of the 1986 Code shall not apply to any bond which is issued as part of an issue if such bond—
 
@@ -2277,7 +2277,7 @@
 
 >         “(B) Subsections (c)(2) and (f) of section 148 of the 1986 Code shall not apply to bonds for which closing occurred on July 16, 1986, and for which a State municipal league served as administrator for use in a State described in section 103A(g)(5)(C) of the Internal Revenue Code of 1954. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $585,000,000.
 
->     “(22) __Downtown redevelopment project.—__ 
+>     “(22)  __Downtown redevelopment project__  __.—__ 
 
 >     Subsection (b) of section 626 of the Tax Reform Act of 1984 \[[section 626(b) of Pub. L. 98–369][/us/pl/98/369/s626/b], set out as a note under [section 103 of this title][/us/usc/t26/s103]\] is amended by adding at the end thereof the following new paragraph:    “ ‘(7) Exception for certain downtown redevelopment project.—The amendments made by this section shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
 
@@ -2289,17 +2289,17 @@
 
 >         The aggregate face amount of obligations to which this paragraph applies shall not exceed $85,000,000 and such obligations must be issued before January 1, 1992.’
 
->     “(23) __Mass commuting and parking facilities.—__ 
+>     “(23)  __Mass commuting and parking facilities__  __.—__ 
 
 >     A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any mass commuting facility or parking facility (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is provided in connection with the rehabilitation, renovation, or other improvement to an existing railroad station owned on the date of the enactment of this Act \[Oct. 22, 1986\] by the National Railroad Passenger Corporation in the Northeast Corridor and which was placed in partial service in 1934 and was placed in the National Register of Historic Places in 1978. The aggregate face amount of bonds to which this paragraph applies shall not exceed $30,000,000.
 
 >     “(24) __Tax-exempt status of bonds of certain educational organizations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code, a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
 
->         “(B) __Qualified educational organization.—__ 
+>         “(B)  __Qualified educational organization__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified educational organization’ means a college or university—
 
@@ -2315,7 +2315,7 @@
 
 >     “(25) __Tax-exempt status of bonds of certain public utilities.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), a bond shall be treated as a qualified bond for purposes of section 103 of the 1986 Code if such bond is issued after the date of the enactment of this Act \[Oct. 22, 1986\] with respect to a public utility facility if such facility is—
 
@@ -2329,15 +2329,15 @@
 
 >         “(B) __Special rules for subparagraph (a).—__ 
 
->             “(i) __Bonds subject to cap.—__ 
+>             “(i)  __Bonds subject to cap__  __.—__ 
 
 >             Section 146 of the 1986 Code shall apply to any bond described in subparagraph (A) which (without regard to subparagraph (A)) is a private activity bond. For purposes of applying section 146(k) of the 1986 Code, the public utility facility described in subparagraph (A) shall be treated as described in paragraph (2) of such section and such paragraph shall be applied without regard to the requirement that the issuer establish that a State’s share of the use of a facility (or its output) will equal or exceed the State’s share of the private activity bonds issued to finance the facility.
 
->             “(ii) __Limitation on amount of bonds to which subparagraph (a) applies.—__ 
+>             “(ii)  __Limitation on amount of bonds to which subparagraph (a) applies__  __.—__ 
 
 >             The aggregate face amount of bonds to which subparagraph (A) applies shall not exceed $750,000,000, not more than $350,000,000 of which may be issued before January 1, 1992.
 
->             “(iii) __Limitation on purposes.—__ 
+>             “(iii)  __Limitation on purposes__  __.—__ 
 
 >             Subparagraph (A) shall only apply to bonds issued as part of an issue 95 percent or more of the net proceeds of which are used to provide 1 or more of the following:
 
@@ -2349,7 +2349,7 @@
 
 >                 “(IV) Any reconstruction, replacement, or improvement, including any safety improvement, which increases, or allows an increase in, the capacity, efficiency, or productivity of the existing generating equipment.
 
->     “(26) __Convention and parking facilities.—__ 
+>     “(26)  __Convention and parking facilities__  __.—__ 
 
 >     A bond shall not be treated as a private activity bond for purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code if—
 
@@ -2363,7 +2363,7 @@
 
 >         The aggregate face amount of bonds to which this subparagraph applies shall not exceed $35,000,000.
 
->     “(27) __Small issue termination.—__ 
+>     “(27)  __Small issue termination__  __.—__ 
 
 >     Section 144(a)(12) of the 1986 Code shall not apply to any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide a facility described in any of the following subparagraphs:
 
@@ -2405,7 +2405,7 @@
 
 >         “(J) A facility is described in this subparagraph if it is the Central Bank Building renovation project in Grand Rapids, Michigan. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $1,000,000.
 
->     “(28) __Certain private loans not taken into account.—__ 
+>     “(28)  __Certain private loans not taken into account__  __.—__ 
 
 >     For purposes of determining whether any bond is a private activity bond, an amount of loans (but not in excess of $75,000,000) provided from the proceeds of 1 or more issues shall not be taken into account if such loans are provided in furtherance of—
 
@@ -2429,7 +2429,7 @@
 
 >         “(D) For purposes of this paragraph, the term ‘nonqualified amount’ has the meaning given such term by section 141(b)(8) of the 1986 Code, except that such term shall include the amount of the proceeds of an issue which is to be used (directly or indirectly) to make or finance loans (other than loans described in section 141(c)(2) of the 1986 Code) to persons other than governmental units.
 
->     “(30) __Volume cap not to apply to certain facilities.—__ 
+>     “(30)  __Volume cap not to apply to certain facilities__  __.—__ 
 
 >     For purposes of section 146 of the 1986 Code, any exempt facility bond for the following facility shall not be taken into account: The facility is a facility for the furnishing of water which was authorized under [Public Law 90–537][/us/pl/90/537] \[[43 U.S.C. 1501][/us/usc/t43/s1501] et seq.\] of the United States if—
 
@@ -2439,7 +2439,7 @@
 
 >         The aggregate face amount of bonds to which this subparagraph applies shall not exceed $391,000,000.
 
->     “(31) __Certain hydroelectric generating property.—__ 
+>     “(31)  __Certain hydroelectric generating property__  __.—__ 
 
 >     A bond shall be treated as described in paragraph (2) of section 1316(f) of this Act if—
 
@@ -2451,11 +2451,11 @@
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $12,000,000.
 
->     “(32) __Volume cap.—__ 
+>     “(32)  __Volume cap__  __.—__ 
 
 >     The State ceiling applicable under section 146 of the 1986 Code for calendar year 1987 for the State which ratified the United States Constitution on May 29, 1790, shall be $150,000,000 higher than the State ceiling otherwise applicable under such section for such year.
 
->     “(33) __Application of $150,000,000 limitation for certain qualified 501(c)(3) bonds.—__ 
+>     “(33)  __Application of $150,000,000 limitation for certain qualified 501(__  __c__  __)(3) bonds__  __.—__ 
 
 >     Proceeds of an issue described in any of the following subparagraphs shall not be taken into account under section 145(b) of the 1986 Code.
 
@@ -2585,7 +2585,7 @@
 
 >             such bond shall be treated as having such subparagraph apply (and the refunding bond shall be treated for purposes of such section as issued before January 1, 1986, and as not being an advance refunding) unless the issuer elects the opposite result.
 
->     “(34) __Arbitrage rebate.—__ 
+>     “(34)  __Arbitrage rebate__  __.—__ 
 
 >     Section 148(f) of the 1986 Code shall not apply to any period before October 1, 1990, with respect to any bond the proceeds of which are to be used to provide a high-speed rail system for the State of Ohio. The aggregate face amount of bonds to which this paragraph applies shall not exceed $2,000,000,000.
 
@@ -2601,19 +2601,19 @@
 
 >             “(ii) construction of such facility commenced within the 3-year period following the calendar year in which the carryforward arose.
 
->     “(36) __Power purchase bonds.—__ 
+>     “(36)  __Power purchase bonds__  __.—__ 
 
 >     A bond issued to finance purchase of power from a power facility at a dam being renovated pursuant to [P.L. 98–381][/us/pl/98/381] \[[43 U.S.C. 619][/us/usc/t43/s619] et seq.\] shall not be treated as a private activity bond if it would not be such under section 141(b)(1) and (2) of the 1986 Code if 25 percent were substituted for 10 percent and the provisions of section 141(b)(3), (4), and (5) of the 1986 Code did not apply. The aggregate face amount of bonds to which this paragraph applies shall not exceed $400,000,000.
 
->     “(37) __Qualified mortgage bonds.—__ 
+>     “(37)  __Qualified mortgage bonds__  __.—__ 
 
 >     A bond issued as part of either of 2 issues no later than September 8, 1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
 
->     “(38) __Exempt facility bonds.—__ 
+>     “(38)  __Exempt facility bonds__  __.—__ 
 
 >     A bond shall be treated as an exempt facility bond within the meaning of section 142(a) of the 1986 Code if it is issued to fund residential, office, retail, light industrial, recreational and parking development known as Tobacco Row. Such bond shall be subject to section 146 of the 1986 Code. The aggregate face amount of bonds to which this paragraph applies shall not exceed $100,000,000.
 
->     “(39) __Certain bonds treated as qualified 501(c)(3) bonds.—__ 
+>     “(39)  __Certain bonds treated as qualified 501__  __(c)__  __(3) bonds__  __.—__ 
 
 >     A bond issued as part of an issue shall be treated for purposes of part IV of subchapter B of chapter 1 of the 1986 Code as a qualified 501(c)(3) bond if—
 
@@ -2623,11 +2623,11 @@
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $5,000,000.
 
->     “(40) __Certain library bonds.—__ 
+>     “(40)  __Certain library bonds__  __.—__ 
 
 >     In the case of a bond issued before January 1, 1986, by the City of Los Angeles Community Redevelopment Agency to provide the library and related structures associated with the City of Los Angeles Central Library Project, the ownership and use of the land and facilities associated with such project by persons which are not governmental units (or payments from such persons) shall not adversely affect the exclusion from gross income under section 103 of the 1954 Code of interest on such bonds.
 
->     “(41) __Certain refunding obligations for certain power facilities.—__ 
+>     “(41)  __Certain refunding obligations for certain power facilities__  __.—__ 
 
 >     With respect to 2 net billed nuclear power facilities located in the State of Washington on which construction has been suspended, the requirements of section 147(b) of the 1986 Code shall be treated as satisfied with respect to refunding bonds issued before 1992 if—
 
@@ -2637,11 +2637,11 @@
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $2,000,000,000. Section 146 of the 1986 Code and the last paragraph of this section shall not apply to bonds to which this paragraph applies.
 
->     “(42) __Residential rental property.—__ 
+>     “(42)  __Residential rental property__  __.—__ 
 
 >     A bond issued to finance a residential rental project within the meaning of 103(b)(4) of the 1954 Code shall be treated as an exempt facility bond within the meaning of section 142(a)(7) of the 1986 Code if the county housing finance authority adopted an inducement resolution with respect to the project on May 8, 1985, and the project is located in Polk County, Florida. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,100,000.
 
->     “(43) __Extension of advance refunding for certain facilities.—__ 
+>     “(43)  __Extension of advance refunding for certain facilities__  __.—__ 
 
 >     Paragraph (4) of section 631(c) of the Tax Reform Act of 1984 \[[section 631(c)(4) of Pub. L. 98–369][/us/pl/98/369/s631/c/4], set out as a note under [section 103 of this title][/us/usc/t26/s103]\] is amended—
 
@@ -2649,7 +2649,7 @@
 
 >         “(B) by adding at the end thereof the following new sentence: ‘In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting “December 31, 1987” for “December 31, 1984”.’
 
->     “(44) __Pool bonds.—__ 
+>     “(44)  __Pool bonds__  __.—__ 
 
 >     The following amounts of pool bonds are exempt from the arbitrage rebate requirement of section 148(f) of the 1986 Code and the temporary period limitation of section 148(c)(2) of the 1986 Code:
 
@@ -2853,7 +2853,7 @@
 
 >     </table>
 
->     “(45) __Certain carryforward elections.—__ 
+>     “(45)  __Certain carryforward elections__  __.—__ 
 
 >     Notwithstanding any other provision of this title \[enacting this section and sections 142 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, omitting former [section 143 of this title][/us/usc/t26/s143], enacting provisions set out as notes under this section and sections 148 and 501 of this title, and amending provisions set out as a note under [section 103A of this title][/us/usc/t26/s103A]\]—
 
@@ -2869,7 +2869,7 @@
 
 >             such carryforward election shall be valid for any year through 1988. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $98,500,000.
 
->     “(46) __Treatment of certain obligations to finance hydroelectric generating facility.—__ 
+>     “(46)  __Treatment of certain obligations to finance hydroelectric generating facility__  __.—__ 
 
 >     If—
 
@@ -2881,7 +2881,7 @@
 
 >         then the person referred to in subparagraph (B) shall not be treated as a principal user of such facilities by reason of such sales for purposes of subparagraphs (D) and (E) of section 103(b)(6) of the 1954 Code.
 
->     “(47) __Treatment of certain obligations to finance steam and electric cogeneration facility.—__ 
+>     “(47)  __Treatment of certain obligations to finance steam and electric cogeneration facility__  __.—__ 
 
 >     If—
 
@@ -2893,7 +2893,7 @@
 
 >         then the nongovernmental person referred to in subparagraph (B) shall not be treated as a principal user of such facilities by reason of such sales for purposes of subparagraphs (D) and (E) of section 103(b)(6) of the Internal Revenue Code of 1954.
 
->     “(48) __Treatment of certain obligations.—__ 
+>     “(48)  __Treatment of certain obligations__  __.—__ 
 
 >     A bond which is not an industrial development bond under section 103(b)(2) of the Internal Revenue Code of 1954 shall not be treated as a private activity bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if 95 percent or more of the net proceeds of the issue of which such bond is a part are used to provide facilities described in any of the following subparagraphs:
 
@@ -2911,7 +2911,7 @@
 
 >         “(C) A facility which is part of a project described in paragraph (6)(O). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
 
->     “(49) __Transition rule for refunding certain housing bonds.—__ 
+>     “(49)  __Transition rule for refunding certain housing bonds__  __.—__ 
 
 >     Sections 146 and 149(d)(2) of the 1986 Code shall not apply to the refunding of any bond issued under section 11(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437i(b)][/us/usc/t42/s1437i/b]\] before December 31, 1983, if—
 
@@ -2925,11 +2925,11 @@
 
 >         “(E) the refunded bond is required to be redeemed not later than the earliest date on which such bond could be redeemed at par.
 
->     “(50) __Transitioned bonds subject to certain rules.—__ 
+>     “(50)  __Transitioned bonds subject to certain rules__  __.—__ 
 
 >     In the case of any bond to which any provision of this section applies, except as otherwise expressly provided, sections 103 and 103A of the 1954 Code shall be applied as if the requirements of sections 147(g), 148, and 149(d) of the 1986 Code were included in each such section.
 
->     “(51) __Certain additional projects.—__ 
+>     “(51)  __Certain additional projects__  __.—__ 
 
 >     Section 141(b) of the 1986 Code shall be applied by substituting ‘25’ for ‘10’ each place it appears and by not applying sections 141(b)(3) and 141(c)(1)(B) to bonds substantially all of the proceeds are used for—
 
@@ -2941,45 +2941,45 @@
 
 >         “(D) A project is described in this subparagraph if it is a project to construct approximately 26 miles of toll expressways, with respect to which any appeal to validation was filed July 11, 1986. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $450,000,000.
 
->     “(52) __Termination.—__ 
+>     “(52)  __Termination__  __.—__ 
 
 >     Except as otherwise provided in this section, this section shall not apply to any bond issued after December 31, 1990.
 
 > “SEC. 1318. __DEFINITIONS, ETC., RELATING TO EFFECTIVE DATES AND TRANSITIONAL RULES.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this subtitle—
 
->         “(1) __1954 code.—__ 
+>         “(1) __1954__  __code__  __.—__ 
 
 >         The term ‘1954 Code’ means the Internal Revenue Code of 1954 as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
->         “(2) __1986 code.—__ 
+>         “(2) __1986__  __code__  __.—__ 
 
 >         The term ‘1986 Code’ means the Internal Revenue Code of 1986 as amended by this Act \[see Tables for classification\].
 
->         “(3) __Bond.—__ 
+>         “(3)  __Bond__  __.—__ 
 
 >         The term ‘bond’ includes any obligation.
 
->         “(4) __Advance refund.—__ 
+>         “(4)  __Advance refund__  __.—__ 
 
 >         A bond shall be treated as issued to advance refund another bond if it is issued more than 90 days before the redemption of the refunded bond.
 
->         “(5) __Net proceeds.—__ 
+>         “(5)  __Net proceeds__  __.—__ 
 
 >         The term ‘net proceeds’ has the meaning given such term by section 150(a) of the 1986 Code.
 
->         “(6) __Continued application of the 1954 code.—__ 
+>         “(6)  __Continued application of the 1954 code__  __.—__ 
 
 >         Nothing in this subtitle shall be construed to exempt any bond from any provision of the 1954 Code by reason of a delay in (or exemption from) the application of any amendment made by subtitle A \[sections 1301 to 1303 of [Pub. L. 99–514][/us/pl/99/514], enacting this section and sections 142 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, omitting former [section 143 of this title][/us/usc/t26/s143], enacting provisions set out as notes under this section and sections 148 and 501 of this title, and amending provisions set out as a note under [section 103A of this title][/us/usc/t26/s103A]\].
 
->         “(7) __Treatment as exempt facility.—__ 
+>         “(7)  __Treatment as exempt facility__  __.—__ 
 
 >         Any bond which is treated as an exempt facility bond by section 1316 or 1317 shall not fail to be so treated by reason of subsection (b) of section 142 of the 1986 Code.
 
->         “(8) __Application of future legislation to transitioned bonds.—__ 
+>         “(8)  __Application of future legislation to transitioned bonds__  __.—__ 
 
 >         In the case of any bond to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of a provision of this Act \[see Tables for classification\], any amendment of the 1986 Code (and any other provision applicable to such Code) included in any law enacted after October 22, 1986, shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code with respect to such bond unless—
 
@@ -2995,7 +2995,7 @@
 
 >     “(b) __Minimum Tax Treatment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any bond described in paragraph (2) shall not be treated as a private activity bond for purposes of section 57 of the 1986 Code unless such bond would (if issued on August 7, 1986) be—
 
@@ -3003,7 +3003,7 @@
 
 >             “(B) a private loan bond (as defined in section 103(o)(2)(A) of the 1954 Code, without regard to any exception from such definition other than section 103(o)(2)(C) of such Code).
 
->         “(2) __Bonds described.—__ 
+>         “(2)  __Bonds described__  __.—__ 
 
 >         For purposes of paragraph (1), a bond is described in this paragraph if—
 
@@ -3013,7 +3013,7 @@
 
 >             “(C) the proceeds of such bond are used to refund any bond referred to in subparagraph (A) or (B) (or any bond which is part of a series of refundings of such a bond) if the requirements of paragraphs (1), (2), and (3) of subsection (c) are met with respect to the refunding bond.
 
->     “(c) __Current Refundings Not Taken Into Account in Applying Aggregate Limit on Bonds to Which Transitional Rules Apply.—__ 
+>     “(c)  __Current Refundings Not Taken Into Account in Applying Aggregate Limit on Bonds to Which Transitional Rules Apply__  __.—__ 
 
 >     The limitation on the aggregate face amount of bonds to which any provision of section 1316(g) or 1317 applies shall not be reduced by the face amount of any bond the proceeds of which are to be used exclusively to refund any bond to which such provision applies (or any bond which is part of a series of refundings of such bond) if—
 
@@ -3025,7 +3025,7 @@
 
 >         For purposes of paragraph (1), average maturity shall be determined in accordance with section 147(b)(2)(A) of the 1986 Code. No limitation in section 1316(g) or 1317 on the period during which bonds may be issued under such section shall apply to any refunding bond which meets the requirements of this subsection.
 
->     “(d) __Special Rule Permitting Carryforward of Volume Cap for Certain Transitioned Projects.—__ 
+>     “(d)  __Special Rule Permitting Carryforward of Volume Cap for Certain Transitioned Projects__  __.—__ 
 
 >     A bond to which section 1312 or 1317 applies shall be treated as having a carryforward purpose described in section 146(f)(5) of the 1986 Code, and the requirement of section 146(f)(2)(A) of the 1986 Code shall be treated as met if such project is identified with reasonable specificity. The preceding sentence shall not apply so as to permit a carryforward with respect to any qualified small issue bond.”
 

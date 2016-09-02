@@ -393,15 +393,15 @@
 
 >     “(1) __General effective date.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, [section 1167 of Title 29][/us/usc/t29/s1167], Labor, and [section 300bb–8 of Title 42][/us/usc/t42/s300bb–8], The Public Health and Welfare\] shall apply to contracts issued after December 31, 1996.
 
->         “(B) __Reserve method.—__ 
+>         “(B)  __Reserve method__  __.—__ 
 
 >         The amendment made by subsection (b) \[amending [section 807 of this title][/us/usc/t26/s807]\] shall apply to contracts issued after December 31, 1997.
 
->     “(2) __Continuation of existing policies.—__ 
+>     “(2)  __Continuation of existing policies__  __.—__ 
 
 >     In the case of any contract issued before January 1, 1997, which met the long-term care insurance requirements of the State in which the contract was sitused \[sic\] at the time the contract was issued—
 
@@ -411,11 +411,11 @@
 
 >         In the case of an individual who is covered on December 31, 1996, under a State long-term care plan (as defined in section 7702B(f)(2) of such Code), the terms of such plan on such date shall be treated for purposes of the preceding sentence as a contract issued on such date which met the long-term care insurance requirements of such State.
 
->     “(3) __Exchanges of existing policies.—__ 
+>     “(3)  __Exchanges of existing policies__  __.—__ 
 
 >     If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
 
->     “(4) __Issuance of certain riders permitted.—__ 
+>     “(4)  __Issuance of certain riders permitted__  __.—__ 
 
 >     For purposes of applying sections 101(f), 7702, and 7702A of the Internal Revenue Code of 1986 to any contract—
 
@@ -425,7 +425,7 @@
 
 >         shall not be treated as a modification or material change of such contract.
 
->     “(5) __Application of per diem limitation to existing contracts.—__ 
+>     “(5)  __Application of per diem limitation to existing contracts__  __.—__ 
 
 >     The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements.”
 

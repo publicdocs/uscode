@@ -373,11 +373,11 @@
 
 [Pub. L. 105–34, title X, § 1011(d)][/us/pl/105/34/s1011/d], Aug. 5, 1997, [111 Stat. 913][/us/stat/111/913], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to distributions after May 3, 1995.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution made pursuant to the terms of—
 
@@ -385,7 +385,7 @@
 
 >         “(B) a tender offer outstanding on May 3, 1995.
 
->     “(3) __Certain dividends not pursuant to certain redemptions.—__ 
+>     “(3)  __Certain dividends not pursuant to certain redemptions__  __.—__ 
 
 >     In determining whether the amendment made by subsection (a) applies to any extraordinary dividend other than a dividend treated as an extraordinary dividend under section 1059(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act), paragraphs (1) and (2) shall be applied by substituting ‘September 13, 1995’ for ‘May 3, 1995’.”
 
@@ -395,11 +395,11 @@
 
 [Pub. L. 101–239, title VII, § 7206(b)][/us/pl/101/239/s7206/b], Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to stock issued after July 10, 1989, in taxable years ending after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any stock issued pursuant to a written binding contract in effect on July 10, 1989, and at all times thereafter before the stock is issued.”
 
@@ -411,15 +411,15 @@
 
 [Pub. L. 99–514, title VI, § 614(f)][/us/pl/99/514/s614/f], Oct. 22, 1986, [100 Stat. 2254][/us/stat/100/2254], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to dividends declared after July 18, 1986, in taxable years ending after such date.
 
->     “(2) __Aggregation.—__ 
+>     “(2)  __Aggregation__  __.—__ 
 
 >     For purposes of section 1059(c)(3) of the Internal Revenue Code of 1986, dividends declared after July 18, 1986, shall not be aggregated with dividends declared on or before July 18, 1986.
 
->     “(3) __Redemptions.—__ 
+>     “(3)  __Redemptions__  __.—__ 
 
 >     Section 1059(e)(1) of the Internal Revenue Code of 1986 (as added by subsection (e)) shall apply to dividends declared after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
 
@@ -427,21 +427,21 @@
 
 [Pub. L. 98–369, div. A, title I, § 53(e)][/us/pl/98/369/s53/e], July 18, 1984, [98 Stat. 568][/us/stat/98/568], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1804(b)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2798, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[enacting this section and amending sections 246, 1016, and 7701 of this title\] shall apply to distributions after March 1, 1984, in taxable years ending after such date.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending [section 246 of this title][/us/usc/t26/s246]\] shall apply to stock acquired after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
 >     “(3) __Related person provisions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in subparagraph (B), the amendment made by subsection (c) \[amending [section 7701 of this title][/us/usc/t26/s7701]\] shall take effect on July 18, 1984.
 
->         “(B) __Special rule for purposes of section 265(2).—__ 
+>         “(B)  __Special rule for purposes of section 265(2)__  __.—__ 
 
 >         The amendment made by subsection (c) insofar as it relates to section 265(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to—
 
@@ -449,11 +449,11 @@
 
 >             “(ii) demand loans outstanding after July 18, 1984 (other than any loan outstanding on July 18, 1984, and repaid before September 18, 1984).
 
->         “(C) __Treatment of renegotiations, etc.—__ 
+>         “(C)  __Treatment of renegotiations, etc__  __.—__ 
 
 >         For purposes of this paragraph, any loan renegotiated, extended, or revised after July 18, 1984, shall be treated as a loan made after such date.
 
->         “(D) __Definition of term and demand loans.—__ 
+>         “(D)  __Definition of term and demand loans__  __.—__ 
 
 >         For purposes of this paragraph, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
 

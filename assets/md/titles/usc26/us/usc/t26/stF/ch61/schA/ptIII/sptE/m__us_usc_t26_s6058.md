@@ -101,11 +101,11 @@
 
 >     “(a) __Simplified Annual Filing Requirement for Owners and Their Spouses.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall modify the requirements for filing annual returns with respect to one-participant retirement plans to ensure that such plans with assets of $250,000 or less as of the close of the plan year need not file a return for that year.
 
->         “(2) __One-participant retirement plan defined.—__ 
+>         “(2)  __One-participant retirement plan defined__  __.—__ 
 
 >         For purposes of this subsection, the term ‘one-participant retirement plan’ means a retirement plan with respect to which the following requirements are met:
 
@@ -127,15 +127,15 @@
 
 >             For purposes of this paragraph, the term ‘partner’ includes a 2-percent shareholder (as defined in section 1372(b) of such Code) of an S corporation.
 
->         “(3) __Other definitions.—__ 
+>         “(3)  __Other definitions__  __.—__ 
 
 >         Terms used in paragraph (2) which are also used in section 414 of the Internal Revenue Code of 1986 shall have the respective meanings given such terms by such section.
 
->         “(4) __Effective date.—__ 
+>         “(4)  __Effective date__  __.—__ 
 
 >         The provisions of this subsection shall apply to plan years beginning on or after January 1, 2007.
 
->     “(b) __Simplified Annual Filing Requirement for Plans With Fewer Than 25 Participants.—__ 
+>     “(b)  __Simplified Annual Filing Requirement for Plans With Fewer Than__  __25__  __Participants__  __.—__ 
 
 >     In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2).”
 

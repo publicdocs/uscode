@@ -1037,11 +1037,11 @@ percentage is—  </td>
 
 [Pub. L. 104–188, title I, § 1704(p)(4)][/us/pl/104/188/s1704/p/4], Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall apply to amounts paid or incurred after September 13, 1995, in taxable years ending after such date.
 
->     “(B) __Paragraph (2).—__ 
+>     “(B)  __Paragraph (2)__  __.—__ 
 
 >     The amendment made by paragraph (2) \[amending this section\] shall take effect as if included in the amendment made by section 613 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
@@ -1049,11 +1049,11 @@ percentage is—  </td>
 
 [Pub. L. 104–7, § 1(c)][/us/pl/104/7/s1/c], Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.
 
->     “(2) __Increase.—__ 
+>     “(2)  __Increase__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
 
@@ -1137,15 +1137,15 @@ percentage is—  </td>
 
 [Pub. L. 99–514, title XI, § 1161(b)][/us/pl/99/514/s1161/b], Oct. 22, 1986, [100 Stat. 2509][/us/stat/100/2509], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of any year to which section 89 of the Internal Revenue Code of 1986 does not apply, \[former\] section 162(m)(2)(B) of such Code shall be applied by substituting any nondiscrimination requirements otherwise applicable for the requirements of section 89 of such Code.
 
->     “(3) __Assistance.—__ 
+>     “(3)  __Assistance__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall provide guidance to self-employed individuals to assist them in meeting the requirements of section 89 of the Internal Revenue Code of 1986 with respect to coverage required by the amendments made by this section \[amending this section\].”
 
@@ -1161,11 +1161,11 @@ percentage is—  </td>
 
 [Pub. L. 99–509, title IX, § 9501(e)][/us/pl/99/509/s9501/e], Oct. 21, 1986, [100 Stat. 2078][/us/stat/100/2078], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29, Labor\] shall take effect as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[sections 10001 to 10003 of [Pub. L. 99–272][/us/pl/99/272]\].
 
->     “(2) __Treatment of certain bankruptcy proceedings.—__ 
+>     “(2)  __Treatment of certain bankruptcy proceedings__  __.—__ 
 
 >     Notwithstanding paragraph (1), section 10001(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[set out as a note under [section 106 of this title][/us/usc/t26/s106]\], and section 10002(d) of such Act \[set out as a note under [section 1161 of Title 29][/us/usc/t29/s1161]\], the amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29\] and by sections 10001 and 10002 of such Act \[enacting sections 1161 to 1168 of Title 29, amending this section, [section 106 of this title][/us/usc/t26/s106], and [section 1132 of Title 29][/us/usc/t29/s1132], and enacting provisions set out as notes under [section 106 of this title][/us/usc/t26/s106] and sections 1161 and 1166 of Title 29\] shall apply in the case of plan years ending during the 12-month period beginning July 1, 1986, but only with respect to—
 
@@ -1173,11 +1173,11 @@ percentage is—  </td>
 
 >         “(B) a qualifying event described in section 162(k)(3)(A) of the Internal Revenue Code of 1986 or section 603(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1163(1)][/us/usc/t29/s1163/1]\] relating to the death of a retired employee occurring after the date of the qualifying event described in subparagraph (A).
 
->     “(3) __Treatment of current retirees.—__ 
+>     “(3)  __Treatment of current retirees__  __.—__ 
 
 >     Section 162(k)(3)(F) of the Internal Revenue Code of 1986 and section 603(6) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1163(6)][/us/usc/t29/s1163/6]\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
 
->     “(4) __Notice.—__ 
+>     “(4)  __Notice__  __.—__ 
 
 >     In the case of a qualifying event described in section 603(6) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1163(6)][/us/usc/t29/s1163/6]\] that occurred before the date of the enactment of this Act \[Oct. 21, 1986\], the notice required under section 606(2) of such Act \[[29 U.S.C. 1166(2)][/us/usc/t29/s1166/2]\] (and under section 162(k)(6)(B) of the Internal Revenue Code of 1986) with respect to such event shall be provided no later than 30 days after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
@@ -1289,7 +1289,7 @@ percentage is—  </td>
 
 [Pub. L. 94–455, title VI, § 604][/us/pl/94/455/s604], Oct. 4, 1976, [90 Stat. 1575][/us/stat/90/1575], as amended by [Pub. L. 95–30, title III, § 307][/us/pl/95/30/s307], May 23, 1977, [91 Stat. 153][/us/stat/91/153]; [Pub. L. 95–258, § 2][/us/pl/95/258/s2], Apr. 7, 1978, [92 Stat. 195][/us/stat/92/195]; [Pub. L. 96–167, § 3][/us/pl/96/167/s3], Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 96–178, § 1][/us/pl/96/178/s1], Jan. 2, 1980, [93 Stat. 1295][/us/stat/93/1295]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a) __In__  __General__  __.—__ 
 
 >     For purposes of section 162(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of any individual who was a State legislator at any time during any taxable year beginning before January 1, 1981, and who, for the taxable year, elects the application of this section, for any period during such a taxable year in which he was a State legislator—
 
@@ -1297,15 +1297,15 @@ percentage is—  </td>
 
 >         “(2) he shall be deemed to have expended for living expenses (in connection with his trade or business as a legislator) an amount equal to the sum of the amounts determined by multiplying each legislative day of such individual during the taxable year by the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
->     “(b) __Legislative Days.—__ 
+>     “(b)  __Legislative Days__  __.—__ 
 
 >     For purposes of subsection (a), a legislative day during any taxable year for any individual shall be any day during such year on which (1) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or (2) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     The amount taken into account as living expenses attributable to a trade or business as a State legislator for any taxable year beginning before January 1, 1976, under an election made under this section shall not exceed the amount claimed for such purpose under a return (or amended return) filed before May 21, 1976.
 
->     “(d) __Making and Effect of Election.—__ 
+>     “(d)  __Making and Effect of Election__  __.—__ 
 
 >     An election under this section shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe.”
 

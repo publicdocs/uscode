@@ -305,11 +305,11 @@
 
 [Pub. L. 100–647, title III, § 3021(d)][/us/pl/100/647/s3021/d], Nov. 10, 1988, [102 Stat. 3634][/us/stat/102/3634], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section and sections 89, 410, 4976, 6039D, and 6652 of this title\] shall take effect as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], see Effective Date note below\]; except that the amendment made by subsection (a)(8) \[amending [section 89 of this title][/us/usc/t26/s89]\] shall apply to testing years beginning after December 31, 1989.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending sections 89 and 414 of this title\] shall apply to years beginning after December 31, 1986.”
 

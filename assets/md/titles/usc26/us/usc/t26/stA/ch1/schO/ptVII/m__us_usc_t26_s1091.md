@@ -75,11 +75,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 106(c)][/us/pl/98/369/s106/c], July 18, 1984, [98 Stat. 629][/us/stat/98/629], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to short sales of stock or securities after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to sales after December 31, 1984, in taxable years ending after such date.”
 

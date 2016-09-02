@@ -131,19 +131,19 @@
 
 [Pub. L. 98–369, div. A, title II, § 217(i)][/us/pl/98/369/s217/i], July 18, 1984, [98 Stat. 764][/us/stat/98/764], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title I, § 1010(h)(1)][/us/pl/100/647/s1010/h/1], Nov. 10, 1988, [102 Stat. 3455][/us/stat/102/3455], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposes of section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(2) __Effect of election on subsidiaries of electing parent.—__ 
+>     “(2)  __Effect of election on subsidiaries of electing parent__  __.—__ 
 
 >     For purposes of determining the amount of the small life insurance company deduction of any controlled group which includes a mutual company which made an election under paragraph (1), the taxable income of such electing company shall be taken into account under section 806(b)(2) of the Internal Revenue Code of 1986 (relating to phaseout of small life insurance company deduction).
 
->     “(3) __Election.—__ 
+>     “(3)  __Election__  __.—__ 
 
 >     An election under paragraph (1) shall apply to the company’s first taxable year beginning after December 31, 1983, and all taxable years thereafter.
 
->     “(4) __Time and manner.—__ 
+>     “(4)  __Time and manner__  __.—__ 
 
 >     An election under paragraph (1) shall be made—
 

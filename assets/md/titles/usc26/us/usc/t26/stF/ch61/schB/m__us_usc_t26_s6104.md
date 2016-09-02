@@ -357,11 +357,11 @@
 
 [Pub. L. 105–277, div. J, title I, § 1004(b)(3)][/us/pl/105/277/s1004/b/3], Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 6033, 6652, 6685, and 7207 of this title\] shall apply to requests made after the later of December 31, 1998, or the 60th day after the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of the Internal Revenue Code of 1986, as amended by this section.
 
->     “(B) __Publication of annual returns.—__ 
+>     “(B)  __Publication of annual returns__  __.—__ 
 
 >     Section 6104(d) of such Code, as in effect before the amendments made by this subsection, shall not apply to any return the due date for which is after the date such amendments take effect under subparagraph (A).”
 

@@ -667,17 +667,17 @@
 
 [Pub. L. 98–369, div. A, title II, § 221(d)][/us/pl/98/369/s221/d], July 18, 1984, [98 Stat. 772][/us/stat/98/772], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, §§ 1825(e), 1899A(69), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2848, 2962, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending [section 101 of this title][/us/usc/t26/s101] and provisions set out as a note under [section 101 of this title][/us/usc/t26/s101]\] shall apply to contracts issued after December 31, 1984, in taxable years ending after such date.
 
 >     “(2) __Special rule for certain contracts issued after__  __june 30, 1984__  __.—__ 
 
->         “(A) __General rule.—__ 
+>         “(A)  __General rule__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendments made by this section shall apply also to any contract issued after June 30, 1984, which provides an increasing death benefit and has premium funding more rapid than 10-year level premium payments.
 
->         “(B) __Exception for certain contracts.—__ 
+>         “(B)  __Exception for certain contracts__  __.—__ 
 
 >         Subparagraph (A) shall not apply to any contract if—
 
@@ -701,7 +701,7 @@
 
 >         “(C) __Certain contracts issued before__  __october 1, 1984__  __.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Subparagraph (A) shall be applied by substituting ‘September 30, 1984’ for ‘June 30, 1984’ in the case of a contract—
 
@@ -709,27 +709,27 @@
 
 >                 “(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
 
->             “(ii) __Definitions.—__ 
+>             “(ii)  __Definitions__  __.—__ 
 
 >             For purposes of clause (i)—
 
->                 “(I) __In general.—__ 
+>                 “(I)  __In general__  __.—__ 
 
 >                 Except as provided in subclause (II), terms used in clause (i) shall have the same meanings as when used in section 7702 of such Code.
 
->                 “(II) __Net single premium.—__ 
+>                 “(II)  __Net single premium__  __.—__ 
 
 >                 The term ‘net single premium’ shall be determined by substituting ‘3 percent’ for ‘4 percent’ in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
 
->     “(3) __Transitional rule for certain existing plans of insurance.—__ 
+>     “(3)  __Transitional rule for certain existing plans of insurance__  __.—__ 
 
 >     A plan of insurance on file in 1 or more States before September 28, 1983, shall be treated for purposes of section 7702(i)(3) of such Code as a plan of insurance on file in 1 or more States before September 28, 1983, without regard to whether such plan of insurance is modified after September 28, 1983, to permit the crediting of excess interest or similar amounts annually and not monthly under contracts issued pursuant to such plan of insurance.
 
->     “(4) __Extension of flexible premium contract provisions.—__ 
+>     “(4)  __Extension of flexible premium contract provisions__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 101 of this title][/us/usc/t26/s101] and provisions set out as a note under [section 101 of this title][/us/usc/t26/s101]\] shall take effect on January 1, 1984.
 
->     “(5) __Special rule for master contract.—__ 
+>     “(5)  __Special rule for master contract__  __.—__ 
 
 >     For purposes of this subsection, in the case of a master contract, the date taken into account with respect to any insured shall be the first date on which such insured is covered under such contract.”
 
@@ -737,11 +737,11 @@
 
 [Pub. L. 100–647, title V, § 5011(c)][/us/pl/100/647/s5011/c], Nov. 10, 1988, [102 Stat. 3661][/us/stat/102/3661], provided that:
 
->     “(1) __Regulations.—__ 
+>     “(1)  __Regulations__  __.—__ 
 
 >     Not later than January 1, 1990, the Secretary of the Treasury (or his delegate) shall issue regulations under section 7702(c)(3)(B)(i) of the 1986 Code (as amended by subsection (a)).
 
->     “(2) __Standards before regulations take effect.—__ 
+>     “(2)  __Standards before regulations take effect__  __.—__ 
 
 >     In the case of any contract to which the amendments made by this section \[amending this section\] apply and which is issued before the effective date of the regulations required under paragraph (1), mortality charges which do not differ materially from the charges actually expected to be imposed by the company (taking into account any relevant characteristic of the insured of which the company is aware) shall be treated as meeting the requirements of clause (i) of section 7702(c)(3)(B) of the 1986 Code (as amended by subsection (a)).”
 

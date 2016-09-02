@@ -393,11 +393,11 @@
 
 [Pub. L. 94–455, title II, § 207(c)(2)][/us/pl/94/455/s207/c/2], Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], as amended by [Pub. L. 95–30, title IV, § 404][/us/pl/95/30/s404], May 23, 1977, [91 Stat. 155][/us/stat/91/155]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by paragraph (1) \[enacting this section\] shall apply to taxable years beginning after December 31, 1976.
 
->     “(B) __Special rule for certain corporations.—__ 
+>     “(B)  __Special rule for certain corporations__  __.—__ 
 
 >     In the case of a corporation engaged in the trade or business of farming and with respect to which—
 
@@ -417,7 +417,7 @@
 
 [Pub. L. 95–600, title III, § 352][/us/pl/95/600/s352], Nov. 6, 1978, [92 Stat. 2846][/us/stat/92/2846], provided that:
 
->     “(a) __Application of Section.—__ 
+>     “(a)  __Application of Section__  __.—__ 
 
 >     This section shall apply to a taxpayer who—
 
@@ -427,15 +427,15 @@
 
 >         “(3) is not required by section 447 of the Internal Revenue Code of 1954 to capitalize preproductive period expenses.
 
->     “(b) __Taxpayer May Not Be Required To Inventory Growing Crops.—__ 
+>     “(b)  __Taxpayer May Not Be Required To Inventory Growing Crops__  __.—__ 
 
 >     A taxpayer to whom this section applies may not be required to inventory growing crops for any taxable year beginning after December 31, 1977.
 
->     “(c) __Taxpayer May Elect To Change To Cash Method.—__ 
+>     “(c)  __Taxpayer May Elect To Change To Cash Method__  __.—__ 
 
 >     A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts and disbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
 
->     “(d) __Section 481 Of Code To Apply.—__ 
+>     “(d)  __Section__  __481__  __Of Code To Apply__  __.—__ 
 
 >     Any change in the way in which a taxpayer accounts for the costs of growing crops resulting from the application of subsection (b) or (c)—
 
@@ -443,7 +443,7 @@
 
 >         “(2) shall be treated, for purposes of section 481 of the Internal Revenue Code of 1954 as a change in the method of accounting initiated by the taxpayer.
 
->     “(e) __Growing Crops.—__ 
+>     “(e)  __Growing Crops__  __.—__ 
 
 >     For purposes of this section, the term ‘Growing crops’ does not include trees grown for lumber, pulp, or other nonlife purposes.”
 
@@ -463,7 +463,7 @@
 
 [Pub. L. 94–455, title II, § 207(c)(3)][/us/pl/94/455/s207/c/3], Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     If—
 
@@ -475,11 +475,11 @@
 
 >         such change shall be treated as having been made with the consent of the Secretary of the Treasury, and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of the Internal Revenue Code of 1986 to be taken into account by the taxpayer in computing taxable income shall (except as otherwise provided in such regulations) be taken into account in each of the 10 taxable years beginning with the year of change.
 
->     “(B) __Coordination with section 447 of the code.—__ 
+>     “(B)  __Coordination with section 447 of the code__  __.—__ 
 
 >     A corporation which elects under subparagraph (A) to change to the annual accrual method of accounting shall, for purposes of section 447(g) of the Internal Revenue Code of 1986, be deemed to be a corporation which has computed its taxable income on an annual accrual method of accounting for its 10 taxable years ending with its first taxable year beginning after December 31, 1975.
 
->     “(C) __Certain corporate reorganizations.—__ 
+>     “(C)  __Certain corporate reorganizations__  __.—__ 
 
 >     For purposes of this paragraph, if a corporation acquired substantially all the assets of a farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, the transferee corporation shall be deemed to have computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops during the period for which the transferor corporation computed its taxable income from such trade or business on such accrual and static value method.”
 

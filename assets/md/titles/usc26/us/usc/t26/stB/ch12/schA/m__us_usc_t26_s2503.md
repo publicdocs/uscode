@@ -151,11 +151,11 @@
 
 [Pub. L. 97–34, title IV, § 441(c)][/us/pl/97/34/s441/c], Aug. 13, 1981, [95 Stat. 319][/us/stat/95/319], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to transfers after December 31, 1981.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     If—
 

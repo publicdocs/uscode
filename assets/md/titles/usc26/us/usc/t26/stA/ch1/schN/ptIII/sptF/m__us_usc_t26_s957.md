@@ -87,15 +87,15 @@
 
 [Pub. L. 99–514, title XII, § 1222(c)][/us/pl/99/514/s1222/c], Oct. 22, 1986, [100 Stat. 2557][/us/stat/100/2557], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 552 of this title][/us/usc/t26/s552]\] shall apply to taxable years of foreign corporations beginning after December 31, 1986; except that for purposes of applying sections 951(a)(1)(B) and 956 of the Internal Revenue Code of 1986, such amendments shall take effect on August 16, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
 
->     “(3) __Special rule for beneficiary of trust.—__ 
+>     “(3)  __Special rule for beneficiary of trust__  __.—__ 
 
 >     In the case of an individual—
 
@@ -107,11 +107,11 @@
 
 [Pub. L. 99–514, title XII, § 1224(b)][/us/pl/99/514/s1224/b], Oct. 22, 1986, [100 Stat. 2558][/us/stat/100/2558], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1986; except that for purposes of applying sections 951(a)(1)(B) and 956 of the Internal Revenue Code of 1986, such amendments shall take effect on August 16, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of any corporation treated as a controlled foreign corporation by reason of the amendment made by subsection (a), property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.”
 

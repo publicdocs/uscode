@@ -869,15 +869,15 @@
 
 [Pub. L. 108–357, title IV, § 411(d)][/us/pl/108/357/s411/d], Oct. 22, 2004, [118 Stat. 1505][/us/stat/118/1505], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 881, 897, 1441, 1442, and 2105 of this title\] shall apply to dividends with respect to taxable years of regulated investment companies beginning after December 31, 2004.
 
->     “(2) __Estate tax treatment.—__ 
+>     “(2)  __Estate tax treatment__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 2105 of this title][/us/usc/t26/s2105]\] shall apply to estates of decedents dying after December 31, 2004.
 
->     “(3) __Certain other provisions.—__ 
+>     “(3)  __Certain other provisions__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 897 of this title][/us/usc/t26/s897]\] (other than paragraph (1) thereof) shall take effect after December 31, 2004.”
 
@@ -941,21 +941,21 @@
 
 [Pub. L. 98–369, div. A, title I, § 127(g)][/us/pl/98/369/s127/g], July 18, 1984, [98 Stat. 652][/us/stat/98/652], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI, § 6128(a)][/us/pl/100/647/s6128/a], Nov. 10, 1988, [102 Stat. 3716][/us/stat/102/3716], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 163, 864, 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after such date, in taxable years ending after such date.
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendment made by subsection (d) \[amending [section 2105 of this title][/us/usc/t26/s2105]\] shall apply to obligations issued after the date of the enactment of this Act \[July 18, 1984\] with respect to the estates of decedents dying after such date.
 
 >     “(3) __Special rule for certain united states affiliate obligations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], payments of interest on a United States affiliate obligation to an applicable CFC in existence on or before June 22, 1984, shall be treated as payments to a resident of the country in which the applicable CFC is incorporated.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Subparagraph (A) shall not apply to any applicable CFC which did not meet requirements which are based on the principles set forth in Revenue Rulings 69–501, 69–377, 70–645, and 73–110 as such principles are applied in Revenue Ruling 86–6, except that the maximum debt-to-equity ratio described in such Revenue Rulings shall be increased from 5-to-1 to 25-to-1.
 
@@ -973,11 +973,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 128(d)][/us/pl/98/369/s128/d], July 18, 1984, [98 Stat. 655][/us/stat/98/655], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163 and 881 of this title\] shall apply to payments made on or after the 60th day after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after March 31, 1972.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendment made by subsection (c) \[amending [section 163 of this title][/us/usc/t26/s163]\] shall apply to obligations issued after June 9, 1984.”
 

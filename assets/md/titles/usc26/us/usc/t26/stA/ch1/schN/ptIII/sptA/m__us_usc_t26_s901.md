@@ -525,11 +525,11 @@
 
 [Pub. L. 111–226, title II, § 212(b)][/us/pl/111/226/s212/b], Aug. 10, 2010, [124 Stat. 2398][/us/stat/124/2398], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any covered asset acquisition (as so defined) with respect to which the transferor and the transferee are not related if such acquisition is—
 
@@ -539,7 +539,7 @@
 
 >         “(C) described on or before January 1, 2011, in a public announcement or in a filing with the Securities and Exchange Commission.
 
->     “(3) __Related persons.—__ 
+>     “(3)  __Related persons__  __.—__ 
 
 >     For purposes of this subsection, a person shall be treated as related to another person if the relationship between such persons is described in section 267 or 707(b) of the Internal Revenue Code of 1986.”
 

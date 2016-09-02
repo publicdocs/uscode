@@ -15,7 +15,7 @@
 
 # Title 26—INTERNAL REVENUE CODE
 
-Current through 113-75
+Current through 113–86!79
 
  __[__  __Act Aug. 16, 1954, ch. 736__  __][/us/act/1954-08-16/ch736]__  __,__  __[__  __68A Stat. 3__  __][/us/stat/68A/3]__ 
 
@@ -46623,11 +46623,11 @@ See 26 U.S.C. 4(a), 5, 7  </td>
 
 [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Redesignation of 1954 Code.—__ 
+>     “(a)  __Redesignation of__  __1954__  __Code__  __.—__ 
 
 >     The Internal Revenue Title enacted August 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the ‘Internal Revenue Code of 1986’.
 
->     “(b) __References in Laws, Etc.—__ 
+>     “(b)  __References in Laws, Etc__  __.—__ 
 
 >     Except when inappropriate, any reference in any law, Executive order, or other document—
 

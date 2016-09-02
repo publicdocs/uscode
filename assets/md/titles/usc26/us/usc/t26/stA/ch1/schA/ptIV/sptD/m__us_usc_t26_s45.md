@@ -829,15 +829,15 @@
 
 [Pub. L. 112–240, title IV, § 407(d)][/us/pl/112/240/s407/d], Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section, [section 48 of this title][/us/usc/t26/s48], and provisions set out as a note under [section 48 of this title][/us/usc/t26/s48]\] shall take effect on the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(2) __Modification to definition of municipal solid waste.—__ 
+>     “(2)  __Modification to definition of municipal solid waste__  __.—__ 
 
 >     The amendments made by subsection (a)(2) \[amending this section\] shall apply to electricity produced and sold after the date of the enactment of this Act, in taxable years ending after such date.
 
->     “(3) __Technical corrections.—__ 
+>     “(3)  __Technical corrections__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 48 of this title][/us/usc/t26/s48] and provisions set out as a note under [section 48 of this title][/us/usc/t26/s48]\] shall apply as if included in the enactment of the provisions of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5]\] to which they relate.”
 
@@ -851,11 +851,11 @@
 
 [Pub. L. 111–5, div. B, title I, § 1101(c)][/us/pl/111/5/s1101/c], Feb. 17, 2009, [123 Stat. 319][/us/stat/123/319], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Feb. 17, 2009\].
 
->     “(2) __Technical amendment.—__ 
+>     “(2)  __Technical amendment__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 102 of the Energy Improvement and Extension Act of 2008 \[[Pub. L. 110–343][/us/pl/110/343]\].”
 
@@ -863,19 +863,19 @@
 
 [Pub. L. 110–343, div. B, title I, § 101(f)][/us/pl/110/343/s101/f], Oct. 3, 2008, [122 Stat. 3810][/us/stat/122/3810], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to property originally placed in service after December 31, 2008.
 
->     “(2) __Refined coal.—__ 
+>     “(2)  __Refined coal__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to coal produced and sold from facilities placed in service after December 31, 2008.
 
->     “(3) __Trash facility clarification.—__ 
+>     “(3)  __Trash facility clarification__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to electricity produced and sold after the date of the enactment of this Act \[Oct. 3, 2008\].
 
->     “(4) __Expansion of biomass facilities.—__ 
+>     “(4)  __Expansion of biomass facilities__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act.”
 
@@ -905,11 +905,11 @@
 
 [Pub. L. 109–58, title XIII, § 1301(g)][/us/pl/109/58/s1301/g], Aug. 8, 2005, [119 Stat. 990][/us/stat/119/990], as amended by [Pub. L. 110–172, § 11(a)(45)][/us/pl/110/172/s11/a/45], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 168 of this title][/us/usc/t26/s168] and amending provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].
 
->     “(2) __Technical amendments.—__ 
+>     “(2)  __Technical amendments__  __.—__ 
 
 >     The amendments made by subsections (e) and (f) \[amending this section and [section 168 of this title][/us/usc/t26/s168] and amending provisions set out as a note under this section\] shall take effect as if included in the amendments made by section 710 of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\].”
 
@@ -923,23 +923,23 @@
 
 [Pub. L. 108–357, title VII, § 710(g)][/us/pl/108/357/s710/g], Oct. 22, 2004, [118 Stat. 1557][/us/stat/118/1557], as amended by [Pub. L. 109–58, title XIII, § 1301(f)(6)][/us/pl/109/58/s1301/f/6], Aug. 8, 2005, [119 Stat. 990][/us/stat/119/990], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 48 of this title][/us/usc/t26/s48]\] shall apply to electricity produced and sold after the date of the enactment of this Act \[Oct. 22, 2004\], in taxable years ending after such date.
 
->     “(2) __Certain biomass facilities.—__ 
+>     “(2)  __Certain biomass facilities__  __.—__ 
 
 >     With respect to any facility described in section 45(d)(3)(A)(ii) of the Internal Revenue Code of 1986, as added by subsection (b)(1), which is placed in service before the date of the enactment of this Act, the amendments made by this section shall apply to electricity produced and sold after December 31, 2004, in taxable years ending after such date.
 
->     “(3) __Credit rate and period for new facilities.—__ 
+>     “(3)  __Credit rate and period for new facilities__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to electricity produced and sold after December 31, 2004, in taxable years ending after such date.
 
->     “(4) __Nonapplication of amendments to preeffective date poultry waste facilities.—__ 
+>     “(4)  __Nonapplication of amendments to preeffective date poultry waste facilities__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any poultry waste facility (within the meaning of section 45(c)(3)(C), as in effect on the day before the date of the enactment of this Act) placed in service before January 1, 2005.
 
->     “(5) __Refined coal production facilities.—__ 
+>     “(5)  __Refined coal production facilities__  __.—__ 
 
 >     Section 45(e)(8) of the Internal Revenue Code of 1986, as added by this section, shall apply to refined coal produced and sold after the date of the enactment of this Act.”
 
@@ -966,6 +966,8 @@
  __Inflation Adjusted Items for Certain Tax Years__ 
 
     Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+    2013—Internal Revenue Notice 2013–33.
 
     2012—Internal Revenue Notice 2012–35.
 

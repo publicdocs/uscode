@@ -523,23 +523,23 @@
 
 [Pub. L. 101–239, title VII, § 7651(b)][/us/pl/101/239/s7651/b], Dec. 19, 1989, [103 Stat. 2385][/us/stat/103/2385], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after September 14, 1989.
 
->     “(2) __Bonds sold before__  __september 15, 1989__  __.—__ 
+>     “(2)  __Bonds sold before __  __september 15, 1989__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any bond sold before September 15, 1989, and issued before October 15, 1989.
 
->     “(3) __Bonds with respect to which preliminary offering materials mailed.—__ 
+>     “(3)  __Bonds with respect to which preliminary offering materials mailed__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any issue issued after the date of the enactment of this Act \[Dec. 19, 1989\] if the preliminary offering materials with respect to such issue were mailed (or otherwise delivered) to members of the underwriting syndicate before September 15, 1989.
 
->     “(4) __Certain other bonds.—__ 
+>     “(4)  __Certain other bonds__  __.—__ 
 
 >     In the case of a bond issued before January 1, 1991, with respect to which official action was taken (or a series of official actions were taken), or other comparable preliminary approval was given, before November 18, 1989, demonstrating an intent to issue such bonds in a maximum specified amount for such issue or with a maximum specified amount of net proceeds of such issue, the issuer may elect to apply section 149(g)(2) of the Internal Revenue Code of 1986 (as added by this section) by substituting ‘15 percent’ for ‘10 percent’ in subparagraph (A) and ‘50 percent’ for ‘60 percent’ in subparagraph (C).
 
->     “(5) __Bonds issued to finance self-insurance funds.—__ 
+>     “(5)  __Bonds issued to finance self-insurance funds__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any bonds issued before July 1, 1990, to finance a self-insurance fund if official action was taken (or a series of official actions were taken), or other comparable preliminary approval was given, before September 15, 1989, demonstrating an intent to issue such bonds in a maximum specified amount for such issue or with a maximum specified amount of net proceeds of such issue.”
 
@@ -549,11 +549,11 @@
 
 [Pub. L. 100–647, title V, § 5051(b)][/us/pl/100/647/s5051/b], Nov. 10, 1988, [102 Stat. 3677][/us/stat/102/3677], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after October 21, 1988.
 
->     “(2) __Special rule for refunding bonds.—__ 
+>     “(2)  __Special rule for refunding bonds__  __.—__ 
 
 >     In the case of a bond issued to refund a bond issued before October 22, 1988—
 

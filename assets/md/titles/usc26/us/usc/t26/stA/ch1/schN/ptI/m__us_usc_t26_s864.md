@@ -759,7 +759,7 @@
 
 [Pub. L. 99–514, title XII, § 1215(c)][/us/pl/99/514/s1215/c], Oct. 22, 1986, [100 Stat. 2545][/us/stat/100/2545], as amended by [Pub. L. 100–647, title I, § 1012(h)(7)][/us/pl/100/647/s1012/h/7], Nov. 10, 1988, [102 Stat. 3504][/us/stat/102/3504]; [Pub. L. 104–191, title V, § 521(a)][/us/pl/104/191/s521/a], Aug. 21, 1996, [110 Stat. 2103][/us/stat/110/2103], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
@@ -767,11 +767,11 @@
 
 >         “(A) __General phase-in.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of the 1st 3 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the general phase-in amount.
 
->             “(ii) __General phase-in amount.—__ 
+>             “(ii)  __General phase-in amount__  __.—__ 
 
 >             Except as provided in clause (iii), the general phase-in amount for purposes of clause (i) is the applicable percentage (determined under the following table) of the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985:
 
@@ -857,13 +857,13 @@
 
 >             </table>
 
->             “(iii) __Lower limit where taxpayer reduces indebtedness.—__ 
+>             “(iii)  __Lower limit where taxpayer reduces indebtedness__  __.—__ 
 
 >             For purposes of applying this subparagraph to interest expenses attributable to any month, the general phase-in amount shall in no event exceed the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985. To the extent provided in regulations, the average amount of indebtedness outstanding during any month shall be used (in lieu of the amount outstanding as of the close of such month) for purposes of the preceding sentence.
 
 >         “(B) __Consolidation rule not to apply to certain interest.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of the 1st 5 taxable years of the taxpayer beginning after December 31, 1986—
 
@@ -871,7 +871,7 @@
 
 >                 “(II) such paragraph (1) shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the special phase-in amount.
 
->             “(ii) __Special phase-in amount.—__ 
+>             “(ii)  __Special phase-in amount__  __.—__ 
 
 >             The special phase-in amount for purposes of clause (i) is the sum of—
 
@@ -883,7 +883,7 @@
 
 >                   For purposes of applying this subparagraph to interest expense attributable to any month, the special phase-in amount shall in no event exceed the limitation determined under subparagraph (A)(iii).
 
->             “(iii) __5-year phase-in amount.—__ 
+>             “(iii) __5-__  __year phase-in amount__  __.—__ 
 
 >             The 5-year phase-in amount is the lesser of—
 
@@ -1003,7 +1003,7 @@
 
 >                 </table>
 
->             “(iv) __4-year phase-in amount.—__ 
+>             “(iv) __4-__  __year phase-in amount__  __.—__ 
 
 >             The 4-year phase-in amount is the lesser of—
 
@@ -1123,7 +1123,7 @@
 
 >                 </table>
 
->             “(v) __5-year debt amount.—__ 
+>             “(v) __5-__  __year debt amount__  __.—__ 
 
 >             The term ‘5-year debt amount’ means the excess (if any) of—
 
@@ -1133,7 +1133,7 @@
 
 >                   The 5-year debt amount shall not exceed the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985.
 
->             “(vi) __4-year debt amount.—__ 
+>             “(vi) __4-__  __year debt amount__  __.—__ 
 
 >             The term ‘4-year debt amount’ means the excess (if any) of—
 
@@ -1143,7 +1143,7 @@
 
 >                   The 4-year debt amount shall not exceed the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985, reduced by the 5-year debt amount.
 
->             “(vii) __Paydowns.—__ 
+>             “(vii)  __Paydowns__  __.—__ 
 
 >             For purposes of applying this subparagraph to interest expenses attributable to any month, the term ‘paydowns’ means the excess (if any) of—
 
@@ -1151,7 +1151,7 @@
 
 >                 “(II) the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985 (or, to the extent provided in regulations under subparagraph (A)(iii), the average amount of indebtedness outstanding during any such month).
 
->         “(C) __Coordination of subparagraphs (a) and (b).—__ 
+>         “(C)  __Coordination of subparagraphs (a) and (b)__  __.—__ 
 
 >         In applying subparagraph (B), there shall first be taken into account indebtedness to which subparagraph (A) applies.
 
@@ -1275,25 +1275,25 @@
 
 >             “(ii) The provisions of this subparagraph shall apply in lieu of the provisions of subparagraphs (A) and (B).
 
->             “(iii) __Indebtedness outstanding on__  __may 29, 1985__  __.—__ 
+>             “(iii)  __Indebtedness outstanding on __  __may 29, 1985__  __.—__ 
 
 >             Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a corporation incorporated on June 13, 1917, which has its principal place of business in Bartlesville, Oklahoma.
 
->             “(iv) __Indebtedness outstanding on__  __may 29, 1985__  __.—__ 
+>             “(iv)  __Indebtedness outstanding on __  __may 29, 1985__  __.—__ 
 
 >             Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a member of an affiliated group (as defined in section 1504(a) \[of the Internal Revenue Code of 1986\]), the common parent of which was incorporated on August 26, 1926, and has its principal place of business in Harrison, New York.
 
->         “(E) __Treatment of affiliated group.—__ 
+>         “(E)  __Treatment of affiliated group__  __.—__ 
 
 >         For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
->         “(F) __Election to have paragraph not apply.—__ 
+>         “(F)  __Election to have paragraph not apply__  __.—__ 
 
 >         A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph not apply. In the case of members of the same affiliated group (as so defined), such an election may be made only if each member consents to such election.
 
 >     “(3) __Special rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a qualified corporation, in lieu of applying paragraph (2), the amendments made by this section shall not apply to interest expenses allocable to any indebtedness to the extent such indebtedness does not exceed $500,000,000 if—
 
@@ -1303,7 +1303,7 @@
 
 >             “(iii) the debt to equity ratio of the companies that join in the filing of the consolidated return is less than 15 percent.
 
->         “(B) __Qualified corporation.—__ 
+>         “(B)  __Qualified corporation__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified corporation’ means a corporation—
 
@@ -1313,7 +1313,7 @@
 
 >             “(iii) which is a member of an affiliated group the average daily United States production of oil of which is less than 50,000 barrels and the average daily United States refining of which is less than 150,000 barrels.
 
->     “(4) __Special rules for subsidiary.—__ 
+>     “(4)  __Special rules for subsidiary__  __.—__ 
 
 >     The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
@@ -1331,11 +1331,11 @@
 
 >     “(6) __Special rules for allocating general and administrative expenses.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of an affiliated group of domestic corporations the common parent of which has its principal office in New Brunswick, New Jersey, and has a certificate of organization which was filed with the Secretary of the State of New Jersey on November 10, 1887, the amendments made by this section shall not apply to the phase-in percentage of general and administrative expenses paid or incurred in its 1st 3 taxable years beginning after December 31, 1986.
 
->         “(B) __Phase-in percentage.—__ 
+>         “(B)  __Phase-in percentage__  __.—__ 
 
 >         For purposes of subparagraph (A):
 
@@ -1445,11 +1445,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 123(c)][/us/pl/98/369/s123/c], July 18, 1984, [98 Stat. 646][/us/stat/98/646], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 956 of this title][/us/usc/t26/s956]\] shall apply to accounts receivable and evidences of indebtedness transferred after March 1, 1984, in taxable years ending after such date.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to accounts receivable and evidences of indebtedness acquired after March 1, 1984, and before March 1, 1994, by a Belgian corporation in existence on March 1, 1984, in any taxable year ending after such date, but only to the extent that the amount includible in gross income by reason of section 956 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such corporation for all such taxable years is not reduced by reason of this paragraph by more than the lesser of—
 

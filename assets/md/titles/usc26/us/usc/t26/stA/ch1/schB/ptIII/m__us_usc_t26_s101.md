@@ -523,11 +523,11 @@
 
 [Pub. L. 107–134, title I, § 102(b)][/us/pl/107/134/s102/b], Jan. 23, 2002, [115 Stat. 2429][/us/stat/115/2429], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years ending before, on, or after September 11, 2001.
 
->     “(2) __Waiver of limitations.—__ 
+>     “(2)  __Waiver of limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
@@ -617,7 +617,7 @@
 
 >     Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section for any period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
 
->     “(3) __Special rule for certain contracts.—__ 
+>     “(3)  __Special rule for certain contracts__  __.—__ 
 
 >     Any contract entered into before January 1, 1983, shall be treated as meeting the requirements of subparagraph (A) of section 101(f)(1) of such Code if such contract would meet such requirements if section 101(f)(2)(C) of such Code were applied by substituting ‘3 percent’ for ‘4 percent’.”
 

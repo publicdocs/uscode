@@ -473,11 +473,11 @@
 
 [Pub. L. 103–66, title XIII, § 13144(c)][/us/pl/103/66/s13144/c], Aug. 10, 1993, [107 Stat. 442][/us/stat/107/442], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to acquisitions on or after January 1, 1994.
 
->     “(2) __Small leases.—__ 
+>     “(2)  __Small leases__  __.—__ 
 
 >     The provisions of section 514(c)(9)(G)(i) of the Internal Revenue Code of 1986 shall, in addition to any leases to which the provisions apply by reason of paragraph (1), apply to leases entered into on or after January 1, 1994.”
 
@@ -523,7 +523,7 @@
 
 [Pub. L. 98–369, div. A, title X, § 1034(c)][/us/pl/98/369/s1034/c], July 18, 1984, [98 Stat. 1040][/us/stat/98/1040], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to indebtedness incurred after the date of the enactment of this Act \[July 18, 1984\].
 
@@ -555,7 +555,7 @@
 
 >             For purposes of clause (i), the maximum amount taken into account shall be the greatest of the amounts shown in the registration statement, prospectus, or partnership agreement.
 
->         “(C) __Binding contracts.—__ 
+>         “(C)  __Binding contracts__  __.—__ 
 
 >         For purposes of this paragraph, property shall be deemed to have been acquired before January 1, 1986, if such property is acquired pursuant to a written contract which, on January 1, 1986, and at all times thereafter, required the acquisition of such property and such property is placed in service not later than 6 months after the date such contract was entered into.”
 

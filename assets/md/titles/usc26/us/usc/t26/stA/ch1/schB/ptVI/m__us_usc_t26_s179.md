@@ -427,7 +427,7 @@
 
 [Pub. L. 112–240, title III, § 315(e)][/us/pl/112/240/s315/e], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
 
-> “The amendments made by this section shall apply to t\[amending this section\] axable years beginning after December 31, 2011.”
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -439,11 +439,11 @@
 
 [Pub. L. 111–240, title II, § 2021(e)][/us/pl/111/240/s2021/e], Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009, in taxable years beginning after such date.
 
->     “(2) __Extensions.—__ 
+>     “(2)  __Extensions__  __.—__ 
 
 >     The amendments made by subsections (c) and (d) shall apply to taxable years beginning after December 31, 2010.”
 

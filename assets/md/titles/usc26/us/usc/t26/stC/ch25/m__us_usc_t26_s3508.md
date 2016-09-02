@@ -75,11 +75,11 @@
 
 [Pub. L. 97–248, title II, § 269(e)][/us/pl/97/248/s269/e], Sept. 3, 1982, [96 Stat. 553][/us/stat/96/553], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare\] shall apply to services performed after December 31, 1982.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending provisions set out as a note under [section 3401 of this title][/us/usc/t26/s3401]\] shall take effect on July 1, 1982.”
 

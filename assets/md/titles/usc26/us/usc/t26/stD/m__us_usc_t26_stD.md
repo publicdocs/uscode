@@ -277,17 +277,17 @@
 
 >     “(a) __Imposition of Fee.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each covered entity engaged in the business of manufacturing or importing branded prescription drugs shall pay to the Secretary of the Treasury not later than the annual payment date of each calendar year beginning after 2010 a fee in an amount determined under subsection (b).
 
->         “(2) __Annual payment date.—__ 
+>         “(2)  __Annual payment date__  __.—__ 
 
 >         For purposes of this section, the term ‘annual payment date’ means with respect to any calendar year the date determined by the Secretary, but in no event later than September 30 of such calendar year.
 
 >     “(b) __Determination of Fee Amount.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to each covered entity, the fee under this section for any calendar year shall be equal to an amount that bears the same ratio to the applicable amount as—
 
@@ -295,7 +295,7 @@
 
 >             “(B) the aggregate branded prescription drug sales of all covered entities taken into account during such preceding calendar year.
 
->         “(2) __Sales taken into account.—__ 
+>         “(2)  __Sales taken into account__  __.—__ 
 
 >         For purposes of paragraph (1), the branded prescription drug sales taken into account during any calendar year with respect to any covered entity shall be determined in accordance with the following table:
 
@@ -387,11 +387,11 @@
 
 >         </table>
 
->         “(3) __Secretarial determination.—__ 
+>         “(3)  __Secretarial determination__  __.—__ 
 
 >         The Secretary of the Treasury shall calculate the amount of each covered entity’s fee for any calendar year under paragraph (1). In calculating such amount, the Secretary of the Treasury shall determine such covered entity’s branded prescription drug sales on the basis of reports submitted under subsection (g) and through the use of any other source of information available to the Secretary of the Treasury.
 
->         “(4) __Applicable amount.—__ 
+>         “(4)  __Applicable amount__  __.—__ 
 
 >         For purposes of paragraph (1), the applicable amount shall be determined in accordance with the following table:
 
@@ -547,41 +547,41 @@
 
 >         </table>
 
->     “(c) __Transfer of Fees to Medicare Part B Trust Fund.—__ 
+>     “(c)  __Transfer of Fees to Medicare Part B Trust Fund__  __.—__ 
 
 >     There is hereby appropriated to the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act \[[42 U.S.C. 1395t][/us/usc/t42/s1395t]\] an amount equal to the fees received by the Secretary of the Treasury under subsection (a).
 
 >     “(d) __Covered Entity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘covered entity’ means any manufacturer or importer with gross receipts from branded prescription drug sales.
 
 >         “(2) __Controlled groups.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as a single covered entity.
 
->             “(B) __Inclusion of foreign corporations.—__ 
+>             “(B)  __Inclusion of foreign corporations__  __.—__ 
 
 >             For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 of such Code to this section, section 1563 of such Code shall be applied without regard to subsection (b)(2)(C) thereof.
 
->         “(3) __Joint and several liability.—__ 
+>         “(3)  __Joint and several liability__  __.—__ 
 
 >         If more than one person is liable for payment of the fee under subsection (a) with respect to a single covered entity by reason of the application of paragraph (2), all such persons shall be jointly and severally liable for payment of such fee.
 
->     “(e) __Branded Prescription Drug Sales.—__ 
+>     “(e)  __Branded Prescription Drug Sales__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘branded prescription drug sales’ means sales of branded prescription drugs to any specified government program or pursuant to coverage under any such program.
 
 >         “(2) __Branded prescription drugs.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘branded prescription drug’ means—
 
@@ -589,15 +589,15 @@
 
 >                 “(ii) any biological product the license for which was submitted under section 351(a) of the Public Health Service Act ([42 U.S.C. 262(a)][/us/usc/t42/s262/a]).
 
->             “(B) __Prescription drug.—__ 
+>             “(B)  __Prescription drug__  __.—__ 
 
 >             For purposes of subparagraph (A)(i), the term ‘prescription drug’ means any drug which is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)][/us/usc/t21/s353/b]).
 
->         “(3) __Exclusion of orphan drug sales.—__ 
+>         “(3)  __Exclusion of orphan drug sales__  __.—__ 
 
 >         The term ‘branded prescription drug sales’ shall not include sales of any drug or biological product with respect to which a credit was allowed for any taxable year under section 45C of the Internal Revenue Code of 1986. The preceding sentence shall not apply with respect to any such drug or biological product after the date on which such drug or biological product is approved by the Food and Drug Administration for marketing for any indication other than the treatment of the rare disease or condition with respect to which such credit was allowed.
 
->         “(4) __Specified government program.—__ 
+>         “(4)  __Specified government program__  __.—__ 
 
 >         The term ‘specified government program’ means—
 
@@ -613,7 +613,7 @@
 
 >             “(F) the TRICARE retail pharmacy program under [section 1074g of title 10][/us/usc/t10/s1074g], United States Code.
 
->     “(f) __Tax Treatment of Fees.—__ 
+>     “(f)  __Tax Treatment of Fees__  __.—__ 
 
 >     The fees imposed by this section—
 
@@ -621,11 +621,11 @@
 
 >         “(2) for purposes of section 275 of such Code, shall be considered to be a tax described in section 275(a)(6).
 
->     “(g) __Reporting Requirement.—__ 
+>     “(g)  __Reporting Requirement__  __.—__ 
 
 >     Not later than the date determined by the Secretary of the Treasury following the end of any calendar year, the Secretary of Health and Human Services, the Secretary of Veterans Affairs, and the Secretary of Defense shall report to the Secretary of the Treasury, in such manner as the Secretary of the Treasury prescribes, the total branded prescription drug sales for each covered entity with respect to each specified government program under such Secretary’s jurisdiction using the following methodology:
 
->         “(1) __Medicare part d program.—__ 
+>         “(1)  __Medicare part d program__  __.—__ 
 
 >         The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered by the Medicare Part D program, the product of—
 
@@ -633,7 +633,7 @@
 
 >             “(B) the number of units of the branded prescription drug paid for under the Medicare Part D program.
 
->         “(2) __Medicare part b program.—__ 
+>         “(2)  __Medicare part b program__  __.—__ 
 
 >         The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered by the Medicare Part B program under section 1862(a) of the Social Security Act \[[42 U.S.C. 1395y(a)][/us/usc/t42/s1395y/a]\], the product of—
 
@@ -643,7 +643,7 @@
 
 >             The Centers for Medicare and Medicaid Services shall establish a process for determining the units and the allocated price for purposes of this section for those branded prescription drugs that are not separately payable or for which National Drug Codes are not reported.
 
->         “(3) __Medicaid program.—__ 
+>         “(3)  __Medicaid program__  __.—__ 
 
 >         The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered under the Medicaid program, the product of—
 
@@ -651,11 +651,11 @@
 
 >             “(B) the number of units of the branded prescription drug paid for under the Medicaid program.
 
->         “(4) __Department of veterans affairs programs.—__ 
+>         “(4)  __Department of veterans affairs programs__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall report, for each covered entity and for each branded prescription drug of the covered entity the total amount paid for each such branded prescription drug procured by the Department of Veterans Affairs for its beneficiaries.
 
->         “(5) __Department of defense programs and tricare.—__ 
+>         “(5)  __Department of defense programs and tricare__  __.—__ 
 
 >         The Secretary of Defense shall report, for each covered entity and for each branded prescription drug of the covered entity, the sum of—
 
@@ -669,19 +669,19 @@
 
 >                 “(ii) the number of units of the branded prescription drug dispensed under such program.
 
->     “(h) __Secretary.—__ 
+>     “(h)  __Secretary__  __.—__ 
 
 >     For purposes of this section, the term ‘Secretary’ includes the Secretary’s delegate.
 
->     “(i) __Guidance.—__ 
+>     “(i)  __Guidance__  __.—__ 
 
 >     The Secretary of the Treasury shall publish guidance necessary to carry out the purposes of this section.
 
->     “(j) __Effective Date.—__ 
+>     “(j)  __Effective Date__  __.—__ 
 
 >     This section shall apply to calendar years beginning after December 31, 2010.
 
->     “(k) __Conforming Amendment.—__ 
+>     “(k)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 1395t of Title 42][/us/usc/t42/s1395t], The Public Health and Welfare.\]”
 
@@ -703,17 +703,17 @@
 
 >     “(a) __Imposition of Fee.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each covered entity engaged in the business of providing health insurance shall pay to the Secretary not later than the annual payment date of each calendar year beginning after 2013 a fee in an amount determined under subsection (b).
 
->         “(2) __Annual payment date.—__ 
+>         “(2)  __Annual payment date__  __.—__ 
 
 >         For purposes of this section, the term ‘annual payment date’ means with respect to any calendar year the date determined by the Secretary, but in no event later than September 30 of such calendar year.
 
 >     “(b) __Determination of Fee Amount.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to each covered entity, the fee under this section for any calendar year shall be equal to an amount that bears the same ratio to the applicable amount as—
 
@@ -721,11 +721,11 @@
 
 >             “(B) the aggregate net premiums written with respect to such health insurance of all covered entities that are taken into account during such preceding calendar year.
 
->         “(2) __Amounts taken into account.—__ 
+>         “(2)  __Amounts taken into account__  __.—__ 
 
 >         For purposes of paragraph (1)—
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The net premiums written with respect to health insurance for any United States health risk that are taken into account during any calendar year with respect to any covered entity shall be determined in accordance with the following table:
 
@@ -789,7 +789,7 @@
 
 >             </table>
 
->             “(B) __Partial exclusion for certain exempt activities.—__ 
+>             “(B)  __Partial exclusion for certain exempt activities__  __.—__ 
 
 >             After the application of subparagraph (A), only 50 percent of the remaining net premiums written with respect to health insurance for any United States health risk that are attributable to the activities (other than activities of an unrelated trade or business as defined in section 513 of the Internal Revenue Code of 1986) of any covered entity qualifying under paragraph (3), (4), (26), or (29) of section 501(c) of such Code and exempt from tax under section 501(a) of such Code shall be taken into account.
 
@@ -799,11 +799,11 @@
 
 >     “(c) __Covered Entity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘covered entity’ means any entity which provides health insurance for any United States health risk during the calendar year in which the fee under this section is due.
 
->         “(2) __Exclusion.—__ 
+>         “(2)  __Exclusion__  __.—__ 
 
 >         Such term does not include—
 
@@ -825,21 +825,21 @@
 
 >         “(3) __Controlled groups.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as a single covered entity (or employer for purposes of paragraph (2)).
 
->             “(B) __Inclusion of foreign corporations.—__ 
+>             “(B)  __Inclusion of foreign corporations__  __.—__ 
 
 >             For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 of such Code to this section, section 1563 of such Code shall be applied without regard to subsection (b)(2)(C) thereof.
 
 >             If any entity described in subparagraph (C) or (D) of paragraph (2) is treated as a covered entity by reason of the application of the preceding sentence, the net premiums written with respect to health insurance for any United States health risk of such entity shall not be taken into account for purposes of this section.
 
->         “(4) __Joint and several liability.—__ 
+>         “(4)  __Joint and several liability__  __.—__ 
 
 >         If more than one person is liable for payment of the fee under subsection (a) with respect to a single covered entity by reason of the application of paragraph (3), all such persons shall be jointly and severally liable for payment of such fee.
 
->     “(d) __United States Health Risk.—__ 
+>     “(d)  __United States Health Risk__  __.—__ 
 
 >     For purposes of this section, the term ‘United States health risk’ means the health risk of any individual who is—
 
@@ -849,11 +849,11 @@
 
 >         “(3) located in the United States, with respect to the period such individual is so located.
 
->     “(e) __Applicable Amount.—__ 
+>     “(e)  __Applicable Amount__  __.—__ 
 
 >     For purposes of subsection (b)(1)—
 
->         “(1) __Years before 2019.—__ 
+>         “(1)  __Years before 2019__  __.—__ 
 
 >         In the case of calendar years beginning before 2019, the applicable amount shall be determined in accordance with the following table:
 
@@ -953,11 +953,11 @@
 
 >         </table>
 
->         “(2) __Years after 2018.—__ 
+>         “(2)  __Years after 2018__  __.—__ 
 
 >         In the case of any calendar year beginning after 2018, the applicable amount shall be the applicable amount for the preceding calendar year increased by the rate of premium growth (within the meaning of section 36B(b)(3)(A)(ii) of the Internal Revenue Code of 1986) for such preceding calendar year.
 
->     “(f) __Tax Treatment of Fees.—__ 
+>     “(f)  __Tax Treatment of Fees__  __.—__ 
 
 >     The fees imposed by this section—
 
@@ -967,13 +967,13 @@
 
 >     “(g) __Reporting Requirement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than the date determined by the Secretary following the end of any calendar year, each covered entity shall report to the Secretary, in such manner as the Secretary prescribes, the covered entity’s net premiums written with respect to health insurance for any United States health risk for such calendar year.
 
 >         “(2) __Penalty for failure to report.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any failure to make a report containing the information required by paragraph (1) on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid by the covered entity failing to file such report, an amount equal to—
 
@@ -987,7 +987,7 @@
 
 >                          “(II) the amount of the fee imposed by this section for which such report was required.
 
->             “(B) __Treatment of penalty.—__ 
+>             “(B)  __Treatment of penalty__  __.—__ 
 
 >             The penalty imposed under subparagraph (A)—
 
@@ -999,7 +999,7 @@
 
 >         “(3) __Accuracy-related penalty.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of any understatement of a covered entity’s net premiums written with respect to health insurance for any United States health risk for any calendar year, there shall be paid by the covered entity making such understatement, an amount equal to the excess of—
 
@@ -1007,31 +1007,31 @@
 
 >                 “(ii) the amount of such fee the Secretary determined based on such understatement.
 
->             “(B) __Understatement.—__ 
+>             “(B)  __Understatement__  __.—__ 
 
 >             For purposes of this paragraph, an understatement of a covered entity’s net premiums written with respect to health insurance for any United States health risk for any calendar year is the difference between the amount of such net premiums written as reported on the return filed by the covered entity under paragraph (1) and the amount of such net premiums written that should have been reported on such return.
 
->             “(C) __Treatment of penalty.—__ 
+>             “(C)  __Treatment of penalty__  __.—__ 
 
 >             The penalty imposed under subparagraph (A) shall be subject to the provisions of subtitle F of the Internal Revenue Code of 1986 that apply to assessable penalties imposed under chapter 68 of such Code.
 
->         “(4) __Treatment of information.—__ 
+>         “(4)  __Treatment of information__  __.—__ 
 
 >         Section 6103 of the Internal Revenue Code of 1986 shall not apply to any information reported under this subsection.
 
->     “(h) __Additional Definitions.—__ 
+>     “(h)  __Additional Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Secretary.—__ 
+>         “(1)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or the Secretary’s delegate.
 
->         “(2) __United states.—__ 
+>         “(2)  __United states__  __.—__ 
 
 >         The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
 
->         “(3) __Health insurance.—__ 
+>         “(3)  __Health insurance__  __.—__ 
 
 >         The term ‘health insurance’ shall not include—
 
@@ -1041,11 +1041,11 @@
 
 >             “(C) any medicare supplemental health insurance (as defined in section 1882(g)(1) of the Social Security Act \[[42 U.S.C. 1395ss(g)(1)][/us/usc/t42/s1395ss/g/1]\]).
 
->     “(i) __Guidance.—__ 
+>     “(i)  __Guidance__  __.—__ 
 
 >     The Secretary shall publish guidance necessary to carry out the purposes of this section and shall prescribe such regulations as are necessary or appropriate to prevent avoidance of the purposes of this section, including inappropriate actions taken to qualify as an exempt entity under subsection (c)(2).
 
->     “(j) __Effective Date.—__ 
+>     “(j)  __Effective Date__  __.—__ 
 
 >     This section shall apply to calendar years beginning after December 31, 2013.”
 

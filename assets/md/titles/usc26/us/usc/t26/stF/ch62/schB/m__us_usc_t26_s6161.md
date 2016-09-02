@@ -111,11 +111,11 @@
 
 [Pub. L. 96–223, title I, § 101(i)][/us/pl/96/223/s101/i], Apr. 2, 1980, [94 Stat. 254][/us/stat/94/254], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting sections 4986 to 4998, 6050C, 6076, and 7241 of this title and amending this section and sections 164, 6211, 6212, 6213, 6214, 6302, 6344, 6501, 6511, 6512, 6601, 6611, 6652, 6653, 6862, 7422, and 7512 of this title\] shall apply to periods after February 29, 1980.
 
->     “(2) __Transitional rules.—__ 
+>     “(2)  __Transitional rules__  __.—__ 
 
 >     For the period ending June 30, 1980, the Secretary of the Treasury or his delegate shall prescribe rules relating to the administration of chapter 45 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. To the extent provided in such rules, such rules shall supplement or supplant for such period the administrative provisions contained in chapter 45 of such Code (or in so much of subtitle F of such Code \[section 6001 et seq. of this title\] as relates to such chapter 45).”
 

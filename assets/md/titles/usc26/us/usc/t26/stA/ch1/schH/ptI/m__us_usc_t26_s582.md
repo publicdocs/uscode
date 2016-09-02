@@ -137,11 +137,11 @@
 
 [Pub. L. 91–172, title IV, § 433(d)][/us/pl/91/172/s433/d], Dec. 30, 1969, [83 Stat. 624][/us/stat/83/624], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1243 of this title][/us/usc/t26/s1243]\] shall apply to taxable years beginning after July 11, 1969.
 
->     “(2) __Election for small business investment companies and business development corporations.—__ 
+>     “(2)  __Election for small business investment companies and business development corporations__  __.—__ 
 
 >     Notwithstanding paragraph (1), in the case of a financial institution described in section 586(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section \[amending this section and [section 1243 of this title][/us/usc/t26/s1243]\] shall not apply for its taxable years beginning after July 11, 1969, and before July 11, 1974, unless the taxpayer so elects at such time and in such manner as shall be prescribed by the Secretary of the Treasury or his delegate. Such election shall be irrevocable and shall apply to all such taxable years.”
 

@@ -81,15 +81,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 136(c)][/us/pl/98/369/s136/c], July 18, 1984, [98 Stat. 670][/us/stat/98/670], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) __Interests stapled as of__  __june 30, 1983__  __.—__ 
+>     “(2)  __Interests stapled as of __  __june 30, 1983__  __.—__ 
 
 >     Except as otherwise provided in this subsection, in the case of any interests which on June 30, 1983, were stapled interests (as defined in section 269B(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)), the amendments made by this section shall take effect on January 1, 1985 (January 1, 1987, in the case of stapled interests in a foreign corporation).
 
->     “(3) __Certain stapled entities which include real estate investment trust.—__ 
+>     “(3)  __Certain stapled entities which include real estate investment trust__  __.—__ 
 
 >     Paragraph (3) of section 269B(a) of such Code shall not apply in determining the application of the provisions of part II of subchapter M of chapter 1 of such Code to any real estate investment trust which is part of a group of stapled entities if—
 
@@ -109,27 +109,27 @@
 
 >             “(ii) does not, at any time during the taxable year, own (within the meaning of section 958 of such Code but before applying paragraph (2) of section 269B(a) of such Code) any stock of any corporation which is not described in such section 957(c).
 
->     “(5) __Treaty rule not to apply to stapled entities entitled to treaty benefits as of__  __june 30, 1983__  __.—__ 
+>     “(5)  __Treaty rule not to apply to stapled entities entitled to treaty benefits as of __  __june 30, 1983__  __.—__ 
 
 >     In the case of any entity which was a stapled entity as of June 30, 1983, subsection (d) of section 269B of such Code shall not apply to any treaty benefit to which such entity was entitled as of June 30, 1983.
 
 >     “(6) __Elections to treat stapled foreign entities as subsidiaries.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any foreign corporation and domestic corporation which as of June 30, 1983, were stapled entities, such domestic corporation may elect (in lieu of applying paragraph (1) of section 269B(a) of such Code) to be treated as owning all interests in the foreign corporation which constitute stapled interests with respect to stock of the domestic corporation.
 
->         “(B) __Election.—__ 
+>         “(B)  __Election__  __.—__ 
 
 >         Any election under subparagraph (A) shall be made not later than 180 days after the date of the enactment of this Act and shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
->         “(C) __Election irrevocable.—__ 
+>         “(C)  __Election irrevocable__  __.—__ 
 
 >         Any election under subparagraph (A), once made, may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
 >     “(7) __Other stapled entities which include real estate investment trust.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Paragraph (3) of section 269B(a) of such Code shall not apply in determining the application of the provisions of part II of subchapter M of chapter 1 of such Code to any qualified real estate investment trust which is a part of a group of stapled entities—
 
@@ -137,7 +137,7 @@
 
 >             “(ii) all members of such group were stapled entities as of June 16, 1985.
 
->         “(B) __Qualified real estate investment trust.—__ 
+>         “(B)  __Qualified real estate investment trust__  __.—__ 
 
 >         The term ‘qualified real estate investment trust’ means any real estate trust—
 
@@ -151,21 +151,21 @@
 
 [Pub. L. 105–206, title VII, § 7002][/us/pl/105/206/s7002], July 22, 1998, [112 Stat. 827][/us/stat/112/827], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
 
->     “(b) __Nonqualified Real Property Interest.—__ 
+>     “(b)  __Nonqualified Real Property Interest__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘nonqualified real property interest’ means, with respect to any exempt REIT, any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity.
 
->         “(2) __Exception for binding contracts, etc.__ 
+>         “(2)  __Exception for binding contracts, etc.__  __—__ 
 
->         —Such term shall not include any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity if—
+>         Such term shall not include any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity if—
 
 >             “(A) the acquisition is pursuant to a written agreement (including a put option, buy-sell agreement, and an agreement relating to a third party default) which was binding on such date and at all times thereafter on such REIT or stapled entity; or
 
@@ -173,7 +173,7 @@
 
 >         “(3) __Improvements and leases.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as otherwise provided in this paragraph, the term ‘nonqualified real property interest’ shall not include—
 
@@ -183,7 +183,7 @@
 
 >                   if such ownership or leasehold interest is a qualified real property interest.
 
->             “(B) __Leases.—__ 
+>             “(B)  __Leases__  __.—__ 
 
 >             The term ‘nonqualified real property interest’ shall not include—
 
@@ -195,7 +195,7 @@
 
 >             “(C) __Termination where change in use.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subparagraph (A) shall not apply to any improvement placed in service after December 31, 1999, which is part of a change in the use of the property to which such improvement relates unless the cost of such improvement does not exceed 200 percent of—
 
@@ -203,49 +203,49 @@
 
 >                          “(II) if such property is substituted basis property (as defined in section 7701(a)(42) of the Internal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
 
->                 “(ii) __Binding contracts.—__ 
+>                 “(ii)  __Binding contracts__  __.—__ 
 
 >                 For purposes of clause (i), an improvement shall be treated as placed in service before January 1, 2000, if such improvement is placed in service before January 1, 2004, pursuant to a binding contract in effect on December 31, 1999, and at all times thereafter.
 
->         “(4) __Exception for permitted transfers, etc.__ 
+>         “(4)  __Exception for permitted transfers, etc.__  __—__ 
 
->         —The term ‘nonqualified real property interest’ shall not include any interest in real property acquired solely as a result of a direct or indirect contribution, distribution, or other transfer of such interest from the exempt REIT or any member of the stapled REIT group to such REIT or any such member, but only to the extent the aggregate of the interests of the exempt REIT and all stapled entities in such interest in real property (determined in accordance with subsection (c)(1)) is not increased by reason of the transfer.
+>         The term ‘nonqualified real property interest’ shall not include any interest in real property acquired solely as a result of a direct or indirect contribution, distribution, or other transfer of such interest from the exempt REIT or any member of the stapled REIT group to such REIT or any such member, but only to the extent the aggregate of the interests of the exempt REIT and all stapled entities in such interest in real property (determined in accordance with subsection (c)(1)) is not increased by reason of the transfer.
 
->         “(5) __Treatment of entities which are not stapled, etc.__ 
+>         “(5)  __Treatment of entities which are not stapled, etc. on __  __march 26, 1998__  __.—__ 
 
->          on march 26, 1998.—Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity) shall be treated as nonqualified real property interests unless—
+>         Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity) shall be treated as nonqualified real property interests unless—
 
 >             “(A) such stapled entity was a stapled entity with respect to such REIT as of March 26, 1998, and at all times thereafter; and
 
 >             “(B) as of March 26, 1998, and at all times thereafter, such REIT was a real estate investment trust.
 
->         “(6) __Qualified real property interest.—__ 
+>         “(6)  __Qualified real property interest__  __.—__ 
 
 >         The term ‘qualified real property interest’ means any interest in real property other than a nonqualified real property interest.
 
->     “(c) __Treatment of Property Held by 10-Percent Subsidiaries.—__ 
+>     “(c)  __Treatment of Property Held by__  __10-__  __Percent Subsidiaries__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any exempt REIT and any stapled entity shall be treated as holding their proportionate shares of each interest in real property held by any 10-percent subsidiary entity of the exempt REIT or stapled entity, as the case may be.
 
 >         “(2) __Property held by 10-percent subsidiaries treated as nonqualified.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), any interest in real property held by a 10-percent subsidiary entity of an exempt REIT or stapled entity shall be treated as a nonqualified real property interest.
 
->             “(B) __Exception for interests in real property held on__  __march 26, 1998__  __, etc.__ 
+>             “(B)  __Exception for interests in real property held on __  __march 26, 1998__  __, etc.__  __—__ 
 
->             —In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
+>             In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
 
->         “(3) __Reduction in qualified real property interests if increase in ownership of subsidiary.—__ 
+>         “(3)  __Reduction in qualified real property interests if increase in ownership of subsidiary__  __.—__ 
 
 >         If, after March 26, 1998, an exempt REIT or stapled entity increases its ownership interest in a subsidiary entity to which paragraph (2)(B) applies above its ownership interest in such subsidiary entity as of such date, the additional portion of each interest in real property which is treated as held by the exempt REIT or stapled entity by reason of such increased ownership shall be treated as a nonqualified real property interest.
 
->         “(4) __Special rules for determining ownership.—__ 
+>         “(4)  __Special rules for determining ownership__  __.—__ 
 
 >         For purposes of this subsection—
 
@@ -257,7 +257,7 @@
 
 >         “(5) __Treatment of 60-percent partnerships.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If, as of March 26, 1998—
 
@@ -267,17 +267,17 @@
 
 >                   paragraph (3) shall not apply to such partnership, and such REIT or entity shall be treated for all purposes of this section as holding all of the capital and profits interests in such partnership.
 
->             “(B) __Limitation to one partnership.—__ 
+>             “(B)  __Limitation to one partnership__  __.—__ 
 
 >             If, as of January 1, 1999, more than one partnership owned by any exempt REIT or stapled entity meets the requirements of subparagraph (A), only the largest such partnership on such date (determined by aggregate asset bases) shall be treated as meeting such requirements.
 
->             “(C) __Mirror entity.—__ 
+>             “(C)  __Mirror entity__  __.—__ 
 
 >             For purposes of subparagraph (A), an interest in a partnership formed after March 26, 1998, shall be treated as held by an exempt REIT or stapled entity on March 26, 1998, if such partnership is formed to mirror the stapling of an exempt REIT and a stapled entity in connection with an acquisition agreed to or announced on or before March 26, 1998.
 
 >     “(d) __Treatment of Property Secured by Mortgage Held by Exempt REIT or Member of Stapled REIT Group.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any nonqualified obligation held by an exempt REIT or any member of the stapled REIT group, the REIT gross income provisions shall be applied by treating the exempt REIT as having impermissible tenant service income equal to—
 
@@ -287,11 +287,11 @@
 
 >             If the income referred to in subparagraph (A) or (B) is of a 10-percent subsidiary entity, only the portion of such income which is properly allocable to the exempt REIT’s or the stapled entity’s interest in the subsidiary entity shall be taken into account.
 
->         “(2) __Nonqualified obligation.—__ 
+>         “(2)  __Nonqualified obligation__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the term ‘nonqualified obligation’ means any obligation secured by a mortgage on an interest in real property if the income of any member of the stapled REIT group for services furnished with respect to such property would be impermissible tenant service income were such property held by the exempt REIT and such services furnished by the exempt REIT.
 
->         “(3) __Exception for certain market rate obligations.—__ 
+>         “(3)  __Exception for certain market rate obligations__  __.—__ 
 
 >         Such term shall not include any obligation—
 
@@ -299,7 +299,7 @@
 
 >             “(B) the rate of interest on which does not exceed an arm’s length rate.
 
->         “(4) __Exception for existing obligations.—__ 
+>         “(4)  __Exception for existing obligations__  __.—__ 
 
 >         Such term shall not include any obligation—
 
@@ -309,23 +309,23 @@
 
 >             but only so long as such obligation is secured by such interest, and the interest payable on such obligation is not changed to a rate which exceeds an arm’s length rate unless such change is pursuant to the terms of the obligation in effect on March 26, 1998. The preceding sentence shall not cease to apply by reason of the refinancing of the obligation if (immediately after the refinancing) the principal amount of the obligation resulting from the refinancing does not exceed the principal amount of the refinanced obligation (immediately before the refinancing) and the interest payable on such refinanced obligation does not exceed an arm’s length rate.
 
->         “(5) __Treatment of entities which are not stapled, etc.__ 
+>         “(5)  __Treatment of entities which are not stapled, etc. on __  __march 26, 1998__  __.—__ 
 
->          on march 26, 1998.—A rule similar to the rule of subsection (b)(5) shall apply for purposes of this subsection.
+>         A rule similar to the rule of subsection (b)(5) shall apply for purposes of this subsection.
 
->         “(6) __Increase in amount of nonqualified obligations if increase in ownership of subsidiary.—__ 
+>         “(6)  __Increase in amount of nonqualified obligations if increase in ownership of subsidiary__  __.—__ 
 
 >         A rule similar to the rule of subsection (c)(3) shall apply for purposes of this subsection.
 
->         “(7) __Coordination with subsection (a).—__ 
+>         “(7)  __Coordination with subsection__  __(a).—__ 
 
 >         This subsection shall not apply to the portion of any interest in real property that the exempt REIT or stapled entity holds or is treated as holding under this section without regard to this subsection.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __REIT gross income provisions.—__ 
+>         “(1)  __REIT gross income provisions__  __.—__ 
 
 >         The term ‘REIT gross income provisions’ means—
 
@@ -333,11 +333,11 @@
 
 >             “(B) section 857(b)(5) of such Code.
 
->         “(2) __Exempt reit.—__ 
+>         “(2)  __Exempt reit__  __.—__ 
 
 >         The term ‘exempt REIT’ means a real estate investment trust to which section 269B of the Internal Revenue Code of 1986 does not apply by reason of paragraph (3) of section 136(c) of the Tax Reform Act of 1984.
 
->         “(3) __Stapled reit group.—__ 
+>         “(3)  __Stapled reit group__  __.—__ 
 
 >         The term ‘stapled REIT group’ means, with respect to an exempt REIT, the group consisting of—
 
@@ -347,15 +347,15 @@
 
 >         “(4) __10-percent subsidiary entity.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘10-percent subsidiary entity’ means, with respect to any exempt REIT or stapled entity, any entity in which the exempt REIT or stapled entity (as the case may be) directly or indirectly holds at least a 10-percent interest.
 
->             “(B) __Exception for certain c corporation subsidiaries of reits.—__ 
+>             “(B)  __Exception for certain c corporation subsidiaries of reits__  __.—__ 
 
 >             A corporation which would, but for this subparagraph, be treated as a 10-percent subsidiary of an exempt REIT shall not be so treated if such corporation is taxable under section 11 of the Internal Revenue Code of 1986.
 
->             “(C) __10-percent interest.—__ 
+>             “(C) __10-__  __percent interest__  __.—__ 
 
 >             The term ‘10-percent interest’ means—
 
@@ -365,15 +365,15 @@
 
 >                 “(iii) in any other case, ownership of 10 percent of the beneficial interests in the entity.
 
->         “(5) __Other definitions.—__ 
+>         “(5)  __Other definitions__  __.—__ 
 
 >         Terms used in this section which are used in section 269B or section 856 of such Code shall have the respective meanings given such terms by such section.
 
->     “(f) __Guidance.—__ 
+>     “(f)  __Guidance__  __.—__ 
 
 >     The Secretary may prescribe such guidance as may be necessary or appropriate to carry out the purposes of this section, including guidance to prevent the avoidance of such purposes and to prevent the double counting of income.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall apply to taxable years ending after March 26, 1998.”
 

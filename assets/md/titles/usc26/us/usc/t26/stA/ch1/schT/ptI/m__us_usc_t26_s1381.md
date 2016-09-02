@@ -59,15 +59,15 @@
 
 [Pub. L. 87–834, § 17(c)][/us/pl/87/834/s17/c], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __For the cooperatives.—__ 
+>     “(1)  __For the cooperatives__  __.—__ 
 
 >     Except as provided in paragraph (3), the amendments made by subsections (a) and (b) \[enacting this subchapter, amending sections 521 and 6072 of this title, and repealing [section 522 of this title][/us/usc/t26/s522]\] shall apply to taxable years of organizations described in section 1381(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) beginning after December 31, 1962.
 
->     “(2) __For the patrons.—__ 
+>     “(2)  __For the patrons__  __.—__ 
 
 >     Except as provided in paragraph (3), section 1385 of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply with respect to any amount received from any organization described in section 1381(a) of such Code, to the extent that such amount is paid by such organization in a taxable year of such organization beginning after December 31, 1962.
 
->     “(3) __Application of existing law.—__ 
+>     “(3)  __Application of existing law__  __.—__ 
 
 >     In the case of any money, written notice of allocation, or other property paid by any organization described in section 1381(a)—
 

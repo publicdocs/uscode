@@ -185,11 +185,11 @@
 
 [Pub. L. 94–455, title II, § 207(a)(3)][/us/pl/94/455/s207/a/3], Oct. 4, 1976, [90 Stat. 1537][/us/stat/90/1537], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1975.
 
->     “(B) __Transitional rule.—__ 
+>     “(B)  __Transitional rule__  __.—__ 
 
 >     In the case of a farming syndicate in existence on December 31, 1975, and for which there was no change of membership throughout its taxable year beginning in 1976, the amendments made by this subsection shall apply to taxable years beginning after December 31, 1976.”
 

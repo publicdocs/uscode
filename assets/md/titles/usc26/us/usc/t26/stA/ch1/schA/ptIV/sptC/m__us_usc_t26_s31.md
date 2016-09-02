@@ -63,15 +63,15 @@
 
 [Pub. L. 98–67, title I, § 110][/us/pl/98/67/s110], Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this title \[enacting sections 3406 and 6705 of this title, amending this section and sections 274, 275, 643, 661, 3402, 3403, 3502, 3507, 6011, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6652, 6653, 6654, 6676, 6678, 6682, 7205, 7215, 7431, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as notes under sections 1, 3451, and 6011 of this title, and repealing provisions set out as a note under [section 3451 of this title][/us/usc/t26/s3451]\] shall apply with respect to payments made after December 31, 1983.
 
->     “(b) __Section 102.—__ 
+>     “(b)  __Section__  __102.—__ 
 
 >     The amendments made by section 102 \[amending this section and sections 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as a note under [section 3451 of this title][/us/usc/t26/s3451], and repealing provisions set out as a note under [section 3451 of this title][/us/usc/t26/s3451]\] shall take effect as of the close of June 30, 1983.
 
->     “(c) __Sections 104(b) and 107.—__ 
+>     “(c)  __Sections__  __104(b)__  __and__  __107.—__ 
 
 >     The amendments made by sections 104(b) and 107 \[amending sections 6682, 7205, and 7431 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1983\].”
 

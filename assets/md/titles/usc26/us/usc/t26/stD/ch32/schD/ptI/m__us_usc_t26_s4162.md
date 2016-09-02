@@ -153,11 +153,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1015(e)][/us/pl/98/369/s1015/e], July 18, 1984, [98 Stat. 1019][/us/stat/98/1019], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 4161 and 6302 of this title\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.
 
->     “(2) __Treatment of certain resales.—__ 
+>     “(2)  __Treatment of certain resales__  __.—__ 
 
 >     Subsection (c) of section 4162 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to treatment of certain resales), as added by this section, shall apply to sales by related persons (as defined in such subsection) after the date of the enactment of this Act \[July 18, 1984\].”
 

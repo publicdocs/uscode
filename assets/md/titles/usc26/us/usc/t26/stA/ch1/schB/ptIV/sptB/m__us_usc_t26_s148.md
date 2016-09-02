@@ -701,15 +701,15 @@
 
 [Pub. L. 100–647, title VI, § 6181(c)][/us/pl/100/647/s6181/c], Nov. 10, 1988, [102 Stat. 3729][/us/stat/102/3729], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].
 
->     “(2) __Election for outstanding bonds.—__ 
+>     “(2)  __Election for outstanding bonds__  __.—__ 
 
 >     Any issue of bonds other than private activity bonds outstanding as of the date of the enactment of this Act shall be allowed a 1-time election to apply the amendments made by subsection (b) \[amending this section\] to amounts deposited after such date in bona fide debt service funds of such bonds.
 
->     “(3) __Definition of private activity bond.—__ 
+>     “(3)  __Definition of private activity bond__  __.—__ 
 
 >     For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)), the term ‘private activity bond’ shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code).”
 

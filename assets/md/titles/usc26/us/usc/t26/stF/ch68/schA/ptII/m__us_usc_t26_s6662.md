@@ -357,19 +357,19 @@
 
 [Pub. L. 111–152, title I, § 1409(e)][/us/pl/111/152/s1409/e], Mar. 30, 2010, [124 Stat. 1070][/us/stat/124/1070], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 6662A, 6664, 6676, and 7701 of this title\] shall apply to transactions entered into after the date of the enactment of this Act \[Mar. 30, 2010\].
 
->     “(2) __Underpayments.—__ 
+>     “(2)  __Underpayments__  __.—__ 
 
 >     The amendments made by subsections (b) and (c)(1) \[amending this section and sections 6662A and 6664 of this title\] shall apply to underpayments attributable to transactions entered into after the date of the enactment of this Act.
 
->     “(3) __Understatements.—__ 
+>     “(3)  __Understatements__  __.—__ 
 
 >     The amendments made by subsection (c)(2) \[amending [section 6664 of this title][/us/usc/t26/s6664]\] shall apply to understatements attributable to transactions entered into after the date of the enactment of this Act.
 
->     “(4) __Refunds and credits.—__ 
+>     “(4)  __Refunds and credits__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending [section 6676 of this title][/us/usc/t26/s6676]\] shall apply to refunds and credits attributable to transactions entered into after the date of the enactment of this Act.”
 
@@ -389,11 +389,11 @@
 
 [Pub. L. 108–357, title VIII, § 812(f)][/us/pl/108/357/s812/f], Oct. 22, 2004, [118 Stat. 1580][/us/stat/118/1580], as amended by [Pub. L. 109–135, title IV, § 403(x)(3)][/us/pl/109/135/s403/x/3], Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 6662A of this title][/us/usc/t26/s6662A] and amending this section and [section 6664 of this title][/us/usc/t26/s6664]\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Disqualified opinions.—__ 
+>     “(2)  __Disqualified opinions__  __.—__ 
 
 >     Section 6664(d)(3)(B) of the Internal Revenue Code of 1986 \[now section 6664(d)(4)(B)\] (as added by subsection (c)) shall not apply to the opinion of a tax advisor if—
 

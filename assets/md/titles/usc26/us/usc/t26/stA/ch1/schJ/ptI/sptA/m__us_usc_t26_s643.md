@@ -289,11 +289,11 @@
 
 [Pub. L. 104–188, title I, § 1904(d)][/us/pl/104/188/s1904/d], Aug. 20, 1996, [110 Stat. 1912][/us/stat/110/1912], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided by paragraph (2), the amendments made by this section \[amending this section and sections 665, 672, and 901 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Exception for certain trusts.—__ 
+>     “(2)  __Exception for certain trusts__  __.—__ 
 
 >     The amendments made by this section shall not apply to any trust—
 
@@ -305,11 +305,11 @@
 
 [Pub. L. 104–188, title I, § 1906(d)(2)][/us/pl/104/188/s1906/d/2], (3), Aug. 20, 1996, [110 Stat. 1916][/us/stat/110/1916], provided that:
 
->     “(2) __Abusive transactions.—__ 
+>     “(2)  __Abusive transactions__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(3) __Loans from trusts.—__ 
+>     “(3)  __Loans from trusts__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section and [section 7872 of this title][/us/usc/t26/s7872]\] shall apply to loans of cash or marketable securities made after September 19, 1995.”
 
@@ -341,11 +341,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 81(b)][/us/pl/98/369/s81/b], July 18, 1984, [98 Stat. 598][/us/stat/98/598], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to distributions after June 1, 1984, in taxable years ending after such date.
 
->     “(2) __Time for making election.—__ 
+>     “(2)  __Time for making election__  __.—__ 
 
 >     In the case of any distribution before the date of the enactment of this Act \[July 18, 1984\]—
 

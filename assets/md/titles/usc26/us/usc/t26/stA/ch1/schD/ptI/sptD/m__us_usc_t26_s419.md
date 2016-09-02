@@ -209,11 +209,11 @@
 
 [Pub. L. 98–369, div. A, title V, § 511(e)][/us/pl/98/369/s511/e], July 18, 1984, [98 Stat. 862][/us/stat/98/862], as amended by [Pub. L. 99–514, title XVIII, § 1851(a)(12)][/us/pl/99/514/s1851/a/12], (14), Oct. 22, 1986, [100 Stat. 2862][/us/stat/100/2862], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this subpart\] shall apply to contributions paid or accrued after December 31, 1985, in taxable years ending after such date.
 
->     “(2) __Special rule for collective bargaining agreements.—__ 
+>     “(2)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of plan maintained pursuant to 1 or more collective bargaining agreements—
 
@@ -223,11 +223,11 @@
 
 >         the amendments made by this section shall not apply to years beginning before the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after July 1, 1985).
 
->     “(3) __Special rule for paragraph (2).—__ 
+>     “(3)  __Special rule for paragraph (2)__  __.—__ 
 
 >     For purposes of paragraph (2), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.
 
->     “(4) __Special effective date for contributions of facilities.—__ 
+>     “(4)  __Special effective date for contributions of facilities__  __.—__ 
 
 >     Notwithstanding paragraphs (1) and (2), the amendments made by this section shall apply in the case of—
 
@@ -235,7 +235,7 @@
 
 >         “(B) any other contribution after June 22, 1984, to a welfare benefit fund to be used to acquire or improve a facility.
 
->     “(5) __Binding contract exceptions to paragraph (4).—__ 
+>     “(5)  __Binding contract exceptions to paragraph (4)__  __.—__ 
 
 >     Paragraph (4) shall not apply to any facility placed in service before January 1, 1987—
 
@@ -243,11 +243,11 @@
 
 >         “(B) the construction of which by or for the fund began before June 22, 1984.
 
->     “(6) __Amendments related to tax on unrelated business income.—__ 
+>     “(6)  __Amendments related to tax on unrelated business income__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 512 of this title][/us/usc/t26/s512]\] shall apply with respect to taxable years ending after December 31, 1985. For purposes of section 15 of the Internal Revenue Code of 1954 \[now 1986\], such amendments shall be treated as a change in the rate of a tax imposed by chapter 1 of such Code.
 
->     “(7) __Amendments related to excise taxes on certain welfare benefit plans.—__ 
+>     “(7)  __Amendments related to excise taxes on certain welfare benefit plans__  __.—__ 
 
 >     The amendments made by subsection (c) \[enacting [section 4976 of this title][/us/usc/t26/s4976]\] shall apply to benefits provided after December 31, 1985.”
 

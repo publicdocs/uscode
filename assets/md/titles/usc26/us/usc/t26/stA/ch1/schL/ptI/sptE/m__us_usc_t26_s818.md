@@ -195,11 +195,11 @@
 
 [Pub. L. 104–191, title III, § 332(b)][/us/pl/104/191/s332/b], Aug. 21, 1996, [110 Stat. 2069][/us/stat/110/2069], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall take effect on January 1, 1997.
 
->     “(2) __Issuance of rider not treated as material change.—__ 
+>     “(2)  __Issuance of rider not treated as material change__  __.—__ 
 
 >     For purposes of applying sections 101(f), 7702, and 7702A of the Internal Revenue Code of 1986 to any contract—
 

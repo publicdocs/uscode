@@ -419,11 +419,11 @@
 
 [Pub. L. 104–191, title III, § 371][/us/pl/104/191/s371], Aug. 21, 1996, [110 Stat. 2072][/us/stat/110/2072], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income tax made during the period beginning on February 1, 1997, and ending on June 30, 1997, a copy of the document described in subsection (b).
 
->     “(b) __Text of Document.—__ 
+>     “(b)  __Text of Document__  __.—__ 
 
 >     The Secretary of the Treasury shall, after consultation with the Secretary of Health and Human Services and organizations promoting organ and tissue (including eye) donation, prepare a document suitable for inclusion with individual income tax refund payments which—
 

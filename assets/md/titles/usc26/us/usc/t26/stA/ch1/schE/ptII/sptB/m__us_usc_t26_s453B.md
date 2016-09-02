@@ -159,11 +159,11 @@
 
 [Pub. L. 106–573, § 2][/us/pl/106/573/s2], Dec. 28, 2000, [114 Stat. 3061][/us/stat/114/3061], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) \[[Pub. L. 106–170][/us/pl/106/170], amending this section\] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act\[Dec. 17, 1999\].
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted.”
 

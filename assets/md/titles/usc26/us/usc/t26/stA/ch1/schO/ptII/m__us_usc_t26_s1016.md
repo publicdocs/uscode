@@ -619,37 +619,37 @@
 
 [Pub. L. 85–866, title I, § 94][/us/pl/85/866/s94], Sept. 2, 1958, [72 Stat. 1669][/us/stat/72/1669], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Retirement-Straight Line Adjustment Act of 1958’.
 
->     “(b) __Making of Election.—__ 
+>     “(b)  __Making of Election__  __.—__ 
 
 >     Any taxpayer who held retirement-straight line property on his 1956 adjustment date may elect to have this section apply. Such an election shall be made at such time and in such manner as the Secretary shall prescribe. Any election under this section shall be irrevocable and shall apply to all retirement-straight line property as hereinafter provided in this section (including such property for periods when held by predecessors of the taxpayer).
 
->     “(c) __Retirement-Straight Line Property Defined.—__ 
+>     “(c)  __Retirement-Straight Line Property Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘retirement-straight line property’ means any property of a kind or class with respect to which the taxpayer or a predecessor (under the terms and conditions prescribed for him by the Commissioner) for any taxable year beginning after December 31, 1940, and before January 1, 1956, changed from the retirement to the straight line method of computing the allowance of deductions for depreciation.
 
->     “(d) __Basis Adjustments as of 1956 Adjustment Date.—__ 
+>     “(d)  __Basis Adjustments as of__  __1956__  __Adjustment Date__  __.—__ 
 
 >     If the taxpayer has made an election under this section, then in determining the adjusted basis on his 1956 adjustment date of all retirement-straight line property held by the taxpayer, in lieu of the adjustments for depreciation provided in section 1016(a)(2) and (3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the following adjustments shall be made (effective as of his 1956 adjustment date) in respect of all periods before the 1956 adjustment date:
 
->         “(1) __Depreciation sustained before__  __march 1, 1913__  __.—__ 
+>         “(1)  __Depreciation sustained before __  __march 1, 1913__  __.—__ 
 
 >         For depreciation sustained before March 1, 1913, on retirement-straight line property held by the taxpayer or a predecessor on such date for which cost was or is claimed as basis and which either—
 
->             “(A) __Retired before changeover.—__ 
+>             “(A)  __Retired before changeover__  __.—__ 
 
 >             Was retired by the taxpayer or a predecessor before the changeover date, but only if (i) a deduction was allowed in computing net income by reason of such retirement, and (ii) such deduction was computed on the basis of cost without adjustment for depreciation sustained before March 1, 1913. In the case of any such property retired during any taxable year beginning after December 31, 1929, the adjustment under this subparagraph shall not exceed that portion of the amount attributable to depreciation sustained before March 1, 1913, which resulted (by reason of the deduction so allowed) in a reduction in taxes under the Internal Revenue Code of 1986 or prior income, war-profits, or excess-profits tax laws.
 
->             “(B) __Held on changeover date.—__ 
+>             “(B)  __Held on changeover date__  __.—__ 
 
 >             Was held by the taxpayer or a predecessor on the changeover date. This subparagraph shall not apply to property to which paragraph (2) applies.
 
 >             The adjustment determined under this paragraph shall be allocated (in the manner prescribed by the Secretary) among all retirement-straight line property held by the taxpayer on his 1956 adjustment date.
 
->         “(2) __Property disposed of after changeover and before 1956 adjustment date.—__ 
+>         “(2)  __Property disposed of after changeover and before 1956 adjustment date__  __.—__ 
 
 >         For that portion of the reserve prescribed by the Commissioner in connection with the changeover which was applicable to property—
 
@@ -659,59 +659,59 @@
 
 >             if such sale occurred in, or such deduction was allowed for, a period on or after the changeover date and before the taxpayer’s 1956 adjustment date.
 
->         “(3) __Depreciation allowable from changeover to 1956 adjustment date.—__ 
+>         “(3)  __Depreciation allowable from changeover to 1956 adjustment date__  __.—__ 
 
 >         For depreciation allowable, under the terms and conditions prescribed by the Commissioner in connection with the changeover, for all periods on and after the changeover date and before the taxpayer’s 1956 adjustment date.
 
 >         This subsection shall apply only with respect to taxable years beginning after December 31, 1955.
 
->     “(e) __Effect on Period From Changeover to 1956 Adjustment Date.—__ 
+>     “(e)  __Effect on Period From Changeover to__  __1956__  __Adjustment Date__  __.—__ 
 
 >     If the taxpayer has made an election under this section, then in determining the adjusted basis of any retirement-straight line property as of any time on or after the changeover date and before the taxpayer’s 1956 adjustment date, in lieu of the adjustments for depreciation provided in section 1016(a)(2) and (3) of the Internal Revenue Code of 1986 and the corresponding provisions of prior revenue laws, the following adjustments shall be made:
 
->         “(1) __For prescribed reserve.—__ 
+>         “(1)  __For prescribed reserve__  __.—__ 
 
 >         For the amount of the reserve prescribed by the Commissioner in connection with the changeover.
 
->         “(2) __For allowable depreciation.—__ 
+>         “(2)  __For allowable depreciation__  __.—__ 
 
 >         For the depreciation allowable under the terms and conditions prescribed by the Commissioner in connection with the changeover.
 
 >         This subsection shall not apply in determining adjusted basis for purposes of section 437(c) of the Internal Revenue Code of 1939. This subsection shall apply only with respect to taxable years beginning on or after the changeover date and before the taxpayer’s 1956 adjustment date.
 
->     “(f) __Equity Invested Capital, etc.—__ 
+>     “(f)  __Equity Invested Capital, etc__  __.—__ 
 
 >     If an election is made under this section, then (not withstanding the terms and conditions prescribed by the Commissioner in connection with the changeover)—
 
->         “(1) __Equity invested capital.—__ 
+>         “(1)  __Equity invested capital__  __.—__ 
 
 >         In determining equity invested capital under sections 458 and 718 of the Internal Revenue Code of 1939, accumulated earnings and profits as of the changeover date, and as of the beginning of each taxable year thereafter, shall be reduced by the depreciation sustained before March 1, 1913, as computed under subsection (d)(1)(B); and
 
->         “(2) __Definition of equity capital.—__ 
+>         “(2)  __Definition of equity capital__  __.—__ 
 
 >         In determining the adjusted basis of assets for the purpose of section 437(c) of the Internal Revenue Code of 1939 (and in addition to any other adjustments required by such Code), the basis shall be reduced by depreciation sustained before March 1, 1913 (as computed under subsection (d)), together with any depreciation allowable under subsection (e)(2) for any period before the year for which the excess profits credit is being computed.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Depreciation.—__ 
+>         “(1)  __Depreciation__  __.—__ 
 
 >         The term ‘depreciation’ means exhaustion, wear and tear, and obsolescence.
 
->         “(2) __Changeover.—__ 
+>         “(2)  __Changeover__  __.—__ 
 
 >         The term ‘changeover’ means a change from the retirement to the straight line method of computing the allowance of deductions for depreciation.
 
->         “(3) __Changeover date.—__ 
+>         “(3)  __Changeover date__  __.—__ 
 
 >         The term ‘changeover date’ means the first day of the first taxable year for which the changeover was effective.
 
->         “(4) __1956 adjustment date.—__ 
+>         “(4) __1956__  __adjustment date__  __.—__ 
 
 >         The term ‘1956 adjustment date’ means, in the case of any taxpayer, the first day of his first taxable year beginning after December 31, 1955.
 
->         “(5) __Predecessor.—__ 
+>         “(5)  __Predecessor__  __.—__ 
 
 >         The term ‘predecessor’ means any person from whom property of a kind or class to which this section refers was acquired, if the basis of such property is determined by reference to its basis in the hands of such person. Where a series of transfers of property has occurred and where in each instance the basis of the property was determined by reference to its basis in the hands of the prior holder, the term includes each such prior holder.
 

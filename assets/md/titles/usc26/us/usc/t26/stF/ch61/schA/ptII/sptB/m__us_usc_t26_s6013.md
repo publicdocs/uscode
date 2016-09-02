@@ -321,15 +321,15 @@
 
 [Pub. L. 98–369, div. A, title IV, § 424(c)][/us/pl/98/369/s424/c], July 18, 1984, [98 Stat. 803][/us/stat/98/803], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI, § 6004][/us/pl/100/647/s6004], Nov. 10, 1988, [102 Stat. 3685][/us/stat/102/3685], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and [section 66 of this title][/us/usc/t26/s66]\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies. Corresponding provisions shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to all taxable years to which such Code applies.
 
->     “(2) __Authority to disregard community property laws.—__ 
+>     “(2)  __Authority to disregard community property laws__  __.—__ 
 
 >     Subsection (b) of section 66 of the Internal Revenue Code of 1986, as added by subsection (b), shall apply to taxable years beginning after December 31, 1984.
 
->     “(3) __Transitional rule.—__ 
+>     “(3)  __Transitional rule__  __.—__ 
 
 >     If—
 
@@ -375,11 +375,11 @@
 
 [Pub. L. 94–455, title XIX, § 1906(d)][/us/pl/94/455/s1906/d], Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as otherwise expressly provided in this section, the amendments made by this section \[see Tables for classification\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].
 
->     “(2) __Amendments relating to income tax.—__ 
+>     “(2)  __Amendments relating to income tax__  __.—__ 
 
 >     The amendments made by this section, when relating to a tax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
 

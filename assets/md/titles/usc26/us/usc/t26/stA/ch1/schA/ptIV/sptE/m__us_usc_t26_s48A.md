@@ -417,15 +417,15 @@
 
 [Pub. L. 110–343, div. B, title I, § 111(e)][/us/pl/110/343/s111/e], Oct. 3, 2008, [122 Stat. 3823][/us/stat/122/3823], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to credits the application for which is submitted during the period described in section 48A(d)(2)(A)(ii) of the Internal Revenue Code of 1986 and which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].
 
->     “(2) __Disclosure of allocations.—__ 
+>     “(2)  __Disclosure of allocations__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply to certifications made after the date of the enactment of this Act.
 
->     “(3) __Clerical amendment.—__ 
+>     “(3)  __Clerical amendment__  __.—__ 
 
 >     The amendment made by subsection (c)(5) \[amending this section\] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 \[[Pub. L. 109–58][/us/pl/109/58]\].”
 

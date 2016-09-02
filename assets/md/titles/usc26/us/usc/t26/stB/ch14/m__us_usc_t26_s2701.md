@@ -393,7 +393,7 @@
 
 [Pub. L. 101–508, title XI, § 11602(e)(1)][/us/pl/101/508/s11602/e/1], Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[enacting this chapter\]—
 
@@ -409,7 +409,7 @@
 
 >         “(iii) to the extent such amendments relate to section 2704 of such Code (as so added), shall apply to restrictions or rights (or limitations on rights) created after October 8, 1990.
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     For purposes of subparagraph (A)(i), with respect to property transferred before October 9, 1990—
 

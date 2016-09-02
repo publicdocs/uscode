@@ -965,11 +965,11 @@
 
 [Pub. L. 99–514, title XI, § 1108(h)][/us/pl/99/514/s1108/h], Oct. 22, 1986, [100 Stat. 2435][/us/stat/100/2435], as amended by [Pub. L. 100–647, title I, § 1011(f)(7)][/us/pl/100/647/s1011/f/7], Nov. 10, 1988, [102 Stat. 3463][/us/stat/102/3463], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 402, 404, 408, 415, 3121, and 3306 of this title\] shall apply to years beginning after December 31, 1986.
 
->     “(2) __Integration rules.—__ 
+>     “(2)  __Integration rules__  __.—__ 
 
 >     Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954 (as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
 
@@ -985,11 +985,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 147(d)][/us/pl/98/369/s147/d], July 18, 1984, [98 Stat. 687][/us/stat/98/687], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 408 of this title][/us/usc/t26/s408]\] shall apply to contributions made after December 31, 1984.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending [section 6693 of this title][/us/usc/t26/s6693]\] shall apply to failures occurring after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -1033,11 +1033,11 @@
 
 >     “(5) __Estate and gift tax provisions.—__ 
 
->         “(A) __Estate tax.—__ 
+>         “(A)  __Estate tax__  __.—__ 
 
 >         The amendments made by subsections (d)(1) and (h)(4) \[amending [section 2039 of this title][/us/usc/t26/s2039]\] shall apply to the estates of decedents dying after December 31, 1981.
 
->         “(B) __Gift tax.—__ 
+>         “(B)  __Gift tax__  __.—__ 
 
 >         The amendments made by subsections (d)(2) and (h)(5) \[amending sections 2503 and 2517 of this title\] shall apply to transfers after December 31, 1981.”
 
@@ -1089,21 +1089,21 @@
 
 [Pub. L. 109–227, § 2(c)][/us/pl/109/227/s2/c], May 29, 2006, [120 Stat. 385][/us/stat/120/385], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of any taxpayer with respect to whom compensation was excluded from gross income under section 112 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 2003, and ending before the date of the enactment of this Act \[May 29, 2006\], any contribution to an individual retirement plan made on account of such taxable year and not later than the last day of the 3-year period beginning on the date of the enactment of this Act shall be treated, for purposes of such Code, as having been made on the last day of such taxable year.
 
 >     “(2) __Waiver of limitations.—__ 
 
->         “(A) __Credit or refund.—__ 
+>         “(A)  __Credit or refund__  __.—__ 
 
 >         If the credit or refund of any overpayment of tax resulting from a contribution to which paragraph (1) applies is prevented at any time by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date that such contribution is made (determined without regard to paragraph (1)).
 
->         “(B) __Assessment of deficiency.—__ 
+>         “(B)  __Assessment of deficiency__  __.—__ 
 
 >         The period for assessing a deficiency attributable to a contribution to which paragraph (1) applies shall not expire before the close of the 3-year period beginning on the date that such contribution is made. Such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
->     “(3) __Individual retirement plan defined.—__ 
+>     “(3)  __Individual retirement plan defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘individual retirement plan’ has the meaning given such term by section 7701(a)(37) of such Code.”
 
@@ -1111,7 +1111,7 @@
 
 [Pub. L. 100–203, title X, § 10103][/us/pl/100/203/s10103], Dec. 22, 1987, [101 Stat. 1330–386][/us/stat/101/1330-386], as amended by [Pub. L. 100–647, title II, § 2004(c)][/us/pl/100/647/s2004/c], Nov. 10, 1988, [102 Stat. 3599][/us/stat/102/3599], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     A Federal judge—
 
@@ -1119,7 +1119,7 @@
 
 >         “(2) shall be treated as an employee for purposes of chapter 1 of such Code.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of subsection (a) shall apply to taxable years beginning after December 31, 1987.”
 

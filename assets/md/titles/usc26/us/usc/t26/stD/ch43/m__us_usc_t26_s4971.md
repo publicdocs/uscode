@@ -325,7 +325,7 @@
 
 [Pub. L. 109–280, title II, § 214][/us/pl/109/280/s214], Aug. 17, 2006, [120 Stat. 918][/us/stat/120/918], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, no tax shall be imposed under subsection (a) or (b) of section 4971 of the Internal Revenue Code of 1986 with respect to any accumulated funding deficiency of a plan described in subsection (b) of this section for any taxable year beginning before the earlier of—
 
@@ -333,7 +333,7 @@
 
 >         “(2) the taxable year that contains January 1, 2009.
 
->     “(b) __Plan Described.—__ 
+>     “(b)  __Plan Described__  __.—__ 
 
 >     A plan described under this subsection is a multiemployer pension plan—
 

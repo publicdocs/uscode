@@ -147,11 +147,11 @@
 
 [Pub. L. 99–514, § 3(b)][/us/pl/99/514/s3/b], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), for purposes of section 15 of the Internal Revenue Code of 1986, no amendment or repeal made by this Act \[see Tables for classification\] shall be treated as a change in the rate of a tax imposed by chapter 1 of such Code.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Paragraph (1) shall not apply to the amendment made by section 601 \[amending [section 11 of this title][/us/usc/t26/s11]\] (relating to corporate rate reductions).”
 

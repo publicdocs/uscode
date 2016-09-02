@@ -197,11 +197,11 @@
 
 [Pub. L. 100–647, title V, § 5076(c)][/us/pl/100/647/s5076/c], Nov. 10, 1988, [102 Stat. 3683][/us/stat/102/3683], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to sales after December 31, 1988.
 
->     “(2) __Binding contract, etc.—__ 
+>     “(2)  __Binding contract, etc__  __.—__ 
 
 >     The amendments made by this section shall not apply to any sale on or before December 31, 1990, if—
 
@@ -223,15 +223,15 @@
 
 [Pub. L. 100–647, title VI, § 6031][/us/pl/100/647/s6031], Nov. 10, 1988, [102 Stat. 3695][/us/stat/102/3695], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtedness if such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Subsection (a) shall not apply to the extent that the principal amount of the indebtedness resulting from the refinancing exceeds the principal amount of the refinanced indebtedness immediately before the refinancing.
 
->     “(c) __Certain Refinancings Permitted.—__ 
+>     “(c)  __Certain Refinancings Permitted__  __.—__ 
 
 >     For purposes of subsection (a), if—
 

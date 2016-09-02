@@ -107,7 +107,9 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–95, title XI, § 1103(d)(1)][/us/pl/112/95/s1103/d/1], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: The amendments made by subsection (a) \[enacting this section and amending sections 4082 and 9502 of this title\] shall apply to fuel used after March 31, 2012.”
+[Pub. L. 112–95, title XI, § 1103(d)(1)][/us/pl/112/95/s1103/d/1], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: 
+
+> “The amendments made by subsection (a) \[enacting this section and amending sections 4082 and 9502 of this title\] shall apply to fuel used after March 31, 2012.”
 
 ----------
 

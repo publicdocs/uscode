@@ -665,11 +665,11 @@
 
 [Pub. L. 99–514, title XV, § 1567][/us/pl/99/514/s1567], Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of sections 132 and 274 of the Internal Revenue Code of 1954 \[now 1986\], use of an automobile by a special agent of the Internal Revenue Service shall be treated in the same manner as use of an automobile by an officer of any other law enforcement agency.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall take effect on January 1, 1985.”
 
@@ -703,7 +703,7 @@
 
 [Pub. L. 98–369, div. A, title V, § 531(g)][/us/pl/98/369/s531/g], as added by [Pub. L. 99–272, title XIII, § 13207(d)][/us/pl/99/272/s13207/d], Apr. 7, 1986, [100 Stat. 320][/us/stat/100/320]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If—
 
@@ -713,7 +713,7 @@
 
 >         then, with respect to such individual, such qualified air transportation organization shall be treated as engaged in the line of business of providing air transportation.
 
->     “(2) __Qualified air transportation organization.—__ 
+>     “(2)  __Qualified air transportation organization__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘qualified air transportation organization’ means any organization—
 

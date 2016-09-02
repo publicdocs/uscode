@@ -367,11 +367,11 @@
 
 [Pub. L. 99–514, title XV, § 1557(e)][/us/pl/99/514/s1557/e], Oct. 22, 1986, [100 Stat. 2757][/us/stat/100/2757], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 7448 of this title][/us/usc/t26/s7448]\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
 
->     “(2) __Forfeiture of retired pay.—__ 
+>     “(2)  __Forfeiture of retired pay__  __.—__ 
 
 >     The amendments made by this section shall not apply to any individual who, before the date of the enactment of this Act \[Oct. 22, 1986\], forfeited his rights to retired pay under section 7447(d) of the Internal Revenue Code of 1954 \[now 1986\] by reason of the 1st sentence of section 7447(f) of such Code (as in effect on the day before such date).”
 

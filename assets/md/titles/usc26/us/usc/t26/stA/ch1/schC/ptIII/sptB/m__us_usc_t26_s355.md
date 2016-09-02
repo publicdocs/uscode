@@ -591,17 +591,17 @@
 
 [Pub. L. 110–172, § 4(d)][/us/pl/110/172/s4/d], Dec. 29, 2007, [121 Stat. 2478][/us/stat/121/2478], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 911 and 954 of this title\] shall take effect as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005 \[[Pub. L. 109–222][/us/pl/109/222]\] to which they relate.
 
 >     “(2) __Modification of active business definition under section 355.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendments made by subsection (b) \[amending this section\] shall apply to distributions made after May 17, 2006.
 
->         “(B) __Transition rule.—__ 
+>         “(B)  __Transition rule__  __.—__ 
 
 >         The amendments made by subsection (b) shall not apply to any distribution pursuant to a transaction which is—
 
@@ -611,15 +611,15 @@
 
 >             “(iii) described on or before such date in a public announcement or in a filing with the Securities and Exchange Commission.
 
->         “(C) __Election out of transition rule.—__ 
+>         “(C)  __Election out of transition rule__  __.—__ 
 
 >         Subparagraph (B) shall not apply if the distributing corporation elects not to have such subparagraph apply to distributions of such corporation. Any such election, once made, shall be irrevocable.
 
->         “(D) __Special rule for certain pre-enactment distributions.—__ 
+>         “(D)  __Special rule for certain pre-enactment distributions__  __.—__ 
 
 >         For purposes of determining the continued qualification under section 355(b)(2)(A) of the Internal Revenue Code of 1986 of distributions made on or before May 17, 2006, as a result of an acquisition, disposition, or other restructuring after such date, such distribution shall be treated as made on the date of such acquisition, disposition, or restructuring for purposes of applying subparagraphs (A) through (C) of this paragraph. The preceding sentence shall only apply with respect to the corporation that undertakes such acquisition, disposition, or other restructuring, and only if such application results in continued qualification under section 355(b)(2)(A) of such Code.
 
->     “(3) __Amendment related to section 515 of the act.—__ 
+>     “(3)  __Amendment related to section 515 of the act__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending [section 911 of this title][/us/usc/t26/s911]\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -631,11 +631,11 @@
 
 [Pub. L. 109–222, title V, § 507(b)][/us/pl/109/222/s507/b], May 17, 2006, [120 Stat. 361][/us/stat/120/361], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[May 17, 2006\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution pursuant to a transaction which is—
 
@@ -659,15 +659,15 @@
 
 [Pub. L. 101–508, title XI, § 11321(c)][/us/pl/101/508/s11321/c], Nov. 5, 1990, [104 Stat. 1388–463][/us/stat/104/1388-463], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 361 of this title][/us/usc/t26/s361]\] shall apply to distributions after October 9, 1990.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such distribution.
 
->     “(3) __Transitional rules.—__ 
+>     “(3)  __Transitional rules__  __.—__ 
 
 >     For purposes of subparagraphs (A) and (B) of section 355(d)(3) of the Internal Revenue Code of 1986 (as amended by subsection (a)), an acquisition shall be treated as occurring on or before October 9, 1990, if—
 

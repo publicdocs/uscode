@@ -49,11 +49,11 @@
 
 [Pub. L. 109–59, title XI, § 11131(b)][/us/pl/109/59/s11131/b], Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.
 
->     “(2) __No inference.—__ 
+>     “(2)  __No inference__  __.—__ 
 
 >     Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment of any sales before the effective date of such amendments.”
 

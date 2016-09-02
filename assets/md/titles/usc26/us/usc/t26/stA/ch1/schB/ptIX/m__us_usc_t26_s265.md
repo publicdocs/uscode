@@ -353,11 +353,11 @@
 
 [Pub. L. 99–514, title IX, § 902(f)][/us/pl/99/514/s902/f], Oct. 22, 1986, [100 Stat. 2382][/us/stat/100/2382], as amended by [Pub. L. 100–647, title I, § 1009(b)(1)][/us/pl/100/647/s1009/b/1], (2), (7), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], 3446, 3449, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 163, 291, and 1277 of this title\] shall apply to taxable years ending after December 31, 1986.
 
->     “(2) __Obligations acquired pursuant to certain commitments.—__ 
+>     “(2)  __Obligations acquired pursuant to certain commitments__  __.—__ 
 
 >     For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
 
@@ -367,7 +367,7 @@
 
 >         shall be treated as an obligation acquired before August 8, 1986.
 
->     “(3) __Transitional rules.—__ 
+>     “(3)  __Transitional rules__  __.—__ 
 
 >     For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, obligations with respect to any of the following projects shall be treated as obligations acquired before August 8, 1986, in the hands of the first and any subsequent financial institution acquiring such obligations:
 
@@ -417,7 +417,7 @@
 
 >         “(V) O.K. Industries, Oklahoma.
 
->     “(4) __Additional transitional rule.—__ 
+>     “(4)  __Additional transitional rule__  __.—__ 
 
 >     Obligations issued pursuant to an allocation of a State’s volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000.”
 

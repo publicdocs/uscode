@@ -43,7 +43,7 @@
 
             (C) No loss shall be recognized.
 
-            (D) __Treatment as dividend.—__ 
+            (D)  __Treatment as dividend__  __.—__ 
 
             For purposes of section 1(h)(11) and such other provisions as the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
 

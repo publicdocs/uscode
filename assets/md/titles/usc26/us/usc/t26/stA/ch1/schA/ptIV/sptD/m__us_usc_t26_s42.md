@@ -2015,27 +2015,27 @@
 
 [Pub. L. 110–289, div. C, title I, § 3003(h)][/us/pl/110/289/s3003/h], July 30, 2008, [122 Stat. 2882][/us/stat/122/2882], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in paragraph (2), the amendments made by this subsection \[probably means this section, amending this section\] shall apply to buildings placed in service after the date of the enactment of this Act \[July 30, 2008\].
 
 >     “(2) __Rehabilitation requirements.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (b) \[amending this section\] shall apply to buildings with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\].
 
->         “(B) __Buildings not subject to allocation limits.—__ 
+>         “(B)  __Buildings not subject to allocation limits__  __.—__ 
 
 >         To the extent paragraph (1) of section 42(h) of the Internal Revenue Code of 1986 does not apply to any building by reason of paragraph (4) thereof, the amendments made by subsection (b) \[amending this section\] shall apply \[to\] buildings financed with bonds issued pursuant to allocations made after the date of the enactment of this Act \[July 30, 2008\].”
 
 [Pub. L. 110–289, div. C, title I, § 3004(i)][/us/pl/110/289/s3004/i], July 30, 2008, [122 Stat. 2884][/us/stat/122/2884], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to buildings placed in service after the date of the enactment of this Act \[July 30, 2008\].
 
->     “(2) __Repeal of bonding requirement on disposition of building.—__ 
+>     “(2)  __Repeal of bonding requirement on disposition of building__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to—
 
@@ -2049,19 +2049,19 @@
 
 >             “(ii) the taxpayer elects the application of this subparagraph with respect to such disposition.
 
->     “(3) __Energy efficiency and historic nature taken into account in making allocations.—__ 
+>     “(3)  __Energy efficiency and historic nature taken into account in making allocations__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to allocations made after December 31, 2008.
 
->     “(4) __Continued eligibility for students who received foster care assistance.—__ 
+>     “(4)  __Continued eligibility for students who received foster care assistance__  __.—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall apply to determinations made after the date of the enactment of this Act \[July 30, 2008\].
 
->     “(5) __Treatment of rural projects.—__ 
+>     “(5)  __Treatment of rural projects__  __.—__ 
 
 >     The amendment made by subsection (f) \[amending this section\] shall apply to determinations made after the date of the enactment of this Act \[July 30, 2008\].
 
->     “(6) __Clarification of general public use requirement.—__ 
+>     “(6)  __Clarification of general public use requirement__  __.—__ 
 
 >     The amendment made by subsection (g) \[amending this section\] shall apply to buildings placed in service before, on, or after the date of the enactment of this Act \[July 30, 2008\].”
 
@@ -2109,7 +2109,7 @@
 
 [Pub. L. 103–66, title XIII, § 13142(b)(6)][/us/pl/103/66/s13142/b/6], Aug. 10, 1993, [107 Stat. 439][/us/stat/107/439], as amended by [Pub. L. 104–188, title I, § 1703(b)][/us/pl/104/188/s1703/b], Aug. 20, 1996, [110 Stat. 1875][/us/stat/110/1875], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraphs (B) and (C), the amendments made by this subsection \[amending this section\] shall apply to—
 
@@ -2117,11 +2117,11 @@
 
 >         “(ii) buildings placed in service after June 30, 1992, to the extent paragraph (1) of section 42(h) of such Code does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date.
 
->     “(B) __Full-time students, waiver authority, and prohibited discrimination.—__ 
+>     “(B)  __Full-time students, waiver authority, and prohibited discrimination__  __.—__ 
 
 >     The amendments made by paragraphs (2), (3), and (4) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].
 
->     “(C) __HOME assistance.—__ 
+>     “(C)  __HOME assistance__  __.—__ 
 
 >     The amendment made by paragraph (5) \[amending this section\] shall apply to periods after the date of the enactment of this Act.”
 
@@ -2139,7 +2139,7 @@
 
 [Pub. L. 101–508, title XI, § 11407(b)(10)][/us/pl/101/508/s11407/b/10], Nov. 5, 1990, [104 Stat. 1388–476][/us/stat/104/1388-476], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section\] shall apply to—
 
@@ -2147,15 +2147,15 @@
 
 >         “(ii) buildings placed in service after December 31, 1990, to the extent paragraph (1) of section 42(h) of such Code does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date.
 
->     “(B) __Tenant rights, etc.—__ 
+>     “(B)  __Tenant rights, etc__  __.—__ 
 
 >     The amendments made by paragraphs (1), (6), (8), and (9) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].
 
->     “(C) __Monitoring.—__ 
+>     “(C)  __Monitoring__  __.—__ 
 
 >     The amendment made by paragraph (2) \[amending this section\] shall take effect on January 1, 1992, and shall apply to buildings placed in service before, on, or after such date.
 
->     “(D) __Study.—__ 
+>     “(D)  __Study__  __.—__ 
 
 >     The Inspector General of the Department of Housing and Urban Development and the Secretary of the Treasury shall jointly conduct a study of the effectiveness of the amendment made by paragraph (5) \[amending this section\] in carrying out the purposes of section 42 of the Internal Revenue Code of 1986. The report of such study shall be submitted not later than January 1, 1993, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
@@ -2173,15 +2173,15 @@
 
 [Pub. L. 101–508, title XI, § 11812(c)][/us/pl/101/508/s11812/c], Nov. 5, 1990, [104 Stat. 1388–536][/us/stat/104/1388-536], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 167, 168, 312, 381, 404, 460, 642, 1016, 1250, and 7701 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Nov. 5, 1990\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property to which section 168 of the Internal Revenue Code of 1986 does not apply by reason of subsection (f)(5) thereof.
 
->     “(3) __Exception for previously grandfather expenditures.—__ 
+>     “(3)  __Exception for previously grandfather expenditures__  __.—__ 
 
 >     The amendments made by this section shall not apply to rehabilitation expenditures described in section 252(f)(5) of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514]\] (as added by section 1002(l)(31) of the Technical and Miscellaneous Revenue Act of 1988 \[see Transitional Rules note below\]).”
 
@@ -2191,31 +2191,31 @@
 
 [Pub. L. 101–239, title VII, § 7108(r)][/us/pl/101/239/s7108/r], Dec. 19, 1989, [103 Stat. 2321][/us/stat/103/2321], as amended by [Pub. L. 101–508, title XI, § 11701(a)(11)][/us/pl/101/508/s11701/a/11], (12), Nov. 5, 1990, [104 Stat. 1388–507][/us/stat/104/1388-507]; [Pub. L. 104–188, title I, § 1702(g)(5)(A)][/us/pl/104/188/s1702/g/5/A], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 142 of this title][/us/usc/t26/s142]\] shall apply to determinations under section 42 of the Internal Revenue Code of 1986 with respect to housing credit dollar amounts allocated from State housing credit ceilings for calendar years after 1989.
 
->     “(2) __Buildings not subject to allocation limits.—__ 
+>     “(2)  __Buildings not subject to allocation limits__  __.—__ 
 
 >     Except as otherwise provided in this subsection, to the extent paragraph (1) of section 42(h) of such Code does not apply to any building by reason of paragraph (4) thereof, the amendments made by this section shall apply to buildings placed in service after December 31, 1989.
 
->     “(3) __One-year carryover of unused credit authority, etc.—__ 
+>     “(3)  __One-year carryover of unused credit authority, etc__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to calendar years after 1989, but clauses (ii), (iii), and (iv) of section 42(h)(3)(C) of such Code (as added by this section) shall be applied without regard to allocations for 1989 or any preceding year.
 
->     “(4) __Additional buildings eligible for waiver of 10-year rule.—__ 
+>     “(4)  __Additional buildings eligible for waiver of 10-year rule__  __.—__ 
 
 >     The amendments made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].
 
->     “(5) __Certifications with respect to 1st year of credit period.—__ 
+>     “(5)  __Certifications with respect to 1st year of credit period__  __.—__ 
 
 >     The amendment made by subsection (p) \[amending this section\] shall apply to taxable years ending on or after December 31, 1989.
 
->     “(6) __Certain rules which apply to bonds.—__ 
+>     “(6)  __Certain rules which apply to bonds__  __.—__ 
 
 >     Paragraphs (1)(D) and (2)(D) of section 42(m) of such Code, as added by this section, shall apply to obligations issued after December 31, 1989.
 
->     “(7) __Clarifications.—__ 
+>     “(7)  __Clarifications__  __.—__ 
 
 >     The amendments made by the following provisions of this section shall apply as if included in the amendments made by section 252 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], enacting this section and amending sections 38 and 55 of this title\]:
 
@@ -2223,7 +2223,7 @@
 
 >         “(B) Subsection (l) (relating to eligible basis for new buildings to include expenditures before close of 1st year of credit period) \[amending this section\].
 
->     “(8) __Guidance on difficult development areas and posting of bond to avoid recapture.—__ 
+>     “(8)  __Guidance on difficult development areas and posting of bond to avoid recapture__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\]—
 
@@ -2251,11 +2251,11 @@
 
 [Pub. L. 100–647, title IV, § 4004(b)][/us/pl/100/647/s4004/b], Nov. 10, 1988, [102 Stat. 3644][/us/stat/102/3644], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 252 of the Reform Act \[[section 252 of Pub. L. 99–514][/us/pl/99/514/s252], enacting this section and amending sections 38 and 55 of this title\].
 
->     “(2) __Period for election.—__ 
+>     “(2)  __Period for election__  __.—__ 
 
 >     The period for electing not to have section 42(j)(5) of the 1986 Code apply to any partnership shall not expire before the date which is 6 months after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -2269,11 +2269,11 @@
 
 [Pub. L. 99–514, title II, § 252(e)][/us/pl/99/514/s252/e], Oct. 22, 1986, [100 Stat. 2205][/us/stat/100/2205], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 38 and 55 of this title\] shall apply to buildings placed in service after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Special rule for rehabilitation expenditures.—__ 
+>     “(2)  __Special rule for rehabilitation expenditures__  __.—__ 
 
 >     Subsection (e) of section 42 of the Internal Revenue Code of 1986 (as added by this section) shall apply for purposes of paragraph (1).”
 
@@ -2285,11 +2285,11 @@
 
 [Pub. L. 111–5, div. B, title I, § 1602][/us/pl/111/5/s1602], Feb. 17, 2009, [123 Stat. 362][/us/stat/123/362], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall make a grant to the housing credit agency of each State in an amount equal to such State’s low-income housing grant election amount.
 
->     “(b) __Low-Income Housing Grant Election Amount.—__ 
+>     “(b)  __Low-Income Housing Grant Election Amount__  __.—__ 
 
 >     For purposes of this section, the term ‘low-income housing grant election amount’ means, with respect to any State, such amount as the State may elect which does not exceed 85 percent of the product of—
 
@@ -2305,31 +2305,31 @@
 
 >     “(c) __Subawards for Low-Income Buildings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A State housing credit agency receiving a grant under this section shall use such grant to make subawards to finance the construction or acquisition and rehabilitation of qualified low-income buildings. A subaward under this section may be made to finance a qualified low-income building with or without an allocation under section 42 of the Internal Revenue Code of 1986, except that a State housing credit agency may make subawards to finance qualified low-income buildings without an allocation only if it makes a determination that such use will increase the total funds available to the State to build and rehabilitate affordable housing. In complying with such determination requirement, a State housing credit agency shall establish a process in which applicants that are allocated credits are required to demonstrate good faith efforts to obtain investment commitments for such credits before the agency makes such subawards.
 
->         “(2) __Subawards subject to same requirements as low-income housing credit allocations.—__ 
+>         “(2)  __Subawards subject to same requirements as low-income housing credit allocations__  __.—__ 
 
 >         Any such subaward with respect to any qualified low-income building shall be made in the same manner and shall be subject to the same limitations (including rent, income, and use restrictions on such building) as an allocation of housing credit dollar amount allocated by such State housing credit agency under section 42 of the Internal Revenue Code of 1986, except that such subawards shall not be limited by, or otherwise affect (except as provided in subsection (h)(3)(J) of such section \[section 42(h)(3) has no subpar. (J)\]), the State housing credit ceiling applicable to such agency.
 
->         “(3) __Compliance and asset management.—__ 
+>         “(3)  __Compliance and asset management__  __.—__ 
 
 >         The State housing credit agency shall perform asset management functions to ensure compliance with section 42 of the Internal Revenue Code of 1986 and the long-term viability of buildings funded by any subaward under this section. The State housing credit agency may collect reasonable fees from a subaward recipient to cover expenses associated with the performance of its duties under this paragraph. The State housing credit agency may retain an agent or other private contractor to satisfy the requirements of this paragraph.
 
->         “(4) __Recapture.—__ 
+>         “(4)  __Recapture__  __.—__ 
 
 >         The State housing credit agency shall impose conditions or restrictions, including a requirement providing for recapture, on any subaward under this section so as to assure that the building with respect to which such subaward is made remains a qualified low-income building during the compliance period. Any such recapture shall be payable to the Secretary of the Treasury for deposit in the general fund of the Treasury and may be enforced by means of liens or such other methods as the Secretary of the Treasury determines appropriate.
 
->     “(d) __Return of Unused Grant Funds.—__ 
+>     “(d)  __Return of Unused Grant Funds__  __.—__ 
 
 >     Any grant funds not used to make subawards under this section before January 1, 2011, shall be returned to the Secretary of the Treasury on such date. Any subawards returned to the State housing credit agency on or after such date shall be promptly returned to the Secretary of the Treasury. Any amounts returned to the Secretary of the Treasury under this subsection shall be deposited in the general fund of the Treasury.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     Any term used in this section which is also used in section 42 of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this section as when used in such section 42. Any reference in this section to the Secretary of the Treasury shall be treated as including the Secretary’s delegate.
 
->     “(f) __Appropriations.—__ 
+>     “(f)  __Appropriations__  __.—__ 
 
 >     There is hereby appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this section.”
 
@@ -2349,15 +2349,15 @@
 
 [Pub. L. 101–508, title XI, § 11407(c)][/us/pl/101/508/s11407/c], Nov. 5, 1990, [104 Stat. 1388–476][/us/stat/104/1388-476], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     At the election of an individual, the credit determined under section 42 of the Internal Revenue Code of 1986 for the taxpayer’s first taxable year ending on or after October 25, 1990, shall be 150 percent of the amount which would (but for this paragraph) be so allowable with respect to investments held by such individual on or before October 25, 1990.
 
->     “(2) __Reduction in aggregate credit to reflect increased 1990 credit.—__ 
+>     “(2)  __Reduction in aggregate credit to reflect increased__  __1990__  __credit__  __.—__ 
 
 >     The aggregate credit allowable to any person under section 42 of such Code with respect to any investment for taxable years after the first taxable year referred to in paragraph (1) shall be reduced on a pro rata basis by the amount of the increased credit allowable by reason of paragraph (1) with respect to such first taxable year. The preceding sentence shall not be construed to affect whether any taxable year is part of the credit, compliance, or extended use periods.
 
->     “(3) __Election.—__ 
+>     “(3)  __Election__  __.—__ 
 
 >     The election under paragraph (1) shall be made at the time and in the manner prescribed by the Secretary of the Treasury or his delegate, and, once made, shall be irrevocable. In the case of a partnership, such election shall be made by the partnership.”
 
@@ -2377,7 +2377,7 @@
 
 >     “(1) __Limitation to non-acrs buildings not to apply to certain buildings, etc.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a building which is part of a project described in subparagraph (B)—
 
@@ -2389,7 +2389,7 @@
 
 >             “(iv) the amendments made by section 803 \[enacting [section 263A of this title][/us/usc/t26/s263A], amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall not apply.
 
->         “(B) __Project described.—__ 
+>         “(B)  __Project described__  __.—__ 
 
 >         A project is described in this subparagraph if—
 
@@ -2399,11 +2399,11 @@
 
 >             “(iii) the number assigned to such project by the Federal Housing Administration is 023–36602.
 
->         “(C) __Additional units eligible for credit.—__ 
+>         “(C)  __Additional units eligible for credit__  __.—__ 
 
 >         In the case of a building to which subparagraph (A) applies and which is part of a project which meets the requirements of subparagraph (D), for each low-income unit in such building which is occupied by individuals whose income is 30 percent or less of area median gross income, one additional unit (not otherwise a low-income unit) in such building shall be treated as a low-income unit for purposes of such section 42.
 
->         “(D) __Project described.—__ 
+>         “(D)  __Project described__  __.—__ 
 
 >         A project is described in this subparagraph if—
 
@@ -2417,13 +2417,13 @@
 
 >             “(v) for a 20-year period, 20 percent or more of the residential units in such project are occupied by individuals whose income is 50 percent or less of area median gross income.
 
->         “(E) __Maximum additional credit.—__ 
+>         “(E)  __Maximum additional credit__  __.—__ 
 
 >         The maximum present value of additional credits allowable under section 42 of such Code by reason of subparagraph (C) shall not exceed 25 percent of the eligible basis of the building.
 
 >     “(2) __Additional allocation of housing credit ceiling.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         There is hereby allocated to each housing credit agency described in subparagraph (B) an additional housing credit dollar amount determined in accordance with the following table:
 
@@ -2509,7 +2509,7 @@
 
 >         </table>
 
->         “(B) __Housing credit agencies described.—__ 
+>         “(B)  __Housing credit agencies described__  __.—__ 
 
 >         The housing credit agencies described in this subparagraph are:
 
@@ -2519,7 +2519,7 @@
 
 >             “(iii) The State housing finance agency referred to in subparagraph (C), but only with respect to projects described in subparagraph (C).
 
->         “(C) __Project described.—__ 
+>         “(C)  __Project described__  __.—__ 
 
 >         A project is described in this subparagraph if such project is a qualified low-income housing project which—
 
@@ -2541,7 +2541,7 @@
 
 >             “(ii) Section 42(c)(2)(B) of the Internal Revenue Code of 1986 shall not apply to any building which is allocated any housing credit dollar amount by any agency described in subparagraph (B).
 
->         “(E) __All units treated as low income units in certain cases.—__ 
+>         “(E)  __All units treated as low income units in certain cases__  __.—__ 
 
 >         In the case of any building—
 
@@ -2553,7 +2553,7 @@
 
 >     “(3) __Certain projects placed in service before 1987.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a building which is part of a project described in subparagraph (B)—
 
@@ -2563,7 +2563,7 @@
 
 >             “(iii) for purposes of section 42(h) of such Code, such building shall be treated as having allocated to it a housing credit dollar amount equal to the dollar amount appearing in the clause of subparagraph (B) in which such building is described.
 
->         “(B) __Project described.—__ 
+>         “(B)  __Project described__  __.—__ 
 
 >         A project is described in this subparagraph if the code number assigned to such project by the Farmers’ Home Administration appears in the following table:
 
@@ -2705,19 +2705,19 @@
 
 >         </table>
 
->         “(C) __Determination of adjusted basis.—__ 
+>         “(C)  __Determination of adjusted basis__  __.—__ 
 
 >         The adjusted basis of any building to which this paragraph applies for purposes of section 42 of such Code shall be its adjusted basis as of the close of the taxable year ending before the first taxable year of the credit period for such building.
 
->         “(D) __Certain rules to apply.—__ 
+>         “(D)  __Certain rules to apply__  __.—__ 
 
 >         Rules similar to the rules of subparagraph (E) of paragraph (2) shall apply for purposes of this paragraph.
 
->     “(4) __Definitions.—__ 
+>     “(4)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, terms used in such subsection which are also used in section 42 of the Internal Revenue Code of 1986 (as added by this section) shall have the meanings given such terms by such section 42.
 
->     “(5) __Transitional rule.—__ 
+>     “(5)  __Transitional rule__  __.—__ 
 
 >     In the case of any rehabilitation expenditures incurred with respect to units located in the neighborhood strategy area within the community development block grant program in Ft. Wayne, Indiana—
 

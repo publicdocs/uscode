@@ -445,15 +445,15 @@
 
 [Pub. L. 110–245, title I, § 109(d)][/us/pl/110/245/s109/d], June 17, 2008, [122 Stat. 1633][/us/stat/122/1633], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided by paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 530 of this title][/us/usc/t26/s530]\] shall apply with respect to deaths from injuries occurring on or after the date of the enactment of this Act \[June 17, 2008\].
 
->     “(2) __Application of amendments to deaths from injuries occurring on or after__  __october 7, 2001__  __, and before enactment.—__ 
+>     “(2)  __Application of amendments to deaths from injuries occurring on or after __  __october 7, 2001__  __, and before enactment__  __.—__ 
 
 >     The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under [section 1477 of title 10][/us/usc/t10/s1477], United States Code, or under [section 1967 of title 38][/us/usc/t38/s1967] of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment of this Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
 
->     “(3) __Pension protection act changes.—__ 
+>     “(3)  __Pension protection act changes__  __.—__ 
 
 >     Section 408A(e)(1) of the Internal Revenue Code of 1986 (as in effect after the amendments made by subsection (b)) shall apply to taxable years beginning after December 31, 2007.”
 
@@ -493,17 +493,17 @@
 
 [Pub. L. 110–458, title I, § 125][/us/pl/110/458/s125], Dec. 23, 2008, [122 Stat. 5115][/us/stat/122/5115], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Dec. 23, 2008\]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
 
->     “(b) __Definitions and Special Rules.—__ 
+>     “(b)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
 >         “(1) __Airline payment amount.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘airline payment amount’ means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
@@ -513,11 +513,11 @@
 
 >                   The amount of such payment shall be determined without regard to any requirement to deduct and withhold tax from such payment under sections 3102(a) and 3402(a).
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             An airline payment amount shall not include any amount payable on the basis of the carrier’s future earnings or profits.
 
->         “(2) __Qualified airline employee.—__ 
+>         “(2)  __Qualified airline employee__  __.—__ 
 
 >         The term ‘qualified airline employee’ means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
 
@@ -525,7 +525,7 @@
 
 >             “(B) was terminated or became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280], [26 U.S.C. 430][/us/usc/t26/s430] note\].
 
->         “(3) __Reporting requirements.—__ 
+>         “(3)  __Reporting requirements__  __.—__ 
 
 >         If a commercial passenger airline carrier pays 1 or more airline payment amounts, the carrier shall, within 90 days of such payment (or, if later, within 90 days of the date of the enactment of this Act \[Dec. 23, 2008\]), report—
 
@@ -535,7 +535,7 @@
 
 >             Such reports shall be in such form, and contain such additional information, as the Secretary may prescribe.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to transfers made after the date of the enactment of this Act \[Dec. 23, 2008\] with respect to airline payment amounts paid before, on, or after such date.”
 

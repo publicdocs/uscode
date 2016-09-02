@@ -287,17 +287,17 @@
 
 [Pub. L. 95–600, title III, § 322(e)][/us/pl/95/600/s322/e], Nov. 6, 1978, [92 Stat. 2839][/us/stat/92/2839], as amended by [Pub. L. 96–178, § 6(a)][/us/pl/96/178/s6/a], (b), Jan. 2, 1980, [93 Stat. 1297][/us/stat/93/1297]; [Pub. L. 96–222, title I, § 103(a)(7)(A)][/us/pl/96/222/s103/a/7/A], (B), Apr. 1, 1980, [94 Stat. 211][/us/stat/94/211]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 50A and 50B of this title\] shall apply to work incentive program expenses paid or incurred after December 31, 1978, in taxable years ending after such date; except that so much of the amendment made by subsection (a) as affects section 50A(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to taxable years beginning after December 31, 1978. For purposes of applying section 50A(a)(2) of the Internal Revenue Code of 1986 with respect to a taxable year beginning before January 1, 1979, the rules of sections 50A(a)(4), 50A(a)(5), and 50B(e)(3) of such Code (as in effect on the day before the date of the enactment of this Act \[Nov. 6, 1978\] shall apply.
 
 >     “(2) __Special rules for certain eligible employees.—__ 
 
->         “(A) __Eligible employees hired before__  __september 27, 1978__  __.—__ 
+>         “(A)  __Eligible employees hired before __  __september 27, 1978__  __.—__ 
 
 >         In the case of any eligible employee (as defined in section 50B(h)) hired before September 27, 1978, no credit shall be allowed under section 40 with respect to second-year work incentive program expenses (as defined in section 50B(a)) attributable to service performed by such employee.
 
->         “(B) __Eligible employees hired after__  __september 26, 1978__  __.—__ 
+>         “(B)  __Eligible employees hired after __  __september 26, 1978__  __.—__ 
 
 >         In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date.”
 

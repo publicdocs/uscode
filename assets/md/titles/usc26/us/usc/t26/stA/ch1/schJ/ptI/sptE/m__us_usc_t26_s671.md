@@ -23,11 +23,11 @@
 
 [Pub. L. 99–514, title VI, § 646][/us/pl/99/514/s646], Oct. 22, 1986, [100 Stat. 2292][/us/stat/100/2292], as amended by [Pub. L. 100–647, title I, § 1006(k)][/us/pl/100/647/s1006/k], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986, if the entity described in subsection (b) makes an election under subsection (c), such entity shall be treated as a trust to which subpart E of part 1 of subchapter J of chapter 1 of such Code applies.
 
->     “(b) __Entity.—__ 
+>     “(b)  __Entity__  __.—__ 
 
 >     An entity is described in this subsection if—
 
@@ -39,7 +39,7 @@
 
 >     “(c) __Election.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An election under this subsection to have the provisions of this section apply—
 
@@ -49,11 +49,11 @@
 
 >         “(2) __Agreement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The agreement described in this paragraph is a written agreement signed by the board of trustees of the entity which provides that the entity will not acquire any additional property other than property described in subparagraph (B).
 
->             “(B) __Permissible acquisitions.—__ 
+>             “(B)  __Permissible acquisitions__  __.—__ 
 
 >             Property is described in this paragraph if it is—
 
@@ -77,17 +77,17 @@
 
 >                 “(iv) part of any required reserves of the entity.
 
->         “(3) __Beginning of period for which election is in effect.—__ 
+>         “(3)  __Beginning of period for which election is in effect__  __.—__ 
 
 >         The period during which an election is in effect under this subsection shall begin on the 1st day of the 1st taxable year beginning after the date of the enactment of this Act \[Oct. 22, 1986\] and following the taxable year in which the election is made.
 
->         “(4) __Manner of election.—__ 
+>         “(4)  __Manner of election__  __.—__ 
 
 >         Any election under this subsection shall be made in such manner as the Secretary of the Treasury or his delegate may prescribe.
 
 >     “(d) __Special Rules for Taxation of Trust.—__ 
 
->         “(1) __Election treated as a liquidation.—__ 
+>         “(1)  __Election treated as a liquidation__  __.—__ 
 
 >         If an election is made under subsection (c) with respect to any entity—
 
@@ -103,15 +103,15 @@
 
 >             The amendments made by subtitle D of this title \[subtitle D (§§ 631–634) of title VI of [Pub. L. 99–514][/us/pl/99/514], see Tables for classification\] and section 1804 of this Act \[see Tables for classification\] shall not apply to any liquidation under this paragraph.
 
->         “(2) __Termination of election.—__ 
+>         “(2)  __Termination of election__  __.—__ 
 
 >         If an entity ceases to be described in subsection (b) or violates any term of the agreement described in subsection (c)(2), the entity shall, for purposes of the Internal Revenue Code of 1986, be treated as a corporation for the taxable year in which such cessation or violation occurs and for all subsequent taxable years.
 
->         “(3) __Trust ceasing to exist.—__ 
+>         “(3)  __Trust ceasing to exist__  __.—__ 
 
 >         Paragraph (2) shall not apply if the trust ceases to be described in subsection (b) or violates the agreement in subsection (c)(2) because the trust ceases to exist.
 
->     “(e) __Special Rule for Persons Holding Income Interests.—__ 
+>     “(e)  __Special Rule for Persons Holding Income Interests__  __.—__ 
 
 >     In applying subpart E of part I of subchapter J of chapter 1 of the Internal Revenue Code of 1986 to any entity to which this section applies—
 

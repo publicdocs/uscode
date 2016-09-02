@@ -511,13 +511,13 @@
 
 [Pub. L. 98–369, div. A, title X, § 1021(e)][/us/pl/98/369/s1021/e], July 18, 1984, [98 Stat. 1026][/us/stat/98/1026], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].
 
 >     “(2) __Special rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         At the election of the executor, if—
 
@@ -527,7 +527,7 @@
 
 >             then all other corporations all of the stock of which is owned directly or indirectly by the corporation described in clauses (i) and (ii) shall be treated as one corporation for purposes of section 6166 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->         “(B) __Effect of election.—__ 
+>         “(B)  __Effect of election__  __.—__ 
 
 >         Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
 
@@ -539,11 +539,11 @@
 
 [Pub. L. 97–34, title IV, § 422(f)][/us/pl/97/34/s422/f], Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing [section 6166A of this title][/us/usc/t26/s6166A]\] shall apply to the estates of decedents dying after December 31, 1981.
 
->     “(2) __Acceleration by reason of subsequent death.—__ 
+>     “(2)  __Acceleration by reason of subsequent death__  __.—__ 
 
 >     The amendment made by subsection (c)(3) \[amending this section\] shall apply to transfers after December 31, 1981.”
 

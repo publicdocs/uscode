@@ -47,7 +47,7 @@
 
         (4) __Subtitle D__ 
 
-            Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1 and so much of section 4082(c)1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
+            Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1 and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
 
         (5) __Subtitle E__ 
 

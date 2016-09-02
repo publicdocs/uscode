@@ -307,21 +307,21 @@
 
 [Pub. L. 112–40, title II, § 242(b)][/us/pl/112/40/s242/b], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, [section 1181 of Title 29][/us/usc/t29/s1181], Labor, and sections 300gg and 300gg–3 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after February 12, 2011.
 
 >     “(2) __Transitional rules.—__ 
 
->         “(A) __Benefit determinations.—__ 
+>         “(A)  __Benefit determinations__  __.—__ 
 
 >         Notwithstanding the amendments made by this section (and the provisions of law amended thereby), a plan shall not be required to modify benefit determinations for the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act \[Oct. 21, 2011\], but a plan shall not fail to be qualified health insurance within the meaning of section 35(e) of the Internal Revenue Code of 1986 during this period merely due to such failure to modify benefit determinations.
 
->         “(B) __Guidance concerning periods before 30 days after enactment.—__ 
+>         “(B)  __Guidance concerning periods before 30 days after enactment__  __.—__ 
 
 >         Except as provided in subparagraph (A), the Secretary of the Treasury (or his designee), in consultation with the Secretary of Health and Human Services and the Secretary of Labor, may issue regulations or other guidance regarding the scope of the application of the amendments made by this section to periods before the date which is 30 days after the date of the enactment of this Act.
 
->         “(C) __Special rule relating to certain loss of coverage.—__ 
+>         “(C)  __Special rule relating to certain loss of coverage__  __.—__ 
 
 >         In the case of a TAA-related loss of coverage (as defined in section 4980B(f)(5)(C)(iv) of the Internal Revenue Code of 1986) that occurs during the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act, the 7-day period described in section 9801(c)(2)(D) of the Internal Revenue Code of 1986, section 701(c)(2)(C) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1181(c)(2)(C)][/us/usc/t29/s1181/c/2/C]\], and section 2701(c)(2)(C) of the Public Health Service Act \[renumbered section 2704(c)(2)(C), see [42 U.S.C. 300gg–3(c)(2)(C)][/us/usc/t42/s300gg–3/c/2/C]\] shall be extended until 30 days after such date of enactment.”
 
@@ -349,7 +349,7 @@
 
 [Pub. L. 104–191, title IV, § 401(c)][/us/pl/104/191/s401/c], Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subtitle\] shall apply to plan years beginning after June 30, 1997.
 
@@ -357,29 +357,29 @@
 
 >         “(A) __Period of coverage.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Subject to clause (ii), no period before July 1, 1996, shall be taken into account under chapter 100 of the Internal Revenue Code of 1986 (as added by this section) in determining creditable coverage.
 
->             “(ii) __Special rule for certain periods.—__ 
+>             “(ii)  __Special rule for certain periods__  __.—__ 
 
 >             The Secretary of the Treasury, consistent with section 104 \[[42 U.S.C. 300gg–92][/us/usc/t42/s300gg–92] note\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
 >         “(B) __Certifications, etc.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Subject to clauses (ii) and (iii), subsection (e) of section 9801 of the Internal Revenue Code of 1986 (as added by this section) shall apply to events occurring after June 30, 1996.
 
->             “(ii) __No certification required to be provided before__  __june 1, 1997__  __.—__ 
+>             “(ii)  __No certification required to be provided before __  __june 1, 1997__  __.—__ 
 
 >             In no case is a certification required to be provided under such subsection before June 1, 1997.
 
->             “(iii) __Certification only on written request for events occurring before__  __october 1, 1996__  __.—__ 
+>             “(iii)  __Certification only on written request for events occurring before __  __october 1, 1996__  __.—__ 
 
 >             In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
->         “(C) __Transitional rule.—__ 
+>         “(C)  __Transitional rule__  __.—__ 
 
 >         In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event occurring before June 30, 1996—
 
@@ -387,7 +387,7 @@
 
 >             “(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan’s or issuer’s crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section.
 
->     “(3) __Special rule for collective bargaining agreements.—__ 
+>     “(3)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
@@ -397,11 +397,11 @@
 
 >         For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.
 
->     “(4) __Timely regulations.—__ 
+>     “(4)  __Timely regulations__  __.—__ 
 
 >     The Secretary of the Treasury, consistent with section 104, shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
 
->     “(5) __Limitation on actions.—__ 
+>     “(5)  __Limitation on actions__  __.—__ 
 
 >     No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
 

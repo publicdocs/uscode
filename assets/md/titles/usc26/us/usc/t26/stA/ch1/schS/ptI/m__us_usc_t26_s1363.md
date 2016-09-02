@@ -153,11 +153,11 @@
 
 [Pub. L. 100–203, title X, § 10227(b)][/us/pl/100/203/s10227/b], Dec. 22, 1987, [101 Stat. 1330–417][/us/stat/101/1330-417], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2) the amendment made by subsection (a) \[amending this section\] shall apply in the case of elections made after December 17, 1987.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply in the case of any election made by a corporation after December 17, 1987, and before January 1, 1989, if, on or before December 17, 1987—
 

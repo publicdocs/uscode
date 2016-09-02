@@ -255,21 +255,21 @@
 
 [Pub. L. 98–369, div. A, title I, § 131(g)][/us/pl/98/369/s131/g], July 18, 1984, [98 Stat. 665][/us/stat/98/665], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 6038B of this title][/us/usc/t26/s6038B], amending this section and sections 1492, 1494, 6501, and 7482 of this title, and repealing [section 7477 of this title][/us/usc/t26/s7477]\] shall apply to transfers or exchanges after December 31, 1984, in taxable years ending after such date.
 
 >     “(2) __Special rule for certain transfers of intangibles.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
 
->         “(B) __Waiver.—__ 
+>         “(B)  __Waiver__  __.—__ 
 
 >         Subject to such terms and conditions as the Secretary of the Treasury or his delegate may prescribe, the Secretary may waive the application of subparagraph (A) with respect to any transfer.
 
->     “(3) __Ruling request before__  __march 1, 1984__  __.—__ 
+>     “(3)  __Ruling request before __  __march 1, 1984__  __.—__ 
 
 >     The amendments made by this section (and the provisions of paragraph (2) of this subsection) shall not apply to any transfer or exchange of property described in a request filed before March 1, 1984, under section 367(a), 1492(2), or 1494(b) of the Internal Revenue Code of 1986 (as in effect before such amendments).”
 

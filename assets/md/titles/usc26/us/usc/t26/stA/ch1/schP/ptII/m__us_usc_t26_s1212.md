@@ -257,11 +257,11 @@
 
 [Pub. L. 111–325, title I, § 101(c)][/us/pl/111/325/s101/c], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1222 of this title][/us/usc/t26/s1222]\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
 
->     “(2) __Coordination rules.—__ 
+>     “(2)  __Coordination rules__  __.—__ 
 
 >     Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act.”
 

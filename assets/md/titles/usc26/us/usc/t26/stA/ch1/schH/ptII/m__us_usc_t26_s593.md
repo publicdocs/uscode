@@ -393,11 +393,11 @@
 
 [Pub. L. 104–188, title I, § 1616(c)][/us/pl/104/188/s1616/c], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 50, 52, 57, 246, 291, 585, 860E, 992, 1038, 1042, 1277, and 1361 of this title and repealing sections 595 and 596 of this title\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Subsection (b)(7)(B).—__ 
+>     “(2)  __Subsection__  __(b)(7)(B).—__ 
 
 >     The amendments made by subsection (b)(7)(B) \[amending this section\] shall not apply to any distribution with respect to preferred stock if—
 
@@ -405,11 +405,11 @@
 
 >         “(B) such distribution is made before the date which is 1 year after the date of the enactment of this Act \[Aug. 20, 1996\] (or, in the case of stock which may be redeemed, if later, the date which is 30 days after the earliest date that such stock may be redeemed).
 
->     “(3) __Subsection (b)(8).—__ 
+>     “(3)  __Subsection__  __(b)(8).—__ 
 
 >     The amendment made by subsection (b)(8) \[repealing [section 595 of this title][/us/usc/t26/s595]\] shall apply to property acquired in taxable years beginning after December 31, 1995.
 
->     “(4) __Subsection (b)(10).—__ 
+>     “(4)  __Subsection__  __(b)(10).—__ 
 
 >     The amendments made by subsection (b)(10) \[amending [section 860E of this title][/us/usc/t26/s860E]\] shall not apply to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times after October 31, 1995.”
 

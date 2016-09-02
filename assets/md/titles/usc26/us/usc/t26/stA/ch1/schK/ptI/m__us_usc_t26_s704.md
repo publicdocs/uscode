@@ -133,11 +133,11 @@
 
 [Pub. L. 105–34, title X, § 1063(b)][/us/pl/105/34/s1063/b], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section and [section 737 of this title][/us/usc/t26/s737]\] shall apply to property contributed to a partnership after June 8, 1997.
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any property contributed pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such contribution if such contract provides for the contribution of a fixed amount of property.”
 

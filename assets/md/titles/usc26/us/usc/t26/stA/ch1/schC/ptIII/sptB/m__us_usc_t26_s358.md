@@ -147,11 +147,11 @@
 
 [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 309(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–638, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 357 of this title][/us/usc/t26/s357]\] shall apply to assumptions of liability after October 18, 1999.
 
->     “(2) __Rules.—__ 
+>     “(2)  __Rules__  __.—__ 
 
 >     The rules prescribed under subsection (c) \[see Application of Comparable Rules to Partnerships and S Corporations note below\] shall apply to assumptions of liability after October 18, 1999, or such later date as may be prescribed in such rules.”
 

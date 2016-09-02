@@ -863,11 +863,11 @@
 
 [Pub. L. 106–170, title IV, § 403][/us/pl/106/170/s403], Dec. 17, 1999, [113 Stat. 1910][/us/stat/113/1910], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 1402(e)(4) of the Internal Revenue Code of 1986, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensed minister of a church, a member of a religious order, or a Christian Science practitioner, and which is effective for the taxable year in which this Act is enacted \[enacted Dec. 17, 1999\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed by the Commissioner of Internal Revenue), if such application is filed no later than the due date of the Federal income tax return (including any extension thereof) for the applicant’s second taxable year beginning after December 31, 1999. Any such revocation shall be effective (for purposes of chapter 2 of the Internal Revenue Code of 1986 and title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.)), as specified in the application, either with respect to the applicant’s first taxable year beginning after December 31, 1999, or with respect to the applicant’s second taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed after the due date of the applicant’s Federal income tax return for a taxable year and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant’s income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of such Code (notwithstanding paragraphs (4) and (5) of section 1402(c)) except for the exemption under section 1402(e)(1) of such Code.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply with respect to service performed (to the extent specified in such subsection) in taxable years beginning after December 31, 1999, and with respect to monthly insurance benefits payable under title II on the basis of the wages and self-employment income of any individual for months in or after the calendar year in which such individual’s application for revocation (as described in such subsection) is effective (and lump-sum death payments payable under such title on the basis of such wages and self-employment income in the case of deaths occurring in or after such calendar year).”
 
@@ -875,7 +875,7 @@
 
 [Pub. L. 103–296, title III, § 306][/us/pl/103/296/s306], Aug. 15, 1994, [108 Stat. 1521][/us/stat/108/1521], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, if—
 
@@ -887,15 +887,15 @@
 
 >         then such individual may file a certificate under this section in such form and manner, and with such official, as may be prescribed in regulations issued under chapter 2 of such Code. Upon the filing of such certificate, notwithstanding any judgment which has been entered to the contrary, such individual shall be exempt from payment of such tax with respect to services described in paragraphs (1) and (2) and from any penalties or interest for failure to pay such tax or to file a self-employment tax return as required under section 6017 of such Code.
 
->     “(b) __Period for Filing.—__ 
+>     “(b)  __Period for Filing__  __.—__ 
 
 >     A certificate referred to in subsection (a) may be filed only during the 180-day period commencing with the date on which the regulations referred to in subsection (a) are issued.
 
->     “(c) __Taxable Years Affected by Certificate.—__ 
+>     “(c)  __Taxable Years Affected by Certificate__  __.—__ 
 
 >     A certificate referred to in subsection (a) shall be effective for taxable years ending after December 31, 1978, and before January 1, 1985.
 
->     “(d) __Restriction on Crediting of Exempt Self-Employment Income.—__ 
+>     “(d)  __Restriction on Crediting of Exempt Self-Employment Income__  __.—__ 
 
 >     In any case in which an individual is exempt under this section from paying a tax imposed under section 1401 of the Internal Revenue Code of 1986, any income on which such tax would have been imposed but for such exemption shall not constitute self-employment income under section 211(b) of the Social Security Act ([42 U.S.C. 411(b)][/us/usc/t42/s411/b]), and, if such individual’s primary insurance amount has been determined under section 215 of such Act ([42 U.S.C. 415][/us/usc/t42/s415]), notwithstanding section 215(f)(1) of such Act, the Secretary of Health and Human Services (prior to March 31, 1995) or the Commissioner of Social Security (after March 30, 1995) shall recompute such primary insurance amount so as to take into account the provisions of this subsection. The recomputation under this subsection shall be effective with respect to benefits for months following approval of the certificate of exemption.”
 
@@ -907,7 +907,7 @@
 
 [Pub. L. 99–514, title XVII, § 1704(b)][/us/pl/99/514/s1704/b], Oct. 22, 1986, [100 Stat. 2779][/us/stat/100/2779], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding section 1402(e)(3) of the Internal Revenue Code of 1986, as redesignated by subsection (a)(2)(B) of this section, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensed minister of a church, a member of a religious order, or a Christian Science practitioner, and which is effective for the taxable year in which this Act is enacted \[enacted Oct. 22, 1986\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed in regulations made under chapter 2 of subtitle A of such Code), if such application is filed—
 
@@ -917,7 +917,7 @@
 
 >         Any such revocation shall be effective (for purposes of chapter 2 of subtitle A of the Internal Revenue Code of 1986 and title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]), as specified in the application, either with respect to the applicant’s first taxable year ending on or after the date of the enactment of this Act \[Oct. 22, 1986\] or with respect to the applicant’s first taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed on or after the due date of the Federal income tax return for the applicant’s first taxable year ending on or after the date of the enactment of this Act \[Oct. 22, 1986\] and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant’s income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of subtitle A of such Code (notwithstanding paragraph (4) or (5) of section 1402(c) of such Code) but for the exemption under section 1402(e)(1) of such Code.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) of this subsection shall apply with respect to service performed (to the extent specified in such paragraph) in taxable years ending on or after the date of the enactment of this Act \[Oct. 22, 1986\] and with respect to monthly insurance benefits payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] on the basis of the wages and self-employment income of any individual for months in or after the calendar year in which such individual’s application for revocation (as described in such paragraph) is effective (and lump-sum death payments payable under such title on the basis of such wages and self-employment income in the case of deaths occurring in or after such calendar year).”
 

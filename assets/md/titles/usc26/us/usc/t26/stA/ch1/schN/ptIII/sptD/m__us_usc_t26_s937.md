@@ -53,15 +53,15 @@
 
 [Pub. L. 108–357, title VIII, § 908(d)][/us/pl/108/357/s908/d], Oct. 22, 2004, [118 Stat. 1657][/us/stat/118/1657], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 931, 932, 934, 935, 957, and 6688 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __183-day rule.—__ 
+>     “(2) __183-__  __day rule__  __.—__ 
 
 >     Section 937(a)(1) of the Internal Revenue Code of 1986 (as added by this section) shall apply to taxable years beginning after the date of the enactment of this Act.
 
->     “(3) __Sourcing.—__ 
+>     “(3)  __Sourcing__  __.—__ 
 
 >     Section 937(b)(2) of such Code (as so added) shall apply to income earned after the date of the enactment of this Act.”
 

@@ -329,11 +329,11 @@
 
 [Pub. L. 108–357, title II, § 221(c)][/us/pl/108/357/s221/c], Oct. 22, 2004, [118 Stat. 1431][/us/stat/118/1431], provided that:
 
->     “(1) __Targeted areas.—__ 
+>     “(1)  __Targeted areas__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to designations made by the Secretary of the Treasury after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Tracts with low population.—__ 
+>     “(2)  __Tracts with low population__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to investments made after the date of the enactment of this Act \[Oct. 22, 2004\].”
 

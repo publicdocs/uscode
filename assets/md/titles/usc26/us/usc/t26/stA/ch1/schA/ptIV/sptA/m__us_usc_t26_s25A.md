@@ -317,11 +317,11 @@
 
 [Pub. L. 105–34, title II, § 201(f)][/us/pl/105/34/s201/f], Aug. 5, 1997, [111 Stat. 806][/us/stat/111/806], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and [section 6050S of this title][/us/usc/t26/s6050S] and amending sections 135, 6213, and 6724 of this title\] shall apply to expenses paid after December 31, 1997 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
 
->     “(2) __Lifetime learning credit.—__ 
+>     “(2)  __Lifetime learning credit__  __.—__ 
 
 >     Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates.”
 
@@ -331,29 +331,29 @@
 
 >     “(1) __Payments to possessions.—__ 
 
->         “(A) __Mirror code possession.—__ 
+>         “(A)  __Mirror code possession__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008 and before 2018. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
->         “(B) __Other possessions.—__ 
+>         “(B)  __Other possessions__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of such Code (as so added) for taxable years beginning after 2008 and before 2018 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
->     “(2) __Coordination with credit allowed against united states income taxes.—__ 
+>     “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
 >     Section 25A(i)(6) \[now 25A(i)(5)\] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
 
 >     “(3) __Definitions and special rules.—__ 
 
->         “(A) __Possession of the united states.—__ 
+>         “(A)  __Possession of the united states__  __.—__ 
 
 >         For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
->         “(B) __Mirror code tax system.—__ 
+>         “(B)  __Mirror code tax system__  __.—__ 
 
 >         For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
->         “(C) __Treatment of payments.—__ 
+>         “(C)  __Treatment of payments__  __.—__ 
 
 >         For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) \[now (i)(5)\] of such section (as added by this section).”
 

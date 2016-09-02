@@ -743,19 +743,19 @@
 
 [Pub. L. 108–357, title III, § 301(d)][/us/pl/108/357/s301/d], Oct. 22, 2004, [118 Stat. 1463][/us/stat/118/1463], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 6426 of this title][/us/usc/t26/s6426] and amending this section and sections 4041, 4081, 4083, 4101, 6427, and 9503 of this title\] shall apply to fuel sold or used after December 31, 2004.
 
->     “(2) __Registration requirement.—__ 
+>     “(2)  __Registration requirement__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 4101 of this title][/us/usc/t26/s4101]\] shall take effect on April 1, 2005.
 
->     “(3) __Extension of alcohol fuels credit.—__ 
+>     “(3)  __Extension of alcohol fuels credit__  __.—__ 
 
 >     The amendments made by paragraphs (3), (4), and (14) of subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(4) __Repeal of general fund retention of certain alcohol fuels taxes.—__ 
+>     “(4)  __Repeal of general fund retention of certain alcohol fuels taxes__  __.—__ 
 
 >     The amendments made by subsection (c)(12) \[amending [section 9503 of this title][/us/usc/t26/s9503]\] shall apply to fuel sold or used after September 30, 2004.”
 

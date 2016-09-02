@@ -235,11 +235,11 @@
 
 [Pub. L. 102–486, title XIX, § 1917(c)][/us/pl/102/486/s1917/c], Oct. 24, 1992, [106 Stat. 3025][/us/stat/106/3025], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1992.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1993. Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in rate resulting from the amendment made by subsection (b).”
 

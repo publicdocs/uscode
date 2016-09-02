@@ -785,11 +785,11 @@
 
 [Pub. L. 111–147, title I, § 101(e)][/us/pl/111/147/s101/e], Mar. 18, 2010, [124 Stat. 75][/us/stat/124/75], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this subsection \[probably should be “section”, amending this section and sections 3111 and 3221 of this title\] shall apply to wages paid after the date of the enactment of this Act \[Mar. 18, 2010\].
 
->     “(2) __Railroad retirement taxes.—__ 
+>     “(2)  __Railroad retirement taxes__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending [section 3221 of this title][/us/usc/t26/s3221]\] shall apply to compensation paid after the date of the enactment of this Act.”
 
@@ -815,11 +815,11 @@
 
 [Pub. L. 109–432, div. A, title I, § 105(f)][/us/pl/109/432/s105/f], Dec. 20, 2006, [120 Stat. 2938][/us/stat/120/2938], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 51A of this title][/us/usc/t26/s51A] and repealing [section 51A of this title][/us/usc/t26/s51A]\] shall apply to individuals who begin work for the employer after December 31, 2005.
 
->     “(2) __Consolidation.—__ 
+>     “(2)  __Consolidation__  __.—__ 
 
 >     The amendments made by subsections (b), (c), (d), and (e) \[amending this section and repealing [section 51A of this title][/us/usc/t26/s51A]\] shall apply to individuals who begin work for the employer after December 31, 2006.”
 
@@ -891,11 +891,11 @@
 
 [Pub. L. 101–508, title XI, § 11405(c)][/us/pl/101/508/s11405/c], Nov. 5, 1990, [104 Stat. 1388–473][/us/stat/104/1388-473], provided that:
 
->     “(1) __Credit.—__ 
+>     “(1)  __Credit__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to individuals who begin work for the employer after September 30, 1990.
 
->     “(2) __Authorization.—__ 
+>     “(2)  __Authorization__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending provisions set out below\] shall apply to fiscal years beginning after 1990.”
 
@@ -941,11 +941,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1041(c)(5)][/us/pl/98/369/s1041/c/5], July 18, 1984, [98 Stat. 1043][/us/stat/98/1043], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1878(f)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2904, provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(B) __Special rule for employees performing services for other persons.—__ 
+>     “(B)  __Special rule for employees performing services for other persons__  __.—__ 
 
 >     Paragraph (2) of section 51(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this subsection) and the amendment made by paragraph (3) of this subsection \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1984.”
 
@@ -967,11 +967,11 @@
 
 [Pub. L. 97–248, title II, § 233(g)][/us/pl/97/248/s233/g], Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503], provided that:
 
->     “(1) __Subsection (b).—__ 
+>     “(1)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to amounts paid or incurred after April 30, 1983, to individuals beginning work for the employer after such date.
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to amounts paid or incurred after July 1, 1982, to individuals beginning work for the employer after such date.”
 
@@ -981,37 +981,37 @@
 
 >     “(1) __Amendments relating to members of targeted groups.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraphs (B), (C), and (D), the amendments made by subsections (b), (c)(2), and (d) \[amending this section and [section 50B of this title][/us/usc/t26/s50B]\] shall apply to wages paid or incurred with respect to individuals first beginning work for an employer after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.
 
->         “(B) __Eligible work incentive employees.—__ 
+>         “(B)  __Eligible work incentive employees__  __.—__ 
 
 >         The amendments made by subsection (b)(2) \[amending this section\] to the extent relating to the designation of eligible work incentive employees (within the meaning of section 51(d)(9) \[now 51(d)(10)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as members of a targeted group and subsection (b)(2)(B)(ii) \[amending this section\] shall apply to taxable years beginning after December 31, 1981. In the case of an eligible work incentive employee, subsections (a) and (b) of section 51 of such Code shall be applied for taxable years beginning after December 31, 1981, as if such employees had been members of a targeted group for taxable years beginning before January 1, 1982.
 
->         “(C) __Cooperative education program participants.—__ 
+>         “(C)  __Cooperative education program participants__  __.—__ 
 
 >         The amendments made by subsection (b)(4) \[amending this section\] shall apply to wages paid or incurred after December 31, 1981, in taxable years ending after such date.
 
->         “(D) __Designated local agency.—__ 
+>         “(D)  __Designated local agency__  __.—__ 
 
 >         The amendments made by subsection (f)(1) \[amending this section\] shall take effect on the date 60 days after the date of the enactment of this act \[Aug. 13, 1981\].
 
 >     “(2) __Certifications.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (c)(1) \[amending this section\] shall apply to all individuals whether such individuals began work for their employer before, on, or after the date of the enactment of this Act \[Aug. 13, 1981\].
 
->         “(B) __Special rule for individuals who began work for the employer before 45th day before date of enactment.—__ 
+>         “(B)  __Special rule for individuals who began work for the employer before 45th day before date of enactment__  __.—__ 
 
 >         In the case of any individual (other than an individual described in section 51(d)(8) of the Internal Revenue Code of 1986) who began work for the employer before the date 45 days before the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (15) of section 51(d) of the Internal Revenue Code of 1986 (as added by subsection (c)(1)) shall be applied by substituting “July 23, 1981,” for the day on which such individual begins work for the employer.
 
->         “(C) __Individuals who begin work for employer within 45 days before or after date of enactment.—__ 
+>         “(C)  __Individuals who begin work for employer within 45 days before or after date of enactment__  __.—__ 
 
 >         In the case of any individual (other than an individual described in section 51(d)(8) of the Internal Revenue Code of 1986) who begins work for the employer during the 90-day period beginning with the date 45 days before the date of the enactment of this Act \[Aug. 13, 1981\], and in the case of an individual described in section 51(d)(8) of such Code who begins work before the end of such 90-day period, paragraph (15) of section 51(d) of such Code (as added by subsection (c)(1)) shall be applied by substituting “the last day of the 90-day period beginning with the date 45 days before the date of the enactment of this Act” for the day on which such individual begins work for the employer.
 
->     “(3) __Limitation on qualified first-year wages.—__ 
+>     “(3)  __Limitation on qualified first-year wages__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
@@ -1041,29 +1041,29 @@
 
 >     “(1) __Payments to possessions.—__ 
 
->         “(A) __Mirror code possessions.—__ 
+>         “(A)  __Mirror code possessions__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the amendments made by this section \[amending this section and sections 52 and 3111 of this title\]. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession of the United States.
 
->         “(B) __Other possessions.—__ 
+>         “(B)  __Other possessions__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system the amount estimated by the Secretary of the Treasury as being equal to the loss to that possession that would have occurred by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession establishes to the satisfaction of the Secretary that the possession has implemented (or, at the discretion of the Secretary, will implement) an income tax benefit which is substantially equivalent to the income tax credit in effect after the amendments made by this section.
 
->     “(2) __Coordination with credit allowed against united states income taxes.—__ 
+>     “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
 >     The credit allowed against United States income taxes for any taxable year under the amendments made by this section to section 51 of the Internal Revenue Code of 1986 \[[26 U.S.C. 51][/us/usc/t26/s51]\] to any person with respect to any qualified veteran shall be reduced by the amount of any credit (or other tax benefit described in paragraph (1)(B)) allowed to such person against income taxes imposed by the possession of the United States by reason of this subsection with respect to such qualified veteran for such taxable year.
 
 >     “(3) __Definitions and special rules.—__ 
 
->         “(A) __Possession of the united states.—__ 
+>         “(A)  __Possession of the united states__  __.—__ 
 
 >         For purposes of this subsection, the term ‘possession of the United States’ includes American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
->         “(B) __Mirror code tax system.—__ 
+>         “(B)  __Mirror code tax system__  __.—__ 
 
 >         For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
->         “(C) __Treatment of payments.—__ 
+>         “(C)  __Treatment of payments__  __.—__ 
 
 >         For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the payments under this subsection shall be treated in the same manner as a refund due from credit provisions described in such section.”
 
@@ -1105,7 +1105,7 @@
 
 >         “(ii) such individual shall be treated for purposes of such credit as having first begun work for the employer not earlier than January 1, 1979.
 
->     “(B) __Member of newly targeted group defined.—__ 
+>     “(B) __ Member of newly targeted group defined__  __.—__ 
 
 >     For purposes of subparagraph (A), an individual is a member of a newly targeted group if—
 

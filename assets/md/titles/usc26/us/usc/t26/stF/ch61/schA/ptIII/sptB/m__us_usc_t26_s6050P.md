@@ -97,11 +97,11 @@
 
 [Pub. L. 103–66, title XIII, § 13252(d)][/us/pl/103/66/s13252/d], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to discharges of indebtedness after December 31, 1993.
 
->     “(2) __Governmental entities.—__ 
+>     “(2)  __Governmental entities__  __.—__ 
 
 >     In the case of an entity referred to in section 6050P(c)(1)(B) of the Internal Revenue Code of 1986 (as added by this section), the amendments made by this section shall apply to discharges of indebtedness after the date of the enactment of this Act \[Aug. 10, 1993\].”
 

@@ -123,11 +123,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 27(d)][/us/pl/98/369/s27/d], July 18, 1984, [98 Stat. 509][/us/stat/98/509], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 5010 of this title][/us/usc/t26/s5010] and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985.
 
->     “(2) __Electronic transfer provisions.—__ 
+>     “(2)  __Electronic transfer provisions__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending sections 5061 and 5703 of this title\] shall apply to taxes required to be paid on or after September 30, 1984.”
 
@@ -175,7 +175,7 @@
 
 >     “(1) __Imposition of tax.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any tax-increased article—
 
@@ -185,7 +185,7 @@
 
 >             there shall be imposed a tax at the applicable rate on each such article.
 
->         “(B) __Applicable rate.—__ 
+>         “(B)  __Applicable rate__  __.—__ 
 
 >         For purposes of subparagraph (A), the applicable rate is—
 
@@ -197,7 +197,7 @@
 
 >             In the case of a fraction of a gallon or barrel, the tax imposed by subparagraph (A) shall be the same fraction as the amount of such tax imposed on a whole gallon or barrel.
 
->         “(C) __Tax-increased article.—__ 
+>         “(C)  __Tax-increased article__  __.—__ 
 
 >         For purposes of this subsection, the term ‘tax-increased article’ means distilled spirits, wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and beer.
 
@@ -209,7 +209,7 @@
 
 >         “(C) For purposes of this paragraph, an article shall not be treated as held by the producer if title thereto had at any time been transferred to any other person.
 
->     “(3) __Exception for certain small wholesale or retail dealers.—__ 
+>     “(3)  __Exception for certain small wholesale or retail dealers__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on tax- increased articles held on January 1, 1991, by any dealer if—
 
@@ -217,7 +217,7 @@
 
 >         “(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
->     “(4) __Credit against tax.—__ 
+>     “(4)  __Credit against tax__  __.—__ 
 
 >     Each dealer shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to—
 
@@ -231,21 +231,21 @@
 
 >     “(5) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding any tax-increased article on January 1, 1991, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before June 30, 1991.
 
 >     “(6) __Controlled groups.—__ 
 
->         “(A) __Corporations.—__ 
+>         “(A)  __Corporations__  __.—__ 
 
 >         In the case of a controlled group—
 
@@ -255,17 +255,17 @@
 
 >             shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
->         “(B) __Nonincorporated dealers under common control.—__ 
+>         “(B)  __Nonincorporated dealers under common control__  __.—__ 
 
 >         Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of dealers under common control where 1 or more of such dealers is not a corporation.
 
 >     “(7) __Other laws applicable.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
->         “(B) __Comparable excise tax.—__ 
+>         “(B)  __Comparable excise tax__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘comparable excise tax’ means—
 
@@ -275,23 +275,23 @@
 
 >             “(iii) the tax imposed by section 5051 of such Code in the case of beer.
 
->     “(8) __Definitions.—__ 
+>     “(8)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Terms used in this subsection which are also used in subchapter A of chapter 51 of such Code shall have the respective meanings such terms have in such part.
 
->         “(B) __Person.—__ 
+>         “(B)  __Person__  __.—__ 
 
 >         The term ‘person’ includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
 
->         “(C) __Secretary.—__ 
+>         “(C)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
->     “(9) __Treatment of imported perfumes containing distilled spirits.—__ 
+>     “(9)  __Treatment of imported perfumes containing distilled spirits__  __.—__ 
 
 >     For purposes of this subsection, any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided by regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on January 1, 1991, on the premises of a retail establishment.”
 
@@ -309,11 +309,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 27(b)][/us/pl/98/369/s27/b], July 18, 1984, [98 Stat. 507][/us/stat/98/507], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1801(c)(3), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2786, provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
->     “(2) __Exception for certain small wholesale or retail dealers.—__ 
+>     “(2)  __Exception for certain small wholesale or retail dealers__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on distilled spirits held on October 1, 1985, by any dealer if—
 
@@ -321,27 +321,27 @@
 
 >         “(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
->     “(3) __Credit against tax.—__ 
+>     “(3)  __Credit against tax__  __.—__ 
 
 >     Each dealer shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $800. Such credit shall not exceed the amount of taxes imposed by paragraph (1) for which the dealer is liable.
 
 >     “(4) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding distilled spirits on October 1, 1985, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall by regulations prescribe.
 
 >         “(C) __Time for payment.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Except as provided in clause (ii), the tax imposed by paragraph (1) shall be paid on or before April 1, 1986.
 
->             “(ii) __Installment payment of tax in case of small or middle-sized dealers.—__ 
+>             “(ii)  __Installment payment of tax in case of small or middle-sized dealers__  __.—__ 
 
 >             In the case of any small or middle-sized dealer, the tax imposed by paragraph (1) may be paid in 3 equal installments due as follows:
 
@@ -353,13 +353,13 @@
 
 >                   If the taxpayer does not pay any installment under this clause on or before the date prescribed for its payment, the whole of the unpaid tax shall be paid upon notice and demand from the Secretary.
 
->             “(iii) __Small or middle-sized dealer.—__ 
+>             “(iii)  __Small or middle-sized dealer__  __.—__ 
 
 >             For purposes of clause (ii), the term ‘small or middle-sized dealer’ means any dealer if the aggregate gross sales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
 
 >     “(5) __Controlled groups.—__ 
 
->         “(A) __Controlled groups of corporations.—__ 
+>         “(A)  __Controlled groups of corporations__  __.—__ 
 
 >         In the case of a controlled group—
 
@@ -371,19 +371,19 @@
 
 >             shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of the Internal Revenue Code of 1986; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
->         “(B) __Nonincorporated dealers under common control.—__ 
+>         “(B)  __Nonincorporated dealers under common control__  __.—__ 
 
 >         Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of dealers under common control where 1 or more of such dealers is not a corporation.
 
->     “(6) __Other laws applicable.—__ 
+>     “(6)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
 
->     “(7) __Definitions and special rules.—__ 
+>     “(7)  __Definitions and special rules__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Dealer.—__ 
+>         “(A)  __Dealer__  __.—__ 
 
 >         The term ‘dealer’ means—
 
@@ -391,23 +391,23 @@
 
 >             “(ii) any retail dealer in liquors (as defined in section 5122(a) of such Code).
 
->         “(B) __Distilled spirits.—__ 
+>         “(B)  __Distilled spirits__  __.—__ 
 
 >         The term ‘distilled spirits’ has the meaning given such term by section 5002(a)(8) of the Internal Revenue Code of 1986.
 
->         “(C) __Person.—__ 
+>         “(C)  __Person__  __.—__ 
 
 >         The term ‘person’ includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
 
->         “(D) __Secretary.—__ 
+>         “(D)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
->         “(E) __Treatment of imported perfumes containing distilled spirits.—__ 
+>         “(E)  __Treatment of imported perfumes containing distilled spirits__  __.—__ 
 
 >         Any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided in regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on October 1, 1985, on the premises of a retail establishment.
 
->         “(F) __Treatment of distilled spirits in foreign trade zones.—__ 
+>         “(F)  __Treatment of distilled spirits in foreign trade zones__  __.—__ 
 
 >         Notwithstanding the Act of June 18, 1934 ([48 Stat. 998][/us/stat/48/998], [19 U.S.C. 81a][/us/usc/t19/s81a]) or any other provision of law, distilled spirits which are located in a foreign trade zone on October 1, 1985, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 

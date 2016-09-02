@@ -267,7 +267,7 @@
 
         (2) __Semiannual reports__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 5 of the Inspector General Act of 1978—
 
@@ -335,15 +335,15 @@
 
 [Pub. L. 105–206, title I, § 1102(f)][/us/pl/105/206/s1102/f], July 22, 1998, [112 Stat. 705][/us/stat/112/705], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 6212, 6323, 6343, 7611, and 7811 of this title, and [section 5109 of Title 5][/us/usc/t5/s5109], Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Chief counsel.—__ 
+>     “(2)  __Chief counsel__  __.—__ 
 
 >     Section 7803(b)(3) of the Internal Revenue Code of 1986, as added by this section, shall take effect on the date that is 90 days after the date of the enactment of this Act.
 
->     “(3) __National taxpayer advocate.—__ 
+>     “(3)  __National taxpayer advocate__  __.—__ 
 
 >     Notwithstanding section 7803(c)(1)(B)(iv) of such Code, as added by this section, in appointing the first National Taxpayer Advocate after the date of the enactment of this Act, the Secretary of the Treasury—
 

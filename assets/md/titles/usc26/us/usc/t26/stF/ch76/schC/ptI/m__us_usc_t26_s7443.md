@@ -95,7 +95,7 @@
 
  __Effective Date of 1955 Amendment__ 
 
-    Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 31 of Title 2][/us/usc/t2/s31], The Congress.
+    Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 4501 of Title 2][/us/usc/t2/s4501], The Congress.
 
  __Salary Increases__ 
 
@@ -253,7 +253,7 @@ Provisions authorizing the travel expenses of the judges of the United States Ta
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
 [/us/stat/78/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F435
-[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
+[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358

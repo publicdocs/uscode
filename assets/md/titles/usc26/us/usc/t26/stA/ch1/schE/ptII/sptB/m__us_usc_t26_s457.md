@@ -599,19 +599,19 @@
 
 [Pub. L. 109–280, title XI, § 1104(d)][/us/pl/109/280/s1104/d], Aug. 17, 2006, [120 Stat. 1060][/us/stat/120/1060], as amended by [Pub. L. 110–458, title I, § 111(a)][/us/pl/110/458/s111/a], Dec. 23, 2008, [122 Stat. 5113][/us/stat/122/5113], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Tax amendments.—__ 
+>     “(2)  __Tax amendments__  __.—__ 
 
 >     The amendments made by subsections (a)(1) and (b) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(3) __ERISA amendments.—__ 
+>     “(3) __ERISA__  __amendments__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending [section 1002 of Title 29][/us/usc/t29/s1002], Labor\] shall apply to plan years ending after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(4) __Construction.—__ 
+>     “(4)  __Construction__  __.—__ 
 
 >     Nothing in the amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall alter or affect the construction of the Internal Revenue Code of 1986, the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\], or the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 621][/us/usc/t29/s621] et seq.\] as applied to any plan, arrangement, or conduct to which such amendments do not apply.”
 
@@ -659,11 +659,11 @@
 
 [Pub. L. 104–188, title I, § 1448(c)][/us/pl/104/188/s1448/c], Aug. 20, 1996, [110 Stat. 1813][/us/stat/110/1813], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to assets and income described in section 457(b)(6) of the Internal Revenue Code of 1986 held by a plan on and after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     In the case of a plan in existence on the date of the enactment of this Act, a trust need not be established by reason of the amendments made by this section before January 1, 1999.”
 
@@ -687,25 +687,25 @@
 
 [Pub. L. 100–647, title VI, § 6064(d)][/us/pl/100/647/s6064/d], Nov. 10, 1988, [102 Stat. 3701][/us/stat/102/3701], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.
 
 >     “(2) __Exception for certain collectively bargained plans.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Section 457 of the 1986 Code (as in effect before and after the amendments made by section 1107 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\]) shall not apply to nonelective deferred compensation provided under a plan in existence on December 31, 1987, and maintained pursuant to a collective bargaining agreement.
 
->         “(B) __Nonelective plan.—__ 
+>         “(B)  __Nonelective plan__  __.—__ 
 
 >         For purposes of this paragraph, a nonelective plan is a plan which covers a broad group of employees and under which the covered employees earn nonelective deferred compensation under a definite, fixed and uniform benefit formula.
 
->         “(C) __Termination.—__ 
+>         “(C)  __Termination__  __.—__ 
 
 >         This paragraph shall cease to apply to a plan as of the effective date of the first material modification of the plan agreed to after December 31, 1987.
 
->     “(3) __Treatment of certain nonelective deferred compensation.—__ 
+>     “(3)  __Treatment of certain nonelective deferred compensation__  __.—__ 
 
 >     Section 457 of the 1986 Code shall not apply to amounts deferred under a nonelective deferred compensation plan maintained by an eligible employer described in section 457(e)(1)(A) of the 1986 Code (as in effect after the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\])—
 
@@ -727,7 +727,7 @@
 
 >         Subparagraph (B) shall not apply to any taxable year ending after the date on which any modification of the amount or formula described in subparagraph (B)(i)(II) agreed to in writing before January 1, 1989, is effective. The preceding sentence shall not apply to a modification agreed to in writing before January 1, 1989, which does not increase any benefit of a participant. Amounts described in the first sentence of this paragraph shall be taken into account for purposes of applying section 457 of the 1986 Code to other amounts deferred under any eligible deferred compensation plan.
 
->     “(4) __Study.—__ 
+>     “(4)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall conduct a study on the tax treatment of deferred compensation paid by State and local governments and tax-exempt organizations (including deferred compensation paid to independent contractors). Not later than January 1, 1990, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the study conducted under this paragraph together with such recommendations as he may deem advisable.”
 
@@ -739,21 +739,21 @@
 
 [Pub. L. 99–514, title XI, § 1107(c)][/us/pl/99/514/s1107/c], Oct. 22, 1986, [100 Stat. 2430][/us/stat/100/2430], as amended by [Pub. L. 100–647, title I, § 1011(e)(6)][/us/pl/100/647/s1011/e/6], (7), Nov. 10, 1988, [102 Stat. 3461][/us/stat/102/3461], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1988.
 
->     “(2) __Transfers and cash-outs.—__ 
+>     “(2)  __Transfers and cash-outs__  __.—__ 
 
 >     Paragraphs (9) and (10) of section 457(e) of the Internal Revenue Code of 1986 (as amended by this section) shall apply to taxable years beginning after December 31, 1986.
 
 >     “(3) __Application to tax-exempt organizations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the application of section 457 of the Internal Revenue Code of 1986 by reason of the amendments made by this section to deferred compensation plans established and maintained by organizations exempt from tax shall apply to taxable years beginning after December 31, 1986.
 
->         “(B) __Existing deferrals and arrangements.—__ 
+>         “(B)  __Existing deferrals and arrangements__  __.—__ 
 
 >         Section 457 of such Code shall not apply to amounts deferred under a plan described in subparagraph (A) which—
 
@@ -769,11 +769,11 @@
 
 >             Clause (ii) shall not apply to any taxable year ending after the date on which any modification to the amount or formula described in subclause (II) is effective. Amounts described in the first sentence shall be taken into account for applying section 457 to other amounts deferred under any deferred compensation plan. This subparagraph shall only apply to individuals who were covered under the plan and agreement on August 16, 1986.
 
->     “(4) __Deferred compensation plans for state judges.—__ 
+>     “(4)  __Deferred compensation plans for state judges__  __.—__ 
 
 >     The amendments made by this section shall not apply to any qualified State judicial plan (as defined in section 131(c)(3)(B) of the Revenue Act of 1978 \[set out as a note below\] as amended by section 252 of the Tax Equity and Fiscal Responsibility Act of 1982).
 
->     “(5) __Special rule for certain deferred compensation plans.—__ 
+>     “(5)  __Special rule for certain deferred compensation plans__  __.—__ 
 
 >     The amendments made by this section shall not apply—
 
@@ -819,7 +819,7 @@
 
 [Pub. L. 95–600, title I, § 131(c)(2)][/us/pl/95/600/s131/c/2], Nov. 6, 1978, [92 Stat. 2782][/us/stat/92/2782], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     In the case of any taxable year beginning after December 31, 1978, and before January 1, 1982—
 
@@ -833,15 +833,15 @@
 
 >             “(II) 33⅓ percent of the participant’s includible compensation.
 
->     “(B) __Application of catch-up provisions in certain cases.—__ 
+>     “(B)  __Application of catch-up provisions in certain cases__  __.—__ 
 
 >     If, in the case of any participant for any taxable year, all of the plans are eligible State deferred compensation plans, then clause (ii) of subparagraph (A) of this paragraph shall be applied with the modification provided by paragraph (3) of section 457(b) of such Code.
 
->     “(C) __Applications of certain coordination provisions.—__ 
+>     “(C)  __Applications of certain coordination provisions__  __.—__ 
 
 >     In applying clause (ii) of subparagraph (A) of this paragraph and section 403(b)(2)(A)(ii) of such Code, rules similar to the rules of section 457(c)(2) of such Code shall apply.
 
->     “(D) __Meaning of terms.—__ 
+>     “(D)  __Meaning of terms__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, terms used in this paragraph shall have the same meaning as when used in section 457 of such Code.”
 
@@ -849,11 +849,11 @@
 
 [Pub. L. 95–600, title I, § 131(c)(3)][/us/pl/95/600/s131/c/3], as added by [Pub. L. 97–248, title II, § 252][/us/pl/97/248/s252], Sept. 3, 1982, [96 Stat. 532][/us/stat/96/532], and amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and provisions set out as notes under this section\] shall not apply to any qualified State judicial plan.
 
->     “(B) __Qualified state judicial plan.—__ 
+>     “(B)  __Qualified state judicial plan__  __.—__ 
 
 >     For purposes of subparagraph (A), the term ‘qualified State judicial plan’ means any retirement plan of a State for the exclusive benefit of judges or their beneficiaries if—
 

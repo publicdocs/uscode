@@ -523,11 +523,11 @@
 
 [Pub. L. 98–369, div. A, title VI, § 612(g)][/us/pl/98/369/s612/g], July 18, 1984, [98 Stat. 913][/us/stat/98/913], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and [section 6708 of this title][/us/usc/t26/s6708], redesignating former section 25 as 26, and amending sections 23, 28 to 30, 38, 55, 103A, 163, 168, and 901 of this title\] shall apply to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984.
 
->     “(2) __Elections.—__ 
+>     “(2)  __Elections__  __.—__ 
 
 >     The amendments made by this section shall apply to elections under section 25(c)(2)(A)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) for calendar years after 1983.”
 

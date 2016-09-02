@@ -53,11 +53,11 @@
 
 [Pub. L. 99–514, title XII, § 1261(e)][/us/pl/99/514/s1261/e], Oct. 22, 1986, [100 Stat. 2591][/us/stat/100/2591], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this subpart and amending sections 1092 and 1256 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special rules for purposes of sections 902 and 960.—__ 
+>     “(2)  __Special rules for purposes of sections 902 and 960__  __.—__ 
 
 >     For purposes of applying sections 902 and 960 of the Internal Revenue Code of 1986, the amendments made by this section shall apply to—
 

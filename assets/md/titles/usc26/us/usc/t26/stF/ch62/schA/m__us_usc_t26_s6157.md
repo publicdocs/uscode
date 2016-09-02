@@ -109,19 +109,19 @@
 
 [Pub. L. 102–244, § 4][/us/pl/102/244/s4], Feb. 7, 1992, [106 Stat. 4][/us/stat/106/4], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, if a qualified taxpayer is required to pay additional taxes for taxable years beginning in 1991 with respect to any employment in any State by reason of such State being declared a credit reduction State, such taxpayer may elect to defer the filing and payment of such additional taxes to a date no later than June 30, 1992.
 
->     “(b) __Interest.—__ 
+>     “(b)  __Interest__  __.—__ 
 
 >     Notwithstanding subsection (a), for purposes of section 6601(a) of the Internal Revenue Code of 1986, the last date prescribed for payment of any additional taxes for which an election is made under subsection (a) shall be January 31, 1992.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Qualified taxpayer.—__ 
+>         “(1)  __Qualified taxpayer__  __.—__ 
 
 >         The term ‘qualified taxpayer’ means a taxpayer—
 
@@ -129,11 +129,11 @@
 
 >             “(B) who did not receive notice of such credit reduction before December 1, 1991 from either the State unemployment compensation agency or the Internal Revenue Service.
 
->         “(2) __Credit reduction state.—__ 
+>         “(2)  __Credit reduction state__  __.—__ 
 
 >         The term ‘credit reduction State’ means a State with respect to which the Internal Revenue Service has determined that a reduction in credits is applicable for taxable years beginning in 1991 pursuant to the provisions of section 3302 of the Internal Revenue Code of 1986.
 
->     “(d) __Time and Manner for Making Election.—__ 
+>     “(d)  __Time and Manner for Making Election__  __.—__ 
 
 >     An election under this section shall be made at such time and in such manner as the Secretary of the Treasury shall prescribe.”
 

@@ -509,11 +509,11 @@
 
 [Pub. L. 105–206, title III, § 3461(c)][/us/pl/105/206/s3461/c], July 22, 1998, [112 Stat. 764][/us/stat/112/764], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 6502 of this title][/us/usc/t26/s6502]\] shall apply to requests to extend the period of limitations made after December 31, 1999.
 
->     “(2) __Prior request.—__ 
+>     “(2)  __Prior request__  __.—__ 
 
 >     If, in any request to extend the period of limitations made on or before December 31, 1999, a taxpayer agreed to extend such period beyond the 10-year period referred to in section 6502(a) of the Internal Revenue Code of 1986, such extension shall expire on the latest of—
 

@@ -133,11 +133,11 @@
 
 [Pub. L. 107–134, title I, § 101(d)][/us/pl/107/134/s101/d], Jan. 23, 2002, [115 Stat. 2429][/us/stat/115/2429], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 5 and 6013 of this title\] shall apply to taxable years ending before, on, or after September 11, 2001.
 
->     “(2) __Waiver of limitations.—__ 
+>     “(2)  __Waiver of limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
@@ -151,21 +151,21 @@
 
 [Pub. L. 98–369, div. A, title VII, § 722(g)(5)][/us/pl/98/369/s722/g/5], July 18, 1984, [98 Stat. 975][/us/stat/98/975], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and enacting and amending provisions set out below\] shall take effect as if they were included in the amendments made by [section 1 of Public Law 98–259][/us/pl/98/259/s1] \[amending this section and enacting provisions set out below\].
 
->     “(B) __Statute of limitations waived.—__ 
+>     “(B)  __Statute of limitations waived__  __.—__ 
 
 >     Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
 
 [Pub. L. 98–259, § 1(b)][/us/pl/98/259/s1/b], Apr. 10, 1984, [98 Stat. 143][/us/stat/98/143], as amended by [Pub. L. 98–369, div. A, title VII, § 722(g)(1)][/us/pl/98/369/s722/g/1], July 18, 1984, [98 Stat. 974][/us/stat/98/974]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years (whether beginning before, on, or after the date of enactment of this Act \[Apr. 10, 1984\]) of individuals dying after November 17, 1978, as a result of wounds or injuries incurred after such date.
 
->     “(2) __Statute of limitations waived.—__ 
+>     “(2)  __Statute of limitations waived__  __.—__ 
 
 >     Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) shall not expire before the date 1 year after the date of the enactment of this Act.”
 

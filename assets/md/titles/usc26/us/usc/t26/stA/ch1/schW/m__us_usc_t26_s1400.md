@@ -87,19 +87,19 @@
 
 [Pub. L. 111–312, title VII, § 754(e)][/us/pl/111/312/s754/e], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 1400A to 1400C of this title\] shall apply to periods after December 31, 2009.
 
->     “(2) __Tax-exempt dc empowerment zone bonds.—__ 
+>     “(2)  __Tax-exempt dc empowerment zone bonds__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 1400A of this title][/us/usc/t26/s1400A]\] shall apply to bonds issued after December 31, 2009.
 
->     “(3) __Acquisition dates for zero-percent capital gains rate.—__ 
+>     “(3)  __Acquisition dates for zero-percent capital gains rate__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 1400B of this title][/us/usc/t26/s1400B]\] shall apply to property acquired or substantially improved after December 31, 2009.
 
->     “(4) __Homebuyer credit.—__ 
+>     “(4)  __Homebuyer credit__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending [section 1400C of this title][/us/usc/t26/s1400C]\] shall apply to homes purchased after December 31, 2009.”
 
@@ -119,11 +119,11 @@
 
 [Pub. L. 108–311, title III, § 310(e)][/us/pl/108/311/s310/e], Oct. 4, 2004, [118 Stat. 1180][/us/stat/118/1180], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1400A to 1400C and 1400F of this title\] shall take effect on January 1, 2004.
 
->     “(2) __Tax-exempt economic development bonds.—__ 
+>     “(2)  __Tax-exempt economic development bonds__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 1400A of this title][/us/usc/t26/s1400A]\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 4, 2004\].”
 

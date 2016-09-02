@@ -983,11 +983,11 @@
 
 [Pub. L. 112–240, title III, § 301(d)][/us/pl/112/240/s301/d], Jan. 2, 2013, [126 Stat. 2328][/us/stat/126/2328], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and [section 45C of this title][/us/usc/t26/s45C]\] shall apply to amounts paid or incurred after December 31, 2011.
 
->     “(2) __Modifications.—__ 
+>     “(2)  __Modifications__  __.—__ 
 
 >     The amendments made by subsections (b) and (c) \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
@@ -1001,11 +1001,11 @@
 
 [Pub. L. 110–343, div. C, title III, § 301(e)][/us/pl/110/343/s301/e], Oct. 3, 2008, [122 Stat. 3866][/us/stat/122/3866], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 45C of this title][/us/usc/t26/s45C]\] shall apply to taxable years beginning after December 31, 2007.
 
->     “(2) __Extension.—__ 
+>     “(2)  __Extension__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and [section 45C of this title][/us/usc/t26/s45C]\] shall apply to amounts paid or incurred after December 31, 2007.”
 
@@ -1025,13 +1025,13 @@
 
 [Pub. L. 109–432, div. A, title I, § 104(b)(2)][/us/pl/109/432/s104/b/2], (3), Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934], provided that:
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Except as provided in paragraph (3), the amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2006.
 
 >     “(3) __Transition rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a specified transitional taxable year for which an election under section 41(c)(4) of the Internal Revenue Code of 1986 applies, the credit determined under section 41(a)(1) of such Code shall be equal to the sum of—
 
@@ -1039,35 +1039,35 @@
 
 >             “(ii) the applicable 2007 percentage multiplied by the amount determined under section 41(c)(4)(A) of such Code (as in effect for taxable years ending on January 1, 2007).
 
->         “(B) __Definitions.—__ 
+>         “(B)  __Definitions__  __.—__ 
 
 >         For purposes of subparagraph (A)—
 
->             “(i) __Specified transitional taxable year.—__ 
+>             “(i)  __Specified transitional taxable year__  __.—__ 
 
 >             The term ‘specified transitional taxable year’ means any taxable year which ends after December 31, 2006, and which includes such date.
 
->             “(ii) __Applicable 2006 percentage.—__ 
+>             “(ii)  __Applicable 2006 percentage__  __.—__ 
 
 >             The term ‘applicable 2006 percentage’ means the number of days in the specified transitional taxable year before January 1, 2007, divided by the number of days in such taxable year.
 
->             “(iii) __Applicable 2007 percentage.—__ 
+>             “(iii)  __Applicable 2007 percentage__  __.—__ 
 
 >             The term ‘applicable 2007 percentage’ means the number of days in the specified transitional taxable year after December 31, 2006, divided by the number of days in such taxable year.”
 
 [Pub. L. 109–432, div. A, title I, § 104(c)(2)][/us/pl/109/432/s104/c/2]–(4), Dec. 20, 2006, [120 Stat. 2935][/us/stat/120/2935], provided that:
 
->     “(2) __Transition rule for deemed revocation of election of alternative incremental credit.—__ 
+>     “(2)  __Transition rule for deemed revocation of election of alternative incremental credit__  __.—__ 
 
 >     In the case of an election under section 41(c)(4) of the Internal Revenue Code of 1986 which applies to the taxable year which includes January 1, 2007, such election shall be treated as revoked with the consent of the Secretary of the Treasury if the taxpayer makes an election under section 41(c)(5) of such Code (as added by this subsection) for such year.
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     Except as provided in paragraph (4), the amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2006.
 
 >     “(4) __Transition rule for noncalendar taxable years.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a specified transitional taxable year for which an election under section 41(c)(5) of the Internal Revenue Code of 1986 (as added by this subsection) applies, the credit determined under section 41(a)(1) of such Code shall be equal to the sum of—
 
@@ -1075,19 +1075,19 @@
 
 >             “(ii) the applicable 2007 percentage multiplied by the amount determined under section 41(c)(5) of such Code (as in effect for taxable years ending on January 1, 2007).
 
->         “(B) __Definitions and special rules.—__ 
+>         “(B)  __Definitions and special rules__  __.—__ 
 
 >         For purposes of subparagraph (A)—
 
->             “(i) __Definitions.—__ 
+>             “(i)  __Definitions__  __.—__ 
 
 >             Terms used in this paragraph which are also used in subsection (b)(3) \[set out above\] shall have the respective meanings given such terms in such subsection.
 
->             “(ii) __Dual elections permitted.—__ 
+>             “(ii)  __Dual elections permitted__  __.—__ 
 
 >             Elections under paragraphs (4) and (5) of section 41(c) of such Code may both apply for the specified transitional taxable year.
 
->             “(iii) __Deferral of deemed election revocation.—__ 
+>             “(iii)  __Deferral of deemed election revocation__  __.—__ 
 
 >             Any election under section 41(c)(4) of the Internal Revenue Code of 1986 treated as revoked under paragraph (2) shall be treated as revoked for the taxable year after the specified transitional taxable year.”
 
@@ -1137,15 +1137,15 @@
 
 [Pub. L. 104–188, title I, § 1204(f)][/us/pl/104/188/s1204/f], Aug. 20, 1996, [110 Stat. 1775][/us/stat/110/1775], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 28 \[now 45C\] of this title\] shall apply to taxable years ending after June 30, 1996.
 
->     “(2) __Subsections (c) and (d).—__ 
+>     “(2)  __Subsections__  __(c)__  __and__  __(d).—__ 
 
 >     The amendments made by subsections (c) and (d) \[amending this section\] shall apply to taxable years beginning after June 30, 1996.
 
->     “(3) __Estimated tax.—__ 
+>     “(3)  __Estimated tax__  __.—__ 
 
 >     The amendments made by this section shall not be taken into account under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) in determining the amount of any installment required to be paid for a taxable year beginning in 1997.”
 
@@ -1189,15 +1189,15 @@
 
 [Pub. L. 99–514, title II, § 231(g)][/us/pl/99/514/s231/g], Oct. 22, 1986, [100 Stat. 2180][/us/stat/100/2180], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection (2), the amendments made by this section \[amending this section and sections 28, 38, 39, 108, 170, 280C, 381, 936, 6411, and 6511 of this title, renumbering former [section 30 of this title][/us/usc/t26/s30] as this section, and enacting and amending provisions set out as notes under this section\] shall apply to taxable years beginning after December 31, 1985.
 
->     “(2) __Subsection (a).—__ 
+>     “(2)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section and provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1985.
 
->     “(3) __Basic research.—__ 
+>     “(3)  __Basic research__  __.—__ 
 
 >     Section 41(a)(2) of the Internal Revenue Code of 1986 (as added by this section), and the amendments made by subsection (c)(2) \[amending this section\], shall apply to taxable years beginning after December 31, 1986.”
 
@@ -1221,17 +1221,17 @@
 
 [Pub. L. 97–34, title II, § 221(d)][/us/pl/97/34/s221/d], Aug. 13, 1981, [95 Stat. 241][/us/stat/95/241], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title II, § 231(a)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2173, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 55, 381, 383, 6096, 6411, and 6511 of this title\] shall apply to amounts paid or incurred after June 30, 1981.
 
 >     “(2) __Transitional rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If, with respect to the first taxable year to which the amendments made by this section apply and which ends in 1981 or 1982, the taxpayer may only take into account qualified research expenses paid or incurred during a portion of such taxable year, the amount of the qualified research expenses taken into account for the base period of such taxable year shall be the amount which bears the same ratio to the total qualified research expenses for such base period as the number of months in such portion of such taxable year bears to the total number of months in such taxable year.
 
->         “(B) __Definitions.—__ 
+>         “(B)  __Definitions__  __.—__ 
 
 >         For purposes of the preceding sentence, the terms ‘qualified research expenses’ and ‘base period’ have the meanings given to such terms by section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section).”
 
@@ -1239,11 +1239,11 @@
 
 [Pub. L. 109–432, div. A, title I, § 123][/us/pl/109/432/s123], Dec. 20, 2006, [120 Stat. 2944][/us/stat/120/2944], provided that:
 
->     “(a) __Research Credit Elections.—__ 
+>     “(a)  __Research Credit Elections__  __.—__ 
 
 >     In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
 
->     “(b) __Other Elections.—__ 
+>     “(b)  __Other Elections__  __.—__ 
 
 >     Except as otherwise provided by such Secretary or designee, a rule similar to the rule of subsection (a) shall apply with respect to elections under any other expired provision of the Internal Revenue Code of 1986 the applicability of which is extended by reason of the amendments made by this title \[amending this section and sections 32, 45A, 45C, 45D, 51, 54, 62, 164, 168, 170, 198, 220, 222, 613A, 1397E, 1400, 1400A to 1400C, 1400F, 1400N, 6103, 7608, 7652, and 9812 of this title, [section 1185a of Title 29][/us/usc/t29/s1185a], Labor, and [section 300gg–5 of Title 42][/us/usc/t42/s300gg–5], The Public Health and Welfare, and repealing [section 51A of this title][/us/usc/t26/s51A]\].”
 
@@ -1251,7 +1251,7 @@
 
 [Pub. L. 106–170, title V, § 502(d)][/us/pl/106/170/s502/d], Dec. 17, 1999, [113 Stat. 1920][/us/stat/113/1920], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986, the credit determined under section 41 of such Code which is otherwise allowable under such Code—
 
@@ -1261,7 +1261,7 @@
 
 >         On or after the earliest date that an amount of credit may be taken into account, such amount may be taken into account through the filing of an amended return, an application for expedited refund, an adjustment of estimated taxes, or other means allowed by such Code.
 
->     “(2) __Suspension periods.—__ 
+>     “(2)  __Suspension periods__  __.—__ 
 
 >     For purposes of this subsection—
 
@@ -1271,15 +1271,15 @@
 
 >     “(3) __Expedited refunds.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If there is an overpayment of tax with respect to a taxable year by reason of paragraph (1), the taxpayer may file an application for a tentative refund of such overpayment. Such application shall be in such manner and form, and contain such information, as the Secretary may prescribe.
 
->         “(B) __Deadline for applications.—__ 
+>         “(B)  __Deadline for applications__  __.—__ 
 
 >         Subparagraph (A) shall apply only to an application filed before the date which is 1 year after the close of the suspension period to which the application relates.
 
->         “(C) __Allowance of adjustments.—__ 
+>         “(C)  __Allowance of adjustments__  __.—__ 
 
 >         Not later than 90 days after the date on which an application is filed under this paragraph, the Secretary shall—
 
@@ -1291,21 +1291,21 @@
 
 >             in a manner similar to the manner provided in section 6411(b) of such Code.
 
->         “(D) __Consolidated returns.—__ 
+>         “(D)  __Consolidated returns__  __.—__ 
 
 >         The provisions of section 6411(c) of such Code shall apply to an adjustment under this paragraph in such manner as the Secretary may provide.
 
 >     “(4) __Credit attributable to suspension period.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of this subsection, in the case of a taxable year which includes a portion of the suspension period, the amount of credit determined under section 41 of such Code for such taxable year which is attributable to such period is the amount which bears the same ratio to the amount of credit determined under such section 41 for such taxable year as the number of months in the suspension period which are during such taxable year bears to the number of months in such taxable year.
 
->         “(B) __Waiver of estimated tax penalties.—__ 
+>         “(B)  __Waiver of estimated tax penalties__  __.—__ 
 
 >         No addition to tax shall be made under section 6654 or 6655 of such Code for any period before July 1, 1999, with respect to any underpayment of tax imposed by such Code to the extent such underpayment was created or increased by reason of subparagraph (A).
 
->     “(5) __Secretary.—__ 
+>     “(5)  __Secretary__  __.—__ 
 
 >     For purposes of this subsection, the term ‘Secretary’ means the Secretary of the Treasury (or such Secretary’s delegate).”
 

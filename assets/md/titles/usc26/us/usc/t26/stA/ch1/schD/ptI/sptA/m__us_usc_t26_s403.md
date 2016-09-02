@@ -515,11 +515,11 @@
 
 [Pub. L. 99–514, title XI, § 1120(c)][/us/pl/99/514/s1120/c], Oct. 22, 1986, [100 Stat. 2464][/us/stat/100/2464], as amended by [Pub. L. 100–647, title I, § 1011(m)(3)][/us/pl/100/647/s1011/m/3], Nov. 10, 1988, [102 Stat. 3471][/us/stat/102/3471], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 1988.
 
->     “(2) __Collective bargaining agreements.—__ 
+>     “(2)  __Collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section shall not apply to plan years beginning before the earlier of—
 
@@ -563,23 +563,23 @@
 
 [Pub. L. 97–248, title II, § 251(e)][/us/pl/97/248/s251/e], Sept. 3, 1982, [96 Stat. 531][/us/stat/96/531], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and [section 415 of this title][/us/usc/t26/s415], and enacting a provision set out as a note below\] shall apply to taxable years beginning after December 31, 1981.
 
->     “(2) __Retirement income accounts.—__ 
+>     “(2)  __Retirement income accounts__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1974.
 
->     “(3) __Section 415 amendments.—__ 
+>     “(3)  __Section 415 amendments__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 415 of this title][/us/usc/t26/s415]\] shall apply to years beginning after December 31, 1981.
 
->     “(4) __Correction period.—__ 
+>     “(4)  __Correction period__  __.—__ 
 
 >     The amendment made by subsection (d) \[enacting provisions set out below\] shall take effect on July 1, 1982.
 
->     “(5) __Special rule for existing defined benefit arrangements.—__ 
+>     “(5)  __Special rule for existing defined benefit arrangements__  __.—__ 
 
 >     Any defined benefit arrangement which is established by a church or a convention or association of churches (including an organization described in section 414(e)(3)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and which is in effect on the date of the enactment of this Act \[Sept. 3, 1982\] shall not be treated as failing to meet the requirements of section 403(b)(2) of such Code merely because it is a defined benefit arrangement.”
 
@@ -683,25 +683,25 @@
 
 >     “(a) __Multiple Salary Reduction Agreements Permitted.—__ 
 
->         “(1) __General rule.—__ 
+>         “(1)  __General rule__  __.—__ 
 
 >         For purposes of section 403(b) of the Internal Revenue Code of 1986, the frequency that an employee is permitted to enter into a salary reduction agreement, the salary to which such an agreement may apply, and the ability to revoke such an agreement shall be determined under the rules applicable to cash or deferred elections under section 401(k) of such Code.
 
->         “(2) __Constructive receipt.—__ 
+>         “(2)  __Constructive receipt__  __.—__ 
 
 >         \[Amended [section 402 of this title][/us/usc/t26/s402].\]
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         This subsection shall apply to taxable years beginning after December 31, 1995.
 
 >     “(b) __Treatment of Indian Tribal Governments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any contract purchased in a plan year beginning before January 1, 1995, section 403(b) of the Internal Revenue Code of 1986 shall be applied as if any reference to an employer described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from tax under section 501 of such Code included a reference to an employer which is an Indian tribal government (as defined by section 7701(a)(40) of such Code), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of such Code), an agency or instrumentality of an Indian tribal government or subdivision thereof, or a corporation chartered under Federal, State, or tribal law which is owned in whole or in part by any of the foregoing.
 
->         “(2) __Rollovers.—__ 
+>         “(2)  __Rollovers__  __.—__ 
 
 >         Solely for purposes of applying section 403(b)(8) of such Code to a contract to which paragraph (1) applies, a qualified cash or deferred arrangement under section 401(k) of such Code shall be treated as if it were a plan or contract described in clause (ii) of section 403(b)(8)(A) of such Code.”
 

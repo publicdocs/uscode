@@ -85,11 +85,11 @@
 
 [Pub. L. 100–647, title III, § 3044][/us/pl/100/647/s3044], Nov. 10, 1988, [102 Stat. 3642][/us/stat/102/3642], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     The amendments made by this subtitle \[subtitle E (§§ 3041–3044) of title III of [Pub. L. 100–647][/us/pl/100/647], enacting this section and amending sections 1402 and 3121 of this title, [section 71 of Title 25][/us/usc/t25/s71], Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
 
->     “(b) __No Inference Created.—__ 
+>     “(b)  __No Inference Created__  __.—__ 
 
 >     Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of March 17, 1988, by any treaty, law, or Executive Order.”
 

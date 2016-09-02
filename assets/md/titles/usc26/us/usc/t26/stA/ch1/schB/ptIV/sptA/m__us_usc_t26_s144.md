@@ -511,11 +511,11 @@
 
 [Pub. L. 100–647, title VI, § 6176(b)][/us/pl/100/647/s6176/b], Nov. 10, 1988, [102 Stat. 3726][/us/stat/102/3726], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].
 
->     “(2) __Refundings.—__ 
+>     “(2)  __Refundings__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued on or before the date of the enactment of this Act if—
 

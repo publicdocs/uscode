@@ -321,27 +321,27 @@
 
 [Pub. L. 97–248, title III, § 334(e)][/us/pl/97/248/s334/e], Sept. 3, 1982, [96 Stat. 627][/us/stat/96/627], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Amendment made by subsections (a) and (d).—__ 
+>     “(1)  __Amendment made by subsections__  __(a)__  __and__  __(d).—__ 
 
 >     Except as provided in paragraph (4), the amendment made by subsections (a) \[enacting this section\] and (d) \[amending [section 3402 of this title][/us/usc/t26/s3402]\] shall apply to payments or other distributions made after December 31, 1982.
 
->     “(2) __Amendments made by subsection (b).—__ 
+>     “(2)  __Amendments made by subsection__  __(b).—__ 
 
 >     Except as provided in paragraph (4), the amendments made by subsection (b) \[amending [section 6047 of this title][/us/usc/t26/s6047]\] shall take effect on January 1, 1983.
 
->     “(3) __Amendments made by subsection (c).—__ 
+>     “(3)  __Amendments made by subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[enacting [section 6704 of this title][/us/usc/t26/s6704]\] shall take effect on January 1, 1985.
 
->     “(4) __Periodic payments beginning before__  __january 1, 1983__  __.—__ 
+>     “(4)  __Periodic payments beginning before __  __january 1, 1983__  __.—__ 
 
 >     For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
 
->     “(5) __Delay in application.—__ 
+>     “(5)  __Delay in application__  __.—__ 
 
 >     The Secretary of the Treasury shall prescribe such regulations which delay (but not beyond June 30, 1983) the application of some or all of the amendments made by this section with respect to any payor until such time as such payor is able to comply without undue hardship with the requirements of such provisions.
 
->     “(6) __Waiver of penalty.—__ 
+>     “(6)  __Waiver of penalty__  __.—__ 
 
 >     No penalty shall be assessed under section 6672 with respect to any failure to withhold as required by the amendments made by this section if such failure was before July 1, 1983, and if the person made a good faith effort to comply with such withholding requirements.”
 

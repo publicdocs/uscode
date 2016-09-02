@@ -737,15 +737,15 @@
 
 [Pub. L. 99–44, § 6(a)][/us/pl/99/44/s6/a]–(c), May 24, 1985, [99 Stat. 78][/us/stat/99/78], 79, as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Repeals.—__ 
+>     “(a)  __Repeals__  __.—__ 
 
 >     The amendment and repeals made by subsections (a) and (b) of section 1 \[amending this section and repealing section 179(b)(2), (3) of [Pub. L. 98–369][/us/pl/98/369] which had amended sections 6653 and 6695 of this title\] shall take effect as if included in the amendments made by section 179(b) of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369]\].
 
->     “(b) __Restoration of Prior Law for 1985.—__ 
+>     “(b)  __Restoration of Prior Law for__  __1985.—__ 
 
 >     For taxable years beginning in 1985, section 274(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply as it read before the amendments made by section 179(b)(1) of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], see 1984 Amendments note above\].
 
->     “(c) __Exception From Substantiation Requirements for Qualified Nonpersonal Use Vehicles.—__ 
+>     “(c)  __Exception From Substantiation Requirements for Qualified Nonpersonal Use Vehicles__  __.—__ 
 
 >     The amendments made by section 2 \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
 
@@ -847,15 +847,15 @@
 
 [Pub. L. 96–222, title I, § 103(a)(10)(C)][/us/pl/96/222/s103/a/10/C], Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(i) __In general.—__ 
+>     “(i)  __In general__  __.—__ 
 
 >     Subsection (a) of section 274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to disallowance of certain entertainment, etc., expenses) shall not apply to expenses paid or incurred by the taxpayer for goods, services, and facilities to the extent that the expenses are includible in the gross income of a recipient of the entertainment, amusement, or recreation who is not an employee of the taxpayer as compensation for services rendered or as a prize or award under section 74 of such Code.
 
->     “(ii) __Information return requirement.—__ 
+>     “(ii)  __Information return requirement__  __.—__ 
 
 >     Clause (i) shall not apply to any amount paid or incurred by the taxpayer if such amount is required to be included in any information return filed by such taxpayer under part III of subchapter A of chapter 61 of such Code \[section 6031 et seq. of this title\] and is not so included.
 
->     “(iii) __Application of subparagraph.—__ 
+>     “(iii)  __Application of subparagraph__  __.—__ 
 
 >     This subparagraph shall only apply with respect to expenses paid or incurred during 1979 or 1980.”
 

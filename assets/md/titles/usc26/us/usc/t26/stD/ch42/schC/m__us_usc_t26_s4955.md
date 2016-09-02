@@ -111,11 +111,11 @@
 
 [Pub. L. 104–168, title XIII, § 1311(d)(1)][/us/pl/104/168/s1311/d/1], (2), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 4958 of this title][/us/usc/t26/s4958] and amending this section and sections 4963, 6213, 7422, and 7454 of this title\] (other than subsection (b)) \[amending [section 501 of this title][/us/usc/t26/s501]\] shall apply to excess benefit transactions occurring on or after September 14, 1995.
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendments referred to in paragraph (1) shall not apply to any benefit arising from a transaction pursuant to any written contract which was binding on September 13, 1995, and at all times thereafter before such transaction occurred.”
 

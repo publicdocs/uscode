@@ -123,11 +123,11 @@
 
 [Pub. L. 87–834, § 19(h)][/us/pl/87/834/s19/h], Oct. 16, 1962, [76 Stat. 1058][/us/stat/76/1058], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Dividends and interest.—__ 
+>     “(1)  __Dividends and interest__  __.—__ 
 
 >     The amendments made by this section \[enacting sections 6049 and 6678 of this title and amending this section and sections 6041, 6044, and 6052 of this title\] shall apply to payments of dividends and interest made on or after January 1, 1963.
 
->     “(2) __Patronage dividends.—__ 
+>     “(2)  __Patronage dividends__  __.—__ 
 
 >     The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
 

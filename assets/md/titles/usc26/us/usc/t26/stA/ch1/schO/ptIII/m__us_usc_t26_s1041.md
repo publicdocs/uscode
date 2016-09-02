@@ -73,19 +73,19 @@
 
 [Pub. L. 98–369, div. A, title IV, § 421(d)][/us/pl/98/369/s421/d], July 18, 1984, [98 Stat. 795][/us/stat/98/795], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 47, 72, 101, 453, 453B, 1001, 1015, and 1239 of this title\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Election to have amendments apply to transfers after 1983.—__ 
+>     “(2)  __Election to have amendments apply to transfers after 1983__  __.—__ 
 
 >     If both spouses or former spouses make an election under this paragraph, the amendments made by this section shall apply to all transfers made by such spouses (or former spouses) after December 31, 1983.
 
->     “(3) __Exception for transfers pursuant to existing decrees.—__ 
+>     “(3)  __Exception for transfers pursuant to existing decrees__  __.—__ 
 
 >     Except in the case of an election under paragraph (2), the amendments made by this section shall not apply to transfers under any instrument in effect on or before the date of the enactment of this Act unless both spouses (or former spouses) elect to have such amendments apply to transfers under such instrument.
 
->     “(4) __Election.—__ 
+>     “(4)  __Election__  __.—__ 
 
 >     Any election under paragraph (2) or (3) shall be made in such manner, at such time, and subject to such conditions, as the Secretary of the Treasury or his delegate may by regulations prescribe.”
 

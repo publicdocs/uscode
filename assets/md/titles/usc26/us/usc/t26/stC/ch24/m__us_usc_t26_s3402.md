@@ -785,7 +785,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title III, § 317(b)][/us/pl/97/248/s317/b], Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610], provided: 
+[Pub. L. 97–248, title III, § 317(b)][/us/pl/97/248/s317/b], Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 1983.”
 

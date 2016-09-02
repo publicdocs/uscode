@@ -169,11 +169,11 @@
 
 [Pub. L. 97–248, title II, § 205(c)(1)][/us/pl/97/248/s205/c/1], Sept. 3, 1982, [96 Stat. 430][/us/stat/96/430], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __General rule.—__ 
+>     “(A)  __General rule__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by subsection (a) \[enacting this section and amending sections 48, 312, and 1016 of this title\] shall apply to periods after December 31, 1982, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendments made by subsection (a) shall not apply to any property which—
 
@@ -187,7 +187,7 @@
 
 >     “(C) __Special rule for integrated manufacturing facilities.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         In the case of any integrated manufacturing facility, the requirements of clause (i) of subparagraph (B) shall be treated as met if—
 
@@ -195,7 +195,7 @@
 
 >             “(II) during the period beginning after August 13, 1981, and ending on July 1, 1982, the taxpayer constructed (or entered into binding contracts for the construction of) more than 20 percent of the cost of such facility.
 
->         “(ii) __Integrated manufacturing facility.—__ 
+>         “(ii)  __Integrated manufacturing facility__  __.—__ 
 
 >         For purposes of clause (i), the term ‘integrated manufacturing facility’ means 1 or more facilities—
 
@@ -203,11 +203,11 @@
 
 >             “(II) for the manufacture of 1 or more manufactured products from raw materials by the application of 2 or more integrated manufacturing processes.
 
->     “(D) __Special rule for historic structures.—__ 
+>     “(D)  __Special rule for historic structures__  __.—__ 
 
 >     In the case of any certified historic structure (as defined in section 48(g)(3) of the Internal Revenue Code of 1986), clause (i) of subparagraph (B) shall be applied by substituting ‘December 31, 1980’ for ‘August 13, 1981.’
 
->     “(E) __Certain projects with respect to historic structures.—__ 
+>     “(E)  __Certain projects with respect to historic structures__  __.—__ 
 
 >     In the case of any certified historic structure (as so defined), the requirements of clause (i) of subparagraph (B) shall be treated as met with respect to such property—
 

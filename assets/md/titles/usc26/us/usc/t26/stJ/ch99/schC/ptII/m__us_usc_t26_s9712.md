@@ -45,7 +45,7 @@
 
             (A) __In general__ 
 
-                The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)][/us/usc/t30/s1232/h/2/C]) shall include any amount transferred to the plan under subsections (h) and (i) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232][/us/usc/t30/s1232]).
+                The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)][/us/usc/t30/s1232/h/2/C]) shall include any amount transferred to the plan under subsections (h) and (i) of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “section 402 of”. </sup></sup>  the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232][/us/usc/t30/s1232]).
 
             (B) __Use of funds__ 
 

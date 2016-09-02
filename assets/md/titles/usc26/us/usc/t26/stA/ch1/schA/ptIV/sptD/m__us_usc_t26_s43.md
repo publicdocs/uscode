@@ -201,17 +201,19 @@
 
 [Pub. L. 101–508, title XI, § 11511(d)][/us/pl/101/508/s11511/d], Nov. 5, 1990, [104 Stat. 1388–485][/us/stat/104/1388-485], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 38, 39, 196, and 6501 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
 
->     “(2) __Special rule for significant expansion of projects.—__ 
+>     “(2)  __Special rule for significant expansion of projects__  __.—__ 
 
 >     For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990.”
 
  __Inflation Adjusted Items for Certain Tax Years__ 
 
     Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+    2013—Internal Revenue Notice 2013–50.
 
     2012—Internal Revenue Notice 2012–49.
 

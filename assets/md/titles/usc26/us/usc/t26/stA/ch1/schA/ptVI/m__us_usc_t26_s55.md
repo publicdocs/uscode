@@ -585,31 +585,31 @@
 
 [Pub. L. 99–514, title VII, § 701(f)][/us/pl/99/514/s701/f], Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343], as amended by [Pub. L. 100–647, title I, § 1007(f)(2)][/us/pl/100/647/s1007/f/2], (3), Nov. 10, 1988, [102 Stat. 3433][/us/stat/102/3433], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and sections 53 and 56 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48, 173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 >     “(2) __Adjustment of net operating loss.—__ 
 
->         “(A) __Individuals.—__ 
+>         “(A)  __Individuals__  __.—__ 
 
 >         In the case of a net operating loss of an individual for a taxable year beginning after December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
->         “(B) __Corporations.—__ 
+>         “(B)  __Corporations__  __.—__ 
 
 >         If the minimum tax of a corporation was deferred under section 56(b) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any taxable year beginning before January 1, 1987, and the amount of such tax has not been paid for any taxable year beginning before January 1, 1987, the amount of the net operating loss carryovers of such corporation which may be carried to taxable years beginning after December 31, 1986, for purposes of the minimum tax shall be reduced by the amount of tax preferences a tax on which was so deferred.
 
->     “(3) __Installment sales.—__ 
+>     “(3)  __Installment sales__  __.—__ 
 
 >     Section 56(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any disposition to which the amendments made by section 811 of this Act \[enacting [section 453C of this title][/us/usc/t26/s453C]\] (relating to allocation of dealer’s indebtedness to installment obligations) do not apply by reason of section 811(c)(2) of this Act \[enacting provisions set out as a note under [section 453C of this title][/us/usc/t26/s453C]\].
 
->     “(4) __Exception for charitable contributions before__  __august 16, 1986__  __.—__ 
+>     “(4)  __Exception for charitable contributions before __  __august 16, 1986__  __.—__ 
 
 >     Section 57(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
 
 >     “(5) __Book income.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
 
@@ -617,11 +617,11 @@
 
 >             “(ii) the aggregate amounts taken into account under this paragraph for preceding taxable years.
 
->         “(B) __Taxpayer to whom paragraph applies.—__ 
+>         “(B)  __Taxpayer to whom paragraph applies__  __.—__ 
 
 >         This paragraph applies to a taxpayer which was incorporated in Delaware on May 31, 1912.
 
->         “(C) __Terms.—__ 
+>         “(C)  __Terms__  __.—__ 
 
 >         Any term used in this paragraph which is used in section 56 of such Code (as so added) shall have the same meaning as when used in such section.
 

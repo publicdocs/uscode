@@ -105,7 +105,7 @@
 
     (g) __Transferred amounts must stay in plan even though investment credit is redetermined or recaptured__ 
 
-        A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B))  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41  <sup>\[2\]</sup>  (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1)  <sup>\[2\]</sup>  and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+        A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) 1 shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 1 (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) 1 and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
     (h) __Right to demand employer securities; put option__ 
 
@@ -171,7 +171,7 @@
 
         As reimbursement for the expenses of establishing the plan, the employer may withhold from amounts due the plan for the taxable year for which the plan is established (or the plan may pay) so much of the amounts paid or incurred in connection with the establishment of the plan as does not exceed the sum of—
 
-            (A) 10 percent of the first $100,000 which the employer is required to transfer to the plan for that taxable year under section 41(c)(1)(B), <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  and
+            (A) 10 percent of the first $100,000 which the employer is required to transfer to the plan for that taxable year under section 41(c)(1)(B),1 and
 
             (B) 5 percent of any amount so required to be transferred in excess of the first $100,000; and
 
@@ -249,7 +249,7 @@
 
     (m) __Nonrecognition of gain or loss on contribution of employer securities to tax credit employee stock ownership plan__ 
 
-        No gain or loss shall be recognized to the taxpayer with respect to the transfer of employer securities to a tax credit employee stock ownership plan maintained by the taxpayer to the extent that such transfer is required under section 41(c)(1)(B), <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  or subparagraph (A) or (B) of section 48(n)(1). <sup>\[4\]</sup> 
+        No gain or loss shall be recognized to the taxpayer with respect to the transfer of employer securities to a tax credit employee stock ownership plan maintained by the taxpayer to the extent that such transfer is required under section 41(c)(1)(B),1 or subparagraph (A) or (B) of section 48(n)(1).1
 
     (n) __Securities received in certain transactions__ 
 
@@ -261,7 +261,7 @@
 
              during the nonallocation period, for the benefit of—
 
-                (i) any taxpayer who makes an election under section 1042(a) with respect to employer securities,,, <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup> 
+                (i) any taxpayer who makes an election under section 1042(a) with respect to employer securities,,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
                 (ii) any individual who is related to the taxpayer (within the meaning of section 267(b)), or
 
@@ -477,11 +477,11 @@
 
     (q) __Cross references__ 
 
-        (1) For requirements for allowance of employee plan credit, see section 48(n). <sup>\[6\]</sup>  <sup><sup> 6 See References in Text note below. </sup></sup> 
+        (1) For requirements for allowance of employee plan credit, see section 48(n).1
 
-        (2) For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699.6
+        (2) For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699.1
 
-        (3) For requirements for allowance of an employee stock ownership credit, see section 41.6
+        (3) For requirements for allowance of an employee stock ownership credit, see section 41.1
 
 (Added [Pub. L. 95–600, title I, § 141(a)][/us/pl/95/600/s141/a], Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], § 409A; amended [Pub. L. 96–222, title I, § 101(a)(7)(D)][/us/pl/96/222/s101/a/7/D]–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, [94 Stat. 198–200][/us/stat/94/198-200]; [Pub. L. 96–605, title II, § 224(a)][/us/pl/96/605/s224/a], Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 331(c)(1), 334, 336, 337(a), Aug. 13, 1981, [95 Stat. 293][/us/stat/95/293], 297, 298; [Pub. L. 97–448, title I, § 103(h)][/us/pl/97/448/s103/h], (i), Jan. 12, 1983, [96 Stat. 2379][/us/stat/96/2379]; renumbered § 409 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 474(r)(15), 491(e)(1), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 852; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§ 1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, [100 Stat. 2514][/us/stat/100/2514], 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, [102 Stat. 3490][/us/stat/102/3490], 3492, 3493, 3588, 3589; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, [103 Stat. 2352][/us/stat/103/2352], 2353, 2409; [Pub. L. 105–34, title XV, § 1506(a)][/us/pl/105/34/s1506/a], Aug. 5, 1997, [111 Stat. 1064][/us/stat/111/1064]; [Pub. L. 107–16, title VI, § 656(a)][/us/pl/107/16/s656/a], June 7, 2001, [115 Stat. 131][/us/stat/115/131]; [Pub. L. 107–147, title IV, § 411(j)(2)][/us/pl/107/147/s411/j/2], Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47]; [Pub. L. 109–280, title IX, § 901(a)(2)(B)][/us/pl/109/280/s901/a/2/B], Aug. 17, 2006, [120 Stat. 1029][/us/stat/120/1029].)
 
@@ -655,11 +655,11 @@
 
 [Pub. L. 107–16, title VI, § 656(d)][/us/pl/107/16/s656/d], June 7, 2001, [115 Stat. 135][/us/stat/115/135], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 4975 and 4979A of this title\] shall apply to plan years beginning after December 31, 2004.
 
->     “(2) __Exception for certain plans.—__ 
+>     “(2)  __Exception for certain plans__  __.—__ 
 
 >     In the case of any—
 
@@ -769,11 +769,11 @@
 
 >     Paragraphs (1)(A) and (2) of section 409A(h) of the Internal Revenue Code of 1986 (as added by subsection (a)) \[now section 409\] shall apply to distributions after December 31, 1978, made by a plan to which section 409A of such Code applies.
 
->     “(5) __Subsection (f)(7).—__ 
+>     “(5)  __Subsection__  __(f)(7).—__ 
 
 >     The amendment made by subsection (f)(7) \[amending [section 415 of this title][/us/usc/t26/s415]\] shall apply to years beginning after December 31, 1978.
 
->     “(6) __Retroactive application of amendment made by subsection (d).—__ 
+>     “(6)  __Retroactive application of amendment made by subsection__  __(d).—__ 
 
 >     In determining the regular tax deduction under section 56(c) of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1979, the amount of the credit allowable under section 38 of such Code shall be determined without regard to section 46(a)(2)(B) of such Code (as in effect before the enactment of the Energy Tax Act of 1978 \[Nov. 9, 1978\]).”
 

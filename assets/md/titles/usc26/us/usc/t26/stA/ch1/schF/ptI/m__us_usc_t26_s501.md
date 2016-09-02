@@ -537,11 +537,11 @@
 
         (29) __CO–OP health insurance issuers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A qualified nonprofit health insurance issuer (within the meaning of section 1322 of the Patient Protection and Affordable Care Act) which has received a loan or grant under the CO–OP program under such section, but only with respect to periods for which the issuer is in compliance with the requirements of such section and any agreement with respect to the loan or grant.
 
-            (B) __Conditions for exemption.—__ 
+            (B)  __Conditions for exemption__  __.—__ 
 
             Subparagraph (A) shall apply to an organization only if—
 
@@ -877,7 +877,7 @@
 
         (4) __Denial of deduction__ 
 
-            No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2), <sup>\[5\]</sup>  <sup><sup> 5 See References in Text note below. </sup></sup>  642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
+            No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2),1 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
 
         (5) __Denial of administrative or judicial challenge of suspension or denial of deduction__ 
 
@@ -1377,15 +1377,15 @@
 
 [Pub. L. 111–148, title IX, § 9007(f)][/us/pl/111/148/s9007/f], Mar. 23, 2010, [124 Stat. 858][/us/stat/124/858], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting [section 4959 of this title][/us/usc/t26/s4959] and amending this section and [section 6033 of this title][/us/usc/t26/s6033]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 23, 2010\].
 
->     “(2) __Community health needs assessment.—__ 
+>     “(2)  __Community health needs assessment__  __.—__ 
 
 >     The requirements of section 501(r)(3) of the Internal Revenue Code of 1986, as added by subsection (a), shall apply to taxable years beginning after the date which is 2 years after the date of the enactment of this Act.
 
->     “(3) __Excise tax.—__ 
+>     “(3)  __Excise tax__  __.—__ 
 
 >     The amendments made by subsection (b) \[enacting [section 4959 of this title][/us/usc/t26/s4959]\] shall apply to failures occurring after the date of the enactment of this Act.”
 
@@ -1401,11 +1401,11 @@
 
 [Pub. L. 109–280, title XII, § 1220(c)][/us/pl/109/280/s1220/c], Aug. 17, 2006, [120 Stat. 1089][/us/stat/120/1089], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 513 of this title][/us/usc/t26/s513]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Transition rule for existing organizations.—__ 
+>     “(2)  __Transition rule for existing organizations__  __.—__ 
 
 >     In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginning after the date which is 1 year after the date of the enactment of this Act.”
 
@@ -1423,11 +1423,11 @@
 
 [Pub. L. 108–218, title II, § 206(e)][/us/pl/108/218/s206/e], Apr. 10, 2004, [118 Stat. 611][/us/stat/118/611], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 831 of this title][/us/usc/t26/s831]\] shall apply to taxable years beginning after December 31, 2003.
 
->     “(2) __Transition rule for companies in receivership or liquidation.—__ 
+>     “(2)  __Transition rule for companies in receivership or liquidation__  __.—__ 
 
 >     In the case of a company or association which—
 
@@ -1483,11 +1483,11 @@
 
 [Pub. L. 104–168, title XIII, § 1311(d)(3)][/us/pl/104/168/s1311/d/3], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to inurement occurring on or after September 14, 1995.
 
->     “(B) __Binding contracts.—__ 
+>     “(B)  __Binding contracts__  __.—__ 
 
 >     The amendment made by subsection (b) shall not apply to any inurement occurring before January 1, 1997, pursuant to a written contract which was binding on September 13, 1995, and at all times thereafter before such inurement occurred.”
 
@@ -1715,7 +1715,7 @@
 
 [Pub. L. 111–148, title IX, § 9007(e)][/us/pl/111/148/s9007/e], Mar. 23, 2010, [124 Stat. 858][/us/stat/124/858], provided that:
 
->     “(1) __Report on levels of charity care.—__ 
+>     “(1)  __Report on levels of charity care__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor \[now Education and the Workforce\], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:
 
@@ -1735,11 +1735,11 @@
 
 >     “(2) __Report on trends.—__ 
 
->         “(A) __Study.—__ 
+>         “(A)  __Study__  __.—__ 
 
 >         The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall conduct a study on trends in the information required to be reported under paragraph (1).
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         Not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor \[now Education and the Workforce\], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
 
@@ -1747,7 +1747,7 @@
 
 [Pub. L. 107–134, title I, § 104][/us/pl/107/134/s104], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986—
 
@@ -1755,7 +1755,7 @@
 
 >         “(2) in the case of a private foundation (as defined in section 509 of such Code), any payment described in paragraph (1) shall not be treated as made to a disqualified person for purposes of section 4941 of such Code.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall apply to payments made on or after September 11, 2001.”
 
@@ -1791,7 +1791,7 @@
 
 [Pub. L. 99–514, title XVI, § 1605][/us/pl/99/514/s1605], Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986, an organization shall be treated as an organization organized and operated exclusively for charitable purposes if such organization—
 
@@ -1825,21 +1825,21 @@
 
 >         “(4) was incorporated on July 20, 1981.
 
->     “(b) __Qualified Organizations.—__ 
+>     “(b)  __Qualified Organizations__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified organization’ has the same meaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
 
 >     “(c) __Treatment of Investment in a Technology Transfer Service Organization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A qualified investment made by a private foundation in an organization described in subparagraph (C) shall be treated as an investment described in section 4944(c) of the Internal Revenue Code of 1986 and shall not result in imposition of taxes under section 4941, 4943, 4944, 4945, or 507(c) of such Code.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection—
 
->             “(A) __Qualified investment.—__ 
+>             “(A)  __Qualified investment__  __.—__ 
 
 >             The term ‘qualified investment’ means a transfer by a private foundation of—
 
@@ -1849,7 +1849,7 @@
 
 >                   to such organization in exchange for debt.
 
->             “(B) __Private foundation.—__ 
+>             “(B)  __Private foundation__  __.—__ 
 
 >             The term ‘private foundation’ means—
 
@@ -1863,7 +1863,7 @@
 
 >                          “(II) the income of which is excluded from taxation under section 115 of such Code.
 
->             “(C) __Technology transfer organization.—__ 
+>             “(C)  __Technology transfer organization__  __.—__ 
 
 >             The term ‘technology transfer organization’ means a corporation established after the date of the enactment of this Act \[Oct. 22, 1986\]—
 
@@ -1877,7 +1877,7 @@
 
 >                 “(v) upon liquidation or dissolution of which all of its net assets can be distributed only to research organizations.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -1891,7 +1891,7 @@
 
 [Pub. L. 93–406, title II, § 1022(i)][/us/pl/93/406/s1022/i], Sept. 2, 1974, [88 Stat. 942][/us/stat/88/942], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Effective for taxable years beginning after December 31, 1973, for purposes of section 501(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exemption from tax), any trust forming part of a pension, profit-sharing, or stock bonus plan all of the participants of which are residents of the Commonwealth of Puerto Rico shall be treated as an organization described in section 401(a) of such Code if such trust—
 

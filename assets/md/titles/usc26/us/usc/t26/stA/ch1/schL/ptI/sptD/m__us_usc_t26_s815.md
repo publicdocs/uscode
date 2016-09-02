@@ -145,7 +145,7 @@
 
 [Pub. L. 99–514, title X, § 1013][/us/pl/99/514/s1013], Oct. 22, 1986, [100 Stat. 2395][/us/stat/100/2395], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If—
 
@@ -157,19 +157,19 @@
 
 >         then the amount described in section 815(a)(2) of such Code shall be reduced by the loss from operations (if any) for the liquidation year, and by the unused operations loss carryovers (if any) to the liquidation year (determined after the application of section 810 of such Code for such year). No carryover of any loss from operations of such company arising during the liquidation year (or any prior taxable year) shall be allowable for any taxable year succeeding the liquidation year.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (a)—
 
->         “(1) __Insolvent.—__ 
+>         “(1)  __Insolvent__  __.—__ 
 
 >         The term ‘insolvent’ means the excess of liabilities over the fair market value of assets.
 
->         “(2) __Loss from operations.—__ 
+>         “(2)  __Loss from operations__  __.—__ 
 
 >         The term ‘loss from operations’ has the meaning given such term by section 810(c) of such Code.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to liquidations on or after November 15, 1985, in taxable years ending after such date.”
 

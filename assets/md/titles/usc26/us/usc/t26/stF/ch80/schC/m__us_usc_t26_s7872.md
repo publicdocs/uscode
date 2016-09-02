@@ -451,17 +451,17 @@
 
 [Pub. L. 99–121, title II, § 204(a)][/us/pl/99/121/s204/a], (b), Oct. 11, 1985, [99 Stat. 514][/us/stat/99/514], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Section 201.—__ 
+>     “(a)  __Section__  __201.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by section 201 \[amending this section\] shall apply with respect to loans made after the date of enactment of this Act \[Oct. 11, 1985\].
 
->         “(2) __Section 7872 not to apply to certain loans.—__ 
+>         “(2)  __Section 7872 not to apply to certain loans__  __.—__ 
 
 >         Section 7872 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to loans made on or before the date of the enactment of this Act \[Oct. 11, 1985\] to any qualified continuing care facility pursuant to a continuing care contract. For purposes of this paragraph, the terms ‘qualified continuing care facility’ and ‘continuing care contract’ have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
 
->     “(b) __Section 202.—__ 
+>     “(b)  __Section__  __202.—__ 
 
 >     The amendment made by section 202 \[amending this section\] shall apply to contracts entered into after June 30, 1985, in taxable years ending after such date.”
 
@@ -469,7 +469,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 172(c)][/us/pl/98/369/s172/c], July 18, 1984, [98 Stat. 703][/us/stat/98/703], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section\] shall apply to—
 
@@ -477,7 +477,7 @@
 
 >         “(B) demand loans outstanding after June 6, 1984.
 
->     “(2) __Exception for demand loans outstanding on__  __june 6, 1984__  __, and repaid within 60 days after date of enactment.—__ 
+>     “(2)  __Exception for demand loans outstanding on __  __june 6, 1984__  __, and repaid within 60 days after date of enactment__  __.—__ 
 
 >     The amendments made by this section shall not apply to any demand loan which—
 
@@ -485,19 +485,19 @@
 
 >         “(B) was repaid before the date 60 days after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(3) __Exception for certain existing loans to continuing care facilities.—__ 
+>     “(3)  __Exception for certain existing loans to continuing care facilities__  __.—__ 
 
 >     Nothing in this subsection shall be construed to apply the amendments made by this section to any loan made before June 6, 1984, to a continuing care facility by a resident of such facility which is contingent on continued residence at such facility.
 
->     “(4) __Applicable federal rate for periods before__  __january 1, 1985__  __.—__ 
+>     “(4)  __Applicable federal rate for periods before __  __january 1, 1985__  __.—__ 
 
 >     For periods before January 1, 1985, the applicable Federal rate under paragraph (2) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section, shall be 10 percent, compounded semiannually.
 
->     “(5) __Treatment of renegotiations, etc.—__ 
+>     “(5)  __Treatment of renegotiations, etc__  __.—__ 
 
 >     For purposes of this subsection, any loan renegotiated, extended, or revised after June 6, 1984, shall be treated as a loan made after such date.
 
->     “(6) __Definition of term and demand loans.—__ 
+>     “(6)  __Definition of term and demand loans__  __.—__ 
 
 >     For purposes of this subsection, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply.”
 

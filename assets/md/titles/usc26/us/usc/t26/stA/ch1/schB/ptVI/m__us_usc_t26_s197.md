@@ -329,11 +329,11 @@
 
 [Pub. L. 108–357, title VIII, § 886(c)][/us/pl/108/357/s886/c], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1245 and 1253 of this title and repealing [section 1056 of this title][/us/usc/t26/s1056]\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Section 1245.—__ 
+>     “(2)  __Section 1245__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending [section 1245 of this title][/us/usc/t26/s1245]\] shall apply to franchises acquired after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -341,13 +341,13 @@
 
 [Pub. L. 103–66, title XIII, § 13261(g)][/us/pl/103/66/s13261/g], Aug. 10, 1993, [107 Stat. 540][/us/stat/107/540], as amended by [Pub. L. 104–188, title I, § 1703][/us/pl/104/188/s1703](l), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 167, 642, 848, 1016, 1060, 1245, and 1253 of this title\] shall apply with respect to property acquired after the date of the enactment of this Act \[Aug. 10, 1993\].
 
 >     “(2) __Election to have amendments apply to property acquired after__  __july 25, 1991__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If an election under this paragraph applies to the taxpayer—
 
@@ -357,7 +357,7 @@
 
 >             “(iii) in applying subsection (f)(9) of such section, with respect to any property acquired by the taxpayer or a related person on or before the date of the enactment of this Act, only holding or use on July 25, 1991, shall be taken into account.
 
->         “(B) __Election.—__ 
+>         “(B)  __Election__  __.—__ 
 
 >         An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
 
@@ -367,7 +367,7 @@
 
 >     “(3) __Elective binding contract exception.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to any acquisition of property by the taxpayer if—
 
@@ -377,7 +377,7 @@
 
 >             “(iii) the taxpayer makes an election under this paragraph with respect to such contract.
 
->         “(B) __Election.—__ 
+>         “(B)  __Election__  __.—__ 
 
 >         An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. Such an election, once made—
 

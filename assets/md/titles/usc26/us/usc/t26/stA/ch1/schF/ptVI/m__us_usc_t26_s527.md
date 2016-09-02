@@ -471,31 +471,31 @@
 
 [Pub. L. 107–276, § 6(h)(1)][/us/pl/107/276/s6/h/1], (2), Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that:
 
->     “(1) __Subsections (a) and (b).—__ 
+>     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Nov. 2, 2002\].
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall take effect as if included in the amendments made by [Public Law 106–230][/us/pl/106/230].”
 
 [Pub. L. 107–276, § 6(h)(4)][/us/pl/107/276/s6/h/4]–(6), Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that:
 
->     “(4) __Subsections (e)(1) and (f).—__ 
+>     “(4)  __Subsections__  __(e)(1)__  __and__  __(f).—__ 
 
 >     The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to be filed more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
 
->     “(5) __Subsections (e)(2) and (e)(3).—__ 
+>     “(5)  __Subsections__  __(e)(2)__  __and__  __(e)(3).—__ 
 
 >     The amendments made by subsections (e)(2) and (e)(3) \[amending this section\] shall apply to reports required to be filed on or after June 30, 2003.
 
->     “(6) __Subsection (g).—__ 
+>     “(6)  __Subsection__  __(g).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (g) \[amending this section\] shall apply to material changes on or after the date of the enactment of this Act.
 
->         “(B) __Transition rule.—__ 
+>         “(B)  __Transition rule__  __.—__ 
 
 >         In the case of a material change occurring during the 30-day period beginning on the date of the enactment of this Act, a notice under section 527(i) of the Internal Revenue Code of 1986 (as amended by this Act) shall not be required to be filed under such section before the later of—
 
@@ -507,15 +507,15 @@
 
 [Pub. L. 106–230, § 1(d)][/us/pl/106/230/s1/d], July 1, 2000, [114 Stat. 479][/us/stat/114/479], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 6104 and 6652 of this title\] shall take effect on the date of the enactment of this section \[July 1, 2000\].
 
->     “(2) __Organizations already in existence.—__ 
+>     “(2)  __Organizations already in existence__  __.—__ 
 
 >     In the case of an organization established before the date of the enactment of this section, the time to file the notice under section 527(i)(2) of the Internal Revenue Code of 1986, as added by this section, shall be 30 days after the date of the enactment of this section.
 
->     “(3) __Information availability.—__ 
+>     “(3)  __Information availability__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending [section 6104 of this title][/us/usc/t26/s6104]\] shall take effect on the date that is 45 days after the date of the enactment of this section.”
 
@@ -569,7 +569,7 @@
 
 [Pub. L. 107–276, § 4][/us/pl/107/276/s4], Nov. 2, 2002, [116 Stat. 1932][/us/stat/116/1932], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Federal Election Commission, shall publicize—
 
@@ -577,7 +577,7 @@
 
 >         “(2) the interaction of requirements to file a notification or report under section 527 of the Internal Revenue Code of 1986 and reports under the Federal Election Campaign Act of 1971 \[[2 U.S.C. 431][/us/usc/t2/s431] et seq.\].
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[[2 U.S.C. 431][/us/usc/t2/s431] et seq.\].”
 

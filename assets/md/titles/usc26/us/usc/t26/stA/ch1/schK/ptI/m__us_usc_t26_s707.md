@@ -113,7 +113,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 73(b)][/us/pl/98/369/s73/b], July 18, 1984, [98 Stat. 592][/us/stat/98/592], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply—
 
@@ -121,11 +121,11 @@
 
 >         “(B) in the case of transfers described in section 707(a)(2)(B) of such Code (as so amended), to property transferred after March 31, 1984.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to a transfer of property described in section 707(a)(2)(B)(i) if such transfer is pursuant to a binding contract in effect on March 31, 1984, and at all times thereafter before the transfer.
 
->     “(3) __Exception for certain transfers.—__ 
+>     “(3)  __Exception for certain transfers__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to a transfer of property described in section 707(a)(2)(B)(i) that is made before December 31, 1984, if—
 

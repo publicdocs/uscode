@@ -377,7 +377,7 @@
 
 [Pub. L. 104–191, title V, § 511(g)][/us/pl/104/191/s511/g], Aug. 21, 1996, [110 Stat. 2100][/us/stat/110/2100], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 2107 and 2501 of this title\] shall apply to—
 
@@ -385,17 +385,17 @@
 
 >         “(B) long-term residents of the United States with respect to whom an event described in \[former\] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after February 6, 1995.
 
->     “(2) __Ruling requests.—__ 
+>     “(2)  __Ruling requests__  __.—__ 
 
 >     In no event shall the 1-year period referred to in section 877(c)(1)(B) of such Code, as amended by this section, expire before the date which is 90 days after the date of the enactment of this Act \[Aug. 21, 1996\].
 
 >     “(3) __Special rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of an individual who performed an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act ([8 U.S.C. 1481(a)(1)][/us/usc/t8/s1481/a/1]–(4)) before February 6, 1995, but who did not, on or before such date, furnish to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of such act, the amendments made by this section and section 512 \[enacting [section 6039F of this title][/us/usc/t26/s6039F]\] shall apply to such individual except that the 10-year period described in section 877(a) of such Code shall not expire before the end of the 10-year period beginning on the date such statement is so furnished.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Subparagraph (A) shall not apply if the individual establishes to the satisfaction of the Secretary of the Treasury that such loss of United States citizenship occurred before February 6, 1994.”
 

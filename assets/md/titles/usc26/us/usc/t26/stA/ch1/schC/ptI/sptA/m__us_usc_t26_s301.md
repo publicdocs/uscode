@@ -197,7 +197,7 @@
 
 [Pub. L. 100–203, title X, § 10222(b)(2)][/us/pl/100/203/s10222/b/2], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411], as amended by [Pub. L. 100–647, title II, § 2004(j)(4)][/us/pl/100/647/s2004/j/4], Nov. 10, 1988, [102 Stat. 3605][/us/stat/102/3605], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after December 15, 1987. For purposes of applying such amendment to any such distribution—
 
@@ -205,7 +205,7 @@
 
 >         “(ii) such amendment shall not affect the determination of whether any distribution on or before December 15, 1987, is a dividend and the amount of any reduction in accumulated earnings and profits on account of any such distribution.
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendment made by paragraph (1) shall not apply for purposes of determining gain or loss on any disposition of stock after December 15, 1987, and before January 1, 1989, if such disposition is pursuant to a written binding contract, governmental order, letter of intent or preliminary agreement, or stock acquisition agreement, in effect on or before December 15, 1987.”
 

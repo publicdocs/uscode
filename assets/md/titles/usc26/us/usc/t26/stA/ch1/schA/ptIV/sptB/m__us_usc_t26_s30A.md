@@ -137,15 +137,15 @@
 
 [Pub. L. 104–188, title I, § 1601(c)][/us/pl/104/188/s1601/c], Aug. 20, 1996, [110 Stat. 1833][/us/stat/110/1833], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Special rule for qualified possession source investment income.—__ 
+>     “(2)  __Special rule for qualified possession source investment income__  __.—__ 
 
 >     The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
 
->     “(3) __Special transition rule for payment of estimated tax installment.—__ 
+>     “(3)  __Special transition rule for payment of estimated tax installment__  __.—__ 
 
 >     In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Aug. 20, 1996\] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction.”
 
@@ -153,7 +153,7 @@
 
 [Pub. L. 109–432, div. A, title I, § 119][/us/pl/109/432/s119], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], as amended by [Pub. L. 110–343, div. C, title III, § 309(a)][/us/pl/110/343/s309/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 756(a)][/us/pl/111/312/s756/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 330(a)][/us/pl/112/240/s330/a], (b), Jan. 2, 2013, [126 Stat. 2335][/us/stat/126/2335], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
 
@@ -167,27 +167,27 @@
 
 >         “(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e).
 
->     “(b) __Special Rules for Application of Section.—__ 
+>     “(b)  __Special Rules for Application of Section__  __.—__ 
 
 >     The following rules shall apply in applying section 30A of the Internal Revenue Code of 1986 for purposes of this section:
 
->         “(1) __Amount of credit.—__ 
+>         “(1)  __Amount of credit__  __.—__ 
 
 >         Notwithstanding section 30A(a)(1) of such Code, the amount of the credit determined under section 30A(a)(1) of such Code for any taxable year shall be the amount determined under section 30A(d) of such Code, except that section 30A(d) shall be applied without regard to paragraph (3) thereof.
 
->         “(2) __Separate application.—__ 
+>         “(2)  __Separate application__  __.—__ 
 
 >         In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section 30A of such Code (and so much of section 936 of such Code as relates to such section 30A) shall be applied separately with respect to American Samoa.
 
->         “(3) __Foreign tax credit allowed.—__ 
+>         “(3)  __Foreign tax credit allowed__  __.—__ 
 
 >         Notwithstanding section 30A(e) of such Code, the provisions of section 936(c) of such Code shall not apply with respect to the credit allowed by reason of this section.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section, any term which is used in this section which is also used in section 30A or 936 of such Code shall have the same meaning given such term by such section 30A or 936.
 
->     “(d) __Application of Section.—__ 
+>     “(d)  __Application of Section__  __.—__ 
 
 >     Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
 
@@ -195,7 +195,7 @@
 
 >         “(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 2 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2014.
 
->     “(e) __Qualified Production Activities Income Requirement.—__ 
+>     “(e)  __Qualified Production Activities Income Requirement__  __.—__ 
 
 >     A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year.”
 

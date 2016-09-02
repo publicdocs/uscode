@@ -61,7 +61,7 @@
 
             (A)
 
-             The sum of—
+             The  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  sum of—
 
                 (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
 

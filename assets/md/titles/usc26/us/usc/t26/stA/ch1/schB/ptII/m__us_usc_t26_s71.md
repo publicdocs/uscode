@@ -173,15 +173,15 @@
 
 >     “(2) __Effective dates.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by paragraph (1) \[amending this section\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
 
->         “(B) __Modifications of instruments executed before__  __january 1, 1987__  __.—__ 
+>         “(B)  __Modifications of instruments executed before __  __january 1, 1987__  __.—__ 
 
 >         The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
->     “(3) __Transitional rule.—__ 
+>     “(3)  __Transitional rule__  __.—__ 
 
 >     In the case of any instrument to which the amendment made by paragraph (1) \[amending this section\] does not apply, paragraph (2) of section 71(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) shall apply only with respect to the first 3 post-separation years.”
 
@@ -189,15 +189,15 @@
 
 [Pub. L. 98–369, div. A, title IV, § 422(e)][/us/pl/98/369/s422/e], July 18, 1984, [98 Stat. 798][/us/stat/98/798], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 215, 219, 682, 6676, and 7701 of this title\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section) executed after December 31, 1984.
 
->     “(2) __Modifications of instruments executed before__  __january 1, 1985__  __.—__ 
+>     “(2)  __Modifications of instruments executed before __  __january 1, 1985__  __.—__ 
 
 >     The amendments made by this section shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1985, but modified on or after such date if the modification expressly provides that the amendments made by this section shall apply to such modification.
 
->     “(3) __Requirement of identification number.—__ 
+>     “(3)  __Requirement of identification number__  __.—__ 
 
 >     Section 215(c) of the Internal Revenue Code of 1986 (as amended by subsection (b)) and the amendments made by subsection (c) \[amending [section 6676 of this title][/us/usc/t26/s6676]\] shall apply to payments made after December 31, 1984.”
 

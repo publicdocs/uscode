@@ -215,19 +215,17 @@
 
 [Pub. L. 97–248, title II, § 228(b)][/us/pl/97/248/s228/b], Sept. 3, 1982, [96 Stat. 493][/us/stat/96/493], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\]”
-
- shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
 
 [Pub. L. 97–248, title II, § 222(f)][/us/pl/97/248/s222/f], Sept. 3, 1982, [96 Stat. 481][/us/stat/96/481], as amended by [Pub. L. 97–448, title III, § 306(a)(6)(A)][/us/pl/97/448/s306/a/6/A], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 306, 312, 331, 334, 336, 341, 346, 543, and 562 of this title and repealing [section 338 of this title][/us/usc/t26/s338]\] shall apply to distributions after August 31, 1982.
 
 >     “(2) __Exceptions.—__ 
 
->         “(A) __Ruling requests.—__ 
+>         “(A)  __Ruling requests__  __.—__ 
 
 >         The amendments made by this section shall not apply to distributions made by any corporation if—
 
@@ -239,7 +237,7 @@
 
 >             “(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
->         “(B) __Plans adopted before__  __july 23, 1982__  __.—__ 
+>         “(B)  __Plans adopted before __  __july 23, 1982__  __.—__ 
 
 >         The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before July 23, 1982.
 
@@ -249,7 +247,7 @@
 
 >         “(D) __Tender offer or binding contract outstanding on__  __july 22, 1982__  __.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The amendments made by this section shall not apply to distributions made by a corporation if—
 
@@ -257,11 +255,11 @@
 
 >                 “(II) control of such corporation was acquired after July 22, 1982, pursuant to a tender offer or binding contract outstanding on such date.
 
->             “(ii) __Extension of time for adopting plan where acquisition subject to federal regulatory approval.—__ 
+>             “(ii)  __Extension of time for adopting plan where acquisition subject to federal regulatory approval__  __.—__ 
 
 >             If the acquisition described in clause (i)(II) is subject to approval by a Federal regulatory agency, clause (i) shall be applied by substituting for ‘October 1, 1982’ the date which is 90 days after the date on which approval by the Federal regulatory agency of such acquisition becomes final.
 
->             “(iii) __Special rule where offer subject to approval by foreign regulatory body.—__ 
+>             “(iii)  __Special rule where offer subject to approval by foreign regulatory body__  __.—__ 
 
 >             In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
@@ -269,7 +267,7 @@
 
 >                 “(II) clause (i) shall be applied by substituting for ‘October 1, 1982’ the date which is 90 days after the date on which such regulatory body approves a public offer to acquire stock in such corporation.
 
->             “(iv) __Special rule where one-third of shares acquired during march and april 1982.—__ 
+>             “(iv)  __Special rule where one-third of shares acquired during march and april 1982__  __.—__ 
 
 >             If—
 
@@ -279,13 +277,13 @@
 
 >                   subclause (II) of clause (i) shall not apply with respect to distributions made by the acquired corporation.
 
->         “(E) __Insurance companies.—__ 
+>         “(E)  __Insurance companies__  __.—__ 
 
 >         The amendments made by this section shall not apply to distributions made by an insurance company pursuant to a plan of partial liquidation adopted before October 1, 1982, where control was acquired by the distributee or its parent after December 31, 1980, and before July 23, 1982, and the conduct of the insurance business by the distributee is conditioned on approval by a State regulatory authority.
 
 >         For purposes of this paragraph, the term ‘control’ has the meaning given to such term by section 368(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that in applying such section both direct and indirect ownership of stock shall be taken into account.
 
->     “(3) __Approval of plan by board of directors.—__ 
+>     “(3)  __Approval of plan by board of directors__  __.—__ 
 
 >     For purposes of—
 
@@ -295,7 +293,7 @@
 
 >         a plan of liquidation shall be treated as adopted when approved by the corporation’s board of directors.
 
->     “(4) __Coordination with amendments made by section 224.—__ 
+>     “(4)  __Coordination with amendments made by section 224__  __.—__ 
 
 >     For purposes of section 338(e)(2)(C) of the Internal Revenue Code of 1986 (as added by section 224), any property acquired in a distribution to which the amendments made by this section do not apply by reason of paragraph (2) shall be treated as acquired before September 1, 1982.”
 

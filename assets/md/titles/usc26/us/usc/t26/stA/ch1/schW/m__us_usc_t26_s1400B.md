@@ -213,11 +213,11 @@
 
 [Pub. L. 110–343, div. C, title III, § 322(c)(3)][/us/pl/110/343/s322/c/3], Oct. 3, 2008, [122 Stat. 3874][/us/stat/122/3874], provided that:
 
->     “(A) __Extension.—__ 
+>     “(A)  __Extension__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending this section\] shall apply to acquisitions after December 31, 2007.
 
->     “(B) __Conforming amendments.—__ 
+>     “(B)  __Conforming amendments__  __.—__ 
 
 >     The amendments made by paragraph (2) \[amending this section and [section 1400F of this title][/us/usc/t26/s1400F]\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
 
@@ -225,11 +225,11 @@
 
 [Pub. L. 109–432, div. A, title I, § 110(c)(3)][/us/pl/109/432/s110/c/3], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940], provided that:
 
->     “(A) __Extension.—__ 
+>     “(A)  __Extension__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending this section\] shall apply to acquisitions after December 31, 2005.
 
->     “(B) __Conforming amendments.—__ 
+>     “(B)  __Conforming amendments__  __.—__ 
 
 >     The amendments made by paragraph (2) \[amending this section and [section 1400F of this title][/us/usc/t26/s1400F]\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
 

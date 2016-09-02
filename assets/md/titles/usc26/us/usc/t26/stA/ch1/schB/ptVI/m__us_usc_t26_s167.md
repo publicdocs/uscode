@@ -587,15 +587,15 @@
 
 [Pub. L. 104–188, title I, § 1604(b)][/us/pl/104/188/s1604/b], Aug. 20, 1996, [110 Stat. 1838][/us/stat/110/1838], as amended by [Pub. L. 105–206, title VI, § 6018(d)][/us/pl/105/206/s6018/d], July 22, 1998, [112 Stat. 823][/us/stat/112/823], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after September 13, 1995.
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any property produced or acquired by the taxpayer pursuant to a written contract which was binding on September 13, 1995, and at all times thereafter before such production or acquisition.
 
->     “(3) __Underpayments of income tax.—__ 
+>     “(3)  __Underpayments of income tax__  __.—__ 
 
 >     No addition to tax shall be made under section 6662 of the Internal Revenue Code of 1986 as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before the date of the enactment of this Act \[Aug. 20, 1996\], to the extent such underpayment was created or increased by the amendments made by subsection (a).”
 
@@ -615,11 +615,11 @@
 
 [Pub. L. 101–239, title VII, § 7622(c)][/us/pl/101/239/s7622/c]\[(e)\], Dec. 19, 1989, [103 Stat. 2378][/us/stat/103/2378], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1245 and 1253 of this title\] shall apply to transfers after October 2, 1989.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendments made by this section shall not apply to any transfer pursuant to a written binding contract in effect on October 2, 1989, and at all times thereafter before the transfer.”
 
@@ -741,11 +741,11 @@
 
 [Pub. L. 97–34, title II, § 203(c)(2)][/us/pl/97/34/s203/c/2], (3), Aug. 13, 1981, [95 Stat. 222][/us/stat/95/222], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     Sections 446 and 481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to the change in the method of depreciation to comply with the provisions of this subsection \[which struck out subsec. (r) of this section relating to the retirement-replacement-betterment method of accounting\].
 
->     “(3) __Transitional rule.—__ 
+>     “(3)  __Transitional rule__  __.—__ 
 
 >     The adjusted basis of RRB property (as defined in section 168(g)(6) of such Code) as of December 31, 1980, shall be depreciated using a useful life of no less than 5 years and no more than 50 years and a method described in section 167(b) of such Code, including the method described in section 167(b)(2) of such Code, switching to the method described in section 167(b)(3) of such Code at a time to maximize the deduction.”
 
@@ -771,7 +771,7 @@
 
 >     “(1) __\[Repealed.__  __[__  __Pub. L. 93–625, § 5(b)__  __][/us/pl/93/625/s5/b]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2112__  __][/us/stat/88/2112]__  __.\]__ 
 
->     “(2) __Subsidiary assets.—__ 
+>     “(2)  __Subsidiary assets__  __.—__ 
 
 >     If a significant portion of a class of property first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] consists of subsidiary assets, all such subsidiary assets in such class placed in service by the taxpayer during the period beginning on January 1, 1971, and ending on December 31, 1973 (or such earlier date on which a class which includes such subsidiary assets subsequently prescribed by the Secretary of the Treasury or his delegate under such section becomes effective), may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, be excluded by the taxpayer from an election under such section.”
 

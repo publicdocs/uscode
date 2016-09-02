@@ -865,11 +865,11 @@
 
 [Pub. L. 100–647, title V, § 5077(b)][/us/pl/100/647/s5077/b], Nov. 10, 1988, [102 Stat. 3683][/us/stat/102/3683], provided that:
 
->     “(1) __In General.—__ 
+>     “(1)  __In General__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to acquisition after December 31, 1988.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to acquisitions after December 31, 1988, pursuant to a binding written contract entered into on or before October 21, 1988.”
 
@@ -877,11 +877,11 @@
 
 [Pub. L. 100–203, title X, § 10225(c)][/us/pl/100/203/s10225/c], Dec. 22, 1987, [101 Stat. 1330–413][/us/stat/101/1330-413], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply in the case of stock treated as becoming worthless in taxable years beginning after December 31, 1987.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply in the case of ownership changes (as defined in section 382 of the Internal Revenue Code of 1986 as amended by subsection (a)) after December 15, 1987; except that such amendment shall not apply in the case of any ownership change pursuant to a binding written contract which was in effect on December 15, 1987, and at all times thereafter before such ownership change.”
 
@@ -889,19 +889,19 @@
 
 [Pub. L. 99–514, title VI, § 621(f)][/us/pl/99/514/s621/f], Oct. 22, 1986, [100 Stat. 2266][/us/stat/100/2266], as amended by [Pub. L. 100–647, title I, § 1006(d)(11)][/us/pl/100/647/s1006/d/11]–(16), title VI, § 6277(a), (b), Nov. 10, 1988, [102 Stat. 3397][/us/stat/102/3397], 3398, 3753, 3754, provided that:
 
->     “(1) __Amendments made by subsections (a), (b), and (c).—__ 
+>     “(1)  __Amendments made by subsections__  __(a), (b),__  __and__  __(c).—__ 
 
 >         “(A) __In general.—__ 
 
->             “(i) __Changes after 1986.—__ 
+>             “(i)  __Changes after 1986__  __.—__ 
 
 >             The amendments made by subsections (a), (b), and (c) \[amending this section and sections 318 and 383 of this title\] shall apply to any ownership change after December 31, 1986.
 
->             “(ii) __Plans of reorganization adopted before 1987.—__ 
+>             “(ii)  __Plans of reorganization adopted before 1987__  __.—__ 
 
 >             For purposes of clause (i), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
 
->         “(B) __Termination of old section 382.—__ 
+>         “(B)  __Termination of old section 382__  __.—__ 
 
 >         Except in a case described in any of the following paragraphs—
 
@@ -911,13 +911,13 @@
 
 >             In no event shall sections 382(a) and (b) of such Code (as so in effect) apply to any ownership change described in subparagraph (A).
 
->         “(C) __Coordination with section 382(i).—__ 
+>         “(C)  __Coordination with section 382__  __(i).—__ 
 
 >         For purposes of section 382(i) of the Internal Revenue Code of 1986 (as added by this section), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
 
 >     “(2) __For amendments to tax reform act of 1976.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The repeals made by subsection (e)(1) \[repealing amendments by [Pub. L. 94–455, § 806(e)][/us/pl/94/455/s806/e], (f), amending this section and sections 108, 368, and 383 of this title\] and the amendment made by subsection (e)(2) \[repealing section 806(g)(2), (3) of [Pub. L. 94–455][/us/pl/94/455], formerly set out as an Effective Date of 1976 Amendment note below\] shall take effect on January 1, 1986.
 
@@ -927,7 +927,7 @@
 
 >             “(ii) A taxpayer is described in this clause if the taxpayer filed a title 11 or similar case on December 8, 1981, filed a plan of reorganization on February 5, 1986, filed an amended plan on March 14, 1986, and received court approval for the amended plan and disclosure statement on April 16, 1986.
 
->         “(C) __Application of old rules to certain debt.—__ 
+>         “(C)  __Application of old rules to certain debt__  __.—__ 
 
 >         In the case of debt of a corporation incorporated in Colorado on November 8, 1924, and reincorporated in Delaware in 1987, with headquarters in Denver, Colorado—
 
@@ -935,11 +935,11 @@
 
 >             “(ii) the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 shall not apply to such debt restructuring, except that the amendment treated as part of such subsections under section 59(b) of the Tax Reform Act of 1984 (relating to qualified workouts) shall apply to such debt restructuring.
 
->         “(D) __Special rule for oil and gas well drilling business.—__ 
+>         “(D)  __Special rule for oil and gas well drilling business__  __.—__ 
 
 >         In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
 
->     “(3) __Testing period.—__ 
+>     “(3)  __Testing period__  __.—__ 
 
 >     For purposes of determining whether there is an ownership change, the testing period shall not begin before the later of—
 
@@ -947,7 +947,7 @@
 
 >         “(B) in the case of an ownership change which occurs after May 5, 1986, and to which the amendments made by subsections (a), (b), and (c) do not apply, the first day following the date on which such ownership change occurs.
 
->     “(4) __Special transition rules.—__ 
+>     “(4)  __Special transition rules__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) shall not apply to any—
 
@@ -957,11 +957,11 @@
 
 >         Any regulations prescribed under section 382 of the Internal Revenue Code of 1986 (as added by subsection (a)) which have the effect of treating a group of shareholders as a separate 5-percent shareholder by reason of a public offering shall not apply to any public offering before January 1, 1989, for the benefit of institutions described in section 591 of such Code. Unless the corporation otherwise elects, an underwriter of any offering of stock in a corporation before September 19, 1986 (January 1, 1989, in the case of an offering for the benefit of an institution described in the preceding sentence), shall not be treated as acquiring any stock of such corporation by reason of a firm commitment underwriting to the extent the stock is disposed of pursuant to the offering (but in no event later than 60 days after the initial offering).
 
->     “(5) __Bankruptcy proceedings.—__ 
+>     “(5)  __Bankruptcy proceedings__  __.—__ 
 
 >     Unless the taxpayer elects not to have the provisions of this paragraph apply, in the case of a reorganization described in subparagraph (G) of section 368(a)(1) of the Internal Revenue Code of 1986 or an exchange of debt for stock in a title 11 or similar case, as defined in section 368(a)(3) of such Code, the amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from such a reorganization or proceeding if a petition in such case was filed with the court before August 14, 1986. The determination as to whether an ownership change has occurred during the period beginning January 1, 1987, and ending on the final settlement of any reorganization or proceeding described in the preceding sentence shall be redetermined as of the time of such final settlement.
 
->     “(6) __Certain plans.—__ 
+>     “(6)  __Certain plans__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change with respect to—
 
@@ -973,7 +973,7 @@
 
 >         “(D) the conversion of a mutual savings and loan association holding a Federal charter dated March 22, 1985, to a stock savings and loan association pursuant to the rules and regulations of the Federal Home Loan Bank Board.
 
->     “(7) __Ownership change of regulated air carrier.—__ 
+>     “(7)  __Ownership change of regulated air carrier__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) shall not apply to an ownership change of a regulated air carrier if—
 
@@ -985,7 +985,7 @@
 
 >     “(8) The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from the conversion of a Minnesota mutual savings bank holding a Federal charter dated December 31, 1985, to a stock savings bank pursuant to the rules and regulations of the Federal Home Loan Bank Board, and from the issuance of stock pursuant to that conversion to a holding company incorporated in Delaware on February 21, 1984. For purposes of determining whether any ownership change occurs with respect to the holding company or any subsidiary thereof (whether resulting from the transaction described in the preceding sentence or otherwise), any issuance of stock made by such holding company in connection with the transaction described in the preceding sentence shall not be taken into account.
 
->     “(9) __Definitions.—__ 
+>     “(9)  __Definitions__  __.—__ 
 
 >     Except as otherwise provided, terms used in this subsection shall have the same meaning as when used in section 382 of the Internal Revenue Code of 1986 (as amended by this section).”
 
@@ -1027,7 +1027,7 @@
 
 [Pub. L. 111–5, div. B, title I, § 1261][/us/pl/111/5/s1261], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds as follows:
 
@@ -1039,9 +1039,9 @@
 
 >         “(4) However, as taxpayers should generally be able to rely on guidance issued by the Secretary of the Treasury legislation is necessary to clarify the force and effect of Internal Revenue Service Notice 2008–83 and restore the proper application under the Internal Revenue Code of 1986 of the limitation on built-in losses following an ownership change of a bank.
 
->     “(b) __Determination of Force and Effect of Internal Revenue Service Notice 2008–83 Exempting Banks From Limitation on Certain Built–in Losses Following Ownership Change.—__ 
+>     “(b)  __Determination of Force and Effect of Internal Revenue Service Notice__  __2008–83 Exempting Banks From Limitation on Certain Built–in Losses Following Ownership Change.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Internal Revenue Service Notice 2008–83—
 
@@ -1049,7 +1049,7 @@
 
 >             “(B) shall have no force or effect with respect to any ownership change after such date.
 
->         “(2) __Binding contracts.—__ 
+>         “(2)  __Binding contracts__  __.—__ 
 
 >         Notwithstanding paragraph (1), Internal Revenue Service Notice 2008–83 shall have the force and effect of law with respect to any ownership change (as so defined) which occurs after January 16, 2009, if such change—
 

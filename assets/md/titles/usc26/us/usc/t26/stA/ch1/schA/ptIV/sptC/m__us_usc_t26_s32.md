@@ -1019,11 +1019,11 @@
 
 [Pub. L. 107–16, title III, § 303(i)][/us/pl/107/16/s303/i], June 7, 2001, [115 Stat. 57][/us/stat/115/57], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 6213 of this title][/us/usc/t26/s6213]\] shall apply to taxable years beginning after December 31, 2001.
 
->     “(2) __Subsection (g).—__ 
+>     “(2)  __Subsection__  __(g).—__ 
 
 >     The amendment made by subsection (g) \[amending [section 6213 of this title][/us/usc/t26/s6213]\] shall take effect on January 1, 2004.”
 
@@ -1037,11 +1037,11 @@
 
 [Pub. L. 105–206, title VI, § 6021(c)][/us/pl/105/206/s6021/c], July 22, 1998, [112 Stat. 824][/us/stat/112/824], provided that:
 
->     “(1) __Eligible individuals.—__ 
+>     “(1)  __Eligible individuals__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 451 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[[Pub. L. 104–193][/us/pl/104/193]\].
 
->     “(2) __Qualifying children.—__ 
+>     “(2)  __Qualifying children__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 11111 of Revenue Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
 
@@ -1067,21 +1067,21 @@
 
 [Pub. L. 104–193, title IX, § 909(c)][/us/pl/104/193/s909/c], Aug. 22, 1996, [110 Stat. 2352][/us/stat/110/2352], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Advance payment individuals.—__ 
+>     “(2)  __Advance payment individuals__  __.—__ 
 
 >     In the case of any individual who on or before June 26, 1996, has in effect an earned income eligibility certificate for the individual’s taxable year beginning in 1996, the amendments made by this section shall apply to taxable years beginning after December 31, 1996.”
 
 [Pub. L. 104–193, title IX, § 910(c)][/us/pl/104/193/s910/c], Aug. 22, 1996, [110 Stat. 2353][/us/stat/110/2353], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Advance payment individuals.—__ 
+>     “(2)  __Advance payment individuals__  __.—__ 
 
 >     In the case of any individual who on or before June 26, 1996, has in effect an earned income eligibility certificate for the individual’s taxable year beginning in 1996, the amendments made by this section shall apply to taxable years beginning after December 31, 1996.”
 
@@ -1107,11 +1107,11 @@
 
 [Pub. L. 103–465, title VII, § 742(c)][/us/pl/103/465/s742/c], Dec. 8, 1994, [108 Stat. 5010][/us/stat/108/5010], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 6109 of this title][/us/usc/t26/s6109]\] shall apply to returns for taxable years beginning after December 31, 1994.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to—
 
@@ -1205,7 +1205,7 @@
 
 [Pub. L. 108–199, div. F, title II, § 206][/us/pl/108/199/s206], Jan. 23, 2004, [118 Stat. 319][/us/stat/118/319], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Internal Revenue Service shall conduct a study, as a part of any program that requires certification (including pre-certification) in order to claim the earned income tax credit under section 32 of the Internal Revenue Code of 1986, on the following matters:
 
@@ -1259,11 +1259,11 @@
 
 >     “(b) __Report.—__ 
 
->         “(1) __Preliminary report.—__ 
+>         “(1)  __Preliminary report__  __.—__ 
 
 >         Not later than July 30, 2004, the Commissioner of the Internal Revenue Service shall submit to Congress a preliminary report on the study conducted under subsection (a).
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than June 30, 2005, the Commissioner of the Internal Revenue Service shall submit to Congress a final report detailing the findings of the study conducted under subsection (a).”
 

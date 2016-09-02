@@ -281,13 +281,13 @@
 
 >     “(c) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to taxable years beginning after December 31, 1960.
 
 >         “(2) __Calcium carbonates, etc.—__ 
 
->             “(A) __Election for past years.—__ 
+>             “(A)  __Election for past years__  __.—__ 
 
 >             In the case of calcium carbonates or other minerals when used in making cement, if an election is made by the taxpayer under subparagraph (C)—
 
@@ -295,7 +295,7 @@
 
 >                 “(ii) provisions having the same effect as the amendments made by subsection (b) \[amending this section\] shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to taxable years with respect to which such election is effective in lieu of the corresponding provisions of such Code.
 
->             “(B) __Years to which applicable.—__ 
+>             “(B)  __Years to which applicable__  __.—__ 
 
 >             An election made under subparagraph (C) to have the provisions of this paragraph apply shall be effective for all taxable years beginning before January 1, 1961, in respect of which—
 
@@ -307,19 +307,19 @@
 
 >                   is not prevented on the date of the enactment of this paragraph \[Sept. 14, 1960\] by the operation of any law or rule of law. Such election shall also be effective for any taxable year beginning before January 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before the date of the enactment of this paragraph.
 
->             “(C) __Time and manner of election.—__ 
+>             “(C)  __Time and manner of election__  __.—__ 
 
 >             An election to have the provisions of this paragraph apply shall be made by the taxpayer on or before the 60th day after the date of publication in the Federal Register of final regulations issued under authority of subparagraph (F), and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations. Such election, if made, may not be revoked.
 
->             “(D) __Statutes of limitation.—__ 
+>             “(D)  __Statutes of limitation__  __.—__ 
 
 >             Notwithstanding any other law, the period within which an assessment of a deficiency attributable to the application of the amendments made by subsection (b) \[amending this section\] may be made with respect to any taxable year to which such amendments apply under an election made under subparagraph (C), and the period within which a claim for refund or credit of an overpayment attributable to the application of such amendments may be made with respect to any such taxable year, shall not expire prior to one year after the last day for making an election under subparagraph (C). An election by a taxpayer under subparagraph (C) shall be considered as a consent to the application of the provisions of this subparagraph.
 
->             “(E) __Terms; applicability of other laws.—__ 
+>             “(E)  __Terms; applicability of other laws__  __.—__ 
 
 >             Except where otherwise distinctly expressed or manifestly intended, terms used in this paragraph shall have the same meaning as when used in the Internal Revenue Code of 1986 \[this title\] (or corresponding provisions of the Internal Revenue Code of 1939) and all provisions of law shall apply with respect to this paragraph as if this paragraph were a part of such Code (or corresponding provisions of the Internal Revenue Code of 1939).
 
->             “(F) __Regulations.—__ 
+>             “(F)  __Regulations__  __.—__ 
 
 >             The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary to carry out the provisions of this paragraph.”
 

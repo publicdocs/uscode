@@ -955,7 +955,7 @@
 
     Subsec. (d)(2)(B)(iii). [Pub. L. 100–647, § 1012(a)(8)][/us/pl/100/647/s1012/a/8], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “The Secretary may by regulations provide that amounts (not otherwise high withholding tax interest) shall be treated as high withholding tax interest where necessary to prevent avoidance of the purposes of this subparagraph.”
 
-    Subsec. (d)(2(C). [Pub. L. 100–647, § 1012(a)(1)(A)][/us/pl/100/647/s1012/a/1/A], amended subpar. (C) generally, revising and restating as cls. (i) to (iii) provisions of former cls. (i) to (iv).
+    Subsec. (d)(2)(C). [Pub. L. 100–647, § 1012(a)(1)(A)][/us/pl/100/647/s1012/a/1/A], amended subpar. (C) generally, revising and restating as cls. (i) to (iii) provisions of former cls. (i) to (iv).
 
     Subsec. (d)(2)(D). [Pub. L. 100–647, § 1012(a)(2)][/us/pl/100/647/s1012/a/2], provided for exclusion from term “shipping income” any dividend from a noncontrolled section 902 corporation and any financial services income.
 
@@ -1175,11 +1175,11 @@
 
 [Pub. L. 108–357, title IV, § 404(g)][/us/pl/108/357/s404/g], Oct. 22, 2004, [118 Stat. 1497][/us/stat/118/1497], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.
 
->     “(2) __Transitional rule relating to income tax base difference.—__ 
+>     “(2)  __Transitional rule relating to income tax base difference__  __.—__ 
 
 >     Section 904(d)(2)(H)(ii) of the Internal Revenue Code of 1986, as added by subsection (e), shall apply to taxable years beginning after December 31, 2004.”
 
@@ -1187,11 +1187,11 @@
 
 [Pub. L. 108–357, title IV, § 417(c)][/us/pl/108/357/s417/c], Oct. 22, 2004, [118 Stat. 1512][/us/stat/118/1512], provided that:
 
->     “(1) __Carryback.—__ 
+>     “(1)  __Carryback__  __.—__ 
 
 >     The amendments made by subsections (a)(1) and (b)(1) \[amending this section and [section 907 of this title][/us/usc/t26/s907]\] shall apply to excess foreign taxes arising in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Carryover.—__ 
+>     “(2)  __Carryover__  __.—__ 
 
 >     The amendments made by subsections (a)(2) and (b)(2) \[amending this section and [section 907 of this title][/us/usc/t26/s907]\] shall apply to excess foreign taxes which (without regard to the amendments made by this section \[amending this section and [section 907 of this title][/us/usc/t26/s907]\]) may be carried to any taxable year ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -1285,7 +1285,7 @@
 
 [Pub. L. 99–514, title XII, § 1201(e)][/us/pl/99/514/s1201/e], Oct. 22, 1986, [100 Stat. 2525][/us/stat/100/2525], as amended by [Pub. L. 100–647, title I, § 1012(a)(5)][/us/pl/100/647/s1012/a/5], Nov. 10, 1988, [102 Stat. 3495][/us/stat/102/3495]; [Pub. L. 101–239, title VII, § 7404(a)][/us/pl/101/239/s7404/a], Dec. 19, 1989, [103 Stat. 2361][/us/stat/103/2361], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 864 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
@@ -1293,11 +1293,11 @@
 
 >     “(3) __Special rule for taxpayer with overall foreign loss.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If a taxpayer incorporated on June 20, 1928, the principal headquarters of which is in Minneapolis, Minnesota, sustained an overall foreign loss (as defined in section 904(f)(2) of the Internal Revenue Code of 1954 \[now 1986\]) in taxable years beginning before January 1, 1986, in connection with 2 separate trades or businesses which the taxpayer had, during 1985, substantially disposed of in tax-free transactions pursuant to section 355 of such Code, then an amount, not to exceed $40,000,000 of foreign source income, which, but for this paragraph, would not be treated as overall limitation income, shall be so treated.
 
->         “(B) __Substantial disposition.—__ 
+>         “(B)  __Substantial disposition__  __.—__ 
 
 >         For purposes of this paragraph, a taxpayer shall be treated as having substantially disposed of a trade or business if the retained portion of such business had sales of less than 10 percent of the annual sales of such business for taxable years ending in 1985.”
 
@@ -1349,7 +1349,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 121(b)][/us/pl/98/369/s121/b], July 18, 1984, [98 Stat. 640][/us/stat/98/640], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1810(a)(2), (3), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2822, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\]. In the case of any taxable year of any United States-owned foreign corporation ending after the date of the enactment of this Act—
 
@@ -1359,7 +1359,7 @@
 
 >     “(2) __Special rule for applicable cfc.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of qualified interest received or accrued by an applicable CFC before January 1, 1992—
 
@@ -1367,7 +1367,7 @@
 
 >             “(ii) such interest shall be taken into account for purposes of applying paragraph (5) of such section 904(g) (relating to exception where small amount of United States source income).
 
->         “(B) __Qualified interest.—__ 
+>         “(B)  __Qualified interest__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified interest’ means—
 
@@ -1383,7 +1383,7 @@
 
 >             Proper adjustments shall be made to the numerator described in clause (ii)(I) for original issue discount accruing after March 31, 1984, on CFC obligations and United States affiliate obligations.
 
->         “(C) __Adjustment for retirement of cfc obligations.—__ 
+>         “(C)  __Adjustment for retirement of cfc obligations__  __.—__ 
 
 >         The amount described in subparagraph (B)(ii)(I) for any taxable year shall be reduced by the sum of—
 
@@ -1391,7 +1391,7 @@
 
 >             “(ii) the portion of the equity of such applicable CFC allocable to the excess described in clause (i) (determined on the basis of the debt-equity ratio of such applicable CFC on March 31, 1984).
 
->         “(D) __Applicable cfc.—__ 
+>         “(D)  __Applicable cfc__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘applicable CFC’ means any controlled foreign corporation (within the meaning of section 957)—
 
@@ -1399,19 +1399,19 @@
 
 >             “(ii) the principal purpose of which on such date consisted of the issuing of CFC obligations (or short-term borrowing from nonaffiliated persons) and lending the proceeds of such obligations (or such borrowing) to affiliates.
 
->         “(E) __Affiliates; united states affiliates.—__ 
+>         “(E)  __Affiliates; united states affiliates__  __.—__ 
 
 >         For purposes of this paragraph—
 
->             “(i) __Affiliate.—__ 
+>             “(i)  __Affiliate__  __.—__ 
 
 >             The term ‘affiliate’ means any person who is a related person (within the meaning of section 482 of the Internal Revenue Code of 1986) to the applicable CFC.
 
->             “(ii) __United states affiliate.—__ 
+>             “(ii)  __United states affiliate__  __.—__ 
 
 >             The term ‘United States affiliate’ means any United States person which is an affiliate of the applicable CFC.
 
->             “(iii) __Treatment of certain foreign corporations engaged in business in united states.—__ 
+>             “(iii)  __Treatment of certain foreign corporations engaged in business in united states__  __.—__ 
 
 >             For purposes of clause (ii), a foreign corporation shall be treated as a United States person with respect to any interest payment made by such corporation if—
 
@@ -1419,11 +1419,11 @@
 
 >                 “(II) at least 50 percent of the gross income from all sources of such corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest was effectively connected with the conduct of a trade or business within the United States.
 
->         “(F) __United states affiliate obligations.—__ 
+>         “(F)  __United states affiliate obligations__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘United States affiliate obligations’ means any obligation of (and payable by) a United States affiliate.
 
->         “(G) __CFC obligation.—__ 
+>         “(G)  __CFC obligation__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘CFC obligation’ means any obligation of (and issued by) a CFC if—
 
@@ -1431,11 +1431,11 @@
 
 >             “(ii) in the case of an obligation issued after December 31, 1982, the requirements of clause (ii) of such \[former\] section 163(f)(2)(B) are met with respect to such obligation.
 
->         “(H) __Treatment of obligations with original issue discount.—__ 
+>         “(H)  __Treatment of obligations with original issue discount__  __.—__ 
 
 >         For purposes of this paragraph, in the case of any obligation with original issue discount, the principal amount of such obligation as of any day shall be treated as equal to the revised issue price as of such day (as defined in section 1278(a)(4) of the Internal Revenue Code of 1986).
 
->         “(I) __Applicable limit.—__ 
+>         “(I)  __Applicable limit__  __.—__ 
 
 >         For purposes of subparagraph (B)(ii)(I), the term ‘applicable limit’ means the sum of—
 
@@ -1449,19 +1449,19 @@
 
 >                 “(II) after March 7, 1984, pursuant to a binding commitment in effect on March 7, 1984.
 
->     “(3) __Exception for certain term obligations.—__ 
+>     “(3)  __Exception for certain term obligations__  __.—__ 
 
 >     The amendments made by subsection (a) shall not apply to interest on any term obligations held by a foreign corporation on March 7, 1984. The preceding sentence shall not apply to any United States affiliate obligation (as defined in paragraph (2)(F)) held by an applicable CFC (as defined in paragraph (2)(D)).
 
->     “(4) __Definitions.—__ 
+>     “(4)  __Definitions__  __.—__ 
 
 >     Any term used in this subsection which is also used in section 904(g) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall have the meaning given such term by such section 904(g).
 
->     “(5) __Separate application of section 904 in case of income covered by transitional rules.—__ 
+>     “(5)  __Separate application of section 904 in case of income covered by transitional rules__  __.—__ 
 
 >     Subsections (a), (b), and (c) of section 904 of the Internal Revenue Code of 1986 shall be applied separately to any amount not treated as income derived from sources within the United States but which (but for the provisions of paragraph (2) or (3) of this subsection) would be so treated under the amendments made by subsection (a). Any such separate application shall be made before any separate application required under section 904(d) of such Code.
 
->     “(6) __Application of paragraph (5) delayed in certain cases.—__ 
+>     “(6)  __Application of paragraph (5) delayed in certain cases__  __.—__ 
 
 >     In the case of a foreign corporation—
 
@@ -1485,21 +1485,21 @@
 
 [Pub. L. 98–369, div. A, title I, § 122(b)][/us/pl/98/369/s122/b], July 18, 1984, [98 Stat. 644][/us/stat/98/644], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].
 
 >     “(2) __Special rules for interest income.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Interest income received or accrued by a designated payor corporation shall be taken into account for purposes of the amendment made by subsection (a) only in taxable years beginning after the date of the enactment of this Act.
 
->         “(B) __Exception for investment after__  __june 22, 1984__  __.—__ 
+>         “(B)  __Exception for investment after __  __june 22, 1984__  __.—__ 
 
 >         Notwithstanding subparagraph (A), the amendment made by subsection (a) shall apply to interest income received or accrued by a designated payor corporation after the date of enactment of this Act if it is attributable to investment in the designated payor corporation after June 22, 1984.
 
->     “(3) __Term obligations of designated payor corporation which is not applicable cfc.—__ 
+>     “(3)  __Term obligations of designated payor corporation which is not applicable cfc__  __.—__ 
 
 >     In the case of any designated payor corporation which is not an applicable CFC (as defined in section 121(b)(2)(D) \[[section 121(b)(2)(D) of Pub. L. 98–369][/us/pl/98/369/s121/b/2/D], set out above\]), any interest received or accrued by such corporation on a term obligation held by such corporation on March 7, 1984, shall not be taken into account.”
 
@@ -1557,11 +1557,11 @@
 
 [Pub. L. 94–455, title X, § 1031(c)][/us/pl/94/455/s1031/c], Oct. 4, 1976, [90 Stat. 1623][/us/stat/90/1623], as amended by [Pub. L. 95–600, title VII, § 701(u)(6)][/us/pl/95/600/s701/u/6], (7)(B)(ii), Nov. 6, 1978, [92 Stat. 2914][/us/stat/92/2914], 2916; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1975.
 
->     “(2) __Exception for certain mining operations.—__ 
+>     “(2)  __Exception for certain mining operations__  __.—__ 
 
 >     In the case of a domestic corporation or includible corporation in an affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) which has as of October 1, 1975—
 
@@ -1575,17 +1575,17 @@
 
 >         the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978. In the case of a loss sustained in a taxable year beginning before January 1, 1979, by any corporation to which this paragraph applies, if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to such loss under the principles of such section 904(a)(1).
 
->     “(3) __Exception for income from possessions.—__ 
+>     “(3)  __Exception for income from possessions__  __.—__ 
 
 >     In the case of gross income from sources within a possession of the United States (and the deductions properly apportioned or allocated thereto), the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978.
 
->     “(4) __Carrybacks and carryovers in the case of mining operations and income from a possession.—__ 
+>     “(4)  __Carrybacks and carryovers in the case of mining operations and income from a possession__  __.—__ 
 
 >     In the case of a taxpayer to whom paragraph (2) or (3) of this subsection applies, section 904(e) of such Code \[[section 904(e) of this title][/us/usc/t26/s904/e]\] shall apply except that ‘January 1, 1979’ shall be substituted for ‘January 1, 1976’ each place it appears therein. If such a taxpayer elects the overall limitation for a taxable year beginning before January 1, 1979, such section 904(e) shall be applied by substituting ‘the January 1, of the last year for which such taxpayer is on the per-country limitation’ for ‘January 1, 1976’ each place it appears therein.”
 
 [Pub. L. 94–455, title X, § 1032(c)][/us/pl/94/455/s1032/c], Oct. 4, 1976, [90 Stat. 1626][/us/stat/90/1626], as amended by [Pub. L. 95–600, title VII, § 701(u)(5)][/us/pl/95/600/s701/u/5], (7)(A), (B)(i), Nov. 6, 1978, [92 Stat. 2914][/us/stat/92/2914]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2), (3), and (5), the amendment made by subsection (a) \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1975. The amendment made by subsection (b)(1) \[amending [section 907 of this title][/us/usc/t26/s907]\] shall apply to taxable years beginning after December 31, 1975. The amendment made by subsection (b)(2) \[amending [section 907 of this title][/us/usc/t26/s907]\] shall apply to losses sustained in taxable years ending after December 31, 1975.
 
@@ -1621,7 +1621,7 @@
 
 >         In any case to which this paragraph applies, for purposes of determining the liability for tax of the taxpayer for taxable years beginning before January 1, 1979, section 904(f) of the Internal Revenue Code of 1986 shall not apply with respect to the loss described in subparagraph (A)(i).
 
->         “(C) __Recapture of loss after the transition period.—__ 
+>         “(C)  __Recapture of loss after the transition period__  __.—__ 
 
 >         In any case to which this paragraph applies—
 
@@ -1699,11 +1699,11 @@
 
 >     “(a) __Determination of Excess Credits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any taxes paid or accrued in a taxable year beginning after 1986 may be treated under section 904(c) of the Internal Revenue Code of 1954 as paid or accrued in a taxable year beginning before 1987 only to the extent such taxes would be so treated if the tax imposed by chapter 1 of such Code for the taxable year beginning after 1986 were determined by applying section 1 or 11 of such Code (as the case may be) as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
->         “(2) __Adjustments.—__ 
+>         “(2)  __Adjustments__  __.—__ 
 
 >         Under regulations prescribed by the Secretary of the Treasury or his delegate proper adjustments shall be made in the application of paragraph (1) to take into account—
 
@@ -1711,7 +1711,7 @@
 
 >             “(B) the changes in the treatment of capital gains.
 
->     “(b) __Coordination With Separate Baskets.—__ 
+>     “(b)  __Coordination With Separate Baskets__  __.—__ 
 
 >     Any taxes paid or accrued in a taxable year beginning after 1986 which (after the application of subsection (a)) are treated as paid or accrued in a taxable year beginning before 1987 shall be treated as imposed on income described in section 904(d)(1)(E) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). No taxes paid or accrued in a taxable year beginning after 1986 with respect to high withholding tax interest (as defined in section 904(d)(2)(B) of the Internal Revenue Code of 1986 as amended by this Act) may be treated as paid or accrued in a taxable year beginning before 1987.”
 

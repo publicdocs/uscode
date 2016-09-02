@@ -37,11 +37,11 @@
 
 [Pub. L. 101–239, title VII, § 7504(c)][/us/pl/101/239/s7504/c], Dec. 19, 1989, [103 Stat. 2363][/us/stat/103/2363], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subchapter\] shall apply to voyages beginning after December 31, 1989, which were not paid for before such date.
 
->     “(2) __No deposits required before__  __april 1, 1990__  __.—__ 
+>     “(2)  __No deposits required before __  __april 1, 1990__  __.—__ 
 
 >     No deposit of any tax imposed by subchapter B of chapter 36 of the Internal Revenue Code of 1986, as added by this section, shall be required to be made before April 1, 1990.”
 

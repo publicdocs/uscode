@@ -87,13 +87,13 @@
 
 [Pub. L. 92–178, title V, § 505(a)][/us/pl/92/178/s505/a], (b), Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551], provided that:
 
->     “(a) __Use of Terms.—__ 
+>     “(a)  __Use of Terms__  __.—__ 
 
 >     Except as otherwise expressly provided, whenever in this section a reference is made to a section, chapter, or other provision, the reference shall be considered to be made to a section, chapter, or other provision of the Internal Revenue Code of 1954, and terms used in this section shall have the same meaning as when used in such Code.
 
 >     “(b) __Transfer to a DISC of Assets of Export Trade Corporation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a corporation (hereinafter in this section called ‘parent’) owns all of the outstanding stock of an export trade corporation (as defined in section 971), and the export trade corporation, during a taxable year beginning before January 1, 1976, transfers property, without receiving consideration, to a DISC (as defined in section 992(a)) all of whose outstanding stock is owned by the parent, and if the amount transferred by the export trade corporation is not less than the amount of its untaxed subpart F income (as defined in paragraph (2) of this subsection) at the time of such transfer, then—
 
@@ -115,7 +115,7 @@
 
 >             For purposes of this section, the amount transferred by the export trade corporation to the DISC shall be the aggregate of the adjusted basis of the properties transferred, with proper adjustment for any indebtedness secured by such property or assumed by the DISC in connection with the transfer. For purposes of this section, a foreign corporation which qualified as an export trade corporation for any 3 taxable years beginning before November 1, 1971, shall be treated as an export trade corporation.
 
->         “(2) __Definition of untaxed subpart f income.—__ 
+>         “(2)  __Definition of untaxed subpart f income__  __.—__ 
 
 >         For purposes of this section, the term ‘untaxed subpart F income’ means with respect to an export trade corporation the amount by which—
 
@@ -125,11 +125,11 @@
 
 >             determined without regard to the transfer of property described in paragraph (1) of this subsection.
 
->         “(3) __Special cases.—__ 
+>         “(3)  __Special cases__  __.—__ 
 
 >         If the provisions of paragraph (1) of this subsection are not applicable solely because the export trade corporation or the DISC, or both, are not owned in the manner prescribed in such paragraph, the provisions shall nevertheless be applicable in such cases to the extent, and in accordance with such rules, as may be prescribed by the Secretary or his delegate.
 
->         “(4) __Treatment of export trade assets.—__ 
+>         “(4)  __Treatment of export trade assets__  __.—__ 
 
 >         If the provisions of this subsection are applicable, accounts receivable held by an export trade corporation and transferred to a DISC, to the extent such receivables were export trade assets in the hands of the export trade corporation, shall be treated as qualified export assets for purposes of section 993(b).”
 

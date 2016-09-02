@@ -809,11 +809,11 @@
 
 [Pub. L. 101–239, title VII, § 7109(b)][/us/pl/101/239/s7109/b], Dec. 19, 1989, [103 Stat. 2322][/us/stat/103/2322], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 1989, in taxable years ending after such date.
 
->     “(2) __Special rule where interest held in pass-thru entity.—__ 
+>     “(2)  __Special rule where interest held in pass-thru entity__  __.—__ 
 
 >     In the case of a taxpayer who holds an indirect interest in property described in paragraph (1), the amendments made by this section shall apply only if such interest is acquired after December 31, 1989.”
 
@@ -833,17 +833,17 @@
 
 [Pub. L. 99–514, title V, § 501(c)][/us/pl/99/514/s501/c], Oct. 22, 1986, [100 Stat. 2241][/us/stat/100/2241], as amended by [Pub. L. 100–647, title I, § 1005(a)(10)][/us/pl/100/647/s1005/a/10], title IV, § 4003(b)(2), Nov. 10, 1988, [102 Stat. 3388][/us/stat/102/3388], 3644, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special rule for carryovers.—__ 
+>     “(2)  __Special rule for carryovers__  __.—__ 
 
 >     The amendments made by this section shall not apply to any loss, deduction, or credit carried to a taxable year beginning after December 31, 1986, from a taxable year beginning before January 1, 1987.
 
 >     “\[(3) Repealed. [Pub. L. 100–647, title IV, § 4003(b)(2)][/us/pl/100/647/s4003/b/2], Nov. 10, 1988, [102 Stat. 3644][/us/stat/102/3644].\]
 
->     “(4) __Income from sales of passive activities in taxable years beginning before__  __january 1, 1987__  __.—__ 
+>     “(4)  __Income from sales of passive activities in taxable years beginning before __  __january 1, 1987__  __.—__ 
 
 >     If—
 
@@ -875,11 +875,11 @@
 
 [Pub. L. 99–514, title V, § 502][/us/pl/99/514/s502], Oct. 22, 1986, [100 Stat. 2241][/us/stat/100/2241], as amended by [Pub. L. 99–509, title VIII, § 8073(a)][/us/pl/99/509/s8073/a], Oct. 21, 1986, [100 Stat. 1965][/us/stat/100/1965]; [Pub. L. 100–647, title I, § 1005(b)][/us/pl/100/647/s1005/b], Nov. 10, 1988, [102 Stat. 3389][/us/stat/102/3389], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Any loss sustained by a qualified investor with respect to an interest in a qualified low-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
 
->     “(b) __Relief Period.—__ 
+>     “(b)  __Relief Period__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘relief period’ means the period beginning with the taxable year in which the investor made his initial investment in the qualified low-income housing project and ending with whichever of the following is the earliest—
 
@@ -889,7 +889,7 @@
 
 >         “(3) the taxable year preceding the 1st taxable year for which such project ceased to be a qualified low-income housing project.
 
->     “(c) __Qualified Low-Income Housing Project.—__ 
+>     “(c)  __Qualified Low-Income Housing Project__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified low-income housing project’ means any project if—
 
@@ -901,11 +901,11 @@
 
 >         “(4) such project is placed in service before January 1, 1989.
 
->     “(d) __Qualified Investor.—__ 
+>     “(d)  __Qualified Investor__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘qualified investor’ means any natural person who holds (directly or through 1 or more entities) an interest in a qualified low-income housing project—
 
@@ -921,11 +921,11 @@
 
 >             For purposes of subparagraph (A), a person shall be treated as holding an interest on August 16, 1986, or December 31, 1986, if on such date such person had a binding contract to acquire such interest.
 
->         “(2) __Treatment of estates.—__ 
+>         “(2)  __Treatment of estates__  __.—__ 
 
 >         The estate of a decedent shall succeed to the treatment under this section of the decedent but only with respect to the 1st 2 taxable years of such estate ending after the date of the decedent’s death.
 
->         “(3) __Special rule for certain partnerships.—__ 
+>         “(3)  __Special rule for certain partnerships__  __.—__ 
 
 >         In the case of any property which is held by a partnership—
 
@@ -935,7 +935,7 @@
 
 >             paragraph (1)(A)(i) shall be applied by substituting ‘December 31, 1988’ for ‘August 16, 1986’ the 2nd place it appears.
 
->         “(4) __Special rule for certain rural housing.—__ 
+>         “(4)  __Special rule for certain rural housing__  __.—__ 
 
 >         In the case of any interest in a qualified low-income housing project which—
 
@@ -947,15 +947,15 @@
 
 >     “(e) __Special Rules.—__ 
 
->         “(1) __Where more than 1 building in project.—__ 
+>         “(1)  __Where more than 1 building in project__  __.—__ 
 
 >         If there is more than 1 building in any project, the determination of when such project is placed in service shall be based on when the 1st building in such project is placed in service.
 
->         “(2) __Only cash and other property taken into account.—__ 
+>         “(2)  __Only cash and other property taken into account__  __.—__ 
 
 >         In determining the amount any person invests in (or is obligated to invest in) any interest, only cash and other property shall be taken into account.
 
->         “(3) __Coordination with credit.—__ 
+>         “(3)  __Coordination with credit__  __.—__ 
 
 >         No low-income housing credit shall be determined under section 42 of the Internal Revenue Code of 1986 with respect to any project with respect to which any person has been allowed any benefit under this section.”
 

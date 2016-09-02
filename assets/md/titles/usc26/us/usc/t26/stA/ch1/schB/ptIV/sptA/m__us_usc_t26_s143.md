@@ -1299,15 +1299,15 @@
 
 [Pub. L. 101–508, title XI, § 11408(d)][/us/pl/101/508/s11408/d], Nov. 5, 1990, [104 Stat. 1388–478][/us/stat/104/1388-478], provided that:
 
->     “(1) __Bonds.—__ 
+>     “(1)  __Bonds__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after September 30, 1990.
 
->     “(2) __Certificates.—__ 
+>     “(2)  __Certificates__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 25 of this title][/us/usc/t26/s25]\] shall apply to elections for periods after September 30, 1990.
 
->     “(3) __Simplification.—__ 
+>     “(3)  __Simplification__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall take effect as if included in the amendments made by section 4005 of the Technical and Miscellaneous Revenue Act of 1988 \[[Pub. L. 100–647][/us/pl/100/647]\].”
 
@@ -1317,11 +1317,11 @@
 
 [Pub. L. 100–647, title IV, § 4005(h)][/us/pl/100/647/s4005/h], Nov. 10, 1988, [102 Stat. 3651][/us/stat/102/3651], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 25, 26, 148, 6045, and 6654 of this title\] shall apply to bonds issued, and nonissued bond amounts elected, after December 31, 1988.
 
->     “(2) __Special rules relating to certain requirements and refunding bonds.—__ 
+>     “(2)  __Special rules relating to certain requirements and refunding bonds__  __.—__ 
 
 >     In the case of a bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued before January 1, 1989—
 
@@ -1329,13 +1329,13 @@
 
 >         “(B) the amendment made by subsection (f) \[amending this section\] shall apply to payments (including on loans made before such date of issuance) received on or after such date of issuance.
 
->     “(3) __Subsection (g).—__ 
+>     “(3)  __Subsection__  __(g).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by subsection (g) \[amending this section and sections 25, 26, 6045, and 6654 of this title\] shall apply to financing provided, and mortgage credit certificates issued, after December 31, 1990.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         The amendments made by subsection (g) shall not apply to financing provided pursuant to a binding contract (entered into before June 23, 1988) with a homebuilder, lender, or mortgagor if the bonds (the proceeds of which are used to provide such financing) are issued—
 

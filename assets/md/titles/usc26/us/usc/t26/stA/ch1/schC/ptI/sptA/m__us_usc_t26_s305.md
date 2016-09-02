@@ -181,11 +181,11 @@
 
 [Pub. L. 101–508, title XI, § 11322(b)][/us/pl/101/508/s11322/b], Nov. 5, 1990, [104 Stat. 1388–464][/us/stat/104/1388-464], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to stock issued after October 9, 1990.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any stock issued after October 9, 1990, if—
 

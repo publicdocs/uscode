@@ -181,15 +181,15 @@
 
 [Pub. L. 110–172, § 6(e)][/us/pl/110/172/s6/e], Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 41, 45J, 4041, 4042, 4082, and 6430 of this title, and enacting provisions set out as a note under [section 6430 of this title][/us/usc/t26/s6430]\] shall take effect as if included in the provisions of the Energy Policy Act of 2005 \[[Pub. L. 109–58][/us/pl/109/58]\] to which they relate.
 
->     “(2) __Nonapplication of exemption for off-highway business use.—__ 
+>     “(2)  __Nonapplication of exemption for off-highway business use__  __.—__ 
 
 >     The amendment made by subsection (d)(3) \[amending [section 4041 of this title][/us/usc/t26/s4041]\] shall apply to fuel sold for use or used after the date of the enactment of this Act \[Dec. 29, 2007\].
 
->     “(3) __Amendment made by the safetea–lu.—__ 
+>     “(3)  __Amendment made by the safetea–lu__  __.—__ 
 
 >     The amendment made by subsection (d)(2)(C)(ii) \[amending [section 4082 of this title][/us/usc/t26/s4082]\] shall take effect as if included in section 11161 of the SAFETEA–LU \[[Pub. L. 109–59][/us/pl/109/59]\].”
 

@@ -275,11 +275,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 67(e)][/us/pl/98/369/s67/e], July 18, 1984, [98 Stat. 587][/us/stat/98/587], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and [section 4999 of this title][/us/usc/t26/s4999] and amending sections 275 and 3121 of this title\] shall apply to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date.
 
->     “(2) __Special rule for contract amendments.—__ 
+>     “(2)  __Special rule for contract amendments__  __.—__ 
 
 >     Any contract entered into before June 15, 1984, which is amended after June 14, 1984, in any significant relevant aspect shall be treated as a contract entered into after June 14, 1984.”
 

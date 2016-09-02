@@ -411,11 +411,11 @@
 
 [Pub. L. 99–514, title II, § 251(d)][/us/pl/99/514/s251/d], Oct. 22, 1986, [100 Stat. 2186][/us/stat/100/2186], as amended by [Pub. L. 100–647, title I, § 1002(k)][/us/pl/100/647/s1002/k], Nov. 10, 1988, [102 Stat. 3371][/us/stat/102/3371], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 48 of this title][/us/usc/t26/s48]\] shall apply to property placed in service after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __General transitional rule.—__ 
+>     “(2)  __General transitional rule__  __.—__ 
 
 >     The amendments made by this section and section 201 \[amending this section and sections 48, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any property placed in service before January 1, 1994, if such property is placed in service as part of—
 
@@ -429,7 +429,7 @@
 
 >             “(ii) the lesser of $1,000,000 or 5 percent of the cost of the rehabilitation is incurred before March 2, 1986, or is required to be incurred pursuant to a written contract which was binding on March 1, 1986.
 
->     “(3) __Certain additional rehabilitations.—__ 
+>     “(3)  __Certain additional rehabilitations__  __.—__ 
 
 >     The amendments made by this section and section 201 \[amending this section and sections 48, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to—
 
@@ -485,7 +485,7 @@
 
 >         “(Z) the Heritage Hotel, in the City of Marquette, Michigan.
 
->     “(4) __Additional rehabilitations.—__ 
+>     “(4)  __Additional rehabilitations__  __.—__ 
 
 >     The amendments made by this section and section 201 \[amending sections 46, 48, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to—
 
@@ -571,7 +571,7 @@
 
 >         “(OO) the D.J. Stewart Company Building, State and Main Streets, Rockford, Illinois.
 
->     “(5) __Reduction in credit for property under transitional rules.—__ 
+>     “(5)  __Reduction in credit for property under transitional rules__  __.—__ 
 
 >     In the case of property placed in service after December 31, 1986, and to which the amendments made by this section \[amending this section and sections 47 and 48 of this title\] do not apply, subparagraph (A) of section 46(b)(4) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect before the enactment of this Act) shall be applied—
 
@@ -579,7 +579,7 @@
 
 >         “(B) by substituting ‘13 percent’ for ‘20 percent’.
 
->     “(6) __Expensing of rehabilitation expenses for the frankford arsenal.—__ 
+>     “(6)  __Expensing of rehabilitation expenses for the frankford arsenal__  __.—__ 
 
 >     In the case of any expenditures paid or incurred in connection with improvements (including repairs and maintenance) of the Frankford Arsenal pursuant to a contract and partnership agreement during the 8-year period specified in the contract or agreement, all such expenditures to be made during the period 1986 through and including 1993 shall—
 
@@ -603,7 +603,7 @@
 
 >             “(iii) if the expenditures to be made under this provision are not paid or incurred before January 1, 1994, then the tax imposed by chapter 1 of such Code for the taxpayer’s last taxable year beginning in 1993 shall be increased by the amount of the tax benefits by reason of this paragraph which are attributable to the expenditures not so paid or incurred.
 
->     “(7) __Special rule.—__ 
+>     “(7)  __Special rule__  __.—__ 
 
 >     In the case of the rehabilitation of the Willard Hotel in Washington, D.C., section 205(c)(1)(B)(ii) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 205(c)(1)(B)(ii) of Pub. L. 97–248][/us/pl/97/248/s205/c/1/B/ii], set out as a note under [section 196 of this title][/us/usc/t26/s196]\] shall be applied by substituting ‘1987’ for ‘1986’.”
 
@@ -623,11 +623,11 @@
 
 [Pub. L. 98–369, div. A, title IV, § 431(e)][/us/pl/98/369/s431/e], July 18, 1984, [98 Stat. 810][/us/stat/98/810], provided:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 47 and 48 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date; except that such amendments shall not apply to any property to which the amendments made by section 211(f) of the Economic Recovery Tax Act of 1981 \[[section 211(f) of Pub. L. 97–34][/us/pl/97/34/s211/f], amending sections 46 and 47 of this title\] do not apply.
 
->     “(2) __Amendments may be elected retroactively.—__ 
+>     “(2)  __Amendments may be elected retroactively__  __.—__ 
 
 >     At the election of the taxpayer, the amendments made by this section shall apply as if included in the amendments made by section 211(f) of the Economic Recovery Tax Act of 1981. Any election made under the preceding sentence shall apply to all property of the taxpayer to which the amendments made by such section 211(f) apply and shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe.”
 
@@ -713,7 +713,7 @@
 
 >             For purposes of section 6601 of such Code, the last date prescribed for payment with respect to any payment required by reason of paragraph (3) shall be the last date on which such payment is due under clause (i).
 
->     “(5) __No inference.—__ 
+>     “(5)  __No inference__  __.—__ 
 
 >     The application of subparagraph (G) of section 167(l)(3) of the Internal Revenue Code of 1986, and the application of paragraphs (1) and (2) of section 46(f) of such Code, to taxable years beginning before January 1, 1980, shall be determined without any inference drawn from the amendments made by subsections (a) and (b) of this section \[amending this section and sections 167 and 168 of this title\] or from the rules contained in paragraphs (2), (3), and (4). Nothing in the preceding sentence shall be construed to limit the relief provided by paragraphs (2), (3), and (4).”
 
@@ -735,25 +735,25 @@
 
 [Pub. L. 97–34, title II, § 211(i)][/us/pl/97/34/s211/i], Aug. 13, 1981, [95 Stat. 235][/us/stat/95/235], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 47 and 48 of this title\] shall apply to property placed in service after December 31, 1980.
 
->     “(2) __Progress expenditures.—__ 
+>     “(2)  __Progress expenditures__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to progress expenditures made after December 31, 1980.
 
->     “(3) __Petroleum storage facilities.—__ 
+>     “(3)  __Petroleum storage facilities__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to periods after December 31, 1980, under rules similar to the rules under section 48(m).
 
->     “(4) __Noncorporate lessors.—__ 
+>     “(4)  __Noncorporate lessors__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to leases entered into after June 25, 1981.
 
 >     “(5) __At risk rules.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (f) \[amending this section and [section 47 of this title][/us/usc/t26/s47]\] shall not apply to—
 
@@ -761,21 +761,21 @@
 
 >             “(ii) property placed in service by the taxpayer after February 18, 1981, where such property is acquired by the taxpayer pursuant to a binding contract entered into on or before that date.
 
->         “(B) __Binding contract.—__ 
+>         “(B)  __Binding contract__  __.—__ 
 
 >         For purposes of subparagraph (A)(ii), property acquired pursuant to a binding contract shall, under regulations prescribed by the Secretary, include property acquired in a manner so that it would have qualified as pretermination property under section 49(b) (as in effect before its repeal by the Revenue Act of 1978) \[[Pub. L. 95–600][/us/pl/95/600]\].
 
->     “(6) __Leased rolling stock.—__ 
+>     “(6)  __Leased rolling stock__  __.—__ 
 
 >     The amendment made by subsection (h) \[amending [section 48 of this title][/us/usc/t26/s48]\] shall apply to taxable years beginning after December 31, 1980.”
 
 [Pub. L. 97–34, title II, § 212(e)][/us/pl/97/34/s212/e], Aug. 13, 1981, [95 Stat. 239][/us/stat/95/239], as amended by [Pub. L. 97–448, title I, § 102(f)(1)][/us/pl/97/448/s102/f/1], Jan. 12, 1983, [96 Stat. 2371][/us/stat/96/2371]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 48, 57, 167, 280B, 642, 1016, 1082, 1245, and 1250 of this title and repealing [section 191 of this title][/us/usc/t26/s191]\] shall apply to expenditures incurred after December 31, 1981, in taxable years ending after such date.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any rehabilitation of a building if—
 
@@ -829,7 +829,7 @@
 
 [Pub. L. 94–455, title VIII, § 803(j)][/us/pl/94/455/s803/j], Oct. 4, 1976, [90 Stat. 1591][/us/stat/90/1591], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[see Tables for classification of [section 803 of Pub. L. 94–455][/us/pl/94/455/s803]\] shall apply for taxable years beginning after December 31, 1974.
 
@@ -843,11 +843,11 @@
 
 [Pub. L. 94–455, title VIII, § 805(b)][/us/pl/94/455/s805/b], Oct. 4, 1976, [90 Stat. 1597][/us/stat/90/1597], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975, in the case of property placed in service after such date.
 
->     “(2) __Section 46(g)(4).—__ 
+>     “(2)  __Section 46(__  __g)(4).—__ 
 
 >     Section 46(g)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to taxable years beginning after December 31, 1975.”
 

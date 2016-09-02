@@ -423,23 +423,23 @@
 
 >     “(f) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection or subsection (g), the amendments made by this section \[amending this section, sections 263, 1092, 1212, 1234A, 1362, 1374, and 1402 of this title, and [section 411 of Title 42][/us/usc/t42/s411], The Public Health and Welfare, and enacting provisions set out as a note under [section 1362 of this title][/us/usc/t26/s1362]\] shall apply to positions established after the date of the enactment of this Act \[July 18, 1984\], in taxable years ending after such date.
 
->         “(2) __Special rule for options on regulated futures contracts.—__ 
+>         “(2)  __Special rule for options on regulated futures contracts__  __.—__ 
 
 >         In the case of any option with respect to a regulated futures contract (within the meaning of section 1256 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), the amendments made by this section shall apply to positions established after October 31, 1983, in taxable years ending after such date.
 
->         “(3) __Special rule for self-employment tax.—__ 
+>         “(3)  __Special rule for self-employment tax__  __.—__ 
 
 >         Except as provided in subsection (g)(2), the amendments made by subsection (c) \[amending [section 1402 of this title][/us/usc/t26/s1402] and [section 411 of Title 42][/us/usc/t42/s411]\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].
 
->         “(4) __Gains or losses from certain terminations.—__ 
+>         “(4)  __Gains or losses from certain terminations__  __.—__ 
 
 >         The amendment made by subsection (d)(9) \[probably means subsec. (e)(9), which amended [section 1234A of this title][/us/usc/t26/s1234A]\] shall apply as if included in the amendment made by section 505(a) \[probably means section 507(a)\] of the Economic Recovery Tax Act of 1981 \[[Pub. L. 97–34][/us/pl/97/34]\], as amended by section 105(e) of the Technical Corrections Act of 1982 \[[Pub. L. 97–448][/us/pl/97/448]\].
 
->     “(g) __Elections With Respect to Property Held on or Before the Date of the Enactment of This Act.—__ 
+>     “(g)  __Elections With Respect to Property Held on or Before the Date of the Enactment of This Act__  __.—__ 
 
 >     At the election of the taxpayer—
 
@@ -449,7 +449,7 @@
 
 >     “(h) __Elections for Installment Payment of Tax Attributable to Stock Options.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the taxpayer makes an election under subsection (g)(2) and under this subsection—
 
@@ -477,11 +477,11 @@
 
 >             “(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
->         “(3) __Interest imposed.—__ 
+>         “(3)  __Interest imposed__  __.—__ 
 
 >         For purposes of section 6601 of the Internal Revenue Code of 1986, the time for payment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
 
->         “(4) __Form of election.—__ 
+>         “(4)  __Form of election__  __.—__ 
 
 >         An election under this subsection shall be made not later than the time for filing the return for the taxable year described in paragraph (1) and shall be made in the manner and form required by regulations prescribed by Secretary of the Treasury or his delegate. The election shall set forth—
 
@@ -493,23 +493,23 @@
 
 >             “(D) such other information for purposes of carrying out the provisions of this subsection as may be required by such regulations.
 
->         “(5) __Delay of identification requirement.—__ 
+>         “(5)  __Delay of identification requirement__  __.—__ 
 
 >         Section 1256(e)(2)(C) of the Internal Revenue Code of 1986 shall not apply to any stock option or stock acquired on or before the 60th day after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     For purposes of subsections (g) and (h)—
 
->         “(1) __Section 1256 contract.—__ 
+>         “(1)  __Section 1256 contract__  __.—__ 
 
 >         The term ‘section 1256 contract’ has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as amended by this section).
 
->         “(2) __Stock option.—__ 
+>         “(2)  __Stock option__  __.—__ 
 
 >         The term ‘stock option’ means any option to buy or sell stock.
 
->     “(j) __Coordination of Election Under Subsection (d)(3) With Elections Under Subsections (g) and (h).—__ 
+>     “(j)  __Coordination of Election Under Subsection__  __(d)(3)__  __With Elections Under Subsections__  __(g)__  __and__  __(h).—__ 
 
 >     The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary to coordinate the election provided by subsection (d)(3) with the elections provided by subsections (g) and (h).”
 
@@ -527,37 +527,37 @@
 
 [Pub. L. 97–448, title I, § 105(c)(5)(D)][/us/pl/97/448/s105/c/5/D], Jan. 12, 1983, [96 Stat. 2386][/us/stat/96/2386], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(i) __In general.—__ 
+>     “(i)  __In general__  __.—__ 
 
 >     Except as provided in clauses (ii) and (iii), the amendments made by subparagraphs (B) and (C) \[amending this section\] shall apply only with respect to contracts entered into after May 11, 1982.
 
 >     “(ii) __Election by taxpayer of retroactive application.—__ 
 
->         “(I) __Retroactive application.—__ 
+>         “(I)  __Retroactive application__  __.—__ 
 
 >         If the taxpayer so elects, the amendments made by subparagraphs (B) and (C) \[amending this section\] shall apply as if included within the amendments made by title V of the Economic Recovery Tax Act of 1981 \[title V of [Pub. L. 97–34][/us/pl/97/34]\].
 
->         “(II) __Additional choices with respect to 1981.—__ 
+>         “(II)  __Additional choices with respect to 1981__  __.—__ 
 
 >         If the taxpayer held a foreign currency contract after December 31, 1980, and before June 24, 1981, and such taxpayer makes an election under subclause (I), such taxpayer may revoke any election made under section 508(c) \[set out as an Effective Date note under [section 1092 of this title][/us/usc/t26/s1092]\] or 509(a) \[set out below\] of such Act, and may make an election under section 508(c) or 509(a) of such Act.
 
->         “(III) __Additional choices apply to all regulated futures contracts.—__ 
+>         “(III)  __Additional choices apply to all regulated futures contracts__  __.—__ 
 
 >         Except as provided in subclause (IV), in the case of any taxpayer who makes an election under subclause (I), any election under section 508(c) or 509(a) of such Act or any revocation of such an election shall apply to all regulated futures contracts (including foreign currency contracts).
 
->         “(IV) __Section 509(a)(3) and (4) not to apply to foreign currency contracts.—__ 
+>         “(IV)  __Section 509__  __(a)__  __(3) and (4) not to apply to foreign currency contracts__  __.—__ 
 
 >         Paragraphs (3) and (4) of section 509(a) of such Act shall not apply to any foreign currency contract.
 
->         “(V) __Time for making election or revocation.—__ 
+>         “(V)  __Time for making election or revocation__  __.—__ 
 
 >         Any election under subclause (I) and any election or revocation under subclause (II) may be made only within the 90-day period beginning on the date of the enactment of this Act \[Jan. 12, 1983\]. Any such action, once taken, shall be irrevocable.
 
->         “(VI) __Definitions.—__ 
+>         “(VI)  __Definitions__  __.—__ 
 
 >         For purposes of this clause, the terms ‘regulated futures contract’ and ‘foreign currency contract’ have the same respective meanings as when used in section 1256 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act).
 
->     “(iii) __Election by taxpayer with respect to positions held during taxable years ending after__  __may 11, 1982__  __.—__ 
+>     “(iii)  __Election by taxpayer with respect to positions held during taxable years ending after __  __may 11, 1982__  __.—__ 
 
 >     In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
 
@@ -581,11 +581,11 @@
 
 >     “(a) __Election.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Date note under [section 1092 of this title][/us/usc/t26/s1092]\], to have this section apply to all regulated futures contracts held during such taxable year.
 
->         “(2) __Application of section 1256.—__ 
+>         “(2)  __Application of section 1256__  __.—__ 
 
 >         If a taxpayer elects to have the provisions of this section apply to the taxable year described in paragraph (1).—
 
@@ -593,7 +593,7 @@
 
 >             “(B) for purposes of determining the rate of tax applicable to gains and losses from regulated futures contracts held at any time during such year, such gains and losses shall be treated as gain or loss from a sale or exchange occurring in a taxable year beginning in 1982.
 
->         “(3) __Determination of deferred tax liability.—__ 
+>         “(3)  __Determination of deferred tax liability__  __.—__ 
 
 >         If the taxpayer makes an election under this subsection.—
 
@@ -613,11 +613,11 @@
 
 >             “(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
->         “(5) __Interest imposed.—__ 
+>         “(5)  __Interest imposed__  __.—__ 
 
 >         For purposes of section 6601 of the Internal Revenue Code of 1986, the time for payment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
 
->     “(b) __Form of Election.—__ 
+>     “(b)  __Form of Election__  __.—__ 
 
 >     An election under this section shall be made not later than the time for filing the return for the taxable year described in subsection (a)(1) and shall be made in the manner and form required by regulations prescribed by the Secretary. The election shall set forth—
 

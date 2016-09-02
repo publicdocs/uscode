@@ -93,11 +93,11 @@
 
 [Pub. L. 105–34, title X, § 1028(e)][/us/pl/105/34/s1028/e], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
 
->     “(2) __Modifications to substantial understatement penalty.—__ 
+>     “(2)  __Modifications to substantial understatement penalty__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 6662 of this title][/us/usc/t26/s6662]\] shall apply to items with respect to transactions entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -115,15 +115,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 141(d)][/us/pl/98/369/s141/d], July 18, 1984, [98 Stat. 680][/us/stat/98/680], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and [section 6707 of this title][/us/usc/t26/s6707] and renumbering former section 6111 as [section 6112 of this title][/us/usc/t26/s6112]\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section) any interest in which is first sold to any investor after August 31, 1984.
 
->     “(2) __Substantial investment test.—__ 
+>     “(2)  __Substantial investment test__  __.—__ 
 
 >     For purposes of determining whether any investment is a tax shelter by reason of section 6111(c)(1)(B)(iii) of such Code (as added by this section), only offers for sale after August 31, 1984, shall be taken into account.
 
->     “(3) __Furnishing of shelter identification number for interests sold before__  __september 1, 1984__  __.—__ 
+>     “(3)  __Furnishing of shelter identification number for interests sold before __  __september 1, 1984__  __.—__ 
 
 >     With respect to interests sold before September 1, 1984, any liability to act under paragraph (1) of section 6111(b) of such Code (as added by this section) which would (but for this sentence) arise before such date shall be deemed to arise on December 31, 1984.”
 

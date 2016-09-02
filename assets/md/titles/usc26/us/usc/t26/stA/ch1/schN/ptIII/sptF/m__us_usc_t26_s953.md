@@ -527,9 +527,13 @@
 
     1976—Subsec. (b)(5). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1966—Subsec. (b)(3)(F). [Pub. L. 89–809][/us/pl/89/809] substituted “832(c)(5)” for “832(b)(5)”.Effective Date of 2013 Amendment
+    1966—Subsec. (b)(3)(F). [Pub. L. 89–809][/us/pl/89/809] substituted “832(c)(5)” for “832(b)(5)”.
 
-    [Pub. L. 112–240, title III, § 322(c)][/us/pl/112/240/s322/c], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332], provided that: “The amendments made by this section \[amending this section and [section 954 of this title][/us/usc/t26/s954]\] shall apply to taxable years of foreign corporations beginning after December 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 112–240, title III, § 322(c)][/us/pl/112/240/s322/c], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 954 of this title][/us/usc/t26/s954]\] shall apply to taxable years of foreign corporations beginning after December 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
 
  __Effective Date of 2010 Amendment__ 
 

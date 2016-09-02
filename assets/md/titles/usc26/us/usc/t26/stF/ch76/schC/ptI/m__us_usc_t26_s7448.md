@@ -337,29 +337,29 @@
 
 >         “(B) The amendment made by subsection (a)(1)(B) \[amending this section\] shall apply to service after November 1, 1986.
 
->     “(2) __Appropriations.—__ 
+>     “(2)  __Appropriations__  __.—__ 
 
 >     The amendments made by subsection (a)(2) \[amending this section\] shall apply to fiscal years beginning after 1986.
 
->     “(3) __Computation of annuities.—__ 
+>     “(3)  __Computation of annuities__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to annuities the starting date of which is after November 1, 1986.
 
 >     “(4) __Opportunity to revoke survivor annuity election.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Any individual who before November 1, 1986, made an election under subsection (b) of section 7448 of the Internal Revenue Code of 1954 \[now 1986\] may revoke such election. Such a revocation shall constitute a complete withdrawal from the survivor annuity program provided for in such section and shall be filed as provided for elections under such subsection.
 
->         “(B) __Effect of revocation.—__ 
+>         “(B)  __Effect of revocation__  __.—__ 
 
 >         Any revocation under subparagraph (A) shall have the same effect as if there were a termination to which section 7448(g) of such Code applies on the date such revocation is filed.
 
->         “(C) __Period revocation permitted.—__ 
+>         “(C)  __Period revocation permitted__  __.—__ 
 
 >         Any revocation under subparagraph (A) may be made only during the 180-day period beginning on the date of the enactment of this Act \[Oct. 22, 1986\].
 
->     “(5) __Opportunity to elect survivor annuity where prior revocation.—__ 
+>     “(5)  __Opportunity to elect survivor annuity where prior revocation__  __.—__ 
 
 >     Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of such section the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
 
@@ -373,11 +373,11 @@
 
 [Pub. L. 97–362, title I, § 105(d)][/us/pl/97/362/s105/d], Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to annuities payable with respect to judges dying after the date of the enactment of this Act \[Oct. 25, 1982\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to increases in the salary of judges of the United States Tax Court taking effect after the date of the enactment of this Act \[Oct. 25, 1982\].”
 

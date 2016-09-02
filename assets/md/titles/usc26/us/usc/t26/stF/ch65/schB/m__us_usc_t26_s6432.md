@@ -151,17 +151,17 @@
 
 >         “(1) __Provision of premium assistance.—__ 
 
->             “(A) __Reduction of premiums payable.—__ 
+>             “(A)  __Reduction of premiums payable__  __.—__ 
 
 >             In the case of any premium for a period of coverage beginning on or after the date of the enactment of this Act \[Feb. 17, 2009\] for COBRA continuation coverage with respect to any assistance eligible individual, such individual shall be treated for purposes of any COBRA continuation provision as having paid the amount of such premium if such individual pays (or a person other than such individual’s employer pays on behalf of such individual) 35 percent of the amount of such premium (as determined without regard to this subsection).
 
 >             “(B) __Plan enrollment option.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Notwithstanding the COBRA continuation provisions, an assistance eligible individual may, not later than 90 days after the date of notice of the plan enrollment option described in this subparagraph, elect to enroll in coverage under a plan offered by the employer involved, or the employee organization involved (including, for this purpose, a joint board of trustees of a multiemployer trust affiliated with one or more multiemployer plans), that is different than coverage under the plan in which such individual was enrolled at the time the qualifying event occurred, and such coverage shall be treated as COBRA continuation coverage for purposes of the applicable COBRA continuation coverage provision.
 
->                 “(ii) __Requirements.—__ 
+>                 “(ii)  __Requirements__  __.—__ 
 
 >                 An assistance eligible individual may elect to enroll in different coverage as described in clause (i) only if—
 
@@ -181,13 +181,13 @@
 
 >                         “(cc) coverage that provides coverage for services or treatments furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination of such care).
 
->             “(C) __Premium reimbursement.—__ 
+>             “(C)  __Premium reimbursement__  __.—__ 
 
 >             For provisions providing the balance of such premium, see section 6432 of the Internal Revenue Code of 1986, as added by paragraph (12).
 
 >         “(2) __Limitation of period of premium assistance.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Paragraph (1)(A) shall not apply with respect to any assistance eligible individual for months of coverage beginning on or after the earlier of—
 
@@ -203,15 +203,15 @@
 
 >                          “(III) the date following the expiration of the period of continuation coverage allowed under paragraph (4)(B)(ii).
 
->             “(B) __Timing of eligibility for additional coverage.—__ 
+>             “(B)  __Timing of eligibility for additional coverage__  __.—__ 
 
 >             For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverage under a group health plan before the first date on which such individual could be covered under such plan.
 
->             “(C) __Notification requirement.—__ 
+>             “(C)  __Notification requirement__  __.—__ 
 
 >             An assistance eligible individual shall notify in writing the group health plan with respect to which paragraph (1)(A) applies if such paragraph ceases to apply by reason of subparagraph (A)(i). Such notice shall be provided to the group health plan in such time and manner as may be specified by the Secretary of Labor.
 
->         “(3) __Assistance eligible individual.—__ 
+>         “(3)  __Assistance eligible individual__  __.—__ 
 
 >         For purposes of this section, the term ‘assistance eligible individual’ means any qualified beneficiary if—
 
@@ -223,11 +223,11 @@
 
 >         “(4) __Extension of election period and effect on coverage.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of applying section 605(a) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1165(a)][/us/usc/t29/s1165/a]\], section 4980B(f)(5)(A) of the Internal Revenue Code of 1986, section 2205(a) of the Public Health Service Act \[[42 U.S.C. 300bb–5(a)][/us/usc/t42/s300bb–5/a]\], and [section 8905a(c)(2) of title 5][/us/usc/t5/s8905a/c/2], United States Code, in the case of an individual who does not have an election of COBRA continuation coverage in effect on the date of the enactment of this Act \[Feb. 17, 2009\] but who would be an assistance eligible individual if such election were so in effect, such individual may elect the COBRA continuation coverage under the COBRA continuation coverage provisions containing such sections during the period beginning on the date of the enactment of this Act and ending 60 days after the date on which the notification required under paragraph (7)(C) is provided to such individual.
 
->             “(B) __Commencement of coverage; no reach-back.—__ 
+>             “(B)  __Commencement of coverage; no reach-back__  __.—__ 
 
 >             Any COBRA continuation coverage elected by a qualified beneficiary during an extended election period under subparagraph (A)—
 
@@ -235,7 +235,7 @@
 
 >                 “(ii) shall not extend beyond the period of COBRA continuation coverage that would have been required under the applicable COBRA continuation coverage provision if the coverage had been elected as required under such provision.
 
->             “(C) __Preexisting conditions.—__ 
+>             “(C)  __Preexisting conditions__  __.—__ 
 
 >             With respect to a qualified beneficiary who elects COBRA continuation coverage pursuant to subparagraph (A), the period—
 
@@ -245,11 +245,11 @@
 
 >                   shall be disregarded for purposes of determining the 63-day periods referred to in section 701(c)(2) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1181(c)(2)][/us/usc/t29/s1181/c/2]\], section 9801(c)(2) of the Internal Revenue Code of 1986, and section 2701(c)(2) of the Public Health Service Act \[former [42 U.S.C. 300gg(c)(2)][/us/usc/t42/s300gg/c/2]; now [42 U.S.C. 300gg–3(c)(2)][/us/usc/t42/s300gg–3/c/2]\].
 
->         “(5) __Expedited review of denials of premium assistance.—__ 
+>         “(5)  __Expedited review of denials of premium assistance__  __.—__ 
 
 >         In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1161][/us/usc/t29/s1161] et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual’s eligibility within 15 business days after receipt of such individual’s application for review under this paragraph. Either Secretary’s determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary’s determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\] for purposes of part 5 of subtitle B of such title \[[29 U.S.C. 1131][/us/usc/t29/s1131] et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor’s or issuer’s receipt of the determination.
 
->         “(6) __Disregard of subsidies for purposes of federal and state programs.—__ 
+>         “(6)  __Disregard of subsidies for purposes of federal and state programs__  __.—__ 
 
 >         Notwithstanding any other provision of law, any premium reduction with respect to an assistance eligible individual under this subsection shall not be considered income or resources in determining eligibility for, or the amount of assistance or benefits provided under, any other public benefit provided under Federal law or the law of any State or political subdivision thereof.
 
@@ -257,7 +257,7 @@
 
 >             “(A) __General notice.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1166][/us/usc/t29/s1166]\[(a)\](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act ([42 U.S.C. 300bb–6(4)][/us/usc/t42/s300bb–6/4]), or [section 8905a(f)(2)(A) of title 5][/us/usc/t5/s8905a/f/2/A], United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of—
 
@@ -265,15 +265,15 @@
 
 >                          “(II) the option to enroll in different coverage if the employer permits assistance eligible individuals to elect enrollment in different coverage (as described in paragraph (1)(B)).
 
->                 “(ii) __Alternative notice.—__ 
+>                 “(ii)  __Alternative notice__  __.—__ 
 
 >                 In the case of COBRA continuation coverage to which the notice provision under such sections does not apply, the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall, in consultation with administrators of the group health plans (or other entities) that provide or administer the COBRA continuation coverage involved, provide rules requiring the provision of such notice.
 
->                 “(iii) __Form.—__ 
+>                 “(iii)  __Form__  __.—__ 
 
 >                 The requirement of the additional notification under this subparagraph may be met by amendment of existing notice forms or by inclusion of a separate document with the notice otherwise required.
 
->             “(B) __Specific requirements.—__ 
+>             “(B)  __Specific requirements__  __.—__ 
 
 >             Each additional notification under subparagraph (A) shall include—
 
@@ -289,11 +289,11 @@
 
 >                 “(vi) a description of the option of the qualified beneficiary to enroll in different coverage if the employer permits such beneficiary to elect to enroll in such different coverage under paragraph (1)(B).
 
->             “(C) __Notice in connection with extended election periods.—__ 
+>             “(C)  __Notice in connection with extended election periods__  __.—__ 
 
 >             In the case of any assistance eligible individual (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the date of the enactment of this Act \[Feb. 17, 2009\], the administrator of the group health plan (or other entity) involved shall provide (within 60 days after the date of enactment of this Act) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision.
 
->             “(D) __Model notices.—__ 
+>             “(D)  __Model notices__  __.—__ 
 
 >             Not later than 30 days after the date of enactment of this Act \[Feb. 17, 2009\]—
 
@@ -301,53 +301,53 @@
 
 >                 “(ii) in the case of any additional notification provided pursuant to subparagraph (A) under [section 8905a(f)(2)(A) of title 5][/us/usc/t5/s8905a/f/2/A], United States Code, the Office of Personnel Management shall prescribe a model for such additional notification.
 
->         “(8) __Regulations.—__ 
+>         “(8)  __Regulations__  __.—__ 
 
 >         The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this subsection, including the prevention of fraud and abuse under this subsection, except that the Secretary of Labor and the Secretary of Health and Human Services may prescribe such regulations (including interim final regulations) or other guidance as may be necessary or appropriate to carry out the provisions of paragraphs (5), (7), and (9).
 
->         “(9) __Outreach.—__ 
+>         “(9)  __Outreach__  __.—__ 
 
 >         The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium reduction provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (7)(C). Information on such premium reduction, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
 
->         “(10) __Definitions.—__ 
+>         “(10)  __Definitions__  __.—__ 
 
 >         For purposes of this section—
 
->             “(A) __Administrator.—__ 
+>             “(A)  __Administrator__  __.—__ 
 
 >             The term ‘administrator’ has the meaning given such term in section 3(16)(A) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002(16)(A)][/us/usc/t29/s1002/16/A]\].
 
->             “(B) __COBRA continuation coverage.—__ 
+>             “(B) __COBRA__  __continuation coverage__  __.—__ 
 
 >             The term ‘COBRA continuation coverage’ means continuation coverage provided pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1161][/us/usc/t29/s1161] et seq.\] (other than under section 609 \[[29 U.S.C. 1169][/us/usc/t29/s1169]\]), title XXII of the Public Health Service Act \[[42 U.S.C. 300bb–1][/us/usc/t42/s300bb–1] et seq.\], section 4980B of the Internal Revenue Code of 1986 (other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines), or [section 8905a of title 5][/us/usc/t5/s8905a], United States Code, or under a State program that provides comparable continuation coverage. Such term does not include coverage under a health flexible spending arrangement under a cafeteria plan within the meaning of section 125 of the Internal Revenue Code of 1986.
 
->             “(C) __COBRA continuation provision.—__ 
+>             “(C) __COBRA__  __continuation provision__  __.—__ 
 
 >             The term ‘COBRA continuation provision’ means the provisions of law described in subparagraph (B).
 
->             “(D) __Covered employee.—__ 
+>             “(D)  __Covered employee__  __.—__ 
 
 >             The term ‘covered employee’ has the meaning given such term in section 607(2) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1167(2)][/us/usc/t29/s1167/2]\].
 
->             “(E) __Qualified beneficiary.—__ 
+>             “(E)  __Qualified beneficiary__  __.—__ 
 
 >             The term ‘qualified beneficiary’ has the meaning given such term in section 607(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1167(3)][/us/usc/t29/s1167/3]\].
 
->             “(F) __Group health plan.—__ 
+>             “(F)  __Group health plan__  __.—__ 
 
 >             The term ‘group health plan’ has the meaning given such term in section 607(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1167(1)][/us/usc/t29/s1167/1]\].
 
->             “(G) __State.—__ 
+>             “(G)  __State__  __.—__ 
 
 >             The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
->             “(H) __Period of coverage.—__ 
+>             “(H)  __Period of coverage__  __.—__ 
 
 >             Any reference in this subsection to a period of coverage shall be treated as a reference to a monthly or shorter period of coverage with respect to which premiums are charged with respect to such coverage.
 
 >         “(11) __Reports.—__ 
 
->             “(A) __Interim report.—__ 
+>             “(A)  __Interim report__  __.—__ 
 
 >             The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor \[now Committee on Education and the Workforce\], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
 
@@ -355,7 +355,7 @@
 
 >                 “(ii) the total amount of expenditures incurred (with administrative expenditures noted separately) in connection with such assistance as of the date of the report.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             As soon as practicable after the last period of COBRA continuation coverage for which premium reduction is provided under this section, the Secretary of the Treasury shall submit a final report to each Committee referred to in subparagraph (A) that includes—
 
@@ -367,25 +367,25 @@
 
 >         “(12) __COBRA premium assistance.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             \[Enacted this section.\]
 
->             “(B) __Social security trust funds held harmless.—__ 
+>             “(B)  __Social security trust funds held harmless__  __.—__ 
 
 >             In determining any amount transferred or appropriated to any fund under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], section 6432 of the Internal Revenue Code of 1986 shall not be taken into account.
 
->             “(C) __Clerical amendment.—__ 
+>             “(C)  __Clerical amendment__  __.—__ 
 
 >             \[Amended analysis of this subchapter.\]
 
->             “(D) __Effective date.—__ 
+>             “(D)  __Effective date__  __.—__ 
 
 >             The amendments made by this paragraph shall apply to premiums to which subsection (a)(1)(A) applies.
 
 >             “(E) __Special rule.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
 
@@ -393,55 +393,55 @@
 
 >                          “(II) provide credit to the individual for such amount in a manner that reduces one or more subsequent premium payments that the individual is required to pay under such subsection for the coverage involved.
 
->                 “(ii) __Reimbursing employer.—__ 
+>                 “(ii)  __Reimbursing employer__  __.—__ 
 
 >                 A person to which clause (i) applies shall be reimbursed as provided for in section 6432 of the Internal Revenue Code of 1986 for any payment made, or credit provided, to the employee under such clause.
 
->                 “(iii) __Payment or credits.—__ 
+>                 “(iii)  __Payment or credits__  __.—__ 
 
 >                 Unless it is reasonable to believe that the credit for the excess payment in clause (i)(II) will be used by the assistance eligible individual within 180 days of the date on which the person receives from the individual the payment of the full premium amount, a person to which clause (i) applies shall make the payment required under such clause to the individual within 60 days of such payment of the full premium amount. If, as of any day within the 180-day period, it is no longer reasonable to believe that the credit will be used during that period, payment equal to the remainder of the credit outstanding shall be made to the individual within 60 days of such day.
 
 >         “(13) __Penalty for failure to notify health plan of cessation of eligibility for premium assistance.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             \[Enacted [section 6720C of this title][/us/usc/t26/s6720C].\]
 
->             “(B) __Clerical amendment.—__ 
+>             “(B)  __Clerical amendment__  __.—__ 
 
 >             \[Amended analysis of part I of subchapter B of chapter 68 of this title.\]
 
->             “(C) __Effective date.—__ 
+>             “(C)  __Effective date__  __.—__ 
 
 >             The amendments made by this paragraph shall apply to failures occurring after the date of the enactment of this Act \[Feb. 17, 2009\].
 
 >         “(14) __Coordination with hctc.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             \[Amended [section 35 of this title][/us/usc/t26/s35].\]
 
->             “(B) __Effective date.—__ 
+>             “(B)  __Effective date__  __.—__ 
 
 >             The amendment made by subparagraph (A) shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].
 
 >         “(15) __Exclusion of cobra premium assistance from gross income.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             \[Enacted [section 139C of this title][/us/usc/t26/s139C].\]
 
->             “(B) __Clerical amendment.—__ 
+>             “(B)  __Clerical amendment__  __.—__ 
 
 >             \[Amended analysis of part III of subchapter B of chapter 1 of this title.\]
 
->             “(C) __Effective date.—__ 
+>             “(C)  __Effective date__  __.—__ 
 
 >             The amendments made by this paragraph shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].
 
 >         “(16) __Rules related to 2009 extension.—__ 
 
->             “(A) __Election to pay premiums retroactively and maintain cobra coverage.—__ 
+>             “(A)  __Election to pay premiums retroactively and maintain cobra coverage__  __.—__ 
 
 >             In the case of any premium for a period of coverage during an assistance eligible individual’s transition period, such individual shall be treated for purposes of any COBRA continuation provision as having timely paid the amount of such premium if—
 
@@ -457,13 +457,13 @@
 
 >                          “(III) the end of the period described in section 4980B(f)(2)(B)(iii) of the Internal Revenue Code of 1986.
 
->             “(B) __Refunds and credits for retroactive premium assistance eligibility.—__ 
+>             “(B)  __Refunds and credits for retroactive premium assistance eligibility__  __.—__ 
 
 >             In the case of an assistance eligible individual who pays, with respect to any period of COBRA continuation coverage during such individual’s transition period, the premium amount for such coverage without regard to paragraph (1)(A), rules similar to the rules of paragraph (12)(E) shall apply.
 
 >             “(C) __Transition period.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if—
 
@@ -471,21 +471,21 @@
 
 >                          “(II) paragraph (1)(A) applies to such period by reason of the amendment made by section 1010(b) of the Department of Defense Appropriations Act, 2010 \[[Pub. L. 111–118][/us/pl/111/118]\].
 
->                 “(ii) __Construction.—__ 
+>                 “(ii)  __Construction__  __.—__ 
 
 >                 Any period during the period described in subclauses (I) and (II) of clause (i) for which the applicable premium has been paid pursuant to subparagraph (A) shall be treated as a period of coverage referred to in such paragraph \[probably should be “subparagraph”\], irrespective of any failure to timely pay the applicable premium (other than pursuant to subparagraph (A)) for such period.
 
 >             “(D) __Notification.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In the case of an individual who was an assistance eligible individual at any time on or after October 31, 2009, or experiences a qualifying event (consisting of termination of employment) relating to COBRA continuation coverage on or after such date, the administrator of the group health plan (or other entity) involved shall provide an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010 \[[Pub. L. 111–118][/us/pl/111/118]\], within 60 days after the date of the enactment of such Act \[Dec. 19, 2009\] or, in the case of a qualifying event occurring after such date of enactment, consistent with the timing of notifications under paragraph (7)(A).
 
->                 “(ii) __To individuals who lost assistance.—__ 
+>                 “(ii)  __To individuals who lost assistance__  __.—__ 
 
 >                 In the case of an assistance eligible individual described in subparagraph (A)(i) who did not timely pay the premium for any period of coverage during such individual’s transition period or paid the premium for such period without regard to paragraph (1)(A), the administrator of the group health plan (or other entity) involved shall provide to such individual, within the first 60 days of such individual’s transition period, an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010, including information on the ability under subparagraph (A) to make retroactive premium payments with respect to the transition period of the individual in order to maintain COBRA continuation coverage.
 
->                 “(iii) __Application of rules.—__ 
+>                 “(iii)  __Application of rules__  __.—__ 
 
 >                 Rules similar to the rules of paragraph (7) shall apply with respect to notifications under this subparagraph.
 
@@ -493,37 +493,37 @@
 
 >             “(A) __New election period.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
 
->                 “(ii) __Counting cobra duration period from previous qualifying event.—__ 
+>                 “(ii)  __Counting cobra duration period from previous qualifying event__  __.—__ 
 
 >                 In any case of an individual referred to in clause (i), the period of such individual’s continuation coverage shall be determined as though the qualifying event were the reduction of hours of employment.
 
->                 “(iii) __Construction.—__ 
+>                 “(iii)  __Construction__  __.—__ 
 
 >                 Nothing in this paragraph shall be construed as requiring an individual referred to in clause (i) to make a payment for COBRA continuation coverage between the reduction of hours and the involuntary termination of employment.
 
->                 “(iv) __Preexisting conditions.—__ 
+>                 “(iv)  __Preexisting conditions__  __.—__ 
 
 >                 With respect to an individual referred to in clause (i) who elects COBRA continuation coverage pursuant to such clause, rules similar to the rules in paragraph (4)(C) shall apply.
 
->             “(B) __Notices.—__ 
+>             “(B)  __Notices__  __.—__ 
 
 >             In the case of an individual described in subparagraph (C), the administrator of the group health plan (or other entity) involved shall provide, during the 60-day period beginning on the date of such individual’s involuntary termination of employment, an additional notification described in paragraph (7)(A), including information on the provisions of this paragraph. Rules similar to the rules of paragraph (7) shall apply with respect to such notification.
 
->             “(C) __Individuals described.—__ 
+>             “(C)  __Individuals described__  __.—__ 
 
 >             Individuals described in this subparagraph are individuals who are assistance eligible individuals on the basis of a qualifying event consisting of a reduction of hours occurring during the period described in paragraph (3)(A) followed by an involuntary termination of employment insofar as such involuntary termination of employment occurred on or after the date of the enactment of this paragraph.
 
->         “(18) __Rules related to april and may 2010 extension.—__ 
+>         “(18)  __Rules related to april and may 2010 extension__  __.—__ 
 
 >         In the case of an individual who, with regard to coverage described in paragraph (10)(B), experiences a qualifying event related to a termination of employment on or after April 1, 2010 and prior to the date of the enactment of this paragraph \[Apr. 15, 2010\], rules similar to those in paragraphs (4)(A) and (7)(C) shall apply with respect to all continuation coverage, including State continuation coverage programs.
 
 >     “(b) __Elimination of Premium Subsidy for High-Income Individuals.—__ 
 
->         “(1) __Recapture of subsidy for high-income individuals.—__ 
+>         “(1)  __Recapture of subsidy for high-income individuals__  __.—__ 
 
 >         If—
 
@@ -535,11 +535,11 @@
 
 >         “(2) __Phase-in of recapture.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a taxpayer whose modified adjusted gross income for the taxable year does not exceed $145,000 ($290,000 in the case of a joint return), the increase in the tax imposed under paragraph (1) shall not exceed the phase-in percentage of such increase (determined without regard to this paragraph).
 
->             “(B) __Phase-in percentage.—__ 
+>             “(B)  __Phase-in percentage__  __.—__ 
 
 >             For purposes of this subsection, the term ‘phase-in percentage’ means the ratio (expressed as a percentage) obtained by dividing—
 
@@ -547,7 +547,7 @@
 
 >                 “(ii) $20,000 ($40,000 in the case of a joint return).
 
->         “(3) __Option for high-income individuals to waive assistance and avoid recapture.—__ 
+>         “(3)  __Option for high-income individuals to waive assistance and avoid recapture__  __.—__ 
 
 >         Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
 
@@ -555,19 +555,19 @@
 
 >             “(B) notifies the entity to whom premiums are reimbursed under section 6432(a) of such Code of such election.
 
->         “(4) __Modified adjusted gross income.—__ 
+>         “(4)  __Modified adjusted gross income__  __.—__ 
 
 >         For purposes of this subsection, the term ‘modified adjusted gross income’ means the adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933 of such Code.
 
->         “(5) __Credits not allowed against tax, etc.—__ 
+>         “(5)  __Credits not allowed against tax, etc__  __.—__ 
 
 >         For purposes determining regular tax liability under section 26(b) of such Code, the increase in tax under this subsection shall not be treated as a tax imposed under chapter 1 of such Code.
 
->         “(6) __Regulations.—__ 
+>         “(6)  __Regulations__  __.—__ 
 
 >         The Secretary of the Treasury shall issue such regulations or other guidance as are necessary or appropriate to carry out this subsection, including requirements that the entity to whom premiums are reimbursed under section 6432(a) of the Internal Revenue Code of 1986 report to the Secretary, and to each assistance eligible individual, the amount of premium assistance provided under subsection (a) with respect to each such individual.
 
->         “(7) __Effective date.—__ 
+>         “(7)  __Effective date__  __.—__ 
 
 >         The provisions of this subsection shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].”
 

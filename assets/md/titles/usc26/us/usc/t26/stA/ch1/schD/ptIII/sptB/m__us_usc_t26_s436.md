@@ -351,11 +351,11 @@
 
 [Pub. L. 111–192, title II, § 203(c)][/us/pl/111/192/s203/c], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1056 of Title 29][/us/usc/t29/s1056], Labor\] shall apply to plan years beginning on or after October 1, 2008.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     In the case of a plan for which the valuation date is not the first day of the plan year, the amendments made by this section shall apply to plan years beginning after December 31, 2007.”
 
@@ -367,11 +367,11 @@
 
 [Pub. L. 109–280, title I, § 113(b)][/us/pl/109/280/s113/b], Aug. 17, 2006, [120 Stat. 852][/us/stat/120/852], as amended by [Pub. L. 110–458, title I, § 101(c)(3)][/us/pl/110/458/s101/c/3], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subpart\] shall apply to plan years beginning after December 31, 2007.
 
->     “(2) __Collective bargaining exception.—__ 
+>     “(2)  __Collective bargaining exception__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before January 1, 2008, the amendments made by this section shall not apply to plan years beginning before the earlier of—
 

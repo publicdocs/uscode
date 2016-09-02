@@ -187,11 +187,11 @@
 
 [Pub. L. 107–147, title IV, § 403(b)][/us/pl/107/147/s403/b], Mar. 9, 2002, [116 Stat. 41][/us/stat/116/41], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Mar. 9, 2002\].
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer required by the amendments made by this section to change its method of accounting for its first taxable year ending after the date of the enactment of this Act—
 
@@ -213,15 +213,15 @@
 
 [Pub. L. 99–514, title VIII, § 801(d)][/us/pl/99/514/s801/d], Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348], as amended by [Pub. L. 100–647, title I, § 1008(a)(5)][/us/pl/100/647/s1008/a/5], (6), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending [section 461 of this title][/us/usc/t26/s461]\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Election to retain cash method for certain transactions.—__ 
+>     “(2)  __Election to retain cash method for certain transactions__  __.—__ 
 
 >     A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
 
->     “(3) __Certain contracts.—__ 
+>     “(3)  __Certain contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply to—
 
@@ -231,7 +231,7 @@
 
 >         but only if such contracts were entered into before September 25, 1985, and the sole element of the contract which has not been performed as of September 25, 1985, is payment for such property or services.
 
->     “(4) __Treatment of affiliated group providing engineering services.—__ 
+>     “(4)  __Treatment of affiliated group providing engineering services__  __.—__ 
 
 >     Each member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986) shall be allowed to use the cash receipts and disbursements method of accounting for any trade or business of providing engineering services with respect to taxable years ending after December 31, 1986, if the common parent of such group—
 
@@ -241,7 +241,7 @@
 
 >         “(C) used a method of accounting for long-term contracts of accounting \[sic\] for a substantial part of its income from the performance of engineering services.
 
->     “(5) __Special rule for paragraphs (2) and (3).—__ 
+>     “(5)  __Special rule for paragraphs (2) and (3)__  __.—__ 
 
 >     If any loan, lease, contract, or evidence of any transaction to which paragraph (2) or (3) applies is transferred after June 10, 1987, to a person other than a related party (within the meaning of paragraph (2)), paragraph (2) or (3) shall cease to apply on and after the date of such transfer.”
 

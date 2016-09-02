@@ -213,7 +213,7 @@
 
 [Pub. L. 100–203, title X, § 10211(c)][/us/pl/100/203/s10211/c], Dec. 22, 1987, [101 Stat. 1330–405][/us/stat/101/1330-405], as amended by [Pub. L. 100–647, title II, § 2004(f)(2)][/us/pl/100/647/s2004/f/2], Nov. 10, 1988, [102 Stat. 3602][/us/stat/102/3602], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply—
 
@@ -221,11 +221,11 @@
 
 >         “(B) in the case of an existing partnership, to taxable years beginning after December 31, 1997.
 
->     “(2) __Existing partnership.—__ 
+>     “(2)  __Existing partnership__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘existing partnership’ means any partnership if—
 
@@ -235,11 +235,11 @@
 
 >             “(iii) with respect to such partnership, an application was filed with a State regulatory commission on or before such date seeking permission to restructure a portion of a corporation as a publicly traded partnership.
 
->         “(B) __Special rule where substantial new line of business added after__  __december 17, 1987__  __.—__ 
+>         “(B)  __Special rule where substantial new line of business added after __  __december 17, 1987__  __.—__ 
 
 >         A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an addition of a substantial new line of business with respect to such partnership.
 
->         “(C) __Coordination with passive-type income requirements.—__ 
+>         “(C)  __Coordination with passive-type income requirements__  __.—__ 
 
 >         In the case of an existing partnership, paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for ‘December 31, 1987’ the earlier of—
 

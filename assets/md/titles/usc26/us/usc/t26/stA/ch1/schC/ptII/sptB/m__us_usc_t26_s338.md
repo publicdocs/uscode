@@ -393,11 +393,11 @@
 
 [Pub. L. 101–508, title XI, § 11323(d)][/us/pl/101/508/s11323/d], Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1060 and 6724 of this title\] shall apply to acquisitions after October 9, 1990.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any acquisition pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition.”
 
@@ -423,11 +423,11 @@
 
 [Pub. L. 98–369, div. A, title VII, § 712(k)(9)][/us/pl/98/369/s712/k/9], July 18, 1984, [98 Stat. 952][/us/stat/98/952], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and sections 269 and 318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
 
->     “(B) __Extension of time for making election.—__ 
+>     “(B)  __Extension of time for making election__  __.—__ 
 
 >     In the case of any qualified stock purchase described in subparagraph (A), the time for making an election under section 338 of such Code shall not expire before the close of the 60th day after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -441,11 +441,11 @@
 
 [Pub. L. 97–248, title II, § 224(d)][/us/pl/97/248/s224/d], Sept. 3, 1982, [96 Stat. 489][/us/stat/96/489], as amended by [Pub. L. 97–448, title III, § 306(a)(8)(B)][/us/pl/97/448/s306/a/8/B], Jan. 12, 1983, [96 Stat. 2403][/us/stat/96/2403]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 168, 318, 334, 336, 337, 381, and 617 of this title\] shall apply to any target corporation (within the meaning of section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by this section) with respect to which the acquisition date (within the meaning of such section) occurs after August 31, 1982.
 
->     “(2) __Certain acquisitions before__  __september 1, 1982__  __.—__ 
+>     “(2)  __Certain acquisitions before __  __september 1, 1982__  __.—__ 
 
 >     If—
 
@@ -453,15 +453,15 @@
 
 >         “(B) the target corporation (within the meaning of section 338 of such Code) is not liquidated before September 1, 1982, and
 
->         “(C) the purchasing corporation (within the meaning of section 338 of such Code makes, not later than November 15, 1982, an election under section 338 of such Code,
+>         “(C) the purchasing corporation (within the meaning of section 338 of such Code) makes, not later than November 15, 1982, an election under section 338 of such Code,
 
 >         then the amendments made by this section shall apply to the acquisition of such target corporation.
 
->     “(3) __Certain acquisitions of financial institutions.—__ 
+>     “(3)  __Certain acquisitions of financial institutions__  __.—__ 
 
 >     In any case in which—
 
->         “(A) there is, on July 22, 1982, a binding contract to acquire control (within the meaning of section 368(c) of such Code of any financial institution,
+>         “(A) there is, on July 22, 1982, a binding contract to acquire control (within the meaning of section 368(c) of such Code) of any financial institution,
 
 >         “(B) the approval of one or more regulatory authorities is required in order to complete such acquisition, and
 
@@ -471,17 +471,17 @@
 
 >     “(4) __Extension of time for making elections; revocation of elections.—__ 
 
->         “(A) __Extension.—__ 
+>         “(A)  __Extension__  __.—__ 
 
 >         The time for making an election under section 338 of such Code shall not expire before the close of February 28, 1983.
 
->         “(B) __Revocation.—__ 
+>         “(B)  __Revocation__  __.—__ 
 
 >         Any election made under section 338 of such Code may be revoked by the purchasing corporation if revoked before March 1, 1983.
 
 >     “(5) __Rules for acquisitions described in paragraph (2).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of applying section 338 of such Code with respect to any acquisition described in paragraph (2)—
 
@@ -491,7 +491,7 @@
 
 >             “(iii) subsections (e), (f), and (i) of such section 338, and paragraphs (4), (6), (8), and (9) of subsection (h) of such section 338, shall not apply.
 
->         “(B) __Selection of acquisition date by purchasing corporation.—__ 
+>         “(B)  __Selection of acquisition date by purchasing corporation__  __.—__ 
 
 >         The purchasing corporation may select any date for purposes of subparagraph (A)(i) if such date—
 

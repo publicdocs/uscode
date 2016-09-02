@@ -85,11 +85,11 @@
 
 [Pub. L. 110–343, div. B, title IV, § 403(e)][/us/pl/110/343/s403/e], Oct. 3, 2008, [122 Stat. 3860][/us/stat/122/3860], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting sections 6045A and 6045B of this title and amending this section and sections 6045 and 6724 of this title\] shall take effect on January 1, 2011.
 
->     “(2) __Extension of period for statements sent to customers.—__ 
+>     “(2)  __Extension of period for statements sent to customers__  __.—__ 
 
 >     The amendments made by subsection (a)(3) \[amending [section 6045 of this title][/us/usc/t26/s6045]\] shall apply to statements required to be furnished after December 31, 2008.”
 

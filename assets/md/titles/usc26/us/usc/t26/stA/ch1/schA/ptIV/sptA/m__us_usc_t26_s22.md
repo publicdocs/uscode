@@ -197,11 +197,11 @@
 
 [Pub. L. 98–21, title I, § 122(d)][/us/pl/98/21/s122/d], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending sections 37 \[now 22\], 41 \[now 24\], 44A \[now 21\], 46, 53, 85, 105, 128, 403, 415, 904, and 7871 of this title\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     If an individual’s annuity starting date was deferred under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this section \[Apr. 20, 1983\]), such deferral shall end on the first day of such individual’s first taxable year beginning after December 31, 1983.”
 

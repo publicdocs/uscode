@@ -409,7 +409,7 @@
 
 >     “(a) __Termination of Certain Employment Tax Liability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If—
 
@@ -419,7 +419,7 @@
 
 >             then, for purposes of applying such taxes for such period with respect to the taxpayer, the individual shall be deemed not to be an employee unless the taxpayer had no reasonable basis for not treating such individual as an employee.
 
->         “(2) __Statutory standards providing one method of satisfying the requirements of paragraph (1).—__ 
+>         “(2)  __Statutory standards providing one method of satisfying the requirements of paragraph (1)__  __.—__ 
 
 >         For purposes of paragraph (1), a taxpayer shall in any case be treated as having a reasonable basis for not treating an individual as an employee for a period if the taxpayer’s treatment of such individual for such period was in reasonable reliance on any of the following:
 
@@ -429,41 +429,41 @@
 
 >             “(C) long-standing recognized practice of a significant segment of the industry in which such individual was engaged.
 
->         “(3) __Consistency required in the case of prior tax treatment.—__ 
+>         “(3)  __Consistency required in the case of prior tax treatment__  __.—__ 
 
 >         Paragraph (1) shall not apply with respect to the treatment of any individual for employment tax purposes for any period ending after December 31, 1978, if the taxpayer (or a predecessor) has treated any individual holding a substantially similar position as an employee for purposes of the employment taxes for any period beginning after December 31, 1977.
 
->         “(4) __Refund or credit of overpayment.—__ 
+>         “(4)  __Refund or credit of overpayment__  __.—__ 
 
 >         If refund or credit of any overpayment of an employment tax resulting from the application of paragraph (1) is not barred on the date of the enactment of this Act \[Nov. 6, 1978\] by any law or rule of law, the period for filing a claim for refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) shall not expire before the date 1 year after the date of the enactment of this Act.
 
->     “(b) __Prohibition Against Regulations and Rulings on Employment Status.—__ 
+>     “(b)  __Prohibition Against Regulations and Rulings on Employment Status__  __.—__ 
 
 >     No regulation or Revenue Ruling shall be published on or after the date of the enactment of this Act \[Nov. 6, 1978\] and before the effective date of any law hereafter enacted clarifying the employment status of individuals for purposes of the employment taxes by the Department of the Treasury (including the Internal Revenue Service) with respect to the employment status of any individual for purposes of the employment taxes.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Employment tax.—__ 
+>         “(1)  __Employment tax__  __.—__ 
 
 >         The term ‘employment tax’ means any tax imposed by subtitle C of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 3101 et seq. of this title\].
 
->         “(2) __Employment status.—__ 
+>         “(2)  __Employment status__  __.—__ 
 
 >         The term ‘employment status’ means the status of an individual, under the usual common law rules applicable in determining the employer-employee relationship, as an employee or as an independent contractor (or other individual who is not an employee).
 
->     “(d) __Exception.—__ 
+>     “(d)  __Exception__  __.—__ 
 
 >     This section shall not apply in the case of an individual who, pursuant to an arrangement between the taxpayer and another person, provides services for such other person as an engineer, designer, drafter, computer programmer, systems analyst, or other similarly skilled worker engaged in a similar line of work.
 
 >     “(e) __Special Rules for Application of Section.—__ 
 
->         “(1) __Notice of availability of section.—__ 
+>         “(1)  __Notice of availability of section__  __.—__ 
 
 >         An officer or employee of the Internal Revenue Service shall, before or at the commencement of any audit inquiry relating to the employment status of one or more individuals who perform services for the taxpayer, provide the taxpayer with a written notice of the provisions of this section.
 
->         “(2) __Rules relating to statutory standards.—__ 
+>         “(2)  __Rules relating to statutory standards__  __.—__ 
 
 >         For purposes of subsection (a)(2)—
 
@@ -479,13 +479,13 @@
 
 >                 “(ii) a practice shall not fail to be treated as long-standing merely because such practice began after 1978.
 
->         “(3) __Availability of safe harbors.—__ 
+>         “(3)  __Availability of safe harbors__  __.—__ 
 
 >         Nothing in this section shall be construed to provide that subsection (a) only applies where the individual involved is otherwise an employee of the taxpayer.
 
 >         “(4) __Burden of proof.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If—
 
@@ -495,11 +495,11 @@
 
 >                   then the burden of proof with respect to such treatment shall be on the Secretary.
 
->             “(B) __Exception for other reasonable basis.—__ 
+>             “(B)  __Exception for other reasonable basis__  __.—__ 
 
 >             In the case of any issue involving whether the taxpayer had a reasonable basis not to treat an individual as an employee for purposes of this section, subparagraph (A) shall only apply for purposes of determining whether the taxpayer meets the requirements of subparagraph (A), (B), or (C) of subsection (a)(2).
 
->         “(5) __Preservation of prior period safe harbor.—__ 
+>         “(5)  __Preservation of prior period safe harbor__  __.—__ 
 
 >         If—
 
@@ -509,17 +509,17 @@
 
 >             then, for purposes of applying such taxes for such prior period with respect to the taxpayer, the individual shall be deemed not to be an employee.
 
->         “(6) __Substantially similar position.—__ 
+>         “(6)  __Substantially similar position__  __.—__ 
 
 >         For purposes of this section, the determination as to whether an individual holds a position substantially similar to a position held by another individual shall include consideration of the relationship between the taxpayer and such individuals.
 
 >     “(f) __Treatment of Test Room Supervisors and Proctors Who Assist in the Administration of College Entrance and Placement Exams.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of an individual described in paragraph (2) who is providing services as a test proctor or room supervisor by assisting in the administration of college entrance or placement examinations, this section shall be applied to such services performed after December 31, 2006 (and remuneration paid for such services) without regard to subsection (a)(3) thereof.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         An individual is described in this paragraph if the individual—
 

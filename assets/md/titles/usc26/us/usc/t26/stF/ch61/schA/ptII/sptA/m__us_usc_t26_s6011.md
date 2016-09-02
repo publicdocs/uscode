@@ -241,7 +241,7 @@
 
 [Pub. L. 105–206, title II, § 2001(a)][/us/pl/105/206/s2001/a], (b), (d), July 22, 1998, [112 Stat. 723][/us/stat/112/723], 725, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the policy of Congress that—
 
@@ -253,15 +253,15 @@
 
 >     “(b) __Strategic Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary’s delegate (hereafter in this section referred to as the ‘Secretary’) shall establish a plan to eliminate barriers, provide incentives, and use competitive market forces to increase electronic filing gradually over the next 10 years while maintaining processing times for paper returns at 40 days. To the extent practicable, such plan shall provide that all returns prepared electronically for taxable years beginning after 2001 shall be filed electronically.
 
->         “(2) __Electronic commerce advisory group.—__ 
+>         “(2)  __Electronic commerce advisory group__  __.—__ 
 
 >         To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
 
->     “(d) __Annual Reports.—__ 
+>     “(d)  __Annual Reports__  __.—__ 
 
 >     Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Oversight and Government Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
 

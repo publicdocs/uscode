@@ -1195,11 +1195,11 @@
 
 [Pub. L. 111–5, div. B, title I, § 1232(c)][/us/pl/111/5/s1232/c], Feb. 17, 2009, [123 Stat. 341][/us/stat/123/341], provided that:
 
->     “(1) __Suspension.—__ 
+>     “(1)  __Suspension__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to obligations issued after August 31, 2008, in taxable years ending after such date.
 
->     “(2) __Interest rate authority.—__ 
+>     “(2)  __Interest rate authority__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 2009, in taxable years ending after such date.”
 
@@ -1255,21 +1255,21 @@
 
 [Pub. L. 105–34, title V, § 503(d)][/us/pl/105/34/s503/d], Aug. 5, 1997, [111 Stat. 853][/us/stat/111/853], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 2053, 6166, and 6601 of this title\] shall apply to estates of decedents dying after December 31, 1997.
 
->     “(2) __Election.—__ 
+>     “(2)  __Election__  __.—__ 
 
 >     In the case of the estate of any decedent dying before January 1, 1998, with respect to which there is an election under section 6166 of the Internal Revenue Code of 1986, the executor of the estate may elect to have the amendments made by this section apply with respect to installments due after the effective date of the election; except that the 2-percent portion of such installments shall be equal to the amount which would be the 4-percent portion of such installments without regard to such election. Such an election shall be made before January 1, 1999 in the manner prescribed by the Secretary of the Treasury and, once made, is irrevocable.”
 
 [Pub. L. 105–34, title X, § 1005(b)][/us/pl/105/34/s1005/b], Aug. 5, 1997, [111 Stat. 912][/us/stat/111/912], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to disqualified debt instruments issued after June 8, 1997.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendment made by this section shall not apply to any instrument issued after June 8, 1997, if such instrument is—
 
@@ -1303,7 +1303,7 @@
 
 [Pub. L. 101–239, title VII, § 7202(c)][/us/pl/101/239/s7202/c], Dec. 19, 1989, [103 Stat. 2332][/us/stat/103/2332], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to instruments issued after July 10, 1989.
 
@@ -1357,11 +1357,11 @@
 
 [Pub. L. 101–239, title VII, § 7210(b)][/us/pl/101/239/s7210/b], Dec. 19, 1989, [103 Stat. 2342][/us/stat/103/2342], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to interest paid or accrued in taxable years beginning after July 10, 1989.
 
->     “(2) __Special rule for demand loans, etc.—__ 
+>     “(2)  __Special rule for demand loans, etc__  __.—__ 
 
 >     In the case of any demand loan (or other loan without a fixed term) which was outstanding on July 10, 1989, interest on such loan to the extent attributable to periods before September 1, 1989, shall not be treated as disqualified interest for purposes of section 163(j) of the Internal Revenue Code of 1986 (as added by subsection (a)).”
 
@@ -1421,11 +1421,11 @@
 
 [Pub. L. 94–455, title II, § 209(b)][/us/pl/94/455/s209/b], Oct. 4, 1976, [90 Stat. 1543][/us/stat/90/1543], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.
 
->     “(2) __Indebtedness incurred before__  __september 11, 1975__  __.—__ 
+>     “(2)  __Indebtedness incurred before __  __september 11, 1975__  __.—__ 
 
 >     In the case of indebtedness attributable to a specific item of property which—
 
@@ -1489,7 +1489,7 @@
 
 [Pub. L. 98–369, div. A, title X, § 1066][/us/pl/98/369/s1066], July 18, 1984, [98 Stat. 1048][/us/stat/98/1048], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If—
 
@@ -1499,11 +1499,11 @@
 
 >         then any qualified income which such shareholder takes into account by reason of holding stock in such corporation for any taxable year of such corporation beginning in 1983 or 1984 shall be treated for purposes of section 163(d) of the Internal Revenue Code of 1986 as such income would have been treated but for the enactment of the Subchapter S Revision Act of 1982 \[[Pub. L. 97–354][/us/pl/97/354], see Tables for classification\].
 
->     “(b) __Qualified Income.—__ 
+>     “(b)  __Qualified Income__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘qualified income’ means any income other than income which is attributable to personal services performed by the shareholder for the corporation.
 
->     “(c) __Election.—__ 
+>     “(c)  __Election__  __.—__ 
 
 >     The election under subsection (a)(2) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe.”
 

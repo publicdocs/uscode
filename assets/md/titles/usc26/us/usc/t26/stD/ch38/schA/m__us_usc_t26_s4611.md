@@ -199,11 +199,11 @@
 
 [Pub. L. 99–509, title VIII, § 8032(d)][/us/pl/99/509/s8032/d], Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in \[former\] section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
 
->     “(2) __Coordination with superfund reauthorization.—__ 
+>     “(2)  __Coordination with superfund reauthorization__  __.—__ 
 
 >     The amendments made by this section shall take effect only if the Superfund Amendments and Reauthorization Act of 1986 \[[Pub. L. 99–499][/us/pl/99/499], approved Oct. 17, 1986\] is enacted.”
 

@@ -513,11 +513,11 @@
 
 [Pub. L. 89–719, title I, § 114(a)][/us/pl/89/719/s114/a]–(c), Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146], 1147, provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by this title \[enacting sections 3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and [section 7424 of this title][/us/usc/t26/s7424]\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by this title shall not apply in any case—
 

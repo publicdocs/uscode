@@ -807,7 +807,7 @@
 
                             <td> 
 
-                        130%.  </td>
+                        130%.    </td>
 
   </tr>
 
@@ -1511,11 +1511,11 @@
 
 [Pub. L. 111–192, title II, § 204(c)][/us/pl/111/192/s204/c], June 25, 2010, [124 Stat. 1302][/us/stat/124/1302], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1083 of Title 29][/us/usc/t29/s1083], Labor\] shall apply to plan years beginning after August 31, 2009.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     In the case of a plan for which the valuation date is not the first day of the plan year, the amendments made by this section shall apply to plan years beginning after December 31, 2008.”
 
@@ -1523,7 +1523,7 @@
 
 [Pub. L. 110–458, title I, § 101(b)(3)][/us/pl/110/458/s101/b/3], Dec. 23, 2008, [122 Stat. 5096][/us/stat/122/5096], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by paragraphs (1)(A) \[amending [section 1083 of Title 29][/us/usc/t29/s1083], Labor\], (1)(F)(i) \[amending [section 1083 of Title 29][/us/usc/t29/s1083]\], (2)(A) \[amending this section\], and (2)(F)(i) \[amending this section\] shall apply to plan years beginning after December 31, 2008.”
 
@@ -1553,7 +1553,7 @@
 
 [Pub. L. 109–280, title I, § 115(a)][/us/pl/109/280/s115/a]–(c), Aug. 17, 2006, [120 Stat. 855][/us/stat/120/855], 856, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of a plan that—
 
@@ -1565,7 +1565,7 @@
 
 >         the rules described in subsection (b) shall apply for any plan year beginning after December 31, 2007.
 
->     “(b) __Modified Rules.—__ 
+>     “(b)  __Modified Rules__  __.—__ 
 
 >     The rules described in this subsection are as follows:
 
@@ -1657,7 +1657,7 @@
 
 >         </table>
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     Any term used in this section which is also used in section 430 of such Code or section 303 of such Act \[[29 U.S.C. 1083][/us/usc/t29/s1083]\] shall have the meaning provided such term in such section. If the same term has a different meaning in such Code and such Act \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\], such term shall, for purposes of this section, have the meaning provided by such Code when applied with respect to such Code and the meaning provided by such Act when applied with respect to such Act.”
 
@@ -1665,7 +1665,7 @@
 
 [Pub. L. 109–280, title IV, § 402][/us/pl/109/280/s402], Aug. 17, 2006, [120 Stat. 922][/us/stat/120/922], as amended by [Pub. L. 110–28, title VI][/us/pl/110/28], §§ 6614(a), 6615(a), May 25, 2007, [121 Stat. 181][/us/stat/121/181]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 104(b), 126(a), Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104], 5116, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The plan sponsor of an eligible plan may elect to either—
 
@@ -1675,7 +1675,7 @@
 
 >     “(b) __Alternative Funding Schedule.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If an election is made under subsection (a)(1) to have this subsection apply to an eligible plan and the requirements of paragraphs (2) and (3) are met with respect to the plan—
 
@@ -1685,7 +1685,7 @@
 
 >         “(2) __Accrual restrictions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The requirements of this paragraph are met if, effective as of the first day of the first applicable plan year and at all times thereafter while an election under this section is in effect, the plan provides that—
 
@@ -1695,17 +1695,17 @@
 
 >                   but only to the extent the freezing or elimination of such benefits would have been permitted under section 411(d)(6) of such Code and section 204(g) of such Act if they had been implemented by a plan amendment adopted immediately before such first day.
 
->             “(B) __Increases in section 415 limits.—__ 
+>             “(B)  __Increases in section 415 limits__  __.—__ 
 
 >             If a plan provides that an accrued benefit of a participant which has been subject to any limitation under section 415 of such Code will be increased if such limitation is increased, the plan shall not be treated as meeting the requirements of this section unless, effective as of the first day of the first applicable plan year (or, if later, the date of the enactment of this Act \[Aug. 17, 2006\]) and at all times thereafter while an election under this section is in effect, the plan provides that any such increase shall not take effect. A plan shall not fail to meet the requirements of section 411(d)(6) of such Code and section 204(g) of such Act solely because the plan is amended to meet the requirements of this subparagraph.
 
 >         “(3) __Restriction on applicable benefit increases.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The requirements of this paragraph are met if no applicable benefit increase takes effect at any time during the period beginning on July 26, 2005, and ending on the day before the first day of the first applicable plan year.
 
->             “(B) __Applicable benefit increase.—__ 
+>             “(B)  __Applicable benefit increase__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘applicable benefit increase’ means, with respect to any plan year, any increase in liabilities of the plan by plan amendment (or otherwise provided in regulations provided by the Secretary) which, but for this paragraph, would occur during the plan year by reason of—
 
@@ -1715,7 +1715,7 @@
 
 >                 “(iii) any change in the rate at which benefits become nonforfeitable under the plan.
 
->         “(4) __Exception for imputed disability service.—__ 
+>         “(4)  __Exception for imputed disability service__  __.—__ 
 
 >         Paragraphs (2) and (3) shall not apply to any accrual or increase with respect to imputed service provided to a participant during any period of the participant’s disability occurring on or after the effective date of the plan amendment providing the restrictions under paragraph (2) (or on or after July 26, 2005, in the case of the restrictions under paragraph (3)) if the participant—
 
@@ -1723,11 +1723,11 @@
 
 >             “(B) was receiving sick pay and subsequently determined to be eligible for disability benefits as of such date.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Eligible plan.—__ 
+>         “(1)  __Eligible plan__  __.—__ 
 
 >         The term ‘eligible plan’ means a defined benefit plan (other than a multiemployer plan) to which sections 302 of such Act \[[29 U.S.C. 1082][/us/usc/t29/s1082]\] and 412 of such Code applies which is sponsored by an employer—
 
@@ -1735,7 +1735,7 @@
 
 >             “(B) the principal business of which is providing catering services to a commercial passenger airline.
 
->         “(2) __Applicable plan year.—__ 
+>         “(2)  __Applicable plan year__  __.—__ 
 
 >         The term ‘applicable plan year’ means each plan year to which the election under subsection (a)(1) applies under subsection (d)(1)(A).
 
@@ -1743,7 +1743,7 @@
 
 >         “(1) __Years for which election made.—__ 
 
->             “(A) __Alternative funding schedule.—__ 
+>             “(A)  __Alternative funding schedule__  __.—__ 
 
 >             If an election under subsection (a)(1) was made with respect to an eligible plan, the plan sponsor may select either a plan year beginning in 2006 or a plan year beginning in 2007 as the first plan year to which such election applies. The election shall apply to such plan year and all subsequent years. The election shall be made—
 
@@ -1751,43 +1751,43 @@
 
 >                 “(ii) not later than December 31, 2007, in the case of an election for a plan year beginning in 2007.
 
->             “(B) __10 year amortization.—__ 
+>             “(B) __10__  __year amortization__  __.—__ 
 
 >             An election under subsection (a)(2) shall be made not later than December 31, 2007.
 
->             “(C) __Election of new plan year for alternative funding schedule.—__ 
+>             “(C)  __Election of new plan year for alternative funding schedule__  __.—__ 
 
 >             In the case of an election under subsection (a)(1), the plan sponsor may specify a new plan year in such election and the plan year of the plan may be changed to such new plan year without the approval of the Secretary of the Treasury.
 
->         “(2) __Manner of election.—__ 
+>         “(2)  __Manner of election__  __.—__ 
 
 >         A plan sponsor shall make any election under subsection (a) in such manner as the Secretary of the Treasury may prescribe. Such election, once made, may be revoked only with the consent of such Secretary.
 
->     “(e) __Minimum Required Contribution.—__ 
+>     “(e)  __Minimum Required Contribution__  __.—__ 
 
 >     In the case of an eligible plan with respect to which an election is made under subsection (a)(1)—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of any applicable plan year during the amortization period, the minimum required contribution shall be the amount necessary to amortize the unfunded liability of the plan, determined as of the first day of the plan year, in equal annual installments (until fully amortized) over the remainder of the amortization period. Such amount shall be separately determined for each applicable plan year.
 
->         “(2) __Years after amortization period.—__ 
+>         “(2)  __Years after amortization period__  __.—__ 
 
 >         In the case of any plan year beginning after the end of the amortization period, section 302(a)(2)(A) of such Act \[[29 U.S.C. 1082(a)(2)(A)][/us/usc/t29/s1082/a/2/A]\] and section 412(a)(2)(A) of such Code shall apply to such plan, but the prefunding balance and funding standard carryover balance as of the first day of the first of such years under section 303(f) of such Act \[[29 U.S.C. 1083(f)][/us/usc/t29/s1083/f]\] and section 430(f) of such Code shall be zero.
 
->         “(3) __Definitions.—__ 
+>         “(3)  __Definitions__  __.—__ 
 
 >         For purposes of this section—
 
->             “(A) __Unfunded liability.—__ 
+>             “(A)  __Unfunded liability__  __.—__ 
 
 >             The term ‘unfunded liability’ means the unfunded accrued liability under the plan, determined under the unit credit funding method.
 
->             “(B) __Amortization period.—__ 
+>             “(B)  __Amortization period__  __.—__ 
 
 >             The term ‘amortization period’ means the 17-plan year period beginning with the first applicable plan year.
 
->         “(4) __Other rules.—__ 
+>         “(4)  __Other rules__  __.—__ 
 
 >         In determining the minimum required contribution and amortization amount under this subsection—
 
@@ -1797,7 +1797,7 @@
 
 >             “(C) the value of plan assets shall be determined under sections 303(g)(3) of such Act \[[29 U.S.C. 1083(g)(3)][/us/usc/t29/s1083/g/3]\] and 430(g)(3) of such Code.
 
->         “(5) __Special rule for certain plan spinoffs.—__ 
+>         “(5)  __Special rule for certain plan spinoffs__  __.—__ 
 
 >         For purposes of subsection (b), if, with respect to any eligible plan to which this subsection applies—
 
@@ -1807,21 +1807,21 @@
 
 >             the minimum required contribution under paragraph (1) for the eligible plan for such applicable plan year shall be an aggregate amount determined as if the plans were a single plan for that plan year (based on the full 12-month plan year in effect prior to the spin-off). The employer shall designate the allocation of such aggregate amount between such plans for the applicable plan year.
 
->     “(f) __Special Rules for Certain Balances and Waivers.—__ 
+>     “(f)  __Special Rules for Certain Balances and Waivers__  __.—__ 
 
 >     In the case of an eligible plan with respect to which an election is made under subsection (a)(1)—
 
->         “(1) __Funding standard account and credit balances.—__ 
+>         “(1)  __Funding standard account and credit balances__  __.—__ 
 
 >         Any charge or credit in the funding standard account under section 302 of such Act \[[29 U.S.C. 1082][/us/usc/t29/s1082]\] or section 412 of such Code, and any prefunding balance or funding standard carryover balance under section 303 of such Act \[[29 U.S.C. 1083][/us/usc/t29/s1083]\] or section 430 of such Code, as of the day before the first day of the first applicable plan year, shall be reduced to zero.
 
->         “(2) __Waived funding deficiencies.—__ 
+>         “(2)  __Waived funding deficiencies__  __.—__ 
 
 >         Any waived funding deficiency under sections 302 and 303 of such Act or section 412 of such Code, as in effect before the date of enactment of this section \[Aug. 17, 2006\], shall be deemed satisfied as of the first day of the first applicable plan year and the amount of such waived funding deficiency shall be taken into account in determining the plan’s unfunded liability under subsection (e)(3)(A). In the case of a plan amendment adopted to satisfy the requirements of subsection (b)(2), the plan shall not be deemed to violate section 304(b) of such Act \[[29 U.S.C. 1084(b)][/us/usc/t29/s1084/b]\] or section 412(f) of such Code, as so in effect, by reason of such amendment or any increase in benefits provided to such plan’s participants under a separate plan that is a defined contribution plan or a multiemployer plan.
 
 >     “(g) __Other Rules for Plans Making Election Under This Section.—__ 
 
->         “(1) __Successor plans to certain plans.—__ 
+>         “(1)  __Successor plans to certain plans__  __.—__ 
 
 >         If—
 
@@ -1833,11 +1833,11 @@
 
 >         “(2) __Special rules for terminations.—__ 
 
->             “(A) __PBGC liability limited.—__ 
+>             “(A) __PBGC__  __liability limited__  __.—__ 
 
 >             \[Amended [section 1322 of Title 29][/us/usc/t29/s1322], Labor.\]
 
->             “(B) __Termination premium.—__ 
+>             “(B)  __Termination premium__  __.—__ 
 
 >             In applying section 4006(a)(7)(A) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1306(a)(7)(A)][/us/usc/t29/s1306/a/7/A]\] to an eligible plan during any period in which an election under subsection (a)(1) is in effect—
 
@@ -1847,25 +1847,25 @@
 
 >                   The substitution described in clause (i) shall not apply with respect to any plan if the Secretary of Labor determines that such plan terminated as a result of extraordinary circumstances such as a terrorist attack or other similar event.
 
->         “(3) __Limitation on deductions under certain plans.—__ 
+>         “(3)  __Limitation on deductions under certain plans__  __.—__ 
 
 >         Section 404(a)(7)(C)(iv) of the Internal Revenue Code of 1986, as added by this Act, shall not apply with respect to any taxable year of a plan sponsor of an eligible plan if any applicable plan year with respect to such plan ends with or within such taxable year.
 
->         “(4) __Notice.—__ 
+>         “(4)  __Notice__  __.—__ 
 
 >         In the case of a plan amendment adopted in order to comply with this section, any notice required under section 204(h) of such Act \[[29 U.S.C. 1054(h)][/us/usc/t29/s1054/h]\] or section 4980F(e) of such Code shall be provided within 15 days of the effective date of such plan amendment. This subsection shall not apply to any plan unless such plan is maintained pursuant to one or more collective bargaining agreements between employee representatives and 1 or more employers.
 
 >     “(h) __Exclusion of Certain Employees From Minimum Coverage Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 410 of this title][/us/usc/t26/s410].\]
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         The amendment made by this subsection \[amending [section 410 of this title][/us/usc/t26/s410]\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(i) __Extension of Special Rule for Additional Funding Requirements.—__ 
+>     “(i)  __Extension of Special Rule for Additional Funding Requirements__  __.—__ 
 
 >     In the case of an employer which is a commercial passenger airline, section 302(d)(12) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082(d)(12)][/us/usc/t29/s1082/d/12]\] and section 412(l)(12) of the Internal Revenue Code of 1986, as in effect before the date of the enactment of this Act \[Aug. 17, 2006\], shall each be applied—
 
@@ -1873,7 +1873,7 @@
 
 >         “(2) without regard to subparagraph (D)(ii).
 
->     “(j) __Effective Date.—__ 
+>     “(j)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this section, the provisions of and amendments made by this section \[amending [section 410 of this title][/us/usc/t26/s410] and [section 1322 of Title 29][/us/usc/t29/s1322], Labor\] shall apply to plan years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
 

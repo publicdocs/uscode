@@ -313,11 +313,11 @@
 
 [Pub. L. 97–248, title II, § 225(b)][/us/pl/97/248/s225/b], Sept. 3, 1982, [96 Stat. 490][/us/stat/96/490], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to transactions occurring after August 31, 1982.
 
->     “(2) __Plans adopted on or before__  __august 31, 1982__  __.—__ 
+>     “(2)  __Plans adopted on or before __  __august 31, 1982__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply with respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983.”
 

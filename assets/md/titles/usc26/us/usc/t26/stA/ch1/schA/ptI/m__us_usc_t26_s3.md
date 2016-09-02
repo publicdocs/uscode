@@ -121,11 +121,11 @@
 
 [Pub. L. 96–222, title I, § 108(a)(2)][/us/pl/96/222/s108/a/2], Apr. 1, 1980, [94 Stat. 225][/us/stat/94/225], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[[Pub. L. 95–615][/us/pl/95/615]\].
 
->     “(B) __Paragraph (1)(E).—__ 
+>     “(B)  __Paragraph__  __(1)(E).—__ 
 
 >     The amendment made by paragraph (1)(E) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 

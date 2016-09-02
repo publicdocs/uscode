@@ -81,11 +81,11 @@
 
 [Pub. L. 105–206, title III, § 3468][/us/pl/105/206/s3468], July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     No officer or employee of the United States may request a taxpayer to waive the taxpayer’s right to bring a civil action against the United States or any officer or employee of the United States for any action taken in connection with the internal revenue laws.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Subsection (a) shall not apply in any case where—
 

@@ -949,15 +949,15 @@
 
 [Pub. L. 100–203, title X, § 10303(b)(2)][/us/pl/100/203/s10303/b/2], Dec. 22, 1987, [101 Stat. 1330–430][/us/stat/101/1330-430], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     In the case of a large corporation, no addition to tax shall be imposed by section 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an estimated tax installment to which this subsection applies if no addition would be imposed with respect to such underpayment by reason of section 6655(d)(1) of such Code if such corporation were not a large corporation. The preceding sentence shall apply only to the extent the underpayment is paid on or before the last date prescribed for payment of the most recent installment of estimated tax due on or before September 15, 1987.
 
->     “(B) __Installment to which subsection applies.—__ 
+>     “(B)  __Installment to which subsection applies__  __.—__ 
 
 >     This subsection applies to any installment of estimated tax for a taxable year beginning after December 31, 1986, which is due on or before June 15, 1987.
 
->     “(C) __Large corporation.—__ 
+>     “(C)  __Large corporation__  __.—__ 
 
 >     For purposes of this subsection, the term ‘large corporation’ has the meaning given such term by section 6655(i)(2) of such Code (as in effect on the day before the date of the enactment of this Act \[Dec. 22, 1987\]).”
 

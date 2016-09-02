@@ -1013,11 +1013,11 @@
 
 [Pub. L. 109–280, title VIII, § 821(d)][/us/pl/109/280/s821/d], Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (c) \[amending this section\] shall take effect as if included in the amendments made by section 1526 of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34]\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 647 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[see [section 647(c) of Pub. L. 107–16][/us/pl/107/16/s647/c], set out as an Effective Date of 2001 Amendment note under [section 403 of this title][/us/usc/t26/s403]\].”
 
@@ -1049,11 +1049,11 @@
 
 [Pub. L. 107–16, title VI, § 611(i)][/us/pl/107/16/s611/i], June 7, 2001, [115 Stat. 100][/us/stat/115/100], as amended by [Pub. L. 107–147, title IV, § 411(j)(3)][/us/pl/107/147/s411/j/3], Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 401, 402, 404, 408, 457, 501, and 505 of this title\] shall apply to years beginning after December 31, 2001.
 
->     “(2) __Defined benefit plans.—__ 
+>     “(2)  __Defined benefit plans__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to years ending after December 31, 2001.”
 
@@ -1069,11 +1069,11 @@
 
 [Pub. L. 107–16, title VI, § 632(b)(2)][/us/pl/107/16/s632/b/2], June 7, 2001, [115 Stat. 115][/us/stat/115/115], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to limitation years beginning after December 31, 1999.
 
->     “(B) __Exclusion allowance.—__ 
+>     “(B)  __Exclusion allowance__  __.—__ 
 
 >     Effective for limitation years beginning in 2000, in the case of any annuity contract described in section 403(b) of the Internal Revenue Code of 1986, the amount of the contribution disqualified by reason of section 415(g) of such Code shall reduce the exclusion allowance as provided in section 403(b)(2) of such Code.”
 
@@ -1091,17 +1091,17 @@
 
 [Pub. L. 105–34, title XV, § 1526(c)][/us/pl/105/34/s1526/c], Aug. 5, 1997, [111 Stat. 1073][/us/stat/111/1073], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to permissive service credit contributions made in years beginning after December 31, 1997.
 
 >     “(2) __Transition rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of an eligible participant in a governmental plan (within the meaning of section 414(d) of the Internal Revenue Code of 1986), the limitations of section 415(c)(1) of such Code shall not be applied to reduce the amount of permissive service credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of the plan as in effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
->         “(B) __Eligible participant.—__ 
+>         “(B)  __Eligible participant__  __.—__ 
 
 >         For purposes of subparagraph (A), an eligible participant is an individual who first became a participant in the plan before the first plan year beginning after the last day of the calendar year in which the next regular session (following the date of the enactment of this Act) of the governing body with authority to amend the plan ends.”
 
@@ -1117,11 +1117,11 @@
 
 [Pub. L. 104–188, title I, § 1444(e)][/us/pl/104/188/s1444/e], Aug. 20, 1996, [110 Stat. 1811][/us/stat/110/1811], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) \[amending this section and [section 457 of this title][/us/usc/t26/s457]\] shall apply to years beginning after December 31, 1994. The amendments made by subsection (d) \[amending this section\] shall apply with respect to revocations adopted after the date of the enactment of this Act \[Aug. 20, 1997\].
 
->     “(2) __Treatment for years beginning before__  __january 1, 1995__  __.—__ 
+>     “(2)  __Treatment for years beginning before __  __january 1, 1995__  __.—__ 
 
 >     Nothing in the amendments made by this section shall be construed to imply that a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) fails to satisfy the requirements of section 415 of such Code for any taxable year beginning before January 1, 1995.”
 
@@ -1135,11 +1135,11 @@
 
 [Pub. L. 104–188, title I, § 1452(d)][/us/pl/104/188/s1452/d], Aug. 20, 1996, [110 Stat. 1816][/us/stat/110/1816], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 416 and 4980A of this title\] shall apply to limitation years beginning after December 31, 1999.
 
->     “(2) __Excess distributions.—__ 
+>     “(2)  __Excess distributions__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending [section 4980A of this title][/us/usc/t26/s4980A]\] shall apply to years beginning after December 31, 1996.”
 
@@ -1165,11 +1165,11 @@
 
 [Pub. L. 100–647, title VI, § 6054(b)][/us/pl/100/647/s6054/b], Nov. 10, 1988, [102 Stat. 3697][/us/stat/102/3697], as amended by [Pub. L. 101–239, title VII, § 7816(h)][/us/pl/101/239/s7816/h], Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 1982.
 
->     “(2) __Election.—__ 
+>     “(2)  __Election__  __.—__ 
 
 >     Section 415(b)(10)(C) of the 1986 Code (as added by subsection (a)) shall not apply to any year beginning before January 1, 1990.”
 
@@ -1181,27 +1181,27 @@
 
 [Pub. L. 99–514, title XI, § 1106(i)][/us/pl/99/514/s1106/i], Oct. 22, 1986, [100 Stat. 2425][/us/stat/100/2425], as amended by [Pub. L. 100–647, title I, § 1011(d)(5)][/us/pl/100/647/s1011/d/5], title VI, § 6062(a), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3700, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 401, 402, 404, 416, and 818 of this title\] shall apply to years beginning after December 31, 1986.
 
->     “(2) __Collective bargaining agreements.—__ 
+>     “(2)  __Collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan in effect before March 1, 1986, pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section (other than subsection (d)) shall not apply to contributions or benefits pursuant to such agreement in years beginning before October 1, 1991.
 
 >     “(3) __Right to higher accrued defined benefit preserved.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of an individual who is a participant (as of the 1st day of the 1st year to which the amendments made by this section apply) in a defined benefit plan which is in existence on May 6, 1986, and with respect to which the requirements of section 415 of the Internal Revenue Code of 1986 have been met for all plan years, if such individual’s current accrued benefit under the plan exceeds the limitation of subsection (b) of section 415 of such Code (as amended by this section), then (in the case of such plan), for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b)(1)(A) with respect to such individual shall be equal to such current accrued benefit.
 
 >         “(B) __Current accrued benefit defined.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘current accrued benefit’ means the individual’s accrued benefit (at the close of the last year to which the amendments made by this section do not apply) when expressed as an annual benefit (within the meaning of section 415(b)(2) of such Code).
 
->             “(ii) __Special rule.—__ 
+>             “(ii)  __Special rule__  __.—__ 
 
 >             For purposes of determining the amount of any individual’s current accrued benefit—
 
@@ -1211,17 +1211,17 @@
 
 >                   shall be taken into account. For purposes of subclause (I), any change in the terms and conditions of the plan pursuant to a collective bargaining agreement ratified before May 6, 1986, shall be treated as a change made before May 6, 1986.
 
->     “(4) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.__ 
+>     “(4)  __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0__  __.—__ 
 
->     0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
+>     In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
 
->     “(5) __Effective date for subsection (d).—__ 
+>     “(5)  __Effective date for subsection__  __(d).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendment made by subsection (d) \[amending sections 401, 404, 416, and 818 of this title\] shall apply to benefits accruing in years beginning after December 31, 1988.
 
->         “(B) __Collective bargaining agreements.—__ 
+>         “(B)  __Collective bargaining agreements__  __.—__ 
 
 >         In the case of a plan described in paragraph (2), the amendments made by subsection (d) shall apply to benefits accruing in years beginning on or after the earlier of—
 
@@ -1235,7 +1235,7 @@
 
 >             “(ii) January 1, 1991.
 
->     “(6) __Special rule for amendment made by subsection (e).—__ 
+>     “(6)  __Special rule for amendment made by subsection__  __(e).—__ 
 
 >     The amendment made by subsection (e) \[amending this section\] shall not require the recomputation, for purposes of section 415(e) of the Internal Revenue Code of 1986, of the annual addition for any year beginning before 1987.”
 
@@ -1279,7 +1279,7 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __New plans.—__ 
+>         “(A)  __New plans__  __.—__ 
 
 >         In the case of any plan which is not in existence on July 1, 1982, the amendments made by this section \[amending this section and [section 404 of this title][/us/usc/t26/s404]\] shall apply to years ending after July 1, 1982.
 
@@ -1287,37 +1287,37 @@
 
 >             “(i) In the case of any plan which is in existence on July 1, 1982, the amendments made by this section \[amending this section and [section 404 of this title][/us/usc/t26/s404]\] shall apply to years beginning after December 31, 1982.
 
->             “(ii) __Plan requirements.—__ 
+>             “(ii)  __Plan requirements__  __.—__ 
 
 >             A plan shall not be treated as failing to meet the requirements of section 401(a)(16) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for any year beginning before January 1, 1984, merely because such plan provides for benefit or contribution limits which are in excess of the limitations under section 415 of such Code, as amended by this section. The preceding sentence shall not apply to any plan which provides such limits in excess of the limitation under section 415 of such Code before such amendments.
 
 >     “(2) __Amendments related to cost-of-living adjustments.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by subsection (b) \[amending this section\] shall apply to adjustments for years beginning after December 31, 1982.
 
->         “(B) __Adjustment procedures.—__ 
+>         “(B)  __Adjustment procedures__  __.—__ 
 
 >         The amendments made by subsections (b)(1) and (b)(2)(B) \[amending this section\] shall apply to adjustments for years beginning after December 31, 1985.
 
->     “(3) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.__ 
+>     “(3)  __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0__  __.—__ 
 
->     0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal Responsibility Act of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
+>     In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal Responsibility Act of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
 
 >     “(4) __Right to higher accrued defined benefit preserved.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of an individual who is a participant before January 1, 1983, in a defined benefit plan which is in existence on July 1, 1982, and with respect to which the requirements of section 415 of such Code have been met for all years, if such individual’s current accrued benefit under such plan exceeds the limitation of subsection (b) of section 415 of the Internal Revenue Code of 1986 (as amended by this section), then (in the case of such plan) for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b) with respect to such individual shall be equal to such current accrued benefit.
 
 >         “(B) __Current accrued benefit defined.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘current accrued benefit’ means the individual’s accrued benefit (at the close of the last year beginning before January 1, 1983) when expressed as an annual benefit (within the meaning of section 415(b)(2) of such Code as in effect before the amendments made by this Act). In the case of any plan described in the first sentence of paragraph (5), the preceding sentence shall be applied by substituting for ‘January 1, 1983’ the applicable date determined under paragraph (5).
 
->             “(ii) __Special rule.—__ 
+>             “(ii)  __Special rule__  __.—__ 
 
 >             For purposes of determining the amount of any individual’s current accrued benefit—
 
@@ -1327,7 +1327,7 @@
 
 >                   shall be taken into account. For purposes of subclause (I), any change in the terms and conditions of the plan pursuant to a collective bargaining agreement entered into before July 1, 1982, and ratified before September 3, 1982, shall be treated as a change made before July 1, 1982.
 
->     “(5) __Special rule for collective bargaining agreements.—__ 
+>     “(5)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained on the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section \[amending this section and [section 404 of this title][/us/usc/t26/s404]\] and section 242 \[amending [section 401 of this title][/us/usc/t26/s401] and enacting a provision set out as a note under [section 401 of this title][/us/usc/t26/s401]\] (relating to age 70½) shall not apply to years beginning before the earlier of—
 
@@ -1397,11 +1397,11 @@
 
 [Pub. L. 93–406, title II, § 2004(d)][/us/pl/93/406/s2004/d], Sept. 2, 1974, [88 Stat. 987][/us/stat/88/987], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending sections 401, 403, 404, 405, and 805 of this title, and enacting provisions set out as notes under this section\] shall apply to years beginning after December 31, 1975. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the provisions of this paragraph.
 
->     “(2) __Transition rule for defined benefit plans.—__ 
+>     “(2)  __Transition rule for defined benefit plans__  __.—__ 
 
 >     In the case of an individual who was an active participant in a defined benefit plan before October 3, 1973, if—
 

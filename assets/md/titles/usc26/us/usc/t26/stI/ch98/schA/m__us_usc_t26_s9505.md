@@ -73,13 +73,13 @@
 
 [Pub. L. 102–580, title III, § 330][/us/pl/102/580/s330], Oct. 31, 1992, [106 Stat. 4851][/us/stat/106/4851], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than March 1, 1993, and annually thereafter, the President shall transmit to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund.
 
 >     “(b) __Contents.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each report to be transmitted under subsection (a) shall contain the following:
 
@@ -89,7 +89,7 @@
 
 >             “(C) A 5-year projection of expenditures from and deposits into the trust fund.
 
->         “(2) __Previous years information.—__ 
+>         “(2)  __Previous years information__  __.—__ 
 
 >         In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992.”
 

@@ -89,15 +89,15 @@
 
 >     “(1) __Payments to possessions.—__ 
 
->         “(A) __Mirror code possession.—__ 
+>         “(A)  __Mirror code possession__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the amendments made by this section \[enacting this section and amending sections 6211 and 6213 of this title and [section 1324 of Title 31][/us/usc/t31/s1324], Money and Finance\] with respect to taxable years beginning in 2009 and 2010. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
->         “(B) __Other possessions.—__ 
+>         “(B)  __Other possessions__  __.—__ 
 
 >         The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the amendments made by this section for taxable years beginning in 2009 and 2010 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
->     “(2) __Coordination with credit allowed against united states income taxes.—__ 
+>     “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
 >     No credit shall be allowed against United States income taxes for any taxable year under section 36A of the Internal Revenue Code of 1986 (as added by this section) to any person—
 
@@ -107,15 +107,15 @@
 
 >     “(3) __Definitions and special rules.—__ 
 
->         “(A) __Possession of the united states.—__ 
+>         “(A)  __Possession of the united states__  __.—__ 
 
 >         For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
->         “(B) __Mirror code tax system.—__ 
+>         “(B)  __Mirror code tax system__  __.—__ 
 
 >         For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
->         “(C) __Treatment of payments.—__ 
+>         “(C)  __Treatment of payments__  __.—__ 
 
 >         For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this section).”
 

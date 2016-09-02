@@ -141,11 +141,11 @@
 
 [Pub. L. 104–188, title I, § 1605(d)][/us/pl/104/188/s1605/d], Aug. 20, 1996, [110 Stat. 1839][/us/stat/110/1839], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\], in taxable years ending after such date.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any amount received under a written binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995.”
 
@@ -153,11 +153,11 @@
 
 [Pub. L. 101–239, title VII, § 7641(b)][/us/pl/101/239/s7641/b], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 10, 1989, in taxable years ending after such date.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any amount received—
 

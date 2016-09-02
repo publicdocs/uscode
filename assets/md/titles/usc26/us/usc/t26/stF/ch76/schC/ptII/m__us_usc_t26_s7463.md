@@ -113,11 +113,11 @@
 
 [Pub. L. 95–600, title V, § 502(d)][/us/pl/95/600/s502/d], Nov. 6, 1978, [92 Stat. 2879][/us/stat/92/2879], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar month beginning more than 180 days after the date of the enactment of this Act \[Nov. 6, 1978\].
 
->     “(2) __Subsections (b) and (c).—__ 
+>     “(2)  __Subsections__  __(b)__  __and__  __(c).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] and (c) \[amending [section 7456 of this title][/us/usc/t26/s7456]\] shall take effect on the date of the enactment of this Act.”
 
@@ -125,11 +125,11 @@
 
 [Pub. L. 92–512, title II, § 204][/us/pl/92/512/s204], Oct. 20, 1972, [86 Stat. 945][/us/stat/86/945], as amended by [Pub. L. 94–455, title XXI, § 2116(a)][/us/pl/94/455/s2116/a], Oct. 4, 1976, [90 Stat. 1910][/us/stat/90/1910]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), the provisions of this title (and the amendments made thereby) \[enacting this section and sections 6362 and 6363 of this title and amending this section and [section 6405 of this title][/us/usc/t26/s6405]\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1972\].
 
->     “(b) __Collection and Administration of State Taxes by the United States May Not Begin Before__  __January 1, 1974__  __.—__ 
+>     “(b)  __Collection and Administration of State Taxes by the United States May Not Begin Before January__  __1, 1974.—__ 
 
 >     Section 6361 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 202(a) of this Act) shall take effect on whichever of the following is the later:
 
@@ -137,7 +137,7 @@
 
 >         “(2) the first January 1 which is more than one year after the first date on which at least one State has notified the Secretary of the Treasury or his delegate of an election to enter into an agreement under section 6363 of such Code.
 
->     “(c) __Jurisdiction of Tax Court in Disputes Involving $1,500 or Less.—__ 
+>     “(c)  __Jurisdiction of Tax Court in Disputes Involving__  __$1,500__  __or Less__  __.—__ 
 
 >     The amendments made by paragraphs (2) and (3) of section 203(b) of this Act \[amending this section\] shall take effect on January 1, 1974.”
 

@@ -221,11 +221,11 @@
 
 [Pub. L. 103–465, title VII, § 755(b)][/us/pl/103/465/s755/b], Dec. 8, 1994, [108 Stat. 5024][/us/stat/108/5024], provided that:
 
->     “(1) __Section 4972(c)(6)(a).—__ 
+>     “(1)  __Section 4972(c)(6)(a)__  __.—__ 
 
 >     Section 4972(c)(6)(A) of the Internal Revenue Code of 1986 (as added by this section) shall apply to taxable years ending on or after the date of enactment of this Act \[Dec. 8, 1994\].
 
->     “(2) __Section 4972(c)(6)(b).—__ 
+>     “(2)  __Section 4972(c)(6)(b)__  __.—__ 
 
 >     Section 4972(c)(6)(B) of such Code (as added by this section) shall apply to taxable years ending on or after December 31, 1992.”
 

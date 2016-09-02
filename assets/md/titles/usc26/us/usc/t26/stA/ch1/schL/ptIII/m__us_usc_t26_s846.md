@@ -245,11 +245,11 @@
 
 [Pub. L. 99–514, title X, § 1023(e)][/us/pl/99/514/s1023/e], Oct. 22, 1986, [100 Stat. 2404][/us/stat/100/2404], as amended by [Pub. L. 100–647, title I, § 1010(e)(3)][/us/pl/100/647/s1010/e/3], Nov. 10, 1988, [102 Stat. 3453][/us/stat/102/3453], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 807 and 832 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     For the first taxable year beginning after December 31, 1986—
 
@@ -261,7 +261,7 @@
 
 >     “(3) __Fresh start.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, any difference between—
 
@@ -271,15 +271,15 @@
 
 >             shall not be taken into account for purposes of the Internal Revenue Code of 1986.
 
->         “(B) __Reserve strengthening in years after 1985.—__ 
+>         “(B)  __Reserve strengthening in years after 1985__  __.—__ 
 
 >         Subparagraph (A) shall not apply to any reserve strengthening in a taxable year beginning in 1986, and such strengthening shall be treated as occurring in the taxpayer’s 1st taxable year beginning after December 31, 1986.
 
->         “(C) __Effect on earnings and profits.—__ 
+>         “(C)  __Effect on earnings and profits__  __.—__ 
 
 >         The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.
 
->     “(4) __Application of fresh start to companies which become subject to section 831(a) tax in later taxable year.—__ 
+>     “(4)  __Application of fresh start to companies which become subject to section 831__  __(a)__  __tax in later taxable year__  __.—__ 
 
 >     If—
 

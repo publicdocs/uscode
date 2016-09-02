@@ -261,17 +261,17 @@
 
 [Pub. L. 108–357, title VIII, § 849][/us/pl/108/357/s849], Oct. 22, 2004, [118 Stat. 1606][/us/stat/118/1606], as amended by [Pub. L. 109–135, title IV, § 403(ff)][/us/pl/109/135/s403/ff], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section, the amendments made by this part \[part III (§§ 847–849) of subtitle B of title VIII of [Pub. L. 108–357][/us/pl/108/357], enacting this section and amending sections 167, 168, and 197 of this title\] shall apply to leases entered into after March 12, 2004, and in the case of property treated as tax-exempt use property other than by reason of a lease, to property acquired after March 12, 2004.
 
 >     “(b) __Exception.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by this part shall not apply to qualified transportation property.
 
->         “(2) __Qualified transportation property.—__ 
+>         “(2)  __Qualified transportation property__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘qualified transportation property’ means domestic property subject to a lease with respect to which a formal application—
 
@@ -281,11 +281,11 @@
 
 >             “(C) includes a description of such property and the value of such property.
 
->         “(3) __Exchanges and conversion of tax-exempt use property.—__ 
+>         “(3)  __Exchanges and conversion of tax-exempt use property__  __.—__ 
 
 >         Section 470(e)(4) of the Internal Revenue Code of 1986, as added by section 848, shall apply to property exchanged or converted after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->         “(4) __Intangibles and indian tribal governments.—__ 
+>         “(4)  __Intangibles and indian tribal governments__  __.—__ 
 
 >         The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004.”
 

@@ -283,11 +283,11 @@
 
 [Pub. L. 99–514, title IV, § 411(c)][/us/pl/99/514/s411/c], Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 243, 291, 381, 616, and 617 of this title\] shall apply to costs paid or incurred after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to intangible drilling and development costs incurred by United States companies pursuant to a minority interest in a license for Netherlands or United Kingdom North Sea development if such interest was acquired on or before December 31, 1985.”
 

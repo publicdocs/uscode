@@ -343,75 +343,75 @@
 
 > “SEC. 154. __MEMBERSHIP.__ 
 
->     “(a) __Number and Appointment.—__ 
+>     “(a)  __Number and Appointment__  __.—__ 
 
 >     The Advisory Council shall be composed of 7 members appointed by the Secretary.
 
->     “(b) __Chairperson.—__ 
+>     “(b)  __Chairperson__  __.—__ 
 
 >     The Chairperson of the Advisory Council (in this part referred to as the ‘Chairperson’) shall be designated by the Secretary at the time of the appointment.
 
->     “(c) __Terms.—__ 
+>     “(c)  __Terms__  __.—__ 
 
 >     Each member shall be appointed for the life of the Advisory Council.
 
 >     “(d) __Basic Pay.—__ 
 
->         “(1) __Chairperson.—__ 
+>         “(1)  __Chairperson__  __.—__ 
 
 >         The Chairperson shall be paid at a rate equal to the daily rate of basic pay for level III of the Executive Schedule for each day (including travel time) during which the Chairperson is engaged in the actual performance of duties vested in the Advisory Council.
 
->         “(2) __Other members.—__ 
+>         “(2)  __Other members__  __.—__ 
 
 >         Members other than the Chairperson shall each be paid at a rate equal to the daily rate of basic pay for level IV of the Executive Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Advisory Council.
 
->     “(e) __Travel Expenses.—__ 
+>     “(e)  __Travel Expenses__  __.—__ 
 
 >     Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     Four members of the Advisory Council shall constitute a quorum but a lesser number may hold hearings.
 
->     “(g) __Meetings.—__ 
+>     “(g)  __Meetings__  __.—__ 
 
 >     The Advisory Council shall meet at the call of the Secretary or the Chairperson.
 
 > “SEC. 155. __POWERS OF ADVISORY COUNCIL.__ 
 
->     “(a) __Hearings and Sessions.—__ 
+>     “(a)  __Hearings and Sessions__  __.—__ 
 
 >     The Advisory Council may, for the purpose of carrying out this part, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Advisory Council considers appropriate. The Advisory Council may administer oaths or affirmations to witnesses appearing before it.
 
->     “(b) __Powers of Members and Agents.—__ 
+>     “(b)  __Powers of Members and Agents__  __.—__ 
 
 >     Any member or agent of the Advisory Council may, if authorized by the Advisory Council, take any action which the Advisory Council is authorized to take by this section.
 
->     “(c) __Obtaining Official Data.—__ 
+>     “(c)  __Obtaining Official Data__  __.—__ 
 
 >     The Advisory Council may secure directly from any department or agency of the United States information necessary to enable it to carry out this part. Upon request of the Chairperson of the Advisory Council, the head of that department or agency shall furnish that information to the Advisory Council.
 
 > “SEC. 156. __REPORTS.__ 
 
->     “(a) __Annual Reports.—__ 
+>     “(a)  __Annual Reports__  __.—__ 
 
 >     The Advisory Council shall submit to the Secretary an annual report for each fiscal year.
 
->     “(b) __Interim Reports.—__ 
+>     “(b)  __Interim Reports__  __.—__ 
 
 >     The Advisory Council may submit to the Secretary such interim reports as the Advisory Council considers appropriate.
 
->     “(c) __Final Report.—__ 
+>     “(c)  __Final Report__  __.—__ 
 
 >     The Advisory Council shall transmit a final report to the Secretary not later than September 30, 2003. The final report shall contain a detailed statement of the findings and conclusions of the Advisory Council, together with any recommendations for legislative or administrative action that the Advisory Council considers appropriate.
 
 > “SEC. 157. __TERMINATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Advisory Council shall terminate 30 days after submitting its final report under section 156(c).
 
->     “(b) __Extension.—__ 
+>     “(b)  __Extension__  __.—__ 
 
 >     Notwithstanding subsection (a), the Secretary may postpone the termination of the Advisory Council for a period not to exceed 3 years after the Advisory Council submits its final report under section 156(c).
 

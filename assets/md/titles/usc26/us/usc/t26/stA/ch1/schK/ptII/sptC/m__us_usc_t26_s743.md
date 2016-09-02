@@ -131,11 +131,11 @@
 
 [Pub. L. 108–357, title VIII, § 833(d)(2)][/us/pl/108/357/s833/d/2], Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by subsection (b) \[amending this section and [section 6031 of this title][/us/usc/t26/s6031]\] shall apply to transfers after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(B) __Transition rule.—__ 
+>     “(B)  __Transition rule__  __.—__ 
 
 >     In the case of an electing investment partnership which is in existence on June 4, 2004, section 743(e)(6)(H) of the Internal Revenue Code of 1986, as added by this section, shall not apply to such partnership and section 743(e)(6)(I) of such Code, as so added, shall be applied by substituting ‘20 years’ for ‘15 years’.”
 

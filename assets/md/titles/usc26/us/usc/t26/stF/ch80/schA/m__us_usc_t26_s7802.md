@@ -327,15 +327,15 @@
 
 [Pub. L. 105–206, title I, § 1101(d)][/us/pl/105/206/s1101/d], July 22, 1998, [112 Stat. 697][/us/stat/112/697], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 4946 and 6103 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Initial nominations to internal revenue service oversight board.—__ 
+>     “(2)  __Initial nominations to internal revenue service oversight board__  __.—__ 
 
 >     The President shall submit the initial nominations under section 7802 of the Internal Revenue Code of 1986, as added by this section, to the Senate not later than 6 months after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(3) __Effect on actions prior to appointment of oversight board.—__ 
+>     “(3)  __Effect on actions prior to appointment of oversight board__  __.—__ 
 
 >     Nothing in this section shall be construed to invalidate the actions and authority of the Internal Revenue Service prior to the appointment of the members of the Internal Revenue Service Oversight Board.”
 

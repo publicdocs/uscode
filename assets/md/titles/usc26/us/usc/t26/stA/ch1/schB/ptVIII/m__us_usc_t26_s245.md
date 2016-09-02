@@ -223,7 +223,7 @@
 
 >     Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
 
->     “(2) __Special rule for certain contracts.—__ 
+>     “(2)  __Special rule for certain contracts__  __.—__ 
 
 >     To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, any event or activity required to occur or required to be performed, before January 1, 1985, by section 924(c) or (d) or 925(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as meeting the requirements of such section if such event or activity is with respect to—
 
@@ -233,11 +233,11 @@
 
 >         “(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending after January 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
 
->     “(3) __Section 801(d)(10).—__ 
+>     “(3)  __Section__  __801(d)(10).—__ 
 
 >     The amendment made by section 801(d)(10) \[amending [section 996 of this title][/us/usc/t26/s996]\] shall apply to distributions on or after June 22, 1984.
 
->     “(4) __Section 803.—__ 
+>     “(4)  __Section__  __803.—__ 
 
 >     The amendments made by section 803 \[amending [section 441 of this title][/us/usc/t26/s441]\] shall apply to taxable years beginning after December 31, 1984.”
 

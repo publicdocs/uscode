@@ -875,11 +875,11 @@
 
 [Pub. L. 109–280, title VI, § 611(h)][/us/pl/109/280/s611/h], Aug. 17, 2006, [120 Stat. 975][/us/stat/120/975], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1002, 1108, and 1112 of Title 29, Labor\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Bonding rule.—__ 
+>     “(2)  __Bonding rule__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 1112 of Title 29][/us/usc/t29/s1112]\] shall apply to plan years beginning after such date.”
 
@@ -1021,7 +1021,7 @@
 
 [Pub. L. 109–280, title VI, § 601(b)(3)][/us/pl/109/280/s601/b/3], Aug. 17, 2006, [120 Stat. 964][/us/stat/120/964], provided that:
 
->     “(A) __Solicitation of information.—__ 
+>     “(A)  __Solicitation of information__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, in consultation with the Secretary of the Treasury, shall—
 
@@ -1037,7 +1037,7 @@
 
 >         The information solicited by the Secretary of Labor under clause (i) from persons described in subclauses (I) and (II) of clause (i) shall include information on computer modeling capabilities of such persons with respect to the current year and preceding year, including such capabilities for investment accounts maintained by such persons.
 
->     “(B) __Determination of feasibility.—__ 
+>     “(B)  __Determination of feasibility__  __.—__ 
 
 >     The Secretary of Labor, in consultation with the Secretary of the Treasury, shall, on the basis of information received under subparagraph (A), determine whether there is any computer model investment advice program which may be utilized by a plan described in subparagraph (A)(i) to provide investment advice to the account beneficiary of the plan which—
 
@@ -1053,15 +1053,15 @@
 
 >         “(i) __Certification required for use of computer model.—__ 
 
->             “(I) __Restriction on use.—__ 
+>             “(I)  __Restriction on use__  __.—__ 
 
 >             Subclause (II) of section 4975(f)(8)(B)(i) of the Internal Revenue Code of 1986 shall not apply to a plan described in subparagraph (A)(i).
 
->             “(II) __Restriction lifted if model certified.—__ 
+>             “(II)  __Restriction lifted if model certified__  __.—__ 
 
 >             If the Secretary of Labor determines under subparagraph (B) or (D) that there is a computer model investment advice program described in subparagraph (B), subclause (I) shall cease to apply as of the date of such determination.
 
->         “(ii) __Class exemption if no initial certification by secretary.—__ 
+>         “(ii)  __Class exemption if no initial certification by secretary__  __.—__ 
 
 >         If the Secretary of Labor determines under subparagraph (B) that there is no computer model investment advice program described in subparagraph (B), the Secretary of Labor shall grant a class exemption from treatment as a prohibited transaction under section 4975(c) of the Internal Revenue Code of 1986 to any transaction described in section 4975(d)(17)(A) of such Code with respect to plans described in subparagraph (A)(i), subject to such conditions as set forth in such exemption as are in the interests of the plan and its account beneficiary and protective of the rights of the account beneficiary and as are necessary to—
 
@@ -1073,7 +1073,7 @@
 
 >     “(D) __Subsequent determination.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         If the Secretary of Labor initially makes a determination described in subparagraph (C)(ii), the Secretary may subsequently determine that there is a computer model investment advice program described in subparagraph (B). If the Secretary makes such subsequent determination, then the class exemption described in subparagraph (C)(ii) shall cease to apply after the later of—
 
@@ -1081,11 +1081,11 @@
 
 >             “(II) the date which is 3 years after the first date on which such exemption took effect.
 
->         “(ii) __Requests for determination.—__ 
+>         “(ii)  __Requests for determination__  __.—__ 
 
 >         Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
 
->     “(E) __Effective date.—__ 
+>     “(E)  __Effective date__  __.—__ 
 
 >     The provisions of this paragraph shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].”
 

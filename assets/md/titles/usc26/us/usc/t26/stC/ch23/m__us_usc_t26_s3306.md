@@ -507,7 +507,7 @@
 
     2012—Subsec. (f)(5). [Pub. L. 112–96, § 2161(b)(1)(B)(i)][/us/pl/112/96/s2161/b/1/B/i], added par. (5) and struck out former par. (5) relating to short-time compensation which read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and”. Former par. (5) relating to self-employment assistance program redesignated (6).
 
-    Subsec. (f)(6). [Pub. L. 112–96, § 2161(b)(1)(B)(ii)][/us/pl/112/96/s2161/b/1/B/ii], redesignated par. (5) relating to self-employment assistant program as (6).
+    Subsec. (f)(6). [Pub. L. 112–96, § 2161(b)(1)(B)(ii)][/us/pl/112/96/s2161/b/1/B/ii], redesignated par. (5) relating to self-employment assistance program as (6).
 
     Subsec. (v). [Pub. L. 112–96, § 2161(a)(1)][/us/pl/112/96/s2161/a/1], added subsec. (v).
 
@@ -725,11 +725,11 @@
 
 [Pub. L. 112–96, title II, § 2161(a)(2)][/us/pl/112/96/s2161/a/2], (3), Feb. 22, 2012, [126 Stat. 172][/us/stat/126/172], provided that:
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Subject to paragraph (3), the amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 22, 2012\].
 
->     “(3) __Transition period for existing programs.—__ 
+>     “(3)  __Transition period for existing programs__  __.—__ 
 
 >     In the case of a State that is administering a short-time compensation program as of the date of the enactment of this Act and the State law cannot be administered consistent with the amendment made by paragraph (1), such amendment shall take effect on the earlier of—
 
@@ -759,11 +759,11 @@
 
 [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 3309 of this title][/us/usc/t26/s3309]\] shall apply to service performed on or after the date of the enactment of this Act \[Dec. 21, 2000\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     For purposes of the Federal Unemployment Tax Act \[[26 U.S.C. 3301][/us/usc/t26/s3301] et seq.\], service performed in the employ of an Indian tribe (as defined in section 3306(u) of the Internal Revenue Code of 1986 (as added by this section)) shall not be treated as employment (within the meaning of section 3306 of such Code) if—
 
@@ -837,11 +837,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1073(b)][/us/pl/98/369/s1073/b], July 18, 1984, [98 Stat. 1053][/us/stat/98/1053], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1986.
 
->     “(2) __Exception for certain states.—__ 
+>     “(2)  __Exception for certain states__  __.—__ 
 
 >     In the case of any State the legislature of which—
 
@@ -1003,11 +1003,11 @@
 
 [Pub. L. 103–182, title V, § 507(c)][/us/pl/103/182/s507/c], (d), Dec. 8, 1993, [107 Stat. 2154][/us/stat/107/2154], provided that:
 
->     “(c) __State Reports.—__ 
+>     “(c)  __State Reports__  __.—__ 
 
 >     Any State operating a self-employment program authorized by the Secretary of Labor under this section \[amending this section, [section 3304 of this title][/us/usc/t26/s3304], and [section 503 of Title 42][/us/usc/t42/s503], The Public Health and Welfare, and enacting provisions set out above\] shall report annually to the Secretary on the number of individuals who participate in the self-employment assistance program, the number of individuals who are able to develop and sustain businesses, the operating costs of the program, compliance with program requirements, and any other relevant aspects of program operations requested by the Secretary.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Dec. 8, 1993\], the Secretary of Labor shall submit a report to the Congress with respect to the operation of the program authorized under this section. Such report shall be based on the reports received from the States pursuant to subsection (c) and include such other information as the Secretary of Labor determines is appropriate.”
 
@@ -1035,7 +1035,7 @@
 
 [Pub. L. 99–514, title XVII, § 1705][/us/pl/99/514/s1705], Oct. 22, 1986, [100 Stat. 2780][/us/stat/100/2780], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Federal Unemployment Tax Act \[[26 U.S.C. 3301][/us/usc/t26/s3301] et seq.\], service performed in the employ of a qualified Indian tribal government shall not be treated as employment (within the meaning of section 3306 of such Act) if it is service—
 
@@ -1049,7 +1049,7 @@
 
 >         “(2) with respect to which the tax imposed under the Federal Unemployment Tax Act has not been paid.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified Indian tribal government’ means an Indian tribal government the service for which is not covered by a State unemployment compensation program on June 11, 1986.”
 

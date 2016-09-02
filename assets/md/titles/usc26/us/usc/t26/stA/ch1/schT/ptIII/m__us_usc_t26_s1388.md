@@ -233,15 +233,15 @@
 
 [Pub. L. 99–272, title XIII, § 13210(c)][/us/pl/99/272/s13210/c], Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 521 of this title][/us/usc/t26/s521]\] shall apply to taxable years beginning after December 31, 1962.
 
->     “(2) __Notification requirement.—__ 
+>     “(2)  __Notification requirement__  __.—__ 
 
 >     The provisions of section 1388(j)(3) of the Internal Revenue Code of 1954 \[now 1986\] (as added by subsection (a)) shall apply to taxable years beginning on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(3) __No inference.—__ 
+>     “(3)  __No inference__  __.—__ 
 
 >     Nothing in the amendments made by this section \[amending this section and [section 521 of this title][/us/usc/t26/s521]\] shall be construed to infer that a change in law is intended as to whether any patronage earnings may or not be offset by nonpatronage losses, and any determination of such issue shall be made as if such amendments had not been enacted.”
 

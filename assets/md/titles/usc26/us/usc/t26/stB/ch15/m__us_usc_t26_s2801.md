@@ -91,11 +91,11 @@
 
 [Pub. L. 110–245, title III, § 301(g)][/us/pl/110/245/s301/g], June 17, 2008, [122 Stat. 1647][/us/stat/122/1647], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[enacting this chapter and [section 877A of this title][/us/usc/t26/s877A] and amending sections 877, 6039G, and 7701 of this title\] shall apply to any individual whose expatriation date (as so defined) is on or after the date of the enactment of this Act \[June 17, 2008\].
 
->     “(2) __Gifts and bequests.—__ 
+>     “(2)  __Gifts and bequests__  __.—__ 
 
 >     Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors (or from the estates of transferors) whose expatriation date is on or after such date of enactment.”
 

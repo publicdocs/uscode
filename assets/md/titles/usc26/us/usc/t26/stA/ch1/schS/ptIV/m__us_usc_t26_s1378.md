@@ -55,11 +55,11 @@
 
 [Pub. L. 99–514, title VIII, § 806(e)][/us/pl/99/514/s806/e], Oct. 22, 1986, [100 Stat. 2364][/us/stat/100/2364], as amended by [Pub. L. 100–647, title I, § 1008(e)(7)][/us/pl/100/647/s1008/e/7], (8), (10), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 267, 441, and 706 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Change in accounting period.—__ 
+>     “(2)  __Change in accounting period__  __.—__ 
 
 >     In the case of any partnership, S corporation, or personal service corporation required by the amendments made by this section to change its accounting period for the taxpayer’s first taxable year beginning after December 31, 1986—
 
@@ -71,15 +71,13 @@
 
 >         Subparagraph (C) shall apply to a shareholder of an S corporation only if such corporation was an S corporation for a taxable year beginning in 1986.
 
->     “(3) __Basis, etc.__ 
+>     “(3) __Basis, etc. rules—__ 
 
->      rules—
-
->         “(A) __Basis rule.—__ 
+>         “(A)  __Basis rule__  __.—__ 
 
 >         The adjusted basis of any partner’s interest in a partnership or shareholder’s stock in an S corporation shall be determined as if all of the income to be taken into account ratably in the 4 taxable years referred to in paragraph (2)(C) were included in gross income for the 1st of such taxable years.
 
->         “(B) __Treatment of dispositions.—__ 
+>         “(B)  __Treatment of dispositions__  __.—__ 
 
 >         If any interest in a partnership or stock in an S corporation is disposed of before the last taxable year in the spread period, all amounts which would be included in the gross income of the partner or shareholder for subsequent taxable years in the spread period under paragraph (2)(C) and attributable to the interest or stock disposed of shall be included in gross income for the taxable year in which the disposition occurs. For purposes of the preceding sentence, the term ‘spread period’ means the period consisting of the 4 taxable years referred to in paragraph (2)(C).”
 

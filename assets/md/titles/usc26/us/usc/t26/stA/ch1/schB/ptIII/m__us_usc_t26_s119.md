@@ -201,7 +201,7 @@
 
 [Pub. L. 95–427, § 3][/us/pl/95/427/s3], Oct. 7, 1978, [92 Stat. 996][/us/stat/92/996], as amended by [Pub. L. 96–605, title I, § 107(a)][/us/pl/96/605/s107/a], Dec. 28, 1980, [94 Stat. 3524][/us/stat/94/3524]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     If—
 
@@ -213,7 +213,7 @@
 
 >         then, for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such allowance shall not be included in such individual’s gross income.
 
->     “(b) __Allowances to Which Section Applies.—__ 
+>     “(b)  __Allowances to Which Section Applies__  __.—__ 
 
 >     For purposes of this section, this section applies to any statutory subsistence allowance or subsistence allowance negotiated in accordance with State law which was received—
 
@@ -221,23 +221,23 @@
 
 >         “(2) during the calendar year 1974, 1975, 1976, or 1977.
 
->     “(c) __Other Definitions.—__ 
+>     “(c)  __Other Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __State police officer.—__ 
+>         “(1)  __State police officer__  __.—__ 
 
 >         The term ‘State police officer’ means any police officer (including a highway patrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
 
->         “(2) __Income tax return.—__ 
+>         “(2)  __Income tax return__  __.—__ 
 
 >         The term ‘income tax return’ means the return of the taxes imposed by subtitle A of the Internal Revenue Code of 1986. If an individual filed before November 29, 1977, an amended return for any taxable year, such amended return shall be treated as the return for such taxable year.
 
->     “(d) __Limitation on Deduction.—__ 
+>     “(d)  __Limitation on Deduction__  __.—__ 
 
 >     If any individual receives a subsistence allowance which is excluded from gross income under subsection (a), no deduction shall be allowed under any provision of chapter 1 of the Internal Revenue Code of 1986 for expenses in respect of which he has received such allowance, except to the extent that such expenses exceed the amount excludable from gross income under subsection (a) and the excess is otherwise allowed as a deduction under such chapter 1.
 
->     “(e) __Statute of Limitations.—__ 
+>     “(e)  __Statute of Limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
 

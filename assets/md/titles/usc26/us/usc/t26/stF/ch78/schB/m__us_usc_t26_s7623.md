@@ -95,7 +95,7 @@
 
 [Pub. L. 109–432, div. A, title IV, § 406(b)][/us/pl/109/432/s406/b], Dec. 20, 2006, [120 Stat. 2959][/us/stat/120/2959], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than the date which is 12 months after the date of the enactment of this Act \[Dec. 20, 2006\], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the ‘Whistleblower Office’ which—
 
@@ -105,7 +105,7 @@
 
 >         “(C) in its sole discretion, may ask for additional assistance from such individual or any legal representative of such individual.
 
->     “(2) __Request for assistance.—__ 
+>     “(2)  __Request for assistance__  __.—__ 
 
 >     The guidance issued under paragraph (1) shall specify that any assistance requested under paragraph (1)(C) shall be under the direction and control of the Whistleblower Office or the office assigned to investigate the matter under paragraph (1)(A). No individual or legal representative whose assistance is so requested may by reason of such request represent himself or herself as an employee of the Federal Government.”
 

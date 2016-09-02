@@ -109,11 +109,11 @@
 
 [Pub. L. 104–191, title III, § 327][/us/pl/104/191/s327], Aug. 21, 1996, [110 Stat. 2066][/us/stat/110/2066], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The provisions of, and amendments made by, this part \[part II (§§ 325–327) of subtitle C of title III of [Pub. L. 104–191][/us/pl/104/191], enacting this section and amending [section 7702B of this title][/us/usc/t26/s7702B]\] shall apply to contracts issued after December 31, 1996. The provisions of section 321(f) \[set out as an Effective Date note under [section 7702B of this title][/us/usc/t26/s7702B]\] (relating to transition rule) shall apply to such contracts.
 
->     “(b) __Issuers.—__ 
+>     “(b)  __Issuers__  __.—__ 
 
 >     The amendments made by section 326 \[enacting this section\] shall apply to actions taken after December 31, 1996.”
 

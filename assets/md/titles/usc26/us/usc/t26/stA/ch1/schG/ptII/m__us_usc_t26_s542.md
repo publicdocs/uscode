@@ -221,11 +221,11 @@
 
 [Pub. L. 97–248, title II, § 293(d)][/us/pl/97/248/s293/d], Sept. 3, 1982, [96 Stat. 575][/us/stat/96/575], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.
 
->     “(2) __Subsections (b) and (c).—__ 
+>     “(2)  __Subsections__  __(b)__  __and__  __(c).—__ 
 
 >     The amendments made by subsections (b) and (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
@@ -277,11 +277,11 @@
 
 [Pub. L. 95–600, title VII, § 701][/us/pl/95/600/s701](o), Nov. 6, 1978, [92 Stat. 2907][/us/stat/92/2907], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The last sentence of section 542(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to stock ownership requirement) shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The provisions of paragraph (1) shall apply with respect to taxable years beginning after December 31, 1976.”
 

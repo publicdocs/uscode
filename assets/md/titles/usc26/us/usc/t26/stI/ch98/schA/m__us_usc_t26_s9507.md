@@ -137,11 +137,11 @@
 
 [Pub. L. 99–499, title V, § 517(e)][/us/pl/99/499/s517/e], Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending [section 9601 of Title 42][/us/usc/t42/s9601], The Public Health and Welfare, and repealing sections 9631 to 9633 of Title 42\] shall take effect on January 1, 1987.
 
->     “(2) __Superfund treated as continuation of old trust fund.—__ 
+>     “(2)  __Superfund treated as continuation of old trust fund__  __.—__ 
 
 >     The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former [42 U.S.C. 9631][/us/usc/t42/s9631]\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 

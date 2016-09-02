@@ -127,15 +127,15 @@
 
 [Pub. L. 101–239, title VII, § 7506(c)][/us/pl/101/239/s7506/c], Dec. 19, 1989, [103 Stat. 2369][/us/stat/103/2369], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1990.
 
->     “(2) __No deposits required before__  __april 1, 1990__  __.—__ 
+>     “(2)  __No deposits required before __  __april 1, 1990__  __.—__ 
 
 >     No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986, as added by this section, shall be required to be made before April 1, 1990.
 
->     “(3) __Notification of changes in international agreements.—__ 
+>     “(3)  __Notification of changes in international agreements__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements to which the United States is a signatory relating to ozone-depleting chemicals.”
 

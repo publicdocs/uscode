@@ -55,11 +55,11 @@
 
 [Pub. L. 99–514, title XIV, § 1402(c)][/us/pl/99/514/s1402/c], Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 674, 676, and 677 of this title\] shall apply with respect to transfers in trust made after March 1, 1986.
 
->     “(2) __Transfers pursuant to property settlement agreement.—__ 
+>     “(2)  __Transfers pursuant to property settlement agreement__  __.—__ 
 
 >     The amendments made by this section shall not apply to any transfer in trust made after March 1, 1986, pursuant to a binding property settlement agreement entered into on or before March 1, 1986, which required the taxpayer to establish a grantor trust and for the transfer of a specified sum of money or property to the trust by the taxpayer. This paragraph shall apply only to the extent of the amount required to be transferred under the agreement described in the preceding sentence.”
 

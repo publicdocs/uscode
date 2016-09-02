@@ -411,7 +411,7 @@
 
 [Pub. L. 102–318, title III, § 304][/us/pl/102/318/s304], July 3, 1992, [106 Stat. 298][/us/stat/106/298], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     If the Secretary of Labor determines that a State meets the requirements of subsection (b), paragraph (2) of section 3302(c) of the Internal Revenue Code of 1986 shall be applied with respect to such State for taxable years after 1991—
 
@@ -421,11 +421,11 @@
 
 >         “(3) by substituting ‘sixth’ for ‘fifth’ in subparagraph (C).
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     A State meets the requirements of this subsection if, during calendar year 1992 or 1993, the State amended its unemployment compensation law to increase estimated contributions required under such law by at least 25 percent.
 
->     “(c) __Special Rule.—__ 
+>     “(c)  __Special Rule__  __.—__ 
 
 >     This section shall not apply to any taxable year after 1994 unless—
 
@@ -443,15 +443,15 @@
 
 >     “(3) __Transitional rule for certain employees.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 3303 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualified specific industry provision if the requirements of subparagraph (B) are met with respect to such employee.
 
->         “(B) __Requirements.—__ 
+>         “(B)  __Requirements__  __.—__ 
 
 >         The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a specific industry provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are not less than the product of the required rate multiplied by the wages paid by the employer during the taxable year.
 
->         “(C) __Required rate.—__ 
+>         “(C)  __Required rate__  __.—__ 
 
 >         For purposes of subparagraph (B), the required rate for any taxable year is the sum of—
 
@@ -459,7 +459,7 @@
 
 >             “(ii) the applicable percentage of the excess of 5.4 percent over the rate described in clause (i).
 
->         “(D) __Applicable percentage.—__ 
+>         “(D)  __Applicable percentage__  __.—__ 
 
 >         For purposes of subparagraph (C), the term ‘applicable percentage’ means—
 
@@ -471,7 +471,7 @@
 
 >             “(iv) 80 percent in the case of taxable year 1988.
 
->         “(E) __Qualified specific industry provision.—__ 
+>         “(E)  __Qualified specific industry provision__  __.—__ 
 
 >         For purposes of this paragraph, the term, ‘qualified specific industry provision’ means a provision contained in a State unemployment compensation law (as in effect on August 10, 1982)—
 
@@ -481,15 +481,15 @@
 
 >     “(4) __Transitional rule for certain small busi­nesses.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 3303 of the Internal Revenue Code of 1986, in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualified small business provision if the requirements of subparagraph (B) are met with respect to such employee.
 
->         “(B) __Requirements.—__ 
+>         “(B)  __Requirements__  __.—__ 
 
 >         The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a qualified small business provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are not less than the product of the required rate multiplied by the wages paid by the employer during the taxable year.
 
->         “(C) __Required rate.—__ 
+>         “(C)  __Required rate__  __.—__ 
 
 >         For purposes of subparagraph (B), the required rate for any taxable year is the sum of—
 
@@ -497,11 +497,11 @@
 
 >             “(ii) the applicable percentage (as defined in paragraph (3)(D)) of the excess of 5.4 percent over the rate described in clause (i).
 
->         “(D) __Qualified small business provision.—__ 
+>         “(D)  __Qualified small business provision__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘qualified small business provision’ means a provision contained in a State unemployment compensation law (as in effect on the date of the enactment of this paragraph \[Oct. 30, 1984\]) which provides a maximum rate at which an employer is subject to contribution for wages paid during a calendar quarter if the total wages paid by such employer during such calendar quarter are less than $50,000.
 
->         “(E) __Definition.—__ 
+>         “(E)  __Definition__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘wages’ means the remuneration subject to contributions under the State unemployment compensation law, except that for purposes of subparagraph (D) the amount of total wages paid by an employer shall be determined without regard to any limitation on the amount subject to contribution.”
 

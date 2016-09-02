@@ -183,11 +183,11 @@
 
 [Pub. L. 101–508, title XI, § 11814(c)][/us/pl/101/508/s11814/c], Nov. 5, 1990, [104 Stat. 1388–557][/us/stat/104/1388-557], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1504 of this title][/us/usc/t26/s1504]\] shall apply to taxable years beginning after December 31, 1990.
 
->     “(2) __Treatment of old elections.—__ 
+>     “(2)  __Treatment of old elections__  __.—__ 
 
 >     For purposes of section 243(b)(3) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any reference to an election under such section shall be treated as including a reference to an election under section 243(b) of such Code (as in effect on the day before the date of the enactment of this Act \[Nov. 5, 1990\]).”
 
@@ -199,11 +199,11 @@
 
 [Pub. L. 100–203, title X, § 10221(e)][/us/pl/100/203/s10221/e], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409], as amended by [Pub. L. 100–647, title II, § 2004(i)(1)][/us/pl/100/647/s2004/i/1], Nov. 10, 1988, [102 Stat. 3603][/us/stat/102/3603], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 244 to 246A, 805, 854, and 861 of this title\] shall apply to dividends received or accrued after December 31, 1987, in taxable years ending after such date.
 
->     “(2) __Amendments relating to limitations.—__ 
+>     “(2)  __Amendments relating to limitations__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending sections 246 and 805 of this title\] shall apply to taxable years beginning after December 31, 1987.”
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 91–172, title V, § 504(d)][/us/pl/91/172/s504/d], Dec. 30, 1969, [83 Stat. 633][/us/stat/83/633], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 381, 615, 617, 703, and 1016 of this title\] shall apply with respect to exploration expenditures paid or incurred after December 31, 1969.
 
->     “(2) __Presumption of election under section 617.—__ 
+>     “(2)  __Presumption of election under section 617__  __.—__ 
 
 >     For purposes of section 617 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], an election under section 615(e) of such Code, which is effective with respect to exploration expenditures paid or incurred before January 1, 1970, shall be treated as an election under section 617(a) of such Code with respect to exploration expenditures paid or incurred after December 31, 1969. The preceding sentence shall not apply to any taxpayer who notifies the Secretary of the Treasury or his delegate (at such time and in such manner as the Secretary or his delegate prescribes by regulations) that he does not desire his election under section 615(e) to be so treated.”
 

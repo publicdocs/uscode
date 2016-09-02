@@ -145,7 +145,7 @@
 
     1967—Subsec. (a). [Pub. L. 90–225][/us/pl/90/225] inserted “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year)” after “within a period of 12 months from the end of such taxable year”.
 
-    1966—Subsec. (a). [Pub. L. 89–721, § 2(a)][/us/pl/89/721/s2/a]–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in [section 46(b) of this title][/us/usc/t26/s46/b] and and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
+    1966—Subsec. (a). [Pub. L. 89–721, § 2(a)][/us/pl/89/721/s2/a]–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in [section 46(b) of this title][/us/usc/t26/s46/b] and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
 
     Subsec. (b). [Pub. L. 89–721, § 2(d)][/us/pl/89/721/s2/d], inserted “or unused investment credit” after “net operating loss” in two places.
 

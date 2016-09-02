@@ -457,11 +457,11 @@
 
 [Pub. L. 101–508, title XI, § 11303(c)][/us/pl/101/508/s11303/c], Nov. 5, 1990, [104 Stat. 1388–450][/us/stat/104/1388-450], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990.
 
->     “(2) __Amendments treated as change in method of accounting.—__ 
+>     “(2)  __Amendments treated as change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer who is required by reason of the amendments made by this section to change his method of computing reserves—
 
@@ -473,19 +473,19 @@
 
 >         “(D) the net adjustments which are required by section 481 of the Internal Revenue Code of 1986 to be taken into account by the taxpayer shall be taken into account over a period not to exceed 4 taxable years beginning with the taxpayer’s first taxable year beginning on or after September 30, 1990.
 
->     “(3) __Coordination with section 832(b)(4)(C).—__ 
+>     “(3)  __Coordination with section__  __832(b)(4)(C).—__ 
 
 >     The amendments made by this section shall not affect the application of section 832(b)(4)(C) of the Internal Revenue Code of 1986.”
 
 [Pub. L. 101–508, title XI, § 11305(c)][/us/pl/101/508/s11305/c], Nov. 5, 1990, [104 Stat. 1388–451][/us/stat/104/1388-451], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 846 of this title][/us/usc/t26/s846]\] shall apply to taxable years beginning after December 31, 1989.
 
 >     “(2) __Amendments treated as change in method of accounting.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any taxpayer who is required by reason of the amendments made by this section to change his method of computing losses incurred—
 
@@ -495,7 +495,7 @@
 
 >             “(iii) such change shall be treated as having been made with the consent of the Secretary.
 
->         “(B) __Adjustments.—__ 
+>         “(B)  __Adjustments__  __.—__ 
 
 >         In applying section 481 of the Internal Revenue Code of 1986 with respect to the change referred to in subparagraph (A)—
 
@@ -503,11 +503,11 @@
 
 >             “(ii) the portion of such net adjustments which is required to be taken into account by the taxpayer (after the application of clause (i)) shall be taken into account over a period not to exceed 4 taxable years beginning with the taxpayer’s 1st taxable year beginning after December 31, 1989.
 
->     “(3) __Treatment of companies which took into account salvage recoverable.—__ 
+>     “(3)  __Treatment of companies which took into account salvage recoverable__  __.—__ 
 
 >     In the case of any insurance company which took into account salvage recoverable in determining losses incurred for its last taxable year beginning before January 1, 1990, 87 percent of the discounted amount of estimated salvage recoverable as of the close of such last taxable year shall be allowed as a deduction ratably over its 1st 4 taxable years beginning after December 31, 1989.
 
->     “(4) __Special rule for overestimates.—__ 
+>     “(4)  __Special rule for overestimates__  __.—__ 
 
 >     If for any taxable year beginning after December 31, 1989—
 
@@ -517,7 +517,7 @@
 
 >         87 percent of such excess (adjusted for discounting used in determining the amount of salvage recoverable as of the close of the last taxable year of the taxpayer beginning before January 1, 1990) shall be included in gross income for such taxable year.
 
->     “(5) __Effect on earnings and profits.—__ 
+>     “(5)  __Effect on earnings and profits__  __.—__ 
 
 >     The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1989, shall be increased by the amount of the section 481 adjustment which would have been required but for paragraph (2). For purposes of applying sections 56, 902, 952(c)(1), and 960 of the Internal Revenue Code of 1986, earnings and profits of a corporation shall be determined by applying the principles of paragraph (2)(B).”
 
@@ -529,19 +529,19 @@
 
 [Pub. L. 99–514, title X, § 1021(c)][/us/pl/99/514/s1021/c], Oct. 22, 1986, [100 Stat. 2397][/us/stat/100/2397], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special transitional rule for title insurance companies.—__ 
+>     “(2)  __Special transitional rule for title insurance companies__  __.—__ 
 
 >     For the 1st taxable year beginning after December 31, 1986, in the case of premiums attributable to title insurance—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The unearned premiums at the end of the preceding taxable year as defined in paragraph (4) of section 832(b) \[of the Internal Revenue Code of 1986\] shall be determined as if the amendments made by this section had applied to such unearned premiums in the preceding taxable year and by using the interest rate and premium recognition pattern applicable to years ending in calendar year 1987.
 
->         “(B) __Fresh start.—__ 
+>         “(B)  __Fresh start__  __.—__ 
 
 >         Except as provided in subparagraph (C), any difference between—
 
@@ -551,7 +551,7 @@
 
 >             shall not be taken into account for purposes of the Internal Revenue Code of 1986.
 
->         “(C) __Effect on earnings and profits.—__ 
+>         “(C)  __Effect on earnings and profits__  __.—__ 
 
 >         The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.”
 
@@ -629,7 +629,7 @@
 
 >         “(1) __Treatment of arrangements or associations.—__ 
 
->             “(A) __Capital contributions.—__ 
+>             “(A)  __Capital contributions__  __.—__ 
 
 >             There shall not be included in the gross income of any eligible physicians’ and surgeons’ mutual protection and interindemnity arrangement or association any initial payment (whether made in a lump sum or a series of substantially equal payments over a period of not more than 6 years) made during any taxable year to such arrangement or association by a member joining such arrangement or association which—
 
@@ -641,25 +641,25 @@
 
 >             “(B) __Return of contributions.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The repayment to any member of any amount of any payment excluded under subparagraph (A) shall not be treated as policyholder dividend, and is not deductible by the arrangement or association.
 
->                 “(ii) __Source of returns.—__ 
+>                 “(ii)  __Source of returns__  __.—__ 
 
 >                 Except in the case of the termination of a member’s interest in the arrangement or association, any amount distributed to any member shall be treated as paid out of surplus in excess of amounts excluded under subparagraph (A).
 
 >         “(2) __Deduction for members of eligible arrangements or associations.—__ 
 
->             “(A) __Payment as trade or business expenses.—__ 
+>             “(A)  __Payment as trade or business expenses__  __.—__ 
 
 >             To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
 
->             “(B) __Refunds of initial payments.—__ 
+>             “(B)  __Refunds of initial payments__  __.—__ 
 
 >             Any amount attributable to any initial payment referred to in paragraph (1) to such arrangement or association described in paragraph (1) which is later refunded for any reason shall be included in the gross income of the recipient in the taxable year received, to the extent a deduction for such payment was allowed. Any amount refunded in excess of such payment shall be included in gross income except to the extent otherwise excluded from income by the Internal Revenue Code of 1986.
 
->         “(3) __Eligible arrangements or associations.—__ 
+>         “(3)  __Eligible arrangements or associations__  __.—__ 
 
 >         The terms ‘eligible physicans’ \[sic\] and surgeons’ mutual protection and interindemnity arrangement or association’ and ‘eligible arrangement or association’ mean and are limited to any mutual protection and interindemnity arrangement or association that provides only medical malpractice liability protection for its members or medical malpractice liability protection in conjunction with protection against other liability claims incurred in the course of, or related to, the professional practice of a physician or surgeon and which—
 
@@ -671,7 +671,7 @@
 
 >             “(D) is not a member of, nor subject to protection by, any insurance guaranty plan or association of any State.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The provisions of subsection (a) shall apply to payments made to and receipts of physicians’ and surgeons’ mutual protection and interindemnity arrangements or associations, and refunds of payments by such arrangements or associations, after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
 

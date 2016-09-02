@@ -133,11 +133,11 @@
 
 [Pub. L. 97–248, title III, § 314(e)][/us/pl/97/248/s314/e], Sept. 3, 1982, [96 Stat. 605][/us/stat/96/605], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 6001 and 6678 of this title, and enacting provisions set out as a note under this section\] shall apply to calendar years beginning after December 31, 1982.
 
->     “(2) __Special rule for 1983.—__ 
+>     “(2)  __Special rule for 1983__  __.—__ 
 
 >     For purposes of section 6053(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of payroll periods ending before April 1, 1983, an employer must only report with respect to such periods—
 

@@ -441,11 +441,11 @@
 
 [Pub. L. 88–272, title II, § 207(c)][/us/pl/88/272/s207/c], Feb. 26, 1964, [78 Stat. 43][/us/stat/78/43], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 275 of this title][/us/usc/t26/s275] and amending this section and sections 535, 545, 556, 901, and 903 of this title\] shall apply to taxable years beginning after December 31, 1963.
 
->     “(2) __Special taxing districts.—__ 
+>     “(2)  __Special taxing districts__  __.—__ 
 
 >     Section 164(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall not prevent the deduction under section 164 of such Code (as so amended) of taxes levied by a special taxing district which is described in section 164(b)(5) of such Code (as in effect for a taxable year ending on December 31, 1963) and which was in existence on December 31, 1963, for the purpose of retiring indebtedness existing on such date.”
 

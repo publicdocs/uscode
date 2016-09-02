@@ -103,11 +103,11 @@
 
 [Pub. L. 85–866, title I, § 29(d)][/us/pl/85/866/s29/d], Sept. 2, 1958, [72 Stat. 1629][/us/stat/72/1629], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 381 of this title][/us/usc/t26/s381]\] shall apply with respect to any change in a method of accounting where the year of the change (within the meaning of section 481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) is a taxable year beginning after December 31, 1953, and ending after August 16, 1954.
 
->     “(2) __Exception for certain agreements.—__ 
+>     “(2)  __Exception for certain agreements__  __.—__ 
 
 >     The amendments made by subsections (a), (b)(I), and (c) \[amending this section and [section 381 of this title][/us/usc/t26/s381]\] shall not apply if before the date of the enactment of this Act \[Sept. 2, 1958\]—
 

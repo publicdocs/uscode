@@ -69,15 +69,15 @@
 
 [Pub. L. 94–455, title II, § 213(f)][/us/pl/94/455/s213/f], Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 179, 704, 706, 707, and 761 of this title\] shall apply in the case of partnership taxable years beginning after December 31, 1975.
 
->     “(2) __Subsection (e).—__ 
+>     “(2)  __Subsection__  __(e).—__ 
 
 >     The amendment made by subsection (e) \[amending [section 704 of this title][/us/usc/t26/s704]\] shall apply to liabilities incurred after December 31, 1976.
 
->     “(3) __Section 709(b) of the code.—__ 
+>     “(3)  __Section 709__  __(b)__  __of the code__  __.—__ 
 
 >     Section 709(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (b)(1) of this section) shall apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1976.”
 

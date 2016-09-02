@@ -393,11 +393,11 @@
 
 [Pub. L. 109–58, title XIII, § 1322(c)][/us/pl/109/58/s1322/c], Aug. 8, 2005, [119 Stat. 1012][/us/stat/119/1012], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 30, 38, 43, 45, 45I, 53, 55, 613A, and 772 of this title and renumbering [section 29 of this title][/us/usc/t26/s29] as this section\] shall apply to credits determined under the Internal Revenue Code of 1986 for taxable years ending after December 31, 2005.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].”
 
@@ -423,11 +423,11 @@
 
 [Pub. L. 101–508, title XI, § 11813(c)][/us/pl/101/508/s11813/c], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 50 of this title][/us/usc/t26/s50] and amending this section and sections 38, 42, 46 to 49, 52, 55, 108, 145, 147, 168, 170, 179, 196, 280F, 312, 465, 469, 861, 865, 1016, 1033, 1245, 1274A, 1371, 1388 and 1503 of this title\] shall apply to property placed in service after December 31, 1990.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by this section shall not apply to—
 
@@ -511,7 +511,7 @@
 
     Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
-    2012—Internal Revenue Notice 2013–25
+    2012—Internal Revenue Notice 2013–25.
 
     2011—Internal Revenue Notice 2012–30.
 

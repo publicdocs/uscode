@@ -69,7 +69,7 @@
 
 [Pub. L. 99–499, title V, § 515(d)][/us/pl/99/499/s515/d], Oct. 17, 1986, [100 Stat. 1769][/us/stat/100/1769], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall conduct a study of issues relating to the implementation of—
 
@@ -79,7 +79,7 @@
 
 >         In conducting such study, the Secretary of the Treasury or his delegate shall consult with the Environmental Protection Agency and the International Trade Commission.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The report of the study under paragraph (1) shall be submitted not later than January 1, 1988, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 

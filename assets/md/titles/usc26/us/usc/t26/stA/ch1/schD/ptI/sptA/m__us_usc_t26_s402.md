@@ -1169,15 +1169,15 @@
 
 [Pub. L. 107–16, title VI, § 641(f)][/us/pl/107/16/s641/f], June 7, 2001, [115 Stat. 121][/us/stat/115/121], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 72, 219, 401, 403, 408, 415, 457, 3401, 3405, and 4973 of this title\] shall apply to distributions after December 31, 2001.
 
->     “(2) __Reasonable notice.—__ 
+>     “(2)  __Reasonable notice__  __.—__ 
 
 >     No penalty shall be imposed on a plan for the failure to provide the information required by the amendment made by subsection (c) \[amending this section\] with respect to any distribution made before the date that is 90 days after the date on which the Secretary of the Treasury issues a safe harbor rollover notice after the date of the enactment of this Act \[June 7, 2001\], if the administrator of such plan makes a reasonable attempt to comply with such requirement.
 
->     “(3) __Special rule.—__ 
+>     “(3)  __Special rule__  __.—__ 
 
 >     Notwithstanding any other provision of law, subsections (h)(3) and (h)(5) of section 1122 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out as a note below\] shall not apply to any distribution from an eligible retirement plan (as defined in clause (iii) or (iv) of section 402(c)(8)(B) of the Internal Revenue Code of 1986) on behalf of an individual if there was a rollover to such plan on behalf of such individual which is permitted solely by reason of any amendment made by this section.”
 
@@ -1205,11 +1205,11 @@
 
 [Pub. L. 104–188, title I, § 1401(c)][/us/pl/104/188/s1401/c], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 55, 62, 401, 406, 407, 691, 871, 877, and 4980A of this title\] shall apply to taxable years beginning after December 31, 1999.
 
->     “(2) __Retention of certain transition rules.—__ 
+>     “(2)  __Retention of certain transition rules__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution for which the taxpayer is eligible to elect the benefits of section 1122(h)(3) or (5) of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out below\]. Notwithstanding the preceding sentence, individuals who elect such benefits after December 31, 1999, shall not be eligible for 5-year averaging under section 402(d) of the Internal Revenue Code of 1986 (as in effect immediately before such amendments).”
 
@@ -1225,11 +1225,11 @@
 
 [Pub. L. 102–318, title V, § 521(e)][/us/pl/102/318/s521/e], July 3, 1992, [106 Stat. 313][/us/stat/106/313], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 55, 62, 72, 219, 401, 403, 406 to 408, 411, 414, 415, 457, 691, 871, 877, 1441, 3121, 3306, 3405, 4973, 4980A, and 7701 of this title\] shall apply to distributions after December 31, 1992.
 
->     “(2) __Special rule for partial distributions.—__ 
+>     “(2)  __Special rule for partial distributions__  __.—__ 
 
 >     For purposes of section 402(a)(5)(D)(i)(II) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section), a distribution before January 1, 1993, which is made before or at the same time as a series of periodic payments shall not be treated as one of such series if it is not substantially equal in amount to other payments in such series.”
 
@@ -1255,11 +1255,11 @@
 
 [Pub. L. 99–514, title XI, § 1105(c)][/us/pl/99/514/s1105/c], Oct. 22, 1986, [100 Stat. 2419][/us/stat/100/2419], as amended by [Pub. L. 100–647, title I, § 1011(c)(8)][/us/pl/100/647/s1011/c/8], (9), Nov. 10, 1988, [102 Stat. 3458][/us/stat/102/3458], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Deferrals under collective bargaining agreements.—__ 
+>     “(2)  __Deferrals under collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendment made by subsection (a) shall not apply to contributions made pursuant to such an agreement for taxable years beginning before the earlier of—
 
@@ -1271,25 +1271,25 @@
 
 >     “(3) __Distributions made before plan amendment.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If a plan amendment is required to allow the plan to make any distribution described in section 402(g)(2)(A)(ii) of the Internal Revenue Code of 1986, any such distribution which is made before the close of the 1st plan year for which such amendment is required to be in effect under section 1140 \[set out as a note under [section 401 of this title][/us/usc/t26/s401]\] shall be treated as made in accordance with the provisions of such plan.
 
 >         “(B) __Distributions pursuant to model amendment.—__ 
 
->             “(i) __Secretary to prescribe amendment.—__ 
+>             “(i)  __Secretary to prescribe amendment__  __.—__ 
 
 >             The Secretary of the Treasury or his delegate shall prescribe an amendment which allows a plan to make any distribution described in section 402(g)(2)(A)(ii) of such Code.
 
->             “(ii) __Adoption by plan.—__ 
+>             “(ii)  __Adoption by plan__  __.—__ 
 
 >             If a plan adopts the amendment prescribed under clause (i) and makes a distribution in accordance with such amendment, such distribution shall be treated as made in accordance with the provisions of the plan.
 
->     “(4) __Special rule for taxable years of partnerships which include__  __january 1, 1987__  __.—__ 
+>     “(4)  __Special rule for taxable years of partnerships which include __  __january 1, 1987__  __.—__ 
 
 >     In the case of the taxable year of any partnership which begins before January 1, 1987, and ends after January 1, 1987, elective deferrals (within the meaning of section 402(g)(3) of the Internal Revenue Code of 1986) made on behalf of a partner for such taxable year shall, for purposes of section 402(g)(3) of such Code, be treated as having been made ratably during such taxable year.
 
->     “(5) __Cash or deferred arrangements.—__ 
+>     “(5)  __Cash or deferred arrangements__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 6051 of this title][/us/usc/t26/s6051]\] shall not apply to employer contributions made during 1987 and attributable to services performed during 1986 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of such arrangement as in effect on August 16, 1986—
 
@@ -1297,7 +1297,7 @@
 
 >         “(B) the employer identifies the amount of such contribution before January 1, 1987.
 
->     “(6) __Reporting requirements.—__ 
+>     “(6)  __Reporting requirements__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 6051 of this title][/us/usc/t26/s6051]\] shall apply to calendar years beginning after December 31, 1986.”
 
@@ -1311,27 +1311,27 @@
 
 [Pub. L. 99–514, title XI, § 1122(h)][/us/pl/99/514/s1122/h], Oct. 22, 1986, [100 Stat. 2470][/us/stat/100/2470], as amended by [Pub. L. 100–647, title I, § 1011A(b)(11)][/us/pl/100/647/s1011A/b/11]–(15), Nov. 10, 1988, [102 Stat. 3474][/us/stat/102/3474], 3475, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 72, 403, and 408 of this title\] shall apply to amounts distributed after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
->         “(A) __Subsection (c)(1).—__ 
+>         “(A)  __Subsection__  __(c)(1).—__ 
 
 >         The amendment made by subsection (c)(1) \[amending [section 72 of this title][/us/usc/t26/s72]\] shall apply to individuals whose annuity starting date is after July 1, 1986.
 
->         “(B) __Subsection (c)(2).—__ 
+>         “(B)  __Subsection__  __(c)(2).—__ 
 
 >         The amendment made by subsection (c)(2) \[amending [section 72 of this title][/us/usc/t26/s72]\] shall apply to individuals whose annuity starting date is after December 31, 1986, except that section 72(b)(3) of the Internal Revenue Code of 1986 (as added by such subsection) shall apply to individuals whose annuity starting date is after July 1, 1986.
 
->         “(C) __Special rule for amounts not received as annuities.—__ 
+>         “(C)  __Special rule for amounts not received as annuities__  __.—__ 
 
 >         In the case of any plan not described in section 72(e)(8)(D) of the Internal Revenue Code of 1986 (as added by subsection (c)(3)), the amendments made by subsection (c)(3) \[amending [section 72 of this title][/us/usc/t26/s72]\] shall apply to amounts received after July 1, 1986.
 
 >     “(3) __Special rule for individuals who attained age 50 before__  __january 1, 1986__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a lump sum distribution to which this paragraph applies—
 
@@ -1339,7 +1339,7 @@
 
 >             “(ii) the requirement of subparagraph (B) of section 402(e)(4) of the Internal Revenue Code of 1986 (as amended by subsection (a)) that the distribution be received after attaining age 59½ shall not apply.
 
->         “(B) __Computation of tax.—__ 
+>         “(B)  __Computation of tax__  __.—__ 
 
 >         If subparagraph (A) applies to any lump sum distribution of any taxpayer for any taxable year, the tax imposed by section 1 of the Internal Revenue Code of 1986 on such taxpayer for such taxable year shall be equal to the sum of—
 
@@ -1347,7 +1347,7 @@
 
 >             “(ii) 20 percent of the portion of such lump sum distribution to which the existing capital gains provisions continue to apply by reason of this paragraph.
 
->         “(C) __Lump sum distributions to which paragraph applies.—__ 
+>         “(C)  __Lump sum distributions to which paragraph applies__  __.—__ 
 
 >         This paragraph shall apply to any lump sum distribution if—
 
@@ -1457,23 +1457,23 @@
 
 >         “(C) No more than 1 election may be made under this paragraph with respect to an employee. An election under this paragraph shall be treated as an election under section 402(e)(4)(B) of the Internal Revenue Code of 1986 for purposes of such Code.
 
->     “(5) __Election of 10-year averaging.—__ 
+>     “(5)  __Election of 10-year averaging__  __.—__ 
 
 >     An employee who has attained age 50 before January 1, 1986, and elects the application of paragraph (3) or section 402(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act) may elect to have such section applied by substituting ‘10 times’ for ‘5 times’ and ‘⅒’ for ‘⅕’ in subparagraph (B) thereof. For purposes of the preceding sentence, section 402(e)(1) of such Code shall be applied by using the rate of tax in effect under section 1 of the Internal Revenue Code of 1954 for taxable years beginning during 1986 and by including in gross income the zero bracket amount in effect under section 63(d) of such Code for such years. This paragraph shall also apply to an individual, estate, or trust which receives a distribution with respect to an employee described in this paragraph.
 
->     “(6) __Existing capital gain provisions.—__ 
+>     “(6)  __Existing capital gain provisions__  __.—__ 
 
 >     For purposes of paragraphs (3) and (4), the term ‘existing capital gains provisions’ means the provisions of paragraph (2) of section 402(a) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) and paragraph (2) of section 403(a) of such Code (as so in effect).
 
->     “(7) __Subsection (d).—__ 
+>     “(7)  __Subsection__  __(d).—__ 
 
 >     The amendments made by subsection (d) \[amending [section 403 of this title][/us/usc/t26/s403]\] shall apply to taxable years beginning after December 31, 1985.
 
->     “(8) __Frozen deposits.—__ 
+>     “(8)  __Frozen deposits__  __.—__ 
 
 >     The amendments made by subsection (e)(2) \[amending this section and [section 408 of this title][/us/usc/t26/s408]\] shall apply to amounts transferred to an employee before, on, or after the date of the enactment of this Act \[Oct. 22, 1986\], except that in the case of an amount transferred on or before such date, the 60-day period referred to in section 402(a)(5)(C) of the Internal Revenue Code of 1986 shall not expire before the 60th day after the date of the enactment of this Act.
 
->     “(9) __Special rule for state plans.—__ 
+>     “(9)  __Special rule for state plans__  __.—__ 
 
 >     In the case of a plan maintained by a State which on May 5, 1986, permitted withdrawal by the employee of employee contributions (other than as an annuity), section 72(e) of the Internal Revenue Code of 1986 shall be applied—
 
@@ -1673,15 +1673,15 @@
 
 [Pub. L. 99–514, title XI, § 1124][/us/pl/99/514/s1124], Oct. 22, 1986, [100 Stat. 2475][/us/stat/100/2475], as amended by [Pub. L. 100–647, title I, § 1011A(d)][/us/pl/100/647/s1011A/d], Nov. 10, 1988, [102 Stat. 3476][/us/stat/102/3476], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If an employee dies, separates from service, or becomes disabled before 1987 and an individual, trust, or estate receives a lump-sum distribution with respect to such employee after December 31, 1986, and before March 16, 1987, on account of such death, separation from service, or disability, then, for purposes of the Internal Revenue Code of 1986, such individual, estate, or trust may treat such distribution as if it were received in 1986.
 
->     “(b) __Special Rule for Terminated Plan.—__ 
+>     “(b)  __Special Rule for Terminated Plan__  __.—__ 
 
 >     In the case of an individual, estate, or trust who receives with respect to an employee a distribution from a terminated plan which was maintained by a corporation organized under the laws of the State of Nevada, the principal place of business of which is Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986, the individual, estate, or trust may treat a lump sum distribution received from such plan before June 30, 1987, as if it were received in 1986.
 
->     “(c) __Lump Sum Distribution.—__ 
+>     “(c)  __Lump Sum Distribution__  __.—__ 
 
 >     For purposes of this section, the term ‘lump sum distribution’ has the meaning given such term by section 402(e)(4)(A) of the Internal Revenue Code of 1986, without regard to subparagraph (B) or (H) of section 402(e)(4) of such Code.”
 
@@ -1701,7 +1701,7 @@
 
 [Pub. L. 98–369, div. A, title V, § 551][/us/pl/98/369/s551], July 18, 1984, [98 Stat. 896][/us/stat/98/896], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Internal Revenue Code \[of\] 1986 \[formerly I.R.C. 1954\], if—
 
@@ -1711,7 +1711,7 @@
 
 >         then such distributions shall be treated as qualifying rollover distributions (within the meaning of section 402(a)(5) of such Code) and shall not be includible in the gross income of such employee for the taxable year in which paid.
 
->     “(b) __Qualified Terminated Plan.—__ 
+>     “(b)  __Qualified Terminated Plan__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified terminated plan’ means a pension plan—
 
@@ -1719,7 +1719,7 @@
 
 >         “(2) which was terminated by corporate action on February 20, 1976.
 
->     “(c) __Refund or Credit of Overpayment Barred by Statute of Limitations.—__ 
+>     “(c)  __Refund or Credit of Overpayment Barred by Statute of Limitations__  __.—__ 
 
 >     Notwithstanding section 6511(a) of the Internal Revenue Code of 1986 or any other period of limitation or lapse of time, a claim for credit or refund of overpayment of the tax imposed by such Code which arises by reason of this section may be filed by any person at any time within the 1-year period beginning on the date of enactment of this Act \[July 18, 1984\]. Sections 6511(b) and 6514 of such Code shall not apply to any claim for credit or refund filed under this subsection within such 1-year period.”
 
@@ -1735,7 +1735,7 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __Period for rollover contribution.—__ 
+>         “(A)  __Period for rollover contribution__  __.—__ 
 
 >         In the case of a payment described in section 402(a)(5)(A) (other than a payment described in section 402(a)(5)(A) as in effect on the day before the date of the enactment of this Act) \[Apr. 15, 1976\] or section 403(a)(4)(A) (other than a payment described in section 403(a)(4)(A) as in effect on the day before the date of the enactment of this Act \[Apr. 15, 1976\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to distributions of the balance to the credit of the employee) which is contributed by an employee after the date of the enactment of this Act \[Apr. 15, 1976\] to a trust, plan, account, annuity, or bond described in section 402(a)(5)(B) or 403(a)(4)(B) of such Code, the applicable period specified in section 402(a)(5)(B) or 403(a)(4)(B) of such Code (relating to rollover distributions to another plan or retirement account) shall not expire before December 31, 1976.
 

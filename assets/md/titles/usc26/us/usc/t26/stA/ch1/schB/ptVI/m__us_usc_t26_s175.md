@@ -41,7 +41,7 @@
 
         (3) __Additional limitations.—__ 
 
-            (A) __Expenditures must be consistent with soil conservation plan or endangered species recovery plan.—__ 
+            (A)  __Expenditures must be consistent with soil conservation plan or endangered species recovery plan__  __.—__ 
 
             Notwithstanding any other provision of this section, subsection (a) shall not apply to any expenditures unless such expenditures are consistent with—
 
@@ -49,9 +49,9 @@
 
                 (ii) if there is no plan described in clause (i), any soil conservation plan of a comparable State agency.
 
-            (B) __Certain wetland, etc.__ 
+            (B)  __Certain wetland, etc., activities not qualified__  __.—__ 
 
-            , activities not qualified.—Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
+            Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
 
     (d) __When method may be adopted__ 
 

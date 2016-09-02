@@ -215,11 +215,11 @@
 
 [Pub. L. 105–34, title X, § 1052(b)][/us/pl/105/34/s1052/b], Aug. 5, 1997, [111 Stat. 941][/us/stat/111/941], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to transfers after June 8, 1997, in taxable years ending after such date.
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendment made by this section shall not apply to any transfer pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before the disposition of property. A contract shall not fail to meet the requirements of the preceding sentence solely because—
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 101–239, title VII, § 7601(b)][/us/pl/101/239/s7601/b], Dec. 19, 1989, [103 Stat. 2371][/us/stat/103/2371], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to transfers after July 10, 1989, in taxable years ending after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendments made by this section shall not apply to any transfer pursuant to a written binding contract in effect on July 10, 1989, and at all times thereafter before the transfer.”
 
@@ -255,15 +255,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 77(b)][/us/pl/98/369/s77/b], July 18, 1984, [98 Stat. 596][/us/stat/98/596], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to transfers made after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Binding contract exception for transfer of partnership interests.—__ 
+>     “(2)  __Binding contract exception for transfer of partnership interests__  __.—__ 
 
 >     Paragraph (2)(D) of section 1031(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall not apply in the case of any exchange pursuant to a binding contract in effect on March 1, 1984, and at all times thereafter before the exchange.
 
->     “(3) __Requirement that property be identified within 45 days and that exchange be completed within 180 days.—__ 
+>     “(3)  __Requirement that property be identified within 45 days and that exchange be completed within 180 days__  __.—__ 
 
 >     Paragraph (3) of section 1031(a) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall apply—
 
@@ -273,7 +273,7 @@
 
 >         In the case of any transfer on or before the date of the enactment of this Act which the taxpayer treated as part of a like-kind exchange, the period for assessing any deficiency of tax attributable to the amendment made by subsection (a) \[amending this section\] shall not expire before January 1, 1988.
 
->     “(4) __Special rule where property identified in binding contract.—__ 
+>     “(4)  __Special rule where property identified in binding contract__  __.—__ 
 
 >     If the property to be received in the exchange is identified in a binding contract in effect on June 13, 1984, and at all times thereafter before the transfer, paragraph (3) shall be applied—
 
@@ -281,7 +281,7 @@
 
 >         “(B) by substituting ‘January 1, 1990’ for ‘January 1, 1988’.
 
->     “(5) __Special rule for like-kind exchange of partnership interests.—__ 
+>     “(5)  __Special rule for like-kind exchange of partnership interests__  __.—__ 
 
 >     Paragraph (2)(D) of section 1031(a) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall not apply to any exchange of an interest as general partner pursuant to a plan of reorganization of ownership interest under a contract which took effect on March 29, 1984, and which was executed on or before March 31, 1984, but only if all the exchanges contemplated by the reorganization plan are completed on or before December 31, 1984.”
 

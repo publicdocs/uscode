@@ -287,11 +287,11 @@
 
 [Pub. L. 105–34, title X, § 1089(b)(6)][/us/pl/105/34/s1089/b/6], Aug. 5, 1997, [111 Stat. 961][/us/stat/111/961], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section and [section 2055 of this title][/us/usc/t26/s2055]\] shall apply to transfers in trust after July 28, 1997.
 
->     “(B) __Special rule for certain decedents.—__ 
+>     “(B)  __Special rule for certain decedents__  __.—__ 
 
 >     The amendments made by this subsection shall not apply to transfers in trust under the terms of a will (or other testamentary instrument) executed on or before July 28, 1997, if the decedent—
 

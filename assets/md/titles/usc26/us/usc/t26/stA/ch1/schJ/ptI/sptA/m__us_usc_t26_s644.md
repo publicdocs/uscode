@@ -43,11 +43,11 @@
 
 [Pub. L. 99–514, title XIV, § 1403(c)][/us/pl/99/514/s1403/c], Oct. 22, 1986, [100 Stat. 2713][/us/stat/100/2713], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     With respect to any trust beneficiary who is required to include in gross income amounts under sections 652(a) or 662(a) of the Internal Revenue Code of 1986 in the 1st taxable year of the beneficiary beginning after December 31, 1986, by reason of any short taxable year of the trust required by the amendments made by this section, such income shall be ratably included in the income of the trust beneficiary over the 4-taxable year period beginning with such taxable year.”
 

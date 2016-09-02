@@ -3415,11 +3415,11 @@
 
 [Pub. L. 111–312, title IV, § 401(e)][/us/pl/111/312/s401/e], Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1400L and 1400N of this title\] shall apply to property placed in service after December 31, 2010, in taxable years ending after such date.
 
->     “(2) __Temporary 100 percent expensing.—__ 
+>     “(2)  __Temporary 100 percent expensing__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to property placed in service after September 8, 2010, in taxable years ending after such date.”
 
@@ -3443,11 +3443,11 @@
 
 [Pub. L. 111–5, div. B, title I, § 1201(c)][/us/pl/111/5/s1201/c], Feb. 17, 2009, [123 Stat. 334][/us/stat/123/334], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1400N and 6211 of this title\] shall apply to property placed in service after December 31, 2008, in taxable years ending after such date.
 
->     “(2) __Technical amendments.—__ 
+>     “(2)  __Technical amendments__  __.—__ 
 
 >     The amendments made by subsections (a)(3) \[amending this section and [section 6211 of this title][/us/usc/t26/s6211]\] and (b)(2) \[amending [section 6211 of this title][/us/usc/t26/s6211]\] shall apply to taxable years ending after March 31, 2008.”
 
@@ -3545,21 +3545,21 @@
 
 [Pub. L. 109–58, title XIII, § 1308(c)][/us/pl/109/58/s1308/c], Aug. 8, 2005, [119 Stat. 1006][/us/stat/119/1006], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to property placed in service after April 11, 2005.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any property with respect to which the taxpayer or a related party has entered into a binding contract for the construction thereof on or before April 11, 2005, or, in the case of self-constructed property, has started construction on or before such date.”
 
 [Pub. L. 109–58, title XIII, § 1325(c)][/us/pl/109/58/s1325/c], Aug. 8, 2005, [119 Stat. 1016][/us/stat/119/1016], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to property placed in service after April 11, 2005.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to any property with respect to which the taxpayer or a related party has entered into a binding contract for the construction thereof on or before April 11, 2005, or, in the case of self-constructed property, has started construction on or before such date.”
 
@@ -3581,15 +3581,15 @@
 
 [Pub. L. 108–357, title VII, § 704(c)][/us/pl/108/357/s704/c], Oct. 22, 2004, [118 Stat. 1548][/us/stat/118/1548], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to any property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Special rule for asset class 80.__ 
+>     “(2)  __Special rule for asset class 80.0__  __.—__ 
 
->     0.—In the case of race track facilities placed in service after the date of the enactment of this Act, such facilities shall not be treated as theme and amusement facilities classified under asset class 80.0.
+>     In the case of race track facilities placed in service after the date of the enactment of this Act, such facilities shall not be treated as theme and amusement facilities classified under asset class 80.0.
 
->     “(3) __No inference.—__ 
+>     “(3)  __No inference__  __.—__ 
 
 >     Nothing in this section or the amendments made by this section shall be construed to affect the treatment of property placed in service on or before the date of the enactment of this Act.”
 
@@ -3659,11 +3659,11 @@
 
 [Pub. L. 103–66, title XIII, § 13151(b)][/us/pl/103/66/s13151/b], Aug. 10, 1993, [107 Stat. 448][/us/stat/107/448], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to property placed in service by the taxpayer on or after May 13, 1993.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to property placed in service by the taxpayer before January 1, 1994, if—
 
@@ -3697,11 +3697,11 @@
 
 [Pub. L. 100–647, title VI, § 6027(c)][/us/pl/100/647/s6027/c], Nov. 10, 1988, [102 Stat. 3693][/us/stat/102/3693], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 1988.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property if such property is placed in service before January 1, 1990, and if such property—
 
@@ -3711,11 +3711,11 @@
 
 [Pub. L. 100–647, title VI, § 6028(b)][/us/pl/100/647/s6028/b], Nov. 10, 1988, [102 Stat. 3694][/us/stat/102/3694], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 1988.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property if such property is placed in service before July 1, 1989, and if such property—
 
@@ -3737,21 +3737,21 @@
 
 >         “(1) __Section 201.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in this section, section 204, and section 251(d) \[set out as a note under [section 46 of this title][/us/usc/t26/s46]\], the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall apply to property placed in service after December 31, 1986, in taxable years ending after such date.
 
->             “(B) __Election to have amendments made by section 201 apply.—__ 
+>             “(B)  __Election to have amendments made by section 201 apply__  __.—__ 
 
 >             A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have the amendments made by section 201 apply to any property placed in service after July 31, 1986, and before January 1, 1987. No election may be made under this subparagraph with respect to property to which section 168 of the Internal Revenue Code of 1986 would not apply by reason of section 168(f)(5) of such Code if such property were placed in service after December 31, 1986.
 
 >         “(2) __Section 202.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendments made by section 202 \[amending [section 179 of this title][/us/usc/t26/s179]\] shall apply to property placed in service after December 31, 1986, in taxable years ending after such date.
 
->             “(B) __Special rule for fiscal years including__  __january 1, 1987__  __.—__ 
+>             “(B)  __Special rule for fiscal years including __  __january 1, 1987__  __.—__ 
 
 >             In the case of any taxable year (other than a calendar year) which includes January 1, 1987, for purposes of applying the amendments made by section 202 to property placed in service during such taxable year and after December 31, 1986—
 
@@ -3763,7 +3763,7 @@
 
 >     “(b) __General Transitional Rule.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to—
 
@@ -3783,7 +3783,7 @@
 
 >         “(2) __Requirement that certain property be placed in service before certain date.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Paragraph (1) and section 204(a) (other than paragraph (8) or (12) thereof) shall not apply to any property unless such property has a class life of at least 7 years and is placed in service before the applicable date determined under the following table:
 
@@ -3855,11 +3855,11 @@
 
 >             </table>
 
->             “(B) __Residential rental and nonresidential real property.—__ 
+>             “(B)  __Residential rental and nonresidential real property__  __.—__ 
 
 >             In the case of residential rental property and nonresidential real property, the applicable date is January 1, 1991.
 
->             “(C) __Class lives.—__ 
+>             “(C)  __Class lives__  __.—__ 
 
 >             For purposes of subparagraph (A)—
 
@@ -3869,11 +3869,11 @@
 
 >                 “(iii) property with no class life shall be treated as having a class life of 12 years.
 
->             “(D) __Substitution of applicable dates.—__ 
+>             “(D)  __Substitution of applicable dates__  __.—__ 
 
 >             If any provision of this Act \[see Tables for classification\] substitutes a date for an applicable date, this paragraph shall be applied by using such date.
 
->         “(3) __Property qualifies if sold and leased back in 3 months.—__ 
+>         “(3)  __Property qualifies if sold and leased back in 3 months__  __.—__ 
 
 >         Property shall be treated as meeting the requirements of paragraphs (1) and (2) or section 204(a) with respect to any taxpayer if such property is acquired by the taxpayer from a person—
 
@@ -3883,7 +3883,7 @@
 
 >             and such property is leased back by the taxpayer to such person, or is leased to such person, not later than the earlier of the applicable date under paragraph (2) or the day which is 3 months after such property was placed in service.
 
->         “(4) __Plant facility.—__ 
+>         “(4)  __Plant facility__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘plant facility’ means a facility which does not include any building (or with respect to which buildings constitute an insignificant portion) and which is—
 
@@ -3895,13 +3895,13 @@
 
 >     “(c) __Property Financed With Tax-Exempt Bonds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection or section 204, subparagraph (C) of section 168(g)(1) of the Internal Revenue Code of 1986 (as added by this Act) shall apply to property placed in service after December 31, 1986, in taxable years ending after such date, to the extent such property is financed by the proceeds of an obligation (including a refunding obligation) issued after March 1, 1986.
 
 >         “(2) __Exceptions.—__ 
 
->             “(A) __Construction or binding agreements.—__ 
+>             “(A)  __Construction or binding agreements__  __.—__ 
 
 >             Subparagraph (C) of section 168(g)(1) of such Code (as so added) shall not apply to obligations with respect to a facility—
 
@@ -3917,37 +3917,37 @@
 
 >             “(B) __Refunding.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), in the case of property placed in service after December 31, 1986, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before March 2, 1986, subparagraph (C) of section 168(g)(1) of such Code (as so added) shall apply only with respect to an amount equal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
 
->                 “(ii) __Significant expenditures.—__ 
+>                 “(ii)  __Significant expenditures__  __.—__ 
 
 >                 In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before January 1, 1987, subparagraph (C) of section 168(g)(1) of such Code (as so added) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before March 2, 1986.
 
->             “(C) __Facilities.—__ 
+>             “(C)  __Facilities__  __.—__ 
 
 >             In the case of an inducement resolution or other comparable preliminary approval adopted by an issuing authority before March 2, 1986, for purposes of subparagraphs (A) and (B)(ii) with respect to obligations described in such resolution, the term ‘facilities’ means the facilities described in such resolution.
 
->             “(D) __Significant expenditures.—__ 
+>             “(D)  __Significant expenditures__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
 
->     “(d) __Mid-Quarter Convention.—__ 
+>     “(d)  __Mid-Quarter Convention__  __.—__ 
 
 >     In the case of any taxable year beginning before October 1, 1987 in which property to which the amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply is placed in service, such property shall be taken into account in determining whether section 168(d)(3) of the Internal Revenue Code of 1986 (as added by section 201) applies for such taxable year to property to which such amendments apply. The preceding sentence shall only apply to property which would be taken into account if such amendments did apply.
 
 >     “(e) __Normalization Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A normalization method of accounting shall not be treated as being used with respect to any public utility property for purposes of section 167 or 168 of the Internal Revenue Code of 1986 if the taxpayer, in computing its cost of service for ratemaking purposes and reflecting operating results in its regulated books of account, reduces the excess tax reserve more rapidly or to a greater extent than such reserve would be reduced under the average rate assumption method.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection—
 
->             “(A) __Excess tax reserve.—__ 
+>             “(A)  __Excess tax reserve__  __.—__ 
 
 >             The term ‘excess tax reserve’ means the excess of—
 
@@ -3955,7 +3955,7 @@
 
 >                 “(ii) the amount which would be the balance in such reserve if the amount of such reserve were determined by assuming that the corporate rate reductions provided in this Act \[see Tables for classification\] were in effect for all prior periods.
 
->             “(B) __Average rate assumption method.—__ 
+>             “(B)  __Average rate assumption method__  __.—__ 
 
 >             The average rate assumption method is the method under which the excess in the reserve for deferred taxes is reduced over the remaining lives of the property as used in its regulated books of account which gave rise to the reserve for deferred taxes. Under such method, if timing differences for the property reverse, the amount of the adjustment to the reserve for the deferred taxes is calculated by multiplying—
 
@@ -3969,11 +3969,11 @@
 
 >         “(1) __Urban renovation projects.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any property which is an integral part of any qualified urban renovation project.
 
->             “(B) __Qualified urban renovation project.—__ 
+>             “(B)  __Qualified urban renovation project__  __.—__ 
 
 >             For purposes of subparagraph (A), the term ‘qualified urban renovation project’ means any project—
 
@@ -3985,7 +3985,7 @@
 
 >                 “(iv) described in subparagraph (F) or (H).
 
->             “(C) __Project where agreement on__  __december 19, 1984__  __.—__ 
+>             “(C)  __Project where agreement on __  __december 19, 1984__  __.—__ 
 
 >             A project is described in this subparagraph if—
 
@@ -3995,7 +3995,7 @@
 
 >                   For purposes of this subparagraph, section 203(b)(2) shall be applied by substituting ‘January 1, 1994’ for ‘January 1, 1991’ each place it appears.
 
->             “(D) __Certain additional projects.—__ 
+>             “(D)  __Certain additional projects__  __.—__ 
 
 >             A project is described in this subparagraph if it is described in any of the following clauses of this subparagraph and the primary developer of all such projects is the same person:
 
@@ -4015,7 +4015,7 @@
 
 >                 “(viii) A project is described in this clause if the Board of Directors of the primary developer approved such project in December 1983, following selection of the developer by a city council on September 26, 1983, and the estimated cost of such project is approximately $107,000,000.
 
->             “(E) __Project where plan confirmed on__  __october 4, 1984__  __.—__ 
+>             “(E)  __Project where plan confirmed on __  __october 4, 1984__  __.—__ 
 
 >             A project is described in this subparagraph if—
 
@@ -4059,7 +4059,7 @@
 
 >             “(H) A project is described in this subparagraph if it is a redevelopment project, with respect to which $10,000,000 in industrial revenue bonds were approved by a State Development Finance Authority on January 15, 1986, a village transferred approximately $4,000,000 of bond volume authority to the State in June 1986, and a binding Redevelopment Agreement was executed between a city and the development team on June 30, 1986.
 
->         “(2) __Certain projects granted ferc licenses, etc.—__ 
+>         “(2)  __Certain projects granted ferc licenses, etc__  __.—__ 
 
 >         The amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any property which is part of a project—
 
@@ -4069,11 +4069,11 @@
 
 >             “(C) which is a hydroelectric project of less than 80 megawatts that filed an application for a permit, exemption, or license with the Federal Energy Regulatory Commission before March 2, 1986.
 
->         “(3) __Supply or service contracts.—__ 
+>         “(3)  __Supply or service contracts__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any property which is readily identifiable with and necessary to carry out a written supply or service contract, or agreement to lease, which was binding on March 1, 1986.
 
->         “(4) __Property treated under prior tax acts.—__ 
+>         “(4)  __Property treated under prior tax acts__  __.—__ 
 
 >         The amendments made by section 201 shall not apply—
 
@@ -4083,7 +4083,7 @@
 
 >             “(C) to property described in section 216(b)(3) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 216(b)(3) of Pub. L. 97–248][/us/pl/97/248/s216/b/3], set out below\].
 
->         “(5) __Special rules for property included in master plans of integrated projects.—__ 
+>         “(5)  __Special rules for property included in master plans of integrated projects__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any property placed in service pursuant to a master plan which is clearly identifiable as of March 1, 1986, for any project described in any of the following subparagraphs of this paragraph:
 
@@ -4323,7 +4323,7 @@
 
 >                 “(ii) before January 1, 1986, at least $15,000,000 was expended or committed for electronic equipment or fiber optic cable to be used in constructing the network.
 
->         “(6) __Natural gas pipeline.—__ 
+>         “(6)  __Natural gas pipeline__  __.—__ 
 
 >         The amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any interstate natural gas pipeline (and related equipment) if—
 
@@ -4331,7 +4331,7 @@
 
 >             “(B) such pipeline has 1 of its terminal points near Bakersfield, California.
 
->         “(7) __Certain leasehold improvements.—__ 
+>         “(7)  __Certain leasehold improvements__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any reasonable leasehold improvements, equipment and furnishings placed in service by a lessee or its affiliates if—
 
@@ -4343,7 +4343,7 @@
 
 >             For purposes of this paragraph, a corporation is an affiliate of another corporation if both corporations are members of a controlled group of corporations within the meaning of section 1563(a) of the Internal Revenue Code of 1954 without regard to section 1563(b)(2) of such Code. Such lessee shall include a securities firm that meets the requirements of subparagraph (A), except the lessee is obligated to lease the building under a lease entered into on June 18, 1986.
 
->         “(8) __Solid waste disposal facilities.—__ 
+>         “(8)  __Solid waste disposal facilities__  __.—__ 
 
 >         The amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to the taxpayer who originally places in service any qualified solid waste disposal facility (as defined in section 7701(e)(3)(B) of the Internal Revenue Code of 1986) if before March 2, 1986—
 
@@ -4357,11 +4357,11 @@
 
 >             “(E) such facility is to serve Haverhill, Massachusetts.
 
->         “(9) __Certain submersible drilling units.—__ 
+>         “(9)  __Certain submersible drilling units__  __.—__ 
 
 >         In the case of a binding contract entered into on October 30, 1984, for the purchase of 6 semi-submersible drilling units at a cost of $425,000,000, such units shall be treated as having an applicable date under subsection \[section\] 203(b)(2) of January 1, 1991.
 
->         “(10) __Wastewater or sewage treatment facility.—__ 
+>         “(10)  __Wastewater or sewage treatment facility__  __.—__ 
 
 >         The amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any property which is part of a wastewater or sewage treatment facility if—
 
@@ -4373,7 +4373,7 @@
 
 >             “(D) such property is part of a wastewater treatment facility (located in Cameron County, Texas, within one mile of the City of Harlingen), an application for a wastewater discharge permit was filed with respect to such facility on December 4, 1985, and a City Commission approved a letter of intent relating to a service agreement with respect to such facility on August 7, 1986; or a wastewater facility (located in Harlingen, Texas) which is a subject of such letter of intent and service agreement and the design of which was contracted for in a letter of intent dated January 23, 1986.
 
->         “(11) __Certain aircraft.—__ 
+>         “(11)  __Certain aircraft__  __.—__ 
 
 >         The amendments made by section 201 \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] shall not apply to any new aircraft with 19 or fewer passenger seats if—
 
@@ -4383,7 +4383,7 @@
 
 >             “(C) the aircraft is purchased or subject to a binding contract on or before December 31, 1986, and is delivered and placed in service by the purchaser, before July 1, 1987.
 
->         “(12) __Certain satellites.—__ 
+>         “(12)  __Certain satellites__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any satellite with respect to which—
 
@@ -4399,11 +4399,11 @@
 
 >             “(C) the International Telecommunications Satellite Organization or the International Maritime Satellite Organization entered into written binding contracts before May 1, 1985.
 
->         “(13) __Certain nonwire line cellular telephone systems.—__ 
+>         “(13)  __Certain nonwire line cellular telephone systems__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to property that is part of a nonwire line system in the Domestic Public Cellular Radio Telecommunications Service for which the Federal Communications Commission has issued a construction permit before September 26, 1985, but only if such property is placed in service before January 1, 1987.
 
->         “(14) __Certain cogeneration facilities.—__ 
+>         “(14)  __Certain cogeneration facilities__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to projects consisting of 1 or more facilities for the cogeneration and distribution of electricity and steam or other forms of thermal energy if—
 
@@ -4423,7 +4423,7 @@
 
 >             In the case of the project described in subparagraph (F), section 203(b)(2)(A) shall be applied by substituting ‘January 1, 1991’ for ‘January 1, 1989’.
 
->         “(15) __Certain electric generating stations.—__ 
+>         “(15)  __Certain electric generating stations__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to a project located in New Mexico consisting of a coal-fired electric generating station (including multiple generating units, coal mine equipment, and transmission facilities) if—
 
@@ -4435,19 +4435,19 @@
 
 >         “(16) __Sports arenas.—__ 
 
->             “(A) __Indoor sports facility.—__ 
+>             “(A)  __Indoor sports facility__  __.—__ 
 
 >             The amendments made by section 201 shall not apply to up to $20,000,000 of improvements made by a lessee of any indoor sports facility pursuant to a lease from a State commission granting the right to make limited and specified improvements (including planned seat explanations), if architectural renderings of the project were commissioned and received before December 22, 1985.
 
->             “(B) __Metropolitan sports arena.—__ 
+>             “(B)  __Metropolitan sports arena__  __.—__ 
 
 >             The amendments made by section 201 shall not apply to any property which is part of an arena constructed for professional sports activities in a metropolitan area, provided that such arena is capable of seating no less than 18,000 spectators and a binding contract to incur significant expenditures for its construction was entered into before June 1, 1986.
 
->         “(17) __Certain waste-to-energy facilities.—__ 
+>         “(17)  __Certain waste-to-energy facilities__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to 2 agricultural waste-to-energy powerplants (and required transmission facilities), in connection with which a contract to sell 100 megawatts of electricity to a city was executed in October 1984.
 
->         “(18) __Certain coal-fired plants.—__ 
+>         “(18)  __Certain coal-fired plants__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to one of three 540 megawatt coal-fired plants that are placed in service after a sale leaseback occurring after January 1, 1986, if—
 
@@ -4461,27 +4461,27 @@
 
 >             “(B) The amendments made by section 201 shall not apply to any project for rehabilitation of regional railroad rights of way and properties including grade crossings which was authorized by the Board of Directors of such company prior to October 1985; and/or was modified, altered or enlarged as a result of termination of company contracts, but approved by said Board of Directors no later than January 30, 1986, and which is in the public interest, and which is subject to binding contracts or substantive commitments by December 31, 1987.
 
->         “(20) __Certain detergent manufacturing facility.—__ 
+>         “(20)  __Certain detergent manufacturing facility__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to a laundry detergent manufacturing facility, the approximate cost of which is $13,200,000, with respect to which a project agreement was fully executed on March 17, 1986.
 
->         “(21) __Certain resource recovery facility.—__ 
+>         “(21)  __Certain resource recovery facility__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any of 3 resource recovery plants, the aggregate cost of which approximates $300,000,000, if an industrial development authority adopted a bond resolution with respect to such facilities on December 17, 1984, and the projects were approved by the department of commerce of a Commonwealth on December 27, 1984.
 
 >         “(22) The amendments made by section 201 shall not apply to a computer and office support center building in Minneapolis, with respect to which the first contract, with an architecture firm, was signed on April 30, 1985, and a construction contract was signed on March 12, 1986.
 
->         “(23) __Certain district heating and cooling facilities.—__ 
+>         “(23)  __Certain district heating and cooling facilities__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to pipes, mains, and related equipment included in district heating and cooling facilities, with respect to which the development authority of a State approved the project through an inducement resolution adopted on October 8, 1985, and in connection with which approximately $11,000,000 of tax-exempt bonds are to be issued.
 
 >         “(24) __Certain vessels.—__ 
 
->             “(A) __Certain offshore vessels.—__ 
+>             “(A)  __Certain offshore vessels__  __.—__ 
 
 >             The amendments made by section 201 shall not apply to any offshore vessel the construction contract for which was signed on February 28, 1986, and the approximate cost of which is $9,000,000.
 
->             “(B) __Certain inland river vessel.—__ 
+>             “(B)  __Certain inland river vessel__  __.—__ 
 
 >             The amendments made by section 201 shall not apply to a project involving the reconstruction of an inland river vessel docked on the Mississippi River at St. Louis, Missouri, on July 14, 1986, and with respect to which:
 
@@ -4491,7 +4491,7 @@
 
 >                 “(iii) at least $17,000,000 was expended before December 31, 1985; and
 
->             “(C) __Special automobile carrier vessels.—__ 
+>             “(C)  __Special automobile carrier vessels__  __.—__ 
 
 >             The amendments made by section 201 shall not apply to two new automobile carrier vessels which will cost approximately $47,000,000 and will be constructed by a United States-flag carrier to operate, under the United States-flag and with an American crew, to transport foreign automobiles to the United States, in a case where negotiations for such transportation arrangements commenced in April 1985, formal contract bids were submitted prior to the end of 1985, and definitive transportation contracts were awarded in May 1986.
 
@@ -4501,7 +4501,7 @@
 
 >             “(F) The amendments made by section 201 shall not apply to a new automobile carrier vessel, the contract price for which is no greater than $28,000,000, and which will be constructed for and placed in service by OSG Car Carriers, Inc., to transport, under the United States flag and with an American crew, foreign automobiles to North America in a case where negotiations for such transportation arrangements commenced in 1985, and definitive transportation contracts were awarded before June 1986.
 
->         “(25) __Certain wood energy projects.—__ 
+>         “(25)  __Certain wood energy projects__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to two wood energy projects for which applications with the Federal Energy Regulatory Commission were filed before January 1, 1986, which are described as follows:
 
@@ -4511,7 +4511,7 @@
 
 >         “(26) The amendments made by section 201 shall not apply to property which is a geothermal project of less than 20 megawatts that was certified by the Federal Energy Regulatory Commission on July 14, 1986, as a qualifying small power production facility for purposes of the Public Utility Regulatory Policies Act of 1978 \[see Short Title note set out under [16 U.S.C. 2601][/us/usc/t16/s2601]\] pursuant to an application filed with the Federal Energy Regulatory Commission on April 17, 1986.
 
->         “(27) __Certain economic development projects.—__ 
+>         “(27)  __Certain economic development projects__  __.—__ 
 
 >         The amendments made by section 201 shall not apply to any of the following projects:
 
@@ -4695,7 +4695,7 @@
 
 >         “(39) The amendments made by section 201 shall not apply to any facility for the manufacture of an improved particle board if a binding contract to purchase such equipment was executed March 3, 1986, such equipment will be placed in service by January 1, 1988, and such facility is located in or near Moncure, North Carolina.
 
->     “(b) __Special Rule for Certain Property.—__ 
+>     “(b)  __Special Rule for Certain Property__  __.—__ 
 
 >     The provisions of section 168(f)(8) of the Internal Revenue Code of 1954 (as amended by section 209 of the Tax Equity and Fiscal Responsibility Act of 1982) shall continue to apply to any transaction permitted by reason of section 12(c)(2) of the Tax Reform Act of 1984 or section 209(d)(1)(B) of the Tax Equity and Fiscal Responsibility Act of 1982 (as amended by the Tax Reform Act of 1984) \[[section 12(c)(2) of Pub. L. 98–369][/us/pl/98/369/s12/c/2] and [section 209(d)(1)(B) of Pub. L. 97–248][/us/pl/97/248/s209/d/1/B], respectively, set out below\].
 
@@ -4765,21 +4765,21 @@
 
 >     “(d) __Railroad Grading and Tunnel Bores.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of expenditures for railroad grading and tunnel bores which were incurred by a common carrier by railroad to replace property destroyed in a disaster occurring on or about April 17, 1983, near Thistle, Utah, such expenditures, to the extent not in excess of $15,000,000, shall be treated as recovery property which is 5-year property under section 168 of the Internal Revenue Code of 1954 (as in effect before the amendments made by this Act) and which is placed in service at the time such expenditures were incurred.
 
->         “(2) __Business interruption proceeds.—__ 
+>         “(2)  __Business interruption proceeds__  __.—__ 
 
 >         Business interruption proceeds received for loss of use, revenues, or profits in connection with the disaster described in paragraph (1) and devoted by the taxpayer described in paragraph (1) to the construction of replacement track and related grading and tunnel bore expenditures shall be treated as constituting an amount received from the involuntary conversion of property under section 1033(a)(2) of such Code.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         This subsection shall apply to taxable years ending after April 17, 1983.
 
 >     “(e) __Treatment of Certain Disaster Losses.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a disaster described in paragraph (2), at the election of the taxpayer, the amendments made by section 201 of this Act \[amending this section and sections 46, 167, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\]—
 
@@ -4789,7 +4789,7 @@
 
 >             which is property to replace property lost, damaged, or destroyed in such disaster.
 
->         “(2) __Disaster to which section applies.—__ 
+>         “(2)  __Disaster to which section applies__  __.—__ 
 
 >         This section shall apply to a flood which occurred on November 3 through 7, 1985, and which was declared a natural disaster area by the President of the United States.”
 
@@ -4817,11 +4817,11 @@
 
 [Pub. L. 99–121, title I, § 105(b)][/us/pl/99/121/s105/b], Oct. 11, 1985, [99 Stat. 510][/us/stat/99/510], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by section 103 \[amending this section and sections 47, 48, 57, 312, and 1245 of this title\] shall apply with respect to property placed in service by the taxpayer after May 8, 1985.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by section 103 shall not apply to property placed in service by the taxpayer before January 1, 1987, if—
 
@@ -4831,15 +4831,15 @@
 
 >         For purposes of this paragraph, the term ‘qualified person’ means any person whose rights in such a contract or such property are transferred to the taxpayer, but only if such property is not placed in service before such rights are transferred to the taxpayer.
 
->     “(3) __Special rule for components.—__ 
+>     “(3)  __Special rule for components__  __.—__ 
 
 >     For purposes of applying section 168(f)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 103) to components placed in service after December 31, 1986, property to which paragraph (2) of this subsection applies shall be treated as placed in service by the taxpayer before May 9, 1985.
 
->     “(4) __Technical correction.—__ 
+>     “(4)  __Technical correction__  __.—__ 
 
 >     The amendment made by paragraph (6) of section 103(b) \[amending [section 47 of this title][/us/usc/t26/s47]\] shall apply as if included in the amendments made by section 111 of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], see Effective Date of 1984 Amendment note below\].
 
->     “(5) __Special rule for leasing of qualified rehabilitated buildings.—__ 
+>     “(5)  __Special rule for leasing of qualified rehabilitated buildings__  __.—__ 
 
 >     The amendment made by paragraph (5) of section 103(b) to section 48(g)(2)(B)(v) of the Internal Revenue Code of 1986 shall not apply to leases entered into before May 22, 1985, but only if the lessee signed the lease before May 17, 1985.”
 
@@ -4849,7 +4849,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 31(g)][/us/pl/98/369/s31/g], July 18, 1984, [98 Stat. 521][/us/stat/98/521], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1802(a)(2)(F), (10)(A)–(D)(i), (E)–(G), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2788, 2790, 2791; [Pub. L. 100–647, title I, § 1018(b)(1)][/us/pl/100/647/s1018/b/1], Nov. 10, 1988, [102 Stat. 3577][/us/stat/102/3577], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 46, 48, and 7701 of this title\] shall apply—
 
@@ -4857,7 +4857,7 @@
 
 >         “(B) to property placed in service by the taxpayer on or before May 23, 1983, if the lease to the tax-exempt entity is entered into after May 23, 1983.
 
->     “(2) __Leases entered into on or before__  __may 23, 1983__  __.—__ 
+>     “(2)  __Leases entered into on or before __  __may 23, 1983__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any property leased to a tax-exempt entity if the property is leased pursuant to—
 
@@ -4899,7 +4899,7 @@
 
 >     “(4) __Official governmental action on or before__  __november 1, 1983__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply with respect to any property leased to a tax-exempt entity (other than the United States, any agency or instrumentality thereof, or any foreign person or entity) if—
 
@@ -4907,11 +4907,11 @@
 
 >             “(ii) the lease to the tax-exempt entity is pursuant to a written binding contract entered into before January 1, 1985, which requires the tax-exempt entity to be the lessee of the property.
 
->         “(B) __Significant official governmental action.—__ 
+>         “(B)  __Significant official governmental action__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘significant official governmental action’ does not include granting of permits, zoning changes, environmental impact statements, or similar governmental actions.
 
->         “(C) __Special rule for credit unions.—__ 
+>         “(C)  __Special rule for credit unions__  __.—__ 
 
 >         In the case of any property leased to a credit union pursuant to a written binding contract with an expiration date of December 31, 1984, which was entered into by such organization on August 23, 1984—
 
@@ -4919,11 +4919,11 @@
 
 >             “(ii) clause (ii) of subparagraph (A) shall be applied by substituting ‘January 1, 1987’ for ‘January 1, 1985’.
 
->         “(D) __Special rule for greenville auditorium board.—__ 
+>         “(D)  __Special rule for greenville auditorium board__  __.—__ 
 
 >         For purposes of this paragraph, significant official governmental action taken by the Greenville County Auditorium Board of Greenville, South Carolina, before May 23, 1983, shall be treated as significant official governmental action with respect to the coliseum facility subject to a binding contract to lease which was in effect on January 1, 1985.
 
->         “(E) __Treatment of certain historic structures.—__ 
+>         “(E)  __Treatment of certain historic structures__  __.—__ 
 
 >         If—
 
@@ -4933,7 +4933,7 @@
 
 >             the requirements of clauses (i) and (ii) of subparagraph (A) shall be treated as met.
 
->     “(5) __Mass commuting vehicles.—__ 
+>     “(5)  __Mass commuting vehicles__  __.—__ 
 
 >     The amendments made by this section shall not apply to any qualified mass commuting vehicle (as defined in section 103(b)(9) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) which is financed in whole or in part by obligations the interest on which is excludable from gross income under section 103(a) of such Code if—
 
@@ -4947,21 +4947,21 @@
 
 >             “(ii) solely because of conditions which, as determined by the Secretary of the Treasury or his delegate, are not within the control of the lessor or lessee.
 
->     “(6) __Certain turbines and boilers.—__ 
+>     “(6)  __Certain turbines and boilers__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property described in section 208(d)(3)(E) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 208(d)(3)(E) of Pub. L. 97–248][/us/pl/97/248/s208/d/3/E], set out as an Effective Date of 1982 Amendments note below\].
 
->     “(7) __Certain facilities for which ruling requests filed on or before__  __may 23, 1983__  __.—__ 
+>     “(7)  __Certain facilities for which ruling requests filed on or before __  __may 23, 1983__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any facilities described in clause (ii) of section 168(f)(12)(C) of the Internal Revenue Code of 1986 (relating to certain sewage or solid waste disposal facilities), as in effect on the day before the date of the enactment of this Act \[July 18, 1984\], if a ruling request with respect to the lease of such facility to the tax-exempt entity was filed with the Internal Revenue Service on or before May 23, 1983.
 
 >     “(8) __Recovery period for certain qualified sewage facilities.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any property (other than 15-year real property) which is part of a qualified sewage facility, the recovery period used for purposes of paragraph (1) of section 168(j) of the Internal Revenue Code of 1986 (as added by this section) shall be 12 years. For purposes of the preceding sentence, the term ‘15-year real property’ includes 18-year real property.
 
->         “(B) __Qualified sewage facility.—__ 
+>         “(B)  __Qualified sewage facility__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified sewage facility’ means any facility which is part of the sewer system of a city, if—
 
@@ -4969,11 +4969,11 @@
 
 >             “(ii) on July 12, 1983, the Industrial Development Board of the city approved a resolution to issue a $100,000,000 industrial development bond issue to provide funds to purchase such facility.
 
->     “(9) __Property used by the postal service.—__ 
+>     “(9)  __Property used by the postal service__  __.—__ 
 
 >     In the case of property used by the United States Postal Service, paragraphs (1) and (2) shall be applied by substituting ‘October 31’ for ‘May 23’.
 
->     “(10) __Existing appropriations.—__ 
+>     “(10)  __Existing appropriations__  __.—__ 
 
 >     The amendments made by this section shall not apply to personal property leased to or used by the United States if—
 
@@ -4983,11 +4983,11 @@
 
 >     “(11) __Special rule for certain partnerships.—__ 
 
->         “(A) __Partnerships for which qualifying action existed before__  __october 21, 1983__  __.—__ 
+>         “(A)  __Partnerships for which qualifying action existed before __  __october 21, 1983__  __.—__ 
 
 >         Paragraph (9) of section 168(j) of the Internal Revenue Code of 1986 (as added by this section) shall not apply to any property acquired, directly or indirectly, before January 1, 1985, by any partnership described in subparagraph (B).
 
->         “(B) __Application filed before__  __october 21, 1983__  __.—__ 
+>         “(B)  __Application filed before __  __october 21, 1983__  __.—__ 
 
 >         A partnership is described in this subparagraph if—
 
@@ -4997,11 +4997,11 @@
 
 >             “(iii) the marketing of partnership units in such partnership is completed not later than two years after the later of the date of the enactment of this Act \[July 18, 1984\] or the date of publication in the Federal Register of such exemption by the Department of Labor and the aggregate number of units in such partnership sold does not exceed the amount described in clause (i).
 
->         “(C) __Partnerships for which qualifying action existed before__  __march 6, 1984__  __.—__ 
+>         “(C)  __Partnerships for which qualifying action existed before __  __march 6, 1984__  __.—__ 
 
 >         Paragraph (9) of section 168(j) of the Internal Revenue Code of 1986 (as added by this section) shall not apply to any property acquired directly or indirectly, before January 1, 1986, by any partnership described in subparagraph (D). For purposes of this subparagraph, property shall be deemed to have been acquired prior to January 1, 1986, if the partnership had entered into a written binding contract to acquire such property prior to January 1, 1986 and the closing of such contract takes place within 6 months of the date of such contract (24 months in the case of new construction).
 
->         “(D) __Partnership organized before__  __march 6, 1984__  __.—__ 
+>         “(D)  __Partnership organized before __  __march 6, 1984__  __.—__ 
 
 >         A partnership is described in this subparagraph if—
 
@@ -5009,11 +5009,11 @@
 
 >             “(ii) the marketing or partnership interests in such partnership was completed not later than the 90th day after the date of the enactment of this Act \[July 18, 1984\] and the aggregate amount of interest in such partnership sold does not exceed the maximum amount described in clause (i).
 
->     “(12) __Special rule for amendment made by subsection (c)(2).—__ 
+>     “(12)  __Special rule for amendment made by subsection (c)(2)__  __.—__ 
 
 >     The amendment made by subsection (c)(2) \[amending [section 48(g)(2)(B)(i) of this title][/us/usc/t26/s48/g/2/B/i]\] to the extent it relates to subsection (f)(12) of section 168 of the Internal Revenue Code of 1986 shall take effect as if it had been included in the amendments made by section 216(a) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 216(a) of Pub. L. 97–248][/us/pl/97/248/s216/a], which amended this section\].
 
->     “(13) __Special rule for service contracts not involving tax-exempt entities.—__ 
+>     “(13)  __Special rule for service contracts not involving tax-exempt entities__  __.—__ 
 
 >     In the case of a service contract or other arrangement described in section 7701(e) of the Internal Revenue Code of 1986 (as added by this section) with respect to which no party is a tax-exempt entity, such section 7701(e) shall not apply to—
 
@@ -5021,7 +5021,7 @@
 
 >         “(B) any renewal or other extension of such contract or other arrangement pursuant to an option contained in such contract or other arrangement on November 5, 1983.
 
->     “(14) __Property leased to section 593 organizations.—__ 
+>     “(14)  __Property leased to section 593 organizations__  __.—__ 
 
 >     For purposes of the amendment made by subsection (f) \[enacting [section 46(e)(4) of this title][/us/usc/t26/s46/e/4]\], paragraphs (1), (2), and (4) shall be applied by substituting—
 
@@ -5031,7 +5031,7 @@
 
 >     “(15) __Special rules relating to foreign persons or entities.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of tax-exempt use property which is used by a foreign person or entity, the amendments made by this section shall not apply to any property which—
 
@@ -5039,11 +5039,11 @@
 
 >             “(ii) is used by such foreign person or entity pursuant to a lease entered into before January 1, 1984.
 
->         “(B) __Special rule for subleases.—__ 
+>         “(B)  __Special rule for subleases__  __.—__ 
 
 >         If tax-exempt use property is being used by a foreign person or entity pursuant to a sublease under a lease described in subparagraph (A)(ii), subparagraph (A) shall apply to such property only if such property was used before January 1, 1984, by any foreign person or entity pursuant to such lease.
 
->         “(C) __Binding contracts, etc.—__ 
+>         “(C)  __Binding contracts, etc__  __.—__ 
 
 >         The amendments made by this section shall not apply with respect to any property (other than aircraft described in subparagraph (D)) leased to a foreign person or entity—
 
@@ -5057,7 +5057,7 @@
 
 >             “(ii) if such lease is pursuant to a written binding contract entered into before January 1, 1984, which requires the foreign person or entity to be the lessee of such property.
 
->         “(D) __Certain aircraft.—__ 
+>         “(D)  __Certain aircraft__  __.—__ 
 
 >         The amendments made by this section shall not apply with respect to any wide-body, four-engine, commercial aircraft used by a foreign person or entity if—
 
@@ -5065,23 +5065,23 @@
 
 >             “(ii) such aircraft is originally placed in service by such foreign person or entity (or its successor in interest under the contract) after May 23, 1983, and before January 1, 1986.
 
->         “(E) __Use after 1983.—__ 
+>         “(E)  __Use after 1983__  __.—__ 
 
 >         Qualified container equipment placed in service before January 1, 1984, which is used before such date by a foreign person shall not, for purposes of section 47 of the Internal Revenue Code of 1986, be treated as ceasing to be section 38 property by reason of the use of such equipment before January 1, 1985, by a foreign person or entity. For purposes of this subparagraph, the term ‘qualified container equipment’ means any container, container chassis, or container trailer of a United States person with a present class life of not more than 6 years.
 
 >     “(16) __Organizations electing exemption from rules relating to previously tax-exempt organizations must elect taxation of exempt arbitrage profits.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         An organization may make the election under section 168(j)(4)(E)(ii) of the Internal Revenue Code of 1986 (relating to election not to have rules relating to previously tax-exempt organizations apply) only if such organization elects the tax treatment of exempt arbitrage profits described in subparagraph (B).
 
 >         “(B) __Taxation of exempt arbitrage profits.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of an organization which elects the application of this subparagraph, there is hereby imposed a tax on the exempt arbitrage profits of such organization.
 
->             “(ii) __Rate of tax, etc.—__ 
+>             “(ii)  __Rate of tax, etc__  __.—__ 
 
 >             The tax imposed by clause (i)—
 
@@ -5091,7 +5091,7 @@
 
 >         “(C) __Exempt arbitrage profits.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of this paragraph, the term exempt arbitrage profits means the aggregate amount described in clauses (i) and (ii) of subparagraph (D) of section 103(c)(6) of such Code for all taxable years for which the organization was exempt from tax under section 501(a) of such Code with respect to obligations—
 
@@ -5099,17 +5099,17 @@
 
 >                 “(II) issued before January 1, 1985.
 
->             “(ii) __Application of section 103(b)(6).—__ 
+>             “(ii)  __Application of section 103__  __(b)(6).—__ 
 
 >             For purposes of this paragraph, section 103(b)(6) of such Code shall apply to obligations issued before January 1, 1985, but the amount described in clauses (i) and (ii) of subparagraph (D) thereof shall be determined without regard to clauses (i)(II) and (ii) of subparagraph (F) thereof.
 
 >         “(D) __Other laws applicable.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Except as provided in clause (ii), all provisions of law, including penalties, applicable with respect to the tax imposed by section 11 of such Code shall apply with respect to the tax imposed by this paragraph.
 
->             “(ii) __No credits against tax, etc.—__ 
+>             “(ii)  __No credits against tax, etc__  __.—__ 
 
 >             The tax imposed by this paragraph shall not be treated as imposed by section 11 of such Code for purposes of—
 
@@ -5117,7 +5117,7 @@
 
 >                 “(II) determining the amount of any credit allowable under subpart A of part IV of such subchapter.
 
->         “(E) __Election.—__ 
+>         “(E)  __Election__  __.—__ 
 
 >         Any election under subparagraph (A)—
 
@@ -5127,7 +5127,7 @@
 
 >             “(iii) once made, shall be irrevocable.
 
->     “(17) __Certain transitional leased property.—__ 
+>     “(17)  __Certain transitional leased property__  __.—__ 
 
 >     The amendments made by this section shall not apply to property described in section 168(c)(2)(D) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act \[July 18, 1984\], and which is described in any of the following subparagraphs:
 
@@ -5235,9 +5235,9 @@
 
 >         “(M) Property is described in this subparagraph if such property is used as a convention center and on June 2, 1983, the City Council of the city in which the center is located provided for over $6 million for the project.
 
->     “(18) __Special rule for amendment made by subsection (c)(1).—__ 
+>     “(18)  __Special rule for amendment made by subsection__  __(c)(1).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendment made by subsection (c)(1) \[enacting [section 48(g)(2)(B)(vi) of this title][/us/usc/t26/s48/g/2/B/vi]\] shall not apply to property—
 
@@ -5245,35 +5245,35 @@
 
 >             “(ii) leased by the taxpayer after November 1, 1983, if on or before such date the taxpayer entered into a written binding contract requiring the taxpayer to lease such property.
 
->         “(B) __Limitation.—__ 
+>         “(B)  __Limitation__  __.—__ 
 
 >         Subparagraph (A) shall apply to the amendment made by subsection (c)(1) only to the extent such amendment relates to property described in subclause (II), (III), or (IV) of section 168(j)(3)(B)(ii) of the Internal Revenue Code of 1986 (as added by this section).
 
 >     “(19) __Special rule for certain energy management contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (e) \[amending [section 7701 of this title][/us/usc/t26/s7701]\] shall not apply to property used pursuant to an energy management contract that was entered into prior to May 1, 1984.
 
->         “(B) __Definition of energy management contract.—__ 
+>         “(B)  __Definition of energy management contract__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘energy management contract’ means a contract for the providing of energy conservation or energy management services.
 
->     “(20) __Definitions.—__ 
+>     “(20)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Tax-exempt entity.—__ 
+>         “(A)  __Tax-exempt entity__  __.—__ 
 
 >         The term ‘tax-exempt entity’ has the same meaning as when used in section 168(j) of the Internal Revenue Code of 1986 (as added by this section), except that such term shall include any related entity (within the meaning of such section).
 
 >         “(B) __Treatment of improvements.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of this subsection, an improvement to property shall not be treated as a separate property unless such improvement is a substantial improvement with respect to such property.
 
->             “(ii) __Substantial improvement.—__ 
+>             “(ii)  __Substantial improvement__  __.—__ 
 
 >             For purposes of clause (i), the term ‘substantial improvement’ has the meaning given such term by section 168(f)(1)(C) of such Code determined—
 
@@ -5283,11 +5283,11 @@
 
 >                 “(III) without regard to clause (iii) thereof.
 
->         “(C) __Foreign person or entity.—__ 
+>         “(C)  __Foreign person or entity__  __.—__ 
 
 >         The term ‘foreign person or entity’ has the meaning given to such term by subparagraph (C) of section 168(j)(4) of such Code (as added by this section). For purposes of this subparagraph and subparagraph (A), such subparagraph (C) shall be applied without regard to the last sentence thereof.
 
->         “(D) __Leases and subleases.—__ 
+>         “(D)  __Leases and subleases__  __.—__ 
 
 >         The determination of whether there is a lease or sublease to a tax-exempt entity shall take into account sections 168(j)(6)(A), 168(j)(8)(A), and 7701(e) of the Internal Revenue Code of 1986 (as added by this section).”
 
@@ -5309,11 +5309,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 111(g)][/us/pl/98/369/s111/g], July 18, 1984, [98 Stat. 634][/us/stat/98/634], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 48, 51, 312, and 1245 of this title\] shall apply with respect to property placed in service by the taxpayer after March 15, 1984.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to property placed in service by the taxpayer before January 1, 1987, if—
 
@@ -5325,7 +5325,7 @@
 
 >     “(3) __Special rules for application of paragraph (2).—__ 
 
->         “(A) __Certain inventory.—__ 
+>         “(A)  __Certain inventory__  __.—__ 
 
 >         In the case of any property which—
 
@@ -5335,7 +5335,7 @@
 
 >             such person shall not, for purposes of paragraph (2), be treated as having placed such property in service before such property is disposed of merely because such person rented such property or held such property for rental. No deduction for depreciation or amortization shall be allowed to such person with respect to such property,
 
->         “(B) __Certain property financed by bonds.—__ 
+>         “(B)  __Certain property financed by bonds__  __.—__ 
 
 >         In the case of any property with respect to which—
 
@@ -5345,11 +5345,11 @@
 
 >             paragraph (2) shall be applied by substituting ‘May 2’ for ‘March 16’.
 
->     “(4) __Special rule for components.—__ 
+>     “(4)  __Special rule for components__  __.—__ 
 
 >     For purposes of applying section 168(f)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) to components placed in service after December 31, 1986, property to which paragraph (2) applies shall be treated as placed in service by the taxpayer before March 16, 1984.
 
->     “(5) __Special rule for mid-month convention.—__ 
+>     “(5)  __Special rule for mid-month convention__  __.—__ 
 
 >     In the case of the amendment made by subsection (d) \[amending subsec. (b)(2)(A), (B) of this section\]—
 
@@ -5493,7 +5493,7 @@
 
 >         “(G) __Coal gasification facilities.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Property is described in this subparagraph if such property—
 
@@ -5501,11 +5501,11 @@
 
 >                 “(II) would be described in subparagraph (A) if ‘July 1, 1984’ were substituted for ‘January 1, 1983’.
 
->             “(ii) __Special rule.—__ 
+>             “(ii)  __Special rule__  __.—__ 
 
 >             For purposes of determining whether property described in this subparagraph is described in subparagraph (A), such property shall be treated as having been acquired during the period referred to in subparagraph (A)(ii) if at least 20 percent of the cost of such property is paid during such period.
 
->             “(iii) __Limitation on amount.—__ 
+>             “(iii)  __Limitation on amount__  __.—__ 
 
 >             Clause (i) shall only apply to the lease of an undivided interest in the property in an amount which does not exceed the lesser of—
 
@@ -5513,7 +5513,7 @@
 
 >                 “(II) $67,500,000.
 
->             “(iv) __Placed in service.—__ 
+>             “(iv)  __Placed in service__  __.—__ 
 
 >             In the case of property to which this subparagraph applies—
 
@@ -5585,7 +5585,7 @@
 
 [Pub. L. 97–248, title II, § 209(d)][/us/pl/97/248/s209/d], Sept. 3, 1982, [96 Stat. 447][/us/stat/96/447], as amended by [Pub. L. 98–369, div. A, title I, § 12(a)(1)][/us/pl/98/369/s12/a/1], (2), July 18, 1984, [98 Stat. 503][/us/stat/98/503], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >         “(A) __In general.—__ 
 
@@ -5701,7 +5701,7 @@
 
 [Pub. L. 99–514, title XVIII, § 1801(a)(2)][/us/pl/99/514/s1801/a/2], Oct. 22, 1986, [100 Stat. 2785][/us/stat/100/2785], as amended by [Pub. L. 100–647, title I, § 1018(a)][/us/pl/100/647/s1018/a], Nov. 10, 1988, [102 Stat. 3577][/us/stat/102/3577], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     If—
 
@@ -5713,7 +5713,7 @@
 
 >         then, for purposes of applying the revenue laws of the United States in respect to such agreement, the portion of the property allocable to partners (or beneficiaries) not described in clause (iii) shall be treated as if it were subject to a separate agreement and the portion of such property allocable to the partner or beneficiary described in clause (iii) shall be treated as if it were subject to a separate agreement.
 
->     “(B) __Specified agreement.—__ 
+>     “(B)  __Specified agreement__  __.—__ 
 
 >     For purposes of subparagraph (A), the term ‘specified agreement’ means an agreement to which subparagraph (B) of section 209(d)\[(1)\] of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 209(d)(1) of Pub. L. 97–248][/us/pl/97/248/s209/d/1], set out as a note above\] applies which is—
 
@@ -5749,7 +5749,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 12(c)][/us/pl/98/369/s12/c], July 18, 1984, [98 Stat. 504][/us/stat/98/504], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1801(a)(1), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2785; [Pub. L. 100–647, title I, § 1002(d)(7)(B)][/us/pl/100/647/s1002/d/7/B], Nov. 10, 1988, [102 Stat. 3360][/us/stat/102/3360], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and [section 208(d) of Pub. L. 97–248][/us/pl/97/248/s208/d], set out as an Effective Date of 1982 Amendments note above\] shall not apply with respect to any property if—
 
@@ -5761,7 +5761,7 @@
 
 >     “(2) __Special rule for certain automotive property.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (a) shall not apply to property—
 
@@ -5769,7 +5769,7 @@
 
 >             “(ii) with respect to which the lessee is a qualified lessee (within the meaning of section 208(d)(6) of the Tax Equity and Fiscal Responsibility Act of 1982) \[[Pub. L. 97–248][/us/pl/97/248], set out as an Effective Date of 1982 Amendments note above\].
 
->         “(B) __$150,000,000 limitation.—__ 
+>         “(B) __$150,000,000__  __limitation__  __.—__ 
 
 >         The provisions of subparagraph (A) shall not apply to any agreement if the sum of—
 
@@ -5779,7 +5779,7 @@
 
 >             exceeds $150,000,000.
 
->         “(C) __Automotive manufacturing property.—__ 
+>         “(C)  __Automotive manufacturing property__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘automotive manufacturing property’ means—
 
@@ -5789,7 +5789,7 @@
 
 >             “(iii) any special tools owned by the taxpayer which are used by a vendor solely for the production of component parts for sale to the taxpayer.
 
->     “(3) __Special rule for certain cogeneration facilities.—__ 
+>     “(3)  __Special rule for certain cogeneration facilities__  __.—__ 
 
 >     The amendments made by subsection (a) shall not apply with respect to any property which is part of a coal-fired cogeneration facility—
 
@@ -5853,7 +5853,7 @@
 
 >         The term ‘terminal rental adjustment clause’ means a provision of an agreement which permits or requires the rental price to be adjusted upward or downward by reference to the amount realized by the lessor under the agreement upon sale or other disposition of such property. Such term also includes a provision of an agreement which requires a lessee who is a dealer in motor vehicles to purchase the motor vehicle for a predetermined price and then resell such vehicle where such provision achieves substantially the same results as a provision described in the preceding sentence.
 
->     “(c) __Exception Where Lessee Took Position on Return.—__ 
+>     “(c)  __Exception Where Lessee Took Position on Return__  __.—__ 
 
 >     Subsection (a) shall not apply to deny a deduction for interest paid or accrued claimed by a lessee with respect to a qualified motor vehicle agreement on a return of tax imposed by chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which was filed before the date of the enactment of this Act \[Sept. 3, 1982\] or to deny a credit for investment in depreciable property claimed by the lessee on such a return pursuant to an agreement with the lessor that the lessor would not claim the credit.”
 

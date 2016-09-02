@@ -957,11 +957,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 
 [Pub. L. 109–42, § 7(e)][/us/pl/109/42/s7/e], July 30, 2005, [119 Stat. 438][/us/stat/119/438], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 9504 of this title][/us/usc/t26/s9504]\] shall take effect on the date of the enactment of this Act \[July 30, 2005\].
 
->     “(2) __Subsequent repeal.—__ 
+>     “(2)  __Subsequent repeal__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section and [section 9504 of this title][/us/usc/t26/s9504]\] shall take effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users \[Aug. 10, 2005\] and shall be executed immediately before the amendments made by such Act.”
 
@@ -993,11 +993,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 
 [Pub. L. 108–310, § 13(d)][/us/pl/108/310/s13/d], Sept. 30, 2004, [118 Stat. 1164][/us/stat/118/1164], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 9504 of this title][/us/usc/t26/s9504] and repealing provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Sept. 30, 2004\].
 
->     “(2) __Transfers to highway trust fund.—__ 
+>     “(2)  __Transfers to highway trust fund__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section\] shall apply to taxes imposed after September 30, 2003.”
 
@@ -1119,11 +1119,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 
 [Pub. L. 97–424, title V, § 531(e)][/us/pl/97/424/s531/e], Jan. 6, 1983, [96 Stat. 2192][/us/stat/96/2192], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending section 460l–11 of Title 16, Conservation, and amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall take effect on January 1, 1983.
 
->     “(2) __New highway trust fund treated as continuation of old.—__ 
+>     “(2)  __New highway trust fund treated as continuation of old__  __.—__ 
 
 >     The Highway Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the Highway Trust Fund established by section 209 of the Highway Revenue Act of 1956 \[section 209 of [act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, [70 Stat. 397][/us/stat/70/397], set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\]. Any reference in any law to the Highway Trust Fund established by such section 209 shall be deemed to include (wherever appropriate) a reference to the Highway Trust Fund established by the amendments made by this section.”
 

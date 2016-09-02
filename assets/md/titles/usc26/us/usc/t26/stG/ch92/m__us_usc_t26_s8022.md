@@ -89,7 +89,7 @@
 
 [Pub. L. 105–206, title IV, § 4022(b)][/us/pl/105/206/s4022/b], July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
@@ -97,7 +97,7 @@
 
 >         “(B) such legislation includes a provision which would directly or indirectly amend the Internal Revenue Code of 1986 and which has widespread applicability to individuals or small businesses.
 
->     “(2) __Tax complexity analysis.—__ 
+>     “(2)  __Tax complexity analysis__  __.—__ 
 
 >     For purposes of this subsection, the term ‘tax complexity analysis’ means, with respect to any legislation, a report on the complexity and administrative difficulties of each provision described in paragraph (1)(B) which—
 
@@ -125,11 +125,11 @@
 
 >             “(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Service would be required to divert or redirect resources in response to the provision).
 
->     “(3) __Legislation subject to point of order in house of representatives.—__ 
+>     “(3)  __Legislation subject to point of order in house of representatives__  __.—__ 
 
 >     \[Amended the Rules of the House of Representatives, which are not classified to the Code.\]
 
->     “(4) __Effective date.—__ 
+>     “(4)  __Effective date__  __.—__ 
 
 >     This subsection shall apply to legislation considered on and after January 1, 1999.”
 

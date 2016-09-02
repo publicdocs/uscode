@@ -435,11 +435,11 @@
 
 [Pub. L. 93–406, title II, § 1017][/us/pl/93/406/s1017], Sept. 2, 1974, [88 Stat. 932][/us/stat/88/932], as amended by [Pub. L. 94–12, title IV, § 402][/us/pl/94/12/s402], Mar. 29, 1975, [89 Stat. 47][/us/stat/89/47]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this part \[part 1 (§§ 1011–1017) of subtitle A of title II of [Pub. L. 93–406][/us/pl/93/406], enacting this section and sections 411, 412, 413, 414, and 4971 of this title, amending sections 275, 401, 404, 406, 407, 805, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6512, 6601, 6653, 6659 \[now 6662\], 6676, 6677, 6679, 6682, 6688, 6861, 6862, and 7422 of this title and enacting provisions set out as notes under this section and sections 411 and 412 of this title\] shall apply for plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\].
 
->     “(b) __Existing Plans.—__ 
+>     “(b)  __Existing Plans__  __.—__ 
 
 >     Except as otherwise provided in subsections (c) through (i), in the case of a plan in existence on January 1, 1974, the amendments made by this part shall apply for plan years beginning after December 31, 1975.
 
@@ -447,11 +447,11 @@
 
 >         “(1) __Application of vesting rules to certain plan provisions.—__ 
 
->             “(A) __Waiver of application.—__ 
+>             “(A)  __Waiver of application__  __.—__ 
 
 >             In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, during the special temporary waiver period the plan shall not be treated as not meeting the requirements of section 411(b)(1) or (2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] solely by reason of a supplementary or special plan provision (within the meaning of subparagraph (D)).
 
->             “(B) __Special temporary waiver period.—__ 
+>             “(B)  __Special temporary waiver period__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘special temporary waiver period’ means plan years beginning after December 31, 1975, and before the earlier of—
 
@@ -461,11 +461,11 @@
 
 >                   For purposes of clause (i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this Act \[see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001], Labor\] shall not be treated as a termination of such collective bargaining agreement.
 
->             “(C) __Determination by secretary of labor required.—__ 
+>             “(C)  __Determination by secretary of labor required__  __.—__ 
 
 >             Subparagraph (A) shall not apply unless the Secretary of Labor determines that the participation and vesting rules in effect on the date of the enactment of this Act \[Sept. 2, 1974\] are not less favorable to the employees, in the aggregate than the rules provided under sections 410 and 411 of the Internal Revenue Code of 1986.
 
->             “(D) __Supplementary or special plan provisions.—__ 
+>             “(D)  __Supplementary or special plan provisions__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘supplementary or special plan provision’ means any plan provision which—
 
@@ -475,15 +475,15 @@
 
 >         “(2) __Application of funding rules.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
 
->             “(B) __Waiver of underfunding.—__ 
+>             “(B)  __Waiver of underfunding__  __.—__ 
 
 >             In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, if by reason of subparagraph (A) the requirements of section 401(a)(7) of the Internal Revenue Code of 1986 apply without regard to the amendment of such section 401(a)(7) by section 1016(a)(2)(C) of this Act \[[Pub. L. 93–406][/us/pl/93/406]\], the plan shall not be treated as not meeting such requirements solely by reason of the application of the amendments made by sections 1011 and 1012 of this Act \[enacting this section and [section 411 of this title][/us/usc/t26/s411]\] or related amendments made by this part.
 
->             “(C) __Labor organization conventions.—__ 
+>             “(C)  __Labor organization conventions__  __.—__ 
 
 >             In the case of a plan maintained by a labor organization, which is exempt from tax under section 501(c)(5) of the Internal Revenue Code of 1986 exclusively for the benefit of its employees and their beneficiaries, section 412 of such Code and other amendments made by this part to the extent such amendments relate to such section 412, shall be applied by substituting for the term ‘December 31, 1975’ in subsection (b), the earlier of—
 
@@ -493,17 +493,17 @@
 
 >                   but in no event shall a date earlier than the later of December 31, 1975, or the date determined under subparagraph (A) or (B) be substituted.
 
->     “(d) __Existing Plans May Elect New Provisions.—__ 
+>     “(d)  __Existing Plans May Elect New Provisions__  __.—__ 
 
 >     In the case of a plan in existence on January 1, 1974, the provisions of the Internal Revenue Code of 1986 relating to participation, vesting, funding, and form of benefit (as in effect from time to time) shall apply in the case of the plan year (which begins after the date of the enactment of this Act \[Sept. 2, 1974\] but before the applicable effective date determined under subsection (b) or (c)) selected by the plan administrator and to all subsequent plan years, if the plan administrator elects (in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe) to have such provisions so apply. Any election made under this subsection, once made, shall be irrevocable.
 
->     “(e) __Certain Definitions and Special Rules.—__ 
+>     “(e)  __Certain Definitions and Special Rules__  __.—__ 
 
 >     Section 414 of the Internal Revenue Code of 1986 (other than subsections (b) and (c) of such section 414), as added by section 1015(a) of this Act \[[Pub. L. 93–406][/us/pl/93/406]\], shall take effect on the date of the enactment of this Act \[Sept. 2, 1974\].
 
 >     “(f) __Transitional Rules With Respect to Breaks in Service.—__ 
 
->         “(1) __Participation.—__ 
+>         “(1)  __Participation__  __.—__ 
 
 >         In the case of a plan to which section 410 of the Internal Revenue Code of 1986 \[this section\] applies, if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 410 first becomes effective with respect to such plan) provides that any employee’s participation in the plan would commence at any date later than the later of—
 
@@ -513,7 +513,7 @@
 
 >              such plan shall not constitute a plan described in section 403(a) or 405(a) of such Code and a trust forming a part of such plan shall not constitute a qualified trust under section 401(a) of such Code.
 
->         “(2) __Vesting.—__ 
+>         “(2)  __Vesting__  __.—__ 
 
 >         In the case of a plan to which section 411 of the Internal Revenue Code of 1986 applies, if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 411 first becomes effective with respect to such plan) provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
@@ -523,7 +523,7 @@
 
 >              such plan shall not constitute a plan described in section 403(a) or 405(a) of such Code and a trust forming a part of such plan shall not constitute a qualified trust under section 401(a) of such Code. Subparagraph (B) shall not apply if the break in service rules under the plan would have been in violation of any law or rule of law in effect on January 1, 1974.
 
->     “(g) __3-Year Delay for Certain Provisions.—__ 
+>     “(g) __3-__  __Year Delay for Certain Provisions__  __.—__ 
 
 >     Subparagraphs (B) and (C) of section 404(a)(1) shall apply only in the case of plan years beginning on or after 3 years after the date of the enactment of this Act \[Sept. 2, 1974\].
 
@@ -543,9 +543,9 @@
 
 >                 “(ii) The provisions of subsection (b)(5) (other than the second sentence thereof) of such section 413 shall not apply to plan years beginning before the applicable effective date of section 412 of such Code.
 
->     “(i) __Contributions to H.__ 
+>     “(i)  __Contributions to H.R__  __. 10__  __Plans__  __.—__ 
 
->     R. 10 Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending [section 404(a)(6) of this title][/us/usc/t26/s404/a/6]\] shall apply, with respect to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
+>     Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending [section 404(a)(6) of this title][/us/usc/t26/s404/a/6]\] shall apply, with respect to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
 
  __Regulations__ 
 

@@ -139,19 +139,19 @@
 
 [Pub. L. 99–514, title VIII, § 824(c)][/us/pl/99/514/s824/c], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], as amended by [Pub. L. 100–647, title I, § 1008(j)(2)][/us/pl/100/647/s1008/j/2], Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 362 of this title][/us/usc/t26/s362]\] shall apply to amounts received after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Treatment of certain water supply projects.—__ 
+>     “(2)  __Treatment of certain water supply projects__  __.—__ 
 
 >     The amendments made by this section shall not apply to amounts which are paid by the New Jersey Department of Environmental Protection for construction of alternative water supply projects in zones of drinking water contamination and which are designated by such department as being taken into account under this paragraph. Not more than $4,631,000 of such amounts may be designated under the preceding sentence.
 
->     “(3) __Treatment of certain contributions by transportation authority.—__ 
+>     “(3)  __Treatment of certain contributions by transportation authority__  __.—__ 
 
 >     The amendments made by this section shall not apply to contributions in aid of construction by a qualified transportation authority which were clearly identified in a master plan in existence on September 13, 1984, and which are designated by such authority as being taken into account under this paragraph. Not more than $68,000,000 of such contributions may be designated under the preceding sentence. For purposes of this paragraph, a qualified transportation authority is an entity which was created on February 20, 1967, and which was established by an interstate compact and consented to by Congress in [Public Law 89–774][/us/pl/89/774], [80 Stat. 1324][/us/stat/80/1324] (1966).
 
->     “(4) __Treatment of certain partnerships.—__ 
+>     “(4)  __Treatment of certain partnerships__  __.—__ 
 
 >     In the case of a partnership with a taxable year beginning May 1, 1986, if such partnership realized net capital gain during the period beginning on the 1st day of such taxable year and ending on May 29, 1986, pursuant to an underwriting agreement dated May 6, 1986, then such partnership may elect to treat each asset to which such net capital gain relates as having been distributed to the partners of such partnership in proportion to their distributive share of the capital gain or loss realized by the partnership with respect to such asset and to treat each such asset as having been sold by each partner on the date of the sale of the asset by the partnership. If such an election is made, the consideration received by the partnership in connection with the sale of such assets shall be treated as having been received by the partners in connection with the deemed sale of such assets. In the case of a tiered partnership, for purposes of this paragraph each partnership shall be treated as having realized net capital gain equal to its proportionate share of the net capital gain of each partnership in which it is a partner, and the election provided by this paragraph shall apply to each tier.”
 

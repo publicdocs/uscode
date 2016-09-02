@@ -135,7 +135,7 @@
 
 [Pub. L. 106–21, § 1][/us/pl/106/21/s1], Apr. 19, 1999, [113 Stat. 34][/us/stat/113/34], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of the following provisions of the Internal Revenue Code of 1986, a qualified hazardous duty area shall be treated in the same manner as if it were a combat zone (as determined under section 112 of such Code):
 
@@ -155,21 +155,21 @@
 
 >         “(8) Section 7508 (relating to time for performing certain acts postponed by reason of service in combat zone).
 
->     “(b) __Qualified Hazardous Duty Area.—__ 
+>     “(b)  __Qualified Hazardous Duty Area__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified hazardous duty area’ means any area of the Federal Republic of Yugoslavia (Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under [section 310 of title 37][/us/usc/t37/s310], United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
 
->     “(c) __Special Rule for Section 7508.—__ 
+>     “(c)  __Special Rule for Section__  __7508.—__ 
 
 >     Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Allied Force outside the United States while deployed away from such individual’s permanent duty station, the term ‘qualified hazardous duty area’ includes, during the period for which the entitlement referred to in subsection (b) is in effect, any area in which such services are performed.
 
 >     “(d) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section shall take effect on March 24, 1999.
 
->         “(2) __Withholding.—__ 
+>         “(2)  __Withholding__  __.—__ 
 
 >         Subsection (a)(5) shall apply to remuneration paid after the date of the enactment of this Act \[Apr. 19, 1999\].”
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 104–117, § 1][/us/pl/104/117/s1], Mar. 20, 1996, [110 Stat. 827][/us/stat/110/827], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of the following provisions of the Internal Revenue Code of 1986, a qualified hazardous duty area shall be treated in the same manner as if it were a combat zone (as determined under section 112 of such Code):
 
@@ -197,31 +197,31 @@
 
 >         “(8) Section 7508 (relating to time for performing certain acts postponed by reason of service in combat zone).
 
->     “(b) __Qualified Hazardous Duty Area.—__ 
+>     “(b)  __Qualified Hazardous Duty Area__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified hazardous duty area’ means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under [section 310 of title 37][/us/usc/t37/s310], United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual’s permanent duty station, the term ‘qualified hazardous duty area’ includes, during the period for which such entitlement is in effect, any area in which such services are performed.
 
->     “(c) __Exclusion of Combat Pay From Withholding Limited to Amount Excludable From Gross Income.—__ 
+>     “(c)  __Exclusion of Combat Pay From Withholding Limited to Amount Excludable From Gross Income__  __.—__ 
 
 >     \[Amended [section 3401 of this title][/us/usc/t26/s3401].\]
 
 >     “(d) __Increase in Combat Pay Exclusion for Officers to Highest Amount Applicable to Enlisted Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended this section.\]
 
->         “(2) __Maximum enlisted amount.—__ 
+>         “(2)  __Maximum enlisted amount__  __.—__ 
 
 >         \[Amended this section.\]
 
 >     “(e) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the provisions of and amendments made by this section shall take effect on November 21, 1995.
 
->         “(2) __Withholding.—__ 
+>         “(2)  __Withholding__  __.—__ 
 
 >         Subsection (a)(5) and the amendment made by subsection (c) shall apply to remuneration paid after the date of the enactment of this Act \[Mar. 20, 1996\].”
 

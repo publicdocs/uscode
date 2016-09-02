@@ -51,17 +51,17 @@
 
 [Pub. L. 100–203, title X, § 10512(h)][/us/pl/100/203/s10512/h], Dec. 22, 1987, [101 Stat. 1330–450][/us/stat/101/1330-450], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting sections 5081, 5276, and 5731 of this title and amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title\] shall take effect on January 1, 1988.
 
 >     “(2) __All taxpayers treated as commencing in business on__  __january 1, 1988__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Any person engaged on January 1, 1988, in any trade or business which is subject to an occupational tax shall be treated for purposes of such tax as having 1st engaged in such trade or business on such date.
 
->         “(B) __Limitation on amount of tax.—__ 
+>         “(B)  __Limitation on amount of tax__  __.—__ 
 
 >         In the case of a taxpayer who paid an occupational tax in respect of any premises for any taxable period which began before January 1, 1988, and includes such date, the amount of the occupational tax imposed by reason of subparagraph (A) in respect of such premises shall not exceed an amount equal to ½ the excess (if any) of—
 
@@ -69,11 +69,11 @@
 
 >             “(ii) the rate of such tax as in effect on December 31, 1987.
 
->         “(C) __Occupational tax.—__ 
+>         “(C)  __Occupational tax__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘occupational tax’ means any tax imposed under part II of subchapter A of chapter 51, section 5276, section 5731, or section 5801 of the Internal Revenue Code of 1986 (as amended by this section).
 
->         “(D) __Due date of tax.—__ 
+>         “(D)  __Due date of tax__  __.—__ 
 
 >         The amount of any tax required to be paid by reason of this paragraph shall be due on April 1, 1988.”
 

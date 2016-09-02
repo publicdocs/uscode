@@ -167,15 +167,15 @@
 
 [Pub. L. 100–203, title X, § 10104(a)][/us/pl/100/203/s10104/a], Dec. 22, 1987, [101 Stat. 1330–386][/us/stat/101/1330-386], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Section 67(c) of the Internal Revenue Code of 1986 to the extent it relates to indirect deductions through a publicly offered regulated investment company shall apply only to taxable years beginning after December 31, 1987.
 
->     “(2) __Publicly offered regulated investment com­pany defined.—__ 
+>     “(2)  __Publicly offered regulated investment com­pany defined__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘publicly offered regulated investment company’ means a regulated investment company the shares of which are—
 
@@ -185,7 +185,7 @@
 
 >             “(iii) held by or for no fewer than 500 persons at all times during the taxable year.
 
->         “(B) __Secretary may reduce 500 person requirement.—__ 
+>         “(B)  __Secretary may reduce 500 person requirement__  __.—__ 
 
 >         The Secretary of the Treasury or his delegate may by regulation decrease the minimum shareholder requirement of subparagraph (A)(iii) in the case of regulated investment companies which experience a loss of shareholders through net redemptions of their shares.”
 

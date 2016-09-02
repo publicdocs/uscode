@@ -115,11 +115,11 @@
 
 [Pub. L. 105–206, title III, § 3304(d)][/us/pl/105/206/s3304/d], July 22, 1998, [112 Stat. 742][/us/stat/112/742], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to deposits required to be made after the 180th day after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Application to current liabilities.—__ 
+>     “(2)  __Application to current liabilities__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to deposits required to be made after December 31, 2001.”
 

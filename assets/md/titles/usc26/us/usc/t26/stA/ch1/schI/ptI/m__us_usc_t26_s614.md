@@ -189,7 +189,7 @@
 
 > “For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]—
 
->     “(1) __Fair market value rule.—__ 
+>     “(1)  __Fair market value rule__  __.—__ 
 
 >     Except as provided in paragraph (2), if a taxpayer has a section 614(b) aggregation, then the adjusted basis (as of the first day of the first taxable year beginning after December 31, 1963) of each property included in such aggregation shall be determined by multiplying the adjusted basis of the aggregation by a fraction—
 
@@ -199,19 +199,19 @@
 
 >         For purposes of this paragraph, the adjusted basis and the fair market value of the aggregation, and the fair market value of each property included therein, shall be determined as of the day preceding the first day of the first taxable year which begins after December 31, 1963.
 
->     “(2) __Allocation of adjustments, etc.—__ 
+>     “(2)  __Allocation of adjustments, etc__  __.—__ 
 
 >     If the taxpayer makes an election under this paragraph with respect to any section 614(b) aggregation, then the adjusted basis (as of the first day of the first taxable year beginning December 31, 1963) of each property included in such aggregation shall be the adjusted basis of such property at the time it was first included in the aggregation by the taxpayer, adjusted for that portion of those adjustments to the basis of the aggregation which are reasonably attributable to such property. If, under the preceding sentence, the total of the adjusted bases of the interests included in the aggregation exceeds the adjusted basis of the aggregation (as of the day preceding the first day of the first taxable year which begins after December 31, 1963), the adjusted bases of the properties which include such interests shall be adjusted, under regulations prescribed by the Secretary of the Treasury or his delegate, so that the total of the adjusted bases of such interests equals the adjusted basis of the aggregation. An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Section 614(b) aggregation.—__ 
+>         “(A)  __Section__  __614(b) aggregation.—__ 
 
 >         The term ‘section 614(b) aggregation’ means any aggregation to which section 614(b)(1)(A) of the Internal Revenue Code of 1986 (as in effect before the amendments made by subsection (a) of this section) applied for the day preceding the first day of the first taxable year beginning after December 31, 1963.
 
->         “(B) __Property.—__ 
+>         “(B)  __Property__  __.—__ 
 
 >         The term ‘property’ has the same meaning as is applicable, under section 614 of the Internal Revenue Code of 1986, to the taxpayer for the first taxable year beginning after December 31, 1963.”
 

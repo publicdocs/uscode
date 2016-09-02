@@ -153,11 +153,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 145(d)][/us/pl/98/369/s145/d], July 18, 1984, [98 Stat. 685][/us/stat/98/685], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1811(a)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2832, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
 
->     “(2) __Special rule for obligations in existence on__  __december 31, 1984__  __.—__ 
+>     “(2)  __Special rule for obligations in existence on __  __december 31, 1984__  __.—__ 
 
 >     In the case of any obligation in existence on December 31, 1984, no penalty shall be imposed under section 6676 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by reason of the amendments made by this section on any failure to supply a taxpayer identification number with respect to amounts received before January 1, 1986.”
 

@@ -107,11 +107,11 @@
 
 [Pub. L. 101–239, title VII, § 7401(d)][/us/pl/101/239/s7401/d], Dec. 19, 1989, [103 Stat. 2357][/us/stat/103/2357], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 563 of this title][/us/usc/t26/s563]\] shall apply to taxable years of foreign corporations beginning after July 10, 1989.
 
->     “(2) __Special rules.—__ 
+>     “(2)  __Special rules__  __.—__ 
 
 >     If any foreign corporation is required by the amendments made by this section to change its taxable year for its first taxable year beginning after July 10, 1989—
 

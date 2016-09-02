@@ -149,21 +149,21 @@
 
 [Pub. L. 107–16, title VI, § 659(c)][/us/pl/107/16/s659/c], June 7, 2001, [115 Stat. 141][/us/stat/115/141], as amended by [Pub. L. 107–147, title IV, § 411(u)(3)][/us/pl/107/147/s411/u/3], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 1054 of Title 29][/us/usc/t29/s1054], Labor\] shall apply to plan amendments taking effect on or after the date of the enactment of this Act \[June 7, 2001\].
 
->     “(2) __Transition.—__ 
+>     “(2)  __Transition__  __.—__ 
 
 >     Until such time as the Secretary of the Treasury issues regulations under sections 4980F(e)(2) and (3) of the Internal Revenue Code of 1986, and section 204(h) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1054(h)][/us/usc/t29/s1054/h]\], as added by the amendments made by this section, a plan shall be treated as meeting the requirements of such sections if it makes a good faith effort to comply with such requirements.
 
 >     “(3) __Special notice rule.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The period for providing any notice required by the amendments made by this section shall not end before the date which is 3 months after the date of the enactment of this Act.
 
->         “(B) __Reasonable notice.—__ 
+>         “(B)  __Reasonable notice__  __.—__ 
 
 >         The amendments made by this section shall not apply to any plan amendment taking effect on or after the date of the enactment of this Act if, before April 25, 2001, notice was provided to participants and beneficiaries adversely affected by the plan amendment (and their representatives) which was reasonably expected to notify them of the nature and effective date of the plan amendment.”
 

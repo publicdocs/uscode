@@ -183,15 +183,15 @@
 
 [Pub. L. 104–188, title I, § 1901(d)][/us/pl/104/188/s1901/d], Aug. 20, 1996, [110 Stat. 1908][/us/stat/110/1908], provided that:
 
->     “(1) __Reportable events.—__ 
+>     “(1)  __Reportable events__  __.—__ 
 
 >     To the extent related to subsection (a) of section 6048 of the Internal Revenue Code of 1986, as amended by this section, the amendments made by this section \[amending this section and sections 6677 and 6724 of this title\] shall apply to reportable events (as defined in such section 6048) occurring after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Grantor trust reporting.—__ 
+>     “(2)  __Grantor trust reporting__  __.—__ 
 
 >     To the extent related to subsection (b) of such section 6048, the amendments made by this section shall apply to taxable years of United States persons beginning after December 31, 1995.
 
->     “(3) __Reporting by united states beneficiaries.—__ 
+>     “(3)  __Reporting by united states beneficiaries__  __.—__ 
 
 >     To the extent related to subsection (c) of such section 6048, the amendments made by this section shall apply to distributions received after the date of the enactment of this Act.”
 

@@ -171,21 +171,21 @@
 
 [Pub. L. 99–514, title XII, § 1212(f)][/us/pl/99/514/s1212/f], Oct. 22, 1986, [100 Stat. 2539][/us/stat/100/2539], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 887 of this title][/us/usc/t26/s887] and amending this section and sections 861, 872, and 883 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special rule for certain leased property.—__ 
+>     “(2)  __Special rule for certain leased property__  __.—__ 
 
 >     The amendments made by subsections (a) and (d) \[amending this section and [section 861 of this title][/us/usc/t26/s861]\] shall not apply to any income attributable to property held by the taxpayer on January 1, 1986, if such property was first leased by the taxpayer before January 1, 1986, in a lease to which section 863(c)(2)(B) or 861(e) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) applied.
 
 >     “(3) __Special rule for certain ships leased by the united states navy.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any property described in subparagraph (B), paragraph (2) shall be applied by substituting ‘1987’ for ‘1986’ each place it appears.
 
->         “(B) __Property to which paragraph applies.—__ 
+>         “(B)  __Property to which paragraph applies__  __.—__ 
 
 >         Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
 

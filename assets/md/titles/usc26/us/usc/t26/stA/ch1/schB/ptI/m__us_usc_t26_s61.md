@@ -73,7 +73,7 @@
 
 [Pub. L. 95–427, § 1][/us/pl/95/427/s1], Oct. 7, 1978, [92 Stat. 996][/us/stat/92/996], as amended by [Pub. L. 96–167, § 1][/us/pl/96/167/s1], Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 97–34, title VIII, § 801][/us/pl/97/34/s801], Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No fringe benefit regulation shall be issued—
 
@@ -81,7 +81,7 @@
 
 >         “(2) in proposed or final form on or after May 1, 1978, if such regulation has an effective date on or before December 31, 1983.
 
->     “(b) __Definition of Fringe Benefit Regulation.—__ 
+>     “(b)  __Definition of Fringe Benefit Regulation__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘fringe benefit regulation’ means a regulation providing for the inclusion of any fringe benefit in gross income by reason of section 61 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
@@ -91,11 +91,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1026][/us/pl/98/369/s1026], July 18, 1984, [98 Stat. 1031][/us/stat/98/1031], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of any transfer of property subject to gift tax made before March 4, 1981, for purposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, [26 U.S.C. 1][/us/usc/t26/s1] et seq.\], gross income of the donor shall not include any amount attributable to the donee’s payment of (or agreement to pay) any gift tax imposed with respect to such gift.
 
->     “(b) __Gift Tax Defined.—__ 
+>     “(b)  __Gift Tax Defined__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘gift tax’ means—
 
@@ -103,7 +103,7 @@
 
 >         “(2) any tax imposed by a State (or the District of Columbia) on transfers by gifts.
 
->     “(c) __Statute of Limitations.—__ 
+>     “(c)  __Statute of Limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from subsection (a) is prevented on the date of the enactment of this Act \[July 18, 1984\] (or at any time within 1 year after such date) by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to subsection (a)) may nevertheless be made or allowed if claim therefor is filed within 1 year after the date of the enactment of this Act.”
 
@@ -117,7 +117,7 @@
 
 > “SEC. 2. __INCOME TAX TREATMENT OF AGRICULTURAL COMMODITIES RECEIVED UNDER A 1983 PAYMENT-IN-KIND PROGRAM.__ 
 
->     “(a) __Income Tax Deferral, Etc.—__ 
+>     “(a)  __Income Tax Deferral, Etc__  __.—__ 
 
 >     Except as otherwise provided in this Act, for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]—
 
@@ -127,13 +127,13 @@
 
 >         “(3) the unadjusted basis of such commodity in the hands of such taxpayer shall be zero.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall apply to taxable years ending after December 31, 1982, but only with respect to commodities received for the 1983 crop year.
 
 > “SEC. 3. __LAND DIVERTED UNDER 1983 PAYMENT-IN-KIND PROGRAM TREATED AS USED IN FARMING BUSINESS, ETC.__ 
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of the provisions specified in subsection (b), in the case of any land diverted from the production of an agricultural commodity under a 1983 payment-in-kind program—
 
@@ -141,7 +141,7 @@
 
 >         “(2) any qualified taxpayer who materially participates in the diversion and devotion to conservation uses required under a 1983 payment-in-kind program shall be treated as materially participating in the operation of such land during such crop year.
 
->     “(b) __Provisions to Which Subsection (a) Applies.—__ 
+>     “(b)  __Provisions to Which Subsection__  __(a)__  __Applies__  __.—__ 
 
 >     The provisions specified in this subsection are—
 
@@ -155,11 +155,11 @@
 
 > “SEC. 4. __ANTIABUSE RULES.__ 
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     In the case of any person, sections 2 and 3 of this Act shall not apply with respect to any land acquired by such person after February 23, 1983, unless such land was acquired in a qualified acquisition.
 
->     “(b) __Qualified Acquisition.—__ 
+>     “(b)  __Qualified Acquisition__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified acquisition’ means any acquisition—
 
@@ -169,11 +169,11 @@
 
 >         “(3) from a qualified transferor who is a member of the family of the person acquiring the land.
 
->     “(c) __Definitions and Special Rules.—__ 
+>     “(c)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Qualified transferor.—__ 
+>         “(1)  __Qualified transferor__  __.—__ 
 
 >         The term ‘qualified transferor’ means any person—
 
@@ -181,21 +181,21 @@
 
 >             “(B) who acquired the land after February 23, 1983, in a qualified acquisition.
 
->         “(2) __Member of family.—__ 
+>         “(2)  __Member of family__  __.—__ 
 
 >         The term ‘member of the family’ has the meaning given such term by section 2032A(e)(2) of the Internal Revenue Code of 1986.
 
->         “(3) __Mere change in form of business.—__ 
+>         “(3)  __Mere change in form of business__  __.—__ 
 
 >         Subsection (a) shall not apply to any change in ownership by reason of a mere change in the form of conducting the trade or business so long as the land is retained in such trade or business and the person holding the land before such change retains a direct or indirect 80-percent interest in such land.
 
->         “(4) __Treatment of certain acquisitions of right to the crop.—__ 
+>         “(4)  __Treatment of certain acquisitions of right to the crop__  __.—__ 
 
 >         The acquisition of a direct or indirect interest in 80 percent or more of the crop from any land shall be treated as an acquisition of such land.
 
 > “SEC. 5. __DEFINITIONS AND SPECIAL RULES.__ 
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of this Act—
 
@@ -213,27 +213,27 @@
 
 >             “(B) which the Secretary of Agriculture certifies to the Secretary of the Treasury as being described in subparagraph (A).
 
->         “(2) __Crop year.—__ 
+>         “(2)  __Crop year__  __.—__ 
 
 >         The term ‘1983 crop year’ means the crop year for any crop the planting or harvesting period for which occurs during 1983. The term ‘1984 crop year’ means the crop year for wheat the planting and harvesting period for which occurs during 1984.
 
->         “(3) __Qualified taxpayer.—__ 
+>         “(3)  __Qualified taxpayer__  __.—__ 
 
 >         The term ‘qualified taxpayer’ means any producer of agricultural commodities (within the meaning of the 1983 payment-in-kind programs) who receives any agricultural commodity in return for meeting the requirements of clauses (i) and (ii) of paragraph (1)(A).
 
->         “(4) __Receipt includes right to receive, etc.—__ 
+>         “(4)  __Receipt includes right to receive, etc__  __.—__ 
 
 >         A right to receive (or other constructive receipt of) a commodity shall be treated the same as actual receipt of such commodity.
 
->         “(5) __Amounts received by the taxpayer as reimbursement for storage.—__ 
+>         “(5)  __Amounts received by the taxpayer as reimbursement for storage__  __.—__ 
 
 >         A qualified taxpayer reporting on the cash receipts and disbursements method of accounting shall not be treated as being entitled to receive any amount as reimbursement for storage of commodities received under a 1983 payment-in-kind program until such amount is actually received by the taxpayer.
 
->         “(6) __Commodity credit loans treated separately.—__ 
+>         “(6)  __Commodity credit loans treated separately__  __.—__ 
 
 >         Subsection (a) of section 2 shall apply to the receipt of any commodity under a 1983 payment-in-kind program separately from, and without taking into account, any related transaction or series of transactions involving the satisfaction of loans from the Commodity Credit Corporation.
 
->     “(b) __Extension to Wheat Planted and Harvested in 1984.—__ 
+>     “(b)  __Extension to Wheat Planted and Harvested in__  __1984.—__ 
 
 >     In the case of wheat—
 
@@ -241,7 +241,7 @@
 
 >         “(2) any reference to the 1983 payment-in-kind program shall include a reference to any program for the 1984 year for wheat which meets the requirements of subparagraphs (A) and (B) of subsection (a)(1).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate (after consultation with the Secretary of Agriculture) shall prescribe such regulations as may be necessary to carry out the purposes of this Act, including (but not limited to) such regulations as may be necessary to carry out the purposes of this Act where the commodity is received by a cooperative on behalf of the qualified taxpayer.”
 
@@ -259,7 +259,7 @@
 
 [Pub. L. 94–455, title XXI, § 2119][/us/pl/94/455/s2119], Oct. 4, 1976, [90 Stat. 1912][/us/stat/90/1912], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     With respect to taxable years beginning on or before the date on which regulations dealing with prepublication expenditures are issued after the date of the enactment of this Act \[Oct. 4, 1976\], the application of sections 61 (as it relates to cost of goods sold), 162, 174, 263, and 471 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to any prepublication expenditure shall be administered—
 
@@ -267,11 +267,11 @@
 
 >         “(2) in the manner in which such sections were applied consistently by the taxpayer to such expenditures before the date of the issuance of such revenue ruling.
 
->     “(b) __Regulations To Be Prospective Only.—__ 
+>     “(b)  __Regulations To Be Prospective Only__  __.—__ 
 
 >     Any regulations issued after the date of the enactment of this Act \[Oct. 4, 1976\] which deal with the application of sections 61 (as it relates to cost of goods sold), 162, 174, 263, and 471 of the Internal Revenue Code of 1986 to prepublication expenditures shall apply only with respect to taxable years beginning after the date on which such regulations are issued.
 
->     “(c) __Prepublication Expenditures Defined.—__ 
+>     “(c)  __Prepublication Expenditures Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘prepublication expenditures’ means expenditures paid or incurred by the taxpayer (in connection with his trade or business of publishing) for the writing, editing, compiling, illustrating, designing, or other development or improvement of a book, teaching aid, or similar product.”
 

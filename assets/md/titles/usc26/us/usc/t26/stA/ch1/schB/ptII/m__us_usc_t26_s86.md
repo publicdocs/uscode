@@ -295,11 +295,11 @@
 
 [Pub. L. 98–21, title I, § 121(g)][/us/pl/98/21/s121/g], Apr. 20, 1983, [97 Stat. 84][/us/stat/97/84], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and [section 6050F of this title][/us/usc/t26/s6050F], amending sections 85, 128, 861, 871, 1441, and 6103 of this title and [section 3413 of Title 12][/us/usc/t12/s3413], Banks and Banking, and enacting provisions set out as a note under [section 401 of Title 42][/us/usc/t42/s401], The Public Health and Welfare\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.
 
->     “(2) __Treatment of certain lump-sum payments received after__  __december 31, 1983__  __.—__ 
+>     “(2)  __Treatment of certain lump-sum payments received after __  __december 31, 1983__  __.—__ 
 
 >     The amendments made by this section shall not apply to any portion of a lump-sum payment of social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.”
 

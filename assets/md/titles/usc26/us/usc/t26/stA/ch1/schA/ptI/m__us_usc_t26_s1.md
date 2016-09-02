@@ -1463,11 +1463,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 112–240, title I, § 102(d)][/us/pl/112/240/s102/d], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by subsections (b) and (c) \[amending this section, sections 55, 531, 541, 1445, and 7518 of this title, and [section 53511 of Title 46][/us/usc/t46/s53511], Shipping\] shall apply to taxable years beginning after December 31, 2012.
 
->     “(2) __Withholding.—__ 
+>     “(2)  __Withholding__  __.—__ 
 
 >     The amendments made by paragraphs (1)(C) and (3) of subsection (c) \[amending [section 1445 of this title][/us/usc/t26/s1445]\] shall apply to amounts paid on or after January 1, 2013.”
 
@@ -1497,11 +1497,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 108–357, title IV, § 413(d)][/us/pl/108/357/s413/d], Oct. 22, 2004, [118 Stat. 1510][/us/stat/118/1510], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 170, 171, 245, 312, 443, 465, 508, 542, 543, 562, 563, 751, 864, 898, 904, 951, 954, 989, 1014, 1016, 1212, 1223, 1248, 1260, 1291, 1294, 4947, 4948, 6103, 6501, and 6679 of this title and repealing sections 551 to 558, 1246, 1247, and 6035 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
->     “(2) __Subsection (c)(27).—__ 
+>     “(2)  __Subsection (c)(27)__  __.—__ 
 
 >     The amendments made by subsection (c)(27) \[amending [section 6103 of this title][/us/usc/t26/s6103]\] shall apply to disclosures of return or return information with respect to taxable years beginning after December 31, 2004.”
 
@@ -1525,11 +1525,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 108–27, title I, § 104(c)][/us/pl/108/27/s104/c], May 28, 2003, [117 Stat. 755][/us/stat/117/755], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.
 
->     “(2) __Tables for 2003.—__ 
+>     “(2)  __Tables for 2003__  __.—__ 
 
 >     The Secretary of the Treasury shall modify each table which has been prescribed under section 1(f) of the Internal Revenue Code of 1986 for taxable years beginning in 2003 and which relates to the amendment made by subsection (a) to reflect such amendment.”
 
@@ -1543,25 +1543,25 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 108–27, title III, § 301(d)][/us/pl/108/27/s301/d], May 28, 2003, [117 Stat. 760][/us/stat/117/760], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided by this subsection, the amendments made by this section \[amending this section, sections 55, 57, 1445, and 7518 of this title, and [section 1177 of Title 46][/us/usc/t46/s1177], Appendix, Shipping\] shall apply to taxable years ending on or after May 6, 2003.
 
->     “(2) __Withholding.—__ 
+>     “(2)  __Withholding__  __.—__ 
 
 >     The amendment made by subsection (a)(2)(C) \[amending [section 1445 of this title][/us/usc/t26/s1445]\] shall apply to amounts paid after the date of the enactment of this Act \[May 28, 2003\].
 
->     “(3) __Small business stock.—__ 
+>     “(3)  __Small business stock__  __.—__ 
 
 >     The amendments made by subsection (b)(3) \[amending [section 57 of this title][/us/usc/t26/s57]\] shall apply to dispositions on or after May 6, 2003.”
 
 [Pub. L. 108–27, title III, § 302(f)][/us/pl/108/27/s302/f], May 28, 2003, [117 Stat. 764][/us/stat/117/764], as amended by [Pub. L. 108–311, title IV, § 402(a)(6)][/us/pl/108/311/s402/a/6], Oct. 4, 2004, [118 Stat. 1185][/us/stat/118/1185], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163, 301, 306, 338, 467, 531, 541, 584, 702, 854, 857, 1255, and 1257 of this title and repealing [section 341 of this title][/us/usc/t26/s341]\] shall apply to taxable years beginning after December 31, 2002.
 
->     “(2) __Pass-thru entities.—__ 
+>     “(2)  __Pass-thru entities__  __.—__ 
 
 >     In the case of a pass-thru entity described in subparagraph (A), (B), (C), (D), (E), or (F) of section 1(h)(10) of the Internal Revenue Code of 1986, as amended by this Act, the amendments made by this section shall apply to taxable years ending after December 31, 2002; except that dividends received by such an entity on or before such date shall not be treated as qualified dividend income (as defined in section 1(h)(11)(B) of such Code, as added by this Act).”
 
@@ -1583,11 +1583,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 107–16, title I, § 101(d)][/us/pl/107/16/s101/d], June 7, 2001, [115 Stat. 44][/us/stat/115/44], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 6428 of this title][/us/usc/t26/s6428] and amending this section and sections 15, 531, 541, 3402, and 3406 of this title\] shall apply to taxable years beginning after December 31, 2000.
 
->     “(2) __Amendments to withholding provisions.—__ 
+>     “(2)  __Amendments to withholding provisions__  __.—__ 
 
 >     The amendments made by paragraphs (6), (7), (8), (9), (10), and (11) of subsection (c) \[amending sections 3402 and 3406 of this title\] shall apply to amounts paid after the 60th day after the date of the enactment of this Act \[June 7, 2001\]. References to income brackets and rates of tax in such paragraphs shall be applied without regard to \[former\] section 1(i)(1)(D) of the Internal Revenue Code of 1986.”
 
@@ -1621,11 +1621,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 105–206, title V, § 5001(b)][/us/pl/105/206/s5001/b], July 22, 1998, [112 Stat. 788][/us/stat/112/788], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1223 and 1235 of this title\] shall apply to taxable years ending after December 31, 1997.
 
->     “(2) __Subsection (a)(5).—__ 
+>     “(2)  __Subsection (__  __a)(__  __5)__  __.—__ 
 
 >     The amendments made by subsection (a)(5) \[amending sections 1223 and 1235 of this title\] shall take effect on January 1, 1998.”
 
@@ -1637,11 +1637,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 105–34, title III, § 311(d)][/us/pl/105/34/s311/d], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 55, 57, 904, 1445, and 7518 of this title, and [section 1177 of Title 46][/us/usc/t46/s1177], Appendix, Shipping\] shall apply to taxable years ending after May 6, 1997.
 
->     “(2) __Withholding.—__ 
+>     “(2)  __Withholding__  __.—__ 
 
 >     The amendment made by subsection (c)(1) \[amending [section 1445 of this title][/us/usc/t26/s1445]\] shall apply only to amounts paid after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -1693,11 +1693,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 100–647, title I, § 1019][/us/pl/100/647/s1019], Nov. 10, 1988, [102 Stat. 3593][/us/stat/102/3593], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this title, any amendment made by this title \[see Tables for classification\], shall take effect as if included in the provision of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\] to which such amendment relates.
 
->     “(b) __Waiver of Estimated Tax Penalties.—__ 
+>     “(b)  __Waiver of Estimated Tax Penalties__  __.—__ 
 
 >     No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655 of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increased by any provision of this title or title II \[see Tables for classification\].”
 
@@ -1709,23 +1709,23 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 99–514, title I, § 151][/us/pl/99/514/s151], Oct. 22, 1986, [100 Stat. 2121][/us/stat/100/2121], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this title \[enacting [section 67 of this title][/us/usc/t26/s67], amending this section, sections 3, 5, 15, 21, 32, 62, 63, 74, 85, 86, 102, 108, 117, 129, 151, 152, 164, 170, 172, 183, 213, 265, 274, 280A, 402, 441, 443, 527, 541, 613A, 642, 667, 861, 862, 901, 904, 1398, 1441, 2032A, 3121, 3231, 3306, 3401, 3402, 3507, 4941, 4945, 6012 to 6014, 6212, 6504, 6511, and 7871 of this title, and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare, renumbering [section 223 of this title][/us/usc/t26/s223] as [section 220 of this title][/us/usc/t26/s220], repealing sections 24, 221, 222, and 1301 to 1305 of this title, and enacting provisions set out as a note under [section 32 of this title][/us/usc/t26/s32]\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(b) __Unemployment Compensation.—__ 
+>     “(b)  __Unemployment Compensation__  __.—__ 
 
 >     The amendment made by section 121 \[amending [section 85 of this title][/us/usc/t26/s85]\] shall apply to amounts received after December 31, 1986, in taxable years ending after such date.
 
->     “(c) __Prizes and Awards.—__ 
+>     “(c)  __Prizes and Awards__  __.—__ 
 
 >     The amendments made by section 122 \[amending sections 74, 102, 274, 3121, 3231, 3306, 3401, 4941, and 4945 of this title and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare\] shall apply to prizes and awards granted after December 31, 1986.
 
->     “(d) __Scholarships.—__ 
+>     “(d)  __Scholarships__  __.—__ 
 
 >     The amendments made by section 123 \[amending sections 74, 117, 1441, and 7871 of this title\] shall apply to taxable years beginning after December 31, 1986, but only in the case of scholarships and fellowships granted after August 16, 1986.
 
->     “(e) __Parsonage and Military Housing Allowances.—__ 
+>     “(e)  __Parsonage and Military Housing Allowances__  __.—__ 
 
 >     The amendment made by section 144 \[amending [section 265 of this title][/us/usc/t26/s265]\] shall apply to taxable years beginning before, on, or after, December 31, 1986.”
 
@@ -2601,7 +2601,7 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 111–5, § 3][/us/pl/111/5/s3], Feb. 17, 2009, [123 Stat. 115][/us/stat/123/115], provided that:
 
->     “(a) __Statement of Purposes.—__ 
+>     “(a)  __Statement of Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Tables for classification\] include the following:
 
@@ -2615,7 +2615,7 @@ The corresponding percentages shall be substituted for
 
 >         “(5) To stabilize State and local government budgets, in order to minimize and avoid reductions in essential services and counterproductive state and local tax increases.
 
->     “(b) __General Principles Concerning Use of Funds.—__ 
+>     “(b)  __General Principles Concerning Use of Funds__  __.—__ 
 
 >     The President and the heads of Federal departments and agencies shall manage and expend the funds made available in this Act so as to achieve the purposes specified in subsection (a), including commencing expenditures and activities as quickly as possible consistent with prudent management.”
 
@@ -2721,7 +2721,7 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 308\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–636, provided that:
 
->     “(a) __Determinations by OMB.—__ 
+>     “(a)  __Determinations by__  __OMB.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], the Director of the Office of Management and Budget shall determine with respect to each applicable Federal benefit program whether the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries under such program (as compared to payments that would have been made if the error had not occurred). As soon as practicable after the date of the enactment of this Act, but not later than 60 days after such date, the Director shall direct the head of the Federal agency which administers such program to make a payment or payments that, insofar as the Director finds practicable and feasible—
 
@@ -2729,47 +2729,47 @@ The corresponding percentages shall be substituted for
 
 >         “(2) compensate for the shortfall.
 
->     “(b) __Coordination with Federal Agencies.—__ 
+>     “(b)  __Coordination with Federal Agencies__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], each Federal agency that administers an applicable Federal benefit program shall, in accordance with such guidelines as are issued by the Director pursuant to this section, make an initial determination of whether, and the extent to which, the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries of an applicable Federal benefit program administered by such agency. Not later than 30 days after such date, the head of such agency shall submit a report to the Director and to each House of the Congress of such determination, together with a complete description of the nature of the shortfall.
 
->     “(c) __Implementation Pursuant to Agency Reports.—__ 
+>     “(c)  __Implementation Pursuant to Agency Reports__  __.—__ 
 
 >     Upon receipt of the report submitted by a Federal agency pursuant to subsection (b), the Director shall review the initial determination of the agency, the agency’s description of the nature of the shortfall, and the compensation payments proposed by the agency. Prior to directing payment of such payments pursuant to subsection (a), the Director shall make appropriate adjustments (if any) in the compensation payments proposed by the agency that the Director determines are necessary to comply with the requirements of subsection (a) and transmit to the agency a summary report of the review, indicating any adjustments made by the Director. The agency shall make the compensation payments as directed by the Director pursuant to subsection (a) in accordance with the Director’s summary report.
 
->     “(d) __Income Disregard Under Federal Means-Tested Benefit Programs.—__ 
+>     “(d)  __Income Disregard Under Federal Means-Tested Benefit Programs__  __.—__ 
 
 >     A payment made under this section to compensate for a shortfall in benefits shall, in accordance with guidelines issued by the Director pursuant to this section, be disregarded in determining income under title VIII of the Social Security Act \[[42 U.S.C. 1001][/us/usc/t42/s1001] et seq.\] or any applicable Federal benefit program that is means-tested.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     Funds otherwise available under each applicable Federal benefit program for making benefit payments under such program are hereby made available for making compensation payments under this section in connection with such program.
 
->     “(f) __No Judicial Review.—__ 
+>     “(f)  __No Judicial Review__  __.—__ 
 
 >     No action taken pursuant to this section shall be subject to judicial review.
 
->     “(g) __Director’s Report.—__ 
+>     “(g)  __Director’s Report__  __.—__ 
 
 >     Not later than April 1, 2001, the Director shall submit to each House of the Congress a report on the activities performed by the Director pursuant to this section.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Applicable federal benefit program.—__ 
+>         “(1)  __Applicable federal benefit program__  __.—__ 
 
 >         The term ‘applicable Federal benefit program’ means any program of the Government of the United States providing for regular or periodic payments or cash assistance paid directly to individual beneficiaries, as determined by the Director of the Office of Management and Budget.
 
->         “(2) __Federal agency.—__ 
+>         “(2)  __Federal agency__  __.—__ 
 
 >         The term ‘Federal agency’ means a department, agency, or instrumentality of the Government of the United States.
 
->         “(3) __CPI computation error for 1999.—__ 
+>         “(3) __CPI__  __computation error for__  __1999.—__ 
 
 >         The term ‘CPI computation error for 1999’ means the error in the computation of the Consumer Price Index announced by the Bureau of Labor Statistics on September 28, 2000.
 
->     “(i) __Tax Provisions.—__ 
+>     “(i)  __Tax Provisions__  __.—__ 
 
 >     In the case of taxable years (and other periods) beginning after December 31, 2000, if any Consumer Price Index (as defined in section 1(f)(5) of the Internal Revenue Code of 1986) reflects the CPI computation error for 1999—
 
@@ -2837,7 +2837,7 @@ The corresponding percentages shall be substituted for
 
 > “For purposes of the Internal Revenue Code of 1986—
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     A taxpayer other than a corporation may elect to treat—
 
@@ -2851,15 +2851,15 @@ The corresponding percentages shall be substituted for
 
 >         “(B) Any loss resulting from an election under paragraph (1) shall not be allowed for any taxable year.
 
->     “(3) __Election.—__ 
+>     “(3)  __Election__  __.—__ 
 
 >     An election under paragraph (1) shall be made in such manner as the Secretary of the Treasury or his delegate may prescribe and shall specify the assets for which such election is made. Such an election, once made with respect to any asset, shall be irrevocable. Such an election shall not apply to any asset which is disposed of (in a transaction in which gain or loss is recognized in whole or in part) before the close of the 1-year period beginning on the date that the asset would have been treated as sold under such election.
 
->     “(4) __Readily tradable stock.—__ 
+>     “(4)  __Readily tradable stock__  __.—__ 
 
 >     For purposes of this subsection, the term ‘readily tradable stock’ means any stock which, as of January 1, 2001, is readily tradable on an established securities market or otherwise.
 
->     “(5) __Disposition of interest in passive activity.—__ 
+>     “(5)  __Disposition of interest in passive activity__  __.—__ 
 
 >     Section 469(g)(1)(A) of the Internal Revenue Code of 1986 shall not apply by reason of an election made under paragraph (1).”
 
@@ -2873,11 +2873,11 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 103–66, title XIII, § 13201(d)][/us/pl/103/66/s13201/d], Aug. 10, 1993, [107 Stat. 459][/us/stat/107/459], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     At the election of the taxpayer, the additional 1993 taxes may be paid in 3 equal installments.
 
->     “(2) __Dates for paying installments.—__ 
+>     “(2)  __Dates for paying installments__  __.—__ 
 
 >     In the case of any tax payable in installments by reason of paragraph (1)—
 
@@ -2889,13 +2889,13 @@ The corresponding percentages shall be substituted for
 
 >         For purposes of the preceding sentence, the term ‘due date’ means the date prescribed for filing the taxpayer’s return determined without regard to extensions.
 
->     “(3) __Extension without interest.—__ 
+>     “(3)  __Extension without interest__  __.—__ 
 
 >     For purposes of section 6601 of the Internal Revenue Code of 1986, the date prescribed for the payment of any tax payable in installments under paragraph (1) shall be determined with regard to the extension under paragraph (1).
 
->     “(4) __Additional 1993 taxes.—__ 
+>     “(4)  __Additional__  __1993 taxes.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of this subsection, the term ‘additional 1993 taxes’ means the excess of—
 
@@ -2903,7 +2903,7 @@ The corresponding percentages shall be substituted for
 
 >             “(ii) the amount which would have been the taxpayer’s net chapter 1 liability for such taxable year if such liability had been determined using the rates which would have been in effect under section 1 of the Internal Revenue Code of 1986 for taxable years beginning in calendar year 1993 but for the amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] and section 13202 \[amending this section and sections 531 and 541 of this title\] and such liability had otherwise been determined on the basis of the amounts shown on the taxpayer’s return.
 
->         “(B) __Net chapter 1 liability.—__ 
+>         “(B)  __Net chapter 1 liability__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘net chapter 1 liability’ means the liability for tax under chapter 1 of the Internal Revenue Code of 1986 determined—
 
@@ -2911,15 +2911,15 @@ The corresponding percentages shall be substituted for
 
 >             “(ii) before crediting any payment of estimated tax for the taxable year.
 
->     “(5) __Acceleration of payments.—__ 
+>     “(5)  __Acceleration of payments__  __.—__ 
 
 >     If the taxpayer does not pay any installment under this section on or before the date prescribed for its payment or if the Secretary of the Treasury or his delegate believes that the collection of any amount payable in installments under this section is in jeopardy, the Secretary shall immediately terminate the extension under paragraph (1) and the whole of the unpaid tax shall be paid on notice and demand from the Secretary.
 
->     “(6) __Election on return.—__ 
+>     “(6)  __Election on return__  __.—__ 
 
 >     An election under paragraph (1) shall be made on the taxpayer’s return for the taxpayer’s taxable year beginning in calendar year 1993.
 
->     “(7) __Exception for estates and trusts.—__ 
+>     “(7)  __Exception for estates and trusts__  __.—__ 
 
 >     This subsection shall not apply in the case of an estate or trust.”
 
@@ -3003,7 +3003,9 @@ The corresponding percentages shall be substituted for
 
  __Inflation Adjusted Items for Certain Years__ 
 
-    Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 42, 55, 59, 63, 68, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 7430, and 7702B of this title for certain years were contained in the following:
+    Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 7430, and 7702B of this title for certain years were contained in the following:
+
+    2014—Revenue Procedure 2013–35.
 
     2013—Revenue Procedures 2012–41 and 2013–15.
 
@@ -3065,15 +3067,15 @@ The corresponding percentages shall be substituted for
 
 > “For purposes of this title \[amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and [section 401 of Title 42][/us/usc/t42/s401], and amending provisions set out as notes under sections 6601 and 7508A of this title\]—
 
->     “(1) __1986 code.—__ 
+>     “(1) __1986__  __code__  __.—__ 
 
 >     The term ‘1986 Code’ means the Internal Revenue Code of 1986.
 
->     “(2) __1998 act.—__ 
+>     “(2) __1998__  __act__  __.—__ 
 
 >     The term ‘1998 Act’ means the Internal Revenue Service Restructuring and Reform Act of 1998 ([Public Law 105–206][/us/pl/105/206]) \[see Tables for classification\].
 
->     “(3) __1997 act.—__ 
+>     “(3) __1997__  __act__  __.—__ 
 
 >     The term ‘1997 Act’ means the Taxpayer Relief Act of 1997 ([Public Law 105–34][/us/pl/105/34]) \[see Tables for classification\].”
 

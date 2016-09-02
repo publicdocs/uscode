@@ -103,11 +103,11 @@
 
 [Pub. L. 105–34, title XII, § 1243(b)][/us/pl/105/34/s1243/b], Aug. 5, 1997, [111 Stat. 1029][/us/stat/111/1029], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248]\].
 
->     “(2) __Treatment of requests filed before date of enactment.—__ 
+>     “(2)  __Treatment of requests filed before date of enactment__  __.—__ 
 
 >     In the case of that portion of any request (filed before the date of the enactment of this Act \[Aug. 5, 1997\]) for an administrative adjustment which relates to the deductibility of a debt as a debt which became worthless or the deductibility of a loss from the worthlessness of a security—
 

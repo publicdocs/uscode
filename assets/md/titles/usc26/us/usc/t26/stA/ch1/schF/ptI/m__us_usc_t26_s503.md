@@ -167,11 +167,11 @@
 
 [Pub. L. 85–866, title I, § 30(c)][/us/pl/85/866/s30/c], Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     Nothing in subsection (a) \[amending this section\] shall be construed to make any transaction a prohibited transaction which, under announcements of the Internal Revenue Service made with respect to section 503(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before the date of the enactment of this Act \[Sept. 2, 1958\], would not constitute a prohibited transaction. In the case of any bond, debenture, note, or certificate or other evidence of indebtedness acquired before the date of the enactment of this Act \[Sept. 2, 1958\], by a trust described in section 401(a) of such Code which is held on such date, paragraphs (2) and (3) of section 503(h) of such Code shall be treated as satisfied if such requirements would have been satisfied if such obligation had been acquired on such date of enactment \[Sept. 2, 1958\].”
 

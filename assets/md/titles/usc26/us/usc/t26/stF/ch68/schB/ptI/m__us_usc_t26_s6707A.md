@@ -105,9 +105,7 @@
 
     2010—Subsec. (b). [Pub. L. 111–240][/us/pl/111/240] amended subsec. (b) generally. Prior to amendment, subsec. (b) specified the amount of the penalty under subsec. (a), both in general and with respect to a listed transaction, in the case of a natural person or in any other case.
 
-    2007—Subsec. (e)(2)(C). [Pub. L. 110–172][/us/pl/110/172] substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.Effective Date of 2010 Amendment
-
-    [Pub. L. 111–240, title II, § 2041(b)][/us/pl/111/240/s2041/b], Sept. 27, 2010, [124 Stat. 2560][/us/stat/124/2560], provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
+    2007—Subsec. (e)(2)(C). [Pub. L. 110–172][/us/pl/110/172] substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -146,8 +144,6 @@
 [/us/stat/124/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2560
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/111/240/s2041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2041%2Fb
-[/us/stat/124/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2560
 [/us/pl/111/240/s2041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2041%2Fb
 [/us/stat/124/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2560
 [/us/pl/108/357/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs811%2Fc

@@ -289,11 +289,11 @@
 
 [Pub. L. 109–432, div. A, title II, § 202(b)][/us/pl/109/432/s202/b], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by paragraphs (1) and (3) of subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 2006.
 
->     “(2) __Allocations.—__ 
+>     “(2)  __Allocations__  __.—__ 
 
 >     The amendment made by subsection (a)(2) \[amending this section\] shall apply to allocations or reallocations after December 31, 2006.”
 
@@ -311,11 +311,11 @@
 
 [Pub. L. 109–58, title XIII, § 1303(e)][/us/pl/109/58/s1303/e], Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997], as amended by [Pub. L. 109–135, title IV, § 402(c)(2)][/us/pl/109/135/s402/c/2], Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 1397E, 6049, and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection (c)__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending sections 1397E and 6401 of this title\] shall apply to taxable years beginning after December 31, 2005.”
 

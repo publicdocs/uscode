@@ -787,19 +787,19 @@
 
 [Pub. L. 110–343, div. B, title I, § 103(f)][/us/pl/110/343/s103/f], Oct. 3, 2008, [122 Stat. 3813][/us/stat/122/3813], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 38 of this title][/us/usc/t26/s38]\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].
 
->     “(2) __Allowance against alternative minimum tax.—__ 
+>     “(2)  __Allowance against alternative minimum tax__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 38 of this title][/us/usc/t26/s38]\] shall apply to credits determined under section 46 of the Internal Revenue Code of 1986 in taxable years beginning after the date of the enactment of this Act and to carrybacks of such credits.
 
->     “(3) __Combined heat and power and fuel cell property.—__ 
+>     “(3)  __Combined heat and power and fuel cell property__  __.—__ 
 
 >     The amendments made by subsections (c) and (d) \[amending this section\] shall apply to periods after the date of the enactment of this Act, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\]).
 
->     “(4) __Public utility property.—__ 
+>     “(4)  __Public utility property__  __.—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall apply to periods after February 13, 2008, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).”
 
@@ -871,11 +871,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 18][/us/pl/98/369/s18], July 18, 1984, [98 Stat. 506][/us/stat/98/506], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The amendments made by this part \[part I (§§ 11–18) of subtitle A of title I of div. A of [Pub. L. 98–369][/us/pl/98/369], amending this section and sections 41, 46, 57, 128, 168, 179, 265, 415, 854, 857, and 911 of this title, enacting provisions set out as a note under [section 168 of this title][/us/usc/t26/s168], and amending provisions set out as notes under sections 128 and 168 of this title\] shall apply to taxable years ending after December 31, 1983.
 
->     “(b) __Special Rule for Section 14.—__ 
+>     “(b)  __Special Rule for Section__  __14.—__ 
 
 >     The amendment made by section 14 \[amending [section 41 of this title][/us/usc/t26/s41]\] shall not apply in the case of a tax credit employee stock ownership plan if—
 
@@ -975,11 +975,11 @@
 
 [Pub. L. 96–223, title II, § 222(j)][/us/pl/96/223/s222/j], Apr. 2, 1980, [94 Stat. 266][/us/stat/94/266], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 46 of this title][/us/usc/t26/s46]\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(2) __Alumina electrolytic cells.—__ 
+>     “(2)  __Alumina electrolytic cells__  __.—__ 
 
 >     The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after September 30, 1978, under rules similar to the rules of section 48(m) of such Code.”
 
@@ -989,7 +989,7 @@
 
 [Pub. L. 96–223, title II, § 223(c)(2)][/us/pl/96/223/s223/c/2], Apr. 2, 1980, [94 Stat. 267][/us/stat/94/267], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1982, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
@@ -1029,11 +1029,11 @@
 
 [Pub. L. 95–618, title III, § 301(d)(4)][/us/pl/95/618/s301/d/4], Nov. 9, 1978, [92 Stat. 3200][/us/stat/92/3200], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and [section 167 of this title][/us/usc/t26/s167]\] shall apply to property which is placed in service after September 30, 1978.
 
->     “(B) __Binding contracts.—__ 
+>     “(B)  __Binding contracts__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and [section 167 of this title][/us/usc/t26/s167]\] shall not apply to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on October 1, 1978, and at all times thereafter, was binding on the taxpayer.”
 
@@ -1057,11 +1057,11 @@
 
 [Pub. L. 94–455, title VIII, § 804(e)][/us/pl/94/455/s804/e], Oct. 4, 1976, [90 Stat. 1596][/us/stat/90/1596], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section and [section 47 of this title][/us/usc/t26/s47]\] shall apply to taxable years beginning after December 31, 1974.
 
->     “(2) __Election may also apply to property described in section 50(a).—__ 
+>     “(2)  __Election may also apply to property described in section 50(__  __a).—__ 
 
 >     At the election of the taxpayer, made within 1 year after the date of the enactment of this Act \[Oct. 4, 1976\] in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe, the amendments made by subsections (a) and (b) shall also apply to property which is property described in section 50(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and which is placed in service in taxable years beginning before January 1, 1975.”
 
@@ -1081,15 +1081,15 @@
 
 [Pub. L. 94–12, title VI, § 604(b)][/us/pl/94/12/s604/b], Mar. 29, 1975, [89 Stat. 65][/us/stat/89/65], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to property, the construction, reconstruction, or erection of which was completed after March 18, 1975, or the acquisition of which by the taxpayer occurred after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall not apply to property constructed, reconstructed, erected, or acquired pursuant to a contract which was on April 1, 1974, and at all times thereafter, binding on the taxpayer.
 
->     “(3) __Certain lease-back transactions, etc.—__ 
+>     “(3)  __Certain lease-back transactions, etc__  __.—__ 
 
 >     Where a person who is a party to a binding contract described in paragraph (2) transfers rights in such contract (or in the property to which such contract relates) to another person but a party to such contract retains a right to use the property under a lease with such other person, then to the extent of the transferred rights such other person shall, for purposes of paragraph (2), succeed to the position of the transferor with respect to such binding contract and such property. The preceding sentence shall apply, in any case in which the lessor does not make an election under section 48(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], only if a party to such contract retains a right to use the property under a long-term lease.”
 
@@ -1155,7 +1155,7 @@
 
 [Pub. L. 111–5, div. B, title I, § 1603][/us/pl/111/5/s1603], Feb. 17, 2009, [123 Stat. 364][/us/stat/123/364], as amended by [Pub. L. 111–312, title VII, § 707][/us/pl/111/312/s707], Dec. 17, 2010, [124 Stat. 3312][/us/stat/124/3312]; [Pub. L. 112–81, div. A, title X, § 1096(a)][/us/pl/112/81/s1096/a], Dec. 31, 2011, [125 Stat. 1608][/us/stat/125/1608]; [Pub. L. 112–240, title IV, § 407(c)(2)][/us/pl/112/240/s407/c/2], Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Upon application, the Secretary of the Treasury shall, subject to the requirements of this section, provide a grant to each person who places in service specified energy property to reimburse such person for a portion of the expense of such property as provided in subsection (b). No grant shall be made under this section with respect to any property unless such property—
 
@@ -1165,11 +1165,11 @@
 
 >     “(b) __Grant Amount.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amount of the grant under subsection (a) with respect to any specified energy property shall be the applicable percentage of the basis of such property.
 
->         “(2) __Applicable percentage.—__ 
+>         “(2)  __Applicable percentage__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘applicable percentage’ means—
 
@@ -1177,11 +1177,11 @@
 
 >             “(B) 10 percent in the case of any other property.
 
->         “(3) __Dollar limitations.—__ 
+>         “(3)  __Dollar limitations__  __.—__ 
 
 >         In the case of property described in paragraph (2), (6), or (7) of subsection (d), the amount of any grant under this section with respect to such property shall not exceed the limitation described in section 48(c)(1)(B), 48(c)(2)(B), or 48(c)(3)(B) of the Internal Revenue Code of 1986, respectively, with respect to such property.
 
->     “(c) __Time for Payment of Grant.—__ 
+>     “(c)  __Time for Payment of Grant__  __.—__ 
 
 >     The Secretary of the Treasury shall make payment of any grant under subsection (a) during the 60-day period beginning on the later of—
 
@@ -1189,45 +1189,45 @@
 
 >         “(2) the date the specified energy property for which the grant is being made is placed in service.
 
->     “(d) __Specified Energy Property.—__ 
+>     “(d)  __Specified Energy Property__  __.—__ 
 
 >     For purposes of this section, the term ‘specified energy property’ means any of the following:
 
->         “(1) __Qualified facilities.—__ 
+>         “(1)  __Qualified facilities__  __.—__ 
 
 >         Any qualified property (as defined in section 48(a)(5)(D) of the Internal Revenue Code of 1986) which is part of a qualified facility (within the meaning of section 45 of such Code) described in paragraph (1), (2), (3), (4), (6), (7), (9), or (11) of section 45(d) of such Code.
 
->         “(2) __Qualified fuel cell property.—__ 
+>         “(2)  __Qualified fuel cell property__  __.—__ 
 
 >         Any qualified fuel cell property (as defined in section 48(c)(1) of such Code).
 
->         “(3) __Solar property.—__ 
+>         “(3)  __Solar property__  __.—__ 
 
 >         Any property described in clause (i) or (ii) of section 48(a)(3)(A) of such Code.
 
->         “(4) __Qualified small wind energy property.—__ 
+>         “(4)  __Qualified small wind energy property__  __.—__ 
 
 >         Any qualified small wind energy property (as defined in section 48(c)(4) of such Code).
 
->         “(5) __Geothermal property.—__ 
+>         “(5)  __Geothermal property__  __.—__ 
 
 >         Any property described in clause (iii) of section 48(a)(3)(A) of such Code.
 
->         “(6) __Qualified microturbine property.—__ 
+>         “(6)  __Qualified microturbine property__  __.—__ 
 
 >         Any qualified microturbine property (as defined in section 48(c)(2) of such Code).
 
->         “(7) __Combined heat and power system property.—__ 
+>         “(7)  __Combined heat and power system property__  __.—__ 
 
 >         Any combined heat and power system property (as defined in section 48(c)(3) of such Code).
 
->         “(8) __Geothermal heat pump property.—__ 
+>         “(8)  __Geothermal heat pump property__  __.—__ 
 
 >         Any property described in clause (vii) of section 48(a)(3)(A) of such Code.
 
 >         Such term shall not include any property unless depreciation (or amortization in lieu of depreciation) is allowable with respect to such property.
 
->     “(e) __Credit Termination Date.—__ 
+>     “(e)  __Credit Termination Date__  __.—__ 
 
 >     For purposes of this section, the term ‘credit termination date’ means—
 
@@ -1239,11 +1239,11 @@
 
 >         In the case of any property which is described in paragraph (3) and also in another paragraph of this subsection, paragraph (3) shall apply with respect to such property.
 
->     “(f) __Application of Certain Rules.—__ 
+>     “(f)  __Application of Certain Rules__  __.—__ 
 
 >     In making grants under this section, the Secretary of the Treasury shall apply rules similar to the rules of section 50 of the Internal Revenue Code of 1986 (other than subsection (d)(2) thereof). In applying such rules, if the property is disposed of, or otherwise ceases to be specified energy property, the Secretary of the Treasury shall provide for the recapture of the appropriate percentage of the grant amount in such manner as the Secretary of the Treasury determines appropriate.
 
->     “(g) __Exception for Certain Non-Taxpayers.—__ 
+>     “(g)  __Exception for Certain Non-Taxpayers__  __.—__ 
 
 >     The Secretary of the Treasury shall not make any grant under this section to—
 
@@ -1255,15 +1255,15 @@
 
 >         “(4) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in paragraph (1), (2) or (3).
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     Terms used in this section which are also used in section 45 or 48 of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this section as when used in such section 45 or 48. Any reference in this section to the Secretary of the Treasury shall be treated as including the Secretary’s delegate.
 
->     “(i) __Appropriations.—__ 
+>     “(i)  __Appropriations__  __.—__ 
 
 >     There is hereby appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this section.
 
->     “(j) __Termination.—__ 
+>     “(j)  __Termination__  __.—__ 
 
 >     The Secretary of the Treasury shall not make any grant to any person under this section unless the application of such person for such grant is received before October 1, 2012.”
 
@@ -1295,7 +1295,7 @@
 
 [Pub. L. 94–455, title VIII, § 804(c)][/us/pl/94/455/s804/c], Oct. 4, 1976, [90 Stat. 1594][/us/stat/90/1594], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule for determining useful life, predominant foreign use, etc.—__ 
+>     “(1)  __General rule for determining useful life, predominant foreign use, etc__  __.—__ 
 
 >     In the case of a qualified film (within the meaning of section 48(k)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service in a taxable year beginning before January 1, 1975, with respect to which neither an election under paragraph (2) of this subsection nor an election under subsection (e)(2) applies—
 
@@ -1309,11 +1309,11 @@
 
 >     “(2) __Election of 40-percent method.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         A taxpayer may elect to have this paragraph apply to all qualified films placed in service during taxable years beginning before January 1, 1975 (other than films to which an election under subsection (e)(2) of this section applies).
 
->         “(B) __Effect of election.—__ 
+>         “(B)  __Effect of election__  __.—__ 
 
 >         If the taxpayer makes an election under this paragraph, then section 48(k) of the Internal Revenue Code of 1986 shall apply to all qualified films described in subparagraph (A) with the following modifications:
 
@@ -1323,25 +1323,25 @@
 
 >             “(iii) paragraph (3) and paragraph (5) (other than subparagraph (B)) shall not apply.
 
->         “(C) __Rules relating to elections.—__ 
+>         “(C)  __Rules relating to elections__  __.—__ 
 
 >         An election under this paragraph shall be made not later than the day which is 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe. Such an election may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
->         “(D) __The taxpayer must consent to join in certain proceedings.—__ 
+>         “(D)  __The taxpayer must consent to join in certain proceedings__  __.—__ 
 
 >         No election may be made under this paragraph or subsection (e)(2) by any taxpayer unless he consents, under regulations prescribed by the Secretary of the Treasury or his delegate, to treat the determination of the investment credit allowable on each film subject to an election as a separate cause of action, and to join in any judicial proceeding for determining the person entitled to, and the amount of, the credit allowable under section 38 of the Internal Revenue Code of 1986 with respect to any film covered by such election.
 
 >     “(3) __Election to have credit determined in accordance with previous litigation.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         A taxpayer described in subparagraph (B) may elect to have this paragraph apply to all films (whether or not qualified) placed in service in taxable years beginning before January 1, 1975, and with respect to which an election under subsection (e)(2) is not made.
 
->         “(B) __Who may elect.—__ 
+>         “(B)  __Who may elect__  __.—__ 
 
 >         A taxpayer may make an election under this paragraph if he has filed an action in any court of competent jurisdiction, before January 1, 1976, for a determination of such taxpayer’s rights to the allowance of a credit against tax under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1975, with respect to any film.
 
->         “(C) __Effect of election.—__ 
+>         “(C)  __Effect of election__  __.—__ 
 
 >         If the taxpayer makes an election under this paragraph—
 
@@ -1351,13 +1351,13 @@
 
 >               and the right of the taxpayer to the allowance of a credit against tax under section 38 of such Code with respect to any film placed in service in any taxable year beginning before January 1, 1975, and as to which an election under subsection (e)(2) is not made, shall be determined as though this section (other than this paragraph) has not been enacted.
 
->         “(D) __Rules relating to elections.—__ 
+>         “(D)  __Rules relating to elections__  __.—__ 
 
 >         An election under this paragraph shall be made not later than the day which is 90 days after the date of the enactment of this Act \[Oct. 4, 1976\], by filing a notification of such election with the national office of the Internal Revenue Service. Such an election, once made, shall be irrevocable.”
 
  __Entitlement to Credit__ 
 
-[Pub. L. 94–455, title VIII, § 804(d)][/us/pl/94/455/s804/d], Oct. 4, 1976, [90 Stat. 1596][/us/stat/90/1596],, as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title VIII, § 804(d)][/us/pl/94/455/s804/d], Oct. 4, 1976, [90 Stat. 1596][/us/stat/90/1596], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Paragraph (1) of section 48(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to credit) shall apply to any motion picture film or video tape placed in service in any taxable year beginning before January 1, 1975.”
 

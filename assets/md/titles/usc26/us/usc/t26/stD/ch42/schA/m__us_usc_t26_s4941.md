@@ -209,7 +209,7 @@
 
 [Pub. L. 98–369, div. A, title III, § 312][/us/pl/98/369/s312], July 18, 1984, [98 Stat. 786][/us/stat/98/786], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to taxes on self-dealing) shall not apply to the purchase during 1978 of stock from a private foundation (and to any note issued in connection with such purchase) if—
 
@@ -221,7 +221,7 @@
 
 >         “(4) such purchase was pursuant to the settlement of litigation involving the purchaser.
 
->     “(b) __Statute of Limitations.—__ 
+>     “(b)  __Statute of Limitations__  __.—__ 
 
 >     If credit or refund of any overpayment of tax resulting from subsection (a) is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 

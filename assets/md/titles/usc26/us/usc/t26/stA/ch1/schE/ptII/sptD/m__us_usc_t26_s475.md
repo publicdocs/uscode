@@ -279,11 +279,11 @@
 
 [Pub. L. 105–206, title VII, § 7003(c)][/us/pl/105/206/s7003/c], July 22, 1998, [112 Stat. 833][/us/stat/112/833], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer required by the amendments made by this section to change its method of accounting for its first taxable year ending after the date of the enactment of this Act—
 
@@ -297,13 +297,13 @@
 
 [Pub. L. 105–34, title X, § 1001(d)][/us/pl/105/34/s1001/d], Aug. 5, 1997, [111 Stat. 907][/us/stat/111/907], as amended by [Pub. L. 105–206, title VI, § 6010(a)(4)][/us/pl/105/206/s6010/a/4], July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 1259 of this title][/us/usc/t26/s1259] and amending this section\] shall apply to any constructive sale after June 8, 1997.
 
->     “(2) __Exception for sales of positions, etc.__ 
+>     “(2)  __Exception for sales of positions, etc. held before __  __june 9, 1997__  __.—__ 
 
->      held before june 9, 1997.—If—
+>     If—
 
 >         “(A) before June 9, 1997, the taxpayer entered into any transaction which is a constructive sale of any appreciated financial position, and
 
@@ -311,7 +311,7 @@
 
 >         such transaction and position shall not be taken into account in determining whether any other constructive sale after June 8, 1997, has occurred. The preceding sentence shall cease to apply as of the date such transaction is closed or the taxpayer ceases to hold such position.
 
->     “(3) __Special rule.—__ 
+>     “(3)  __Special rule__  __.—__ 
 
 >     In the case of a decedent dying after June 8, 1997, if—
 
@@ -331,11 +331,11 @@
 
 >     “(4) __Election of mark to market by securities traders and traders and dealers in commodities.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (b) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act.
 
->         “(B) __4-year spread of adjustments.—__ 
+>         “(B) __4-__  __year spread of adjustments__  __.—__ 
 
 >         In the case of a taxpayer who elects under subsection (e) or (f) of section 475 of the Internal Revenue Code of 1986 (as added by this section) to change its method of accounting for the taxable year which includes the date of the enactment of this Act—
 
@@ -347,11 +347,11 @@
 
 [Pub. L. 103–66, title XIII, § 13223(c)][/us/pl/103/66/s13223/c], Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 988 of this title][/us/usc/t26/s988]\] shall apply to all taxable years ending on or after December 31, 1993.
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer required by this section to change its method of accounting for any taxable year—
 
@@ -363,7 +363,7 @@
 
 >     “(3) __Special rule for floor specialists and market makers.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If—
 
@@ -373,7 +373,7 @@
 
 >             then paragraph (2)(C) shall be applied by taking such portion into account ratably over the 15-taxable year period beginning with the first taxable year ending on or after December 31, 1993.
 
->         “(B) __Qualified security.—__ 
+>         “(B)  __Qualified security__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘qualified security’ means any security acquired—
 

@@ -81,15 +81,15 @@
 
 [Pub. L. 99–662, title XIV, § 1407][/us/pl/99/662/s1407], Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272], as amended by [Pub. L. 100–647, title II, § 2002(c)][/us/pl/100/647/s2002/c], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], provided that:
 
->     “(a) __Initial Study.—__ 
+>     “(a)  __Initial Study__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with United States ports, the Secretary of the Army, the Secretary of Transportation, the United States Trade Representative and other appropriate Federal agencies, shall conduct a study to determine the impact of the port use tax imposed under section 4461(a) of the Internal Revenue Code of 1954 \[now 1986\] on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States. The report of the study shall be submitted to the Ways and Means Committee of the House of Representatives and the Committee on Finance of the United States Senate not later than December 1, 1988.
 
->     “(b) __Review.—__ 
+>     “(b)  __Review__  __.—__ 
 
 >     The Secretary of the Treasury may, at any time, review and revise the findings of the study conducted pursuant to subsection (a) with respect to any United States port (or to any transaction or class of transactions at such port).
 
->     “(c) __Implementation of Findings.—__ 
+>     “(c)  __Implementation of Findings__  __.—__ 
 
 >     For purposes of section 4462(d)(2)(B) of the Internal Revenue Code of 1954 \[now 1986\], the findings of the study or review conducted pursuant to subsections (a) and (b) of this section shall be effective 60 days after notification to the ports concerned.”
 

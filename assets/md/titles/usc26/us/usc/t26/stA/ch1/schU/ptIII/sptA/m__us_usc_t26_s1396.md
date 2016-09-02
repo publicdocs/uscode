@@ -99,7 +99,7 @@
 
  __References in Text__ 
 
-    The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is [Pub. L. 105–34][/us/pl/105/34], Aug. 5, 1997, [111 Stat. 788][/us/stat/111/788].
+    The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is [Pub. L. 105–34][/us/pl/105/34], Aug. 5, 1997, [111 Stat. 788][/us/stat/111/788]. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 

@@ -879,13 +879,13 @@
 
 [Pub. L. 99–514, title XII, § 1221(g)][/us/pl/99/514/s1221/g], Oct. 22, 1986, [100 Stat. 2555][/us/stat/100/2555], as amended by [Pub. L. 100–647, title I, § 1012(i)(13)][/us/pl/100/647/s1012/i/13], Nov. 10, 1988, [102 Stat. 3509][/us/stat/102/3509], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 864, 952, 953, 955, and 957 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986.
 
 >     “(2) __Special rule for repeal of exclusion for reinvestment shipping income.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any qualified controlled foreign corporation—
 
@@ -893,7 +893,7 @@
 
 >             “(ii) sections 955(a)(1)(A) and 955(a)(2)(A) of the Internal Revenue Code of 1986 (as amended by subsection (c)(3)) shall be applied by substituting ‘ending before 1992’ for ‘beginning before 1987’.
 
->         “(B) __Qualified controlled foreign corporation.—__ 
+>         “(B)  __Qualified controlled foreign corporation__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified controlled foreign corporation’ means any controlled foreign corporation (as defined in section 957 of such Code)—
 
@@ -909,11 +909,11 @@
 
 >     “(3) __Exception for certain reinsurance contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of the 1st 3 taxable years of a qualified controlled foreign insurer beginning after December 31, 1986, the amendments made by this section shall not apply to the phase-in percentage of any qualified reinsurance income.
 
->         “(B) __Phase-in percentage.—__ 
+>         “(B)  __Phase-in percentage__  __.—__ 
 
 >         For purposes of subparagraph (A):
 
@@ -999,7 +999,7 @@
 
 >         </table>
 
->         “(C) __Qualified controlled foreign insurer.—__ 
+>         “(C)  __Qualified controlled foreign insurer__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘qualified controlled foreign insurer’ means—
 
@@ -1007,7 +1007,7 @@
 
 >             “(ii) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as so defined) which had as its common parent a corporation incorporated in Delaware on November 3, 1981, with executive offices in Philadelphia, Pennsylvania.
 
->         “(D) __Qualified reinsurance income.—__ 
+>         “(D)  __Qualified reinsurance income__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘qualified reinsurance income’ means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to ⅓ of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts for calendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation’s proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph).”
 
@@ -1065,15 +1065,15 @@
 
 [Pub. L. 99–514, title XII, § 1227][/us/pl/99/514/s1227], Oct. 22, 1986, [100 Stat. 2560][/us/stat/100/2560], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 954(c)(3)(A) of the Internal Revenue Code of 1986, any dividends received by a qualified controlled foreign corporation (within the meaning of section 951 of such Code) during any of its 1st 5 taxable years beginning after December 31, 1986, with respect to its 32.7 percent interest in a Brazilian corporation shall be treated as if such Brazilian corporation were a related person to the qualified controlled foreign corporation to the extent the Brazilian corporation’s income is attributable to its interest in the trade or business of mining in Brazil.
 
->     “(b) __Qualified Controlled Foreign Corporation.—__ 
+>     “(b)  __Qualified Controlled Foreign Corporation__  __.—__ 
 
 >     For purposes of this section, a qualified controlled foreign corporation is a corporation the greater than 99 percent shareholder of which is a company originally incorporated in Montana on July 9, 1951 (the name of which was changed on August 10, 1966).
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendment made by this section shall apply to dividends received after December 31, 1986.”
 

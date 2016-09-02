@@ -133,15 +133,15 @@
 
 [Pub. L. 95–600, title III, § 345(e)][/us/pl/95/600/s345/e], Nov. 6, 1978, [92 Stat. 2845][/us/stat/92/2845], as amended by [Pub. L. 96–222, title I, § 103(a)(9)][/us/pl/96/222/s103/a/9], Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to stock issued after November 6, 1978.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.
 
->     “(3) __Transitional rule for subsection (b).—__ 
+>     “(3)  __Transitional rule for subsection__  __(b).—__ 
 
 >     In the case of a taxable year which includes November 6, 1978, the amendments made by subsection (b) \[amending this section\] shall apply with respect to stock issued after such date.”
 

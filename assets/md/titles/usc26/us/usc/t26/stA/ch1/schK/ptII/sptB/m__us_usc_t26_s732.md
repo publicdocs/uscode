@@ -149,11 +149,11 @@
 
 [Pub. L. 106–170, title V, § 538(b)][/us/pl/106/170/s538/b], Dec. 17, 1999, [113 Stat. 1940][/us/stat/113/1940], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to distributions made after July 14, 1999.
 
->     “(2) __Partnerships in existence on__  __July 14, 1999__  __.—__ 
+>     “(2)  __Partnerships in existence on __  __July 14, 1999__  __.—__ 
 
 >     In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment of this Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner’s return of Federal income tax for the taxable year in which such distribution occurs.”
 

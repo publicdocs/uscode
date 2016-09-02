@@ -343,11 +343,11 @@
 
 [Pub. L. 98–369, div. A, title III, § 307(b)][/us/pl/98/369/s307/b], July 18, 1984, [98 Stat. 785][/us/stat/98/785], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to business holdings with respect to which the 5-year period described in section 4943(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] ends on or after November 1, 1983.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     Any plan submitted to the Secretary of the Treasury or his delegate on or before the 60th day after the date of the enactment of this Act \[July 18, 1984\] shall be treated as submitted before the close of the initial 5-year period referred to in section 4943(c)(7)(B) of the Internal Revenue Code of 1986 (as added by subsection (a)).”
 

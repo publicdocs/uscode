@@ -225,15 +225,15 @@
 
 [Pub. L. 101–239, title VII, § 7201(b)][/us/pl/101/239/s7201/b], Dec. 19, 1989, [103 Stat. 2329][/us/stat/103/2329], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years ending after November 17, 1989.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     For purposes of section 1503(f)(3)(D) of the Internal Revenue Code of 1986, stock issued after November 17, 1989, pursuant to a written binding contract in effect on November 17, 1989, and at all times thereafter before such issuance, shall be treated as issued on November 17, 1989.
 
->     “(3) __Special rule when subsidiary leaves group.—__ 
+>     “(3)  __Special rule when subsidiary leaves group__  __.—__ 
 
 >     If, by reason of a transaction after November 17, 1989, a corporation ceases to be, or becomes, a member of an affiliated group, the stock of such corporation shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such cessation or commencement, unless such transaction is of a kind which would not result in the recognition of any deferred intercompany gain under the consolidated return regulations by reason of the acquisition of the entire group.
 
@@ -243,11 +243,11 @@
 
 >         “(B) Subparagraph (A) shall not apply to any retirement or acquisition pursuant to an obligation to reissue under a binding written contract in effect on November 17, 1989, and at all times thereafter before such retirement or acquisition.
 
->     “(5) __Auction rate preferred.—__ 
+>     “(5)  __Auction rate preferred__  __.—__ 
 
 >     For purposes of section 1503(f)(3)(D) of such Code, auction rate preferred stock shall be treated as issued when the contract requiring the auction became binding.
 
->     “(6) __Special rule for certain auction rate preferred.—__ 
+>     “(6)  __Special rule for certain auction rate preferred__  __.—__ 
 
 >     For purposes of section 1503(f)(3)(D) of the Internal Revenue Code of 1986, any auction rate preferred stock shall be treated as issued before November 18, 1989, if—
 
@@ -259,11 +259,11 @@
 
 [Pub. L. 101–239, title VII, § 7207(b)][/us/pl/101/239/s7207/b], Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to dispositions after July 10, 1989, in taxable years ending after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any disposition pursuant to a written binding contract in effect on July 10, 1989, and at all times thereafter before such disposition.”
 
@@ -279,17 +279,17 @@
 
 [Pub. L. 100–203, title X, § 10222(a)(2)][/us/pl/100/203/s10222/a/2], Dec. 22, 1987, [101 Stat. 1330–410][/us/stat/101/1330-410], as amended by [Pub. L. 100–647, title II, § 2004(j)(1)(B)][/us/pl/100/647/s2004/j/1/B], Nov. 10, 1988, [102 Stat. 3604][/us/stat/102/3604], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to any intragroup stock disposed of after December 15, 1987. For purposes of determining the adjustments to the basis of such stock, such amendment shall be deemed to have been in effect for all periods whether before, on, or after December 15, 1987.
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendment made by paragraph (1) shall not apply to any intragroup stock disposed of after December 15, 1987, and before January 1, 1989, if such disposition is pursuant to a written binding contract, governmental order, letter of intent or preliminary agreement, or stock acquisition agreement, in effect on or before December 15, 1987.
 
 >     “(C) __Treatment of certain excess loss accounts.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         If—
 
@@ -299,15 +299,15 @@
 
 >             the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall be taken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
 
->         “(ii) __Special rules.—__ 
+>         “(ii)  __Special rules__  __.—__ 
 
 >         For purposes of this subparagraph—
 
->             “(I) __Unrecaptured amount.—__ 
+>             “(I)  __Unrecaptured amount__  __.—__ 
 
 >             The term ‘unrecaptured amount’ means the amount by which the inclusion referred to in clause (i)(I) would have been increased if the amendment made by paragraph (1) and \[had\] applied to the disposition.
 
->             “(II) __Coordination with binding contract exception.—__ 
+>             “(II)  __Coordination with binding contract exception__  __.—__ 
 
 >             A disposition shall be treated as occurring on or before December 15, 1987, if the amendment made by paragraph (1) does not apply to such disposition by reason of subparagraph (B).”
 

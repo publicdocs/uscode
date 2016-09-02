@@ -155,11 +155,11 @@
 
 [Pub. L. 105–206, title III, § 3413(e)][/us/pl/105/206/s3413/e], July 22, 1998, [112 Stat. 754][/us/stat/112/754], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending sections 7213 and 7603 of this title, and renumbering former [section 7612 of this title][/us/usc/t26/s7612] as 7613\] shall apply to summonses issued, and software acquired, after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Software protection.—__ 
+>     “(2)  __Software protection__  __.—__ 
 
 >     In the case of any software acquired on or before such date of enactment, the requirements of section 7612(a)(2) of the Internal Revenue Code of 1986 (as added by such amendments) shall apply after the 90th day after such date. The preceding sentence shall not apply to the requirement under section 7612(c)(2)(G)(ii) of such Code (as so added).”
 

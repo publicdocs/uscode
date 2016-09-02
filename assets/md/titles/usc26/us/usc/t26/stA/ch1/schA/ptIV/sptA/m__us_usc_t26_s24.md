@@ -277,11 +277,11 @@
 
 [Pub. L. 112–240, title I, § 103(e)][/us/pl/112/240/s103/e], Jan. 2, 2013, [126 Stat. 2320][/us/stat/126/2320], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 25A, 32, and 6409 of this title and amending provisions set out as a note under [section 25A of this title][/us/usc/t26/s25A]\] shall apply to taxable years beginning after December 31, 2012.
 
->     “(2) __Rule regarding disregard of refunds.—__ 
+>     “(2)  __Rule regarding disregard of refunds__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending [section 6409 of this title][/us/usc/t26/s6409]\] shall apply to amounts received after December 31, 2012.”
 
@@ -337,11 +337,11 @@
 
 [Pub. L. 110–343, div. B, title II, § 205(e)][/us/pl/110/343/s205/e], (f), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839], provided that:
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 30D of this title][/us/usc/t26/s30D] and amending this section and sections 25, 25B, 26, 30B, 38, 1016, 1400C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 2008.
 
->     “(f) __Application of EGTRRA Sunset.—__ 
+>     “(f)  __Application of EGTRRA Sunset__  __.—__ 
 
 >     The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[[Pub. L. 107–16, § 901][/us/pl/107/16/s901], which was repealed by [Pub. L. 112–240, title I, § 101(a)(1)][/us/pl/112/240/s101/a/1], Jan. 2, 2013, [126 Stat. 2315][/us/stat/126/2315], was formerly set out as an Effective and Termination Dates of 2001 Amendment note under [section 1 of this title][/us/usc/t26/s1]\] in the same manner as the provision of such Act to which such amendment relates.”
 
@@ -381,11 +381,11 @@
 
 [Pub. L. 108–27, title I, § 101(c)][/us/pl/108/27/s101/c], May 28, 2003, [117 Stat. 754][/us/stat/117/754], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 6429 of this title][/us/usc/t26/s6429] and amending this section\] shall apply to taxable years beginning after December 31, 2002.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[enacting [section 6429 of this title][/us/usc/t26/s6429]\] shall take effect on the date of the enactment of this Act \[May 28, 2003\].”
 
@@ -407,11 +407,11 @@
 
 [Pub. L. 107–16, title II, § 201(e)][/us/pl/107/16/s201/e], June 7, 2001, [115 Stat. 47][/us/stat/115/47], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 23, 25, 26, 32, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2000.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 23, 25, 26, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001.”
 

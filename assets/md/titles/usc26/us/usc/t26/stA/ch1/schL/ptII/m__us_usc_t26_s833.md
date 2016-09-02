@@ -203,17 +203,17 @@
 
 [Pub. L. 99–514, title X, § 1012(c)][/us/pl/99/514/s1012/c], Oct. 22, 1986, [100 Stat. 2393][/us/stat/100/2393], as amended by [Pub. L. 100–647, title I, § 1010(b)(1)][/us/pl/100/647/s1010/b/1], (2), Nov. 10, 1988, [102 Stat. 3451][/us/stat/102/3451], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 501 of this title][/us/usc/t26/s501]\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Study of fraternal beneficiary associations.—__ 
+>     “(2)  __Study of fraternal beneficiary associations__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate shall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
 
 >     “(3) __Special rules for existing blue cross or blue shield organizations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any existing Blue Cross or Blue Shield organization (as defined in section 833(c)(2) of the Internal Revenue Code of 1986 as added by this section)—
 
@@ -221,11 +221,11 @@
 
 >             “(ii) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
->         “(B) __Treatment of certain distributions.—__ 
+>         “(B)  __Treatment of certain distributions__  __.—__ 
 
 >         For purposes of section 833(b)(3)(B), the surplus of any organization as of the beginning of its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of any distribution (other than to policyholders) made by such organization after August 16, 1986, and before the beginning of such taxable year.
 
->         “(C) __Reserve weakening after__  __august 16, 1986__  __.—__ 
+>         “(C)  __Reserve weakening after __  __august 16, 1986__  __.—__ 
 
 >         Any reserve weakening after August 16, 1986, by an existing Blue Cross or Blue Shield organization shall be treated as occurring in such organization’s 1st taxable year beginning after December 31, 1986.
 
@@ -259,11 +259,11 @@
 
 [Pub. L. 105–34, title X, § 1042][/us/pl/105/34/s1042], Aug. 5, 1997, [111 Stat. 939][/us/stat/111/939], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subparagraphs (A) and (B) of section 1012(c)(4) of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note above\] shall not apply to any taxable year beginning after December 31, 1997.
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >     In the case of an organization to which section 501(m) of the Internal Revenue Code of 1986 applies solely by reason of the amendment made by subsection (a)—
 
@@ -271,11 +271,11 @@
 
 >         “(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
->     “(c) __Reserve Weakening After__  __June 8, 1997__  __.—__ 
+>     “(c)  __Reserve Weakening After June__  __8, 1997.—__ 
 
 >     Any reserve weakening after June 8, 1997, by an organization described in subsection (b) shall be treated as occurring in such organization’s 1st taxable year beginning after December 31, 1997.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury or his delegate may prescribe rules for providing proper adjustments for organizations described in subsection (b) with respect to short taxable years which begin during 1998 by reason of section 843 of the Internal Revenue Code of 1986.”
 

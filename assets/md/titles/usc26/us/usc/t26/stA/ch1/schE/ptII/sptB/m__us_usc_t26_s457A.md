@@ -125,11 +125,11 @@
 
 [Pub. L. 110–343, div. C, title VIII, § 801(d)][/us/pl/110/343/s801/d], Oct. 3, 2008, [122 Stat. 3931][/us/stat/122/3931], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending [section 26 of this title][/us/usc/t26/s26]\] shall apply to amounts deferred which are attributable to services performed after December 31, 2008.
 
->     “(2) __Application to existing deferrals.—__ 
+>     “(2)  __Application to existing deferrals__  __.—__ 
 
 >     In the case of any amount deferred to which the amendments made by this section do not apply solely by reason of the fact that the amount is attributable to services performed before January 1, 2009, to the extent such amount is not includible in gross income in a taxable year beginning before 2018, such amounts shall be includible in gross income in the later of—
 
@@ -137,15 +137,15 @@
 
 >         “(B) the taxable year in which there is no substantial risk of forfeiture of the rights to such compensation (determined in the same manner as determined for purposes of section 457A of the Internal Revenue Code of 1986, as added by this section).
 
->     “(3) __Accelerated payments.—__ 
+>     “(3)  __Accelerated payments__  __.—__ 
 
 >     No later than 120 days after the date of the enactment of this Act \[Oct. 3, 2008\], the Secretary shall issue guidance providing a limited period of time during which a nonqualified deferred compensation arrangement attributable to services performed on or before December 31, 2008, may, without violating the requirements of section 409A(a) of the Internal Revenue Code of 1986, be amended to conform the date of distribution to the date the amounts are required to be included in income.
 
->     “(4) __Certain back-to-back arrangements.—__ 
+>     “(4)  __Certain back-to-back arrangements__  __.—__ 
 
 >     If the taxpayer is also a service recipient and maintains one or more nonqualified deferred compensation arrangements for its service providers under which any amount is attributable to services performed on or before December 31, 2008, the guidance issued under paragraph (4) shall permit such arrangements to be amended to conform the dates of distribution under such arrangement to the date amounts are required to be included in the income of such taxpayer under this subsection.
 
->     “(5) __Accelerated payment not treated as material modification.—__ 
+>     “(5)  __Accelerated payment not treated as material modification__  __.—__ 
 
 >     Any amendment to a nonqualified deferred compensation arrangement made pursuant to paragraph (4) or (5) shall not be treated as a material modification of the arrangement for purposes of section 409A of the Internal Revenue Code of 1986.”
 

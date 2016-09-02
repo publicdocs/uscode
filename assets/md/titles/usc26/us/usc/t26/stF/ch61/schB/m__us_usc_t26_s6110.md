@@ -397,11 +397,11 @@
 
 [Pub. L. 105–206, title III, § 3509(d)][/us/pl/105/206/s3509/d], July 22, 1998, [112 Stat. 774][/us/stat/112/774], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Transition rules.—__ 
+>     “(2)  __Transition rules__  __.—__ 
 
 >     The amendments made by this section shall apply to any Chief Counsel advice issued after December 31, 1985, and before the 91st day after the date of the enactment of this Act \[July 22, 1998\] by the offices of the associate chief counsel for domestic, employee benefits and exempt organizations, and international, except that any such Chief Counsel advice shall be treated as made available on a timely basis if such advice is made available for public inspection not later than the following dates:
 
@@ -413,11 +413,11 @@
 
 >         “(D) Six years after such date of enactment, in the case of any other Chief Counsel advice issued after December 31, 1985.
 
->     “(3) __Documents treated as chief counsel advice.—__ 
+>     “(3)  __Documents treated as chief counsel advice__  __.—__ 
 
 >     If the Secretary of the Treasury by regulation provides pursuant to section 6110(i)(2) of the Internal Revenue Code of 1986, as added by this section, that any additional advice or instruction issued by the Office of Chief Counsel shall be treated as Chief Counsel advice, such additional advice or instruction shall be made available for public inspection pursuant to section 6110 of such Code, as amended by this section, only in accordance with the effective date set forth in such regulation.
 
->     “(4) __Chief counsel advice to be available electronically.—__ 
+>     “(4)  __Chief counsel advice to be available electronically__  __.—__ 
 
 >     The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance.”
 

@@ -129,11 +129,11 @@
 
 [Pub. L. 99–514, title X, § 1024(d)][/us/pl/99/514/s1024/d], Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408], as amended by [Pub. L. 100–647, title I, § 1010(f)(8)][/us/pl/100/647/s1010/f/8], Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], provided that:
 
->     “(1) __Treatment of amounts in protection against loss account.—__ 
+>     “(1)  __Treatment of amounts in protection against loss account__  __.—__ 
 
 >     In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
->     “(2) __Transitional rule for unused loss carryover under section 825.—__ 
+>     “(2)  __Transitional rule for unused loss carryover under section 825__  __.—__ 
 
 >     Any unused loss carryover under section 825 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) which—
 

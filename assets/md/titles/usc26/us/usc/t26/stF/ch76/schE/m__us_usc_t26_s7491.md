@@ -67,11 +67,11 @@
 
 [Pub. L. 105–206, title III, § 3001(c)][/us/pl/105/206/s3001/c], July 22, 1998, [112 Stat. 727][/us/stat/112/727], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this subchapter\] shall apply to court proceedings arising in connection with examinations commencing after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Taxable periods or events after date of enactment.—__ 
+>     “(2)  __Taxable periods or events after date of enactment__  __.—__ 
 
 >     In any case in which there is no examination, such amendments shall apply to court proceedings arising in connection with taxable periods or events beginning or occurring after such date of enactment.”
 

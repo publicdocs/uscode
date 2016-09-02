@@ -293,11 +293,11 @@
 
 [Pub. L. 109–432, div. A, title I, § 107(c)][/us/pl/109/432/s107/c], Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 2005.
 
->     “(2) __Special rules.—__ 
+>     “(2)  __Special rules__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 54 and 1400N of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 20, 2006\] pursuant to allocations of the national zone academy bond limitation for calendar years after 2005.”
 

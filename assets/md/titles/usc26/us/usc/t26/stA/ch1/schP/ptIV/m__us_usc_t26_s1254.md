@@ -99,11 +99,11 @@
 
 [Pub. L. 99–514, title IV, § 413(c)][/us/pl/99/514/s413/c], Oct. 22, 1986, [100 Stat. 2229][/us/stat/100/2229], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 617 of this title][/us/usc/t26/s617]\] shall apply to any disposition of property which is placed in service by the taxpayer after December 31, 1986.
 
->     “(2) __Exception for binding contracts.—__ 
+>     “(2)  __Exception for binding contracts__  __.—__ 
 
 >     The amendments made by this section shall not apply to any disposition of property placed in service after December 31, 1986, if such property was acquired pursuant to a written contract which was entered into before September 26, 1985, and which was binding at all times thereafter.”
 

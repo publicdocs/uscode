@@ -35,7 +35,7 @@
 
 [Pub. L. 100–647, title VI, § 6126][/us/pl/100/647/s6126], Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     In the case of a transaction which—
 
@@ -47,7 +47,7 @@
 
 >     “(b) __Treatment of Income of New Foreign Corporation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In any case to which subsection (a) applies, for purposes of the 1986 Code—
 
@@ -63,15 +63,15 @@
 
 >                 “(ii) be increased by the amount of any such income distributed directly or indirectly to the common parent described in subsection (a).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Paragraph (1) shall apply to any item of income only to the extent that the net amount of such income does not exceed the amount in the qualified excess loss account after being reduced under paragraph (1)(C) for prior income.
 
->         “(3) __Basis adjustments not applicable.—__ 
+>         “(3)  __Basis adjustments not applicable__  __.—__ 
 
 >         To the extent paragraph (1) applies to any item of income, there shall be no increase in basis under section 961(a) of such Code on account of such income (and there shall be no reduction in basis under section 961(b) of such Code on account of an exclusion attributable to the inclusion of such income).
 
->         “(4) __Recognition of gain.—__ 
+>         “(4)  __Recognition of gain__  __.—__ 
 
 >         For purposes of paragraph (1), if the foreign corporation referred to in subsection (a) transfers any property acquired by such foreign corporation in the transaction referred to in subsection (a) (or transfers any other property the basis of which is determined in whole or in part by reference to the basis of property so acquired) and (but for this paragraph) there is not full recognition of gain on such transfer, the excess (if any) of—
 
@@ -81,15 +81,15 @@
 
 >             shall be treated as gain from the sale or exchange of such property and shall be recognized notwithstanding any other provision of law. Proper adjustment shall be made to the basis of any such property for gain recognized under the preceding sentence.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Common parent.—__ 
+>         “(1)  __Common parent__  __.—__ 
 
 >         The term ‘common parent’ means the common parent of the affiliated group which included the domestic corporation referred to in subsection (a)(1).
 
->         “(2) __Qualified excess loss account.—__ 
+>         “(2)  __Qualified excess loss account__  __.—__ 
 
 >         The term ‘qualified excess loss account’ means any excess loss account (within the meaning of the consolidated return regulations) to the extent such account is attributable—
 
@@ -99,11 +99,11 @@
 
 >             The amount of such account shall be determined as of immediately after the transaction referred to in subsection (a) and without, except as provided in subsection (b), diminution for any future adjustment.
 
->         “(3) __Net amount.—__ 
+>         “(3)  __Net amount__  __.—__ 
 
 >         The net amount of any item of income is the amount of such income reduced by allocable deductions as determined under the rules of section 954(b)(5) of the 1986 Code.
 
->         “(4) __Second same country corporation may be treated as domestic corporation in certain cases.—__ 
+>         “(4)  __Second same country corporation may be treated as domestic corporation in certain cases__  __.—__ 
 
 >         If—
 

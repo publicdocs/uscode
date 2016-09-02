@@ -659,11 +659,11 @@
 
 [Pub. L. 97–248, title II, § 281(d)][/us/pl/97/248/s281/d], Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section, amending [section 9501 of this title][/us/usc/t26/s9501], and repealing section 1742 of former Title 49, Transportation, and provisions which had amended a note set out under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall take effect on September 1, 1982.
 
->     “(2) __Savings provisions.—__ 
+>     “(2)  __Savings provisions__  __.—__ 
 
 >     The Airport and Airway Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the Airport and Airway Trust Fund established by section 208 of the Airport and Airway Revenue Act of 1970 \[[section 208 of Pub. L. 91–258][/us/pl/91/258/s208], May 21, 1970, [84 Stat. 250][/us/stat/84/250], enacted section 1742 of former Title 49 and amended provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120]\]. Any reference in any law to the Airport and Airway Trust Fund established by such section 208 shall be deemed to include a reference to the Airport and Airway Trust Fund established by the amendments made by this section.”
 

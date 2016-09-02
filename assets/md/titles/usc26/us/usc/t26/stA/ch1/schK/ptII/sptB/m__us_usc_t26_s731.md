@@ -205,15 +205,15 @@
 
 [Pub. L. 103–465, title VII, § 741(c)][/us/pl/103/465/s741/c], Dec. 8, 1994, [108 Stat. 5009][/us/stat/108/5009], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 737 of this title][/us/usc/t26/s737]\] shall apply to distributions after the date of the enactment of this Act \[Dec. 8, 1994\].
 
->     “(2) __Certain distributions before__  __january 1, 1995__  __.—__ 
+>     “(2)  __Certain distributions before __  __january 1, 1995__  __.—__ 
 
 >     The amendments made by this section shall not apply to any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
 
->     “(3) __Distributions in liquidation of partner’s interest.—__ 
+>     “(3)  __Distributions in liquidation of partner’s interest__  __.—__ 
 
 >     The amendments made by this section shall not apply to the distribution of a marketable security in liquidation of a partner’s interest in a partnership if—
 
@@ -231,7 +231,7 @@
 
 >     “(4) __Distributions in complete liquidation of publicly traded partnerships.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall not apply to the distribution of a marketable security in a qualified partnership liquidation if—
 
@@ -241,7 +241,7 @@
 
 >             “(iii) the partnership is liquidated before the beginning of the 1st taxable year of the partnership beginning after December 31, 1997.
 
->         “(B) __Qualified partnership liquidation.—__ 
+>         “(B)  __Qualified partnership liquidation__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified partnership liquidation’ means—
 
@@ -249,7 +249,7 @@
 
 >             “(ii) a complete liquidation of a partnership which is related to a partnership described in clause (i) if such liquidation is related to a complete liquidation of the partnership described in clause (i).
 
->     “(5) __Marketable securities.—__ 
+>     “(5)  __Marketable securities__  __.—__ 
 
 >     For purposes of this subsection, the term ‘marketable securities’ has the meaning given such term by section 731(c) of the Internal Revenue Code of 1986, as added by this section.”
 

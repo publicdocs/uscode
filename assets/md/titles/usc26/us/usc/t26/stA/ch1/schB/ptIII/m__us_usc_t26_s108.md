@@ -813,11 +813,11 @@
 
 [Pub. L. 107–147, title IV, § 402(b)][/us/pl/107/147/s402/b], Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to discharges of indebtedness after October 11, 2001, in taxable years ending after such date.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by this section shall not apply to any discharge of indebtedness before March 1, 2002, pursuant to a plan of reorganization filed with a bankruptcy court on or before October 11, 2001.”
 
@@ -843,11 +843,11 @@
 
 [Pub. L. 103–66, title XIII, § 13226(a)(3)][/us/pl/103/66/s13226/a/3], Aug. 10, 1993, [107 Stat. 487][/us/stat/107/487], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section and [section 382 of this title][/us/usc/t26/s382]\] shall apply to stock transferred after December 31, 1994, in satisfaction of any indebtedness.
 
->     “(B) __Exception for title 11 cases.—__ 
+>     “(B)  __Exception for title 11 cases__  __.—__ 
 
 >     The amendments made by this subsection shall not apply to stock transferred in satisfaction of any indebtedness if such transfer is in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1986) which was filed on or before December 31, 1993.”
 
@@ -859,11 +859,11 @@
 
 [Pub. L. 101–508, title XI, § 11325(c)][/us/pl/101/508/s11325/c], Nov. 5, 1990, [104 Stat. 1388–466][/us/stat/104/1388-466], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1275 of this title][/us/usc/t26/s1275]\] shall apply to debt instruments issued, and stock transferred, after October 9, 1990, in satisfaction of any indebtedness.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by this section shall not apply to any debt instrument issued, or stock transferred, in satisfaction of any indebtedness if such issuance or transfer (as the case may be)—
 
@@ -921,11 +921,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 59(b)][/us/pl/98/369/s59/b]\[(c)\], July 18, 1984, [98 Stat. 577][/us/stat/98/577], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act if such transfer is—
 
@@ -933,7 +933,7 @@
 
 >         “(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
->     “(3) __Certain transfers to controlling shareholder.—__ 
+>     “(3)  __Certain transfers to controlling shareholder__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any transfer before January 1, 1985, by a corporation of its stock in exchange for debt of such corporation if—
 
@@ -941,7 +941,7 @@
 
 >         “(B) immediately after such transfer, the transferee corporation owns 80 percent or more of the total value of the stock of the transferor corporation.
 
->     “(4) __Certain transfers pursuant to debt restructure agreement.—__ 
+>     “(4)  __Certain transfers pursuant to debt restructure agreement__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act and before January 1, 1985, if—
 
@@ -969,7 +969,7 @@
 
 [Pub. L. 96–589, § 7][/us/pl/96/589/s7], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __For Section 2 (Relating to Tax Treatment of Discharge of Indebtedness).—__ 
+>     “(a)  __For Section__  __2 (Relating to Tax Treatment of Discharge of Indebtedness).—__ 
 
 >         “(1) __In general.—__ 
 
@@ -983,11 +983,11 @@
 
 >             “(B) the basis of any property shall not be reduced under section 1017 of such Code (relating to reduction in basis in connection with discharges of indebtedness), as so amended, below the fair market value of such property on the date the debt is discharged.
 
->     “(b) __For Section 3 (Relating to Rules Relating to Title 11 Cases for Individuals).—__ 
+>     “(b)  __For Section__  __3__  __(Relating to Rules Relating to Title__  __11 Cases for Individuals).—__ 
 
 >     The amendments made by section 3 \[enacting sections 1398 and 1399 of this title and amending sections 443, 6012 and 6103 of this title\] shall apply to any bankruptcy case commencing more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].
 
->     “(c) __For Section 4 (Relating to Corporate Reorganization Provisions).—__ 
+>     “(c)  __For Section__  __4 (Relating to Corporate Reorganization Provisions).—__ 
 
 >         “(1) __In general.—__ 
 
@@ -1001,37 +1001,37 @@
 
 >             “(B) which does not occur in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) commenced on or before December 31, 1980.
 
->     “(d) __For Section 5 (Relating to Miscellaneous Corporate Amendments).—__ 
+>     “(d)  __For Section__  __5 (Relating to Miscellaneous Corporate Amendments).—__ 
 
->         “(1) __For subsection (a) (relating to exemption from personal holding company tax).—__ 
+>         “(1)  __For subsection__  __(a) (relating to exemption from personal holding company tax).—__ 
 
 >         The amendments made by subsection (a) of section 5 \[amending [section 542 of this title][/us/usc/t26/s542]\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
 
->         “(2) __For subsection (b) (relating to repeal of special treatment for certain railroad redemptions).—__ 
+>         “(2)  __For subsection__  __(b) (relating to repeal of special treatment for certain railroad redemptions).—__ 
 
 >         The amendments made by subsection (b) of section 5 \[amending [section 302 of this title][/us/usc/t26/s302]\] shall apply to stock which is issued after December 31, 1980 (other than stock issued pursuant to a plan of reorganization approved on or before that date).
 
->         “(3) __For subsection (c) (relating to application of 12-month liquidation rule).—__ 
+>         “(3)  __For subsection__  __(c) (relating to application of 12-month liquidation rule).—__ 
 
 >         The amendment made by subsection (c) of section 5 \[amending [section 337 of this title][/us/usc/t26/s337]\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
 
->         “(4) __For subsection (d) (relating to permitting bankruptcy estate to be subchapter s shareholder).—__ 
+>         “(4)  __For subsection__  __(d) (relating to permitting bankruptcy estate to be subchapter s shareholder).—__ 
 
 >         The amendment made by subsection (d) of section 5 \[amending [section 1371 of this title][/us/usc/t26/s1371]\] shall apply to any bankruptcy case commenced on or after October 1, 1979.
 
->         “(5) __For subsection (e) (relating to certain transfers to controlled corporations).—__ 
+>         “(5)  __For subsection__  __(e) (relating to certain transfers to controlled corporations).—__ 
 
 >         The amendments made by subsection (e) of section 5 \[amending [section 351 of this title][/us/usc/t26/s351]\] shall apply as provided in subsection (a) of this section.
 
->         “(6) __For subsection (f) (relating to effect of debt discharge on earnings and profits).—__ 
+>         “(6)  __For subsection__  __(f) (relating to effect of debt discharge on earnings and profits).—__ 
 
 >         The amendment made by subsection (f) of section 5 \[amending [section 312 of this title][/us/usc/t26/s312]\] shall apply as provided in subsection (a) of this section.
 
->     “(e) __For Section 6 (Relating to Changes in Tax Procedures).—__ 
+>     “(e)  __For Section__  __6 (Relating to Changes in Tax Procedures).—__ 
 
 >     The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing [section 1018 of this title][/us/usc/t26/s1018], and redesignating former [section 7464 of this title][/us/usc/t26/s7464] as 7465\] shall take effect on October 1, 1979, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before October 1, 1979.
 
->     “(f) __Election To Substitute__  __September 30, 1979__  __, for__  __December 31, 1980__  __.—__ 
+>     “(f)  __Election To Substitute September__  __30, 1979,__  __for December__  __31, 1980.—__ 
 
 >         “(1) __In general.—__ 
 
@@ -1083,7 +1083,7 @@
 
 [Pub. L. 107–134, title I, § 105][/us/pl/107/134/s105], Jan. 23, 2002, [115 Stat. 2432][/us/stat/115/2432], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986—
 
@@ -1091,7 +1091,7 @@
 
 >         “(2) return requirements under section 6050P of such Code shall not apply to any discharge described in paragraph (1).
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall apply to discharges made on or after September 11, 2001, and before January 1, 2002.”
 

@@ -201,11 +201,11 @@
 
 [Pub. L. 105–34, title XI, § 1113(c)][/us/pl/105/34/s1113/c], Aug. 5, 1997, [111 Stat. 971][/us/stat/111/971], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 960 of this title][/us/usc/t26/s960]\] shall apply to taxes of foreign corporations for taxable years of such corporations beginning after the date of enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     In the case of any chain of foreign corporations described in clauses (i) and (ii) of section 902(b)(2)(B) of the Internal Revenue Code of 1986 (as amended by this section), no liquidation, reorganization, or similar transaction in a taxable year beginning after the date of the enactment of this Act shall have the effect of permitting taxes to be taken into account under section 902 of the Internal Revenue Code of 1986 which could not have been taken into account under such section but for such transaction.”
 

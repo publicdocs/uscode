@@ -309,11 +309,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 92(c)][/us/pl/98/369/s92/c], July 18, 1984, [98 Stat. 612][/us/stat/98/612], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section\] shall apply with respect to agreements entered into after June 8, 1984.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by this section shall not apply—
 
@@ -355,7 +355,7 @@
 
 >     “(3) __Schedule of deemed rental payments.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In any case to which paragraph (2)(B) applies, for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the lessor shall be treated as having received or accrued (and the lessee shall be treated as having paid or incurred) rents equal to the greater of—
 
@@ -365,7 +365,7 @@
 
 >         “(B) __Schedule.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The schedule under this subparagraph is as follows:
 
@@ -453,7 +453,7 @@
 
 >             </table>
 
->             “(ii) __Operating rules.—__ 
+>             “(ii)  __Operating rules__  __.—__ 
 
 >             For purposes of this schedule—
 
@@ -461,7 +461,7 @@
 
 >                 “(II) any agreement relating to property which is to be placed in service in 2 or more stages shall be treated as 2 or more separate agreements.
 
->         “(C) __Paragraph not to apply.—__ 
+>         “(C)  __Paragraph not to apply__  __.—__ 
 
 >         This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all the payments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
 

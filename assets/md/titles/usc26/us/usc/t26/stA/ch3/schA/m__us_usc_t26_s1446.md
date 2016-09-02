@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t26/stA/ch3/schA/m__us_usc_t26_s1445.md) | [Next](./../../../../../..//us/usc/t26/stA/ch3/schB/m__us_usc_t26_stA_ch3_schB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1446)
 
-## § 1446. Withholding  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of”. </sup></sup>  tax on foreign partners’ share of effectively connected income
+## § 1446. Withholding tax on foreign partners’ share of effectively connected income
 
     (a) __General rule__ 
 

@@ -403,7 +403,7 @@
 
 [Pub. L. 99–499, title V, § 513(h)][/us/pl/99/499/s513/h], Oct. 17, 1986, [100 Stat. 1765][/us/stat/100/1765], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 4662 of this title][/us/usc/t26/s4662]\] shall take effect on January 1, 1987.
 
@@ -411,59 +411,59 @@
 
 >         “(A) __Refund of tax previously imposed.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest, additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
 
->             “(ii) __Condition to allowance.—__ 
+>             “(ii)  __Condition to allowance__  __.—__ 
 
 >             Clause (i) shall not apply to a sale of xylene unless the person who (but for clause (i)) would be liable for the tax imposed by section 4661 on such sale meets requirements similar to the requirements of paragraph (1) of section 6416(a) of such Code. For purposes of the preceding sentence, subparagraph (A) of section 6416(a)(1) of such Code shall be applied without regard to the material preceding ‘has not collected’.
 
->         “(B) __Waiver of statute of limitations.—__ 
+>         “(B)  __Waiver of statute of limitations__  __.—__ 
 
 >         If on the date of the enactment of this Act \[Oct. 17, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of subparagraph (A) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.
 
->         “(C) __Xylene to include isomers.—__ 
+>         “(C)  __Xylene to include isomers__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘xylene’ shall include any isomer of xylene whether or not separated.
 
 >     “(3) __Inventory exchanges.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendment made by subsection (f) \[amending [section 4662 of this title][/us/usc/t26/s4662]\] shall apply as if included in the amendments made by section 211 of the Hazardous Substance Response Revenue Act of 1980 \[[Pub. L. 96–510][/us/pl/96/510], enacting this chapter\].
 
->         “(B) __Recipient must agree to treatment as manufacturer.—__ 
+>         “(B)  __Recipient must agree to treatment as manufacturer__  __.—__ 
 
 >         In the case of any inventory exchange before January 1, 1987, the amendment made by subsection (f) shall apply only if the person receiving the chemical from the manufacturer, producer, or importer in the exchange agrees to be treated as the manufacturer, producer, or importer of such chemical for purposes of subchapter B of chapter 38 of the Internal Revenue Code of 1986.
 
->         “(C) __Exception where manufacturer paid tax.—__ 
+>         “(C)  __Exception where manufacturer paid tax__  __.—__ 
 
 >         In the case of any inventory exchange before January 1, 1987, the amendment made by subsection (f) shall not apply if the manufacturer, producer, or importer treated such exchange as a sale for purposes of section 4661 of such Code and paid the tax imposed by such section.
 
->         “(D) __Registration requirements.—__ 
+>         “(D)  __Registration requirements__  __.—__ 
 
 >         Section 4662(c)(2)(B) of such Code (as added by subsection (f)) shall apply to exchanges made after December 31, 1986.
 
->     “(4) __Exports of taxable substances.—__ 
+>     “(4)  __Exports of taxable substances__  __.—__ 
 
 >     Subclause (II) of section 4662(e)(2)(A)(ii) of such Code (as added by this section) shall not apply to the export of any taxable substance (as defined in section 4672(a) of such Code) before January 1, 1989.
 
 >     “(5) __Sales of intermediate hydrocarbon streams.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendment made by subsection (g) \[amending [section 4662 of this title][/us/usc/t26/s4662]\] shall apply as if included in the amendments made by section 211 of the Hazardous Substances Response Revenue Act of 1980.
 
->         “(B) __Purchaser must agree to treatment as manufacturer.—__ 
+>         “(B)  __Purchaser must agree to treatment as manufacturer__  __.—__ 
 
 >         In the case of any sale before January 1, 1987, of any intermediate hydrocarbon stream, the amendment made by subsection (g) shall apply only if the purchaser agrees to be treated as the manufacturer, producer, or importer for purposes of subchapter B of chapter 38 of such Code.
 
->         “(C) __Exception where manufacturer paid tax.—__ 
+>         “(C)  __Exception where manufacturer paid tax__  __.—__ 
 
 >         In the case of any sale before January 1, 1987, of any intermediate hydrocarbon stream, the amendment made by subsection (g) shall not apply if the manufacturer, producer, or importer of such stream paid the tax imposed by section 4661 with respect to such sale on all taxable chemicals contained in such stream.
 
->         “(D) __Registration requirements.—__ 
+>         “(D)  __Registration requirements__  __.—__ 
 
 >         Section 4662(b)(10)(C) of such Code (as added by subsection (g)) shall apply to exchanges made after December 31, 1986.”
 

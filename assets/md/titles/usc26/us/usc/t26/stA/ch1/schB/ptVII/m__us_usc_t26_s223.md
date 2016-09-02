@@ -565,6 +565,8 @@
 
     Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+    2014—Revenue Procedure 2013–25.
+
     2013—Revenue Procedure 2012–26.
 
     2012—Revenue Procedure 2011–32.

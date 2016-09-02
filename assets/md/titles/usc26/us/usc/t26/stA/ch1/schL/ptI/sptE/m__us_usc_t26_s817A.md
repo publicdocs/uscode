@@ -87,11 +87,11 @@
 
 [Pub. L. 104–188, title I, § 1612(c)][/us/pl/104/188/s1612/c], Aug. 20, 1996, [110 Stat. 1847][/us/stat/110/1847], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Treatment of net adjustments.—__ 
+>     “(2)  __Treatment of net adjustments__  __.—__ 
 
 >     Except as provided in paragraph (3), in the case of any taxpayer required by the amendments made by this section to change its calculation of reserves to take into account market value adjustments and to mark segregated assets to market for any taxable year—
 
@@ -105,7 +105,7 @@
 
 >         “(A) __Limitation on loss recognition.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The aggregate loss recognized by reason of the application of section 481 of the Internal Revenue Code of 1986 with respect to section 817A(b) of such Code (as added by this section) for the first taxable year of the taxpayer beginning after December 31, 1995, shall not exceed the amount included in the taxpayer’s gross income for such year by reason of the excess (if any) of—
 
@@ -115,21 +115,21 @@
 
 >                   to the extent such excess is attributable to subsection (a) of such section 817A. Notwithstanding the preceding sentence, the adjusted basis of each segregated asset shall be determined as if all such losses were recognized.
 
->             “(ii) __Disallowed loss allowed over period.—__ 
+>             “(ii)  __Disallowed loss allowed over period__  __.—__ 
 
 >             The amount of the loss which is not allowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer’s first taxable year beginning after December 31, 1995.
 
 >         “(B) __Limitation on deduction for increase in reserves.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The deduction allowed for the first taxable year of the taxpayer beginning after December 31, 1995, by reason of the application of section 481 of such Code with respect to section 817A(a) of such Code (as added by this section) shall not exceed the aggregate built-in gain recognized by reason of the application of such section 481 with respect to section 817A(b) of such Code (as added by this section) for such first taxable year.
 
->             “(ii) __Disallowed deduction allowed over period.—__ 
+>             “(ii)  __Disallowed deduction allowed over period__  __.—__ 
 
 >             The amount of the deduction which is disallowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer’s first taxable year beginning after December 31, 1995.
 
->             “(iii) __Built-in gain.—__ 
+>             “(iii)  __Built-in gain__  __.—__ 
 
 >             For purposes of this subparagraph, the built-in gain on an asset is the amount equal to the excess of—
 

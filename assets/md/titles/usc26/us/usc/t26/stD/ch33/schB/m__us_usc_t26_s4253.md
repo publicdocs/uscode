@@ -145,11 +145,11 @@
 
 [Pub. L. 101–508, title XI, § 11217(c)(2)][/us/pl/101/508/s11217/c/2], Nov. 5, 1990, [104 Stat. 1388–438][/us/stat/104/1388-438], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to any claim for exemption made after the date of the enactment of this Act \[Nov. 5, 1990\].
 
->     “(B) __Duration of existing certificates.—__ 
+>     “(B)  __Duration of existing certificates__  __.—__ 
 
 >     Any annual certificate of exemption effective on the date of the enactment of this Act \[Nov. 5, 1990\] shall remain effective until the end of the annual period.”
 

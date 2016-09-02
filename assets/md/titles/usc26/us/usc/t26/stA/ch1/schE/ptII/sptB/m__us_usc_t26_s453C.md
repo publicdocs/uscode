@@ -31,13 +31,13 @@
 
 [Pub. L. 99–514, title VIII, § 811(c)][/us/pl/99/514/s811/c], Oct. 22, 1986, [100 Stat. 2368][/us/stat/100/2368], as amended by [Pub. L. 100–647, title I, § 1008(f)(6)][/us/pl/100/647/s1008/f/6]–(8), Nov. 10, 1988, [102 Stat. 3442][/us/stat/102/3442]; [Pub. L. 105–34, title X, § 1088(a)][/us/pl/105/34/s1088/a], Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this section \[enacting this section\] shall apply to taxable years ending after December 31, 1986, with respect to dispositions after February 28, 1986.
 
 >     “\[(2) Repealed. [Pub. L. 105–34, title X, § 1088(a)][/us/pl/105/34/s1088/a], Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959].\]
 
->     “(3) __Exception for certain obligations.—__ 
+>     “(3)  __Exception for certain obligations__  __.—__ 
 
 >     In applying the amendments made by this section to any installment obligation of a corporation incorporated on January 13, 1928, the following indebtedness shall not be taken into account in determining the allocable installment indebtedness of such corporation under section 453C of the Internal Revenue Code of 1986 (as added by this section):
 
@@ -47,7 +47,7 @@
 
 >         This paragraph shall also apply to indebtedness which replaces indebtedness described in this paragraph if such indebtedness does not exceed the amount and maturity of the indebtedness it replaces.
 
->     “(4) __Special rule for residential condominium project.—__ 
+>     “(4)  __Special rule for residential condominium project__  __.—__ 
 
 >     For purposes of applying the amendments made by this section, the term applicable installment obligation (within the meaning of section 453C(e)(1) of the Internal Revenue Code of 1986) shall not include any obligation arising in connection with sales from a residential condominium project—
 
@@ -61,7 +61,7 @@
 
 >         “(E) with respect to which at least $1,000,000 of expenses were incurred before September 26, 1985.
 
->     “(5) __Special rule for qualified buyout.—__ 
+>     “(5)  __Special rule for qualified buyout__  __.—__ 
 
 >     The amendments made by this section shall apply for taxable years ending after December 31, 1991, to a corporation if—
 
@@ -73,7 +73,7 @@
 
 >         “(D) substantially all of the stock of the corporation is owned directly or indirectly by employees of the corporation the stock of which was acquired on October 23, 1984.
 
->     “(6) __Special rule for sales of real property by dealers.—__ 
+>     “(6)  __Special rule for sales of real property by dealers__  __.—__ 
 
 >     In the case of installment obligations arising from the sale of real property in the ordinary course of the trade or business of the taxpayer, any gain attributable to allocable installment indebtedness allocated to any such installment obligations which arise (or are deemed to arise)—
 
@@ -81,7 +81,7 @@
 
 >         “(B) in the 2nd taxable year of the taxpayer ending after December 31, 1986, shall be taken into account ratably over the 2 taxable years beginning with such 2nd taxable year.
 
->     “(7) __Special rule for sales of personal property by dealers.—__ 
+>     “(7)  __Special rule for sales of personal property by dealers__  __.—__ 
 
 >     In the case of installment obligations arising from the sale of personal property in the ordinary course of the trade or business of the taxpayer, solely for purposes of determining the time for payment of tax and interest payable with respect to such tax—
 
@@ -89,7 +89,7 @@
 
 >         “(B) any increase in tax imposed by such chapter 1 for the 2nd taxable year of the taxpayer ending after December 31, 1986 (determined without regard to subparagraph (A)), by reason of the amendments made by this section shall be treated as imposed ratably over the 2 taxable years beginning with such 2nd taxable year.
 
->     “(8) __Treatment of certain installment obligations.—__ 
+>     “(8)  __Treatment of certain installment obligations__  __.—__ 
 
 >     Notwithstanding the amendments made by subtitle B of title III \[[section 311 of Pub. L. 99–514][/us/pl/99/514/s311], amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], gain with respect to installment payments received pursuant to notes issued in accordance with a note agreement dated as of August 29, 1980, where—
 
@@ -101,15 +101,15 @@
 
 >         shall be taxed at a rate of 28 percent.
 
->     “(9) __Special rules.—__ 
+>     “(9)  __Special rules__  __.—__ 
 
 >     For purposes of section 453C of the 1986 Code (as added by subsection (a))—
 
->         “(A) __Revolving credit plans, etc.—__ 
+>         “(A)  __Revolving credit plans, etc__  __.—__ 
 
 >         The term ‘applicable installment obligation’ shall not include any obligation arising out of any disposition or sale described in paragraph (1) or (2) of section 453(k) of such Code (as added by section 812(a)).
 
->         “(B) __Certain dispositions deemed made on first day of taxable year.—__ 
+>         “(B)  __Certain dispositions deemed made on first day of taxable year__  __.—__ 
 
 >         In the case of a taxpayer’s 1st taxable year ending after December 31, 1986, dispositions after February 28, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day.”
 

@@ -273,25 +273,25 @@
 
 [Pub. L. 105–34, title X, § 1002(b)][/us/pl/105/34/s1002/b], Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to transfers after June 8, 1997, in taxable years ending after such date.
 
->     “(2) __Binding contracts.—__ 
+>     “(2)  __Binding contracts__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any transfer pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such transfer if such contract provides for the transfer of a fixed amount of property.”
 
 [Pub. L. 105–34, title X, § 1012(d)][/us/pl/105/34/s1012/d], Aug. 5, 1997, [111 Stat. 917][/us/stat/111/917], as amended by [Pub. L. 105–206, title VI, § 6010(c)(1)][/us/pl/105/206/s6010/c/1], July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
 
->     “(1) __Section 355 rules.—__ 
+>     “(1)  __Section 355 rules__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending sections 355 and 358 of this title\] shall apply to distributions after April 16, 1997; except that the amendment made by subsection (a) \[amending [section 355 of this title][/us/usc/t26/s355]\] shall apply to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 occurring after such date.
 
->     “(2) __Divisive transactions.—__ 
+>     “(2)  __Divisive transactions__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section and [section 368 of this title][/us/usc/t26/s368]\] shall apply to transfers after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(3) __Transition rule.—__ 
+>     “(3)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 355, 358, and 368 of this title\] shall not apply to any distribution pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 (or, in the case of the amendments made by subsection (c), any transfer) occurring after April 16, 1997, if such acquisition or transfer is—
 
@@ -305,11 +305,11 @@
 
 [Pub. L. 105–34, title X, § 1014(f)][/us/pl/105/34/s1014/f], Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 354 to 356 and 1036 of this title\] shall apply to transactions after June 8, 1997.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any transaction after June 8, 1997, if such transaction is—
 
@@ -323,15 +323,15 @@
 
 [Pub. L. 101–239, title VII, § 7203(c)][/us/pl/101/239/s7203/c], Dec. 19, 1989, [103 Stat. 2334][/us/stat/103/2334], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to transfers after October 2, 1989, in taxable years ending after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendments made by this section shall not apply to any transfer pursuant to a written binding contract in effect on October 2, 1989, and at all times thereafter before such transfer.
 
->     “(3) __Corporate transfers.—__ 
+>     “(3)  __Corporate transfers__  __.—__ 
 
 >     In the case of property transferred (directly or indirectly through a partnership or otherwise) by a C corporation, paragraphs (1) and (2) shall be applied by substituting ‘July 11, 1989’ for ‘October 2, 1989’. The preceding sentence shall not apply where the corporation meets the requirements of section 1504(a)(2) of the Internal Revenue Code of 1986 with respect to the transferee corporation (and where the transfer is not part of a plan pursuant to which the transferor subsequently fails to meet such requirements).”
 

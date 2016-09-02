@@ -61,11 +61,11 @@
 
 [Pub. L. 103–66, title XIII, § 13262(c)][/us/pl/103/66/s13262/c], Aug. 10, 1993, [107 Stat. 541][/us/stat/107/541], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 751 of this title][/us/usc/t26/s751]\] shall apply in the case of partners retiring or dying on or after January 5, 1993.
 
->     “(2) __Binding contract exception.—__ 
+>     “(2)  __Binding contract exception__  __.—__ 
 
 >     The amendments made by this section shall not apply to any partner retiring on or after January 5, 1993, if a written contract to purchase such partner’s interest in the partnership was binding on January 4, 1993, and at all times thereafter before such purchase.”
 

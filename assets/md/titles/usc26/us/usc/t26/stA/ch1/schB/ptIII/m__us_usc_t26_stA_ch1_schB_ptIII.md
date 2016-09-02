@@ -445,7 +445,7 @@
 
 [Pub. L. 107–16, title VIII, § 803][/us/pl/107/16/s803], June 7, 2001, [115 Stat. 149][/us/stat/115/149], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1986, any excludable restitution payments received by an eligible individual (or the individual’s heirs or estate) and any excludable interest—
 
@@ -455,11 +455,11 @@
 
 >         For purposes of such Code, the basis of any property received by an eligible individual (or the individual’s heirs or estate) as part of an excludable restitution payment shall be the fair market value of such property as of the time of the receipt.
 
->     “(b) __Eligible Individual.—__ 
+>     “(b)  __Eligible Individual__  __.—__ 
 
 >     For purposes of this section, the term ‘eligible individual’ means a person who was persecuted on the basis of race, religion, physical or mental disability, or sexual orientation by Nazi Germany, any other Axis regime, or any other Nazi-controlled or Nazi-allied country.
 
->     “(c) __Excludable Restitution Payment.—__ 
+>     “(c)  __Excludable Restitution Payment__  __.—__ 
 
 >     For purposes of this section, the term ‘excludable restitution payment’ means any payment or distribution to an individual (or the individual’s heirs or estate) which—
 
@@ -469,7 +469,7 @@
 
 >         “(3) consists of interest which is payable as part of any payment or distribution described in paragraph (1) or (2).
 
->     “(d) __Excludable Interest.—__ 
+>     “(d)  __Excludable Interest__  __.—__ 
 
 >     For purposes of this section, the term ‘excludable interest’ means any interest earned by—
 
@@ -481,11 +481,11 @@
 
 >     “(e) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall apply to any amount received on or after January 1, 2000.
 
->         “(2) __No inference.—__ 
+>         “(2)  __No inference__  __.—__ 
 
 >         Nothing in this Act \[see Tables for classification\] shall be construed to create any inference with respect to the proper tax treatment of any amount received before January 1, 2000.”
 

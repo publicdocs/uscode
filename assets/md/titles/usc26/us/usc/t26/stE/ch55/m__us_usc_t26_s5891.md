@@ -143,15 +143,15 @@
 
 [Pub. L. 107–134, title I, § 115(c)][/us/pl/107/134/s115/c], Jan. 23, 2002, [115 Stat. 2438][/us/stat/115/2438], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this chapter\] (other than the provisions of section 5891(d) of the Internal Revenue Code of 1986, as added by this section) shall apply to structured settlement factoring transactions (as defined in section 5891(c) of such Code (as so added)) entered into on or after the 30th day following the date of the enactment of this Act \[Jan. 23, 2002\].
 
->     “(2) __Clarification of existing law.—__ 
+>     “(2)  __Clarification of existing law__  __.—__ 
 
 >     Section 5891(d) of such Code (as so added) shall apply to structured settlement factoring transactions (as defined in section 5891(c) of such Code (as so added)) entered into before, on, or after such 30th day.
 
->     “(3) __Transition rule.—__ 
+>     “(3)  __Transition rule__  __.—__ 
 
 >     In the case of a structured settlement factoring transaction entered into during the period beginning on the 30th day following the date of the enactment of this Act and ending on July 1, 2002, no tax shall be imposed under section 5891(a) of such Code if—
 

@@ -21,11 +21,11 @@
 
 [Pub. L. 99–514, title VIII, § 823(c)][/us/pl/99/514/s823/c], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], provided:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending [section 461 of this title][/us/usc/t26/s461] and repealing this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer who elected to have section 466 of the Internal Revenue Code of 1954 \[now 1986\] apply for such taxpayer’s last taxable year beginning before January 1, 1987, and is required to change its method of accounting by reason of the amendments made by this section for any taxable year—
 

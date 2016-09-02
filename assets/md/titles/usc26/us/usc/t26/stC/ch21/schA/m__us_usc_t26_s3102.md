@@ -137,11 +137,11 @@
 
 [Pub. L. 103–387, § 2(a)(3)][/us/pl/103/387/s2/a/3], Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section, [section 3121 of this title][/us/usc/t26/s3121], and sections 409 and 410 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1993.
 
->     “(B) __Excluded employment.—__ 
+>     “(B)  __Excluded employment__  __.—__ 
 
 >     The amendments made by paragraphs (1)(C) and (2)(B) \[amending [section 3121 of this title][/us/usc/t26/s3121] and [section 410 of Title 42][/us/usc/t42/s410]\] shall apply to services performed after December 31, 1994.”
 

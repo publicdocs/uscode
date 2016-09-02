@@ -543,11 +543,11 @@
 
 [Pub. L. 97–248, title II, § 241][/us/pl/97/248/s241], Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this part \[part II (§§ 237–241) of subtitle C of title II of [Pub. L. 97–248][/us/pl/97/248], enacting this section, amending sections 72, 401, 404, 408, 414, 415, and 1379 of this title, and repealing [section 4972 of this title][/us/usc/t26/s4972]\] shall apply to years beginning after December 31, 1983.
 
->     “(b) __Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—__ 
+>     “(b)  __Allowance of Exclusion of Death Benefit for Self-Employed Individuals__  __.—__ 
 
 >     The amendment made by section 239 \[amending [section 101 of this title][/us/usc/t26/s101]\] shall apply with respect to decedents dying after December 31, 1983.”
 

@@ -519,15 +519,15 @@
 
 [Pub. L. 99–514, title V, § 503(c)][/us/pl/99/514/s503/c], Oct. 22, 1986, [100 Stat. 2244][/us/stat/100/2244], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to losses incurred after December 31, 1986, with respect to property placed in service by the taxpayer after December 31, 1986.
 
->     “(2) __Special rule for losses of s corporation, partnership, or pass-thru entity.—__ 
+>     “(2)  __Special rule for losses of s corporation, partnership, or pass-thru entity__  __.—__ 
 
 >     In the case of an interest in an S corporation, a partnership, or other pass-thru entity acquired after December 31, 1986, the amendments made by this section shall apply to losses after December 31, 1986, which are attributable to property placed in service by the S corporation, partnership, or pass-thru entity on, before, or after January 1, 1986.
 
->     “(3) __Special rule for athletic stadium.—__ 
+>     “(3)  __Special rule for athletic stadium__  __.—__ 
 
 >     The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh, Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986.”
 
@@ -565,13 +565,13 @@
 
 [Pub. L. 94–455, title II, § 204(c)][/us/pl/94/455/s204/c], Oct. 4, 1976, [90 Stat. 1532][/us/stat/90/1532], as amended by [Pub. L. 95–600, title VII, § 701(k)(1)][/us/pl/95/600/s701/k/1], Nov. 6, 1978, [92 Stat. 2906][/us/stat/92/2906]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting this section\] shall apply to losses attributable to amounts paid or incurred in taxable years beginning after December 31, 1975. For purposes of this subsection, any amount allowed or allowable for depreciation or amortization for any period shall be treated as an amount paid or incurred in such period.
 
 >     “(2) __Special transitional rules for movies and video tapes.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any activity described in section 465(c)(1)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section shall not apply to—
 
@@ -579,7 +579,7 @@
 
 >             “(ii) deductions attributable to producing or distributing property the principal production of which began before September 11, 1975.
 
->         “(B) __Exception for certain agreements where principal photography begin before 1976.—__ 
+>         “(B)  __Exception for certain agreements where principal photography begin before 1976__  __.—__ 
 
 >         In the case of any activity described in section 465(c)(1)(A) of the Internal Revenue Code of 1986, the amendments made by this section shall not apply to deductions attributable to the producing of a film the principal photography of which began on or before December 31, 1975, if—
 
@@ -591,7 +591,7 @@
 
 >     “(3) __Special transitional rules for leasing activities.—__ 
 
->         “(A) __Rule for leases other than operating leases.—__ 
+>         “(A)  __Rule for leases other than operating leases__  __.—__ 
 
 >         In the case of any activity described in section 465(c)(1)(C) of the Internal Revenue Code of 1986, the amendments made by this section shall not apply with respect to—
 
@@ -599,11 +599,11 @@
 
 >             “(ii) leases where the property was ordered by the lessor or lessee before January 1, 1976.
 
->         “(B) __Holding of interests for purposes of subparagraph (a).—__ 
+>         “(B)  __Holding of interests for purposes of subparagraph (a)__  __.—__ 
 
 >         Subparagraph (A) shall apply only to taxpayers who held their interests in the property on December 31, 1975.
 
->         “(C) __Special rule for operating leases.—__ 
+>         “(C)  __Special rule for operating leases__  __.—__ 
 
 >         In the case of a lease described in section 46(e)(3)(B) of the Internal Revenue Code of 1986—
 
@@ -619,13 +619,13 @@
 
 [Pub. L. 95–600, title II, § 204(b)][/us/pl/95/600/s204/b], Nov. 6, 1978, [92 Stat. 2817][/us/stat/92/2817], as amended by [Pub. L. 96–222, title I, § 102(a)(1)(E)][/us/pl/96/222/s102/a/1/E], Apr. 1, 1980, [94 Stat. 208][/us/stat/94/208]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Recapture provisions.—__ 
+>     “(1)  __Recapture provisions__  __.—__ 
 
 >     If the amount for which the taxpayer is at risk in any activity as of the close of the taxpayer’s last taxable year beginning before January 1, 1979, is less than zero, section 465(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 203 of this Act) shall be applied with respect to such activity of the taxpayer by substituting such negative amount for zero.
 
 >     “(2) __Special transitional rules for leasing activities.—__ 
 
->         “(A) __Rule for leases.—__ 
+>         “(A)  __Rule for leases__  __.—__ 
 
 >         In the case of any activity described in section 465(c)(1)(C) of such Code in which a corporation described in section 465(a)(1)(C) of such Code is engaged, the amendments made by this subtitle \[amending sections 465 and 704 of this title and enacting provisions set out as notes under sections 465 and 704 of this title\] shall not apply with respect to—
 
@@ -633,7 +633,7 @@
 
 >             “(ii) leases where the property was ordered by the lessor or lessee before November 1, 1978.
 
->         “(B) __Holding of interests for purposes of subparagraph (a).—__ 
+>         “(B)  __Holding of interests for purposes of subparagraph (a)__  __.—__ 
 
 >         Subparagraph (A) shall apply only to taxpayers who held their interests in the property on October 31, 1978.”
 

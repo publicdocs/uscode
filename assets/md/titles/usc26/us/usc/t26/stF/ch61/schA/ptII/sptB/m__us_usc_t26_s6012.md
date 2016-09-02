@@ -327,11 +327,11 @@
 
 [Pub. L. 105–206, title II, § 2004][/us/pl/105/206/s2004], July 22, 1998, [112 Stat. 726][/us/stat/112/726], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury or the Secretary’s delegate shall develop procedures for the implementation of a return-free tax system under which appropriate individuals would be permitted to comply with the Internal Revenue Code of 1986 without making the return required under section 6012 of such Code for taxable years beginning after 2007.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than June 30 of each calendar year after 1999, the Secretary shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on—
 
@@ -347,11 +347,11 @@
 
 [Pub. L. 97–424, title V, § 542][/us/pl/97/424/s542], Jan. 6, 1983, [96 Stat. 2195][/us/stat/96/2195], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such code by an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to taxable years beginning after December 31, 1981.”
 

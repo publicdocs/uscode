@@ -181,15 +181,15 @@
 
 [Pub. L. 99–514, title XI, § 1162(c)][/us/pl/99/514/s1162/c], Oct. 22, 1986, [100 Stat. 2510][/us/stat/100/2510], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     The amendments made by subsection (a) \[amending [section 127 of this title][/us/usc/t26/s127]\] shall apply to taxable years beginning after December 31, 1985.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to years ending after December 31, 1985.
 
->     “(3) __Cafeteria plan with group legal benefits.—__ 
+>     “(3)  __Cafeteria plan with group legal benefits__  __.—__ 
 
 >     If, within 60 days after the date of the enactment of this Act \[Oct. 22, 1986\], an employee elects under a cafeteria plan under section 125 of the Internal Revenue Code of 1986 coverage for group legal benefits to which section 120 of such Code applies, such election may, at the election of the taxpayer, apply to all legal services provided during 1986. The preceding sentence shall not apply to any plan which on August 16, 1986, offered such group legal benefits under such plan.”
 

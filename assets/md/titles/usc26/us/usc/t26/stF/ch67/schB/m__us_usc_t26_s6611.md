@@ -273,11 +273,11 @@
 
 [Pub. L. 97–248, title III, § 346(d)][/us/pl/97/248/s346/d], Sept. 3, 1982, [96 Stat. 638][/us/stat/96/638], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to returns filed after the 30th day after the date of the enactment of this Act \[Sept. 3, 1982\].
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     The amendments made by subsection (c) \[amending this section and [section 6601 of this title][/us/usc/t26/s6601]\] shall apply to interest accruing after the 30th day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

@@ -307,11 +307,11 @@
 
 [Pub. L. 109–58, title XIII, § 1305(c)][/us/pl/109/58/s1305/c], Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 8, 2005\].
 
->     “(2) __Technical amendment.—__ 
+>     “(2)  __Technical amendment__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357], amending this section\].”
 
@@ -325,15 +325,15 @@
 
 [Pub. L. 110–343, div. B, title I, § 109(d)][/us/pl/110/343/s109/d], Oct. 3, 2008, [122 Stat. 3822][/us/stat/122/3822], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to transactions after December 31, 2007.
 
->     “(2) __Transfers of operational control.—__ 
+>     “(2)  __Transfers of operational control__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 909 of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\].
 
->     “(3) __Exception for property located outside the united states.—__ 
+>     “(3)  __Exception for property located outside the united states__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
@@ -351,11 +351,11 @@
 
 [Pub. L. 105–277, div. J, title V, § 5301(b)][/us/pl/105/277/s5301/b], Oct. 21, 1998, [112 Stat. 2681–918][/us/stat/112/2681-918], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to any prize to which a person first becomes entitled after the date of enactment of this Act \[Oct. 21, 1998\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendment made by this section shall apply to any prize to which a person first becomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
 
@@ -385,11 +385,11 @@
 
 [Pub. L. 99–514, title VIII, § 821(b)][/us/pl/99/514/s821/b], Oct. 22, 1986, [100 Stat. 2373][/us/stat/100/2373], as amended by [Pub. L. 100–647, title I, § 1008(h)][/us/pl/100/647/s1008/h], Nov. 10, 1988, [102 Stat. 3444][/us/stat/102/3444], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     If a taxpayer is required by the amendments made by this section to change its method of accounting for any taxable year—
 
@@ -399,17 +399,17 @@
 
 >         “(C) the adjustments under section 481 of the Internal Revenue Code of 1954 \[now 1986\] by reason of such change shall be taken into account ratably over a period no longer than the first 4 taxable years beginning after December 31, 1986.
 
->     “(3) __Special rule for certain cycle billing.—__ 
+>     “(3)  __Special rule for certain cycle billing__  __.—__ 
 
 >     If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers’ meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year.”
 
 [Pub. L. 99–514, title IX, § 905(c)][/us/pl/99/514/s905/c], Oct. 22, 1986, [100 Stat. 2387][/us/stat/100/2387], as amended by [Pub. L. 100–647, title I, § 1009(d)(2)][/us/pl/100/647/s1009/d/2], Nov. 10, 1988, [102 Stat. 3450][/us/stat/102/3450], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending [section 165 of this title][/us/usc/t26/s165]\] shall apply to taxable years beginning after December 31, 1981, and, except as provided in paragraph (2), the amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Special rules for subsection (b).—__ 
+>     “(2)  __Special rules for subsection__  __(b).—__ 
 
 >         “(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
 
@@ -447,7 +447,7 @@
 
 [Pub. L. 97–248, title II, § 229][/us/pl/97/248/s229], Sept. 3, 1982, [96 Stat. 493][/us/stat/96/493], as amended by [Pub. L. 98–369, div. A, title VII, § 712(m)][/us/pl/98/369/s712/m], July 18, 1984, [98 Stat. 955][/us/stat/98/955], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall modify the income tax regulations relating to accounting for long-term contracts to—
 
@@ -463,17 +463,17 @@
 
 >         “(3) properly allocate all costs which directly benefit, or are incurred by reason of, the extended period long-term contract activities of the taxpayer.
 
->     “(b) __Extended Period Long-Term Contracts Defined.—__ 
+>     “(b)  __Extended Period Long-Term Contracts Defined__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘extended period long-term contract’ means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
 
 >         “(2) __Certain construction contracts.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘extended period long-term contract’ does not include any construction contract entered into by a taxpayer—
 
@@ -481,7 +481,7 @@
 
 >                 “(ii) whose average annual gross receipts over the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $25,000,000.
 
->             “(B) __Determination of taxpayer’s gross receipts.—__ 
+>             “(B)  __Determination of taxpayer’s gross receipts__  __.—__ 
 
 >             For purposes of subparagraph (A), the gross receipts of—
 
@@ -491,7 +491,7 @@
 
 >                   for the 3 taxable years of such persons preceding the taxable year in which the contract described in subparagraph (A) is entered into shall be included in the gross receipts of the taxpayer for the period described in subparagraph (A). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
 
->             “(C) __Controlled group of corporations.—__ 
+>             “(C)  __Controlled group of corporations__  __.—__ 
 
 >             The term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
 
@@ -499,27 +499,27 @@
 
 >                 “(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
->         “(3) __Construction contract.—__ 
+>         “(3)  __Construction contract__  __.—__ 
 
 >         The term ‘construction contract’ means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, improvements to real property.
 
->         “(4) __Contract commencement date.—__ 
+>         “(4)  __Contract commencement date__  __.—__ 
 
 >         The term ‘contract commencement date’ means, with respect to any contract, the first date on which any costs (other than costs such as bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 >     “(c) __Effective Dates; Special Rules.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The modifications to regulations which are required to be made under paragraphs (1) and (2) of subsection (a) shall apply with respect to taxable years ending after December 31, 1982.
 
 >         “(2) __Cost allocation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Any modification to Income Tax Regulation 1.451–3 made under subsection (a)(3) which requires additional costs to be allocated to a contract shall apply only to the applicable percentage of such additional costs incurred in taxable years beginning after December 31, 1982, with respect to contracts entered into after such date.
 
->             “(B) __Applicable percentage.—__ 
+>             “(B)  __Applicable percentage__  __.—__ 
 
 >             For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table:
 
@@ -579,11 +579,11 @@
 
 >         “(3) __Special rules.—__ 
 
->             “(A) __Time of completion.—__ 
+>             “(A)  __Time of completion__  __.—__ 
 
 >             Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982, solely by reason of any modification to regulations made under subsection (a)(1), shall be treated as having been completed on the first day of such taxable year.
 
->             “(B) __Aggregation and severance.—__ 
+>             “(B)  __Aggregation and severance__  __.—__ 
 
 >             Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982—
 
@@ -593,7 +593,7 @@
 
 >                   shall be treated as having been completed on the first day after December 31, 1982, on which any contract which was severed from such contract (by reason of the modifications made by subsection (a)(2)) is completed (determined after the application of any modifications to regulations made under subsection (a)(1)).
 
->         “(4) __Underpayments of estimated tax for 1982.—__ 
+>         “(4)  __Underpayments of estimated tax for 1982__  __.—__ 
 
 >         To the extent provided in regulations, no addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 for the taxpayer’s first taxable year ending after December 31, 1982, by reason of a long-term contract, but only with respect to installments required to be paid before April 13, 1983.”
 
@@ -601,13 +601,13 @@
 
 [Pub. L. 95–600, title I, § 132][/us/pl/95/600/s132], Nov. 6, 1978, [92 Stat. 2782][/us/stat/92/2782], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The taxable year of inclusion in gross income of any amount covered by a private deferred compensation plan shall be determined in accordance with the principles set forth in regulations, rulings, and judicial decisions relating to deferred compensation which were in effect on February 1, 1978.
 
 >     “(b) __Private Deferred Compensation Plan Defined.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘private deferred compensation plan’ means a plan, agreement, or arrangement—
 
@@ -615,7 +615,7 @@
 
 >             “(B) under which the payment or otherwise making available of compensation is deferred.
 
->         “(2) __Certain plans excluded.—__ 
+>         “(2)  __Certain plans excluded__  __.—__ 
 
 >         Paragraph (1) shall not apply to—
 
@@ -629,7 +629,7 @@
 
 >             “(E) that portion of any plan which consists of a trust to which section 402(b) of such Code applies.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to taxable years ending on or after February 1, 1978.”
 
@@ -637,7 +637,7 @@
 
 [Pub. L. 95–258, § 1][/us/pl/95/258/s1], Apr. 7, 1978, [92 Stat. 195][/us/stat/92/195], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of a taxpayer reporting on the cash receipts and disbursements method of accounting, if—
 
@@ -661,7 +661,7 @@
 
 >         then the taxpayer may elect to include such proceeds in income for his last taxable year beginning in 1977.
 
->     “(b) __Making and Effect of Election—__ 
+>     “(b)  __Making and Effect of Election__  __—__ 
 
 >     An election under this section for any taxable year shall be made at such time and in such manner as the Secretary of the Treasury may by regulations prescribe and shall apply with respect to all proceeds described in subsection (a) which were received by the taxpayer.”
 

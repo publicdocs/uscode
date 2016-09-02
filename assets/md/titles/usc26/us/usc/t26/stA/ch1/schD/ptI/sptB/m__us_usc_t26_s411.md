@@ -1061,19 +1061,19 @@
 
 [Pub. L. 109–280, title VII, § 701(e)][/us/pl/109/280/s701/e], Aug. 17, 2006, [120 Stat. 991][/us/stat/120/991], as amended by [Pub. L. 110–458, title I, § 107(c)(2)][/us/pl/110/458/s107/c/2], Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 623, 1053, and 1054 of Title 29, Labor\] shall apply to periods beginning on or after June 29, 2005.
 
->     “(2) __Present value of accrued benefit.—__ 
+>     “(2)  __Present value of accrued benefit__  __.—__ 
 
 >     The amendments made by subsections (a)(2) and (b)(2) \[amending this section and [section 1053 of Title 29][/us/usc/t29/s1053]\] shall apply to distributions made after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(3) __Vesting and interest credit requirements.—__ 
+>     “(3)  __Vesting and interest credit requirements__  __.—__ 
 
 >     In the case of a plan in existence on June 29, 2005, the requirements of clause (i) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (i) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1054(b)(5)(B)][/us/usc/t29/s1054/b/5/B]\], and clause (i) of section 4(i)(10)(B) of the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 623(i)(10)(B)][/us/usc/t29/s623/i/10/B]\] (as added by this Act) and the requirements of 203(f)(2) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1053(f)(2)][/us/usc/t29/s1053/f/2]\] and section 411(a)(13)(B) of the Internal Revenue Code of 1986 (as so added) shall, for purposes of applying the amendments made by subsections (a) and (b) \[amending this section and sections 1053 and 1054 of Title 29\], apply to years beginning after December 31, 2007, unless the plan sponsor elects the application of such requirements for any period on or after June 29, 2005, and before the first year beginning after December 31, 2007.
 
->     “(4) __Special rule for collectively bargained plans.—__ 
+>     “(4)  __Special rule for collectively bargained plans__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], the requirements described in paragraph (3) shall, for purposes of applying the amendments made by subsections (a) and (b) \[amending this section and sections 1053 and 1054 of Title 29\], not apply to plan years beginning before the earlier of—
 
@@ -1087,11 +1087,11 @@
 
 >         “(B) January 1, 2010.
 
->     “(5) __Conversions.—__ 
+>     “(5)  __Conversions__  __.—__ 
 
 >     The requirements of clause (ii) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (ii) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1054(b)(5)(B)][/us/usc/t29/s1054/b/5/B]\], and clause (ii) of section 4(i)(10)(B) of the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 623(i)(10)(B)][/us/usc/t29/s623/i/10/B]\] (as added by this Act), shall apply to plan amendments adopted on or after, and taking effect on or after, June 29, 2005, except that the plan sponsor may elect to have such amendments apply to plan amendments adopted before, and taking effect on or after, such date.
 
->     “(6) __Special rule for vesting requirements.—__ 
+>     “(6)  __Special rule for vesting requirements__  __.—__ 
 
 >     The requirements of section 203(f)(2) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1053(f)(2)][/us/usc/t29/s1053/f/2]\] and section 411(a)(13)(B) of the Internal Revenue Code of 1986 (as added by this Act)—
 
@@ -1105,11 +1105,11 @@
 
 [Pub. L. 109–280, title IX, § 904(c)][/us/pl/109/280/s904/c], Aug. 17, 2006, [120 Stat. 1050][/us/stat/120/1050], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (4), the amendments made by this section \[amending this section and [section 1053 of Title 29][/us/usc/t29/s1053], Labor\] shall apply to contributions for plan years beginning after December 31, 2006.
 
->     “(2) __Collective bargaining agreements.—__ 
+>     “(2)  __Collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 17, 2006\], the amendments made by this section shall not apply to contributions on behalf of employees covered by any such agreement for plan years beginning before the earlier of—
 
@@ -1123,11 +1123,11 @@
 
 >         “(B) January 1, 2009.
 
->     “(3) __Service required.—__ 
+>     “(3)  __Service required__  __.—__ 
 
 >     With respect to any plan, the amendments made by this section shall not apply to any employee before the date that such employee has 1 hour of service under such plan in any plan year to which the amendments made by this section apply.
 
->     “(4) __Special rule for stock ownership plans.—__ 
+>     “(4)  __Special rule for stock ownership plans__  __.—__ 
 
 >     Notwithstanding paragraph (1) or (2), in the case of an employee stock ownership plan (as defined in section 4975(e)(7) of the Internal Revenue Code of 1986) which had outstanding on September 26, 2005, a loan incurred for the purpose of acquiring qualifying employer securities (as defined in section 4975(e)(8) of such Code), the amendments made by this section shall not apply to any plan year beginning before the earlier of—
 
@@ -1139,11 +1139,11 @@
 
 [Pub. L. 107–16, title VI, § 633(c)][/us/pl/107/16/s633/c], June 7, 2001, [115 Stat. 116][/us/stat/115/116], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1053 of Title 29][/us/usc/t29/s1053], Labor\] shall apply to contributions for plan years beginning after December 31, 2001.
 
->     “(2) __Collective bargaining agreements.—__ 
+>     “(2)  __Collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified by the date of the enactment of this Act \[June 7, 2001\], the amendments made by this section shall not apply to contributions on behalf of employees covered by any such agreement for plan years beginning before the earlier of—
 
@@ -1157,7 +1157,7 @@
 
 >         “(B) January 1, 2006.
 
->     “(3) __Service required.—__ 
+>     “(3)  __Service required__  __.—__ 
 
 >     With respect to any plan, the amendments made by this section shall not apply to any employee before the date that such employee has 1 hour of service under such plan in any plan year to which the amendments made by this section apply.”
 
@@ -1197,17 +1197,17 @@
 
 [Pub. L. 103–465, title VII, § 767(d)][/us/pl/103/465/s767/d], Dec. 8, 1994, [108 Stat. 5040][/us/stat/108/5040], as amended by [Pub. L. 104–188, title I, § 1449(a)][/us/pl/104/188/s1449/a], Aug. 20, 1996, [110 Stat. 1813][/us/stat/110/1813]; [Pub. L. 105–34, title XVI, § 1604(b)(3)][/us/pl/105/34/s1604/b/3], Aug. 5, 1997, [111 Stat. 1097][/us/stat/111/1097], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, sections 415 and 417 of this title, and sections 1053 and 1055 of Title 29, Labor\] shall apply to plan years and limitation years beginning after December 31, 1994; except that an employer may elect to treat the amendments made by this section as being effective on or after the date of the enactment of this Act \[Dec. 8, 1994\].
 
->     “(2) __No reduction in accrued benefits.—__ 
+>     “(2)  __No reduction in accrued benefits__  __.—__ 
 
 >     A participant’s accrued benefit shall not be considered to be reduced in violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1054(g)][/us/usc/t29/s1054/g]\] merely because (A) the benefit is determined in accordance with section 417(e)(3)(A) of such Code, as amended by this Act, or section 205(g)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1055(g)(3)][/us/usc/t29/s1055/g/3]\], as amended by this Act, or (B) the plan applies section 415(b)(2)(E) of such Code, as amended by this Act.
 
 >     “(3) __Section 415.—__ 
 
->         “(A) __Exception.—__ 
+>         “(A)  __Exception__  __.—__ 
 
 >         A plan that was adopted and in effect before December 8, 1994, shall not be required to apply the amendments made by subsection (b) \[amending [section 415 of this title][/us/usc/t26/s415]\] with respect to benefits accrued before the earlier of—
 
@@ -1217,7 +1217,7 @@
 
 >             Determinations under section 415(b)(2)(E) of the Internal Revenue Code of 1986 before such earlier date shall be made with respect to such benefits on the basis of such section as in effect on December 7, 1994, and the provisions of the plan as in effect on December 7, 1994, but only if such provisions of the plan meet the requirements of such section (as so in effect).
 
->         “(B) __Timing of plan amendment.—__ 
+>         “(B)  __Timing of plan amendment__  __.—__ 
 
 >         A plan that operates in accordance with the amendments made by subsection (b) shall not be treated as failing to satisfy section 401(a) of the Internal Revenue Code of 1986 or as not being operated in accordance with the provisions of the plan until such date as the Secretary of the Treasury provides merely because the plan has not been amended to include the amendments made by subsection (b).”
 
@@ -1251,11 +1251,11 @@
 
 [Pub. L. 99–514, title XI, § 1113(f)][/us/pl/99/514/s1113/f], formerly § 1113(e), Oct. 22, 1986, [100 Stat. 2447][/us/stat/100/2447], as redesignated and amended by [Pub. L. 101–239, title VII, § 7861(a)(3)][/us/pl/101/239/s7861/a/3], (4), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 410 of this title][/us/usc/t26/s410] and sections 1052 to 1054 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1988.
 
->     “(2) __Special rule for collective bargaining agreements.—__ 
+>     “(2)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section shall not apply to employees covered by any such agreement in plan years beginning before the earlier of—
 
@@ -1269,11 +1269,11 @@
 
 >         “(B) January 1, 1991.
 
->     “(3) __Participation required.—__ 
+>     “(3)  __Participation required__  __.—__ 
 
 >     The amendments made by this section shall not apply to any employee who does not have 1 hour of service in any plan year to which the amendments made by this section apply.
 
->     “(4) __Repeal of class year vesting.—__ 
+>     “(4)  __Repeal of class year vesting__  __.—__ 
 
 >     If a plan amendment repealing class year vesting is adopted after October 22, 1986, such amendment shall not apply to any employee for the 1st plan year to which the amendments made by subsections (b) and (e)(2) \[amending this section and [section 1053 of Title 29][/us/usc/t29/s1053]\] apply (and any subsequent plan year) if—
 
@@ -1287,13 +1287,13 @@
 
 [Pub. L. 99–514, title XI, § 1139(d)][/us/pl/99/514/s1139/d], Oct. 22, 1986, [100 Stat. 2488][/us/stat/100/2488], as amended by [Pub. L. 100–647, title I, § 1011A(k)][/us/pl/100/647/s1011A/k], Nov. 10, 1988, [102 Stat. 3483][/us/stat/102/3483], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 417 of this title][/us/usc/t26/s417] and sections 1053 and 1055 of Title 29, Labor\] shall apply to distributions in plan years beginning after December 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after December 31, 1984, and before January 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984 \[[Pub. L. 98–397][/us/pl/98/397], see Short Title of 1984 Amendment note set out under [section 1001 of Title 29][/us/usc/t29/s1001]\].
 
 >     “(2) __Reduction in accrued benefits.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If a plan—
 
@@ -1303,7 +1303,7 @@
 
 >             such reduction shall not be treated as a violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1054(g)][/us/usc/t29/s1054/g]).
 
->         “(B) __Special rule.—__ 
+>         “(B)  __Special rule__  __.—__ 
 
 >         In the case of a plan maintained by a corporation incorporated on April 11, 1934, which is headquartered in Tarrant County, Texas—
 
@@ -1349,17 +1349,17 @@
 
 [Pub. L. 109–280, title XI, § 1102(b)][/us/pl/109/280/s1102/b], Aug. 17, 2006, [120 Stat. 1056][/us/stat/120/1056], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Treasury shall modify the regulations under section 411(a)(11) of the Internal Revenue Code of 1986 and under section 205 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1055][/us/usc/t29/s1055]\] to provide that the description of a participant’s right, if any, to defer receipt of a distribution shall also describe the consequences of failing to defer such receipt.
 
 >     “(2) __Effective date.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The modifications required by paragraph (1) shall apply to years beginning after December 31, 2006.
 
->         “(B) __Reasonable notice.—__ 
+>         “(B)  __Reasonable notice__  __.—__ 
 
 >         A plan shall not be treated as failing to meet the requirements of section 411(a)(11) of such Code or section 205 of such Act with respect to any description of consequences described in paragraph (1) made within 90 days after the Secretary of the Treasury issues the modifications required by paragraph (1) if the plan administrator makes a reasonable attempt to comply with such requirements.”
 
@@ -1391,7 +1391,7 @@
 
 [Pub. L. 109–280, title XI, § 1107][/us/pl/109/280/s1107], Aug. 17, 2006, [120 Stat. 1063][/us/stat/120/1063], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If this section applies to any pension plan or contract amendment—
 
@@ -1401,7 +1401,7 @@
 
 >     “(b) __Amendments to Which Section Applies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall apply to any amendment to any pension plan or annuity contract which is made—
 
@@ -1411,7 +1411,7 @@
 
 >             In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this paragraph shall be applied by substituting ‘2011’ for ‘2009’.
 
->         “(2) __Conditions.—__ 
+>         “(2)  __Conditions__  __.—__ 
 
 >         This section shall not apply to any amendment unless—
 
@@ -1427,7 +1427,7 @@
 
 [Pub. L. 108–218, title I, § 101(c)][/us/pl/108/218/s101/c], Apr. 10, 2004, [118 Stat. 598][/us/stat/118/598], as amended by [Pub. L. 109–280, title III, § 301(c)][/us/pl/109/280/s301/c], Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920]; [Pub. L. 110–458, title I, § 103(a)][/us/pl/110/458/s103/a], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If this subsection applies to any plan or annuity contract amendment—
 
@@ -1437,7 +1437,7 @@
 
 >     “(2) __Amendments to which section applies.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         This subsection shall apply to any amendment to any plan or annuity contract which is made—
 
@@ -1445,7 +1445,7 @@
 
 >             “(ii) on or before the last day of the first plan year beginning on or after January 1, 2009.
 
->         “(B) __Conditions.—__ 
+>         “(B)  __Conditions__  __.—__ 
 
 >         This subsection shall not apply to any plan or annuity contract amendment unless—
 
@@ -1455,7 +1455,7 @@
 
 [Pub. L. 105–34, title XV, § 1541][/us/pl/105/34/s1541], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If this section applies to any plan or contract amendment—
 
@@ -1465,7 +1465,7 @@
 
 >     “(b) __Amendments to Which Section Applies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall apply to any amendment to any plan or annuity contract which is made—
 
@@ -1475,7 +1475,7 @@
 
 >             In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this paragraph shall be applied by substituting ‘2001’ for ‘1999’.
 
->         “(2) __Conditions.—__ 
+>         “(2)  __Conditions__  __.—__ 
 
 >         This section shall not apply to any amendment unless—
 

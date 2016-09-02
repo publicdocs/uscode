@@ -213,17 +213,17 @@
 
 [Pub. L. 111–148, title IX, § 9023(e)][/us/pl/111/148/s9023/e], Mar. 23, 2010, [124 Stat. 881][/us/stat/124/881], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Upon application, the Secretary of the Treasury shall, subject to the requirements of this subsection, provide a grant to each person who makes a qualified investment in a qualifying therapeutic discovery project in the amount of 50 percent of such investment. No grant shall be made under this subsection with respect to any investment unless such investment is made during a taxable year beginning in 2009 or 2010.
 
 >     “(2) __Application.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         At the stated election of the applicant, an application for certification under section 48D(d)(2) of the Internal Revenue Code of 1986 for a credit under such section for the taxable year of the applicant which begins in 2009 shall be considered to be an application for a grant under paragraph (1) for such taxable year.
 
->         “(B) __Taxable years beginning in 2010.—__ 
+>         “(B)  __Taxable years beginning in 2010__  __.—__ 
 
 >         An application for a grant under paragraph (1) for a taxable year beginning in 2010 shall be submitted—
 
@@ -231,13 +231,13 @@
 
 >             “(ii) not later than the due date (including extensions) for filing the return of tax for such taxable year.
 
->         “(C) __Information to be submitted.—__ 
+>         “(C)  __Information to be submitted__  __.—__ 
 
 >         An application for a grant under paragraph (1) shall include such information and be in such form as the Secretary may require to state the amount of the credit allowable (but for the receipt of a grant under this subsection) under section 48D for the taxable year for the qualified investment with respect to which such application is made.
 
 >     “(3) __Time for payment of grant.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall make payment of the amount of any grant under paragraph (1) during the 30-day period beginning on the later of—
 
@@ -245,31 +245,31 @@
 
 >             “(ii) the date the qualified investment for which the grant is being made is made.
 
->         “(B) __Regulations.—__ 
+>         “(B)  __Regulations__  __.—__ 
 
 >         In the case of investments of an ongoing nature, the Secretary shall issue regulations to determine the date on which a qualified investment shall be deemed to have been made for purposes of this paragraph.
 
->     “(4) __Qualified investment.—__ 
+>     “(4)  __Qualified investment__  __.—__ 
 
 >     For purposes of this subsection, the term ‘qualified investment’ means a qualified investment that is certified under section 48D(d) of the Internal Revenue Code of 1986 for purposes of the credit under such section 48D.
 
 >     “(5) __Application of certain rules.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In making grants under this subsection, the Secretary of the Treasury shall apply rules similar to the rules of section 50 of the Internal Revenue Code of 1986. In applying such rules, any increase in tax under chapter 1 of such Code by reason of an investment ceasing to be a qualified investment shall be imposed on the person to whom the grant was made.
 
 >         “(B) __Special rules.—__ 
 
->             “(i) __Recapture of excessive grant amounts.—__ 
+>             “(i)  __Recapture of excessive grant amounts__  __.—__ 
 
 >             If the amount of a grant made under this subsection exceeds the amount allowable as a grant under this subsection, such excess shall be recaptured under subparagraph (A) as if the investment to which such excess portion of the grant relates had ceased to be a qualified investment immediately after such grant was made.
 
->             “(ii) __Grant information not treated as return information.—__ 
+>             “(ii)  __Grant information not treated as return information__  __.—__ 
 
 >             In no event shall the amount of a grant made under paragraph (1), the identity of the person to whom such grant was made, or a description of the investment with respect to which such grant was made be treated as return information for purposes of section 6103 of the Internal Revenue Code of 1986.
 
->     “(6) __Exception for certain non-taxpayers.—__ 
+>     “(6)  __Exception for certain non-taxpayers__  __.—__ 
 
 >     The Secretary of the Treasury shall not make any grant under this subsection to—
 
@@ -283,27 +283,27 @@
 
 >         In the case of a partnership or other pass-thru entity described in subparagraph (D), partners and other holders of any equity or profits interest shall provide to such partnership or entity such information as the Secretary of the Treasury may require to carry out the purposes of this paragraph.
 
->     “(7) __Secretary.—__ 
+>     “(7)  __Secretary__  __.—__ 
 
 >     Any reference in this subsection to the Secretary of the Treasury shall be treated as including the Secretary’s delegate.
 
->     “(8) __Other terms.—__ 
+>     “(8)  __Other terms__  __.—__ 
 
 >     Any term used in this subsection which is also used in section 48D of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this subsection as when used in such section.
 
->     “(9) __Denial of double benefit.—__ 
+>     “(9)  __Denial of double benefit__  __.—__ 
 
 >     No credit shall be allowed under section 46(6) of the Internal Revenue Code of 1986 by reason of section 48D of such Code for any investment for which a grant is awarded under this subsection.
 
->     “(10) __Appropriations.—__ 
+>     “(10)  __Appropriations__  __.—__ 
 
 >     There is hereby appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this subsection.
 
->     “(11) __Termination.—__ 
+>     “(11)  __Termination__  __.—__ 
 
 >     The Secretary of the Treasury shall not make any grant to any person under this subsection unless the application of such person for such grant is received before January 1, 2013.
 
->     “(12) __Protecting middle class families from tax increases.—__ 
+>     “(12)  __Protecting middle class families from tax increases__  __.—__ 
 
 >     It is the sense of the Senate that the Senate should reject any procedural maneuver that would raise taxes on middle class families, such as a motion to commit the pending legislation to the Committee on Finance, which is designed to kill legislation that provides tax cuts for American workers and families, including the affordability tax credit and the small business tax credit.”
 

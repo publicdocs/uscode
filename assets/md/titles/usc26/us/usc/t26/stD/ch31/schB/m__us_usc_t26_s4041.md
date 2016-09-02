@@ -767,11 +767,11 @@
 
 [Pub. L. 109–280, title XII, § 1207(g)][/us/pl/109/280/s1207/g], Aug. 17, 2006, [120 Stat. 1072][/us/stat/120/1072], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 4221, 4253, 4483, 6416, 6421, and 7701 of this title\] shall take effect on January 1, 2007.
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendment made by subsection (d) \[amending [section 4483 of this title][/us/usc/t26/s4483]\] shall apply to taxable periods beginning on or after July 1, 2007.”
 
@@ -793,11 +793,11 @@
 
 [Pub. L. 109–58, title XIII, § 1362(d)][/us/pl/109/58/s1362/d], Aug. 8, 2005, [119 Stat. 1060][/us/stat/119/1060], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 6430 of this title][/us/usc/t26/s6430] and amending this section and sections 4081, 4082, and 9508 of this title\] shall take effect on October 1, 2005.
 
->     “(2) __No exemption.—__ 
+>     “(2)  __No exemption__  __.—__ 
 
 >     The amendments made by subsection (b) \[enacting [section 6430 of this title][/us/usc/t26/s6430] and amending this section and [section 4082 of this title][/us/usc/t26/s4082]\] shall apply to fuel entered, removed, or sold after September 30, 2005.”
 
@@ -935,19 +935,19 @@
 
 [Pub. L. 97–424, title V, § 511(h)][/us/pl/97/424/s511/h], Jan. 6, 1983, [96 Stat. 2173][/us/stat/96/2173], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44E, 4081, 6416, 6420, 6421, and 6427 of this title\] shall take effect on April 1, 1983.
 
->     “(2) __Tariff on imported alcohol.—__ 
+>     “(2)  __Tariff on imported alcohol__  __.—__ 
 
 >     The amendment made by subsection (d)(5) \[amending item 901.50 of the Tariff Schedules, which are not set out in the Code\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, after March 31, 1983.
 
->     “(3) __For subsection (e)(2).—__ 
+>     “(3)  __For subsection__  __(e)__  __(2)__  __.—__ 
 
 >     The amendment made by subsection (e)(2) \[amending [section 6427 of this title][/us/usc/t26/s6427]\] shall take effect on January 1, 1983.
 
->     “(4) __Shared transportation requirement.—__ 
+>     “(4)  __Shared transportation requirement__  __.—__ 
 
 >     The amendment made by subsection (e)(3) \[amending [section 6427 of this title][/us/usc/t26/s6427]\] shall apply with respect to fuel purchased after December 31, 1982, and before January 1, 1984.”
 
@@ -985,11 +985,11 @@
 
 [Pub. L. 91–258, title II, § 211][/us/pl/91/258/s211], May 21, 1970, [84 Stat. 253][/us/stat/84/253], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this title \[see Short Title of 1970 Amendment note below\] shall take effect on July 1, 1970.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by sections 203 \[enacting section 7275 and amending sections 4261 and 4262 of this title\] and 204 \[enacting sections 4271 and 4272 of this title\] shall apply to transportation beginning after June 30, 1970. The amendments made by subsections (a), (b), and (c) of section 207 \[enacting section 6427 and amending sections 39, 6420, 6421, and 6424\] shall apply with respect to taxable years ending after June 30, 1970.”
 
@@ -1067,7 +1067,7 @@
 
  __Study of Imported Alcohol by Secretary of the Treasury__ 
 
-    [Pub. L. 96–223, title II, § 232(f)][/us/pl/96/223/s232/f], Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280], required, within 180 days after Apr. 2, 1980, Secretary of the Treasury to furnish specific Congressional committees recommendations for limiting import of alcohol into United States for fuel purposes.
+    [Pub. L. 96–223, title II, § 232(f)][/us/pl/96/223/s232/f], Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280], required, within 180 days after Apr. 2, 1980, Secretary of the Treasury to furnish specific congressional committees recommendations for limiting import of alcohol into United States for fuel purposes.
 
  __Reports on Use of Alcohol in Fuel__ 
 

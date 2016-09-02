@@ -409,11 +409,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1019(d)][/us/pl/98/369/s1019/d], July 18, 1984, [98 Stat. 1024][/us/stat/98/1024], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 211(a) of the Hazardous Substance Response Revenue Act of 1980 \[[Pub. L. 96–510][/us/pl/96/510], which enacted this section\].
 
->     “(2) __Waiver of limitation.—__ 
+>     “(2)  __Waiver of limitation__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the application of the amendments made by this section is prevented at any time before the date which for one year after the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of such amendments) may, nevertheless, be made or allowed if claim therefor is filed on or before the date which for one year after the date of the enactment of this Act.”
 

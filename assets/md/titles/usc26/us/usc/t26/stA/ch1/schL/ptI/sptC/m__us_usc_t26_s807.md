@@ -459,7 +459,7 @@
 
 [Pub. L. 98–369, div. A, title II, § 217(f)][/us/pl/98/369/s217/f], July 18, 1984, [98 Stat. 763][/us/stat/98/763], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Mortality and morbidity tables.—__ 
+>     “(1)  __Mortality and morbidity tables__  __.—__ 
 
 >     In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§ 211–219) of title II of div. A of [Pub. L. 98–369][/us/pl/98/369]\]) if such tables were—
 
@@ -467,7 +467,7 @@
 
 >         “(B) developed on the basis of the experience of assessment life insurance companies in the State in which such assessment life insurance company is domiciled.
 
->     “(2) __Treatment of certain mutual assessment life insurance companies.—__ 
+>     “(2)  __Treatment of certain mutual assessment life insurance companies__  __.—__ 
 
 >     In the case of any contract issued by a mutual assessment life insurance company which—
 
@@ -477,7 +477,7 @@
 
 >         for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986, the amount of the life insurance reserves for such contract shall be equal to the amount taken into account with respect to such contract in determining statutory reserves.
 
->     “(3) __Statutory reserves.—__ 
+>     “(3)  __Statutory reserves__  __.—__ 
 
 >     For purposes of this subsection, the term ‘statutory reserves’ has the meaning given to such term by \[former\] section 809(b)(4)(B) of such Code.”
 

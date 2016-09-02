@@ -81,15 +81,15 @@
 
 [Pub. L. 97–248, title VI, § 611(b)][/us/pl/97/248/s611/b], Sept. 3, 1982, [96 Stat. 706][/us/stat/96/706], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Compensation paid after 1981.—__ 
+>     “(1)  __Compensation paid after 1981__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to payments of unemployment compensation made after December 31, 1981, in taxable years ending after such date.
 
->     “(2) __No addition to tax for underpayment of estimated tax attributable to application of amendments to compensation paid in 1982.—__ 
+>     “(2)  __No addition to tax for underpayment of estimated tax attributable to application of amendments to compensation paid in 1982__  __.—__ 
 
 >     No addition to tax shall be made under section 6654 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any underpayment to the extent such underpayment is attributable to unemployment compensation which is received during 1982 and which (but for the amendments made by subsection (a)) would not be includable in gross income.
 
->     “(3) __Special rule for fiscal year taxpayers.—__ 
+>     “(3)  __Special rule for fiscal year taxpayers__  __.—__ 
 
 >     In the case of a taxable year (other than a calendar year) which includes January 1, 1982—
 
@@ -97,7 +97,7 @@
 
 >         “(B) the increase in gross income for such taxable year as a result of such amendments shall not exceed the amount of unemployment compensation paid after December 31, 1981.
 
->     “(4) __Unemployment compensation defined.—__ 
+>     “(4)  __Unemployment compensation defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘unemployment compensation’ has the meaning given to such term by section 85(c) of the Internal Revenue Code of 1986.”
 

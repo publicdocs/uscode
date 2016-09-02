@@ -129,33 +129,33 @@
 
 [Pub. L. 110–343, div. B, title I, § 113(b)][/us/pl/110/343/s113/b], Oct. 3, 2008, [122 Stat. 3825][/us/stat/122/3825], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Market value of the outstanding repayable advances, plus accrued interest.—__ 
+>         “(A)  __Market value of the outstanding repayable advances, plus accrued interest__  __.—__ 
 
 >         The term ‘market value of the outstanding repayable advances, plus accrued interest’ means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the Trust Fund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year.
 
->         “(B) __Refinancing date.—__ 
+>         “(B)  __Refinancing date__  __.—__ 
 
 >         The term ‘refinancing date’ means the date occurring 2 days after the enactment of this Act \[Oct. 3, 2008\].
 
->         “(C) __Repayable advance.—__ 
+>         “(C)  __Repayable advance__  __.—__ 
 
 >         The term ‘repayable advance’ means an amount that has been appropriated to the Trust Fund in order to make benefit payments and other expenditures that are authorized under section 9501 of the Internal Revenue Code of 1986 and are required to be repaid when the Secretary of the Treasury determines that monies are available in the Trust Fund for such purpose.
 
->         “(D) __Treasury rate.—__ 
+>         “(D)  __Treasury rate__  __.—__ 
 
 >         The term ‘Treasury rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
->         “(E) __Treasury 1-year rate.—__ 
+>         “(E)  __Treasury 1-year rate__  __.—__ 
 
 >         The term ‘Treasury 1-year rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B).
 
 >     “(2) __Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—__ 
 
->         “(A) __Transfer to general fund.—__ 
+>         “(A)  __Transfer to general fund__  __.—__ 
 
 >         On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:
 
@@ -163,15 +163,15 @@
 
 >             “(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph.
 
->         “(B) __Repayment of obligations.—__ 
+>         “(B)  __Repayment of obligations__  __.—__ 
 
 >         In the event that the Trust Fund is unable to repay the obligations that it has issued to the Secretary of the Treasury under subparagraph (A)(i) and this subparagraph, or is unable to make benefit payments and other authorized expenditures, the Trust Fund shall issue obligations to the Secretary of the Treasury in such amounts as may be necessary to make such repayments, payments, and expenditures, with a maturity of 1 year, and bearing interest at the Treasury 1-year rate. These obligations shall be in such forms and denominations and be subject to such other terms and conditions as the Secretary of the Treasury shall prescribe.
 
->         “(C) __Authority to issue obligations.—__ 
+>         “(C)  __Authority to issue obligations__  __.—__ 
 
 >         The Trust Fund is authorized to issue obligations to the Secretary of the Treasury under subparagraphs (A)(i) and (B). The Secretary of the Treasury is authorized to purchase such obligations of the Trust Fund. For the purposes of making such purchases, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such Trust Fund obligations under this subparagraph.
 
->     “(3) __One-time appropriation.—__ 
+>     “(3)  __One-time appropriation__  __.—__ 
 
 >     There is hereby appropriated to the Trust Fund an amount sufficient to pay to the general fund of the Treasury the difference between—
 
@@ -179,7 +179,7 @@
 
 >         “(B) the proceeds from the obligations issued by the Trust Fund to the Secretary of the Treasury under paragraph (2)(A)(i).
 
->     “(4) __Prepayment of trust fund obligations.—__ 
+>     “(4)  __Prepayment of trust fund obligations__  __.—__ 
 
 >     The Trust Fund is authorized to repay any obligation issued to the Secretary of the Treasury under subparagraphs (A)(i) and (B) of paragraph (2) prior to its maturity date by paying a prepayment price that would, if the obligation being prepaid (including all unpaid interest accrued thereon through the date of prepayment) were purchased by a third party and held to the maturity date of such obligation, produce a yield to the third-party purchaser for the period from the date of purchase to the maturity date of such obligation substantially equal to the Treasury yield on outstanding marketable obligations of the United States having a comparable maturity to this period.”
 
@@ -190,6 +190,8 @@
 > “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. H, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 355][/us/stat/128/355].
 
     [Pub. L. 112–74, div. F, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1058][/us/stat/125/1058].
 
@@ -255,6 +257,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/122/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3825
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/stat/123/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F757
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F355
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1058
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

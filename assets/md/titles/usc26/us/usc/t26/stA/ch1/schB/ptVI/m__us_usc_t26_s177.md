@@ -21,11 +21,11 @@
 
 [Pub. L. 99–514, title II, § 241(c)][/us/pl/99/514/s241/c], Oct. 22, 1986, [100 Stat. 2181][/us/stat/100/2181], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending sections 312 and 1016 of this title and repealing this section\] shall apply to expenditures paid or incurred after December 31, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any expenditure incurred—
 

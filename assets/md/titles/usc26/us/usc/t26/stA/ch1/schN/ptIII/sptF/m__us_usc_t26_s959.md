@@ -131,13 +131,13 @@
 
 [Pub. L. 98–369, div. A, title I, § 133(d)(2)][/us/pl/98/369/s133/d/2], (3), July 18, 1984, [98 Stat. 668][/us/stat/98/668], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1810(i)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2829; [Pub. L. 100–647, title I, § 1018(g)(2)][/us/pl/100/647/s1018/g/2], Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582], provided that:
 
->     “(2) __Subsections (b) and (c).—__ 
+>     “(2)  __Subsections__  __(b)__  __and__  __(c).—__ 
 
 >     Except as provided in paragraph (3), the amendments made by subsections (b) and (c) \[amending this section and [section 1248 of this title][/us/usc/t26/s1248]\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies occurring after the date of the enactment of this Act \[July 18, 1984\].
 
 >     “(3) __Election of earlier date for certain transactions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If the appropriate election is made under subparagraph (B), the amendments made by subsection (b) \[amending this section and [section 1248 of this title][/us/usc/t26/s1248]\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of such Code applies occurring after October 9, 1975.
 

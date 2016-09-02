@@ -1355,11 +1355,11 @@
 
 [Pub. L. 112–240, title II, § 208(b)][/us/pl/112/240/s208/b], Jan. 2, 2013, [126 Stat. 2324][/us/stat/126/2324], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2011.
 
->     “(2) __Special rules.—__ 
+>     “(2)  __Special rules__  __.—__ 
 
 >     For purposes of subsections (a)(6), (b)(3), and (d)(8) of section 408 of the Internal Revenue Code of 1986, at the election of the taxpayer (at such time and in such manner as prescribed by the Secretary of the Treasury)—
 
@@ -1377,11 +1377,11 @@
 
 [Pub. L. 111–312, title VII, § 725(b)][/us/pl/111/312/s725/b], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2009.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     For purposes of subsections (a)(6), (b)(3), and (d)(8) of section 408 of the Internal Revenue Code of 1986, at the election of the taxpayer (at such time and in such manner as prescribed by the Secretary of the Treasury) any qualified charitable distribution made after December 31, 2010, and before February 1, 2011, shall be deemed to have been made on December 31, 2010.”
 
@@ -1425,11 +1425,11 @@
 
 [Pub. L. 107–16, title VI, § 642(c)][/us/pl/107/16/s642/c], June 7, 2001, [115 Stat. 122][/us/stat/115/122], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 403 of this title][/us/usc/t26/s403]\] shall apply to distributions after December 31, 2001.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     Notwithstanding any other provision of law, subsections (h)(3) and (h)(5) of section 1122 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out as a note under [section 402 of this title][/us/usc/t26/s402]\] shall not apply to any distribution from an eligible retirement plan (as defined in clause (iii) or (iv) of section 402(c)(8)(B) of the Internal Revenue Code of 1986) on behalf of an individual if there was a rollover to such plan on behalf of such individual which is permitted solely by reason of the amendments made by this section.”
 
@@ -1611,21 +1611,21 @@
 
 >     “(a) __General Rules.—__ 
 
->         “(1) __Rollover of airline payment amount.—__ 
+>         “(1)  __Rollover of airline payment amount__  __.—__ 
 
 >         If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a traditional IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Feb. 14, 2012\]), then such amount (to the extent so transferred) shall be treated as a rollover contribution described in section 402(c) of the Internal Revenue Code of 1986. A qualified airline employee making such a transfer may exclude from gross income the amount transferred, in the taxable year in which the airline payment amount was paid to the qualified airline employee by the commercial passenger airline carrier.
 
->         “(2) __Transfer of amounts attributable to airline payment amount following rollover to roth ira.—__ 
+>         “(2)  __Transfer of amounts attributable to airline payment amount following rollover to roth ira__  __.—__ 
 
 >         A qualified airline employee who has contributed an airline payment amount to a Roth IRA that is treated as a qualified rollover contribution pursuant to section 125 of the Worker, Retiree, and Employer Recovery Act of 2008 \[[Pub. L. 110–458][/us/pl/110/458], [26 U.S.C. 408A][/us/usc/t26/s408A] note\], may transfer to a traditional IRA, in a trustee-to-trustee transfer, all or any part of the contribution (together with any net income allocable to such contribution), and the transfer to the traditional IRA will be deemed to have been made at the time of the rollover to the Roth IRA, if such transfer is made within 180 days of the date of the enactment of this Act. A qualified airline employee making such a transfer may exclude from gross income the airline payment amount previously rolled over to the Roth IRA, to the extent an amount attributable to the previous rollover was transferred to a traditional IRA, in the taxable year in which the airline payment amount was paid to the qualified airline employee by the commercial passenger airline carrier. No amount so transferred to a traditional IRA may be treated as a qualified rollover contribution with respect to a Roth IRA within the 5-taxable year period beginning with the taxable year in which such transfer was made.
 
->         “(3) __Extension of time to file claim for refund.—__ 
+>         “(3)  __Extension of time to file claim for refund__  __.—__ 
 
 >         A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation under section 6511(a) of such Code (or, if later, April 15, 2013).
 
 >         “(4) __Overall limitation on amounts transferred to traditional iras.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The aggregate amount of airline payment amounts which may be transferred to 1 or more traditional IRAs under paragraphs (1) and (2) with respect to any qualified employee for any taxable year shall not exceed the excess (if any) of—
 
@@ -1633,7 +1633,7 @@
 
 >                 “(ii) the aggregate amount of such transfers to which paragraphs (1) and (2) applied for all preceding taxable years.
 
->             “(B) __Special rules.—__ 
+>             “(B)  __Special rules__  __.—__ 
 
 >             For purposes of applying the limitation under subparagraph (A)—
 
@@ -1641,21 +1641,21 @@
 
 >                 “(ii) any amount transferred to a traditional IRA which is attributable to net income described in paragraph (2) shall not be taken into account.
 
->         “(5) __Covered executives not eligible to make transfers.—__ 
+>         “(5)  __Covered executives not eligible to make transfers__  __.—__ 
 
 >         Paragraphs (1) and (2) shall not apply to any transfer by a qualified airline employee (or any transfer authorized under subsection (d) by a surviving spouse of the qualified airline employee) if at any time during the taxable year of the transfer or any preceding taxable year the qualified airline employee held a position described in subparagraph (A) or (B) of section 162(m)(3) \[probably means section 162(m)(3) of the Internal Revenue Code of 1986\] with the commercial passenger airline carrier from whom the airline payment amount was received.
 
->     “(b) __Treatment of Airline Payment Amounts and Transfers for Employment Taxes.—__ 
+>     “(b)  __Treatment of Airline Payment Amounts and Transfers for Employment Taxes__  __.—__ 
 
 >     For purposes of chapter 21 of the Internal Revenue Code of 1986 and section 209 of the Social Security Act \[[42 U.S.C. 409][/us/usc/t42/s409]\], an airline payment amount shall not fail to be treated as a payment of wages by the commercial passenger airline carrier to the qualified airline employee in the taxable year of payment because such amount is excluded from the qualified airline employee’s gross income under subsection (a).
 
->     “(c) __Definitions and Special Rules.—__ 
+>     “(c)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
 >         “(1) __Airline payment amount.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘airline payment amount’ means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
@@ -1665,11 +1665,11 @@
 
 >                   The amount of such payment shall be determined without regard to any requirement to deduct and withhold tax from such payment under sections 3102(a) of the Internal Revenue Code of 1986 and 3402(a) of such Code.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             An airline payment amount shall not include any amount payable on the basis of the carrier’s future earnings or profits.
 
->         “(2) __Qualified airline employee.—__ 
+>         “(2)  __Qualified airline employee__  __.—__ 
 
 >         The term ‘qualified airline employee’ means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
 
@@ -1677,19 +1677,19 @@
 
 >             “(B) was terminated or became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280], [26 U.S.C. 430][/us/usc/t26/s430] note\].
 
->         “(3) __Traditional ira.—__ 
+>         “(3)  __Traditional ira__  __.—__ 
 
 >         The term ‘traditional IRA’ means an individual retirement plan (as defined in section 7701(a)(37) of the Internal Revenue Code of 1986) which is not a Roth IRA.
 
->         “(4) __Roth ira.—__ 
+>         “(4)  __Roth ira__  __.—__ 
 
 >         The term ‘Roth IRA’ has the meaning given such term by section 408A(b) of such Code.
 
->     “(d) __Surviving Spouse.—__ 
+>     “(d)  __Surviving Spouse__  __.—__ 
 
 >     If a qualified airline employee died after receiving an airline payment amount, or if an airline payment amount was paid to the surviving spouse of a qualified airline employee in respect of the qualified airline employee, the surviving spouse of the qualified airline employee may take all actions permitted under section 125 of the Worker, Retiree and Employer Recovery Act of 2008 \[[Pub. L. 110–458][/us/pl/110/458], [26 U.S.C. 408A][/us/usc/t26/s408A] note\], or under this section, to the same extent that the qualified airline employee could have done had the qualified airline employee survived.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply to transfers made after the date of the enactment of this Act \[Feb. 14, 2012\] with respect to airline payment amounts paid before, on, or after such date.”
 
@@ -1697,11 +1697,11 @@
 
 [Pub. L. 109–280, title VIII, § 830][/us/pl/109/280/s830], Aug. 17, 2006, [120 Stat. 1002][/us/stat/120/1002], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury (or the Secretary’s delegate) shall make available a form (or modify existing forms) for use by individuals to direct that a portion of any refund of overpayment of tax imposed by chapter 1 of the Internal Revenue Code of 1986 be paid directly to an individual retirement plan (as defined in section 7701(a)(37) of such Code) of such individual.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The form required by subsection (a) shall be made available for taxable years beginning after December 31, 2006.”
 

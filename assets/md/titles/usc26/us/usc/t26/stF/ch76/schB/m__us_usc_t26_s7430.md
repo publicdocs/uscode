@@ -391,15 +391,15 @@
 
 [Pub. L. 99–514, title XV, § 1551(h)][/us/pl/99/514/s1551/h], Oct. 22, 1986, [100 Stat. 2753][/us/stat/100/2753], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
 
->     “(2) __Subsection (f).—__ 
+>     “(2)  __Subsection__  __(f).—__ 
 
 >     The amendment made by subsection (f) \[amending this section\] shall take effect as if included in the amendments made by section 292 of the Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date note below\].
 
->     “(3) __Applicability of amendments to certain prior cases.—__ 
+>     “(3)  __Applicability of amendments to certain prior cases__  __.—__ 
 
 >     The amendments made by this section shall apply to any case commenced after December 31, 1985, and finally disposed of before the date of the enactment of this Act \[Oct. 22, 1986\], except that in any such case, the 30-day period referred to in [section 2412(d)(1)(B) of title 28][/us/usc/t28/s2412/d/1/B], United States Code, or Rule 231 of the Tax Court, as the case may be, shall be deemed to commence on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -411,11 +411,11 @@
 
 [Pub. L. 97–248, title II, § 292(e)][/us/pl/97/248/s292/e], Sept. 3, 1982, [96 Stat. 574][/us/stat/96/574], as amended by [Pub. L. 98–369, div. A, title I, § 160][/us/pl/98/369/s160], July 18, 1984, [98 Stat. 696][/us/stat/98/696], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 6673 of this title][/us/usc/t26/s6673] and [section 2412 of Title 28][/us/usc/t28/s2412], Judiciary and Judicial Procedure\] shall apply to civil actions or proceedings commenced after February 28, 1983.
 
->     “(2) __Penalty.—__ 
+>     “(2)  __Penalty__  __.—__ 
 
 >     The amendments made by subsections (b) and (d)(2) \[amending [section 6673 of this title][/us/usc/t26/s6673]\] shall apply to any action or proceeding in the United States Tax Court which—
 

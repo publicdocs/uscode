@@ -247,7 +247,7 @@
 
 >     For purposes of this section, the term ‘uniformed service’ has the meaning given it by [section 101(3) of title 37][/us/usc/t37/s101/3], United States Code.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall apply with respect to amounts received during calendar years 1973, 1974, and 1975, and, in the case of a member of a uniformed service receiving training after 1975 and before 1981 in programs described in subsection (a), with respect to amounts received after 1975 and before 1985.”
 

@@ -199,11 +199,11 @@
 
 [Pub. L. 105–33, title IX, § 9302(i)][/us/pl/105/33/s9302/i], Aug. 5, 1997, [111 Stat. 674][/us/stat/111/674], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 5754 of this title][/us/usc/t26/s5754] and amending this section and sections 5702, 5704, 5712, 5713, 5721, 5722, and 5761 to 5763 of this title\] shall apply to articles removed (as defined in section 5702(k) \[now section 5702(j)\] of the Internal Revenue Code of 1986, as amended by this section) after December 31, 1999.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     Any person who—
 
@@ -223,11 +223,11 @@
 
 [Pub. L. 100–647, title V, § 5061(d)][/us/pl/100/647/s5061/d], Nov. 10, 1988, [102 Stat. 3680][/us/stat/102/3680], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 5702 of this title][/us/usc/t26/s5702]\] shall apply to pipe tobacco removed (within the meaning of section 5702(k) \[now section 5702(j)\] of the 1986 Code) after December 31, 1988.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     Any person who—
 
@@ -241,11 +241,11 @@
 
 [Pub. L. 99–272, title XIII, § 13202(c)][/us/pl/99/272/s13202/c], Apr. 7, 1986, [100 Stat. 312][/us/stat/100/312], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 5702 of this title][/us/usc/t26/s5702]\] shall apply to smokeless tobacco removed after June 30, 1986.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     Any person who—
 
@@ -305,7 +305,7 @@
 
 [Pub. L. 111–3, title VII, § 701(h)][/us/pl/111/3/s701/h], Feb. 4, 2009, [123 Stat. 107][/us/stat/123/107], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On tobacco products (other than cigars described in section 5701(a)(2) of the Internal Revenue Code of 1986) and cigarette papers and tubes manufactured in or imported into the United States which are removed before April 1, 2009, and held on such date for sale by any person, there is hereby imposed a tax in an amount equal to the excess of—
 
@@ -313,25 +313,25 @@
 
 >         “(B) the prior tax (if any) imposed under section 5701 of such Code on such article.
 
->     “(2) __Credit against tax.—__ 
+>     “(2)  __Credit against tax__  __.—__ 
 
 >     Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall not exceed the amount of taxes imposed by paragraph (1) on April 1, 2009, for which such person is liable.
 
 >     “(3) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding tobacco products, cigarette papers, or cigarette tubes on April 1, 2009, to which any tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before August 1, 2009.
 
->     “(4) __Articles in foreign trade zones.—__ 
+>     “(4)  __Articles in foreign trade zones__  __.—__ 
 
 >     Notwithstanding the Act of June 18, 1934 (commonly known as the Foreign Trade Zone Act, [48 Stat. 998][/us/stat/48/998], [19 U.S.C. 81a][/us/usc/t19/s81a] et seq.) or any other provision of law, any article which is located in a foreign trade zone on April 1, 2009, shall be subject to the tax imposed by paragraph (1) if—
 
@@ -339,29 +339,29 @@
 
 >         “(B) such article is held on such date under the supervision of an officer of the United States Customs and Border Protection of the Department of Homeland Security pursuant to the 2d proviso of such section 3(a).
 
->     “(5) __Definitions.—__ 
+>     “(5)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Any term used in this subsection which is also used in section 5702 of the Internal Revenue Code of 1986 shall have the same meaning as such term has in such section.
 
->         “(B) __Secretary.—__ 
+>         “(B)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or the Secretary’s delegate.
 
->     “(6) __Controlled groups.—__ 
+>     “(6)  __Controlled groups__  __.—__ 
 
 >     Rules similar to the rules of section 5061(e)(3) of such Code shall apply for purposes of this subsection.
 
->     “(7) __Other laws applicable.—__ 
+>     “(7)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made.”
 
 [Pub. L. 105–33, title IX, § 9302(j)][/us/pl/105/33/s9302/j], Aug. 5, 1997, [111 Stat. 675][/us/stat/111/675], as amended by [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 315(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643, provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On cigarettes manufactured in or imported into the United States which are removed before any tax increase date, and held on such date for sale by any person, there is hereby imposed a tax in an amount equal to the excess of—
 
@@ -369,29 +369,29 @@
 
 >         “(B) the prior tax (if any) imposed under section 5701 of such Code on such article.
 
->     “(2) __Authority to exempt cigarettes held in vending machines.—__ 
+>     “(2)  __Authority to exempt cigarettes held in vending machines__  __.—__ 
 
 >     To the extent provided in regulations prescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax increase date, by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the $500 amount in paragraph (3) with respect to such person.
 
->     “(3) __Credit against tax.—__ 
+>     “(3)  __Credit against tax__  __.—__ 
 
 >     Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall not exceed the amount of taxes imposed by paragraph (1) on any tax increase date, for which such person is liable.
 
 >     “(4) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding cigarettes on any tax increase date, to which any tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before April 1 following any tax increase date.
 
->     “(5) __Articles in foreign trade zones.—__ 
+>     “(5)  __Articles in foreign trade zones__  __.—__ 
 
 >     Notwithstanding the Act of June 18, 1934 ([48 Stat. 998][/us/stat/48/998], [19 U.S.C. 81a][/us/usc/t19/s81a]) and any other provision of law, any article which is located in a foreign trade zone on any tax increase date, shall be subject to the tax imposed by paragraph (1) if—
 
@@ -399,47 +399,47 @@
 
 >         “(B) such article is held on such date under the supervision of a customs officer pursuant to the 2d proviso of such section 3(a).
 
->     “(6) __Definitions.—__ 
+>     “(6)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Terms used in this subsection which are also used in section 5702 of the Internal Revenue Code of 1986 shall have the respective meanings such terms have in such section, as amended by this Act.
 
->         “(B) __Tax increase date.—__ 
+>         “(B)  __Tax increase date__  __.—__ 
 
 >         The term ‘tax increase date’ means January 1, 2000, and January 1, 2002.
 
->         “(C) __Secretary.—__ 
+>         “(C)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or the Secretary’s delegate.
 
->     “(7) __Controlled groups.—__ 
+>     “(7)  __Controlled groups__  __.—__ 
 
 >     Rules similar to the rules of section 5061(e)(3) of such Code shall apply for purposes of this subsection.
 
->     “(8) __Other laws applicable.—__ 
+>     “(8)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made.”
 
 [Pub. L. 101–508, title XI, § 11202(i)][/us/pl/101/508/s11202/i], Nov. 5, 1990, [104 Stat. 1388–420][/us/stat/104/1388-420], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On cigarettes manufactured in or imported into the United States which are removed before any tax-increase date and held on such date for sale by any person, there shall be imposed the following taxes:
 
->         “(A) __Small cigarettes.—__ 
+>         “(A)  __Small cigarettes__  __.—__ 
 
 >         On cigarettes, weighing not more than 3 pounds per thousand, $2 per thousand.
 
->         “(B) __Large cigarettes.—__ 
+>         “(B)  __Large cigarettes__  __.—__ 
 
 >         On cigarettes weighing more than 3 pounds per thousand, $4.20 per thousand; except that, if more than 6½ inches in length, they shall be taxable at the rate prescribed for cigarettes weighing not more than 3 pounds per thousand, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette.
 
 >     “(2) __Exception for certain amounts of cigarettes.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         No tax shall be imposed by paragraph (1) on cigarettes held on any tax-increase date by any person if—
 
@@ -449,69 +449,69 @@
 
 >             For purposes of this subparagraph, in the case of cigarettes measuring more than 6½ inches in length, each 2¾ inches (or fraction thereof) of the length of each shall be counted as one cigarette.
 
->         “(B) __Authority to exempt cigarettes held in vending machines.—__ 
+>         “(B)  __Authority to exempt cigarettes held in vending machines__  __.—__ 
 
 >         To the extent provided in regulations prescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax-increase date by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the 30,000 amount in subparagraph (A) and the $60 amount in paragraph (3) with respect to such person.
 
->     “(3) __Credit against tax.—__ 
+>     “(3)  __Credit against tax__  __.—__ 
 
 >     Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $60. Such credit shall not exceed the amount of taxes imposed by paragraph (1) for which such person is liable.
 
 >     “(4) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding cigarettes on any tax-increase date to which any tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
->         “(C) __Time for payment.—__ 
+>         “(C)  __Time for payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be paid on or before the 1st June 30 following the tax-increase date.
 
->     “(5) __Definitions.—__ 
+>     “(5)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Tax-increase date.—__ 
+>         “(A)  __Tax-increase date__  __.—__ 
 
 >         The term ‘tax-increase date’ means January 1, 1991, and January 1, 1993.
 
->         “(B) __Other definitions.—__ 
+>         “(B)  __Other definitions__  __.—__ 
 
 >         Terms used in this subsection which are also used in section 5702 of the Internal Revenue Code of 1986 shall have the respective meanings such terms have in such section.
 
->         “(C) __Secretary.—__ 
+>         “(C)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
->     “(6) __Controlled groups.—__ 
+>     “(6)  __Controlled groups__  __.—__ 
 
 >     Rules similar to the rules of section 11201(e)(6) \[[Pub. L. 101–508][/us/pl/101/508], set out in a note under [section 5001 of this title][/us/usc/t26/s5001]\] shall apply for purposes of this subsection.
 
->     “(7) __Other laws applicable.—__ 
+>     “(7)  __Other laws applicable__  __.—__ 
 
 >     All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701.”
 
 [Pub. L. 100–647, title V, § 5061(e)][/us/pl/100/647/s5061/e], Nov. 10, 1988, [102 Stat. 3680][/us/stat/102/3680], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On pipe tobacco manufactured in or imported into the United States which is removed before January 1, 1989, and held on such date for sale by any person, there is hereby imposed a tax of 45 cents per pound (and a proportionate tax at the like rate on all fractional parts of a pound).
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding pipe tobacco on January 1, 1989, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be treated as a tax imposed by section 5701 of the 1986 Code and shall be due and payable on February 14, 1989, in the same manner as the tax imposed by such section is payable with respect to pipe tobacco removed on or after January 1, 1989.
 
->         “(C) __Treatment of pipe tobacco in foreign trade zones.—__ 
+>         “(C)  __Treatment of pipe tobacco in foreign trade zones__  __.—__ 
 
 >         Notwithstanding the Act of June 18, 1934 ([48 Stat. 998][/us/stat/48/998], [19 U.S.C. 81a][/us/usc/t19/s81a]) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
@@ -519,43 +519,43 @@
 
 >             “(ii) such pipe tobacco is held on such date under the supervision of a customs officer pursuant to the second proviso of such section 3(a).    “Under regulations prescribed by the Secretary of the Treasury or his delegate, provisions similar to sections 5706 and 5708 of the 1986 Code shall apply to pipe tobacco with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.
 
->     “(3) __Pipe tobacco.—__ 
+>     “(3)  __Pipe tobacco__  __.—__ 
 
 >     For purposes of this subsection, the term ‘pipe tobacco’ shall have the meaning given to such term by subsection (o) \[now subsection (n)\] of section 5702 of the 1986 Code.
 
->     “(4) __Exception where liability does not exceed $1,000.—__ 
+>     “(4)  __Exception where liability does not exceed $1,000__  __.—__ 
 
 >     No tax shall be imposed by paragraph (1) on any person if the tax which would but for this paragraph be imposed on such person does not exceed $1,000. For purposes of the preceding sentence, all persons who are treated as a single taxpayer under section 5061(e)(3) of the 1986 Code shall be treated as 1 person.”
 
 [Pub. L. 97–248, title II, § 283(b)][/us/pl/97/248/s283/b], Sept. 3, 1982, [96 Stat. 568][/us/stat/96/568], as amended by [Pub. L. 97–448, title III, § 306(a)(14)][/us/pl/97/448/s306/a/14], Jan. 12, 1983, [96 Stat. 2405][/us/stat/96/2405]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Imposition of tax.—__ 
+>     “(1)  __Imposition of tax__  __.—__ 
 
 >     On cigarettes manufactured in or imported into the United States which are removed before January 1, 1983, and held on such date for sale by any person, there shall be imposed the following taxes:
 
->         “(A) __Small cigarettes.—__ 
+>         “(A)  __Small cigarettes__  __.—__ 
 
 >         On cigarettes, weighing not more than 3 pounds per thousand, $4 per thousand;
 
->         “(B) __Large cigarettes.—__ 
+>         “(B)  __Large cigarettes__  __.—__ 
 
 >         On cigarettes, weighing more than 3 pounds per thousand, $8.40 per thousand; except that, if more than 6½ inches in length, they shall be taxable at the rate prescribed for cigarettes weighing not more than 3 pounds per thousand, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette.
 
 >     “(2) __Liability for tax and method of payment.—__ 
 
->         “(A) __Liability for tax.—__ 
+>         “(A)  __Liability for tax__  __.—__ 
 
 >         A person holding cigarettes on January 1, 1983, to which any tax imposed by paragraph (1) applies shall be liable for such tax.
 
->         “(B) __Method of payment.—__ 
+>         “(B)  __Method of payment__  __.—__ 
 
 >         The tax imposed by paragraph (1) shall be treated as a tax imposed under section 5701 and shall be due and payable on February 17, 1983 in the same manner as the tax imposed under such section is payable with respect to cigarettes removed on January 1, 1983.
 
->     “(3) __Cigarette.—__ 
+>     “(3)  __Cigarette__  __.—__ 
 
 >     For purposes of this subsection, the term ‘cigarette’ shall have the meaning given to such term by subsection (b) of section 5702 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(4) __Exception for retailers.—__ 
+>     “(4)  __Exception for retailers__  __.—__ 
 
 >     The taxes imposed by paragraph (1) shall not apply to cigarettes in retail stocks held on January 1, 1983, at the place where intended to be sold at retail.”
 

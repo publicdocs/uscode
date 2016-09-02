@@ -1993,15 +1993,15 @@
 
 [Pub. L. 109–280, title XII, § 1213(e)][/us/pl/109/280/s1213/e], Aug. 17, 2006, [120 Stat. 1076][/us/stat/120/1076], provided that:
 
->     “(1) __Special rules for buildings in registered historic districts.—__ 
+>     “(1)  __Special rules for buildings in registered historic districts__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to contributions made after July 25, 2006.
 
->     “(2) __Disallowance of deduction for structures and land; reduction for rehabilitation credit.—__ 
+>     “(2)  __Disallowance of deduction for structures and land; reduction for rehabilitation credit__  __.—__ 
 
 >     The amendments made by subsections (b) and (d) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(3) __Filing fee.—__ 
+>     “(3)  __Filing fee__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to contributions made 180 days after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -2027,15 +2027,15 @@
 
 [Pub. L. 109–280, title XII, § 1219(e)][/us/pl/109/280/s1219/e], Aug. 17, 2006, [120 Stat. 1085][/us/stat/120/1085], provided that:
 
->     “(1) __Misstatement penalties.—__ 
+>     “(1)  __Misstatement penalties__  __.—__ 
 
 >     Except as provided in paragraph (3), the amendments made by subsection (a) \[amending sections 6662 and 6664 of this title\] shall apply to returns filed after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Appraiser provisions.—__ 
+>     “(2)  __Appraiser provisions__  __.—__ 
 
 >     Except as provided in paragraph (3), the amendments made by subsections (b), (c), and (d) \[enacting [section 6695A of this title][/us/usc/t26/s6695A] and amending this section, sections 6664 and 6696 of this title, and [section 330 of Title 31][/us/usc/t31/s330], Money and Finance\] shall apply to appraisals prepared with respect to returns or submissions filed after the date of the enactment of this Act \[Aug. 17, 2006\].
 
->     “(3) __Special rule for certain easements.—__ 
+>     “(3)  __Special rule for certain easements__  __.—__ 
 
 >     In the case of a contribution of a qualified real property interest which is a restriction with respect to the exterior of a building described in section 170(h)(4)(C)(ii) of the Internal Revenue Code of 1986, and an appraisal with respect to the contribution, the amendments made by subsections (a) and (b) \[enacting [section 6695A of this title][/us/usc/t26/s6695A] and amending sections 6662, 6664, and 6696 of this title\] shall apply to returns filed after July 25, 2006.”
 
@@ -2103,15 +2103,15 @@
 
 [Pub. L. 106–170, title V, § 537(b)][/us/pl/106/170/s537/b], Dec. 17, 1999, [113 Stat. 1938][/us/stat/113/1938], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this section \[amending this section\], the amendment made by this section shall apply to transfers made after February 8, 1999.
 
->     “(2) __Excise tax.—__ 
+>     “(2)  __Excise tax__  __.—__ 
 
 >     Except as provided in paragraph (3) of this subsection, section 170(f)(10)(F) of the Internal Revenue Code of 1986 (as added by this section) shall apply to premiums paid after the date of the enactment of this Act \[Dec. 17, 1999\].
 
->     “(3) __Reporting.—__ 
+>     “(3)  __Reporting__  __.—__ 
 
 >     Clause (iii) of such section 170(f)(10)(F) shall apply to premiums paid after February 8, 1999 (determined as if the tax imposed by such section applies to premiums paid after such date).”
 
@@ -2167,11 +2167,11 @@
 
 [Pub. L. 100–647, title VI, § 6001(b)][/us/pl/100/647/s6001/b], Nov. 10, 1988, [102 Stat. 3684][/us/stat/102/3684], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Waiver of statute of limitations.—__ 
+>     “(2)  __Waiver of statute of limitations__  __.—__ 
 
 >     If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of section 170(m) of the 1986 Code (as added by subsection (a)) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the date 1 year after the date of the enactment of this Act.”
 
@@ -2197,11 +2197,11 @@
 
 [Pub. L. 98–369, div. A, title III, § 301(d)][/us/pl/98/369/s301/d], July 18, 1984, [98 Stat. 779][/us/stat/98/779], provided that:
 
->     “(1) __Subsections (a) and (c).—__ 
+>     “(1)  __Subsections__  __(a)__  __and__  __(c).—__ 
 
 >     The amendments made by subsections (a) and (c) \[amending this section\] shall apply to contributions made in taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
@@ -2441,7 +2441,7 @@
 
 [Pub. L. 98–369, div. A, title I, § 155(a)][/us/pl/98/369/s155/a], July 18, 1984, [98 Stat. 691][/us/stat/98/691], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than December 31, 1984, the Secretary shall prescribe regulations under section 170(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], which require any individual, closely held corporation, or personal service corporation claiming a deduction under section 170 of such Code for a contribution described in paragraph (2)—
 
@@ -2453,7 +2453,7 @@
 
 >         Such regulations shall require the taxpayer to retain any qualified appraisal.
 
->     “(2) __Contributions to which paragraph (1) applies.—__ 
+>     “(2)  __Contributions to which paragraph (1) applies__  __.—__ 
 
 >     For purposes of paragraph (1), a contribution is described in this paragraph—
 
@@ -2463,11 +2463,11 @@
 
 >         In the case of any property which is nonpublicly traded stock, subparagraph (B) shall be applied by substituting ‘$10,000’ for ‘$5,000’.
 
->     “(3) __Appraisal summary.—__ 
+>     “(3)  __Appraisal summary__  __.—__ 
 
 >     For purposes of this subsection, the appraisal summary shall be in such form and include such information as the Secretary prescribes by regulations. Such summary shall be signed by the qualified appraiser preparing the qualified appraisal and shall contain the TIN of such appraiser. Such summary shall be acknowledged by the donee of the property appraised in such manner as the Secretary prescribes in such regulations.
 
->     “(4) __Qualified appraisal.—__ 
+>     “(4)  __Qualified appraisal__  __.—__ 
 
 >     The term ‘qualified appraisal’ means an appraisal prepared by a qualified appraiser which includes—
 
@@ -2485,7 +2485,7 @@
 
 >     “(5) __Qualified appraiser.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified appraiser’ means an appraiser qualified to make appraisals of the type of property donated, who is not—
 
@@ -2499,31 +2499,31 @@
 
 >             “(v) to the extent provided in such regulations, any person whose relationship to the taxpayer would cause a reasonable person to question the independence of such appraiser.
 
->         “(B) __Appraisal fees.—__ 
+>         “(B)  __Appraisal fees__  __.—__ 
 
 >         For purposes of this subsection, an appraisal shall not be treated as a qualified appraisal if all or part of the fee paid for such appraisal is based on a percentage of the appraised value of the property. The preceding sentence shall not apply to fees based on a sliding scale that are paid to a generally recognized association regulating appraisers.
 
->     “(6) __Other definitions.—__ 
+>     “(6)  __Other definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Closely held corporation.—__ 
+>         “(A)  __Closely held corporation__  __.—__ 
 
 >         The term ‘closely held corporation’ means any corporation (other than an S corporation) with respect to which the stock ownership requirement of paragraph (2) of section 542(a) of such Code is met.
 
->         “(B) __Personal service corporation.—__ 
+>         “(B)  __Personal service corporation__  __.—__ 
 
 >         The term ‘personal service corporation’ means any corporation (other than an S corporation) which is a service organization (within the meaning of section 414(m)(3) of such Code).
 
->         “(C) __Publicly traded securities.—__ 
+>         “(C)  __Publicly traded securities__  __.—__ 
 
 >         The term ‘publicly traded securities’ means securities for which (as of the date of the contribution) market quotations are readily available on an established securities market.
 
->         “(D) __Nonpublicly traded stock.—__ 
+>         “(D)  __Nonpublicly traded stock__  __.—__ 
 
 >         The term ‘nonpublicly traded stock’ means any stock of a corporation which is not a publicly traded security.
 
->         “(E) __The secretary.—__ 
+>         “(E)  __The secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 

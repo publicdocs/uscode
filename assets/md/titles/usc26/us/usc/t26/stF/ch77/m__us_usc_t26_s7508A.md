@@ -67,7 +67,7 @@
 
 [Pub. L. 106–170, title V, § 522][/us/pl/106/170/s522], Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary’s delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
 
@@ -75,7 +75,7 @@
 
 >         “(2) the amount of any credit or refund.
 
->     “(b) __Applicability of Certain Rules.—__ 
+>     “(b)  __Applicability of Certain Rules__  __.—__ 
 
 >     For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
 
@@ -83,19 +83,19 @@
 
 [Pub. L. 105–34, title IX, § 915][/us/pl/105/34/s915], Aug. 5, 1997, [111 Stat. 879][/us/stat/111/879], as amended by [Pub. L. 105–277, div. J, title IV, § 4003(e)(1)][/us/pl/105/277/s4003/e/1], Oct. 21, 1998, [112 Stat. 2681–909][/us/stat/112/2681-909], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If the Secretary of the Treasury extends for any period the time for filing income tax returns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax.
 
->     “(b) __Presidentially Declared Disaster Area.—__ 
+>     “(b)  __Presidentially Declared Disaster Area__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘Presidentially declared disaster area’ means, with respect to any individual, any area which the President has determined during 1997 or 1998 warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\].
 
->     “(c) __Individual.—__ 
+>     “(c)  __Individual__  __.—__ 
 
 >     For purposes of this section, the term ‘individual’ shall not include any estate or trust.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall apply to disasters declared after December 31, 1996.”
 

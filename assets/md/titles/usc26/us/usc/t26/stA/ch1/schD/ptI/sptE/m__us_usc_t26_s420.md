@@ -469,7 +469,7 @@
 
     Subsec. (e)(1)(B). [Pub. L. 112–141, § 40242(e)(6)(A)][/us/pl/112/141/s40242/e/6/A], inserted “(determined separately for applicable health benefits and applicable life insurance benefits)” after “shall be reduced by the amount” in introductory provisions.
 
-    Subsec. (e)(1)(B)(i). [Pub. L. 112–141, § 40242(e)(6)(C)][/us/pl/112/141/s40242/e/6/C], substituted “qualified current retiree liability”.
+    Subsec. (e)(1)(B)(i). [Pub. L. 112–141, § 40242(e)(6)(C)][/us/pl/112/141/s40242/e/6/C], substituted “qualified current retiree liability” for “qualified current retiree health liability”.
 
     [Pub. L. 112–141, § 40242(e)(6)(B)][/us/pl/112/141/s40242/e/6/B], which directed the insertion of “or applicable life insurance accounts” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
 
@@ -601,11 +601,11 @@
 
 [Pub. L. 112–141, div. D, title II, § 40242(h)][/us/pl/112/141/s40242/h], July 6, 2012, [126 Stat. 864][/us/stat/126/864], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, [section 79 of this title][/us/usc/t26/s79], and [section 1021 of Title 29][/us/usc/t29/s1021], Labor\] shall apply to transfers made after the date of the enactment of this Act \[July 6, 2012\].
 
->     “(2) __Conforming amendments relating to pension protection act.—__ 
+>     “(2)  __Conforming amendments relating to pension protection act__  __.—__ 
 
 >     The amendments made by subsections (b)(3)(B) and (f) \[amending this section\] shall take effect as if included in the amendments made by section 841(a) of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280]\].”
 
@@ -645,11 +645,11 @@
 
 [Pub. L. 106–170, title V, § 535(c)][/us/pl/106/170/s535/c], Dec. 17, 1999, [113 Stat. 1935][/us/stat/113/1935], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall apply to qualified transfers occurring after the date of the enactment of this Act \[Dec. 17, 1999\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     If the cost maintenance period for any qualified transfer after the date of the enactment of this Act \[Dec. 17, 1999\] includes any portion of a benefit maintenance period for any qualified transfer on or before such date, the amendments made by subsection (b) \[amending this section\] shall not apply to such portion of the cost maintenance period (and such portion shall be treated as a benefit maintenance period).”
 
@@ -657,11 +657,11 @@
 
 [Pub. L. 103–465, title VII, § 731(d)][/us/pl/103/465/s731/d], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendments made by subsections (a) and (c)(3) \[amending this section\] shall apply to taxable years beginning after December 31, 1995.
 
->     “(2) __Benefits.—__ 
+>     “(2)  __Benefits__  __.—__ 
 
 >     The amendments made by subsections (b) and (c)(1) and (2) \[amending this section\] shall apply to qualified transfers occurring after the date of the enactment of this Act \[Dec. 8, 1994\].”
 
@@ -669,11 +669,11 @@
 
 [Pub. L. 101–508, title XII, § 12011(c)][/us/pl/101/508/s12011/c], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 401 of this title][/us/usc/t26/s401]\] shall apply to transfers in taxable years beginning after December 31, 1990.
 
->     “(2) __Waiver of estimated tax penalties.—__ 
+>     “(2)  __Waiver of estimated tax penalties__  __.—__ 
 
 >     No addition to tax shall be made under section 6654 or section 6655 of the Internal Revenue Code of 1986 for the taxable year preceding the taxpayer’s 1st taxable year beginning after December 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of \[former\] section 420(b)(4)(B) of such Code (as added by subsection (a)).”
 

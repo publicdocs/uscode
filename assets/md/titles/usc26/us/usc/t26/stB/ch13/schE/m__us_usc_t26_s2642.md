@@ -353,11 +353,11 @@
 
 [Pub. L. 107–16, title V, § 564(b)][/us/pl/107/16/s564/b], June 7, 2001, [115 Stat. 91][/us/stat/115/91], provided that:
 
->     “(1) __Relief from late elections.—__ 
+>     “(1)  __Relief from late elections__  __.—__ 
 
 >     Section 2642(g)(1) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to requests pending on, or filed after, December 31, 2000.
 
->     “(2) __Substantial compliance.—__ 
+>     “(2)  __Substantial compliance__  __.—__ 
 
 >     Section 2642(g)(2) of such Code (as so added) shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000. No implication is intended with respect to the availability of relief from late elections or the application of a rule of substantial compliance on or before such date.”
 

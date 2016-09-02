@@ -37,11 +37,11 @@
 
 [Pub. L. 98–369, div. A, title I, § 79][/us/pl/98/369/s79], July 18, 1984, [98 Stat. 597][/us/stat/98/597], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Section 752 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (and the regulations prescribed thereunder) shall be applied without regard to the result reached in the case of Raphan vs the United States, 3 Cl. Ct. 457 (1983).
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     In amending the regulations prescribed under section 752 of such Code to reflect subsection (a), the Secretary of the Treasury or his delegate shall prescribe regulations relating to liabilities, including the treatment of guarantees, assumptions, indemnity agreements, and similar arrangements.”
 

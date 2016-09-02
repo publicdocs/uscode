@@ -317,21 +317,21 @@
 
 [Pub. L. 108–357, title VIII, § 885(d)][/us/pl/108/357/s885/d], Oct. 22, 2004, [118 Stat. 1640][/us/stat/118/1640], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 3401, 6041, and 6051 of this title\] shall apply to amounts deferred after December 31, 2004.
 
 >     “(2) __Special rules.—__ 
 
->         “(A) __Earnings.—__ 
+>         “(A)  __Earnings__  __.—__ 
 
 >         The amendments made by this section shall apply to earnings on deferred compensation only to the extent that such amendments apply to such compensation.
 
->         “(B) __Material modifications.—__ 
+>         “(B)  __Material modifications__  __.—__ 
 
 >         For purposes of this subsection, amounts deferred in taxable years beginning before January 1, 2005, shall be treated as amounts deferred in a taxable year beginning on or after such date if the plan under which the deferral is made is materially modified after October 3, 2004, unless such modification is pursuant to the guidance issued under subsection (f) \[set out as a note below\].
 
->     “(3) __Exception for nonelective deferred compensation.—__ 
+>     “(3)  __Exception for nonelective deferred compensation__  __.—__ 
 
 >     The amendments made by this section shall not apply to any nonelective deferred compensation to which section 457 of the Internal Revenue Code of 1986 does not apply by reason of section 457(e)(12) of such Code, but only if such compensation is provided under a nonqualified deferred compensation plan—
 

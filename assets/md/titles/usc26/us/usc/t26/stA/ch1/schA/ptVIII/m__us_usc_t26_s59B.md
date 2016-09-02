@@ -21,11 +21,11 @@
 
 [Pub. L. 101–234, title I, § 102(d)][/us/pl/101/234/s102/d], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the provisions of this section \[repealing [section 1395i–1a of Title 42][/us/usc/t42/s1395i–1a], The Public Health and Welfare, enacting provisions set out as notes under [section 6050F of this title][/us/usc/t26/s6050F] and [section 1395t of Title 42][/us/usc/t42/s1395t], and repealing provisions set out as a note under [section 1395i–1a of Title 42][/us/usc/t42/s1395i–1a]\] shall take effect January 1, 1990.
 
->     “(2) __Repeal of supplemental medicare premium.—__ 
+>     “(2)  __Repeal of supplemental medicare premium__  __.—__ 
 
 >     The repeal of section 111 of MCCA \[[Pub. L. 100–360][/us/pl/100/360], which enacted this section, amended [section 6050F of this title][/us/usc/t26/s6050F], and enacted provisions set out as notes below\] shall apply to taxable years beginning after December 31, 1988.”
 

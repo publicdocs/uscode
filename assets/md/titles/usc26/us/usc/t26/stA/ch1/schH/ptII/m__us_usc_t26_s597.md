@@ -91,21 +91,21 @@
 
 [Pub. L. 101–73, title XIV, § 1401(c)(3)][/us/pl/101/73/s1401/c/3]–(5), Aug. 9, 1989, [103 Stat. 550][/us/stat/103/550], provided that:
 
->     “(3) __Subsection (a)(3).—__ 
+>     “(3)  __Subsection__  __(a)(3).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending [section 368 of this title][/us/usc/t26/s368]\] does not apply.
 
->         “(B) __Interim rule.—__ 
+>         “(B)  __Interim rule__  __.—__ 
 
 >         In the case of any payment pursuant to a transaction on or after May 10, 1989, and before the date on which the Secretary of the Treasury (or his delegate) takes action in exercise of his regulatory authority under section 597 of the Internal Revenue Code of 1986 (as amended by subsection (a)(3)), the taxpayer may rely on the legislative history for the amendments made by subsection (a)(3) in determining the proper treatment of such payment.
 
->     “(4) __Subsection (b)(1).—__ 
+>     “(4)  __Subsection__  __(b)(1).—__ 
 
 >     The provisions of subsection (b)(1) \[set out below\] shall take effect on the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\].
 
->     “(5) __Subsection (b)(2).—__ 
+>     “(5)  __Subsection__  __(b)(2).—__ 
 
 >     The amendment made by subsection (b)(2) \[amending provisions set out below\] shall take effect on the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\].”
 

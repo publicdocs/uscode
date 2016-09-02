@@ -59,11 +59,11 @@
 
 [Pub. L. 99–662, title XIV, § 1405(d)][/us/pl/99/662/s1405/d], Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and repealing sections 1801 and 1802 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.
 
->     “(2) __Inland waterways trust fund treated as continuation of old trust fund.—__ 
+>     “(2)  __Inland waterways trust fund treated as continuation of old trust fund__  __.—__ 
 
 >     The Inland Waterways Trust Fund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Inland Waterways Trust Fund established by section 203 of the Inland Waterways Revenue Act of 1978 \[former [33 U.S.C. 1801][/us/usc/t33/s1801]\]. Any reference in any law to the Inland Waterways Trust Fund established by such section 203 shall be deemed to include (wherever appropriate) a reference to the Inland Waterways Trust Fund established by this section.”
 

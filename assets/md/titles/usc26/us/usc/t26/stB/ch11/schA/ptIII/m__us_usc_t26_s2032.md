@@ -79,11 +79,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1024(b)][/us/pl/98/369/s1024/b], July 18, 1984, [98 Stat. 1030][/us/stat/98/1030], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of an estate of a decedent dying before the date of the enactment of this Act \[July 18, 1984\] if—
 

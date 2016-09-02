@@ -345,11 +345,11 @@
 
 [Pub. L. 99–514, title XII, § 1211(c)][/us/pl/99/514/s1211/c], Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 861 to 864, 871, 881, and 904 of this title, and enacting provisions set out below\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special rule for foreign persons.—__ 
+>     “(2)  __Special rule for foreign persons__  __.—__ 
 
 >     In the case of any foreign person other than any controlled foreign corporations (within the meaning of section 957(a) of the Internal Revenue Code of 1954 \[now 1986\]), the amendments made by this section shall apply to transactions entered into after March 18, 1986.”
 

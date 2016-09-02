@@ -817,19 +817,19 @@
 
 >     “(e) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 172 and 810 of this title\] shall apply to net operating losses arising in taxable years ending after December 31, 2007.
 
->         “(2) __Alternative tax net operating loss deduction.—__ 
+>         “(2)  __Alternative tax net operating loss deduction__  __.—__ 
 
 >         The amendment made by subsection (b) \[amending this section\] shall apply to taxable years ending after December 31, 2002.
 
->         “(3) __Loss from operations of life insurance companies.—__ 
+>         “(3)  __Loss from operations of life insurance companies__  __.—__ 
 
 >         The amendment made by subsection (d) \[probably means subsec. (c), amending [section 810 of this title][/us/usc/t26/s810]\] shall apply to losses from operations arising in taxable years ending after December 31, 2007.
 
->         “(4) __Transitional rule.—__ 
+>         “(4)  __Transitional rule__  __.—__ 
 
 >         In the case of any net operating loss (or, in the case of a life insurance company, any loss from operations) for a taxable year ending before the date of the enactment of this Act \[Nov. 6, 2009\]—
 
@@ -837,7 +837,7 @@
 
 >             “(B) any application under section 6411(a) of such Code with respect to such loss shall be treated as timely filed if filed before such due date.
 
->     “(f) __Exception for TARP Recipients.—__ 
+>     “(f)  __Exception for TARP Recipients__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 172 and 810 of this title\] shall not apply to—
 
@@ -867,11 +867,11 @@
 
 [Pub. L. 110–343, div. C, title VII, § 706(d)][/us/pl/110/343/s706/d], Oct. 3, 2008, [122 Stat. 3923][/us/stat/122/3923], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided by paragraph (2), the amendments made by this section \[amending this section and sections 63, 139, 165, 172, 1033, and 7508A of this title\] shall apply to disasters declared in taxable years beginning after December 31, 2007.
 
->     “(2) __Increase in limitation on individual loss per casualty.—__ 
+>     “(2)  __Increase in limitation on individual loss per casualty__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending [section 165 of this title][/us/usc/t26/s165]\] shall apply to taxable years beginning after December 31, 2008.”
 
@@ -889,11 +889,11 @@
 
 [Pub. L. 109–58, title XIII, § 1326(e)][/us/pl/109/58/s1326/e], Aug. 8, 2005, [119 Stat. 1017][/us/stat/119/1017], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 168 of this title][/us/usc/t26/s168]\] shall apply to property placed in service after April 11, 2005.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 168 of this title][/us/usc/t26/s168]\] shall not apply to any property with respect to which the taxpayer or a related party has entered into a binding contract for the construction thereof on or before April 11, 2005, or, in the case of self-constructed property, has started construction on or before such date.”
 
@@ -905,11 +905,11 @@
 
 [Pub. L. 108–357, title I, § 102(e)][/us/pl/108/357/s102/e], Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], as amended by [Pub. L. 109–135, title IV, § 403(a)(19)][/us/pl/109/135/s403/a/19], Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 199 of this title][/us/usc/t26/s199] and amending this section and sections 86, 135, 137, 219, 221, 222, 246, 469, 613, and 1402 of this title\] shall apply to taxable years beginning after December 31, 2004.
 
->     “(2) __Application to pass-thru entities, etc.—__ 
+>     “(2)  __Application to pass-thru entities, etc__  __.—__ 
 
 >     In determining the deduction under section 199 of the Internal Revenue Code of 1986 (as added by this section), items arising from a taxable year of a partnership, S corporation, estate, or trust beginning before January 1, 2005, shall not be taken into account for purposes of subsection (d)(1) of such section.”
 
@@ -923,11 +923,11 @@
 
 [Pub. L. 108–357, title VIII, § 835(c)][/us/pl/108/357/s835/c], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 382, 582, 856, 860G, 1202, and 7701 of this title and repealing part V of subchapter M of this chapter\] shall take effect on January 1, 2005.
 
->     “(2) __Exception for existing fasits.—__ 
+>     “(2)  __Exception for existing fasits__  __.—__ 
 
 >     Paragraph (1) shall not apply to any FASIT in existence on the date of the enactment of this Act \[Oct. 22, 2004\] to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance.”
 
@@ -955,33 +955,33 @@
 
 [Pub. L. 106–519, § 5][/us/pl/106/519/s5], Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433], as amended by [Pub. L. 109–222, title V, § 513(a)][/us/pl/109/222/s513/a], May 17, 2006, [120 Stat. 366][/us/stat/120/366], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[enacting sections 114 and 941 to 943 of this title, amending this section and sections 275, 864, 903, and 999 of this title, and repealing sections 921 to 927 of this title\] shall apply to transactions after September 30, 2000.
 
 >     “(b) __No New FSCs; Termination of Inactive FSCs.—__ 
 
->         “(1) __No new fscs.—__ 
+>         “(1)  __No new fscs__  __.—__ 
 
 >         No corporation may elect after September 30, 2000, to be a FSC (as defined in section 922 of the Internal Revenue Code of 1986, as in effect before the amendments made by this Act).
 
->         “(2) __Termination of inactive fscs.—__ 
+>         “(2)  __Termination of inactive fscs__  __.—__ 
 
 >         If a FSC has no foreign trade income (as defined in section 923(b) of such Code, as so in effect) for any period of 5 consecutive taxable years beginning after December 31, 2001, such FSC shall cease to be treated as a FSC for purposes of such Code for any taxable year beginning after such period.
 
 >     “(c) __Transition Period for Existing Foreign Sales Corporations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a FSC (as so defined) in existence on September 30, 2000, and at all times thereafter, the amendments made by this Act shall not apply to any transaction in the ordinary course of trade or business involving a FSC which occurs before January 1, 2002.
 
->         “(2) __Election to have amendments apply earlier.—__ 
+>         “(2)  __Election to have amendments apply earlier__  __.—__ 
 
 >         A taxpayer may elect to have the amendments made by this Act apply to any transaction by a FSC or any related person to which such amendments would apply but for the application of paragraph (1). Such election shall be effective for the taxable year for which made and all subsequent taxable years, and, once made, may be revoked only with the consent of the Secretary of the Treasury.
 
 >         “(3) __Exception for old earnings and profits of certain corporations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a foreign corporation to which this paragraph applies—
 
@@ -991,7 +991,7 @@
 
 >                   The preceding sentence shall not apply to earnings and profits acquired in a transaction after September 30, 2000, to which section 381 applies unless the distributor or transferor corporation was immediately before the transaction a foreign corporation to which this paragraph applies.
 
->             “(B) __Existing fscs.—__ 
+>             “(B)  __Existing fscs__  __.—__ 
 
 >             This paragraph shall apply to any controlled foreign corporation (as defined in section 957) if—
 
@@ -1001,7 +1001,7 @@
 
 >                 “(iii) such corporation makes such election not later than for its first taxable year beginning after December 31, 2001.
 
->             “(C) __Other corporations.—__ 
+>             “(C)  __Other corporations__  __.—__ 
 
 >             This paragraph shall apply to any controlled foreign corporation (as defined in section 957), and such corporation shall (notwithstanding any provision of section 943(e)) be treated as an applicable foreign corporation for purposes of section 943(e), if—
 
@@ -1023,21 +1023,21 @@
 
 >                   The preceding sentence shall cease to apply as of the date that the domestic corporation referred to in clause (ii) ceases to wholly own (directly or indirectly) such controlled foreign corporation.
 
->         “(4) __Related person.—__ 
+>         “(4)  __Related person__  __.—__ 
 
 >         For purposes of this subsection, the term ‘related person’ has the meaning given to such term by section 943(b)(3).
 
->         “(5) __Section references.—__ 
+>         “(5)  __Section references__  __.—__ 
 
 >         Except as otherwise expressly provided, any reference in this subsection to a section or other provision shall be considered to be a reference to a section or other provision of the Internal Revenue Code of 1986, as amended by this Act.
 
 >     “(d) __Special Rules Relating to Leasing Transactions.—__ 
 
->         “(1) __Sales income.—__ 
+>         “(1)  __Sales income__  __.—__ 
 
 >         If foreign trade income in connection with the lease or rental of property described in section 927(a)(1)(B) of such Code (as in effect before the amendments made by this Act) is treated as exempt foreign trade income for purposes of section 921(a) of such Code (as so in effect), such property shall be treated as property described in section 941(c)(1)(B) of such Code (as added by this Act) for purposes of applying section 941(c)(2) of such Code (as so added) to any subsequent transaction involving such property to which the amendments made by this Act apply.
 
->         “(2) __Limitation on use of gross receipts method.—__ 
+>         “(2)  __Limitation on use of gross receipts method__  __.—__ 
 
 >         If any person computed its foreign trade income from any transaction with respect to any property on the basis of a transfer price determined under the method described in section 925(a)(1) of such Code (as in effect before the amendments made by this Act), then the qualifying foreign trade income (as defined in section 941(a) of such Code, as in effect after such amendment) of such person (or any related person) with respect to any other transaction involving such property (and to which the amendments made by this Act apply) shall be zero.”
 
@@ -1053,11 +1053,11 @@
 
 [Pub. L. 105–34, title IV, § 403(b)][/us/pl/105/34/s403/b], Aug. 5, 1997, [111 Stat. 844][/us/stat/111/844], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to dispositions in taxable years beginning after December 31, 1987.
 
->     “(2) __Special rule for 1987.—__ 
+>     “(2)  __Special rule for 1987__  __.—__ 
 
 >     In the case of taxable years beginning in 1987, the last sentence of section 56(a)(6) of the Internal Revenue Code of 1986 (as in effect for such taxable years) shall be applied by inserting ‘or in the case of a taxpayer using the cash receipts and disbursements method of accounting, any disposition described in section 453C(e)(1)(B)(ii)’ after ‘section 453C(e)(4)’.”
 
@@ -1077,11 +1077,11 @@
 
 [Pub. L. 103–66, title XIII, § 13115(b)][/us/pl/103/66/s13115/b], Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 1993.
 
->     “(2) __Coordination with transitional rules.—__ 
+>     “(2)  __Coordination with transitional rules__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) of the Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
 
@@ -1103,11 +1103,11 @@
 
 [Pub. L. 101–508, title XI, § 11301(d)(2)][/us/pl/101/508/s11301/d/2], Nov. 5, 1990, [104 Stat. 1388–449][/us/stat/104/1388-449], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990, except that, in the case of a small insurance company, such amendment shall apply to taxable years beginning after December 31, 1989. For purposes of this paragraph, the term ‘small insurance company’ means any insurance company which meets the requirements of section 806(a)(3) of the Internal Revenue Code of 1986; except that paragraph (2) of section 806(c) of such Code shall not apply.
 
->     “(B) __Special rules for year which includes__  __september 30, 1990__  __.—__ 
+>     “(B)  __Special rules for year which includes __  __september 30, 1990__  __.—__ 
 
 >     In the case of any taxable year which includes September 30, 1990, the amount of acquisition expenses which is required to be capitalized under section 56(g)(4)(F) of the Internal Revenue Code of 1986 (as in effect before the amendment made by subsection (b)) by a company which is not a small insurance company shall be the amount which bears the same ratio to the amount which (but for this subparagraph) would be so required to be capitalized as the number of days in such taxable year before September 30, 1990, bears to the total number of days in such taxable year. A similar reduction shall be made in the amount amortized for such taxable year under such section 56(g)(4)(F).”
 
@@ -1125,33 +1125,33 @@
 
 [Pub. L. 101–239, title VII, § 7205(c)][/us/pl/101/239/s7205/c], Dec. 19, 1989, [103 Stat. 2336][/us/stat/103/2336], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 382 of this title][/us/usc/t26/s382]\] shall apply to ownership changes and acquisitions after October 2, 1989, in taxable years ending after such date.
 
->     “(2) __Binding contract.—__ 
+>     “(2)  __Binding contract__  __.—__ 
 
 >     The amendments made by this section shall not apply to any ownership change or acquisition pursuant to a written binding contract in effect on October 2, 1989, and at all times thereafter before such change or acquisition.
 
->     “(3) __Bankruptcy proceedings.—__ 
+>     “(3)  __Bankruptcy proceedings__  __.—__ 
 
 >     In the case of a reorganization described in section 368(a)(1)(G) of the Internal Revenue Code of 1986, or an exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3) of such Code), the amendments made by this section shall not apply to any ownership change resulting from such a reorganization or proceeding if a petition in such case was filed with the court before October 3, 1989.
 
->     “(4) __Subsidiaries of bankrupt parent.—__ 
+>     “(4)  __Subsidiaries of bankrupt parent__  __.—__ 
 
 >     The amendments made by this section shall not apply to any built-in loss of a corporation which is a member (on October 2, 1989) of an affiliated group the common parent of which (on such date) was subject to title 11 or similar case (as defined in section 368(a)(3) of such Code). The preceding sentence shall apply only if the ownership change or acquisition is pursuant to the plan approved in such proceeding and is before the date 2 years after the date on which the petition which commenced such proceeding was filed.”
 
 [Pub. L. 101–239, title VII, § 7611(g)][/us/pl/101/239/s7611/g], Dec. 19, 1989, [103 Stat. 2373][/us/stat/103/2373], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 59 and 312 of this title\] shall apply to taxable years beginning after December 31, 1989.
 
->     “(2) __Intangible drilling costs.—__ 
+>     “(2)  __Intangible drilling costs__  __.—__ 
 
 >     The amendments made by subsection (f)(5) \[amending sections 59 and 312 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1989.
 
->     “(3) __Regulations on earnings and profits rules.—__ 
+>     “(3)  __Regulations on earnings and profits rules__  __.—__ 
 
 >     Not later than March 15, 1991, the Secretary of the Treasury or his delegate shall prescribe initial regulations providing guidance as to which items of income are included in adjusted current earnings under section 56(g)(4)(B)(i) of the Internal Revenue Code of 1986 and which items of deduction are disallowed under section 56(g)(4)(C) of such Code.”
 

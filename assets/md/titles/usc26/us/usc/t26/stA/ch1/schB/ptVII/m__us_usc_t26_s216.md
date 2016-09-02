@@ -185,11 +185,11 @@
 
 [Pub. L. 99–514, title VI, § 644(f)][/us/pl/99/514/s644/f], Oct. 22, 1986, [100 Stat. 2289][/us/stat/100/2289], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Subsection (e).—__ 
+>     “(2)  __Subsection__  __(e).—__ 
 
 >         “(A) Except as provided in subparagraph (B), subsection (e) \[set out below\] shall apply to taxable years beginning before January 1, 1986.
 
@@ -227,7 +227,7 @@
 
 [Pub. L. 99–514, title VI, § 644(e)][/us/pl/99/514/s644/e], Oct. 22, 1986, [100 Stat. 2287][/us/stat/100/2287], provided that:
 
->     “(1) __Payment of closing costs and creation of reserve excluded from gross income.—__ 
+>     “(1)  __Payment of closing costs and creation of reserve excluded from gross income__  __.—__ 
 
 >     For purposes of the Internal Revenue Code of 1954 \[now 1986\], no amount shall be included in the gross income of a qualified cooperative housing corporation by reason of the payment or reimbursement by a city housing development agency or corporation of amounts for—
 
@@ -239,7 +239,7 @@
 
 >     “(2) __Income from reserve fund treated as member income.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Income from a qualified refinancing-related reserve shall be treated as derived from its members for purposes of—
 
@@ -247,11 +247,11 @@
 
 >             “(ii) section 277 of such Code (relating to deductions incurred by certain membership organizations in transactions with members).
 
->         “(B) __No inference.—__ 
+>         “(B)  __No inference__  __.—__ 
 
 >         Nothing in the provisions of this paragraph shall be construed to infer that a change in law is intended with respect to the treatment of deductions under section 277 of the Internal Revenue Code of 1954 \[now 1986\] with respect to cooperative housing corporations, and any determination of such issue shall be made as if such provisions had not been enacted.
 
->     “(3) __Treatment of certain interest claimed as deduction.—__ 
+>     “(3)  __Treatment of certain interest claimed as deduction__  __.—__ 
 
 >     Any amount—
 
@@ -263,7 +263,7 @@
 
 >     “(4) __Qualified cooperative housing corporation.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified cooperative housing corporation’ means any corporation if—
 
@@ -279,11 +279,11 @@
 
 >                 “(II) filed for incorporation on March 5, 1964.
 
->         “(B) __Qualified limited-profit housing companies law.—__ 
+>         “(B)  __Qualified limited-profit housing companies law__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified limited-profit housing companies law’ means any limited-profit housing companies law which limits the resale price for a tenant-stockholder’s stock in a cooperative housing corporation to the sum of his basis for such stock plus his proportionate share of part or all of the amortization of any mortgage on the building owned by such corporation.
 
->     “(5) __Qualified refinancing.—__ 
+>     “(5)  __Qualified refinancing__  __.—__ 
 
 >     For purposes of this subsection, the term ‘qualified refinancing’ means any refinancing—
 
@@ -297,13 +297,13 @@
 
 >         “(B) in which a qualified cooperative housing corporation refinanced a first mortgage loan made to such corporation by a city housing development agency with a first mortgage loan made by a city housing development corporation and insured by an agency of the Federal Government and a second mortgage loan made by such city housing development agency, in the process of which a reserve was created (as required by such Federal agency) and closing costs were paid or reimbursed by such city housing development agency or corporation.
 
->     “(6) __Qualified refinancing-related reserve.—__ 
+>     “(6)  __Qualified refinancing-related reserve__  __.—__ 
 
 >     For purposes of this subsection, the term ‘qualified refinancing-related reserve’ means any reserve of a qualified cooperative housing corporation with respect to the creation of which no amount was included in the gross income of such corporation by reason of paragraph (a).
 
 >     “(7) __Treatment of amounts paid from qualified refinancing-related reserve.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         With respect to any payment from a qualified refinancing-related reserve out of amounts excluded from gross income by reason of paragraph (1)—
 
@@ -311,7 +311,7 @@
 
 >             “(ii) the basis of any property acquired with such payment (determined without regard to this subparagraph) shall be reduced by the amount of such payment.
 
->         “(B) __Ordering rules.—__ 
+>         “(B)  __Ordering rules__  __.—__ 
 
 >         For purposes of subparagraph (A), payments from a reserve shall be treated as being made—
 

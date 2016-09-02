@@ -201,7 +201,7 @@
 
 [Pub. L. 99–514, title XI, § 1151(k)][/us/pl/99/514/s1151/k], Oct. 22, 1986, [100 Stat. 2508][/us/stat/100/2508], as amended by [Pub. L. 100–647, title I, § 1011B(a)(25)][/us/pl/100/647/s1011B/a/25], (26), Nov. 10, 1988, [102 Stat. 3486][/us/stat/102/3486], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 89 of this title][/us/usc/t26/s89] and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title\] shall apply to years beginning after the later of—
 
@@ -217,7 +217,7 @@
 
 >         Notwithstanding the preceding sentence, the amendments made by subsections (e)(1) and (i)(3)(C) \[amending [section 414 of this title][/us/usc/t26/s414]\] shall, to the extent they relate to sections 106, 162(i)(2), and 162(k) of the Internal Revenue Code of 1986, apply to years beginning after 1986.
 
->     “(2) __Special rule for collective bargaining plan.—__ 
+>     “(2)  __Special rule for collective bargaining plan__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section \[enacting [section 89 of this title][/us/usc/t26/s89] and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title\] shall not apply to employees covered by such an agreement in years beginning before the earlier of—
 
@@ -227,19 +227,19 @@
 
 >         A plan shall not be required to take into account employees to which the preceding sentence applies for purposes of applying section 89 of the Internal Revenue Code of 1986 (as added by this section) to employees to which the preceding sentence does not apply for any year preceding the year described in the preceding sentence.
 
->     “(3) __Exception for certain group-term insurance plans.—__ 
+>     “(3)  __Exception for certain group-term insurance plans__  __.—__ 
 
 >     In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 \[[section 232(d)(2) of Pub. L. 98–369][/us/pl/98/369/s232/d/2], set out as an Effective Date of 1984 Amendment note below\], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
 
->     “(4) __Special rule for church plans.—__ 
+>     “(4)  __Special rule for church plans__  __.—__ 
 
 >     In the case of a church plan (within the meaning of section 414(e)(3) of the Internal Revenue Code of 1986) maintaining an insured accident and health plan, the amendments made by this section \[enacting [section 89 of this title][/us/usc/t26/s89] and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title\] shall apply to years beginning after December 31, 1988.
 
->     “(5) __Cafeteria plans.—__ 
+>     “(5)  __Cafeteria plans__  __.—__ 
 
 >     The amendments made by subsection (d)(2) \[amending sections 3121 and 3306 of this title and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(6) __Certain plans maintained by educational institutions.—__ 
+>     “(6)  __Certain plans maintained by educational institutions__  __.—__ 
 
 >     If an educational organization described in section 170(b)(1)(A)(ii) of the Internal Revenue Code of 1986 makes an election under this paragraph with respect to a plan described in section 125(c)(2)(C) of such Code, the amendments made by this section shall apply with respect to such plan for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -253,13 +253,13 @@
 
 [Pub. L. 98–369, div. A, title II, § 223(d)][/us/pl/98/369/s223/d], July 18, 1984, [98 Stat. 775][/us/stat/98/775], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1827(b), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2850, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 83 of this title][/us/usc/t26/s83]\] shall apply to taxable years beginning after December 31, 1983.
 
 >     “(2) __Inclusion of former employees in the case of existing group-term insurance plans.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (a) \[amending this section\] shall not apply—
 
@@ -269,15 +269,15 @@
 
 >             but only with respect to an individual who attained age 55 on or before January 1, 1984, and was employed by such employer (or a predecessor employer) at any time during 1983. Such amendments also shall not apply to any employee who retired from employment on or before January 1, 1984, and who, when he retired, was covered by the plan (or a predecessor plan).
 
->         “(B) __Special rule in the case of discriminatory group-term life insurance plan.—__ 
+>         “(B)  __Special rule in the case of discriminatory group-term life insurance plan__  __.—__ 
 
 >         In the case of any plan which, after December 31, 1986, is a discriminatory group-term life insurance plan (as defined in section 79(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), subparagraph (A) shall not apply in the case of any individual retiring under such plan after December 31, 1986.
 
->         “(C) __Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—__ 
+>         “(C)  __Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory__  __.—__ 
 
 >         For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer’s election, be disregarded.
 
->         “(D) __Comparable successor plans.—__ 
+>         “(D)  __Comparable successor plans__  __.—__ 
 
 >         For purposes of subparagraph (A), a plan shall not fail to be treated as a comparable successor to a plan described in subparagraph (A)(i) with respect to any employee whose benefits do not increase under the successor plan.”
 

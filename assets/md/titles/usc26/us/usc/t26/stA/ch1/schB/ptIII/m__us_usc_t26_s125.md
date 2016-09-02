@@ -99,7 +99,25 @@
 
     (f) __Qualified benefits defined__ 
 
-        For purposes of this section, the term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
+    For purposes of this section—
+
+        (1) __In general__ 
+
+            The term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations.
+
+        (2) __Long-term care insurance not qualified__ 
+
+            The term “qualified benefit” shall not include any product which is advertised, marketed, or offered as long-term care insurance.
+
+        (3) __Certain exchange-participating qualified health plans not qualified__ 
+
+            (A) __In general__ 
+
+                The term “qualified benefit” shall not include any qualified health plan (as defined in section 1301(a) of the Patient Protection and Affordable Care Act) offered through an Exchange established under section 1311 of such Act.
+
+            (B) __Exception for exchange-eligible employers__ 
+
+                Subparagraph (A) shall not apply with respect to any employee if such employee’s employer is a qualified employer (as defined in section 1312(f)(2) of the Patient Protection and Affordable Care Act) offering the employee the opportunity to enroll through such an Exchange in a qualified health plan in a group market.
 
     (g) __Special rules__ 
 
@@ -307,33 +325,13 @@
 
 (Added [Pub. L. 95–600, title I, § 134(a)][/us/pl/95/600/s134/a], Nov. 6, 1978, [92 Stat. 2783][/us/stat/92/2783]; amended [Pub. L. 96–222, title I, § 101(a)(6)(A)][/us/pl/96/222/s101/a/6/A], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 201(b)(2), 226(a), Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527], 3529; [Pub. L. 96–613, § 5(b)(2)][/us/pl/96/613/s5/b/2], Dec. 28, 1980, [94 Stat. 3581][/us/stat/94/3581]; [Pub. L. 98–369, div. A, title V, § 531(b)(1)][/us/pl/98/369/s531/b/1]–(4)(A), July 18, 1984, [98 Stat. 881][/us/stat/98/881], 882; [Pub. L. 98–611, § 1(d)(3)(A)][/us/pl/98/611/s1/d/3/A], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(3)(B)][/us/pl/98/612/s1/b/3/B], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(d)(1)][/us/pl/99/514/s1151/d/1], title XVIII, § 1853(b)(1), Oct. 22, 1986, [100 Stat. 2504][/us/stat/100/2504], 2870; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(11)–(13), 1018(t)(6), title IV, § 4002(b)(2), title VI, § 6051(b), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3485, 3589, 3643, 3696; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (3), (b)(2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830], 831; [Pub. L. 101–239, title VII, § 7814(b)][/us/pl/101/239/s7814/b], Dec. 19, 1989, [103 Stat. 2413][/us/stat/103/2413]; [Pub. L. 101–508, title XI, § 11801(c)(3)][/us/pl/101/508/s11801/c/3], Nov. 5, 1990, [104 Stat. 1388–523][/us/stat/104/1388-523]; [Pub. L. 104–191, title III][/us/pl/104/191], §§ 301(d), 321(c)(1), Aug. 21, 1996, [110 Stat. 2051][/us/stat/110/2051], 2058; [Pub. L. 108–173, title XII, § 1201(i)][/us/pl/108/173/s1201/i], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 108–311, title II, § 207(11)][/us/pl/108/311/s207/11], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–172, § 11(a)(12)][/us/pl/110/172/s11/a/12], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–245, title I, § 114(a)][/us/pl/110/245/s114/a], June 17, 2008, [122 Stat. 1636][/us/stat/122/1636]; [Pub. L. 111–148, title I, § 1515(a)][/us/pl/111/148/s1515/a], (b), title IX, §§ 9005(a), 9022(a), title X, § 10902(a), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], 854, 874, 1016; [Pub. L. 111–152, title I, § 1403(b)][/us/pl/111/152/s1403/b], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063].)
 
- __Amendment of Subsection (f)__ 
+ __Inflation Adjusted Items for Certain Years__ 
 
-[Pub. L. 111–148, title I, § 1515][/us/pl/111/148/s1515], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], provided that, applicable to taxable years beginning after Dec. 31, 2013, subsection (f) of this section is amended as follows:
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
-    (1) by striking “For purposes of this section, the term” and inserting “For purposes of this section—
+ __References in Text__ 
 
-    “(1) In general
-
-    “The term”;
-
-    (2) by striking “Such term shall not include” and inserting the following:
-
-    “(2) Long-term care insurance not qualified
-
-    “The term ‘qualified benefit’ shall not include”; and
-
-    (3) by adding at the end the following new paragraph:
-
-    (3) Certain exchange-participating qualified health plans not qualified
-
-    (A) In general
-
-    The term “qualified benefit” shall not include any qualified health plan (as defined in section 1301(a) of the Patient Protection and Affordable Care Act) offered through an Exchange established under section 1311 of such Act.
-
-    (B) Exception for exchange-eligible employers
-
-    Subparagraph (A) shall not apply with respect to any employee if such employee’s employer is a qualified employer (as defined in section 1312(f)(2) of the Patient Protection and Affordable Care Act) offering the employee the opportunity to enroll through such an Exchange in a qualified health plan in a group market.
+    Sections 1301, 1311, and 1312 of the Patient Protection and Affordable Care Act, referred to in subsec. (f)(3), are classified to sections 18021, 18031, and 18032, respectively, of Title 42, The Public Health and Welfare.
 
  __Codification__ 
 
@@ -345,11 +343,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f)(1). [Pub. L. 111–148, § 1515(b)(1)][/us/pl/111/148/s1515/b/1], designated first two sentences as par. (1), inserted heading, and substituted “For purposes of this section—” for “For purposes of this section,”.
-
-    Subsec. (f)(2). [Pub. L. 111–148, § 1515(b)(2)][/us/pl/111/148/s1515/b/2], designated third sentence as par. (2), inserted heading, and substituted “The term ‘qualified benefit’ shall not include” for “Such term shall not include”.
-
-    Subsec. (f)(3). [Pub. L. 111–148, § 1515(a)][/us/pl/111/148/s1515/a], added par. (3).
+    2010—Subsec. (f). [Pub. L. 111–148, § 1515(a)][/us/pl/111/148/s1515/a], (b), substituted “For purposes of this section—” for “For purposes of this section,”; designated remainder of first sentence and second sentence as par. (1), inserted heading, and substituted “The term” for “the term”; designated third sentence as par. (2), inserted heading, and substituted “The term ‘qualified benefit’ shall not include” for “Such term shall not include”; and added par. (3).
 
     Subsec. (i). [Pub. L. 111–148, § 10902(a)][/us/pl/111/148/s10902/a], amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement.”
 
@@ -551,7 +545,7 @@
 
 [Pub. L. 98–369, div. A, title V, § 531(b)(5)][/us/pl/98/369/s531/b/5], July 18, 1984, [98 Stat. 883][/us/stat/98/883], as amended by [Pub. L. 99–514, title XVIII, § 1853(b)(2)][/us/pl/99/514/s1853/b/2], (3), Oct. 22, 1986, [100 Stat. 2870][/us/stat/100/2870], 2871, provided that:
 
->     “(A) __General transitional rule.—__ 
+>     “(A)  __General transitional rule__  __.—__ 
 
 >     Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
 
@@ -559,7 +553,7 @@
 
 >         “(ii) the effective date of any modification to provide additional benefits after February 10, 1984.
 
->     “(B) __Special transition rule for advance election benefit banks.—__ 
+>     “(B)  __Special transition rule for advance election benefit banks__  __.—__ 
 
 >     Any benefit offered under a cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations because an employee was assured of receiving (in cash or any other benefit) amounts available but unused for covered reimbursement during the year without regard to whether he incurred covered expenses, will not fail to be a nontaxable benefit under such applicable section solely because of such failure. The preceding sentence shall apply only with respect to benefits provided under cafeteria plans before the earlier of—
 
@@ -569,15 +563,15 @@
 
 >         Except as provided in Treasury regulations, the special transition rule is available only for benefits with respect to which, after December 31, 1984, contributions are fixed before the period of coverage and taxable cash is not available until the end of such period of coverage.
 
->     “(C) __Plans for which substantial implementation costs were incurred.—__ 
+>     “(C)  __Plans for which substantial implementation costs were incurred__  __.—__ 
 
 >     For purposes of this paragraph, any plan with respect to which substantial implementation costs had been incurred before February 10, 1984, shall be treated as in existence on February 10, 1984.
 
->     “(D) __Collective bargaining agreements.—__ 
+>     “(D)  __Collective bargaining agreements__  __.—__ 
 
 >     In the case of any cafeteria plan in existence on February 10, 1984, and maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof agreed to after July 18, 1984) shall be substituted for ‘January 1, 1985’ in subparagraph (A) and for ‘July 1, 1985’ in subparagraph (B). For purposes of the preceding sentence, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section (or any requirement in the regulations under section 125 of the Internal Revenue Code of 1954 \[now 1986\] proposed on May 6, 1984) shall not be treated as a termination of such collective bargaining agreement.
 
->     “(E) __Special rule where contributions or reimbursements suspended.—__ 
+>     “(E)  __Special rule where contributions or reimbursements suspended__  __.—__ 
 
 >     For purposes of subparagraphs (A) and (B), a plan shall not be treated as not continuing to fail to satisfy the rules referred to in such subparagraphs with respect to any benefit provided in the form of a flexible spending arrangement merely because contributions or reimbursements (or both) with respect to such plan were suspended before January 1, 1985.”
 
@@ -627,16 +621,13 @@
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/pl/111/152/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1403%2Fb
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
-[/us/pl/111/148/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515
-[/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/101/140/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F1
 [/us/pl/99/514/s1151/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fd%2F1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/111/148/s1515/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515%2Fb%2F1
-[/us/pl/111/148/s1515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515%2Fb%2F2
 [/us/pl/111/148/s1515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515%2Fa
 [/us/pl/111/148/s10902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10902%2Fa
 [/us/pl/111/148/s9005/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9005%2Fa%2F2

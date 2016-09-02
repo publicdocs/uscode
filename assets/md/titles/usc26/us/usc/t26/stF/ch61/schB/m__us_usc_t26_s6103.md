@@ -2289,11 +2289,11 @@
 
 [Pub. L. 108–311, title III, § 320(c)][/us/pl/108/311/s320/c], Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to disclosures on or after the date of the enactment of this Act \[Oct. 4, 2004\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 201 of the Victims of Terrorism Tax Relief Act of 2001 \[[Pub. L. 107–134][/us/pl/107/134]\].”
 
@@ -2427,11 +2427,11 @@
 
 [Pub. L. 103–66, title XIII, § 13444(b)][/us/pl/103/66/s13444/b], Aug. 10, 1993, [107 Stat. 570][/us/stat/107/570], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect on the date one year after the date of the enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     The amendment made by subsection (a) shall take effect on the date 2 years after the date of the enactment of this Act in the case of any State if it is established to the satisfaction of the Secretary of the Treasury that—
 
@@ -2479,11 +2479,11 @@
 
 [Pub. L. 100–485, title VII, § 701(b)(3)][/us/pl/100/485/s701/b/3], Oct. 13, 1988, [102 Stat. 2426][/us/stat/102/2426], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and [section 7213 of this title][/us/usc/t26/s7213]\] shall take effect on the date of the enactment of this Act \[Oct. 13, 1988\].
 
->     “(B) __Special rule.—__ 
+>     “(B)  __Special rule__  __.—__ 
 
 >     Nothing in section 2653(c) of the Deficit Reduction Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], [26 U.S.C. 6402][/us/usc/t26/s6402] note\] shall be construed to limit the application of paragraph (10) of section 6103(l) of the Internal Revenue Code of 1986 (as amended by this subsection).”
 
@@ -2625,11 +2625,11 @@
 
 [Pub. L. 106–170, title V, § 521(b)][/us/pl/106/170/s521/b], Dec. 17, 1999, [113 Stat. 1925][/us/stat/113/1925], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 90 days after the end of each calendar year, the Secretary of the Treasury shall prepare and publish a report regarding advance pricing agreements.
 
->     “(2) __Contents of report.—__ 
+>     “(2)  __Contents of report__  __.—__ 
 
 >     The report shall include the following for the calendar year to which such report relates:
 
@@ -2689,7 +2689,7 @@
 
 >         “(F) A detailed description of the Secretary of the Treasury’s efforts to ensure compliance with existing advance pricing agreements.
 
->     “(3) __Confidentiality.—__ 
+>     “(3)  __Confidentiality__  __.—__ 
 
 >     The reports required by this subsection shall be treated as authorized by the Internal Revenue Code of 1986 for purposes of section 6103 of such Code, but the reports shall not include information—
 
@@ -2697,7 +2697,7 @@
 
 >         “(B) which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer.
 
->     “(4) __First report.—__ 
+>     “(4)  __First report__  __.—__ 
 
 >     The report for calendar year 1999 shall include prior calendar years after 1990.”
 
@@ -2711,11 +2711,11 @@
 
 [Pub. L. 105–206, title II, § 2005][/us/pl/105/206/s2005], July 22, 1998, [112 Stat. 726][/us/stat/112/726], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than December 31, 2006, the Secretary of the Treasury or the Secretary’s delegate shall develop procedures under which a taxpayer filing returns electronically (and their designees under section 6103(c) of the Internal Revenue Code of 1986) would be able to review the taxpayer’s account electronically, but only if all necessary safeguards to ensure the privacy of such account information are in place.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than December 31, 2003, the Secretary of the Treasury shall report on the progress the Secretary is making on the development of procedures under subsection (a) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
@@ -2741,11 +2741,11 @@
 
 [Pub. L. 105–34, title IX, § 976(a)][/us/pl/105/34/s976/a], (b), Aug. 5, 1997, [111 Stat. 898][/us/stat/111/898], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall provide for a demonstration project to assess the feasibility and desirability of expanding combined Federal and State tax reporting.
 
->     “(b) __Description of Demonstration Project.—__ 
+>     “(b)  __Description of Demonstration Project__  __.—__ 
 
 >     The demonstration project under subsection (a) shall be—
 
@@ -2787,11 +2787,11 @@
 
 [Pub. L. 101–647, title XXXIII, § 3304][/us/pl/101/647/s3304], Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of this Act \[see Tables for classification\], no commission established by this Act shall have access to any return or return information, except to the extent authorized by section 6103 of the Internal Revenue Code of 1986.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘return’ and ‘return information’ have the respective meanings given such terms by section 6103(b) of the Internal Revenue Code of 1986.”
 

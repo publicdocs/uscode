@@ -413,7 +413,7 @@
 
 [Pub. L. 107–134, title I, § 103(d)][/us/pl/107/134/s103/d], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 2053 and 2201 of this title\] shall apply to estates of decedents—
 
@@ -421,7 +421,7 @@
 
 >         “(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995.
 
->     “(2) __Waiver of limitations.—__ 
+>     “(2)  __Waiver of limitations__  __.—__ 
 
 >     If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 

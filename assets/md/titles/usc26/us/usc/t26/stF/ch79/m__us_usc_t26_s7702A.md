@@ -173,15 +173,15 @@
 
 [Pub. L. 100–647, title V, § 5012(e)][/us/pl/100/647/s5012/e], Nov. 10, 1988, [102 Stat. 3665][/us/stat/102/3665], as amended by [Pub. L. 101–239, title VII, § 7815(a)(2)][/us/pl/101/239/s7815/a/2], Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 26 and 72 of this title\] shall apply to contracts entered into on or after June 21, 1988.
 
->     “(2) __Special rule where death benefit increases by more than $150,000.—__ 
+>     “(2)  __Special rule where death benefit increases by more than $150,000__  __.—__ 
 
 >     If the death benefit under the contract increases by more than $150,000 over the death benefit under the contract in effect on October 20, 1988, the rules of section 7702A(c)(3) of the 1986 Code (as added by this section) shall apply in determining whether such contract is issued on or after June 21, 1988. The preceding sentence shall not apply in the case of a contract which, as of June 21, 1988, required at least 7 level annual premium payments and under which the policyholder makes at least 7 level annual premium payments.
 
->     “(3) __Certain other material changes taken into account.—__ 
+>     “(3)  __Certain other material changes taken into account__  __.—__ 
 
 >     A contract entered into before June 21, 1988, shall be treated as entered into after such date if—
 
@@ -189,7 +189,7 @@
 
 >         “(B) the contract is converted after June 20, 1988, from a term life insurance contract to a life insurance contract providing coverage other than term life insurance coverage without regard to any right of the owner of the contract to such conversion.
 
->     “(4) __Certain exchanges permitted.—__ 
+>     “(4)  __Certain exchanges permitted__  __.—__ 
 
 >     In the case of a modified endowment contract which—
 
@@ -201,7 +201,7 @@
 
 >         the contract which is received in exchange for such contract shall not be treated as a modified endowment contract if the taxpayer elects, notwithstanding section 1035 of the 1986 Code, to recognize gain on such exchange.
 
->     “(5) __Special rule for annuity contracts.—__ 
+>     “(5)  __Special rule for annuity contracts__  __.—__ 
 
 >     In the case of annuity contracts, the amendments made by subsection (d) \[amending [section 72 of this title][/us/usc/t26/s72]\] shall apply to contracts entered into after October 21, 1988.”
 

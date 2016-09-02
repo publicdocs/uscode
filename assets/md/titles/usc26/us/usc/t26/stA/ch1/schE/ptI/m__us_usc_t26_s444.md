@@ -119,19 +119,19 @@
 
 [Pub. L. 100–203, title X, § 10206(d)][/us/pl/100/203/s10206/d], Dec. 22, 1987, [101 Stat. 1330–403][/us/stat/101/1330-403], as amended by [Pub. L. 100–647, title II, § 2004(e)(11)][/us/pl/100/647/s2004/e/11], Nov. 10, 1988, [102 Stat. 3602][/us/stat/102/3602], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[enacting this section and sections 280H and 7519 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Required payments.—__ 
+>     “(2)  __Required payments__  __.—__ 
 
 >     The amendments made by subsection (b) \[enacting [section 7519 of this title][/us/usc/t26/s7519]\] shall apply to applicable election years beginning after December 31, 1986.
 
->     “(3) __Elections.—__ 
+>     “(3)  __Elections__  __.—__ 
 
 >     Any election under section 444 of the Internal Revenue Code of 1986 (as added by subsection (a)) for an entity’s 1st taxable year beginning after December 31, 1986, shall not be required to be made before the 90th day after the date of the enactment of this Act \[Dec. 22, 1987\].
 
->     “(4) __Special rule for existing entities electing s corporation status.—__ 
+>     “(4)  __Special rule for existing entities electing s corporation status__  __.—__ 
 
 >     If a C corporation (within the meaning of section 1361(a)(2) of the Internal Revenue Code of 1986) with a taxable year other than the calendar year—
 

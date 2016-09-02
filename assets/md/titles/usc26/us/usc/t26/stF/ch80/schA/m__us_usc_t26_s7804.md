@@ -53,11 +53,11 @@
 
 [Pub. L. 105–206, title I, § 1203][/us/pl/105/206/s1203], July 22, 1998, [112 Stat. 720][/us/stat/112/720], as amended by [Pub. L. 108–357, title VIII, § 881(d)][/us/pl/108/357/s881/d], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (c), the Commissioner of Internal Revenue shall terminate the employment of any employee of the Internal Revenue Service if there is a final administrative or judicial determination that such employee committed any act or omission described under subsection (b) in the performance of the employee’s official duties. Such termination shall be a removal for cause on charges of misconduct.
 
->     “(b) __Acts or Omissions.—__ 
+>     “(b)  __Acts or Omissions__  __.—__ 
 
 >     The acts or omissions referred to under subsection (a) are—
 
@@ -103,23 +103,23 @@
 
 >     “(c) __Determination of Commissioner.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner of Internal Revenue may take a personnel action other than termination for an act or omission under subsection (a).
 
->         “(2) __Discretion.—__ 
+>         “(2)  __Discretion__  __.—__ 
 
 >         The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
 
->         “(3) __No appeal.—__ 
+>         “(3)  __No appeal__  __.—__ 
 
 >         Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer.
 
->     “(e) __Individuals Performing Services Under a Qualified Tax Collection Contract.—__ 
+>     “(e)  __Individuals Performing Services Under a Qualified Tax Collection Contract__  __.—__ 
 
 >     An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
 
@@ -127,11 +127,11 @@
 
 [Pub. L. 105–206, title I, § 1205][/us/pl/105/206/s1205], July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Commissioner of Internal Revenue shall implement an employee training program and shall submit an employee training plan to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The plan submitted under subsection (a) shall—
 
@@ -157,7 +157,7 @@
 
 [Pub. L. 105–206, title III, § 3706][/us/pl/105/206/s3706], July 22, 1998, [112 Stat. 778][/us/stat/112/778], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any employee of the Internal Revenue Service may use a pseudonym only if—
 
@@ -165,7 +165,7 @@
 
 >         “(2) such use is approved by the employee’s supervisor before the pseudonym is used.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -213,7 +213,7 @@
 
 [Pub. L. 105–206, title I, § 1204][/us/pl/105/206/s1204], July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Internal Revenue Service shall not use records of tax enforcement results—
 
@@ -221,19 +221,19 @@
 
 >         “(2) to impose or suggest production quotas or goals with respect to such employees.
 
->     “(b) __Taxpayer Service.—__ 
+>     “(b)  __Taxpayer Service__  __.—__ 
 
 >     The Internal Revenue Service shall use the fair and equitable treatment of taxpayers by employees as one of the standards for evaluating employee performance.
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
 
->     “(d) __Technical and Conforming Amendment.—__ 
+>     “(d)  __Technical and Conforming Amendment__  __.—__ 
 
 >     \[Repealed [section 6231 of Pub. L. 100–647][/us/pl/100/647/s6231], set out below.\]
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply to evaluations conducted on or after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -243,7 +243,7 @@
 
 [Pub. L. 100–203, title X, § 10622][/us/pl/100/203/s10622], Dec. 22, 1987, [101 Stat. 1330–452][/us/stat/101/1330-452], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress hereby finds that—
 
@@ -275,11 +275,11 @@
 
 >     “(a) __Training and Technical Assistance.—__ 
 
->         “(1) __Agreements.—__ 
+>         “(1)  __Agreements__  __.—__ 
 
 >         The Secretary, through the Internal Revenue Service, is authorized to enter into agreements with private or public nonprofit agencies or organizations for the purpose of providing training and technical assistance to prepare volunteers to provide tax counseling assistance for elderly individuals in the preparation of their Federal income tax returns.
 
->         “(2) __Other assistance.—__ 
+>         “(2)  __Other assistance__  __.—__ 
 
 >         In addition to any other forms of technical assistance provided under this section, the Secretary may provide—
 
@@ -289,7 +289,7 @@
 
 >             “(C) technical materials and publications to be used by such volunteers.
 
->     “(b) __Powers of the Secretary.—__ 
+>     “(b)  __Powers of the Secretary__  __.—__ 
 
 >     In carrying out his responsibilities under this section, the Secretary is authorized—
 
@@ -305,19 +305,19 @@
 
 >     “(c) __Employment of Volunteers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of [section 1905 of title 18][/us/usc/t18/s1905], United States Code, shall apply to volunteers as if they were employees of the United States.
 
->         “(2) __Expenses.—__ 
+>         “(2)  __Expenses__  __.—__ 
 
 >         Amounts received by volunteers serving in any program carried out under this section as reimbursement for expenses are exempt from taxation under chapters 1 and 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->     “(d) __Publicity Relating to Income Tax Provisions Particularly Important to the Elderly.—__ 
+>     “(d)  __Publicity Relating to Income Tax Provisions Particularly Important to the Elderly__  __.—__ 
 
 >     The Secretary shall, from time to time, undertake to direct the attention of elderly individuals to those provisions of the Internal Revenue Code of 1986 which are particularly important to taxpayers who are elderly individuals, such as the provisions of section 37 (relating to credit for the elderly) and section 121 (relating to one-time exclusion of gain from sale of principal residence) of the Internal Revenue Code of 1986.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -327,7 +327,7 @@
 
 >         “(3) The term ‘Federal income tax return’ means any return required under chapter 61 of the Internal Revenue Code of 1986 with respect to the tax imposed on an individual under chapter 1 of such Code.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the purpose of carrying out the provisions of this section $2,500,000 for the fiscal year ending September 30, 1979, and $3,500,000 for the fiscal year ending September 30, 1980.”
 

@@ -845,13 +845,13 @@
 
 [Pub. L. 112–141, div. D, title II, § 40211(c)][/us/pl/112/141/s40211/c], July 6, 2012, [126 Stat. 850][/us/stat/126/850], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, sections 417, 420 and 430 of this title, and sections 1021, 1055, 1083, 1306, and 1310 of Title 29, Labor, and enacting provisons set out as a note under [section 1021 of Title 29][/us/usc/t29/s1021]\] shall apply with respect to plan years beginning after December 31, 2011.
 
 >     “(2) __Rules with respect to elections.—__ 
 
->         “(A) __Adjusted funding target attainment percentage.—__ 
+>         “(A)  __Adjusted funding target attainment percentage__  __.—__ 
 
 >         A plan sponsor may elect not to have the amendments made by this section apply to any plan year beginning before January 1, 2013, either (as specified in the election)—
 
@@ -861,7 +861,7 @@
 
 >             A plan shall not be treated as failing to meet the requirements of sections 204(g) of such Act \[[29 U.S.C. 1054(g)][/us/usc/t29/s1054/g]\] and 411(d)(6) of such Code solely by reason of an election under this paragraph.
 
->         “(B) __Opt out of existing elections.—__ 
+>         “(B)  __Opt out of existing elections__  __.—__ 
 
 >         If, on the date of the enactment of this Act \[July 6, 2012\], an election is in effect with respect to any plan under sections 303(h)((2)(D)(ii) \[sic\] of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(h)(2)(D)(ii)][/us/usc/t29/s1083/h/2/D/ii]\] and 430(h)((2)(D)(ii) \[sic\] of the Internal Revenue Code of 1986, then, notwithstanding the last sentence of each such section, the plan sponsor may revoke such election without the consent of the Secretary of the Treasury. The plan sponsor may make such revocation at any time before the date which is 1 year after such date of enactment and such revocation shall be effective for the 1st plan year to which the amendments made by this section apply and all subsequent plan years. Nothing in this subparagraph shall preclude a plan sponsor from making a subsequent election in accordance with such sections.”
 
@@ -875,11 +875,11 @@
 
 [Pub. L. 109–280, title VIII, § 801(e)][/us/pl/109/280/s801/e], Aug. 17, 2006, [120 Stat. 995][/us/stat/120/995], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 404A of this title][/us/usc/t26/s404A]\] shall apply to years beginning after December 31, 2007.
 
->     “(2) __Special rules.—__ 
+>     “(2)  __Special rules__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to years beginning after December 31, 2005.”
 
@@ -895,15 +895,15 @@
 
 [Pub. L. 108–218, title I, § 101(d)][/us/pl/108/218/s101/d], Apr. 10, 2004, [118 Stat. 599][/us/stat/118/599], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section, sections 412 and 415 of this title, and sections 1082 and 1306 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2003.
 
->     “(2) __Lookback rules.—__ 
+>     “(2)  __Lookback rules__  __.—__ 
 
 >     For purposes of applying subsections (d)(9)(B)(ii) and (e)(1) of section 302 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082(d)(9)(B)(ii)][/us/usc/t29/s1082/d/9/B/ii], (e)(1)\] and subsections (l)(9)(B)(ii) and (m)(1) of \[former\] section 412 of the Internal Revenue Code of 1986 to plan years beginning after December 31, 2003, the amendments made by this section may be applied as if such amendments had been in effect for all prior plan years. The Secretary of the Treasury may prescribe simplified assumptions which may be used in applying the amendments made by this section to such prior plan years.
 
->     “(3) __Transition rule for section 415 limitation.—__ 
+>     “(3)  __Transition rule for section 415 limitation__  __.—__ 
 
 >     In the case of any participant or beneficiary receiving a distribution after December 31, 2003\[,\] and before January 1, 2005, the amount payable under any form of benefit subject to section 417(e)(3) of the Internal Revenue Code of 1986 and subject to adjustment under section 415(b)(2)(B) of such Code shall not, solely by reason of the amendment made by subsection (b)(4) \[amending [section 415 of this title][/us/usc/t26/s415]\], be less than the amount that would have been so payable had the amount payable been determined using the applicable interest rate in effect as of the last day of the last plan year beginning before January 1, 2004.”
 
@@ -939,11 +939,11 @@
 
 [Pub. L. 105–206, title VII, § 7001(b)][/us/pl/105/206/s7001/b], July 22, 1998, [112 Stat. 827][/us/stat/112/827], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].
 
->     “(2) __Change in method of accounting.—__ 
+>     “(2)  __Change in method of accounting__  __.—__ 
 
 >     In the case of any taxpayer required by the amendment made by subsection (a) \[amending this section\] to change its method of accounting for its first taxable year ending after the date of the enactment of this Act \[July 22, 1998\]—
 
@@ -991,11 +991,11 @@
 
 [Pub. L. 101–239, title VII, § 7302(b)][/us/pl/101/239/s7302/b], Dec. 19, 1989, [103 Stat. 2352][/us/stat/103/2352], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to employer securities acquired after August 4, 1989.
 
->     “(2) __Securities acquired with certain loans.—__ 
+>     “(2)  __Securities acquired with certain loans__  __.—__ 
 
 >     The amendment made by this section shall not apply to employer securities acquired after August 4, 1989, which are acquired—
 
@@ -1019,11 +1019,11 @@
 
 [Pub. L. 100–203, title IX, § 9307(f)][/us/pl/100/203/s9307/f], Dec. 22, 1987, [101 Stat. 1330–359][/us/stat/101/1330-359], as amended by [Pub. L. 101–239, title VII, § 7881(d)(3)][/us/pl/101/239/s7881/d/3], Dec. 19, 1989, [103 Stat. 2439][/us/stat/103/2439], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 412 of this title][/us/usc/t26/s412] and [section 1082 of Title 29][/us/usc/t29/s1082], Labor\] shall apply to years beginning after December 31, 1987.
 
->     “(2) __Amortization of gains and losses.—__ 
+>     “(2)  __Amortization of gains and losses__  __.—__ 
 
 >     Sections 412(b)(2)(B)(iv) and 412(b)(3)(B)(ii) of the Internal Revenue Code of 1986 and sections 302(b)(2)(B)(iv) and 302(b)(3)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082(b)(2)(B)(iv)][/us/usc/t29/s1082/b/2/B/iv], (3)(B)(ii)\] (as amended by paragraphs (1)(A) and (2)(A) of subsection (a)) shall apply to gains and losses established in years beginning after December 31, 1987. For purposes of the preceding sentence, any gain or loss determined by a valuation occurring as of January 1, 1988, shall be treated as established in years beginning before 1988, or at the election of the employer, shall be amortized in accordance with Internal Revenue Service Notice 89–52.”
 
@@ -1041,11 +1041,11 @@
 
 [Pub. L. 99–514, title XI, § 1131(d)][/us/pl/99/514/s1131/d], Oct. 22, 1986, [100 Stat. 2478][/us/stat/100/2478], as amended by [Pub. L. 100–647, title I, § 1011A(e)(3)][/us/pl/100/647/s1011A/e/3], Nov. 10, 1988, [102 Stat. 3478][/us/stat/102/3478], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 4972 of this title][/us/usc/t26/s4972] and amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
->     “(2) __Special rules for collective bargaining agreements.—__ 
+>     “(2)  __Special rules for collective bargaining agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section shall not apply to contributions pursuant to any such agreement for taxable years beginning before the earlier of—
 
@@ -1075,11 +1075,11 @@
 
 [Pub. L. 98–369, div. A, title V, § 512(c)][/us/pl/98/369/s512/c], July 18, 1984, [98 Stat. 863][/us/stat/98/863], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 162 of this title][/us/usc/t26/s162]\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(2) __Exception for certain extended vacation pay plans.—__ 
+>     “(2)  __Exception for certain extended vacation pay plans__  __.—__ 
 
 >     In the case of any extended vacation pay plan maintained pursuant to a collective bargaining agreement—
 
@@ -1209,15 +1209,15 @@
 
 [Pub. L. 107–16, title VI, § 658][/us/pl/107/16/s658], June 7, 2001, [115 Stat. 137][/us/stat/115/137], provided that:
 
->     “(a) __Not Considered Method of Accounting.—__ 
+>     “(a)  __Not Considered Method of Accounting__  __.—__ 
 
 >     For purposes of section 446 of the Internal Revenue Code of 1986, a determination under section 404(a)(6) of such Code regarding the taxable year with respect to which a contribution to a multiemployer pension plan is deemed made shall not be treated as a method of accounting of the taxpayer. No deduction shall be allowed for any taxable year for any contribution to a multiemployer pension plan with respect to which a deduction was previously allowed.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury shall promulgate such regulations as necessary to clarify that a taxpayer shall not be allowed an aggregate amount of deductions for contributions to a multiemployer pension plan which exceeds the amount of such contributions made or deemed made under section 404(a)(6) of the Internal Revenue Code of 1986 to such plan.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     Subsection (a), and any regulations promulgated under subsection (b), shall be effective for years ending after the date of the enactment of this Act \[June 7, 2001\].”
 

@@ -179,11 +179,11 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2). [Pub. L. 112–240, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], amended par. (2) generally. Prior to amendment, par. (2) also related to personal credit with a limitation based on amount of tax.
+    2013—Subsec. (c)(2). [Pub. L. 112–240, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
     Subsec. (f)(2). [Pub. L. 112–240, § 403(b)(1)][/us/pl/112/240/s403/b/1], substituted “vehicle for which a credit is allowable under subsection (a)” for “new qualified plug-in electric drive motor vehicle” and “allowed under such subsection” for “allowed under subsection (a)”.
 
-    Subsec. (f)(7). [Pub. L. 112–240, § 403(b)(2)][/us/pl/112/240/s403/b/2], substituted “vehicle” for “motor vehicle” in introductory provisions.
+    Subsec. (f)(7). [Pub. L. 112–240, § 403(b)(2)][/us/pl/112/240/s403/b/2], substituted “A vehicle” for “A motor vehicle” in introductory provisions.
 
     Subsec. (g). [Pub. L. 112–240, § 403(a)][/us/pl/112/240/s403/a], added subsec. (g).
 

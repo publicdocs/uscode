@@ -317,11 +317,11 @@
 
 [Pub. L. 104–188, title I, § 1615(d)][/us/pl/104/188/s1615/d], Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 151, 6109, 6213, and 6724 of this title\] shall apply with respect to returns the due date for which (without regard to extensions) is on or after the 30th day after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Special rule for 1995 and 1996.—__ 
+>     “(2)  __Special rule for 1995 and 1996__  __.—__ 
 
 >     In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments made by this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996.”
 
@@ -335,11 +335,11 @@
 
 [Pub. L. 100–203, title X, § 10101(b)][/us/pl/100/203/s10101/b], Dec. 22, 1987, [101 Stat. 1330–384][/us/stat/101/1330-384], as amended by [Pub. L. 100–647, title II, § 2004(a)][/us/pl/100/647/s2004/a], Nov. 10, 1988, [102 Stat. 3598][/us/stat/102/3598], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to expenses paid in taxable years beginning after December 31, 1987.
 
->     “(2) __Special rule for cafeteria plans.—__ 
+>     “(2)  __Special rule for cafeteria plans__  __.—__ 
 
 >     For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance for periods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight.”
 

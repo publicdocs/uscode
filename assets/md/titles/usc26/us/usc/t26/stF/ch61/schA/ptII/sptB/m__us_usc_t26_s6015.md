@@ -299,11 +299,11 @@
 
 [Pub. L. 105–206, title III, § 3201(g)][/us/pl/105/206/s3201/g], July 22, 1998, [112 Stat. 740][/us/stat/112/740], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and [section 6013 of this title][/us/usc/t26/s6013]\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
->     “(2) __2-year period.—__ 
+>     “(2) __2-__  __year period__  __.—__ 
 
 >     The 2-year period under subsection (b)(1)(E) or (c)(3)(B) of section 6015 of the Internal Revenue Code of 1986 shall not expire before the date which is 2 years after the date of the first collection activity after the date of the enactment of this Act \[July 22, 1998\].”
 

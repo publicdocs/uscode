@@ -173,11 +173,11 @@
 
 [Pub. L. 105–34, title IX, § 956(b)][/us/pl/105/34/s956/b], Aug. 5, 1997, [111 Stat. 891][/us/stat/111/891], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Special rule for enterprise zone facility bonds.—__ 
+>     “(2)  __Special rule for enterprise zone facility bonds__  __.—__ 
 
 >     For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
 

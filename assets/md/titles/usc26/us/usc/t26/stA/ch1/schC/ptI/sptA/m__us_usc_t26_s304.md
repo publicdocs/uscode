@@ -265,11 +265,11 @@
 
 [Pub. L. 105–34, title I, § 1013(d)][/us/pl/105/34/s1013/d], Aug. 5, 1997, [111 Stat. 918][/us/stat/111/918], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1059 of this title][/us/usc/t26/s1059]\] shall apply to distributions and acquisitions after June 8, 1997.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution or acquisition after June 8, 1997, if such distribution or acquisition is—
 
@@ -287,13 +287,13 @@
 
 [Pub. L. 100–203, title X, § 10223(d)][/us/pl/100/203/s10223/d], Dec. 22, 1987, [101 Stat. 1330–412][/us/stat/101/1330-412], as amended by [Pub. L. 100–647, title II, § 2004(k)(3)][/us/pl/100/647/s2004/k/3], (4), Nov. 10, 1988, [102 Stat. 3605][/us/stat/102/3605], 3606, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 337 and 355 of this title\] shall apply to distributions or transfers after December 15, 1987.
 
 >     “(2) __Exceptions.—__ 
 
->         “(A) __Distributions.—__ 
+>         “(A)  __Distributions__  __.—__ 
 
 >         The amendments made by this section shall not apply to any distribution after December 15, 1987, and before January 1, 1993, if—
 
@@ -303,7 +303,7 @@
 
 >             For purposes of the preceding sentence, stock described in section 1504(a)(4) of the Internal Revenue Code of 1986 shall not be taken into account.
 
->         “(B) __Section 304 transfers.—__ 
+>         “(B)  __Section 304 transfers__  __.—__ 
 
 >         The amendment made by subsection (c) \[amending this section\] shall not apply to any transfer after December 15, 1987, and on or before March 31, 1988, if such transfer is—
 
@@ -311,21 +311,21 @@
 
 >             “(ii) between corporations which become members of the same affiliated group pursuant to a binding written contract or tender offer in effect on December 15, 1987.
 
->         “(C) __Distributions covered by prior transition rule.—__ 
+>         “(C)  __Distributions covered by prior transition rule__  __.—__ 
 
 >         The amendments made by this section shall not apply to any distribution to which the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of [Pub. L. 99–514][/us/pl/99/514], see Tables for classification\] do not apply.
 
 >         “(D) __Treatment of certain members of affiliated group.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             For purposes of subparagraph (A), all corporations which were in existence on the designated date and were members of the same affiliated group which included the distributees on such date shall be treated as 1 distributee.
 
->             “(ii) __Limitation to stock held on designated date.—__ 
+>             “(ii)  __Limitation to stock held on designated date__  __.—__ 
 
 >             Clause (i) shall not exempt any distribution from the amendments made by this section if such distribution is with respect to stock not held by the distributee (determined without regard to clause (i)) on the designated date directly or indirectly through a corporation which goes out of existence in the transaction.
 
->             “(iii) __Designated date.—__ 
+>             “(iii)  __Designated date__  __.—__ 
 
 >             For purposes of this subparagraph, the term ‘designated date’ means the later of—
 
@@ -341,15 +341,15 @@
 
 [Pub. L. 98–369, div. A, title VII, § 712][/us/pl/98/369/s712](l)(7), July 18, 1984, [98 Stat. 954][/us/stat/98/954], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by paragraphs (1) and (3) \[amending this section\] shall apply to stock acquired after June 18, 1984, in taxable years ending after such date.
 
->     “(B) __Election by taxpayer to have amendments apply earlier.—__ 
+>     “(B)  __Election by taxpayer to have amendments apply earlier__  __.—__ 
 
 >     Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 226 of Pub. L. 97–248][/us/pl/97/248/s226], which amended this section and [section 306 of this title][/us/usc/t26/s306] and enacted Effective Date of 1982 Amendment note set out below\].
 
->     “(C) __Special rule for certain transfers to form bank holding company.—__ 
+>     “(C)  __Special rule for certain transfers to form bank holding company__  __.—__ 
 
 >     Except as provided in subparagraph (D), the amendments made by paragraphs (1) and (3) shall not apply to transfers pursuant to an application to form a BHC (as defined in section 304(b)(3)(D)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) filed with the Federal Reserve Board before June 18, 1984, if—
 
@@ -357,7 +357,7 @@
 
 >         “(ii) such BHC did not elect (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) not to have the provisions of this subparagraph apply.
 
->     “(D) __Amendments to apply to certain liabilities incurred before__  __october 20, 1983__  __.—__ 
+>     “(D)  __Amendments to apply to certain liabilities incurred before __  __october 20, 1983__  __.—__ 
 
 >     The amendment made by paragraph (3)(A) shall apply to the acquisition of any stock to the extent the liability assumed, or to which such stock is subject, was incurred by the transferor after October 20, 1983.”
 
@@ -367,11 +367,11 @@
 
 [Pub. L. 97–248, title II, § 226(c)][/us/pl/97/248/s226/c], Sept. 3, 1982, [96 Stat. 492][/us/stat/96/492], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 306 and 351 of this title\] shall apply to transfers occurring after August 31, 1982, in taxable years ending after such date.
 
->     “(2) __Approval by federal reserve board.—__ 
+>     “(2)  __Approval by federal reserve board__  __.—__ 
 
 >     The amendments made by this section shall not apply to transfers pursuant to an application to form a BHC filed with the Federal Reserve Board before August 16, 1982, if the BHC was formed not later than the later of—
 

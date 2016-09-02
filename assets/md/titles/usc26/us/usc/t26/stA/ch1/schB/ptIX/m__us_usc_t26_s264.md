@@ -317,13 +317,13 @@
 
 [Pub. L. 104–191, title V, § 501(c)][/us/pl/104/191/s501/c], Aug. 21, 1996, [110 Stat. 2091][/us/stat/110/2091], as amended by [Pub. L. 105–34, title XVI, § 1602(f)(4)][/us/pl/105/34/s1602/f/4], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to interest paid or accrued after October 13, 1995.
 
 >     “(2) __Transition rule for existing indebtedness.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of—
 
@@ -333,7 +333,7 @@
 
 >             the amendments made by this section shall not apply to qualified interest paid or accrued on such indebtedness after October 13, 1995, and before January 1, 1999.
 
->         “(B) __Qualified interest.—__ 
+>         “(B)  __Qualified interest__  __.—__ 
 
 >         For purposes of subparagraph (A), the qualified interest with respect to any indebtedness for any month is the amount of interest (otherwise deductible) which would be paid or accrued for such month on such indebtedness if—
 
@@ -349,7 +349,7 @@
 
 >             For purposes of clause (i), all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as 1 person. Subclause (II) of clause (ii) shall not apply to any month before January 1, 1996.
 
->         “(C) __Applicable percentage.—__ 
+>         “(C)  __Applicable percentage__  __.—__ 
 
 >         For purposes of subparagraph (B), the applicable percentage is as follows:
 
@@ -413,7 +413,7 @@
 
 [Pub. L. 104–191, title V, § 501(d)][/us/pl/104/191/s501/d], Aug. 21, 1996, [110 Stat. 2092][/us/stat/110/2092], as amended by [Pub. L. 105–34, title XVI, § 1602(f)(5)][/us/pl/105/34/s1602/f/5], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If any amount is received under any life insurance policy or endowment or annuity contract described in paragraph (4) of section 264(a) of the Internal Revenue Code of 1986—
 
@@ -423,7 +423,7 @@
 
 >         then (in lieu of any other inclusion in gross income) such amount shall be includible in gross income ratably over the 4-taxable year period beginning with the taxable year such amount would (but for this paragraph) be includible. The preceding sentence shall only apply to the extent the amount is includible in gross income for the taxable year in which the event described in subparagraph (A) or (B) occurs.
 
->     “(2) __Special rules for applying section 264.—__ 
+>     “(2)  __Special rules for applying section 264__  __.—__ 
 
 >     A contract shall not be treated as—
 
@@ -433,7 +433,7 @@
 
 >         solely by reason of an occurrence described in subparagraph (A) or (B) of paragraph (1) of this subsection or solely by reason of a lapse occurring after October 13, 1995, by reason of no additional premiums being received under the contract.
 
->     “(3) __Special rule for deferred acquisition costs.—__ 
+>     “(3)  __Special rule for deferred acquisition costs__  __.—__ 
 
 >     In the case of the occurrence of any event described in subparagraph (A) or (B) of paragraph (1) of this subsection with respect to any policy or contract—
 

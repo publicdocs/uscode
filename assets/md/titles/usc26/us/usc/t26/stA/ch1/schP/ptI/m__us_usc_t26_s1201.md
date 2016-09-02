@@ -267,7 +267,7 @@
 
 [Pub. L. 99–514, title III, § 311(d)(1)][/us/pl/99/514/s311/d/1], Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], provided that:
 
->     “(1) __Taxable years which begin in 1986 and end in 1987.—__ 
+>     “(1)  __Taxable years which begin in 1986 and end in 1987__  __.—__ 
 
 >     In the case of any taxable year which begins before January 1, 1987, and ends on or after such date, paragraph (2) of section 1201(a) of the Internal Revenue Code of 1954 \[now 1986\], as in effect on the date before the date of enactment of this Act \[Oct. 22, 1986\], shall be applied as if it read as follows:    “ ‘(2) the sum of—
 
@@ -287,7 +287,7 @@
 
 [Pub. L. 97–34, title I, § 102][/us/pl/97/34/s102], Aug. 13, 1981, [95 Stat. 186][/us/stat/95/186], as amended by [Pub. L. 97–448, title I, § 101(aa)][/us/pl/97/448/s101/aa], Jan. 12, 1983, [96 Stat. 2366][/us/stat/96/2366]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If for any taxable year ending after June 9, 1981, and beginning before January 1, 1982, a taxpayer other than a corporation has qualified net capital gain, then the tax imposed under section 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for such taxable year shall be equal to the lesser of—
 
@@ -309,7 +309,7 @@
 
 >     “(b) __Application With Alternative Minimum Tax.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If subsection (a) applies to any taxpayer for any taxable year, then the amount determined under section 55(a)(1) of the Internal Revenue Code of 1986 for such taxable year shall be equal to the lesser of—
 
@@ -329,13 +329,13 @@
 
 >                 “(ii) 20 percent of the qualified net capital gain (or, if lesser, the alternative minimum taxable income within the meaning of section 55(b)(1) of such Code).
 
->         “(2) __No credits allowable.—__ 
+>         “(2)  __No credits allowable__  __.—__ 
 
 >         For purposes of section 55(c) of such Code, no credit allowable under subpart A of part IV of subchapter A of chapter 1 of such Code \[section 31 et seq. of this title\] (other than section 33(a) of such Code) shall be allowable against the amount described in paragraph (1)(B)(ii).
 
 >     “(c) __Qualified Net Capital Gain.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘qualified net capital gain’ means the lesser of—
 
@@ -343,17 +343,17 @@
 
 >             “(B) the net capital gain for the taxable year taking into account only gain or loss from sales or exchanges occurring after June 9, 1981.
 
->         “(2) __Net capital gain.—__ 
+>         “(2)  __Net capital gain__  __.—__ 
 
 >         For purposes of this subsection, the term ‘net capital gain’ has the meaning given such term by section 1222(11) of the Internal Revenue Code of 1986.
 
 >     “(d) __Special Rule for Pass-Thru Entities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In applying subsections (a), (b), and (c) with respect to any pass-thru entity, the determination of when a sale or exchange has occurred shall be made at the entity level.
 
->         “(2) __Pass-thru entity defined.—__ 
+>         “(2)  __Pass-thru entity defined__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘pass-thru entity’ means—
 
@@ -373,11 +373,11 @@
 
 [Pub. L. 96–222, title I, § 104(a)(2)(C)][/us/pl/96/222/s104/a/2/C], Apr. 1, 1980, [94 Stat. 215][/us/stat/94/215], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(i) __In general.—__ 
+>     “(i)  __In general__  __.—__ 
 
 >     In applying sections 1201(c)(2)(A)(ii) and 1202(c)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any pass-through entity, the determination of the period for which gain or loss is properly taken into account shall be made at the entity level.
 
->     “(ii) __Pass-through entity defined.—__ 
+>     “(ii)  __Pass-through entity defined__  __.—__ 
 
 >     For purposes of clause (i), the term ‘pass-through entity’ means—
 

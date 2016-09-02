@@ -281,21 +281,21 @@ The maximum tax a year.  </td>
 
 [Pub. L. 97–424, title V, § 513(f)][/us/pl/97/424/s513/f], Jan. 6, 1983, [96 Stat. 2179][/us/stat/96/2179], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 4482 and 4483 of this title and enacting provisions set out below\] shall take effect on July 1, 1984.
 
 >     “(2) __Special rule in the case of certain owner-operators.—__ 
 
->         “(A) __In general.—__ 
+>         “(A) __ In general__  __.—__ 
 
 >         In the case of a small owner-operator, paragraph (1) of this subsection and paragraph (2) of section 4481(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be applied by substituting for each date contained in such paragraphs a date which is 1 year after the date so contained.
 
->         “(B) __Small owner-operator.—__ 
+>         “(B) __ Small owner-operator__  __.—__ 
 
 >         For purposes of this paragraph, the term “small owner-operator” means any person who owns and operates at any time during the taxable period no more than 5 highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code for such taxable period.    “\[No subpar. (C) has been enacted.\]
 
->         “(D) __Aggregation of vehicle ownerships.—__ 
+>         “(D) __ Aggregation of vehicle ownerships__  __.—__ 
 
 >         For purposes of subparagraph (B), all highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code which are owned by—
 
@@ -303,7 +303,7 @@ The maximum tax a year.  </td>
 
 >             “(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
 
->         “(E) __Controlled groups of corporations.—__ 
+>         “(E) __ Controlled groups of corporations__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
 
@@ -311,7 +311,7 @@ The maximum tax a year.  </td>
 
 >             “(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
->         “(F) __Highway motor vehicles.—__ 
+>         “(F) __ Highway motor vehicles__  __.—__ 
 
 >         For purposes of this paragraph, the term ‘highway motor vehicle’ has the meaning given to such term by section 4482(a) of such Code.”
 
@@ -333,7 +333,7 @@ The maximum tax a year.  </td>
 
 [Pub. L. 98–369, div. A, title IX, § 901(b)][/us/pl/98/369/s901/b], July 18, 1984, [98 Stat. 1003][/us/stat/98/1003], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Special rule for taxable period beginning on__  __july 1, 1984__  __.—__ 
+>     “(1)  __Special rule for taxable period beginning on __  __july 1, 1984__  __.—__ 
 
 >     In the case of a small owner-operator, the amount of the tax imposed by section 4481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the use of any highway motor vehicle subject to tax under section 4481(a) of such Code (as amended by subsection (a)) for the taxable period which begins on July 1, 1984, shall be the lesser of—
 
@@ -341,15 +341,15 @@ The maximum tax a year.  </td>
 
 >         “(B) the amount of the tax which would be imposed under such section 4481(a) without regard to this paragraph.
 
->     “(2) __Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on__  __july 1, 1984__  __.—__ 
+>     “(2)  __Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on __  __july 1, 1984__  __.—__ 
 
 >     In the case of a small owner-operator, notwithstanding subsection (f)(2) of section 513 of the Highway Revenue Act of 1982 \[[section 513(f)(2) of Pub. L. 97–424][/us/pl/97/424/s513/f/2], set out as an Effective Date of 1983 Amendment note above\], the amendments made by subsections (b), (c), and (d) of such section \[amending sections 4481 to 4483 of this title\] shall take effect on July 1, 1984.
 
->     “(3) __Small owner-operator defined.—__ 
+>     “(3)  __Small owner-operator defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘small owner-operator’ has the meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982.
 
->     “(4) __Taxable gross weight.—__ 
+>     “(4)  __Taxable gross weight__  __.—__ 
 
 >     For purposes of this subsection, the term ‘taxable gross weight’ has the same meaning as when used in section 4481 of the Internal Revenue Code of 1986.”
 
@@ -371,11 +371,11 @@ The maximum tax a year.  </td>
 
 > “SEC. 934. __REPORTS, ETC.__ 
 
->     “(a) __Consultation With Treasury.—__ 
+>     “(a)  __Consultation With Treasury__  __.—__ 
 
 >     Studies conducted under this part shall be conducted in consultation with the Secretary of the Treasury.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 1987, the Secretary of Transportation shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on each study conducted under this part together with such recommendations as the Secretary may deem advisable.”
 

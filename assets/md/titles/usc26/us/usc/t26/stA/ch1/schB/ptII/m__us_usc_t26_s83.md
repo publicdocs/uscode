@@ -205,17 +205,17 @@
 
 >         “(E) such person makes an election under this section at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
->     “(2) __Limitation on amount of benefit.—__ 
+>     “(2)  __Limitation on amount of benefit__  __.—__ 
 
 >     Paragraph (1) shall not apply to transfers with respect to any employee to the extent that the application of paragraph (1) with respect to such employee would (but for this paragraph) result in a reduction in liability for income tax with respect to such employee for all taxable years in excess of $100,000 (determined without regard to any interest).
 
 >     “(3) __Statute of limitations.—__ 
 
->         “(A) __Overpayments.—__ 
+>         “(A)  __Overpayments__  __.—__ 
 
 >         If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
 
->         “(B) __Deficiencies.—__ 
+>         “(B)  __Deficiencies__  __.—__ 
 
 >         If the assessment of any deficiency of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, assessment of such deficiency (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made within such 6-month period.”
 

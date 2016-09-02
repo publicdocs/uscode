@@ -201,7 +201,7 @@
 
             (E) A plan is described in this subparagraph if it is a plan sponsored by an organization which is described in section 501(c)(5) and exempt from tax under section 501(a) and which was established in Chicago, Illinois, on August 12, 1881.
 
-            (F) __Maintenance under collective bargaining agreement.—__ 
+            (F)  __Maintenance under collective bargaining agreement__  __.—__ 
 
             For purposes of this title and the Employee Retirement Income Security Act of 1974, a plan making an election under this paragraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers that are signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees by virtue of another document that is not a collective bargaining agreement.
 
@@ -1931,11 +1931,11 @@
 
 [Pub. L. 104–188, title I, § 1431(d)][/us/pl/104/188/s1431/d], Aug. 20, 1996, [110 Stat. 1803][/us/stat/110/1803], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, sections 129, 401, 404, 408, and 416 of this title, and provisions set out as a note below\] shall apply to years beginning after December 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendments shall be treated as having been in effect for years beginning in 1996.
 
->     “(2) __Family aggregation.—__ 
+>     “(2)  __Family aggregation__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 401 and 404 of this title\] shall apply to years beginning after December 31, 1996.”
 
@@ -2003,15 +2003,15 @@
 
 [Pub. L. 99–514, title XI, § 1114(c)][/us/pl/99/514/s1114/c], Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], as amended by [Pub. L. 104–188, title I, § 1431(c)(2)][/us/pl/104/188/s1431/c/2], Aug. 20, 1996, [110 Stat. 1803][/us/stat/110/1803]; [Pub. L. 107–16, title VI, § 663(a)][/us/pl/107/16/s663/a], June 7, 2001, [115 Stat. 142][/us/stat/115/142], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendment made by this section \[amending this section and sections 106, 274, 423, and 501 of this title\] shall apply to years beginning after December 31, 1986.
 
->     “(2) __Conforming amendments to employee benefit provisions.—__ 
+>     “(2)  __Conforming amendments to employee benefit provisions__  __.—__ 
 
 >     The amendments made by paragraphs (2), (3), (4), (5), and (16) of subsection (b) \[amending sections 117, 120, 127, 129, 132, and 505 of this title\] shall apply to years beginning after December 31, 1987.
 
->     “(3) __Conforming amendments to pension provisions.—__ 
+>     “(3)  __Conforming amendments to pension provisions__  __.—__ 
 
 >     The amendments made by paragraphs (7), (8), (9), (10), (11), (12), and (15) of subsection (b) \[amending this section and sections 401, 404A, 406, 407, 411, 415, and 4975 of this title and [section 1108 of Title 29][/us/usc/t29/s1108], Labor\] shall apply to years beginning after December 31, 1988.”
 
@@ -2029,15 +2029,15 @@
 
 [Pub. L. 99–514, title XI, § 1146(c)][/us/pl/99/514/s1146/c], Oct. 22, 1986, [100 Stat. 2493][/us/stat/100/2493], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Subsection (a)(1).—__ 
+>     “(2)  __Subsection__  __(a)(1).—__ 
 
 >     The amendment made by subsection (a)(1) shall apply to services performed after December 31, 1986.
 
->     “(3) __Recordkeeping requirements.—__ 
+>     “(3)  __Recordkeeping requirements__  __.—__ 
 
 >     In the case of years beginning before the date of the enactment of this Act \[Oct. 22, 1986\], the last sentence of section 414(o) shall be applied without regard to the requirement that an insignificant percentage of the workload be performed by persons other than employees.”
 
@@ -2133,13 +2133,13 @@
 
 [Pub. L. 110–245, title I, § 105(c)][/us/pl/110/245/s105/c], June 17, 2008, [122 Stat. 1629][/us/stat/122/1629], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If this subsection applies to any plan or annuity contract amendment, such plan or contract shall be treated as being operated in accordance with the terms of the plan or contract during the period described in paragraph (2)(B)(i).
 
 >     “(2) __Amendments to which section applies.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         This subsection shall apply to any amendment to any plan or annuity contract which is made—
 
@@ -2149,7 +2149,7 @@
 
 >             In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this subparagraph shall be applied by substituting ‘2012’ for ‘2010’ in clause (ii).
 
->         “(B) __Conditions.—__ 
+>         “(B)  __Conditions__  __.—__ 
 
 >         This subsection shall not apply to any plan or annuity contract amendment unless—
 
@@ -2165,7 +2165,7 @@
 
 [Pub. L. 104–188, title I, § 1457][/us/pl/104/188/s1457], Aug. 20, 1996, [110 Stat. 1818][/us/stat/110/1818], provided that:
 
->     “(a) __Development of Sample Language.—__ 
+>     “(a)  __Development of Sample Language__  __.—__ 
 
 >     Not later than January 1, 1997, the Secretary of the Treasury shall develop—
 
@@ -2191,7 +2191,7 @@
 
 >             “(B) the provisions of which focus attention on the need to consider the treatment of any lump sum payment, qualified joint and survivor annuity, or qualified preretirement survivor annuity.
 
->     “(b) __Publicity.—__ 
+>     “(b)  __Publicity__  __.—__ 
 
 >     The Secretary of the Treasury shall include publicity for the sample language developed under subsection (a) in the pension outreach efforts undertaken by the Secretary.”
 

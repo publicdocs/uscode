@@ -675,11 +675,11 @@
 
 [Pub. L. 100–647, title VI, § 6151(b)][/us/pl/100/647/s6151/b], Nov. 10, 1988, [102 Stat. 3724][/us/stat/102/3724], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply with respect to rentals occurring after December 31, 1976.
 
->     “(2) __Waiver of statute of limitations.—__ 
+>     “(2)  __Waiver of statute of limitations__  __.—__ 
 
 >     If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of the amendment made by subsection (a) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore is filed before the date 1 year after the date of the enactment of this Act.”
 
@@ -691,11 +691,11 @@
 
 [Pub. L. 98–369, div. A, title X, § 1025(b)][/us/pl/98/369/s1025/b], July 18, 1984, [98 Stat. 1031][/us/stat/98/1031], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 1976.
 
->     “(2) __Refund or credit of overpayment barred by statute of limitations.—__ 
+>     “(2)  __Refund or credit of overpayment barred by statute of limitations__  __.—__ 
 
 >     Notwithstanding section 6511(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or any other period of limitation or lapse of time, a claim for credit or refund of overpayment of the tax imposed by such Code which arises by reason of this section may be filed by any person at any time within the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\]. Sections 6511(b) and 6514 of such Code shall not apply to any claim for credit or refund filed under this subsection within such 1-year period.”
 
@@ -707,37 +707,37 @@
 
 [Pub. L. 97–34, title IV, § 421(k)][/us/pl/97/34/s421/k], Aug. 13, 1981, [95 Stat. 313][/us/stat/95/313], as amended by [Pub. L. 97–448, title I, § 104(b)(4)][/us/pl/97/448/s104/b/4], Jan. 12, 1983, [96 Stat. 2382][/us/stat/96/2382]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 1016, 1040, and 6324B of this title\] shall apply with respect to the estates of decedents dying after December 31, 1981.
 
->     “(2) __Increase in limitation.—__ 
+>     “(2)  __Increase in limitation__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1980.
 
->     “(3) __Subsection (d).—__ 
+>     “(3)  __Subsection__  __(d).—__ 
 
 >     The amendments made by subsection (d) \[amending this section and [section 6324B of this title][/us/usc/t26/s6324B]\] shall apply with respect to exchanges after December 31, 1981.
 
->     “(4) __Subsection (e).—__ 
+>     “(4)  __Subsection__  __(e).—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall apply with respect to involuntary conversions after December 31, 1981.
 
 >     “(5) __Certain amendments made retroactive to 1976.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and [section 1040 of this title][/us/usc/t26/s1040]\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
 
->         “(B) __Timely election required.—__ 
+>         “(B)  __Timely election required__  __.—__ 
 
 >         Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
 
->         “(C) __Reinstatement of elections.—__ 
+>         “(C)  __Reinstatement of elections__  __.—__ 
 
 >         If any election under section 2032A was revoked before the date of the enactment of this Act \[Aug. 13, 1981\], such election may be reinstated at any time before February 17, 1982.
 
->         “(D) __Statute of limitations.—__ 
+>         “(D)  __Statute of limitations__  __.—__ 
 
 >         If on the date of the enactment of this Act \[Aug. 13, 1981\] (or at any time before February 17, 1982) the making of a credit or refund of any overpayment of tax resulting from the amendments described in subparagraph (A) is barred by any law or rule of law, such credit or refund shall nevertheless be made if claim therefor is made before February 17, 1982.”
 
@@ -769,7 +769,7 @@
 
 [Pub. L. 99–514, title XIV, § 1421][/us/pl/99/514/s1421], Oct. 22, 1986, [100 Stat. 2716][/us/stat/100/2716], as amended by [Pub. L. 100–647, title I, § 1014(f)][/us/pl/100/647/s1014/f], Nov. 10, 1988, [102 Stat. 3562][/us/stat/102/3562], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of any decedent dying before January 1, 1986, if the executor—
 
@@ -779,11 +779,11 @@
 
 >         such election shall be a valid election for purposes of section 2032A of such Code.
 
->     “(b) __Executor Must Provide Information.—__ 
+>     “(b)  __Executor Must Provide Information__  __.—__ 
 
 >     An election described in subsection (a) shall not be valid if the Secretary of the Treasury or his delegate after the date of the enactment of this Act \[Oct. 22, 1986\] requests information from the executor with respect to such election and the executor does not provide such information within 90 days of receipt of such request.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall not apply to the estate of any decedent if before the date of the enactment of this Act \[Oct. 22, 1986\] the statute of limitations has expired with respect to—
 
@@ -791,7 +791,7 @@
 
 >         “(2) the period during which a claim for credit or refund may be timely filed.
 
->     “(d) __Special Rule for Certain Estate.—__ 
+>     “(d)  __Special Rule for Certain Estate__  __.—__ 
 
 >     Notwithstanding subsection (a)(2), the provisions of this section shall apply to the estate of an individual who died on January 30, 1984, and with respect to which—
 

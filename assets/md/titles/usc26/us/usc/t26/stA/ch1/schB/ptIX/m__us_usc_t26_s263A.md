@@ -425,17 +425,17 @@
 
 [Pub. L. 100–647, title VI, § 6026(d)][/us/pl/100/647/s6026/d], Nov. 10, 1988, [102 Stat. 3693][/us/stat/102/3693], as amended by [Pub. L. 101–239, title VII, § 7816(d)(2)][/us/pl/101/239/s7816/d/2], Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this paragraph, the amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 803 of the Tax Reform Act of 1986 \[[section 803 of Pub. L. 99–514][/us/pl/99/514/s803]\].
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (b) \[amending this section\] shall apply to costs incurred after December 31, 1988, in taxable years ending after such date.
 
->         “(B) __Revocation of election.—__ 
+>         “(B)  __Revocation of election__  __.—__ 
 
 >         If a taxpayer engaged in a farming business involving the production of animals having a preproductive period of more than 2 years made an election under section 263A(d)(3) of the 1986 Code for a taxable year beginning before January 1, 1989, such taxpayer may, without the consent of the Secretary of the Treasury or his delegate, revoke such election effective for the taxpayer’s 1st taxable year beginning after December 31, 1988.”
 
@@ -447,19 +447,19 @@
 
 [Pub. L. 99–514, title VIII, § 803(d)][/us/pl/99/514/s803/d], Oct. 22, 1986, [100 Stat. 2356][/us/stat/100/2356], as amended by [Pub. L. 100–647, title I, § 1008(b)(7)][/us/pl/100/647/s1008/b/7], Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438]; [Pub. L. 101–239, title VII, § 7831(d)(1)][/us/pl/101/239/s7831/d/1], Dec. 19, 1989, [103 Stat. 2426][/us/stat/103/2426], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to costs incurred after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Special rule for inventory property.—__ 
+>     “(2)  __Special rule for inventory property__  __.—__ 
 
 >     In the case of any property which is inventory in the hands of the taxpayer—
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section shall apply to taxable years beginning after December 31, 1986.
 
->         “(B) __Change in method of accounting.—__ 
+>         “(B)  __Change in method of accounting__  __.—__ 
 
 >         If the taxpayer is required by the amendments made by this section to change its method of accounting with respect to such property for any taxable year—
 
@@ -469,13 +469,13 @@
 
 >             “(iii) the period for taking into account the adjustments under section 481 by reason of such change shall not exceed 4 years.
 
->     “(3) __Special rule for self-constructed property.—__ 
+>     “(3)  __Special rule for self-constructed property__  __.—__ 
 
 >     The amendments made by this section shall not apply to any property which is produced by the taxpayer for use by the taxpayer if substantial construction had occurred before March 1, 1986.
 
 >     “(4) __Transitional rule for capitalization of interest and taxes.—__ 
 
->         “(A) __Transition property exempted from interest capitalization.—__ 
+>         “(A)  __Transition property exempted from interest capitalization__  __.—__ 
 
 >         Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing [section 189 of this title][/us/usc/t26/s189]\] shall not apply to interest costs which are allocable to any property—
 
@@ -483,11 +483,11 @@
 
 >             “(ii) to which the amendments made by section 251 \[amending sections 46 and 48 of this title and enacting provisions set out as a note under [section 46 of this title][/us/usc/t26/s46]\] do not apply by reason of section 251(d)(3)(M) \[set out as a note under [section 46 of this title][/us/usc/t26/s46]\].
 
->         “(B) __Interest and taxes.—__ 
+>         “(B)  __Interest and taxes__  __.—__ 
 
 >         Section 263A of such Code shall not apply to property described in the matter following subparagraph (B) of section 207(e)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 207(e)(2)(B) of Pub. L. 97–248][/us/pl/97/248/s207/e/2/B], formerly set out as a note under [section 189 of this title][/us/usc/t26/s189]\] to the extent it would require the capitalization of interest and taxes paid or incurred in connection with such property which are not required to be capitalized under section 189 of such Code (as in effect before the amendment made by subsection (b)(1)) \[repealing [section 189 of this title][/us/usc/t26/s189]\].
 
->     “(5) __Transition rule concerning capitalization of inventory rules.—__ 
+>     “(5)  __Transition rule concerning capitalization of inventory rules__  __.—__ 
 
 >     In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
 
@@ -499,11 +499,11 @@
 
 >         the amendments made by this section shall apply under a cut-off method whereby the uniform capitalization rules are applied only in costing layers of inventory acquired during taxable years beginning on or after January 1, 1987.
 
->     “(6) __Treatment of certain rehabilitation project.—__ 
+>     “(6)  __Treatment of certain rehabilitation project__  __.—__ 
 
 >     The amendments made by this section shall not apply to interest and taxes paid or incurred with respect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
 
->     “(7) __Special rule for casualty losses.—__ 
+>     “(7)  __Special rule for casualty losses__  __.—__ 
 
 >     Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -517,25 +517,25 @@
 
 [Pub. L. 100–203, title X, § 10204][/us/pl/100/203/s10204], Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of sections 263A and 460 of the Internal Revenue Code of 1986, the allocable costs (within the meaning of section 263A(a)(2) or section 460(c) of such Code, whichever is applicable) with respect to any property shall include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs.
 
 >     “(b) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), subsection (a) shall apply to costs incurred after December 31, 1987, in taxable years ending after such date.
 
->         “(2) __Special rule for inventory property.—__ 
+>         “(2)  __Special rule for inventory property__  __.—__ 
 
 >         In the case of any property which is inventory in the hands of the taxpayer—
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subsection (a) shall apply to taxable years beginning after December 31, 1987.
 
->             “(B) __Change in method of accounting.—__ 
+>             “(B)  __Change in method of accounting__  __.—__ 
 
 >             If the taxpayer is required by this section to change its method of accounting for any taxable year—
 

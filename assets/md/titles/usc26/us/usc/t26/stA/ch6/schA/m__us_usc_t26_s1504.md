@@ -225,15 +225,15 @@
 
 [Pub. L. 98–369, div. A, title I, § 60(b)][/us/pl/98/369/s60/b], July 18, 1984, [98 Stat. 579][/us/stat/98/579], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1804(e)(2)–(5), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2800, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.
 
->     “(2) __Special rule for corporations affiliated on__  __june 22, 1984__  __.—__ 
+>     “(2)  __Special rule for corporations affiliated on __  __june 22, 1984__  __.—__ 
 
 >     In the case of a corporation which on June 22, 1984, is a member of an affiliated group which files a consolidated return for such corporation’s taxable year which includes June 22, 1984, for purposes of determining whether such corporation continues to be a member of such group for taxable years beginning before January 1, 1988, the amendment made by subsection (a) \[amending this section\] shall not apply. The preceding sentence shall cease to apply as of the first day after June 22, 1984, on which such corporation does not qualify as a member of such group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]).
 
->     “(3) __Special rule not to apply to certain sell-downs after__  __june 22, 1984__  __.—__ 
+>     “(3)  __Special rule not to apply to certain sell-downs after __  __june 22, 1984__  __.—__ 
 
 >     If—
 
@@ -253,7 +253,7 @@
 
 >         then the amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining whether such corporation continues to be a member of the group. The preceding sentence shall not apply to any transaction if such transaction does not reduce the percentage of the fair market value of the stock of the corporation referred to in the preceding sentence held by members of the group determined without regard to this paragraph.
 
->     “(4) __Exception for certain sell-downs.—__ 
+>     “(4)  __Exception for certain sell-downs__  __.—__ 
 
 >     Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
 
@@ -273,7 +273,7 @@
 
 >         “(D) Losses incurred and credits earned by a corporation which is affiliated with a corporation described in subparagraph (A) shall be treated as having been incurred or earned in a separate return limitation year, unless the corporation incurring the losses or earning the credits satisfies the affiliation requirements of section 1504(a) without application of subparagraph (A).
 
->     “(6) __Treatment of certain corporations affiliated on__  __June 22, 1984__  __.—__ 
+>     “(6)  __Treatment of certain corporations affiliated on __  __June 22, 1984__  __.—__ 
 
 >     In the case of an affiliated group which—
 
@@ -283,11 +283,11 @@
 
 >         for purposes of determining whether such New York corporation continues to be a member of such group, paragraph (2) shall be applied by substituting for ‘January 1, 1988,’ the earlier of January 1, 1994, or the date on which the voting power of the preferred stock in such New York corporation terminates.
 
->     “(7) __Election to have amendments apply for years beginning after 1983.—__ 
+>     “(7)  __Election to have amendments apply for years beginning after 1983__  __.—__ 
 
 >     If the common parent of any group makes an election under this paragraph, notwithstanding any other provision of this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to such group for taxable years beginning after December 31, 1983. Any such election, once made, shall be irrevocable.
 
->     “(8) __Treatment of certain affiliated groups.—__ 
+>     “(8)  __Treatment of certain affiliated groups__  __.—__ 
 
 >     If—
 
@@ -299,7 +299,7 @@
 
 >         then, for purposes of determining whether such subsidiary corporation is a member of the parent’s affiliated group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subsection (a)), paragraph (2)(B) of such section 1504(a) shall be applied by substituting ‘55 percent’ for ‘80 percent’.
 
->     “(9) __Treatment of certain corporations affiliated during 1971.—__ 
+>     “(9)  __Treatment of certain corporations affiliated during 1971__  __.—__ 
 
 >      In the case of a group of corporations which filed a consolidated Federal income tax return for the taxable year beginning during 1971 and which—
 
@@ -373,7 +373,7 @@
 
 [Pub. L. 100–647, title V, § 5021][/us/pl/100/647/s5021], Nov. 10, 1988, [102 Stat. 3666][/us/stat/102/3666], as amended by [Pub. L. 101–239, title VII, § 7815(b)][/us/pl/101/239/s7815/b], Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Nothing in section 60(b)(5) of the Tax Reform Act of 1984 (as amended by section 1804(e)(4) of the Tax Reform Act of 1986) \[[section 60(b)(5) of Pub. L. 98–369][/us/pl/98/369/s60/b/5], set out as an Effective Date of 1984 Amendment note above\]—
 
@@ -383,7 +383,7 @@
 
 >     “(b) __Exception for Existing Contracts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) shall not apply to any loss (or credit) of any corporation if—
 
@@ -391,11 +391,11 @@
 
 >             “(B) such loss (or credit) is used to offset income assigned (or attributable to property contributed) pursuant to a binding contract entered into before July 26, 1988.
 
->         “(2) __$40,000,000 limitation.—__ 
+>         “(2) __$40,000,000__  __limitation__  __.—__ 
 
 >         The aggregate amount of losses (and the deduction equivalent of credits as determined in the same manner as under section 469(j)(5) of the 1986 Code) to which paragraph (1) applies with respect to any corporation shall not exceed $40,000,000. For purposes of this paragraph, a Native Corporation and all other corporations all of the stock of which is owned directly by such corporation shall be treated as 1 corporation.
 
->         “(3) __Special rule for corporations under title 11.—__ 
+>         “(3)  __Special rule for corporations under title 11__  __.—__ 
 
 >         In the case of a corporation which on April 26, 1988, was under the jurisdiction of a Federal district court under title 11 of the United States Code—
 
@@ -407,7 +407,7 @@
 
 >     “(c) __Special Administrative Rules.—__ 
 
->         “(1) __Notice to native corporations of proposed tax adjustments.—__ 
+>         “(1)  __Notice to native corporations of proposed tax adjustments__  __.—__ 
 
 >         Notwithstanding section 6103 of the 1986 Code, the Secretary of the Treasury or his delegate shall notify a Native Corporation or its designated representative of any proposed adjustment—
 
@@ -419,7 +419,7 @@
 
 >         “(2) __Rights of native corporation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If a Native Corporation receives a notice under paragraph (1), the Native Corporation shall have the right to—
 
@@ -429,23 +429,23 @@
 
 >                   The Secretary of the Treasury or his delegate may discuss such proposed adjustment with the Native Corporation or its designated representative.
 
->             “(B) __Extension of statute of limitations.—__ 
+>             “(B)  __Extension of statute of limitations__  __.—__ 
 
 >             Subparagraph (A) shall not apply if the Secretary of the Treasury or his delegate determines that an extension of the statute of limitation\[s\] is necessary to permit the participation described in subparagraph (A) and the taxpayer and the Secretary or his delegate have not agreed to such extension.
 
->         “(3) __Judicial proceedings.—__ 
+>         “(3)  __Judicial proceedings__  __.—__ 
 
 >         In the case of any proceeding in a Federal court or the United States Tax Court involving a proposed adjustment under paragraph (1), the Native Corporation, subject to the rules of such court, may file an amicus brief concerning such adjustment.
 
->         “(4) __Failures.—__ 
+>         “(4)  __Failures__  __.—__ 
 
 >         For purposes of the 1986 Code, any failure by the Secretary of the Treasury or his delegate to comply with the provisions of this subsection shall not affect the validity of the determination of the Internal Revenue Service of any adjustment of tax liability of any taxpayer described in paragraph (1).
 
->     “(d) __Disqualified Income Defined.—__ 
+>     “(d)  __Disqualified Income Defined__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘disqualified income’ means any income assigned (or attributable to property contributed) after April 26, 1988, by a person who is not a Native Corporation or a corporation all the stock of which is owned directly by a Native Corporation.
 
->     “(e) __Basis Determination.—__ 
+>     “(e)  __Basis Determination__  __.—__ 
 
 >     For purposes of determining basis for Federal tax purposes, no provision in any law enacted after the date of the enactment of this Act \[Nov. 10, 1988\] shall affect the date on which the transfer to the Native Corporation is made. The preceding sentence shall apply to all taxable years whether beginning before, on, or after such date of enactment.”
 
@@ -457,11 +457,11 @@
 
 [Pub. L. 94–455, title XV, § 1507(c)(2)][/us/pl/94/455/s1507/c/2], Oct. 4, 1976, [90 Stat. 1740][/us/stat/90/1740], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __Limitations on carryovers or carrybacks for groups electing under section 1504(c)(2).—__ 
+>     “(A)  __Limitations on carryovers or carrybacks for groups electing under section 1504(__  __c__  __)(2)__  __.—__ 
 
 >     If an affiliated group elects to file a consolidated return pursuant to section 1501(c)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] a carryover of a loss or credit from a taxable year ending before January 1, 1981, and losses or credits which may be carried back to taxable years ending before such date, shall be taken into account as if this section had not been enacted.
 
->     “(B) __Nontermination of affiliated group.—__ 
+>     “(B)  __Nontermination of affiliated group__  __.—__ 
 
 >     The mere election to file a consolidated return pursuant to such section 1504(c)(2) shall not cause the termination of an affiliated group filing consolidated returns.”
 

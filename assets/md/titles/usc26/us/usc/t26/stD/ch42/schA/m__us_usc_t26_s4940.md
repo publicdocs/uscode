@@ -275,11 +275,11 @@
 
 [Pub. L. 91–172, title I, § 101(k)][/us/pl/91/172/s101/k], Dec. 30, 1969, [83 Stat. 533][/us/stat/83/533], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection and subsection (l) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing [section 504 of this title][/us/usc/t26/s504], and enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t26/s1]\] shall take effect on January 1, 1970.
 
->     “(2) __Provisions effective for taxable years beginning after__  __december 31, 1969__  __.—__ 
+>     “(2)  __Provisions effective for taxable years beginning after __  __december 31, 1969__  __.—__ 
 
 >     The following provisions shall apply to taxable years beginning after December 31, 1969:
 
@@ -287,7 +287,7 @@
 
 >         “(B) The amendments made by subsection (d) \[enacting [section 6056 of this title][/us/usc/t26/s6056], and amending sections 6033 and 6652 of this title\] and paragraphs (3), (15), (16), (20), (21), (30), (31), (32), (33), (34), (35), and (61) of subsection (j) \[amending sections 501, 542, 878, 884, 6033, 6034, and 6043 of this title and repealing [section 504 of this title][/us/usc/t26/s504]\].
 
->     “(3) __Sections 508(a), (b), and (c).—__ 
+>     “(3)  __Sections 508__  __(a), (b),__  __and__  __(c).—__ 
 
 >     Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on October 9, 1969.”
 
@@ -295,11 +295,11 @@
 
 [Pub. L. 91–172, title I, § 101][/us/pl/91/172/s101](l), Dec. 30, 1969, [83 Stat. 533][/us/stat/83/533], as amended by [Pub. L. 93–490, § 4(a)][/us/pl/93/490/s4/a], Oct. 26, 1974, [88 Stat. 1467][/us/stat/88/1467]; [Pub. L. 94–455, title XIII][/us/pl/94/455], §§ 1301(a), 1309(a), Oct. 4, 1976, [90 Stat. 1713][/us/stat/90/1713], 1729; [Pub. L. 95–600, title VII, § 703(f)][/us/pl/95/600/s703/f], Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940]; [Pub. L. 98–369, div. A, title III, § 314(b)(1)][/us/pl/98/369/s314/b/1], July 18, 1984, [98 Stat. 787][/us/stat/98/787]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __References to internal revenue code provisions.—__ 
+>     “(1)  __References to internal revenue code provisions__  __.—__ 
 
 >     Except as otherwise expressly provided, references in the following paragraphs of this subsection are to sections of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section.
 
->     “(2) __Section 4941.—__ 
+>     “(2)  __Section 4941__  __.—__ 
 
 >     Section 4941 shall not apply to—
 
@@ -323,7 +323,7 @@
 
 >             “(iii) such foundation receives in return for the disposition to such disqualified person an amount which equals or exceeds the fair market value of such property at the time of the disposition or at the time (after June 30, 1976) a contract for the disposition was previously executed in a transaction which would not constitute a prohibited transaction (within the meaning of section 503(b) or any corresponding provision of prior law).
 
->     “(3) __Section 4942.—__ 
+>     “(3)  __Section 4942__  __.—__ 
 
 >     In the case of organizations organized before May 27, 1969, section 4942 shall—
 
@@ -371,19 +371,19 @@
 
 >         “(C) For purposes of section 4943(c)(6), the term ‘purchase’ does not include an exchange which is described in paragraph (2)(B) of this subsection and which is pursuant to a plan for disposition of excess business holdings.
 
->     “(5) __Section 4945.—__ 
+>     “(5)  __Section 4945__  __.—__ 
 
 >     Section 4945(d)(4) and (h) shall not apply to a grant which is described in paragraph (3)(C) of this subsection.
 
->     “(6) __Section 508(e).—__ 
+>     “(6)  __Section 508__  __(e).—__ 
 
 >     Section 508(e) shall not apply to require inclusion in governing instruments of any provisions inconsistent with this subsection.
 
->     “(7) __Section 509(a).—__ 
+>     “(7)  __Section 509__  __(a).—__ 
 
 >     In the case of any trust created under the terms of a will or a codicil to a will executed on or before March 30, 1924, by which the testator bequeathed all of the outstanding common stock of a corporation in trust, the income of which trust is to be used principally for the benefit of those from time to time employed by the corporation and their families, the trustees of which trust are elected or selected from among the employees of such corporation, and which trust does not own directly any stock in any other corporation, if the trust makes an irrevocable election under this paragraph within one year after the date of the enactment of this Act \[Dec. 30, 1969\], such trust shall be treated as not being a private foundation for purposes of the Internal Revenue Code of 1986 but shall be treated for purposes of such Code as if it were not exempt from tax under section 501(a) for any taxable year beginning after the date of the enactment of this Act \[Dec. 30, 1969\] and before the date (if any) on which such trust has complied with the requirements of section 507 for termination of the status of an organization as a private foundation.
 
->     “(8) __Certain redemptions.—__ 
+>     “(8)  __Certain redemptions__  __.—__ 
 
 >     For purposes of applying section 302(b)(1) to the determination of the amount of gross investment income under sections 4940 and 4948(a), any distribution made to a private foundation in redemption of stock held by such private foundation in a business enterprise shall be treated as not essentially equivalent to a dividend, if such redemption is described in paragraph (2)(B) of this subsection.”
 

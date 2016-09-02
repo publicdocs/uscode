@@ -421,33 +421,33 @@
 
 [Pub. L. 105–34, title II, § 211(f)][/us/pl/105/34/s211/f], Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 135 and 6693 of this title\] shall take effect on January 1, 1998.
 
->     “(2) __Expenses to include room and board.—__ 
+>     “(2)  __Expenses to include room and board__  __.—__ 
 
 >     The amendment made by subsection (a) shall take effect as if included in the amendments made by section 1806 of the Small Business Job Protection Act of 1996 \[[Pub. L. 104–188][/us/pl/104/188]\].
 
->     “(3) __Eligible educational institution.—__ 
+>     “(3)  __Eligible educational institution__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending this section\] shall apply to distributions after December 31, 1997, with respect to expenses paid after such date (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
 
->     “(4) __Coordination with education savings bonds.—__ 
+>     “(4)  __Coordination with education savings bonds__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending [section 135 of this title][/us/usc/t26/s135]\] shall apply to taxable years beginning after December 31, 1997.
 
 >     “(5) __Estate and gift tax changes.—__ 
 
->         “(A) __Gift tax changes.—__ 
+>         “(A)  __Gift tax changes__  __.—__ 
 
 >         Paragraphs (2) and (5) of section 529(c) of the Internal Revenue Code of 1986, as amended by this section, shall apply to transfers (including designations of new beneficiaries) made after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->         “(B) __Estate tax changes.—__ 
+>         “(B)  __Estate tax changes__  __.—__ 
 
 >         Paragraph (4) of such section 529(c) shall apply to estates of decedents dying after June 8, 1997.
 
->     “(6) __Transition rule for pre-__  __august 20, 1996__  __contracts.—__ 
+>     “(6)  __Transition rule for pre-__  __august 20, 1996__  __ contracts__  __.—__ 
 
 >     In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family.”
 
@@ -457,11 +457,11 @@
 
 [Pub. L. 104–188, title I, § 1806(c)][/us/pl/104/188/s1806/c], Aug. 20, 1996, [110 Stat. 1898][/us/stat/110/1898], as amended by [Pub. L. 105–34, title XVI, § 1601(h)(1)(C)][/us/pl/105/34/s1601/h/1/C], Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 135 of this title][/us/usc/t26/s135]\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     If—
 

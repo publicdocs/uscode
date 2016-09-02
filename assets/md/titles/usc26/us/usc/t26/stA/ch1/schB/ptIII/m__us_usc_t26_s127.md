@@ -193,11 +193,11 @@
 
 [Pub. L. 104–188, title I, § 1202(c)(1)][/us/pl/104/188/s1202/c/1], (2), Aug. 20, 1996, [110 Stat. 1773][/us/stat/110/1773], provided that:
 
->     “(1) __Extension.—__ 
+>     “(1)  __Extension__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.
 
->     “(2) __Graduate education.—__ 
+>     “(2)  __Graduate education__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenses relating to courses beginning after June 30, 1996.”
 
@@ -217,11 +217,11 @@
 
 [Pub. L. 101–508, title XI, § 11403(d)][/us/pl/101/508/s11403/d], Nov. 5, 1990, [104 Stat. 1388–473][/us/stat/104/1388-473], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
@@ -253,23 +253,23 @@
 
 [Pub. L. 98–611, § 1(g)][/us/pl/98/611/s1/g], Oct. 31, 1984, [98 Stat. 3178][/us/stat/98/3178], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 6039D of this title][/us/usc/t26/s6039D] and amending this section and sections 125, 3231, and 6652 of this title\] shall apply to taxable years beginning after December 31, 1983.
 
->     “(2) __Subsection (d).—__ 
+>     “(2)  __Subsection__  __(d).—__ 
 
 >     The amendments made by subsection (d) \[enacting section 6039D and amending this section and sections 125 and 6652 of this title\] shall take effect on January 1, 1985.
 
->     “(3) __Subsection (f).—__ 
+>     “(3)  __Subsection__  __(f).—__ 
 
 >     The amendment made by subsection (f) \[amending [section 3231 of this title][/us/usc/t26/s3231]\] shall apply to remuneration paid after December 31, 1984.
 
->     “(4) __No penalties or interest on failure to withhold.—__ 
+>     “(4)  __No penalties or interest on failure to withhold__  __.—__ 
 
 >     No penalty or interest shall be imposed on any failure to withhold under subtitle C of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to employment taxes) with respect to amounts excluded from gross income under section 127 of such Code (as amended by this section and determined without regard to subsection (a)(2) thereof) with respect to periods during 1984.
 
->     “(5) __Coordination with section 117(d).—__ 
+>     “(5)  __Coordination with section 117__  __(d).—__ 
 
 >     In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section 117(d) of such Code shall be treated as in effect on and after January 1, 1984.”
 

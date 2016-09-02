@@ -953,11 +953,11 @@
 
 [Pub. L. 109–135, title I, § 101(c)][/us/pl/109/135/s101/c], Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and [section 1400M of this title][/us/usc/t26/s1400M] and amending sections 54 and 6049 of this title\] shall apply to taxable years ending on or after August 28, 2005.
 
->     “(2) __Carrybacks.—__ 
+>     “(2)  __Carrybacks__  __.—__ 
 
 >     Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years.”
 

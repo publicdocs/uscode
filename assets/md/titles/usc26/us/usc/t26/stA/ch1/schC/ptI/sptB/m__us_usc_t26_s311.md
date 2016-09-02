@@ -103,21 +103,21 @@
 
 [Pub. L. 98–369, div. A, title I, § 54(d)][/us/pl/98/369/s54/d], July 18, 1984, [98 Stat. 569][/us/stat/98/569], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1804(b)(3), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2799; [Pub. L. 100–647, title I, § 1018(d)(1)][/us/pl/100/647/s1018/d/1]–(3), Nov. 10, 1988, [102 Stat. 3578][/us/stat/102/3578], provided that:
 
->     “(1) __Subsection (a).—__ 
+>     “(1)  __Subsection__  __(a).—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to distributions declared on or after June 14, 1984, in taxable years ending after such date.
 
->     “(2) __Subsection (b).—__ 
+>     “(2)  __Subsection__  __(b).—__ 
 
 >     The amendment made by subsection (b) \[amending [section 301 of this title][/us/usc/t26/s301]\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
 >     “(3) __Exception for distributions before__  __january 1, 1985__  __, to 80-percent corporate shareholders.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (a) shall not apply to any distribution before January 1, 1985, to an 80-percent corporate shareholder if the basis of the property distributed is determined under section 301(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
->         “(B) __80-percent corporate shareholder.—__ 
+>         “(B) __80-__  __percent corporate shareholder__  __.—__ 
 
 >         The term ‘80-percent corporate shareholder’ means, with respect to any distribution, any corporation which owns—
 
@@ -125,17 +125,17 @@
 
 >             “(ii) at least 80 percent of the total number of shares of all other classes of stock of the distributing corporation (except nonvoting stock which is limited and preferred as to dividends).
 
->         “(C) __Special rule for affiliated group filing consolidated return.—__ 
+>         “(C)  __Special rule for affiliated group filing consolidated return__  __.—__ 
 
 >         For purposes of this paragraph and paragraph (4), all members of the same affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986) which file a consolidated return for the taxable year which includes the date of the distribution shall be treated as 1 corporation.
 
 >         “(D) __Special rule for certain distributions before__  __january 1, 1988__  __.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of [Pub. L. 99–514][/us/pl/99/514], enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under [section 301 of this title][/us/usc/t26/s301]\] shall not apply.
 
->             “(ii) __Transaction to which subparagaph \[sic\] applies.—__ 
+>             “(ii)  __Transaction to which subparagaph__  __\[sic\]__  __applies__  __.—__ 
 
 >             This subparagraph appies \[applies\] to a transaction in which a Delaware corporation which was incorporated on May 31, 1927, and which was acquired by the transferee on December 10, 1968, transfers to the transferee stock in a corporation—
 
@@ -145,7 +145,7 @@
 
 >     “(4) __Exception for certain distributions where tender offer commenced on__  __may 23, 1984__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (a) shall not apply to any distribution made before September 1, 1986, if—
 
@@ -159,13 +159,13 @@
 
 >         If the common parent of any affiliated group filing a consolidated return meets the requirements of clauses (ii) and (iii), each other member of such group shall be treated as meeting such requirements.
 
->         “(B) __Qualified stock.—__ 
+>         “(B)  __Qualified stock__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘qualified stock’ means any stock in a corporation which on June 15, 1984, was a member of the same affiliated group as the distributing corporation and which filed a consolidated return with the distributing corporation for the taxable year which included June 15, 1984.
 
 >     “(5) __Exception for certain distributions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by this section \[amending this section and sections 301 and 1223 of this title\] shall not apply to distributions before February 1, 1986, if—
 
@@ -189,7 +189,7 @@
 
 >             “(iii) the common parent acquired control of the controlled corporation during the 1-year period ending on February 1, 1984.
 
->         “(B) __Definitions.—__ 
+>         “(B)  __Definitions__  __.—__ 
 
 >         For purposes of this paragraph—
 
@@ -199,7 +199,7 @@
 
 >             “(iii) The term ‘subsidiary controlled corporation’ means any corporation with respect to which the controlled corporation has control (within the meaning of section 368(c) of such Code) on March 7, 1984.
 
->     “(6) __Exception for certain distribution of partnership interests.—__ 
+>     “(6)  __Exception for certain distribution of partnership interests__  __.—__ 
 
 >     The amendments made by this section shall not apply to any distribution before February 1, 1986, of an interest in a partnership the interests of which were being traded on a national securities exchange on March 7, 1984, if—
 
@@ -215,11 +215,11 @@
 
 [Pub. L. 97–248, title II, § 223(b)][/us/pl/97/248/s223/b], Sept. 3, 1982, [96 Stat. 484][/us/stat/96/484], as amended by [Pub. L. 97–448, title III, § 306(a)(7)][/us/pl/97/448/s306/a/7], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to distributions after August 31, 1982.
 
->     “(2) __Distributions pursuant to ruling requests before__  __july 23, 1982__  __.—__ 
+>     “(2)  __Distributions pursuant to ruling requests before __  __july 23, 1982__  __.—__ 
 
 >     In the case of a ruling request under section 311(d)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the amendments made by this section) made before July 23, 1982, the amendments made by this section \[amending this section\] shall not apply to distributions made—
 
@@ -227,11 +227,11 @@
 
 >         “(B) either before October 21, 1982, or within 90 days after the date of such ruling.
 
->     “(3) __Distributions pursuant to final judgments of court.—__ 
+>     “(3)  __Distributions pursuant to final judgments of court__  __.—__ 
 
 >     In the case of a final judgment described in section 311(d)(2)(C) of such Code (as in effect before the amendments made by this section) rendered before July 23, 1982, the amendments made by this section \[amending this section\] shall not apply to distributions made before January 1, 1986, pursuant to such judgment.
 
->     “(4) __Certain distributions with respect to stock acquired before may 1982.—__ 
+>     “(4)  __Certain distributions with respect to stock acquired before may 1982__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not apply to distributions—
 
@@ -241,7 +241,7 @@
 
 >         “(C) which are made with respect to stock acquired after 1980 and before May 1982.
 
->     “(5) __Distributions of timberland with respect to stock of forest products company.—__ 
+>     “(5)  __Distributions of timberland with respect to stock of forest products company__  __.—__ 
 
 >     If—
 

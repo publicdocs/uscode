@@ -455,7 +455,7 @@
 
 >             For purposes of the preceding sentence, the term ‘15-year real property’ includes 18-year real property.
 
->     “(2) __Compliance provisions.—__ 
+>     “(2)  __Compliance provisions__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending sections 274, 6653, and 6695 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 

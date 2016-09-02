@@ -299,29 +299,29 @@
 
 [Pub. L. 111–92, § 11(j)(1)][/us/pl/111/92/s11/j/1]–(3), Nov. 6, 2009, [123 Stat. 2991][/us/stat/123/2991], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (b), (c), (d), and (g) \[amending this section\] shall apply to residences purchased after the date of the enactment of this Act \[Nov. 6, 2009\].
 
->     “(2) __Extensions.—__ 
+>     “(2)  __Extensions__  __.—__ 
 
 >     The amendments made by subsections (a) \[amending this section\], (f) \[amending this section\], and (i) \[amending [section 1400C of this title][/us/usc/t26/s1400C]\] shall apply to residences purchased after November 30, 2009.
 
->     “(3) __Waiver of recapture.—__ 
+>     “(3)  __Waiver of recapture__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending this section\] shall apply to dispositions and cessations after December 31, 2008.”
 
 [Pub. L. 111–92, § 12(e)][/us/pl/111/92/s12/e], Nov. 6, 2009, [123 Stat. 2992][/us/stat/123/2992], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 6213 of this title][/us/usc/t26/s6213]\] shall apply to purchases after the date of the enactment of this Act \[Nov. 6, 2009\].
 
->     “(2) __Documentation requirement.—__ 
+>     “(2)  __Documentation requirement__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to returns for taxable years ending after the date of the enactment of this Act \[Nov. 6, 2009\].
 
->     “(3) __Treatment as mathematical and clerical errors.—__ 
+>     “(3)  __Treatment as mathematical and clerical errors__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending [section 6213 of this title][/us/usc/t26/s6213]\] shall apply to returns for taxable years ending on or after April 9, 2008.”
 

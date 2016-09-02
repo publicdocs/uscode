@@ -165,15 +165,15 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 
 >     “(a) __New Application Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of section 5171 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to establishment of distilled spirits plants), each person who intends to continue any distilled spirits operation at a premises after December 31, 1979, shall be treated as intending to establish a distilled spirits plant on such premises on January 1, 1980.
 
->         “(2) __Current registration to remain in effect.—__ 
+>         “(2)  __Current registration to remain in effect__  __.—__ 
 
 >         Notwithstanding paragraph (1), the registration of any person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
 
->     “(b) __Continuing Operations at Existing Premises.—__ 
+>     “(b)  __Continuing Operations at Existing Premises__  __.—__ 
 
 >     With respect to any operation which was permitted to be conducted on May 1, 1979, at premises which were registered on such date under section 5171 of the Internal Revenue Code of 1986, the determination of whether such premises qualify for registration under such section as a distilled spirits plant shall be made without regard to whether or not—
 

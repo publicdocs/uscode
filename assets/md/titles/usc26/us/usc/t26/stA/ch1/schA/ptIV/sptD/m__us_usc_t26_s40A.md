@@ -327,7 +327,7 @@
 
     Subsec. (b)(5)(B). [Pub. L. 109–135][/us/pl/109/135] struck out “(determined without regard to the last sentence of subsection (d)(2))” after “any agri-biodiesel” in introductory provisions.
 
-    Subsec. (d)(3)(C),(D). [Pub. L. 109–58, § 1345(d)(3)][/us/pl/109/58/s1345/d/3], added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
+    Subsec. (d)(3)(C), (D). [Pub. L. 109–58, § 1345(d)(3)][/us/pl/109/58/s1345/d/3], added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
 
     Subsec. (e). [Pub. L. 109–58, § 1345(c)][/us/pl/109/58/s1345/c], added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
 
@@ -355,11 +355,11 @@
 
 [Pub. L. 110–343, div. B, title II, § 202(g)][/us/pl/110/343/s202/g], Oct. 3, 2008, [122 Stat. 3833][/us/stat/122/3833], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall apply to fuel produced, and sold or used, after December 31, 2008.
 
->     “(2) __Coproduction of renewable diesel with petroleum feedstock.—__ 
+>     “(2)  __Coproduction of renewable diesel with petroleum feedstock__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply to fuel produced, and sold or used, after the date of the enactment of this Act \[Oct. 3, 2008\].”
 

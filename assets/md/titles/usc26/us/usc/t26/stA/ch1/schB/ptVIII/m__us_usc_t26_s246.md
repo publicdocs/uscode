@@ -233,11 +233,11 @@
 
 [Pub. L. 105–34, title X, § 1015(c)][/us/pl/105/34/s1015/c], Aug. 5, 1997, [111 Stat. 922][/us/stat/111/922], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to dividends received or accrued after the 30th day after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     The amendments made by this section shall not apply to dividends received or accrued during the 2-year period beginning on the date of the enactment of this Act if—
 
@@ -265,11 +265,11 @@
 
 [Pub. L. 99–514, title VI, § 611(b)][/us/pl/99/514/s611/b], Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and sections 243, 244, 246A, and 805 of this title\] shall apply to dividends received or accrued after December 31, 1986, in taxable years ending after such date.
 
->     “(2) __Amendment relating to limitation on deductions.—__ 
+>     “(2)  __Amendment relating to limitation on deductions__  __.—__ 
 
 >     The amendment made by subsection (a) to section 246(b) of the Internal Revenue Code of 1986 shall apply to taxable years beginning after December 31, 1986.”
 

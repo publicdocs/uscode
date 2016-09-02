@@ -1069,25 +1069,25 @@
 
 [Pub. L. 99–514, title XII, § 1231(g)][/us/pl/99/514/s1231/g], Oct. 22, 1986, [100 Stat. 2563][/us/stat/100/2563], as amended by [Pub. L. 100–647, title I, § 1012(n)(1)][/us/pl/100/647/s1012/n/1]–(3), Nov. 10, 1988, [102 Stat. 3514][/us/stat/102/3514], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 >     “(2) __Special rule for transfer of intangibles.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
 
->         “(B) __Special rule for section 936.—__ 
+>         “(B)  __Special rule for section 936__  __.—__ 
 
 >         For purposes of section 936(h)(5)(C) of the Internal Revenue Code of 1986 the amendments made by subsection (e) shall apply to taxable years beginning after December 31, 1986, without regard to when the transfer (or license), if any, was made.
 
->     “(3) __Subsection (f).—__ 
+>     “(3)  __Subsection__  __(f).—__ 
 
 >     The amendment made by subsection (f) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(4) __Transitional rule.—__ 
+>     “(4)  __Transitional rule__  __.—__ 
 
 >     In the case of a corporation—
 
@@ -1103,7 +1103,7 @@
 
 >     “(5) __Transitional rule for increase in gross income test.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         If—
 
@@ -1113,7 +1113,7 @@
 
 >             “(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable year by the amount of the shortfall determined under subparagraph (B) of this paragraph.
 
->         “(B) __Determination of shortfall.—__ 
+>         “(B)  __Determination of shortfall__  __.—__ 
 
 >         The shortfall determined under this subparagraph for any taxable year is an amount equal to the excess of—
 
@@ -1121,7 +1121,7 @@
 
 >             “(ii) the amount of the gross income of such corporation for such period (or part thereof) which was derived from the active conduct of a trade or business within a possession of the United States.
 
->         “(C) __Special rule.—__ 
+>         “(C)  __Special rule__  __.—__ 
 
 >         Any income attributable to the investment of the amount not treated as qualified possession source investment income under subparagraph (A) shall not be treated as qualified possession source investment income for any taxable year.”
 
@@ -1145,15 +1145,15 @@
 
 [Pub. L. 97–248, title II, § 213(e)][/us/pl/97/248/s213/e], Sept. 3, 1982, [96 Stat. 466][/us/stat/96/466], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 246, 367, and 934 of this title\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Certain sales made after__  __july 1, 1982__  __.—__ 
+>     “(2)  __Certain sales made after __  __july 1, 1982__  __.—__ 
 
 >     Paragraph (6) of section 936(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and so much of section 934 to which such paragraph applies by reason of section 934(e)(4) of such Code, shall apply to taxable years ending after July 1, 1982.
 
->     “(3) __Certain transfers of intangibles made after__  __august 14, 1982__  __.—__ 
+>     “(3)  __Certain transfers of intangibles made after __  __august 14, 1982__  __.—__ 
 
 >     Subsection (d) \[amending [section 367 of this title][/us/usc/t26/s367]\] shall apply to taxable years ending after August 14, 1982.”
 
