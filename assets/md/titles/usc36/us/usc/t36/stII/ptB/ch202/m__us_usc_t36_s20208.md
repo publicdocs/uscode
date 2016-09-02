@@ -23,7 +23,7 @@
 
     The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.).
 
-(Added [Pub. L. 105–354, § 1(4)(A)][/us/pl/105/354/s1/4/A], Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
+(Added [Pub. L. 105–354][/us/pl/105/354], § 1(4)(A), Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
 
 <table>
 
@@ -97,7 +97,7 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, §§ 1508(e), 1514 (related to duty
 ----------
 
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/354/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F4%2FA
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3241
 
 

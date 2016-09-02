@@ -87,7 +87,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs50309" data-uslm-ref="/us/usc/t36/s50309">50309.</a>  </td>
+
+    <td> Dissolution.  </td>
+
+  </tr>
+
 </table>
+
+ __Amendments__ 
+
+    [Pub. L. 114–135][/us/pl/114/135], § 1(c), Mar. 18, 2016, [130 Stat. 300][/us/stat/130/300], added item 50309.
 
 ----------
 
@@ -96,5 +108,7 @@
 ----------
 ----------
 
+[/us/pl/114/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F135
+[/us/stat/130/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F300
 
 

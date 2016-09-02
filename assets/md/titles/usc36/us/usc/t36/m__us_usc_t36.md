@@ -15,9 +15,9 @@
 
 # Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
-This title was enacted by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253]
+This title was enacted by [Pub. L. 105–225][/us/pl/105/225], § 1, Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -1387,7 +1387,7 @@ Subtitle III—Treaty Obligation Organizations  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(a)(1)][/us/pl/113/237/s3/a/1], Dec. 18, 2014, [128 Stat. 2833][/us/stat/128/2833], added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(a)(1), Dec. 18, 2014, [128 Stat. 2833][/us/stat/128/2833], added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
 
 <table>
 
@@ -19491,17 +19491,17 @@ Rep.  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253], provided in part that: 
+[Pub. L. 105–225][/us/pl/105/225], § 1, Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253], provided in part that: 
 
 > “Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, ‘Patriotic and National Observances, Ceremonies, and Organizations’ ”.
 
  __Legislative Purpose and Construction__ 
 
-[Pub. L. 113–237, § 2][/us/pl/113/237/s2], Dec. 18, 2014, [128 Stat. 2833][/us/stat/128/2833], provided that: 
+[Pub. L. 113–237][/us/pl/113/237], § 2, Dec. 18, 2014, [128 Stat. 2833][/us/stat/128/2833], provided that: 
 
 > “The purpose of this Act \[see Tables for classification\] is to make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.”
 
-[Pub. L. 105–354, § 4][/us/pl/105/354/s4], Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], provided that:
+[Pub. L. 105–354][/us/pl/105/354], § 4, Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], provided that:
 
 >     “(a)  __No Substantive Change__  __.—__ 
 
@@ -19529,7 +19529,7 @@ Rep.  </td>
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 105–225, § 5][/us/pl/105/225/s5], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], provided that:
+[Pub. L. 105–225][/us/pl/105/225], § 5, Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], provided that:
 
 >     “(a)  __No Substantive Change__  __.—__ 
 
@@ -19557,17 +19557,17 @@ Rep.  </td>
 
  __Repeals and Savings Provisions__ 
 
-[Pub. L. 105–354, § 5(a)][/us/pl/105/354/s5/a], Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], provided that: 
+[Pub. L. 105–354][/us/pl/105/354], § 5(a), Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 105–354, § 5(b)][/us/pl/105/354/s5/b], Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
+    [Pub. L. 105–354][/us/pl/105/354], § 5(b), Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
 
-[Pub. L. 105–225, § 6(a)][/us/pl/105/225/s6/a], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], provided that: 
+[Pub. L. 105–225][/us/pl/105/225], § 6(a), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 105–225, § 6(b)][/us/pl/105/225/s6/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
+    [Pub. L. 105–225][/us/pl/105/225], § 6(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
 
 ----------
 
@@ -19576,25 +19576,25 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/pl/105/225/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs1
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1253
-[/us/pl/113/237/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fa%2F1
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2833
-[/us/pl/105/225/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs1
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1253
-[/us/pl/113/237/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs2
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2833
-[/us/pl/105/354/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs4
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3245
-[/us/pl/105/225/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
-[/us/pl/105/354/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs5%2Fa
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3245
-[/us/pl/105/354/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs5%2Fb
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3245
-[/us/pl/105/225/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs6%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
-[/us/pl/105/225/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs6%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 
 

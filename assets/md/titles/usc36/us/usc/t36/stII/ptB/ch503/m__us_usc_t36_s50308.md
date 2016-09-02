@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50307.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_stII_ptB_ch601.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs50308)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50307.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50309.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs50308)
 
 ## § 50308. Annual report
 
@@ -71,15 +71,9 @@ June 17, 1932, ch. 268, § 9, 47 Stat. 321; July 15, 1942, ch. 505, § 6, 56
 
     For termination, effective May 15, 2000, of reporting provisions in this section, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and page 200 of House Document No. 103–7.
 
- __CHAPTERS 505 THROUGH 599—RESERVED__ 
-
- __Amendments__ 
-
-    2014—[Pub. L. 113–237, § 3(b)(4)][/us/pl/113/237/s3/b/4], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 505 to 599.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50307.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_stII_ptB_ch601.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs50308)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50307.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50309.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs50308)
 
 ----------
 ----------
@@ -88,7 +82,5 @@ June 17, 1932, ch. 268, § 9, 47 Stat. 321; July 15, 1942, ch. 505, § 6, 56
 [/us/stat/112/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1345
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/113/237/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F4
-[/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

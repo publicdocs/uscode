@@ -77,7 +77,7 @@
 
     Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1270][/us/stat/112/1270]; [Pub. L. 106–117, title VI][/us/pl/106/117], §§ 602, 604(3), Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], 1580; [Pub. L. 107–217, § 3(i)(1)][/us/pl/107/217/s3/i/1], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 112–234, § 2(g)][/us/pl/112/234/s2/g], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1270][/us/stat/112/1270]; [Pub. L. 106–117, title VI][/us/pl/106/117/tVI], §§ 602, 604(3), Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], 1580; [Pub. L. 107–217][/us/pl/107/217], § 3(i)(1), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 112–234][/us/pl/112/234], § 2(g), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625].)
 
 <table>
 
@@ -315,13 +315,13 @@ Feb. 11, 1927, ch. 104, § 1 (last proviso in par. under heading “American B
 
     2002—Subsec. (a)(1). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 3111 of title 40][/us/usc/t40/s3111]” for “section 355 of the Revised Statutes ([40 U.S.C. 255][/us/usc/t40/s255])”.
 
-    1999—Subsec. (d). [Pub. L. 106–117, § 604(3)(C)][/us/pl/106/117/s604/3/C], substituted “Chairman” for “chairman”.
+    1999—Subsec. (d). [Pub. L. 106–117][/us/pl/106/117], § 604(3)(C), substituted “Chairman” for “chairman”.
 
-    Subsec. (e). [Pub. L. 106–117, § 602][/us/pl/106/117/s602], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
+    Subsec. (e). [Pub. L. 106–117][/us/pl/106/117], § 602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
 
-    Subsec. (h)(2)(A)(i). [Pub. L. 106–117, § 604(3)(A)][/us/pl/106/117/s604/3/A], struck out “, United States Code” after “title 31”.
+    Subsec. (h)(2)(A)(i). [Pub. L. 106–117][/us/pl/106/117], § 604(3)(A), struck out “, United States Code” after “title 31”.
 
-    Subsec. (i). [Pub. L. 106–117, § 604(3)(B)][/us/pl/106/117/s604/3/B], struck out “, United States Code” after “title 44”.
+    Subsec. (i). [Pub. L. 106–117][/us/pl/106/117], § 604(3)(B), struck out “, United States Code” after “title 44”.
 
 ----------
 
@@ -336,11 +336,11 @@ Feb. 11, 1927, ch. 104, § 1 (last proviso in par. under heading “American B
 [/us/usc/t44/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2107
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1270
-[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1578
-[/us/pl/107/217/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fi%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
-[/us/pl/112/234/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fg
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
 [/us/stat/58/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F784
 [/us/stat/63/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F399
@@ -357,9 +357,9 @@ Feb. 11, 1927, ch. 104, § 1 (last proviso in par. under heading “American B
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111
 [/us/usc/t40/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs255
-[/us/pl/106/117/s604/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs604%2F3%2FC
-[/us/pl/106/117/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs602
-[/us/pl/106/117/s604/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs604%2F3%2FA
-[/us/pl/106/117/s604/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs604%2F3%2FB
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 
 

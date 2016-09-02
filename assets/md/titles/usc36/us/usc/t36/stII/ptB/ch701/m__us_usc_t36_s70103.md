@@ -37,7 +37,7 @@
 
     The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of Delaware.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1347][/us/stat/112/1347]; [Pub. L. 105–354, § 1(7)][/us/pl/105/354/s1/7], Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1347][/us/stat/112/1347]; [Pub. L. 105–354][/us/pl/105/354], § 1(7), Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244].)
 
 <table>
 
@@ -130,7 +130,7 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§ 1803, 1808(f), 110 Stat. 
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1347
-[/us/pl/105/354/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F7
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3244
 [/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/usc/t36/s70103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs70103%2Fb

@@ -31,7 +31,7 @@
 
     The Secretary of the Interior may provide administrative services and support to the Museum on a reimbursable basis.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1032][/us/stat/114/1032].)
+(Added [Pub. L. 106–292][/us/pl/106/292], § 1, Oct. 12, 2000, [114 Stat. 1032][/us/stat/114/1032].)
 
  __Prior Provisions__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/stat/114/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1032
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1278

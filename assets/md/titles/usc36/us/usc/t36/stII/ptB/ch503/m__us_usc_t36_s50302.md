@@ -15,7 +15,7 @@
 
 ## § 50302. Purposes
 
-    The purposes of the corporation are—
+    The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include—
 
     (1) to uphold and maintain the Constitution and laws of the United States;
 
@@ -27,11 +27,15 @@
 
     (5) to stimulate a feeling of mutual devotion, helpfulness, and comradeship among all wounded, injured, and disabled veterans;
 
-    (6) to serve our comrades, our communities, and our country; and
+    (6) to serve our comrades, our communities, and our country;
 
-    (7) to encourage in all people that spirit of understanding which will guard against future wars.
+    (7) to educate the public about the sacrifices and needs of disabled veterans;
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1343][/us/stat/112/1343].)
+    (8) to educate disabled veterans about the benefits and resources available to them; and
+
+    (9) to encourage in all people that spirit of understanding which will guard against future wars.
+
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1343][/us/stat/112/1343]; [Pub. L. 114–135][/us/pl/114/135], § 1(a), Mar. 18, 2016, [130 Stat. 300][/us/stat/130/300].)
 
 <table>
 
@@ -79,6 +83,12 @@ June 17, 1932, ch. 268, § 3, 47 Stat. 320; July 15, 1942, ch. 505, § 2, 56
 
 </table>
 
+ __Amendments__ 
+
+    2016—[Pub. L. 114–135][/us/pl/114/135], § 1(a)(1), substituted “The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include” for “The purposes of the corporation are” in introductory provisions.
+
+    Pars. (7) to (9). [Pub. L. 114–135][/us/pl/114/135], § 1(a)(2)–(4), added pars. (7) and (8) and redesignated former par. (7) as (9).
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50301.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50303.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs50302)
@@ -88,5 +98,9 @@ June 17, 1932, ch. 268, § 3, 47 Stat. 320; July 15, 1942, ch. 505, § 2, 56
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1343
+[/us/pl/114/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F135
+[/us/stat/130/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F300
+[/us/pl/114/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F135
+[/us/pl/114/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F135
 
 

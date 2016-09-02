@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(a)(2)(C)][/us/pl/113/237/s3/a/2/C], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], struck out item for chapter 3001 “The American National Red Cross”.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(a)(2)(C), Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], struck out item for chapter 3001 “The American National Red Cross”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/237/s3/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fa%2F2%2FC
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

@@ -37,7 +37,7 @@
 
     The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of Texas.
 
-(Added [Pub. L. 105–354, § 1(5)(A)][/us/pl/105/354/s1/5/A], Nov. 3, 1998, [112 Stat. 3242][/us/stat/112/3242].)
+(Added [Pub. L. 105–354][/us/pl/105/354], § 1(5)(A), Nov. 3, 1998, [112 Stat. 3242][/us/stat/112/3242].)
 
 <table>
 
@@ -110,7 +110,7 @@ Aug. 13, 1998, Pub. L. 105–231, §§ 3, 8(f), 112 Stat. 1530, 1531.  </td>
 ----------
 ----------
 
-[/us/pl/105/354/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F5%2FA
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3242
 
 

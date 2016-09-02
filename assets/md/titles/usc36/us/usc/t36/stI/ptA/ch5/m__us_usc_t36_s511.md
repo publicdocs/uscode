@@ -45,7 +45,7 @@
 
         (2) subsection (a)(2) of this section are payable in the same way as other appropriations for the expenses of the Department of the Interior.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1265][/us/stat/112/1265], § 510; renumbered § 511, [Pub. L. 107–155, title III, § 308(a)(1)][/us/pl/107/155/s308/a/1], Mar. 27, 2002, [116 Stat. 103][/us/stat/116/103].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1265][/us/stat/112/1265], § 510; renumbered § 511, [Pub. L. 107–155, title III][/us/pl/107/155/tIII], § 308(a)(1), Mar. 27, 2002, [116 Stat. 103][/us/stat/116/103].)
 
 <table>
 
@@ -144,7 +144,7 @@ Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1265
-[/us/pl/107/155/s308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs308%2Fa%2F1
+[/us/pl/107/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2FtIII
 [/us/stat/116/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F103
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/usc/t36/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs510

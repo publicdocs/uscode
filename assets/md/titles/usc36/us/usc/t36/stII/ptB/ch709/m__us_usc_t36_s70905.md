@@ -89,7 +89,7 @@ In subsection (c), the words “Secretary of Education” and “Department of E
 
  __References in Text__ 
 
-    The Smith-Hughes Vocational Education Act, referred to in subsec. (c)(3), is [act Feb. 23, 1917, ch. 114][/us/act/1917-02-23/ch114], [39 Stat. 929][/us/stat/39/929], as amended, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by [Pub. L. 105–33, title VI, § 6201][/us/pl/105/33/s6201], Aug. 5, 1997, [111 Stat. 653][/us/stat/111/653]. For complete classification of this Act to the Code, see Short Title note set out under [section 11 of Title 20][/us/usc/t20/s11] and Tables.
+    The Smith-Hughes Vocational Education Act, referred to in subsec. (c)(3), is [act Feb. 23, 1917, ch. 114][/us/act/1917-02-23/ch114], [39 Stat. 929][/us/stat/39/929], as amended, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by [Pub. L. 105–33, title VI][/us/pl/105/33/tVI], § 6201, Aug. 5, 1997, [111 Stat. 653][/us/stat/111/653]. For complete classification of this Act to the Code, see Short Title note set out under [section 11 of Title 20][/us/usc/t20/s11] and Tables.
 
 ----------
 
@@ -109,7 +109,7 @@ In subsection (c), the words “Secretary of Education” and “Department of E
 [/us/stat/82/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1091
 [/us/act/1917-02-23/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-23%2Fch114
 [/us/stat/39/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F929
-[/us/pl/105/33/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs6201
+[/us/pl/105/33/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVI
 [/us/stat/111/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F653
 [/us/usc/t20/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs11
 

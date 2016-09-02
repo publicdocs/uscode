@@ -85,7 +85,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
  __National Moment of Remembrance__ 
 
-[Pub. L. 106–579][/us/pl/106/579], Dec. 28, 2000, [114 Stat. 3078][/us/stat/114/3078], as amended by [Pub. L. 110–161, div. H, title I, § 1502(e)][/us/pl/110/161/s1502/e], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
+[Pub. L. 106–579][/us/pl/106/579], Dec. 28, 2000, [114 Stat. 3078][/us/stat/114/3078], as amended by [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1502(e), Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -559,7 +559,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     The Executive Director and White House Liaison may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the Executive Director and White House Liaison is engaged in the performance of the duties of the Commission.
 
-> “\[SEC. 11. Repealed. [Pub. L. 110–161, div. H, title I, § 1502(e)][/us/pl/110/161/s1502/e], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250].\]
+> “\[SEC. 11. Repealed. [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1502(e), Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250].\]
 
 > “SEC. 12. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
@@ -594,7 +594,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 [/us/stat/82/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F250
 [/us/pl/106/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F579
 [/us/stat/114/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3078
-[/us/pl/110/161/s1502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fe
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2250
 [/us/usc/t5/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fa
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
@@ -602,7 +602,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/110/161/s1502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fe
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2250
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

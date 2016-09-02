@@ -23,7 +23,7 @@
 
     With respect to firearms other than caliber .22 rimfire and caliber .30 rifles, the corporation shall obtain a license as a dealer in firearms and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1341][/us/stat/112/1341]; [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(D)][/us/pl/114/92/s1087/a/2/D], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1341][/us/stat/112/1341]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1087(a)(2)(D), Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
 <table>
 
@@ -79,7 +79,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518.  </
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(b)(3)][/us/pl/113/237/s3/b/3], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 409 to 499.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(b)(3), Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 409 to 499.
 
 ----------
 
@@ -90,10 +90,10 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518.  </
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1341
-[/us/pl/114/92/s1087/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FD
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/237/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F3
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

@@ -41,7 +41,7 @@
 
     On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1336][/us/stat/112/1336]; [Pub. L. 113–237, § 3(c)(3)][/us/pl/113/237/s3/c/3], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1336][/us/stat/112/1336]; [Pub. L. 113–237][/us/pl/113/237], § 3(c)(3), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
 <table>
 
@@ -157,7 +157,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1619, 110 Stat. 520; Sept. 23,
 [/us/usc/t36/s40722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40722
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1336
-[/us/pl/113/237/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F3
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 

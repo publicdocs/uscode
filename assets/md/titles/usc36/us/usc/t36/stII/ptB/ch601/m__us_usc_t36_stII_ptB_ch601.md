@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50308.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_s60101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch601)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50309.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_s60101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch601)
 
 #### CHAPTER 601—82ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50308.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_s60101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch601)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch503/m__us_usc_t36_s50309.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch601/m__us_usc_t36_s60101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch601)
 
 ----------
 ----------

@@ -23,7 +23,7 @@
 
     Except as otherwise provided, the corporation has perpetual existence.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1306][/us/stat/112/1306]; [Pub. L. 107–241, § 1(a)(1)][/us/pl/107/241/s1/a/1], Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1306][/us/stat/112/1306]; [Pub. L. 107–241][/us/pl/107/241], § 1(a)(1), Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
 
 <table>
 
@@ -120,7 +120,7 @@ July 23, 1947, ch. 298, §§ 2, 4 (related to perpetual succession), 10(1), 61
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1306
-[/us/pl/107/241/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241%2Fs1%2Fa%2F1
+[/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 [/us/stat/116/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1496
 [/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 

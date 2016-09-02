@@ -31,7 +31,7 @@
 
     The corporation may not claim congressional approval or the authority of the United States Government for any of its activities.
 
-(Added [Pub. L. 105–354, § 1(4)(A)][/us/pl/105/354/s1/4/A], Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
+(Added [Pub. L. 105–354][/us/pl/105/354], § 1(4)(A), Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
 
 <table>
 
@@ -140,7 +140,7 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, § 1508(a)–(d), 111 Stat. 1964.  
 ----------
 ----------
 
-[/us/pl/105/354/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F4%2FA
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3241
 
 

@@ -29,13 +29,13 @@
 
     Any surplus firearms, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with [section 40728 of this title][/us/usc/t36/s40728] under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
 
-(Added [Pub. L. 109–364, div. A, title III, § 354(a)][/us/pl/109/364/s354/a], Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162]; amended [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(A)][/us/pl/114/92/s1087/a/2/A], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
+(Added [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 354(a), Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1087(a)(2)(A), Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 1087(a)(2)(A)(i)][/us/pl/114/92/s1087/a/2/A/i], substituted “surplus firearms” for “rifles” wherever appearing.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(A)(i), substituted “surplus firearms” for “rifles” wherever appearing.
 
-    Subsec. (a). [Pub. L. 114–92, § 1087(a)(2)(A)(ii)][/us/pl/114/92/s1087/a/2/A/ii], substituted “section 40732(a)” for “section 40731(a)”.
+    Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(A)(ii), substituted “section 40732(a)” for “section 40731(a)”.
 
 ----------
 
@@ -50,11 +50,11 @@
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t36/s40727/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40727%2Fa
 [/us/usc/t36/s40728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40728
-[/us/pl/109/364/s354/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs354%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2162
-[/us/pl/114/92/s1087/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FA
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
-[/us/pl/114/92/s1087/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FA%2Fi
-[/us/pl/114/92/s1087/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FA%2Fii
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

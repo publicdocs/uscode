@@ -35,7 +35,7 @@
 
         For purposes of any schedules of rates negotiated by the Administrator of General Services for the use of employees of the Federal Government who travel on official business, officers and employees of the foundation who travel while engaged in the performance of their duties under this chapter shall be deemed to be employees of the Federal Government.
 
-(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1719][/us/stat/116/1719], § 152604; renumbered § 90104, [Pub. L. 113–237, § 3(c)(6)(B)][/us/pl/113/237/s3/c/6/B], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+(Added [Pub. L. 107–252, title VI][/us/pl/107/252/tVI], § 601(a), Oct. 29, 2002, [116 Stat. 1719][/us/stat/116/1719], § 152604; renumbered § 90104, [Pub. L. 113–237][/us/pl/113/237], § 3(c)(6)(B), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/107/252/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs601%2Fa
+[/us/pl/107/252/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVI
 [/us/stat/116/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1719
-[/us/pl/113/237/s3/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FB
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/usc/t36/s152604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152604

@@ -23,7 +23,7 @@
 
     (3) carry out the recommendations of the President’s Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1030][/us/stat/114/1030]; amended [Pub. L. 109–284, § 5(4)][/us/pl/109/284/s5/4], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 113–237, § 3(c)(2)][/us/pl/113/237/s3/c/2], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+(Added [Pub. L. 106–292][/us/pl/106/292], § 1, Oct. 12, 2000, [114 Stat. 1030][/us/stat/114/1030]; amended [Pub. L. 109–284][/us/pl/109/284], § 5(4), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 113–237][/us/pl/113/237], § 3(c)(2), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Transfer of Auditors West Building (Annex 3); Responsibility for Repairs and Alterations__ 
 
-[Pub. L. 101–45, title II][/us/pl/101/45], June 30, 1989, [103 Stat. 125][/us/stat/103/125], provided that:
+[Pub. L. 101–45, title II][/us/pl/101/45/tII], June 30, 1989, [103 Stat. 125][/us/stat/103/125], provided that:
 
 >     “Notwithstanding any other provision of law, the Administrator of General Services (Administrator) shall transfer to the administrative jurisdiction of the Holocaust Memorial Council (Council), without consideration, the Auditors West Building (Annex 3) located at Raoul Wallenberg Place and Independence Avenue Southwest, Washington, District of Columbia.
 
@@ -53,18 +53,18 @@
 ----------
 
 [/us/usc/t36/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2304
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/stat/114/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1030
-[/us/pl/109/284/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F4
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
-[/us/pl/113/237/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F2
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1277
 [/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
-[/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
+[/us/pl/101/45/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2FtII
 [/us/stat/103/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F125
 
 

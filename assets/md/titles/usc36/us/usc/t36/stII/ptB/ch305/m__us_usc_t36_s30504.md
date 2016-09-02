@@ -27,7 +27,7 @@
 
     (2) she is living in the United States or is a citizen of the United States living outside the United States.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1320][/us/stat/112/1320]; [Pub. L. 112–65, § 1][/us/pl/112/65/s1], Dec. 13, 2011, [125 Stat. 767][/us/stat/125/767].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1320][/us/stat/112/1320]; [Pub. L. 112–65][/us/pl/112/65], § 1, Dec. 13, 2011, [125 Stat. 767][/us/stat/125/767].)
 
 <table>
 
@@ -79,11 +79,11 @@ July 14, 1960, Pub. L. 86–653, § 5 (1st sentence), 74 Stat. 516.  </td>
 
  __Amendments__ 
 
-    2011—Par. (1). [Pub. L. 112–65, § 1(1)(A)][/us/pl/112/65/s1/1/A], substituted “she is a mother (meaning a woman who filled the role of birthmother, adoptive mother, step-mother, foster-mother, grandmother, or legal guardian) of a person who—” for “she is a mother, adoptive mother, or stepmother (who has given a mother’s care at least since the stepchild was age 13) of a son or daughter who—” in introductory provisions.
+    2011—Par. (1). [Pub. L. 112–65][/us/pl/112/65], § 1(1)(A), substituted “she is a mother (meaning a woman who filled the role of birthmother, adoptive mother, step-mother, foster-mother, grandmother, or legal guardian) of a person who—” for “she is a mother, adoptive mother, or stepmother (who has given a mother’s care at least since the stepchild was age 13) of a son or daughter who—” in introductory provisions.
 
-    Par. (1)(B). [Pub. L. 112–65, § 1(1)(B)][/us/pl/112/65/s1/1/B], struck out “in World War II or the Korean hostilities” after “Armed Forces”.
+    Par. (1)(B). [Pub. L. 112–65][/us/pl/112/65], § 1(1)(B), struck out “in World War II or the Korean hostilities” after “Armed Forces”.
 
-    Par. (2). [Pub. L. 112–65, § 1(2)][/us/pl/112/65/s1/2], inserted “or is a citizen of the United States living outside the United States” before period at end.
+    Par. (2). [Pub. L. 112–65][/us/pl/112/65], § 1(2), inserted “or is a citizen of the United States living outside the United States” before period at end.
 
 ----------
 
@@ -94,10 +94,10 @@ July 14, 1960, Pub. L. 86–653, § 5 (1st sentence), 74 Stat. 516.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1320
-[/us/pl/112/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65%2Fs1
+[/us/pl/112/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65
 [/us/stat/125/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F767
-[/us/pl/112/65/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65%2Fs1%2F1%2FA
-[/us/pl/112/65/s1/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65%2Fs1%2F1%2FB
-[/us/pl/112/65/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65%2Fs1%2F2
+[/us/pl/112/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65
+[/us/pl/112/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65
+[/us/pl/112/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F65
 
 

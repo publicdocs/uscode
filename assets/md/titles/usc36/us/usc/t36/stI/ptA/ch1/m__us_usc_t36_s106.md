@@ -31,7 +31,7 @@
 
     The civil and educational authorities of States, counties, cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1255][/us/stat/112/1255]; [Pub. L. 108–447, div. J, title I, § 111(c)(1)][/us/pl/108/447/s111/c/1], Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1255][/us/stat/112/1255]; [Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 111(c)(1), Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344].)
 
 <table>
 
@@ -131,19 +131,19 @@ Feb. 29, 1952, ch. 49, § 1, 66 Stat. 9.  </td>
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–447, § 111(c)(1)(A)][/us/pl/108/447/s111/c/1/A], inserted “Constitution Day and” before “Citizenship Day” in section catchline.
+    2004—[Pub. L. 108–447][/us/pl/108/447], § 111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–447, § 111(c)(1)(B)][/us/pl/108/447/s111/c/1/B], substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
+    Subsec. (a). [Pub. L. 108–447][/us/pl/108/447], § 111(c)(1)(B), substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
 
-    Subsec. (b). [Pub. L. 108–447, § 111(c)(1)(C)][/us/pl/108/447/s111/c/1/C], inserted “Constitution Day and” before “Citizenship Day” and substituted “commemorate” for “commemorates” and “recognize” for “recognizes”.
+    Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 111(c)(1)(C), inserted “Constitution Day and” before “Citizenship Day” and substituted “commemorate” for “commemorates” and “recognize” for “recognizes”.
 
-    Subsec. (c). [Pub. L. 108–447, § 111(c)(1)(D)][/us/pl/108/447/s111/c/1/D], inserted “Constitution Day and” before “Citizenship Day” in two places.
+    Subsec. (c). [Pub. L. 108–447][/us/pl/108/447], § 111(c)(1)(D), inserted “Constitution Day and” before “Citizenship Day” in two places.
 
-    Subsec. (d). [Pub. L. 108–447, § 111(c)(1)(E)][/us/pl/108/447/s111/c/1/E], inserted “Constitution Day and” before “Citizenship Day”.
+    Subsec. (d). [Pub. L. 108–447][/us/pl/108/447], § 111(c)(1)(E), inserted “Constitution Day and” before “Citizenship Day”.
 
  __Educational and Training Materials for New Federal Employees Concerning the U.S. Constitution__ 
 
-[Pub. L. 108–447, div. J, title I, § 111][/us/pl/108/447/s111], Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344], provided that:
+[Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 111, Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344], provided that:
 
 >     “(a)
 
@@ -168,14 +168,14 @@ Feb. 29, 1952, ch. 49, § 1, 66 Stat. 9.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1255
-[/us/pl/108/447/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3344
-[/us/pl/108/447/s111/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1%2FA
-[/us/pl/108/447/s111/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1%2FB
-[/us/pl/108/447/s111/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1%2FC
-[/us/pl/108/447/s111/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1%2FD
-[/us/pl/108/447/s111/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F1%2FE
-[/us/pl/108/447/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3344
 [/us/usc/t36/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs106
 

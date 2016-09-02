@@ -23,7 +23,7 @@
 
     As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the Secretary of State or other designated official of each State, territory, or possession of the United States in which a subordinate association or chapter is organized, the name and address of an agent in that State, territory, or possession on whom legal process or demands against the corporation may be served.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1359][/us/stat/112/1359]; [Pub. L. 109–284, § 5(7)][/us/pl/109/284/s5/7], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1359][/us/stat/112/1359]; [Pub. L. 109–284][/us/pl/109/284], § 5(7), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -104,7 +104,7 @@ Aug. 30, 1950, ch. 823, §§ 5 (2d, last sentences), 17, 64 Stat. 565, 567.  <
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1359
-[/us/pl/109/284/s5/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F7
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

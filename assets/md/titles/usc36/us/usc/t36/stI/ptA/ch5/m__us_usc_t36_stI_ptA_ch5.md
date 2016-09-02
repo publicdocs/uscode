@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 5(1)][/us/pl/109/284/s5/1], (2), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], added item 510 and redesignated former item 510 as 511.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 5(1), (2), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], added item 510 and redesignated former item 510 as 511.
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/109/284/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F1
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
 
 

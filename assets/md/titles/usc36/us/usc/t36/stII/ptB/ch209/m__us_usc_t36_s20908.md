@@ -35,7 +35,7 @@
 
     The corporation may not claim congressional approval or the authority of the United States Government for any of its activities.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1291][/us/stat/112/1291]; [Pub. L. 109–284, § 5(5)][/us/pl/109/284/s5/5], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1291][/us/stat/112/1291]; [Pub. L. 109–284][/us/pl/109/284], § 5(5), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -166,7 +166,7 @@ Aug. 10, 1982, Pub. L. 97–234, § 8(a)–(e), 96 Stat. 262.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1291
-[/us/pl/109/284/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F5
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

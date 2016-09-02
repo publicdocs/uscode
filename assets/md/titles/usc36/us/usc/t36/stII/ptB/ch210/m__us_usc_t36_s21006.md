@@ -17,7 +17,7 @@
 
     The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
-(Added [Pub. L. 105–354, § 1(5)(A)][/us/pl/105/354/s1/5/A], Nov. 3, 1998, [112 Stat. 3243][/us/stat/112/3243].)
+(Added [Pub. L. 105–354][/us/pl/105/354], § 1(5)(A), Nov. 3, 1998, [112 Stat. 3243][/us/stat/112/3243].)
 
 <table>
 
@@ -74,7 +74,7 @@ Aug. 13, 1998, Pub. L. 105–231, § 2, 112 Stat. 1530.  </td>
 ----------
 ----------
 
-[/us/pl/105/354/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F5%2FA
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3243
 
 

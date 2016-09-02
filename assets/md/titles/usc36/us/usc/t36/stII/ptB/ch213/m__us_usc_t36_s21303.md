@@ -75,7 +75,7 @@ Jan. 4, 1889, ch. 20, (2d sentence), 25 Stat. 640; July 3, 1957, Pub. L. 85–83
 
  __Tax Exemption of Real Property__ 
 
-[Pub. L. 85–83, § 2][/us/pl/85/83/s2], July 3, 1957, [71 Stat. 277][/us/stat/71/277], provided that: 
+[Pub. L. 85–83][/us/pl/85/83], § 2, July 3, 1957, [71 Stat. 277][/us/stat/71/277], provided that: 
 
 > “The real property situated in Square 817, in the city of Washington, District of Columbia, described as lot 23, owned, occupied, and used by the American Historical Association, is exempt from all taxation so long as the same is so owned and occupied, and not used for commercial purposes, subject to the provisions of sections 2, 3, and 5 of the Act entitled ‘An Act to define the real property exempt from taxation in the District of Columbia’, approved December 24, 1942 ([56 Stat. 1089][/us/stat/56/1089]; D.C. Code, secs. 47–801b, 47–801c, and 47–801e).”
 
@@ -88,7 +88,7 @@ Jan. 4, 1889, ch. 20, (2d sentence), 25 Stat. 640; July 3, 1957, Pub. L. 85–83
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1295
-[/us/pl/85/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F83%2Fs2
+[/us/pl/85/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F83
 [/us/stat/71/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F277
 [/us/stat/56/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1089
 

@@ -43,7 +43,7 @@
 
     (2) was honorably discharged or separated from that service or continues to serve honorably during or after that period.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1297][/us/stat/112/1297]; [Pub. L. 105–354, § 1(6)][/us/pl/105/354/s1/6], Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 107–309, § 1][/us/pl/107/309/s1], Dec. 2, 2002, [116 Stat. 2449][/us/stat/116/2449].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1297][/us/stat/112/1297]; [Pub. L. 105–354][/us/pl/105/354], § 1(6), Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 107–309][/us/pl/107/309], § 1, Dec. 2, 2002, [116 Stat. 2449][/us/stat/116/2449].)
 
 <table>
 
@@ -122,9 +122,9 @@ Sept. 16, 1919, ch. 59, § 5, 41 Stat. 285; Oct. 29, 1942, ch. 633, § 2, 56
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1297
-[/us/pl/105/354/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F6
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3244
-[/us/pl/107/309/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F309%2Fs1
+[/us/pl/107/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F309
 [/us/stat/116/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2449
 [/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/usc/t36/s21703/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs21703%2F1%2FA%2Fiv

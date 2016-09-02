@@ -33,7 +33,7 @@
 
     (5) To assist the Department of the Air Force in fulfilling its noncombat programs and missions.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1331][/us/stat/112/1331]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–299.)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1331][/us/stat/112/1331]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–299.)
 
 <table>
 
@@ -87,17 +87,17 @@ July 1, 1946, ch. 527, § 2, 60 Stat. 346.  </td>
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(A)\], substituted “as follows:” for “to—” in introductory provisions.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(A)\], substituted “as follows:” for “to—” in introductory provisions.
 
-    Par. (1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(B), (C)\], inserted “To” before “provide” in introductory provisions and substituted a period for the semicolon at the end of subpar. (B).
+    Par. (1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(B), (C)\], inserted “To” before “provide” in introductory provisions and substituted a period for the semicolon at the end of subpar. (B).
 
-    Par. (2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(B), (C)\], inserted “To” before “provide” and substituted a period for the semicolon at the end.
+    Par. (2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(B), (C)\], inserted “To” before “provide” and substituted a period for the semicolon at the end.
 
-    Par. (3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(B), (D)\], inserted “To” before “encourage” and substituted a period for “; and” at the end.
+    Par. (3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(B), (D)\], inserted “To” before “encourage” and substituted a period for “; and” at the end.
 
-    Par. (4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(B)\], inserted “To” before “provide”.
+    Par. (4). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(B)\], inserted “To” before “provide”.
 
-    Par. (5). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(1)(E)\], added par. (5).
+    Par. (5). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(1)(E)\], added par. (5).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -112,14 +112,14 @@ July 1, 1946, ch. 527, § 2, 60 Stat. 346.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1331
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s9441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9441

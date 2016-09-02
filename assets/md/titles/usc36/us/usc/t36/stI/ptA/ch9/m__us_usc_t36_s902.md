@@ -97,7 +97,7 @@
 
     This section may not be construed or applied so as to require any employee to report to work solely for the purpose of providing for the display of the POW/MIA flag.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1268][/us/stat/112/1268]; [Pub. L. 105–354, § 1(1)][/us/pl/105/354/s1/1], Nov. 3, 1998, [112 Stat. 3238][/us/stat/112/3238]; [Pub. L. 107–323, § 2(a)][/us/pl/107/323/s2/a], (b), Dec. 4, 2002, [116 Stat. 2787][/us/stat/116/2787].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1268][/us/stat/112/1268]; [Pub. L. 105–354][/us/pl/105/354], § 1(1), Nov. 3, 1998, [112 Stat. 3238][/us/stat/112/3238]; [Pub. L. 107–323][/us/pl/107/323], § 2(a), (b), Dec. 4, 2002, [116 Stat. 2787][/us/stat/116/2787].)
 
 <table>
 
@@ -201,9 +201,9 @@ Dec. 5, 1991, Pub. L. 102–190, title X, § 1084(d), 105 Stat. 1483.  </td>
 
  __Amendments__ 
 
-    2002—Subsec. (c)(2). [Pub. L. 107–323, § 2(b)][/us/pl/107/323/s2/b], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    2002—Subsec. (c)(2). [Pub. L. 107–323][/us/pl/107/323], § 2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-    Subsec. (d)(3). [Pub. L. 107–323, § 2(a)][/us/pl/107/323/s2/a], substituted “The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial” for “The Korean War Veterans Memorial and the Vietnam Veterans Memorial”.
+    Subsec. (d)(3). [Pub. L. 107–323][/us/pl/107/323], § 2(a), substituted “The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial” for “The Korean War Veterans Memorial and the Vietnam Veterans Memorial”.
 
     1998—Subsecs. (b) to (g). [Pub. L. 105–354][/us/pl/105/354] added subsecs. (b) to (g) and struck out former subsecs. (b) and (c) which read as follows:
 
@@ -217,7 +217,7 @@ Dec. 5, 1991, Pub. L. 102–190, title X, § 1084(d), 105 Stat. 1483.  </td>
 
  __Display on Existing Flagpole__ 
 
-[Pub. L. 107–323, § 2(c)][/us/pl/107/323/s2/c], Dec. 4, 2002, [116 Stat. 2788][/us/stat/116/2788], provided that: 
+[Pub. L. 107–323][/us/pl/107/323], § 2(c), Dec. 4, 2002, [116 Stat. 2788][/us/stat/116/2788], provided that: 
 
 > “No element of the United States Government may construe the amendments made by this section \[amending this section\] as requiring the acquisition of \[sic\] erection of a new or additional flagpole for purposes of the display of the POW/MIA flag.”
 
@@ -231,9 +231,9 @@ Dec. 5, 1991, Pub. L. 102–190, title X, § 1084(d), 105 Stat. 1483.  </td>
 [/us/stat/103/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2533
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1268
-[/us/pl/105/354/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F1
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3238
-[/us/pl/107/323/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323%2Fs2%2Fa
+[/us/pl/107/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323
 [/us/stat/116/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2787
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/stat/105/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1483
@@ -246,10 +246,10 @@ Dec. 5, 1991, Pub. L. 102–190, title X, § 1084(d), 105 Stat. 1483.  </td>
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/190/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1084
 [/us/usc/t36/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs902
-[/us/pl/107/323/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323%2Fs2%2Fb
-[/us/pl/107/323/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323%2Fs2%2Fa
+[/us/pl/107/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323
+[/us/pl/107/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323
 [/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
-[/us/pl/107/323/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323%2Fs2%2Fc
+[/us/pl/107/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F323
 [/us/stat/116/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2788
 
 

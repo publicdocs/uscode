@@ -29,7 +29,7 @@
 
         (3) the people of the United States to observe a moment of silence on Patriot Day in honor of the individuals who lost their lives as a result of the terrorist attacks against the United States that occurred on September 11, 2001.
 
-(Added [Pub. L. 107–89, § 1][/us/pl/107/89/s1], Dec. 18, 2001, [115 Stat. 876][/us/stat/115/876].)
+(Added [Pub. L. 107–89][/us/pl/107/89], § 1, Dec. 18, 2001, [115 Stat. 876][/us/stat/115/876].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/107/89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89%2Fs1
+[/us/pl/107/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89
 [/us/stat/115/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F876
 
 

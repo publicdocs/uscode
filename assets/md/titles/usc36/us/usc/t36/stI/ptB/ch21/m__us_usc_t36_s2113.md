@@ -83,7 +83,7 @@
 
     Notwithstanding [section 8903(e) of title 40][/us/usc/t40/s8903/e], the authority for the construction of the World War II memorial provided by [Public Law 103–32][/us/pl/103/32] ([40 U.S.C. 8903][/us/usc/t40/s8903] note) expires on December 31, 2005.
 
-(Added [Pub. L. 106–117, title VI, § 601(a)(1)][/us/pl/106/117/s601/a/1], Nov. 30, 1999, [113 Stat. 1576][/us/stat/113/1576]; amended [Pub. L. 108–178, § 4(h)][/us/pl/108/178/s4/h], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
+(Added [Pub. L. 106–117, title VI][/us/pl/106/117/tVI], § 601(a)(1), Nov. 30, 1999, [113 Stat. 1576][/us/stat/113/1576]; amended [Pub. L. 108–178][/us/pl/108/178], § 4(h), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
 
  __References in Text__ 
 
@@ -91,13 +91,13 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a)(2). [Pub. L. 108–178, § 4(h)(1)][/us/pl/108/178/s4/h/1], substituted “([40 U.S.C. 8903][/us/usc/t40/s8903] note)” for “([40 U.S.C. 1003][/us/usc/t40/s1003] note)”.
+    2003—Subsec. (a)(2). [Pub. L. 108–178][/us/pl/108/178], § 4(h)(1), substituted “([40 U.S.C. 8903][/us/usc/t40/s8903] note)” for “([40 U.S.C. 1003][/us/usc/t40/s1003] note)”.
 
-    Subsec. (c)(1). [Pub. L. 108–178, § 4(h)(2)][/us/pl/108/178/s4/h/2], substituted “[section 8906(b) of title 40][/us/usc/t40/s8906/b]” for “section 8(b) of the Commemorative Works Act ([40 U.S.C. 1008(b)][/us/usc/t40/s1008/b])”.
+    Subsec. (c)(1). [Pub. L. 108–178][/us/pl/108/178], § 4(h)(2), substituted “[section 8906(b) of title 40][/us/usc/t40/s8906/b]” for “section 8(b) of the Commemorative Works Act ([40 U.S.C. 1008(b)][/us/usc/t40/s1008/b])”.
 
-    Subsec. (e). [Pub. L. 108–178, § 4(h)(3)][/us/pl/108/178/s4/h/3], substituted “[section 8906 of title 40][/us/usc/t40/s8906]” for “section 8 of the Commemorative Works Act ([40 U.S.C. 1008][/us/usc/t40/s1008])”.
+    Subsec. (e). [Pub. L. 108–178][/us/pl/108/178], § 4(h)(3), substituted “[section 8906 of title 40][/us/usc/t40/s8906]” for “section 8 of the Commemorative Works Act ([40 U.S.C. 1008][/us/usc/t40/s1008])”.
 
-    Subsec. (h). [Pub. L. 108–178, § 4(h)(4)][/us/pl/108/178/s4/h/4], substituted “[section 8903(e) of title 40][/us/usc/t40/s8903/e]” for “section 10 of the Commemorative Works Act ([40 U.S.C. 1010][/us/usc/t40/s1010])” and “([40 U.S.C. 8903][/us/usc/t40/s8903] note)” for “([40 U.S.C. 1003][/us/usc/t40/s1003] note)”.
+    Subsec. (h). [Pub. L. 108–178][/us/pl/108/178], § 4(h)(4), substituted “[section 8903(e) of title 40][/us/usc/t40/s8903/e]” for “section 10 of the Commemorative Works Act ([40 U.S.C. 1010][/us/usc/t40/s1010])” and “([40 U.S.C. 8903][/us/usc/t40/s8903] note)” for “([40 U.S.C. 1003][/us/usc/t40/s1003] note)”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -105,7 +105,7 @@
 
  __Effect of Repeal of Current Memorial Fund__ 
 
-[Pub. L. 106–117, title VI, § 601(c)][/us/pl/106/117/s601/c], Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], provided that: 
+[Pub. L. 106–117, title VI][/us/pl/106/117/tVI], § 601(c), Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], provided that: 
 
 > “Upon the enactment of this Act \[Nov. 30, 1999\], the Secretary of the Treasury shall transfer amounts in the fund created by [section 4(a) of Public Law 103–32][/us/pl/103/32/s4/a] ([40 U.S.C. 1003][/us/usc/t40/s1003] note) \[now [40 U.S.C. 8903][/us/usc/t40/s8903] note\] to the fund created by [section 2113(b) of title 36][/us/usc/t36/s2113/b], United States Code, as added by subsection (a).”
 
@@ -129,23 +129,23 @@
 [/us/usc/t40/s8903/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903%2Fe
 [/us/pl/103/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F32
 [/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
-[/us/pl/106/117/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs601%2Fa%2F1
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1576
-[/us/pl/108/178/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fh
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
 [/us/pl/102/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F414
 [/us/stat/106/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2106
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/108/178/s4/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fh%2F1
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
 [/us/usc/t40/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1003
-[/us/pl/108/178/s4/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fh%2F2
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s8906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906%2Fb
 [/us/usc/t40/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1008%2Fb
-[/us/pl/108/178/s4/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fh%2F3
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s8906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906
 [/us/usc/t40/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1008
-[/us/pl/108/178/s4/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fh%2F4
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s8903/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903%2Fe
 [/us/usc/t40/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1010
 [/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
@@ -153,7 +153,7 @@
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/106/117/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs601%2Fc
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1578
 [/us/pl/103/32/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F32%2Fs4%2Fa
 [/us/usc/t40/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1003

@@ -43,7 +43,7 @@
 
     (13) function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1329][/us/stat/112/1329]; [Pub. L. 109–284, § 5(6)][/us/pl/109/284/s5/6], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1329][/us/stat/112/1329]; [Pub. L. 109–284][/us/pl/109/284], § 5(6), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -106,7 +106,7 @@ Aug. 17, 1984, Pub. L. 98–382, § 3, 98 Stat. 1343.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1329
-[/us/pl/109/284/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F6
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

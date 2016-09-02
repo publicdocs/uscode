@@ -35,7 +35,7 @@
 
     An individual may be employed as the superintendent, or as an assistant superintendent, of a cemetery operated by the Commission only if the individual is a citizen of the United States.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1269][/us/stat/112/1269]; [Pub. L. 105–354, § 1(2)][/us/pl/105/354/s1/2], Nov. 3, 1998, [112 Stat. 3239][/us/stat/112/3239]; [Pub. L. 106–117, title VI, § 604(2)][/us/pl/106/117/s604/2], Nov. 30, 1999, [113 Stat. 1580][/us/stat/113/1580].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1269][/us/stat/112/1269]; [Pub. L. 105–354][/us/pl/105/354], § 1(2), Nov. 3, 1998, [112 Stat. 3239][/us/stat/112/3239]; [Pub. L. 106–117, title VI][/us/pl/106/117/tVI], § 604(2), Nov. 30, 1999, [113 Stat. 1580][/us/stat/113/1580].)
 
 <table>
 
@@ -169,9 +169,9 @@ Subsections (b) and (c) are based in part on 36:121b and 122a, which are from th
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1269
-[/us/pl/105/354/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F2
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3239
-[/us/pl/106/117/s604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs604%2F2
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1580
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/stat/110/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2907

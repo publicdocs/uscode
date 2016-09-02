@@ -43,7 +43,7 @@
 
     [Section 203 of title 17][/us/usc/t17/s203] shall not apply to any copyright transferred in any manner to the Commission.
 
-(Added [Pub. L. 106–117, title VI, § 603(a)][/us/pl/106/117/s603/a], Nov. 30, 1999, [113 Stat. 1579][/us/stat/113/1579].)
+(Added [Pub. L. 106–117, title VI][/us/pl/106/117/tVI], § 603(a), Nov. 30, 1999, [113 Stat. 1579][/us/stat/113/1579].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t17/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs105
 [/us/usc/t17/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs203
-[/us/pl/106/117/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs603%2Fa
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1579
 
 

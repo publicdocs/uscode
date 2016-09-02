@@ -17,7 +17,7 @@
 
     The tree genus Quercus, commonly known as the oak tree, is the national tree.
 
-(Added [Pub. L. 108–447, div. J, title I, § 109(a)][/us/pl/108/447/s109/a], Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344].)
+(Added [Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 109(a), Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs109%2Fa
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3344
 
 

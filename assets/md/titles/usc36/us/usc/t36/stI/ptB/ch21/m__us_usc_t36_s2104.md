@@ -77,7 +77,7 @@ Mar. 4, 1923, ch. 283, § 2, as added July 25, 1956, ch. 721, § 3(a), 70 St
 
  __Restoration, Operation, and Maintenance of Clark Veterans Cemetery__ 
 
-[Pub. L. 112–260, title I, § 106][/us/pl/112/260/s106], Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421], provided that:
+[Pub. L. 112–260, title I][/us/pl/112/260/tI], § 106, Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -104,7 +104,7 @@ Mar. 4, 1923, ch. 283, § 2, as added July 25, 1956, ch. 721, § 3(a), 70 St
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1271
-[/us/pl/112/260/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs106
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2421
 [/us/usc/t36/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2104
 

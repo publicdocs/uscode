@@ -139,7 +139,7 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–117, title VI][/us/pl/106/117], §§ 601(a)(2), 603(b), Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], 1579, added items 2113 and 2114.
+    1999—[Pub. L. 106–117, title VI][/us/pl/106/117/tVI], §§ 601(a)(2), 603(b), Nov. 30, 1999, [113 Stat. 1578][/us/stat/113/1578], 1579, added items 2113 and 2114.
 
 ----------
 
@@ -148,7 +148,7 @@
 ----------
 ----------
 
-[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1578
 
 

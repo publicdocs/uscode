@@ -39,7 +39,7 @@
 
     The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441e(b)][/us/usc/t2/s441e/b])). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 107–155, title III, § 308(a)(2)][/us/pl/107/155/s308/a/2], Mar. 27, 2002, [116 Stat. 103][/us/stat/116/103].)
+(Added [Pub. L. 107–155, title III][/us/pl/107/155/tIII], § 308(a)(2), Mar. 27, 2002, [116 Stat. 103][/us/stat/116/103].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t2/s441e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441e%2Fb
-[/us/pl/107/155/s308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs308%2Fa%2F2
+[/us/pl/107/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2FtIII
 [/us/stat/116/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F103
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3

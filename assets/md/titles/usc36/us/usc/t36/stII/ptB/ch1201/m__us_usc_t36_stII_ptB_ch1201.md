@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–254, § 1(a)][/us/pl/110/254/s1/a], June 30, 2008, [122 Stat. 2419][/us/stat/122/2419], substituted chapter heading and table of sections consisting of items 120101 to 120112 for “\[RESERVED\]”.
+    2008—[Pub. L. 110–254][/us/pl/110/254], § 1(a), June 30, 2008, [122 Stat. 2419][/us/stat/122/2419], substituted chapter heading and table of sections consisting of items 120101 to 120112 for “\[RESERVED\]”.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/110/254/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F254%2Fs1%2Fa
+[/us/pl/110/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F254
 [/us/stat/122/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2419
 
 

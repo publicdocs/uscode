@@ -35,7 +35,7 @@
 
     (9) do any other act necessary and proper to carry out the purposes of the corporation.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1297][/us/stat/112/1297]; [Pub. L. 112–66, § 1][/us/pl/112/66/s1], Dec. 13, 2011, [125 Stat. 768][/us/stat/125/768].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1297][/us/stat/112/1297]; [Pub. L. 112–66][/us/pl/112/66], § 1, Dec. 13, 2011, [125 Stat. 768][/us/stat/125/768].)
 
 <table>
 
@@ -126,7 +126,7 @@ Sept. 16, 1919, ch. 59, § 7, 41 Stat. 285.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1297
-[/us/pl/112/66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F66%2Fs1
+[/us/pl/112/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F66
 [/us/stat/125/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F768
 [/us/pl/112/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F66
 

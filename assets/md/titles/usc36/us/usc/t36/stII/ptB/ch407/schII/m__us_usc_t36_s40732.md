@@ -37,7 +37,7 @@
 
             (B) a violation of [section 922 of title 18][/us/usc/t18/s922].
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1340][/us/stat/112/1340]; [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(C)][/us/pl/114/92/s1087/a/2/C], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1340][/us/stat/112/1340]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1087(a)(2)(C), Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
 <table>
 
@@ -161,7 +161,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 1087(a)(2)(C)(i)][/us/pl/114/92/s1087/a/2/C/i], substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(C)(i), substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
 
     Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles” and “is legally of age” for “is over 18 years of age”.
 
@@ -176,9 +176,9 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1340
-[/us/pl/114/92/s1087/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FC
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
-[/us/pl/114/92/s1087/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FC%2Fi
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

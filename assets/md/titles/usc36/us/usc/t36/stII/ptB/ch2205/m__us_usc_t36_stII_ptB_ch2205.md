@@ -211,9 +211,9 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 5(12)][/us/pl/109/284/s5/12], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212], substituted “Short title and definitions” for “Definitions” in item 220501.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 5(12), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212], substituted “Short title and definitions” for “Definitions” in item 220501.
 
-    1998—[Pub. L. 105–277, div. C][/us/pl/105/277]. title I, § 142(j)(2), (k)(2), Oct. 21, 1998, [112 Stat. 2681–606][/us/stat/112/2681-606], 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
+    1998—[Pub. L. 105–277, div. C][/us/pl/105/277/dC]. title I, § 142(j)(2), (k)(2), Oct. 21, 1998, [112 Stat. 2681–606][/us/stat/112/2681-606], 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
 
 ----------
 
@@ -222,9 +222,9 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 ----------
 ----------
 
-[/us/pl/109/284/s5/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F12
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-606
 
 

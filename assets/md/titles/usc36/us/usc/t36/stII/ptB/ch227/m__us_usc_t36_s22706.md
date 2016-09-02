@@ -17,7 +17,7 @@
 
     The corporation and its State, regional, and local subdivisions have the exclusive right to use the name “AMVETS (American Veterans)” and seals, emblems, and badges the corporation adopts.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1308][/us/stat/112/1308]; [Pub. L. 107–241, § 1(a)(1)][/us/pl/107/241/s1/a/1], Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1308][/us/stat/112/1308]; [Pub. L. 107–241][/us/pl/107/241], § 1(a)(1), Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
 
 <table>
 
@@ -80,7 +80,7 @@ July 23, 1947, ch. 298, § 17, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, �
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1308
-[/us/pl/107/241/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241%2Fs1%2Fa%2F1
+[/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 [/us/stat/116/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1496
 [/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 

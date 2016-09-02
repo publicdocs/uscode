@@ -17,7 +17,7 @@
 
     To carry out the purposes of this chapter, there are authorized to be appropriated such sums as may be necessary. Notwithstanding any other provision of law, none of the funds authorized to carry out this chapter may be made available for construction. Authority to enter into contracts and to make payments under this chapter, using funds authorized to be appropriated under this chapter, shall be effective only to the extent, and in such amounts, as provided in advance in appropriations Acts.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1034][/us/stat/114/1034].)
+(Added [Pub. L. 106–292][/us/pl/106/292], § 1, Oct. 12, 2000, [114 Stat. 1034][/us/stat/114/1034].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/stat/114/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1034
 
 

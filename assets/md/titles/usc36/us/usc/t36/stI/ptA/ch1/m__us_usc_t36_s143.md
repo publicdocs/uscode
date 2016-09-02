@@ -109,7 +109,7 @@ Dec. 17, 1963, Pub. L. 88–209, 77 Stat. 402.  </td>
 
  __Centennial of Flight Commemoration Act__ 
 
-    [Pub. L. 105–389][/us/pl/105/389], Nov. 13, 1998, [112 Stat. 3486][/us/stat/112/3486], as amended by [Pub. L. 106–68, § 1][/us/pl/106/68/s1], Oct. 6, 1999, [113 Stat. 981][/us/stat/113/981], known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.
+    [Pub. L. 105–389][/us/pl/105/389], Nov. 13, 1998, [112 Stat. 3486][/us/stat/112/3486], as amended by [Pub. L. 106–68][/us/pl/106/68], § 1, Oct. 6, 1999, [113 Stat. 981][/us/stat/113/981], known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.
 
 ----------
 
@@ -122,7 +122,7 @@ Dec. 17, 1963, Pub. L. 88–209, 77 Stat. 402.  </td>
 [/us/stat/112/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1262
 [/us/pl/105/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F389
 [/us/stat/112/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3486
-[/us/pl/106/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F68%2Fs1
+[/us/pl/106/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F68
 [/us/stat/113/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F981
 
 

@@ -17,7 +17,7 @@
 
     The headquarters and principal place of business of the corporation shall be in Maryland. However, the activities of the corporation are not confined to Maryland but may be conducted throughout the States, territories, and possessions of the United States.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1308][/us/stat/112/1308]; [Pub. L. 107–241, § 1(c)][/us/pl/107/241/s1/c], Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1308][/us/stat/112/1308]; [Pub. L. 107–241][/us/pl/107/241], § 1(c), Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496].)
 
 <table>
 
@@ -80,7 +80,7 @@ July 23, 1947, ch. 298, § 5(4), 61 Stat. 406.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1308
-[/us/pl/107/241/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241%2Fs1%2Fc
+[/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 [/us/stat/116/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1496
 [/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 

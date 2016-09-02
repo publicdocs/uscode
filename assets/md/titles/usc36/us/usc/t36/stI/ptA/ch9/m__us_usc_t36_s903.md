@@ -23,11 +23,11 @@
 
     The Medal of Honor Flag shall be presented as specified in sections 3755, 6257, and 8755 of title 10 and [section 505 of title 14][/us/usc/t14/s505].
 
-(Added [Pub. L. 107–248, title VIII, § 8143(b)(1)][/us/pl/107/248/s8143/b/1], Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570].)
+(Added [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(b)(1), Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570].)
 
  __Findings__ 
 
-[Pub. L. 107–248, title VIII, § 8143(a)][/us/pl/107/248/s8143/a], Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], provided that: 
+[Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(a), Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], provided that: 
 
 > “Congress finds that—
 
@@ -41,7 +41,7 @@
 
  __Presentation of Medal of Honor Flag__ 
 
-[Pub. L. 107–248, title VIII, § 8143(d)][/us/pl/107/248/s8143/d], Oct. 23, 2002, [116 Stat. 1571][/us/stat/116/1571], provided that: 
+[Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(d), Oct. 23, 2002, [116 Stat. 1571][/us/stat/116/1571], provided that: 
 
 > “The President shall provide for the presentation of the Medal of Honor Flag designated under [section 903 of title 36][/us/usc/t36/s903], United States Code, as added by subsection (b), to each person awarded the Medal of Honor before the date of enactment of this Act \[Oct. 23, 2002\] who is living as of that date. Such presentation shall be made as expeditiously as possible after the date of the designation of the Medal of Honor Flag by the Secretary of Defense under such section.”
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t14/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs505
-[/us/pl/107/248/s8143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fb%2F1
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1570
-[/us/pl/107/248/s8143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fa
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1570
-[/us/pl/107/248/s8143/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fd
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1571
 [/us/usc/t36/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs903
 

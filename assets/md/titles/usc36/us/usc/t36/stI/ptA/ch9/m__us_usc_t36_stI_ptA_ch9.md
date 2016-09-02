@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–248, title VIII, § 8143(b)(2)][/us/pl/107/248/s8143/b/2], Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], added item 903.
+    2002—[Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(b)(2), Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], added item 903.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/107/248/s8143/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fb%2F2
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1570
 
 

@@ -33,7 +33,7 @@
 
     A design for a memorial must be approved by the National Commission of Fine Arts before the Commission can accept it.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1271][/us/stat/112/1271]; [Pub. L. 105–368, title IV, § 403(d)(1)][/us/pl/105/368/s403/d/1], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1271][/us/stat/112/1271]; [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(d)(1), Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339].)
 
 <table>
 
@@ -151,7 +151,7 @@ Mar. 4, 1923, ch. 283, § 4, 42 Stat. 1510; June 26, 1946, ch. 502, 60 Stat. 3
 [/us/usc/t38/s2400/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2400%2Fb
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1271
-[/us/pl/105/368/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F1
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3339
 [/us/usc/t38/s2400/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2400%2Fb
 [/us/usc/t38/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2404

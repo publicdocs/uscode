@@ -33,7 +33,7 @@
 
     The foundation shall carry out its purposes under this section in consultation with the chief election officials of the States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.
 
-(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1718][/us/stat/116/1718], § 152602; renumbered § 90102, [Pub. L. 113–237, § 3(c)(6)(B)][/us/pl/113/237/s3/c/6/B], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+(Added [Pub. L. 107–252, title VI][/us/pl/107/252/tVI], § 601(a), Oct. 29, 2002, [116 Stat. 1718][/us/stat/116/1718], § 152602; renumbered § 90102, [Pub. L. 113–237][/us/pl/113/237], § 3(c)(6)(B), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/107/252/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs601%2Fa
+[/us/pl/107/252/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVI
 [/us/stat/116/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1718
-[/us/pl/113/237/s3/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FB
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237

@@ -25,7 +25,7 @@
 
     (4) An examination of the Federal role in the funding of the Museum and its activities, and any changes that may be warranted.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1033][/us/stat/114/1033].)
+(Added [Pub. L. 106–292][/us/pl/106/292], § 1, Oct. 12, 2000, [114 Stat. 1033][/us/stat/114/1033].)
 
  __Prior Provisions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/stat/114/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1033
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1280

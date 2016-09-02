@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–241, § 1(a)(2)(A)][/us/pl/107/241/s1/a/2/A], Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496], substituted “AMVETS (AMERICAN VETERANS)” for “AMVETS (AMERICAN VETERANS OF WORLD WAR II, KOREA, AND VIETNAM)” in chapter heading.
+    2002—[Pub. L. 107–241][/us/pl/107/241], § 1(a)(2)(A), Oct. 16, 2002, [116 Stat. 1496][/us/stat/116/1496], substituted “AMVETS (AMERICAN VETERANS)” for “AMVETS (AMERICAN VETERANS OF WORLD WAR II, KOREA, AND VIETNAM)” in chapter heading.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/107/241/s1/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241%2Fs1%2Fa%2F2%2FA
+[/us/pl/107/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F241
 [/us/stat/116/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1496
 
 

@@ -71,7 +71,7 @@ July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318.  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(b)(1)][/us/pl/113/237/s3/b/1], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 233 to 299.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(b)(1), Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 233 to 299.
 
 ----------
 
@@ -82,7 +82,7 @@ July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1314
-[/us/pl/113/237/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F1
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

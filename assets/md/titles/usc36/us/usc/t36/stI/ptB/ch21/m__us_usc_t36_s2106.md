@@ -221,7 +221,7 @@ Mar. 4, 1923, ch. 283, § 5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244,
 
  __Maintenance and Repair of Pacific Battle Monuments__ 
 
-[Pub. L. 103–160, div. A, title III, § 369][/us/pl/103/160/s369], Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], provided that:
+[Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 369, Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -241,7 +241,7 @@ Mar. 4, 1923, ch. 283, § 5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244,
 [/us/usc/t36/s2103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2103%2Fe
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1272
-[/us/pl/103/160/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs369
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1634
 
 

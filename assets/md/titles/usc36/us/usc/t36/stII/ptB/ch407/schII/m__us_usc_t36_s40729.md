@@ -31,7 +31,7 @@
 
     This section does not supersede the authority provided in section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 ([Public Law 101–189][/us/pl/101/189]; [10 U.S.C. 372][/us/usc/t10/s372] note).
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1339][/us/stat/112/1339]; [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(B)][/us/pl/114/92/s1087/a/2/B], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1339][/us/stat/112/1339]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1087(a)(2)(B), Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
 <table>
 
@@ -99,15 +99,15 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1616(a), (d), 110 Stat. 519.  
 
  __References in Text__ 
 
-    Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is [section 1208 of Pub. L. 101–189][/us/pl/101/189/s1208], div. A, title XII, Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], as amended, which was set out as a note under [section 372 of Title 10][/us/usc/t10/s372], Armed Forces, and was repealed and restated in [section 2576a of Title 10][/us/usc/t10/s2576a] by [Pub. L. 104–201, div. A, title X, § 1033(a)(1)][/us/pl/104/201/s1033/a/1], (b)(1), Sept. 23, 1996, [110 Stat. 2639][/us/stat/110/2639], 2640.
+    Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is [section 1208 of Pub. L. 101–189][/us/pl/101/189/s1208], div. A, title XII, Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], as amended, which was set out as a note under [section 372 of Title 10][/us/usc/t10/s372], Armed Forces, and was repealed and restated in [section 2576a of Title 10][/us/usc/t10/s2576a] by [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1033(a)(1), (b)(1), Sept. 23, 1996, [110 Stat. 2639][/us/stat/110/2639], 2640.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–92, § 1087(a)(2)(B)(i)][/us/pl/114/92/s1087/a/2/B/i], substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(B)(i), substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.
 
-    Subsec. (a)(2). [Pub. L. 114–92, § 1087(a)(2)(B)(ii)][/us/pl/114/92/s1087/a/2/B/ii], substituted “subsections (a) and (h) of section 40728” for “40728(a)”.
+    Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(B)(ii), substituted “subsections (a) and (h) of section 40728” for “40728(a)”.
 
-    Subsec. (a)(4). [Pub. L. 114–92, § 1087(a)(2)(B)(iii)][/us/pl/114/92/s1087/a/2/B/iii], inserted “and caliber .45 M1911/M1911A1 surplus pistols” after “caliber .30 and caliber .22 rimfire rifles”.
+    Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92], § 1087(a)(2)(B)(iii), inserted “and caliber .45 M1911/M1911A1 surplus pistols” after “caliber .30 and caliber .22 rimfire rifles”.
 
 ----------
 
@@ -122,16 +122,16 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1616(a), (d), 110 Stat. 519.  
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1339
-[/us/pl/114/92/s1087/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FB
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
 [/us/pl/101/189/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1208
 [/us/stat/103/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1566
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
 [/us/usc/t10/s2576a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2576a
-[/us/pl/104/201/s1033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1033%2Fa%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2639
-[/us/pl/114/92/s1087/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FB%2Fi
-[/us/pl/114/92/s1087/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FB%2Fii
-[/us/pl/114/92/s1087/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FB%2Fiii
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

@@ -379,13 +379,13 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–447, div. J, title I, § 111(c)(2)][/us/pl/108/447/s111/c/2], Dec. 8, 2004, [118 Stat. 3345][/us/stat/118/3345], inserted “Constitution Day and” before “Citizenship Day” in item 106.
+    2004—[Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 111(c)(2), Dec. 8, 2004, [118 Stat. 3345][/us/stat/118/3345], inserted “Constitution Day and” before “Citizenship Day” in item 106.
 
-    2001—[Pub. L. 107–89, § 2][/us/pl/107/89/s2], Dec. 18, 2001, [115 Stat. 877][/us/stat/115/877], added item 144.
+    2001—[Pub. L. 107–89][/us/pl/107/89], § 2, Dec. 18, 2001, [115 Stat. 877][/us/stat/115/877], added item 144.
 
  __World War I Centennial__ 
 
-[Pub. L. 113–291, div. B, title XXX, § 3091(a)][/us/pl/113/291/s3091/a]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3858–3860][/us/stat/128/3858-3860], provided that:
+[Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3091(a)–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3858–3860][/us/stat/128/3858-3860], provided that:
 
 >     “(a) __Liberty Memorial as World War I Museum and Memorial.—__ 
 
@@ -455,7 +455,7 @@
 
 >     \[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of [Pub. L. 112–272][/us/pl/112/272], set out below. Par. (3)(C) amended table of contents of [Pub. L. 112–272][/us/pl/112/272], which was omitted from the Code.\]”
 
-[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], as amended by [Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)][/us/pl/113/291/s3091/b/7]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3859][/us/stat/128/3859], 3860, provided that:
+[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], as amended by [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3091(b)(7)–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3859][/us/stat/128/3859], 3860, provided that:
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
@@ -747,7 +747,7 @@
 
  __Ronald Reagan Centennial Commission__ 
 
-[Pub. L. 111–25][/us/pl/111/25], June 2, 2009, [123 Stat. 1767][/us/stat/123/1767], as amended by [Pub. L. 112–13, § 1][/us/pl/112/13/s1], May 12, 2011, [125 Stat. 215][/us/stat/125/215], provided that:
+[Pub. L. 111–25][/us/pl/111/25], June 2, 2009, [123 Stat. 1767][/us/stat/123/1767], as amended by [Pub. L. 112–13][/us/pl/112/13], § 1, May 12, 2011, [125 Stat. 215][/us/stat/125/215], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -905,7 +905,7 @@
 
  __225th Anniversary of the American Revolution Commemoration__ 
 
-[Pub. L. 108–447, div. J, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3348][/us/stat/118/3348], provided that:
+[Pub. L. 108–447, div. J, title II][/us/pl/108/447/dJ/tII], Dec. 8, 2004, [118 Stat. 3348][/us/stat/118/3348], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -991,7 +991,7 @@
 
  __Abraham Lincoln Bicentennial Commission__ 
 
-    [Pub. L. 106–173][/us/pl/106/173], Feb. 25, 2000, [114 Stat. 14][/us/stat/114/14], as amended by [Pub. L. 107–20, title II, § 2804][/us/pl/107/20/s2804], July 24, 2001, [115 Stat. 185][/us/stat/115/185]; [Pub. L. 107–68, title II, § 209][/us/pl/107/68/s209], Nov. 12, 2001, [115 Stat. 588][/us/stat/115/588]; [Pub. L. 107–117, div. B, § 917(a)][/us/pl/107/117/s917/a], Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324]; [Pub. L. 108–7, div. H, title I, § 1304][/us/pl/108/7/s1304], Feb. 20, 2003, [117 Stat. 379][/us/stat/117/379]; [Pub. L. 108–59, § 1][/us/pl/108/59/s1], July 14, 2003, [117 Stat. 860][/us/stat/117/860]; [Pub. L. 111–8, div. G, title I, § 1204][/us/pl/111/8/s1204], Mar. 11, 2009, [123 Stat. 826][/us/stat/123/826], known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln’s birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
+    [Pub. L. 106–173][/us/pl/106/173], Feb. 25, 2000, [114 Stat. 14][/us/stat/114/14], as amended by [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2804, July 24, 2001, [115 Stat. 185][/us/stat/115/185]; [Pub. L. 107–68, title II][/us/pl/107/68/tII], § 209, Nov. 12, 2001, [115 Stat. 588][/us/stat/115/588]; [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 917(a), Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1304, Feb. 20, 2003, [117 Stat. 379][/us/stat/117/379]; [Pub. L. 108–59][/us/pl/108/59], § 1, July 14, 2003, [117 Stat. 860][/us/stat/117/860]; [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1204, Mar. 11, 2009, [123 Stat. 826][/us/stat/123/826], known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln’s birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
  __Proc. No. 9283. Armed Forces Day__ 
 
@@ -1116,11 +1116,11 @@
 ----------
 ----------
 
-[/us/pl/108/447/s111/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs111%2Fc%2F2
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3345
-[/us/pl/107/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89%2Fs2
+[/us/pl/107/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89
 [/us/stat/115/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F877
-[/us/pl/113/291/s3091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091%2Fa
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3858-3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3858-3860
 [/us/pl/89/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F786
 [/us/stat/80/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1377
@@ -1133,7 +1133,7 @@
 [/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/stat/126/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2448
-[/us/pl/113/291/s3091/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091%2Fb%2F7
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3859
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/stat/118/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2045
@@ -1144,10 +1144,10 @@
 [/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
 [/us/pl/111/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F25
 [/us/stat/123/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1767
-[/us/pl/112/13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F13%2Fs1
+[/us/pl/112/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F13
 [/us/stat/125/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F215
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtII
 [/us/stat/118/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3348
 [/us/pl/107/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F202
 [/us/stat/116/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F739
@@ -1157,17 +1157,17 @@
 [/us/stat/114/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2745
 [/us/pl/106/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F173
 [/us/stat/114/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F14
-[/us/pl/107/20/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2804
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F185
-[/us/pl/107/68/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs209
+[/us/pl/107/68/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtII
 [/us/stat/115/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F588
-[/us/pl/107/117/s917/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs917%2Fa
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2324
-[/us/pl/108/7/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1304
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F379
-[/us/pl/108/59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F59%2Fs1
+[/us/pl/108/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F59
 [/us/stat/117/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F860
-[/us/pl/111/8/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1204
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F826
 
 

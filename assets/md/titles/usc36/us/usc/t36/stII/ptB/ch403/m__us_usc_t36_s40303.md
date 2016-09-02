@@ -23,7 +23,7 @@
 
     The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in [section 9447 of title 10][/us/usc/t10/s9447].
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1332][/us/stat/112/1332]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(b)(2)(A), (B)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–300.)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1332][/us/stat/112/1332]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(b)(2)(A), (B)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–300.)
 
 <table>
 
@@ -91,7 +91,7 @@ July 1, 1946, ch. 527, § 3, 60 Stat. 346.  </td>
 [/us/usc/t10/s9447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9447
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1332
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–26, § 11(b)][/us/pl/110/26/s11/b], May 11, 2007, [121 Stat. 110][/us/stat/121/110], added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
+    2007—[Pub. L. 110–26][/us/pl/110/26], § 11(b), May 11, 2007, [121 Stat. 110][/us/stat/121/110], added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/110/26/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F26%2Fs11%2Fb
+[/us/pl/110/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F26
 [/us/stat/121/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F110
 
 

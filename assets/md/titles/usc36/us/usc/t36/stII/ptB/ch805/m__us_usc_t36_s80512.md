@@ -73,7 +73,7 @@ Dec. 4, 1980, Pub. L. 96–497, § 12, 94 Stat. 2597.  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(b)(7)][/us/pl/113/237/s3/b/7], Dec. 18, 2014, [128 Stat. 2837][/us/stat/128/2837], substituted “CHAPTERS 807 THROUGH 899—RESERVED” for “CHAPTER 901—\[RESERVED\]”.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(b)(7), Dec. 18, 2014, [128 Stat. 2837][/us/stat/128/2837], substituted “CHAPTERS 807 THROUGH 899—RESERVED” for “CHAPTER 901—\[RESERVED\]”.
 
 ----------
 
@@ -86,7 +86,7 @@ Dec. 4, 1980, Pub. L. 96–497, § 12, 94 Stat. 2597.  </td>
 [/us/stat/112/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1364
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/113/237/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F7
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2837
 
 

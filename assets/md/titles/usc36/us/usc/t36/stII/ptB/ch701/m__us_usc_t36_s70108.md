@@ -23,7 +23,7 @@
 
     The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.).
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1348][/us/stat/112/1348]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294.)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1348][/us/stat/112/1348]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(g)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294.)
 
 <table>
 
@@ -103,7 +103,7 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§ 1808(e), 1814 (related to
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1348
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 

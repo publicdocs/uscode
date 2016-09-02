@@ -17,7 +17,7 @@
 
     The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by [section 10101 of this title][/us/usc/t36/s10101]. The report may not be printed as a public document.
 
-(Added [Pub. L. 105–354, § 1(4)(A)][/us/pl/105/354/s1/4/A], Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
+(Added [Pub. L. 105–354][/us/pl/105/354], § 1(4)(A), Nov. 3, 1998, [112 Stat. 3241][/us/stat/112/3241].)
 
 <table>
 
@@ -73,7 +73,7 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, § 1512, 111 Stat. 1965.  </td>
 ----------
 
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
-[/us/pl/105/354/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F4%2FA
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3241
 
 

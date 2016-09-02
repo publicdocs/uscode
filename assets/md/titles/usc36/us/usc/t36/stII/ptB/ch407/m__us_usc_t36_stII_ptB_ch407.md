@@ -217,7 +217,7 @@ Amendments  </td>
 
 </table>
 
-    2006—[Pub. L. 109–364, div. A, title III, § 354(b)][/us/pl/109/364/s354/b], Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], added item 40728A.
+    2006—[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 354(b), Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], added item 40728A.
 
 ----------
 
@@ -226,7 +226,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/109/364/s354/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs354%2Fb
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2162
 
 

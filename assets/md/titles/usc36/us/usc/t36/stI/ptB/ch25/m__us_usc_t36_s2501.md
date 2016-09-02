@@ -21,7 +21,7 @@
 
     (2) may solicit, accept, use, and dispose of any money or property the Committee receives.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1280][/us/stat/112/1280]; [Pub. L. 105–354, § 1(3)][/us/pl/105/354/s1/3], Nov. 3, 1998, [112 Stat. 3239][/us/stat/112/3239].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1280][/us/stat/112/1280]; [Pub. L. 105–354][/us/pl/105/354], § 1(3), Nov. 3, 1998, [112 Stat. 3239][/us/stat/112/3239].)
 
 <table>
 
@@ -97,7 +97,7 @@ July 11, 1949, ch. 302, § 2, as added Nov. 7, 1988, Pub. L. 100–630, title 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1280
-[/us/pl/105/354/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354%2Fs1%2F3
+[/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/stat/112/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3239
 [/us/pl/105/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F354
 [/us/usc/t36/s2501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2501%2F2

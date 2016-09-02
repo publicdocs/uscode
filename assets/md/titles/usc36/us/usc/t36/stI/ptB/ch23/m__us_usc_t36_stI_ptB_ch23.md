@@ -107,11 +107,11 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by [Pub. L. 106–292, § 1][/us/pl/106/292/s1].
+    A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by [Pub. L. 106–292][/us/pl/106/292], § 1.
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 5(3)][/us/pl/109/284/s5/3], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], substituted “Museum” for “museum” in item 2306.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 5(3), Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], substituted “Museum” for “museum” in item 2306.
 
 ----------
 
@@ -120,8 +120,8 @@
 ----------
 ----------
 
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
-[/us/pl/109/284/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F3
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
 
 

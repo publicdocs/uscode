@@ -175,7 +175,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(c)(1)–(4), (d), 110 Sta
 
  __Initial Board of Directors__ 
 
-[Pub. L. 104–106, div. A, title XVI, § 1611(c)(5)][/us/pl/104/106/s1611/c/5], Feb. 10, 1996, [110 Stat. 516][/us/stat/110/516] \[former [36 U.S.C. 5501(c)(5)][/us/usc/t36/s5501/c/5]\], provided that: 
+[Pub. L. 104–106, div. A, title XVI][/us/pl/104/106/dA/tXVI], § 1611(c)(5), Feb. 10, 1996, [110 Stat. 516][/us/stat/110/516] \[former [36 U.S.C. 5501(c)(5)][/us/usc/t36/s5501/c/5]\], provided that: 
 
 > “The Secretary of the Army shall appoint the initial Board of Directors. Four of the members of the initial Board of Directors, to be designated by the Secretary at the time of appointment, shall (notwithstanding paragraph (3)) \[now [36 U.S.C. 40702(a)(3)][/us/usc/t36/s40702/a/3]\] serve for a term of one year.”
 
@@ -188,7 +188,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(c)(1)–(4), (d), 110 Sta
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1335
-[/us/pl/104/106/s1611/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1611%2Fc%2F5
+[/us/pl/104/106/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXVI
 [/us/stat/110/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F516
 [/us/usc/t36/s5501/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs5501%2Fc%2F5
 [/us/usc/t36/s40702/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40702%2Fa%2F3

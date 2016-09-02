@@ -93,7 +93,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(a) (less “nonprofit”)
 
  __Continuation of Eligibility for Certain Civil Service Benefits for Former Federal Employees of Civilian Marksmanship Program__ 
 
-[Pub. L. 104–106, div. A, title XVI, § 1622][/us/pl/104/106/s1622], Feb. 10, 1996, [110 Stat. 521][/us/stat/110/521] \[former [36 U.S.C. 5522][/us/usc/t36/s5522]\], provided that:
+[Pub. L. 104–106, div. A, title XVI][/us/pl/104/106/dA/tXVI], § 1622, Feb. 10, 1996, [110 Stat. 521][/us/stat/110/521] \[former [36 U.S.C. 5522][/us/usc/t36/s5522]\], provided that:
 
 >     “(a)  __Continuation of Eligibility__  __.—__ 
 
@@ -112,7 +112,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(a) (less “nonprofit”)
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1335
-[/us/pl/104/106/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1622
+[/us/pl/104/106/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXVI
 [/us/stat/110/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F521
 [/us/usc/t36/s5522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs5522
 [/us/usc/t36/s5502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs5502%2Fd

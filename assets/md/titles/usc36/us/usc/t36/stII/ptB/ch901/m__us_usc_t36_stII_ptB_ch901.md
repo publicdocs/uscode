@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(c)(6)(A)][/us/pl/113/237/s3/c/6/A], (B), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], renumbered chapter 1526 of this title as this chapter and renumbered items 152601 to 152612 as 90101 to 90112, respectively.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(c)(6)(A), (B), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], renumbered chapter 1526 of this title as this chapter and renumbered items 152601 to 152612 as 90101 to 90112, respectively.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/113/237/s3/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FA
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 
 

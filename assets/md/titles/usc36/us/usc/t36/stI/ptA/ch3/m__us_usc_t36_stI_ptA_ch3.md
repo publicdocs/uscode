@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–237, § 3(c)(1)][/us/pl/113/237/s3/c/1], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], substituted “FLORAL EMBLEM, MARCH” for “FLORAL EMBLEM MARCH” in chapter heading.
+    2014—[Pub. L. 113–237][/us/pl/113/237], § 3(c)(1), Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], substituted “FLORAL EMBLEM, MARCH” for “FLORAL EMBLEM MARCH” in chapter heading.
 
-    2004—[Pub. L. 108–447, div. J, title I, § 109(b)(2)][/us/pl/108/447/s109/b/2], (3), Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344], substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
+    2004—[Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 109(b)(2), (3), Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344], substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/113/237/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F1
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
-[/us/pl/108/447/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs109%2Fb%2F2
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3344
 
 

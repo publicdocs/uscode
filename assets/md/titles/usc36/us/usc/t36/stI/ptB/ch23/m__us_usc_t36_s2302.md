@@ -59,7 +59,7 @@
 
     Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1031][/us/stat/114/1031].)
+(Added [Pub. L. 106–292][/us/pl/106/292], § 1, Oct. 12, 2000, [114 Stat. 1031][/us/stat/114/1031].)
 
  __Prior Provisions__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
+[/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
 [/us/stat/114/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1031
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1277
