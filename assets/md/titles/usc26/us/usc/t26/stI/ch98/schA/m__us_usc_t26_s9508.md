@@ -73,9 +73,9 @@
 
         (2) __Exception for prior obligations__ 
 
-            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 30, 2015, in accordance with the provisions of this section.
+            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before November 21, 2015, in accordance with the provisions of this section.
 
-(Added [Pub. L. 99–499, title V, § 522(a)][/us/pl/99/499/s522/a], Oct. 17, 1986, [100 Stat. 1780][/us/stat/100/1780]; amended [Pub. L. 100–203, title X, § 10502(d)(16)][/us/pl/100/203/s10502/d/16], (17), Dec. 22, 1987, [101 Stat. 1330–445][/us/stat/101/1330-445]; [Pub. L. 101–239, title VII, § 7822(b)(7)][/us/pl/101/239/s7822/b/7], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13163(c), 13242(d)(42), Aug. 10, 1993, [107 Stat. 454][/us/stat/107/454], 528; [Pub. L. 105–34, title X, § 1032(e)(13)][/us/pl/105/34/s1032/e/13], Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII, § 853(d)(2)(P)][/us/pl/108/357/s853/d/2/P], (Q), Oct. 22, 2004, [118 Stat. 1614][/us/stat/118/1614]; [Pub. L. 109–58, title XIII, § 1362(c)][/us/pl/109/58/s1362/c], Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; [Pub. L. 109–59, title XI, § 11147(a)][/us/pl/109/59/s11147/a], Aug. 10, 2005, [119 Stat. 1967][/us/stat/119/1967]; [Pub. L. 109–432, div. A, title II, § 210(a)][/us/pl/109/432/s210/a], Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433, § 1(a)][/us/pl/109/433/s1/a], Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196]; [Pub. L. 112–30, title I, § 141(c)][/us/pl/112/30/s141/c], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(c)][/us/pl/112/102/s401/c], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(c)][/us/pl/112/140/s401/c], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(c)][/us/pl/112/141/s40101/c], title II, § 40201(a), July 6, 2012, [126 Stat. 844][/us/stat/126/844], 846; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(c), 2002(b), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 114–21, title II, § 2001(c)][/us/pl/114/21/s2001/c], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II, § 2001(c)][/us/pl/114/41/s2001/c], July 31, 2015, [129 Stat. 454][/us/stat/129/454].)
+(Added [Pub. L. 99–499, title V, § 522(a)][/us/pl/99/499/s522/a], Oct. 17, 1986, [100 Stat. 1780][/us/stat/100/1780]; amended [Pub. L. 100–203, title X, § 10502(d)(16)][/us/pl/100/203/s10502/d/16], (17), Dec. 22, 1987, [101 Stat. 1330–445][/us/stat/101/1330-445]; [Pub. L. 101–239, title VII, § 7822(b)(7)][/us/pl/101/239/s7822/b/7], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13163(c), 13242(d)(42), Aug. 10, 1993, [107 Stat. 454][/us/stat/107/454], 528; [Pub. L. 105–34, title X, § 1032(e)(13)][/us/pl/105/34/s1032/e/13], Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII, § 853(d)(2)(P)][/us/pl/108/357/s853/d/2/P], (Q), Oct. 22, 2004, [118 Stat. 1614][/us/stat/118/1614]; [Pub. L. 109–58, title XIII, § 1362(c)][/us/pl/109/58/s1362/c], Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; [Pub. L. 109–59, title XI, § 11147(a)][/us/pl/109/59/s11147/a], Aug. 10, 2005, [119 Stat. 1967][/us/stat/119/1967]; [Pub. L. 109–432, div. A, title II, § 210(a)][/us/pl/109/432/s210/a], Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433, § 1(a)][/us/pl/109/433/s1/a], Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196]; [Pub. L. 112–30, title I, § 141(c)][/us/pl/112/30/s141/c], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(c)][/us/pl/112/102/s401/c], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(c)][/us/pl/112/140/s401/c], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(c)][/us/pl/112/141/s40101/c], title II, § 40201(a), July 6, 2012, [126 Stat. 844][/us/stat/126/844], 846; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(c), 2002(b), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 114–21, title II, § 2001(c)][/us/pl/114/21/s2001/c], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II, § 2001(c)][/us/pl/114/41/s2001/c], July 31, 2015, [129 Stat. 454][/us/stat/129/454]; [Pub. L. 114–73, title II, § 2001(c)][/us/pl/114/73/s2001/c], Oct. 29, 2015, [129 Stat. 583][/us/stat/129/583].)
 
  __References in Text__ 
 
@@ -89,7 +89,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–41][/us/pl/114/41] substituted “October 30, 2015” for “August 1, 2015”.
+    2015—Subsec. (e)(2). [Pub. L. 114–73][/us/pl/114/73] substituted “November 21, 2015” for “October 30, 2015”.
+
+    [Pub. L. 114–41][/us/pl/114/41] substituted “October 30, 2015” for “August 1, 2015”.
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “August 1, 2015” for “June 1, 2015”.
 
@@ -245,6 +247,8 @@
 [/us/stat/129/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F226
 [/us/pl/114/41/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2001%2Fc
 [/us/stat/129/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F454
+[/us/pl/114/73/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs2001%2Fc
+[/us/stat/129/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F583
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -252,6 +256,7 @@
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/pl/113/159/s2002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2002%2Fb%2F2
