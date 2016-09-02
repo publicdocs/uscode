@@ -15,7 +15,7 @@
 
 ## § 24901. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “final system plan” means the final system plan (including additions) adopted by the United States Railway Association under the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701][/us/usc/t45/s701] et seq.).
 

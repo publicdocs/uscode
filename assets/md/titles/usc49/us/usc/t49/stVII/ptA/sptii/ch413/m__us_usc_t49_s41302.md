@@ -15,7 +15,7 @@
 
 ## § 41302. Permits of foreign air carriers
 
-The Secretary of Transportation may issue a permit to a person (except a citizen of the United States) authorizing the person to provide foreign air transportation as a foreign air carrier if the Secretary finds that—
+    The Secretary of Transportation may issue a permit to a person (except a citizen of the United States) authorizing the person to provide foreign air transportation as a foreign air carrier if the Secretary finds that—
 
     (1) the person is fit, willing, and able to provide the foreign air transportation to be authorized by the permit and to comply with this part and regulations of the Secretary; and
 

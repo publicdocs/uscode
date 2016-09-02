@@ -15,7 +15,7 @@
 
 ## § 41503. Establishing joint prices for through routes provided by State authorized carriers
 
-Subject to sections 41309 and 42111 of this title, a citizen of the United States providing transportation under [section 41101(b) of this title][/us/usc/t49/s41101/b] may make an agreement with an air carrier or foreign air carrier for joint prices for that transportation. The joint prices agreed to must be the lowest of—
+    Subject to sections 41309 and 42111 of this title, a citizen of the United States providing transportation under [section 41101(b) of this title][/us/usc/t49/s41101/b] may make an agreement with an air carrier or foreign air carrier for joint prices for that transportation. The joint prices agreed to must be the lowest of—
 
     (1)
 

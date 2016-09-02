@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s332.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s334, 335.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs333)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s332.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s336.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs333)
 
 ## § 333. Responsibility for rail transportation unification and coordination projects
 
@@ -205,9 +205,15 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(a)–(e); added Feb. 5, 19
 
     Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
 
+\[§§ 334, 335. __Repealed.__  __[__  __Pub. L. 103–272, § 4(j)(9)(A)__  __][/us/pl/103/272/s4/j/9/A]__  __,__  __July 5, 1994__  __,__  __[__  __108 Stat. 1367__  __][/us/stat/108/1367]__  __\]__ 
+
+    Section 334, [Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2430][/us/stat/96/2430]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 100–223, title III, § 304][/us/pl/100/223/s304], Dec. 30, 1987, [101 Stat. 1525][/us/stat/101/1525]; [Pub. L. 100–690, title VII, § 7207(c)(3)][/us/pl/100/690/s7207/c/3], Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], related to a limit on aviation charges. See [section 45301 of this title][/us/usc/t49/s45301].
+
+    Section 335, [Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2430][/us/stat/96/2430], authorized appropriations to the Secretary of Transportation for fiscal years ending Sept. 30, 1983, and Sept. 30, 1984.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s332.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s334, 335.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs333)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s332.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schII/m__us_usc_t49_s336.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs333)
 
 ----------
 ----------
@@ -236,5 +242,18 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(a)–(e); added Feb. 5, 19
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/pl/103/272/s4/j/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F9%2FA
+[/us/stat/108/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1367
+[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/stat/96/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2430
+[/us/pl/98/216/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F2
+[/us/stat/98/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F5
+[/us/pl/100/223/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2Fs304
+[/us/stat/101/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1525
+[/us/pl/100/690/s7207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7207%2Fc%2F3
+[/us/stat/102/4428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4428
+[/us/usc/t49/s45301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45301
+[/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
+[/us/stat/96/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2430
 
 

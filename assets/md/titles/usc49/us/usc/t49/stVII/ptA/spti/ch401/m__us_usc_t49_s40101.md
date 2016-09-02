@@ -853,7 +853,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) specific implementation and transition steps;
 
->                 “(iii) baseline and performance metrics for—         “(I) measuring the Administration’s progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
+>                 “(iii)
+
+>                  baseline and performance metrics for—
+
+>                          “(I) measuring the Administration’s progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
 
 >                          “(II) achieving measurable fuel burn and carbon dioxide emissions reductions compared to current performance;
 
@@ -905,7 +909,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in the en route and terminal environments, including in a mixed operational environment;
 
->                 “(v) baseline and performance metrics for—         “(I) measuring the Administration’s progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
+>                 “(v)
+
+>                  baseline and performance metrics for—
+
+>                          “(I) measuring the Administration’s progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
 
 >                          “(II) achieving measurable fuel burn and carbon dioxide emissions reduction compared to current performance;
 
@@ -2027,25 +2035,29 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “This Act may be cited as the ‘Air Transportation Safety and System Stabilization Act’.
 
- __“TITLE I—AIRLINE STABILIZATION__ 
+> “TITLE I— __AIRLINE STABILIZATION__ 
 
-    “SEC. 101. AVIATION DISASTER RELIEF.
+> “SEC. 101. __AVIATION DISASTER RELIEF.__ 
 
-“(a) In General.—Notwithstanding any other provision of law, the President shall take the following actions to compensate air carriers for losses incurred by the air carriers as a result of the terrorist attacks on the United States that occurred on September 11, 2001:
+>     “(a) __In General.—__ 
 
->     “\[(1) Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
+>     Notwithstanding any other provision of law, the President shall take the following actions to compensate air carriers for losses incurred by the air carriers as a result of the terrorist attacks on the United States that occurred on September 11, 2001:
 
->     “(2)
+>         “\[(1) Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
 
->      Compensate air carriers in an aggregate amount equal to $5,000,000,000 for—
+>         “(2)
 
->         “(A) direct losses incurred beginning on September 11, 2001, by air carriers as a result of any Federal ground stop order issued by the Secretary of Transportation or any subsequent order which continues or renews such a stoppage; and
+>          Compensate air carriers in an aggregate amount equal to $5,000,000,000 for—
 
->         “(B) the incremental losses incurred beginning September 11, 2001, and ending December 31, 2001, by air carriers as a direct result of such attacks.
+>             “(A) direct losses incurred beginning on September 11, 2001, by air carriers as a result of any Federal ground stop order issued by the Secretary of Transportation or any subsequent order which continues or renews such a stoppage; and
+
+>             “(B) the incremental losses incurred beginning September 11, 2001, and ending December 31, 2001, by air carriers as a direct result of such attacks.
 
 >     “(b) __Emergency Designation.—__ 
 
->     Congress designates the amount of new budget authority and outlays in all fiscal years resulting from this title as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 901(e)][/us/usc/t2/s901/e]). Such amount shall be available only to the extent that a request, that includes designation of such amount as an emergency requirement as defined in such Act \[see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900], The Congress\], is transmitted by the President to Congress.    “\[SEC. 102. Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
+>     Congress designates the amount of new budget authority and outlays in all fiscal years resulting from this title as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 901(e)][/us/usc/t2/s901/e]). Such amount shall be available only to the extent that a request, that includes designation of such amount as an emergency requirement as defined in such Act \[see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900], The Congress\], is transmitted by the President to Congress.
+
+> “\[SEC. 102. Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
 
 > “SEC. 103. __SPECIAL RULES FOR COMPENSATION.__ 
 
@@ -2069,7 +2081,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(i) $4,500,000,000; and
 
->                 “(ii) the ratio of—         “(I) the available seat miles of the air carrier for the month of August 2001 as reported to the Secretary; to
+>                 “(ii)
+
+>                  the ratio of—
+
+>                          “(I) the available seat miles of the air carrier for the month of August 2001 as reported to the Secretary; to
 
 >                          “(II) the total available seat miles of all such air carriers for such month as reported to the Secretary; and
 
@@ -2079,7 +2095,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(i) $500,000,000; and
 
->                 “(ii) the ratio of—         “(I) the revenue ton miles or other auditable measure of the air carrier for cargo for the latest quarter for which data is available as reported to the Secretary; to
+>                 “(ii)
+
+>                  the ratio of—
+
+>                          “(I) the revenue ton miles or other auditable measure of the air carrier for cargo for the latest quarter for which data is available as reported to the Secretary; to
 
 >                          “(II) the total revenue ton miles or other auditable measure of all such air carriers for cargo for such quarter as reported to the Secretary.
 
@@ -2095,7 +2115,9 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) __Distribution of amounts.—__ 
 
->         The President shall distribute the amount set aside under this subsection proportionally among such air carriers based on an appropriate auditable measure, as determined by the President.    “\[SEC. 104. Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
+>         The President shall distribute the amount set aside under this subsection proportionally among such air carriers based on an appropriate auditable measure, as determined by the President.
+
+> “\[SEC. 104. Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
 
 > “SEC. 105. __CONTINUATION OF CERTAIN AIR SERVICE.__ 
 
@@ -2141,313 +2163,443 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     The term ‘incremental loss’ does not include any loss that the President determines would have been incurred if the terrorist attacks on the United States that occurred on September 11, 2001, had not occurred.
 
- __“TITLE II—AVIATION INSURANCE__ 
+> “TITLE II— __AVIATION INSURANCE__ 
 
-    “SEC. 201. DOMESTIC INSURANCE AND REIMBURSEMENT OF INSURANCE COSTS.
+> “SEC. 201. __DOMESTIC INSURANCE AND REIMBURSEMENT OF INSURANCE COSTS.__ 
 
-    “(a) In General.—\[Amended [section 44302 of this title][/us/usc/t49/s44302].\]
+>     “(a) __In General.—__ 
 
-    “(b) Coverage.—
+>     \[Amended [section 44302 of this title][/us/usc/t49/s44302].\]
 
-    “(1) In general.—\[Amended [section 44303 of this title][/us/usc/t49/s44303].\]
+>     “(b) __Coverage.—__ 
 
-    “(2) \[Transferred to [section 44303(b) of this title][/us/usc/t49/s44303/b].\]
+>         “(1) __In general.—__ 
 
-    “(c) Reinsurance.—\[Amended [section 44304 of this title][/us/usc/t49/s44304].\]
+>         \[Amended [section 44303 of this title][/us/usc/t49/s44303].\]
 
-    “(d) Premiums.—\[Amended [section 44306 of this title][/us/usc/t49/s44306].\]
+>         “(2) __\[Transferred to__  __[__  __section 44303(b) of this title__  __][/us/usc/t49/s44303/b]__  __.\]__ 
 
-    “(e) Conforming Amendment.—\[Amended [section 44305(b) of this title][/us/usc/t49/s44305/b].\]
+>     “(c) __Reinsurance.—__ 
 
-    “SEC. 202. EXTENSION OF PROVISIONS TO VENDORS, AGENTS, AND SUBCONTRACTORS OF AIR CARRIERS.
+>     \[Amended [section 44304 of this title][/us/usc/t49/s44304].\]
 
-    “Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443 of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of this Act \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
+>     “(d) __Premiums.—__ 
 
- __“TITLE III—TAX PROVISIONS__ 
+>     \[Amended [section 44306 of this title][/us/usc/t49/s44306].\]
 
-    “SEC. 301. EXTENSION OF DUE DATE FOR EXCISE TAX DEPOSITS; TREATMENT OF LOSS COMPENSATION.
+>     “(e) __Conforming Amendment.—__ 
 
-    “(a) Extension of Due Date for Excise Tax Deposits.—
+>     \[Amended [section 44305(b) of this title][/us/usc/t49/s44305/b].\]
 
-    “(1) In general.—In the case of an eligible air carrier, any airline-related deposit required under section 6302 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6302][/us/usc/t26/s6302]\] to be made after September 10, 2001, and before November 15, 2001, shall be treated for purposes of such Code \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] as timely made if such deposit is made on or before November 15, 2001. If the Secretary of the Treasury so prescribes, the preceding sentence shall be applied by substituting for ‘November 15, 2001’ each place it appears—
+> “SEC. 202. __EXTENSION OF PROVISIONS TO VENDORS, AGENTS, AND SUBCONTRACTORS OF AIR CARRIERS.__ 
 
-    “(A) ‘January 15, 2002’; or
+>     “Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443 of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of this Act \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
 
-    “(B) such earlier date after November 15, 2001, as such Secretary may prescribe.
+> “TITLE III— __TAX PROVISIONS__ 
 
-    “(2) Eligible air carrier.—For purposes of this subsection, the term ‘eligible air carrier’ means any domestic corporation engaged in the trade or business of transporting (for hire) persons by air if such transportation is available to the general public.
+> “SEC. 301. __EXTENSION OF DUE DATE FOR EXCISE TAX DEPOSITS; TREATMENT OF LOSS COMPENSATION.__ 
 
-    “(3) Airline-related deposit.—For purposes of this subsection, the term ‘airline-related deposit’ means any deposit of taxes imposed by subchapter C of chapter 33 of such Code \[[26 U.S.C. 4261][/us/usc/t26/s4261] et seq.\] (relating to transportation by air).
+>     “(a) __Extension of Due Date for Excise Tax Deposits.—__ 
 
-    “(b) Treatment of Loss Compensation.—Nothing in any provision of law shall be construed to exclude from gross income under the Internal Revenue Code of 1986 any compensation received under section 101(a)(2) of this Act.
+>         “(1) __In general.—__ 
 
- __“TITLE IV—VICTIM COMPENSATION__ 
+>         In the case of an eligible air carrier, any airline-related deposit required under section 6302 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6302][/us/usc/t26/s6302]\] to be made after September 10, 2001, and before November 15, 2001, shall be treated for purposes of such Code \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] as timely made if such deposit is made on or before November 15, 2001. If the Secretary of the Treasury so prescribes, the preceding sentence shall be applied by substituting for ‘November 15, 2001’ each place it appears—
 
-    “SEC. 401. SHORT TITLE.
+>             “(A) ‘January 15, 2002’; or
 
-    “This title may be cited as the ‘September 11th Victim Compensation Fund of 2001’.
+>             “(B) such earlier date after November 15, 2001, as such Secretary may prescribe.
 
-    “SEC. 402. DEFINITIONS.
+>         “(2) __Eligible air carrier.—__ 
 
-    “In this title, the following definitions apply:
+>         For purposes of this subsection, the term ‘eligible air carrier’ means any domestic corporation engaged in the trade or business of transporting (for hire) persons by air if such transportation is available to the general public.
 
-    “(1) Air carrier.—The term ‘air carrier’ means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation and includes employees and agents (including persons engaged in the business of providing air transportation security and their affiliates) of such citizen. For purposes of the preceding sentence, the term ‘agent’, as applied to persons engaged in the business of providing air transportation security, shall only include persons that have contracted directly with the Federal Aviation Administration on or after and commenced services no later than February 17, 2002, to provide such security, and had not been or are not debarred for any period within 6 months from that date.
+>         “(3) __Airline-related deposit.—__ 
 
-    “(2) Air transportation.—The term ‘air transportation’ means foreign air transportation, interstate air transportation, or the transportation of mail by aircraft.
+>         For purposes of this subsection, the term ‘airline-related deposit’ means any deposit of taxes imposed by subchapter C of chapter 33 of such Code \[[26 U.S.C. 4261][/us/usc/t26/s4261] et seq.\] (relating to transportation by air).
 
-    “(3) Aircraft manufacturer.—The term ‘aircraft manufacturer’ means any entity that manufactured the aircraft or any parts or components of the aircraft involved in the terrorist related aircraft crashes of September 11, 2001, including employees and agents of that entity.
+>     “(b) __Treatment of Loss Compensation.—__ 
 
-    “(4) Airport sponsor.—The term ‘airport sponsor’ means the owner or operator of an airport (as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code).
+>     Nothing in any provision of law shall be construed to exclude from gross income under the Internal Revenue Code of 1986 any compensation received under section 101(a)(2) of this Act.
 
-    “(5) Claimant.—The term ‘claimant’ means an individual filing a claim for compensation under section 405(a)(1).
+> “TITLE IV— __VICTIM COMPENSATION__ 
 
-    “(6) Collateral source.—The term ‘collateral source’ means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including under the World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, [42 U.S.C. 300mm][/us/usc/t42/s300mm]\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
+> “SEC. 401. __SHORT TITLE.__ 
 
-    “(7) Contractor and subcontractor.—The term ‘contractor and subcontractor’ means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
+>     “This title may be cited as the ‘September 11th Victim Compensation Fund of 2001’.
 
-    “(8) Debris removal.—The term ‘debris removal’ means rescue and recovery efforts, removal of debris, cleanup, remediation, and response during the immediate aftermath of the terrorist-related aircraft crashes of September 11, 2001, with respect to a 9/11 crash site.
+> “SEC. 402. __DEFINITIONS.__ 
 
-    “(9) Economic loss.—The term ‘economic loss’ means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+> “In this title, the following definitions apply:
 
-    “(10) Eligible individual.—The term ‘eligible individual’ means an individual determined to be eligible for compensation under section 405(c).
+>     “(1) __Air carrier.—__ 
 
-    “(11) Immediate aftermath.—The term ‘immediate aftermath’ means any period beginning with the terrorist-related aircraft crashes of September 11, 2001, and ending on May 30, 2002.
+>     The term ‘air carrier’ means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation and includes employees and agents (including persons engaged in the business of providing air transportation security and their affiliates) of such citizen. For purposes of the preceding sentence, the term ‘agent’, as applied to persons engaged in the business of providing air transportation security, shall only include persons that have contracted directly with the Federal Aviation Administration on or after and commenced services no later than February 17, 2002, to provide such security, and had not been or are not debarred for any period within 6 months from that date.
 
-    “(12) Noneconomic losses.—The term ‘noneconomic losses’ means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
+>     “(2) __Air transportation.—__ 
 
-    “(13) Special master.—The term ‘Special Master’ means the Special Master appointed under section 404(a).
+>     The term ‘air transportation’ means foreign air transportation, interstate air transportation, or the transportation of mail by aircraft.
 
-    “(14) 9/11 crash site.—The term ‘9/11 crash site’ means—
+>     “(3) __Aircraft manufacturer.—__ 
 
-    “(A) the World Trade Center site, Pentagon site, and Shanksville, Pennsylvania site;
+>     The term ‘aircraft manufacturer’ means any entity that manufactured the aircraft or any parts or components of the aircraft involved in the terrorist related aircraft crashes of September 11, 2001, including employees and agents of that entity.
 
-    “(B) the buildings or portions of buildings that were destroyed as a result of the terrorist-related aircraft crashes of September 11, 2001;
+>     “(4) __Airport sponsor.—__ 
 
-    “(C) any area contiguous to a site of such crashes that the Special Master determines was sufficiently close to the site that there was a demonstrable risk of physical harm resulting from the impact of the aircraft or any subsequent fire, explosions, or building collapses (including the immediate area in which the impact occurred, fire occurred, portions of buildings fell, or debris fell upon and injured individuals); and
+>     The term ‘airport sponsor’ means the owner or operator of an airport (as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code).
 
-    “(D) any area related to, or along, routes of debris removal, such as barges and Fresh Kills.
+>     “(5) __Claimant.—__ 
 
-    “SEC. 403. PURPOSE.
+>     The term ‘claimant’ means an individual filing a claim for compensation under section 405(a)(1).
 
-    “It is the purpose of this title to provide compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001.
+>     “(6) __Collateral source.—__ 
 
-    “SEC. 404. ADMINISTRATION.
+>     The term ‘collateral source’ means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including under the World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, [42 U.S.C. 300mm][/us/usc/t42/s300mm]\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
 
-    “(a) In General.—The Attorney General, acting through a Special Master appointed by the Attorney General, shall—
+>     “(7) __Contractor and subcontractor.—__ 
 
-    “(1) administer the compensation program established under this title;
+>     The term ‘contractor and subcontractor’ means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
-    “(2) promulgate all procedural and substantive rules for the administration of this title; and
+>     “(8) __Debris removal.—__ 
 
-    “(3) employ and supervise hearing officers and other administrative personnel to perform the duties of the Special Master under this title.
+>     The term ‘debris removal’ means rescue and recovery efforts, removal of debris, cleanup, remediation, and response during the immediate aftermath of the terrorist-related aircraft crashes of September 11, 2001, with respect to a 9/11 crash site.
 
-    “(b) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to pay the administrative and support costs for the Special Master in carrying out this title.
+>     “(9) __Economic loss.—__ 
 
-    “SEC. 405. DETERMINATION OF ELIGIBILITY FOR COMPENSATION.
+>     The term ‘economic loss’ means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
-    “(a) Filing of Claim.—
+>     “(10) __Eligible individual.—__ 
 
-    “(1) In general.—A claimant may file a claim for compensation under this title with the Special Master. The claim shall be on the form developed under paragraph (2) and shall state the factual basis for eligibility for compensation and the amount of compensation sought.
+>     The term ‘eligible individual’ means an individual determined to be eligible for compensation under section 405(c).
 
-    “(2) Claim form.—
+>     “(11) __Immediate aftermath.—__ 
 
-    “(A) In general.—The Special Master shall develop a claim form that claimants shall use when submitting claims under paragraph (1). The Special Master shall ensure that such form can be filed electronically, if determined to be practicable.
+>     The term ‘immediate aftermath’ means any period beginning with the terrorist-related aircraft crashes of September 11, 2001, and ending on May 30, 2002.
 
-    “(B) Contents.—The form developed under subparagraph (A) shall request—
+>     “(12) __Noneconomic losses.—__ 
 
-    “(i) information from the claimant concerning the physical harm that the claimant suffered, or in the case of a claim filed on behalf of a decedent information confirming the decedent’s death, as a result of the terrorist-related aircraft crashes of September 11, 2001, or debris removal during the immediate aftermath;
+>     The term ‘noneconomic losses’ means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
 
-    “(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
+>     “(13) __Special master.—__ 
 
-    “(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
+>     The term ‘Special Master’ means the Special Master appointed under section 404(a).
 
-    “(3) Limitation.—
+>     “(14) __9/11 crash site.—__ 
 
-    “(A) In general.—Except as provided by subparagraph (B), no claim may be filed under paragraph (1) after the date that is 2 years after the date on which regulations are promulgated under section 407(a).
+>     The term ‘9/11 crash site’ means—
 
-    “(B) Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b) and ending on the date that is 5 years after the date on which such regulations are updated.
+>         “(A) the World Trade Center site, Pentagon site, and Shanksville, Pennsylvania site;
 
-    “(b) Review and Determination.—
+>         “(B) the buildings or portions of buildings that were destroyed as a result of the terrorist-related aircraft crashes of September 11, 2001;
 
-    “(1) Review.—The Special Master shall review a claim submitted under subsection (a) and determine—
+>         “(C) any area contiguous to a site of such crashes that the Special Master determines was sufficiently close to the site that there was a demonstrable risk of physical harm resulting from the impact of the aircraft or any subsequent fire, explosions, or building collapses (including the immediate area in which the impact occurred, fire occurred, portions of buildings fell, or debris fell upon and injured individuals); and
 
-    “(A) whether the claimant is an eligible individual under subsection (c);
+>         “(D) any area related to, or along, routes of debris removal, such as barges and Fresh Kills.
 
-    “(B) with respect to a claimant determined to be an eligible individual—
+> “SEC. 403. __PURPOSE.__ 
 
-    “(i) the extent of the harm to the claimant, including any economic and noneconomic losses; and
+>     “It is the purpose of this title to provide compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001.
 
-    “(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
+> “SEC. 404. __ADMINISTRATION.__ 
 
-    “(2) Negligence.—With respect to a claimant, the Special Master shall not consider negligence or any other theory of liability.
+>     “(a) __In General.—__ 
 
-    “(3) Determination.—Not later than 120 days after that date on which a claim is filed under subsection (a), the Special Master shall complete a review, make a determination, and provide written notice to the claimant, with respect to the matters that were the subject of the claim under review. Such a determination shall be final and not subject to judicial review.
+>     The Attorney General, acting through a Special Master appointed by the Attorney General, shall—
 
-    “(4) Rights of claimant.—A claimant in a review under paragraph (1) shall have—
+>         “(1) administer the compensation program established under this title;
 
-    “(A) the right to be represented by an attorney;
+>         “(2) promulgate all procedural and substantive rules for the administration of this title; and
 
-    “(B) the right to present evidence, including the presentation of witnesses and documents; and
+>         “(3) employ and supervise hearing officers and other administrative personnel to perform the duties of the Special Master under this title.
 
-    “(C) any other due process rights determined appropriate by the Special Master.
+>     “(b) __Authorization of Appropriations.—__ 
 
-    “(5) No punitive damages.—The Special Master may not include amounts for punitive damages in any compensation paid under a claim under this title.
+>     There are authorized to be appropriated such sums as may be necessary to pay the administrative and support costs for the Special Master in carrying out this title.
 
-    “(6) Collateral compensation.—The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
+> “SEC. 405. __DETERMINATION OF ELIGIBILITY FOR COMPENSATION.__ 
 
-    “(c) Eligibility.—
+>     “(a) __Filing of Claim.—__ 
 
-    “(1) In general.—A claimant shall be determined to be an eligible individual for purposes of this subsection if the Special Master determines that such claimant—
+>         “(1) __In general.—__ 
 
-    “(A) is an individual described in paragraph (2); and
+>         A claimant may file a claim for compensation under this title with the Special Master. The claim shall be on the form developed under paragraph (2) and shall state the factual basis for eligibility for compensation and the amount of compensation sought.
 
-    “(B) meets the requirements of paragraph (3).
+>         “(2) __Claim form.—__ 
 
-    “(2) Individuals.—A claimant is an individual described in this paragraph if the claimant is—
+>             “(A) __In general.—__ 
 
-    “(A) an individual who—
+>             The Special Master shall develop a claim form that claimants shall use when submitting claims under paragraph (1). The Special Master shall ensure that such form can be filed electronically, if determined to be practicable.
 
-    “(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
+>             “(B) __Contents.—__ 
 
-    “(ii) suffered physical harm or death as a result of such an air crash or debris removal;
+>             The form developed under subparagraph (A) shall request—
 
-    “(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11 or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
+>                 “(i) information from the claimant concerning the physical harm that the claimant suffered, or in the case of a claim filed on behalf of a decedent information confirming the decedent’s death, as a result of the terrorist-related aircraft crashes of September 11, 2001, or debris removal during the immediate aftermath;
 
-    “(C) in the case of a decedent who is an individual described in subparagraph (A) or (B), the personal representative of the decedent who files a claim on behalf of the decedent.
+>                 “(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
 
-    “(3) Requirements.—
+>                 “(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
 
-    “(A) Requirements for filing claims during extended filing period.—
+>         “(3) __Limitation.—__ 
 
-    “(i) Timing requirements for filing claims.—An individual (or a personal representative on behalf of a deceased individual) may file a claim during the period described in subsection (a)(3)(B) as follows:
+>             “(A) __In general.—__ 
 
-         “(I) In the case that the Special Master determines the individual knew (or reasonably should have known) before the date specified in clause (iii) that the individual suffered a physical harm at a 9/11 crash site as a result of the terrorist-related aircraft crashes of September 11, 2001, or as a result of debris removal, and that the individual knew (or should have known) before such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the date that is 2 years after such specified date.
+>             Except as provided by subparagraph (B), no claim may be filed under paragraph (1) after the date that is 2 years after the date on which regulations are promulgated under section 407(a).
 
-         “(II) In the case that the Special Master determines the individual first knew (or reasonably should have known) on or after the date specified in clause (iii) that the individual suffered such a physical harm or that the individual first knew (or should have known) on or after such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the last day of the 2-year period beginning on the date the Special Master determines the individual first knew (or should have known) that the individual both suffered from such harm and was eligible to file a claim under this title.
+>             “(B) __Exception.—__ 
 
-    “(ii) Other eligibility requirements for filing claims.—An individual may file a claim during the period described in subsection (a)(3)(B) only if—
+>             A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b) and ending on the date that is 5 years after the date on which such regulations are updated.
 
-         “(I) the individual was treated by a medical professional for suffering from a physical harm described in clause (i)(I) within a reasonable time from the date of discovering such harm; and
+>     “(b) __Review and Determination.—__ 
 
-         “(II) the individual’s physical harm is verified by contemporaneous medical records created by or at the direction of the medical professional who provided the medical care.
+>         “(1) __Review.—__ 
 
-    “(iii) Date specified.—The date specified in this clause is the date on which the regulations are updated under section 407(a).
+>         The Special Master shall review a claim submitted under subsection (a) and determine—
 
-    “(B) Single claim.—Not more than one claim may be submitted under this title by an individual or on behalf of a deceased individual.
+>             “(A) whether the claimant is an eligible individual under subsection (c);
 
-    “(C) Limitation on civil action.—
+>             “(B)
 
-    “(i) In general.—Upon the submission of a claim under this title, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, or for damages arising from or related to debris removal. The preceding sentence does not apply to a civil action to recover collateral source obligations, or to a civil action against any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act.
+>              with respect to a claimant determined to be an eligible individual—
 
-    “(ii) Pending actions.—In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit a claim under this title—
+>                 “(i) the extent of the harm to the claimant, including any economic and noneconomic losses; and
 
-         “(I) during the period described in subsection (a)(3)(A) unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407(a); and
+>                 “(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
 
-         “(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b).
+>         “(2) __Negligence.—__ 
 
-    “(iii) Settled actions.—In the case of an individual who settled a civil action described in clause (i), such individual may not submit a claim under this title unless such action was commenced after December 22, 2003, and a release of all claims in such action was tendered prior to the date on which the James Zadroga 9/11 Health and Compensation Act of 2010 \[[Pub. L. 111–347][/us/pl/111/347]\] was enacted \[Jan. 2, 2011\].
+>         With respect to a claimant, the Special Master shall not consider negligence or any other theory of liability.
 
-    “SEC. 406. PAYMENTS TO ELIGIBLE INDIVIDUALS.
+>         “(3) __Determination.—__ 
 
-    “(a) In General.—Subject to the limitations under subsection (d), not later than 20 days after the date on which a determination is made by the Special Master regarding the amount of compensation due a claimant under this title, the Special Master shall authorize payment to such claimant of the amount determined with respect to the claimant.
+>         Not later than 120 days after that date on which a claim is filed under subsection (a), the Special Master shall complete a review, make a determination, and provide written notice to the claimant, with respect to the matters that were the subject of the claim under review. Such a determination shall be final and not subject to judicial review.
 
-    “(b) Payment Authority.—This title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
+>         “(4) __Rights of claimant.—__ 
 
-    “(c) Additional Funding.—
+>         A claimant in a review under paragraph (1) shall have—
 
-    “(1) In general.—The Attorney General is authorized to accept such amounts as may be contributed by individuals, business concerns, or other entities to carry out this title, under such terms and conditions as the Attorney General may impose.
+>             “(A) the right to be represented by an attorney;
 
-    “(2) Use of separate account.—In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
+>             “(B) the right to present evidence, including the presentation of witnesses and documents; and
 
-    “(d) Limitation.—
+>             “(C) any other due process rights determined appropriate by the Special Master.
 
-    “(1) In general.—The total amount of Federal funds paid for compensation under this title, with respect to claims filed on or after the date on which the regulations are updated under section 407(b), shall not exceed $2,775,000,000. Of such amounts, not to exceed $875,000,000 shall be available to pay such claims during the 5-year period beginning on such date.
+>         “(5) __No punitive damages.—__ 
 
-    “(2) Pro-ration and payment of remaining claims.—
+>         The Special Master may not include amounts for punitive damages in any compensation paid under a claim under this title.
 
-    “(A) In general.—The Special Master shall ratably reduce the amount of compensation due claimants under this title in a manner to ensure, to the extent possible, that—
+>         “(6) __Collateral compensation.—__ 
 
-    “(i) all claimants who, before application of the limitation under the second sentence of paragraph (1), would have been determined to be entitled to a payment under this title during such 5-year period, receive a payment during such period; and
+>         The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
 
-    “(ii) the total amount of all such payments made during such 5-year period do not exceed the amount available under the second sentence of paragraph (1) to pay claims during such period.
+>     “(c) __Eligibility.—__ 
 
-    “(B) Payment of remainder of claim amounts.—In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
+>         “(1) __In general.—__ 
 
-    “(i) the amount that the claimant would have been paid under this title during such period without regard to the limitation under the second sentence of paragraph (1) applicable to such period; and
+>         A claimant shall be determined to be an eligible individual for purposes of this subsection if the Special Master determines that such claimant—
 
-    “(ii) the amount the claimant was paid under this title during such period.
+>             “(A) is an individual described in paragraph (2); and
 
-    “(C) Termination.—Upon completion of all payments pursuant to this subsection, the Victim’s Compensation Fund shall be permanently closed.
+>             “(B) meets the requirements of paragraph (3).
 
-    “(e) Attorney Fees.—
+>         “(2) __Individuals.—__ 
 
-    “(1) In general.—Notwithstanding any contract, the representative of an individual may not charge, for services rendered in connection with the claim of an individual under this title, more than 10 percent of an award made under this title on such claim.
+>         A claimant is an individual described in this paragraph if the claimant is—
 
-    “(2) Limitation.—
+>             “(A)
 
-    “(A) In general.—Except as provided in subparagraph (B), in the case of an individual who was charged a legal fee in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii), the representative of the individual may not charge any amount for compensation for services rendered in connection with a claim filed under this title.
+>              an individual who—
 
-    “(B) Exception.—If the legal fee charged in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii) of an individual is less than 10 percent of the aggregate amount of compensation awarded to such individual through such settlement, the representative of such individual may charge an amount for compensation for services rendered to the extent that such amount charged is not more than—
+>                 “(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
 
-    “(i) 10 percent of such aggregate amount through the settlement, minus
+>                 “(ii) suffered physical harm or death as a result of such an air crash or debris removal;
 
-    “(ii) the total amount of all legal fees charged for services rendered in connection with such settlement.
+>             “(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11 or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
 
-    “(3) Discretion to lower fee.—In the event that the special master \[probably should be capitalized\] finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
+>             “(C) in the case of a decedent who is an individual described in subparagraph (A) or (B), the personal representative of the decedent who files a claim on behalf of the decedent.
 
-    “SEC. 407. REGULATIONS.
+>         “(3) __Requirements.—__ 
 
-    “(a) In General.—Not later than 90 days after the date of enactment of this Act \[Sept. 22, 2001\], the Attorney General, in consultation with the Special Master, shall promulgate regulations to carry out this title, including regulations with respect to—
+>             “(A) __Requirements for filing claims during extended filing period.—__ 
 
-    “(1) forms to be used in submitting claims under this title;
+>                 “(i) __Timing requirements for filing claims.—__ 
 
-    “(2) the information to be included in such forms;
+>                 An individual (or a personal representative on behalf of a deceased individual) may file a claim during the period described in subsection (a)(3)(B) as follows:
 
-    “(3) procedures for hearing and the presentation of evidence;
+>                          “(I) In the case that the Special Master determines the individual knew (or reasonably should have known) before the date specified in clause (iii) that the individual suffered a physical harm at a 9/11 crash site as a result of the terrorist-related aircraft crashes of September 11, 2001, or as a result of debris removal, and that the individual knew (or should have known) before such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the date that is 2 years after such specified date.
 
-    “(4) procedures to assist an individual in filing and pursuing claims under this title; and
+>                          “(II) In the case that the Special Master determines the individual first knew (or reasonably should have known) on or after the date specified in clause (iii) that the individual suffered such a physical harm or that the individual first knew (or should have known) on or after such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the last day of the 2-year period beginning on the date the Special Master determines the individual first knew (or should have known) that the individual both suffered from such harm and was eligible to file a claim under this title.
 
-    “(5) other matters determined appropriate by the Attorney General.
+>                 “(ii) __Other eligibility requirements for filing claims.—__ 
 
-    “(b) Updated Regulations.—Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of [Pub. L. 111–347][/us/pl/111/347], amending this note\].
+>                 An individual may file a claim during the period described in subsection (a)(3)(B) only if—
 
-    “SEC. 408. LIMITATION ON LIABILITY.
+>                          “(I) the individual was treated by a medical professional for suffering from a physical harm described in clause (i)(I) within a reasonable time from the date of discovering such harm; and
 
-    “(a) In General.—
+>                          “(II) the individual’s physical harm is verified by contemporaneous medical records created by or at the direction of the medical professional who provided the medical care.
 
-    “(1) Liability limited to insurance coverage.—Notwithstanding any other provision of law, liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity, arising from the terrorist-related aircraft crashes of September 11, 2001, against an air carrier, aircraft manufacturer, airport sponsor, or person with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect, or their directors, officers, employees, or agents, shall not be in an amount greater than the limits of liability insurance coverage maintained by that air carrier, aircraft manufacturer, airport sponsor, or person.
+>                 “(iii) __Date specified.—__ 
 
-    “(2) Willful defaults on rebuilding obligation.—Paragraph (1) does not apply to any such person with a property interest in the World Trade Center if the Attorney General determines, after notice and an opportunity for a hearing on the record, that the person has defaulted willfully on a contractual obligation to rebuild, or assist in the rebuilding of, the World Trade Center.
+>                 The date specified in this clause is the date on which the regulations are updated under section 407(a).
 
-    “(3) Limitations on liability for New York City.—Liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity arising from the terrorist-related aircraft crashes of September 11, 2001, against the City of New York shall not exceed the greater of the city’s insurance coverage or $350,000,000. If a claimant who is eligible to seek compensation under section 405 of this Act, submits a claim under section 405, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, including any such action against the City of New York. The preceding sentence does not apply to a civil action to recover collateral source obligations.
+>             “(B) __Single claim.—__ 
 
-“(4) Liability for certain claims.—Notwithstanding any other provision of law, liability for all claims and actions (including claims or actions that have been previously resolved, that are currently pending, and that may be filed) for compensatory damages, contribution or indemnity, or any other form or type of relief, arising from or related to debris removal, against the City of New York, any entity (including the Port Authority of New York and New Jersey) with a property interest in the World Trade Center on September 11, 2001 (whether fee simple, leasehold or easement, or direct or indirect) and any contractors and subcontractors, shall not be in an amount that exceeds the sum of the following, as may be applicable:
+>             Not more than one claim may be submitted under this title by an individual or on behalf of a deceased individual.
 
->     “(A) The amount of funds of the WTC Captive Insurance Company, including the cumulative interest.
+>             “(C) __Limitation on civil action.—__ 
 
->     “(B) The amount of all available insurance identified in schedule 2 of the WTC Captive Insurance Company insurance policy.
+>                 “(i) __In general.—__ 
 
->     “(C) As it relates to the limitation of liability of the City of New York, the amount that is the greater of the City of New York’s insurance coverage or $350,000,000. In determining the amount of the City’s insurance coverage for purposes of the previous sentence, any amount described in subparagraphs (A) and (B) shall not be included.
+>                 Upon the submission of a claim under this title, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, or for damages arising from or related to debris removal. The preceding sentence does not apply to a civil action to recover collateral source obligations, or to a civil action against any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act.
 
->     “(D) As it relates to the limitation of liability of any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center on September 11, 2001 (whether fee simple, leasehold or easement, or direct or indirect), the amount of all available liability insurance coverage maintained by any such entity.
+>                 “(ii) __Pending actions.—__ 
 
->     “(E) As it relates to the limitation of liability of any individual contractor or subcontractor, the amount of all available liability insurance coverage maintained by such contractor or subcontractor on September 11, 2001.
+>                 In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit a claim under this title—
 
->     “(5) __Priority of claims payments.—__ 
+>                          “(I) during the period described in subsection (a)(3)(A) unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407(a); and
 
->     Payments to plaintiffs who obtain a settlement or judgment with respect to a claim or action to which paragraph (4) applies, shall be paid solely from the following funds in the following order, as may be applicable:
+>                          “(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b).
 
->         “(A) The funds described in subparagraph (A) or (B) of paragraph (4).
+>                 “(iii) __Settled actions.—__ 
 
->         “(B) If there are no funds available as described in subparagraph (A) or (B) of paragraph (4), the funds described in subparagraph (C) of such paragraph.
+>                 In the case of an individual who settled a civil action described in clause (i), such individual may not submit a claim under this title unless such action was commenced after December 22, 2003, and a release of all claims in such action was tendered prior to the date on which the James Zadroga 9/11 Health and Compensation Act of 2010 \[[Pub. L. 111–347][/us/pl/111/347]\] was enacted \[Jan. 2, 2011\].
 
->         “(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), the funds described in subparagraph (D) of such paragraph.
+> “SEC. 406. __PAYMENTS TO ELIGIBLE INDIVIDUALS.__ 
 
->         “(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
+>     “(a) __In General.—__ 
 
->     “(6) __Declaratory judgment actions and direct action.—__ 
+>     Subject to the limitations under subsection (d), not later than 20 days after the date on which a determination is made by the Special Master regarding the amount of compensation due a claimant under this title, the Special Master shall authorize payment to such claimant of the amount determined with respect to the claimant.
 
->     Any claimant to a claim or action to which paragraph (4) applies may, with respect to such claim or action, either file an action for a declaratory judgment for insurance coverage or bring a direct action against the insurance company involved, except that no such action for declaratory judgment or direct action may be commenced until after the funds available in subparagraph\[s\] (A), (B), (C), and (D) of paragraph (5) have been exhausted consistent with the order described in such paragraph for payment.
+>     “(b) __Payment Authority.—__ 
+
+>     This title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
+
+>     “(c) __Additional Funding.—__ 
+
+>         “(1) __In general.—__ 
+
+>         The Attorney General is authorized to accept such amounts as may be contributed by individuals, business concerns, or other entities to carry out this title, under such terms and conditions as the Attorney General may impose.
+
+>         “(2) __Use of separate account.—__ 
+
+>         In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
+
+>     “(d) __Limitation.—__ 
+
+>         “(1) __In general.—__ 
+
+>         The total amount of Federal funds paid for compensation under this title, with respect to claims filed on or after the date on which the regulations are updated under section 407(b), shall not exceed $2,775,000,000. Of such amounts, not to exceed $875,000,000 shall be available to pay such claims during the 5-year period beginning on such date.
+
+>         “(2) __Pro-ration and payment of remaining claims.—__ 
+
+>             “(A) __In general.—__ 
+
+>             The Special Master shall ratably reduce the amount of compensation due claimants under this title in a manner to ensure, to the extent possible, that—
+
+>                 “(i) all claimants who, before application of the limitation under the second sentence of paragraph (1), would have been determined to be entitled to a payment under this title during such 5-year period, receive a payment during such period; and
+
+>                 “(ii) the total amount of all such payments made during such 5-year period do not exceed the amount available under the second sentence of paragraph (1) to pay claims during such period.
+
+>             “(B) __Payment of remainder of claim amounts.—__ 
+
+>             In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
+
+>                 “(i) the amount that the claimant would have been paid under this title during such period without regard to the limitation under the second sentence of paragraph (1) applicable to such period; and
+
+>                 “(ii) the amount the claimant was paid under this title during such period.
+
+>             “(C) __Termination.—__ 
+
+>             Upon completion of all payments pursuant to this subsection, the Victim’s Compensation Fund shall be permanently closed.
+
+>     “(e) __Attorney Fees.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Notwithstanding any contract, the representative of an individual may not charge, for services rendered in connection with the claim of an individual under this title, more than 10 percent of an award made under this title on such claim.
+
+>         “(2) __Limitation.—__ 
+
+>             “(A) __In general.—__ 
+
+>             Except as provided in subparagraph (B), in the case of an individual who was charged a legal fee in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii), the representative of the individual may not charge any amount for compensation for services rendered in connection with a claim filed under this title.
+
+>             “(B) __Exception.—__ 
+
+>             If the legal fee charged in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii) of an individual is less than 10 percent of the aggregate amount of compensation awarded to such individual through such settlement, the representative of such individual may charge an amount for compensation for services rendered to the extent that such amount charged is not more than—
+
+>                 “(i) 10 percent of such aggregate amount through the settlement, minus
+
+>                 “(ii) the total amount of all legal fees charged for services rendered in connection with such settlement.
+
+>         “(3) __Discretion to lower fee.—__ 
+
+>         In the event that the special master \[probably should be capitalized\] finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
+
+> “SEC. 407. __REGULATIONS.__ 
+
+>     “(a) __In General.—__ 
+
+>     Not later than 90 days after the date of enactment of this Act \[Sept. 22, 2001\], the Attorney General, in consultation with the Special Master, shall promulgate regulations to carry out this title, including regulations with respect to—
+
+>         “(1) forms to be used in submitting claims under this title;
+
+>         “(2) the information to be included in such forms;
+
+>         “(3) procedures for hearing and the presentation of evidence;
+
+>         “(4) procedures to assist an individual in filing and pursuing claims under this title; and
+
+>         “(5) other matters determined appropriate by the Attorney General.
+
+>     “(b) __Updated Regulations.—__ 
+
+>     Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of [Pub. L. 111–347][/us/pl/111/347], amending this note\].
+
+> “SEC. 408. __LIMITATION ON LIABILITY.__ 
+
+>     “(a) __In General.—__ 
+
+>         “(1) __Liability limited to insurance coverage.—__ 
+
+>         Notwithstanding any other provision of law, liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity, arising from the terrorist-related aircraft crashes of September 11, 2001, against an air carrier, aircraft manufacturer, airport sponsor, or person with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect, or their directors, officers, employees, or agents, shall not be in an amount greater than the limits of liability insurance coverage maintained by that air carrier, aircraft manufacturer, airport sponsor, or person.
+
+>         “(2) __Willful defaults on rebuilding obligation.—__ 
+
+>         Paragraph (1) does not apply to any such person with a property interest in the World Trade Center if the Attorney General determines, after notice and an opportunity for a hearing on the record, that the person has defaulted willfully on a contractual obligation to rebuild, or assist in the rebuilding of, the World Trade Center.
+
+>         “(3) __Limitations on liability for New York City.—__ 
+
+>         Liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity arising from the terrorist-related aircraft crashes of September 11, 2001, against the City of New York shall not exceed the greater of the city’s insurance coverage or $350,000,000. If a claimant who is eligible to seek compensation under section 405 of this Act, submits a claim under section 405, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, including any such action against the City of New York. The preceding sentence does not apply to a civil action to recover collateral source obligations.
+
+>         “(4) __Liability for certain claims.—__ 
+
+>         Notwithstanding any other provision of law, liability for all claims and actions (including claims or actions that have been previously resolved, that are currently pending, and that may be filed) for compensatory damages, contribution or indemnity, or any other form or type of relief, arising from or related to debris removal, against the City of New York, any entity (including the Port Authority of New York and New Jersey) with a property interest in the World Trade Center on September 11, 2001 (whether fee simple, leasehold or easement, or direct or indirect) and any contractors and subcontractors, shall not be in an amount that exceeds the sum of the following, as may be applicable:
+
+>             “(A) The amount of funds of the WTC Captive Insurance Company, including the cumulative interest.
+
+>             “(B) The amount of all available insurance identified in schedule 2 of the WTC Captive Insurance Company insurance policy.
+
+>             “(C) As it relates to the limitation of liability of the City of New York, the amount that is the greater of the City of New York’s insurance coverage or $350,000,000. In determining the amount of the City’s insurance coverage for purposes of the previous sentence, any amount described in subparagraphs (A) and (B) shall not be included.
+
+>             “(D) As it relates to the limitation of liability of any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center on September 11, 2001 (whether fee simple, leasehold or easement, or direct or indirect), the amount of all available liability insurance coverage maintained by any such entity.
+
+>             “(E) As it relates to the limitation of liability of any individual contractor or subcontractor, the amount of all available liability insurance coverage maintained by such contractor or subcontractor on September 11, 2001.
+
+>         “(5) __Priority of claims payments.—__ 
+
+>         Payments to plaintiffs who obtain a settlement or judgment with respect to a claim or action to which paragraph (4) applies, shall be paid solely from the following funds in the following order, as may be applicable:
+
+>             “(A) The funds described in subparagraph (A) or (B) of paragraph (4).
+
+>             “(B) If there are no funds available as described in subparagraph (A) or (B) of paragraph (4), the funds described in subparagraph (C) of such paragraph.
+
+>             “(C) If there are no funds available as described in subparagraph (A), (B), or (C) of paragraph (4), the funds described in subparagraph (D) of such paragraph.
+
+>             “(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
+
+>         “(6) __Declaratory judgment actions and direct action.—__ 
+
+>         Any claimant to a claim or action to which paragraph (4) applies may, with respect to such claim or action, either file an action for a declaratory judgment for insurance coverage or bring a direct action against the insurance company involved, except that no such action for declaratory judgment or direct action may be commenced until after the funds available in subparagraph\[s\] (A), (B), (C), and (D) of paragraph (5) have been exhausted consistent with the order described in such paragraph for payment.
 
 >     “(b) __Federal Cause of Action.—__ 
 
@@ -2481,21 +2633,21 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “The United States shall have the right of subrogation with respect to any claim paid by the United States under this title, subject to the limitations described in section 408.
 
- __“TITLE V—AIR TRANSPORTATION SAFETY__ 
+> “TITLE V— __AIR TRANSPORTATION SAFETY__ 
 
-    “SEC. 501. INCREASED AIR TRANSPORTATION SAFETY.
+> “SEC. 501. __INCREASED AIR TRANSPORTATION SAFETY.__ 
 
-    “Congress affirms the President’s decision to spend $3,000,000,000 on airline safety and security in conjunction with this Act in order to restore public confidence in the airline industry.
+>     “Congress affirms the President’s decision to spend $3,000,000,000 on airline safety and security in conjunction with this Act in order to restore public confidence in the airline industry.
 
-    “SEC. 502. CONGRESSIONAL COMMITMENT.
+> “SEC. 502. __CONGRESSIONAL COMMITMENT.__ 
 
-    “Congress is committed to act expeditiously, in consultation with the Secretary of Transportation, to strengthen airport security and take further measures to enhance the security of air travel.
+>     “Congress is committed to act expeditiously, in consultation with the Secretary of Transportation, to strengthen airport security and take further measures to enhance the security of air travel.
 
- __“TITLE VI—SEPARABILITY__ 
+> “TITLE VI— __SEPARABILITY__ 
 
-    “SEC. 601. SEPARABILITY.
+> “SEC. 601. __SEPARABILITY.__ 
 
-    “If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby.”
+>     “If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby.”
 
 \[[Pub. L. 107–134, title I, § 114(b)][/us/pl/107/134/s114/b], Jan. 23, 2002, [115 Stat. 2436][/us/stat/115/2436], provided that: 
 
@@ -2721,7 +2873,9 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) __Contents.—__ 
 
->                 The report submitted by the aviation funding task force under clause (i)—         “(I) shall consider the independent assessment under subsection (a);
+>                 The report submitted by the aviation funding task force under clause (i)—
+
+>                          “(I) shall consider the independent assessment under subsection (a);
 
 >                          “(II) shall consider estimated cost savings, if any, resulting from the procurement and personnel reforms included in this Act \[see Tables for classification\] or in sections 40110(d) and 40122(g) of title 49, United States Code, and additional financial initiatives;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702, 31703.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31701.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
 
 ## § 31704. Vehicle registration
 
@@ -69,7 +69,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(f), 105 Stat. 2154.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31702, 31703.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31701.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch317/m__us_usc_t49_s31705.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31704)
 
 ----------
 ----------

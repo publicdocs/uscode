@@ -885,13 +885,17 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >                 “(ii) __Required information from individual.—__ 
 
->                 The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—         “(I) describes the facility at which such information is located; and
+>                 The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—
+
+>                          “(I) describes the facility at which such information is located; and
 
 >                          “(II) identifies the date on which such information was generated.
 
 >                 “(iii) __Provision of information to individual.—__ 
 
->                 If the Administrator receives a request under this subparagraph, the Administrator shall—         “(I) request the contractor to provide the requested information; and
+>                 If the Administrator receives a request under this subparagraph, the Administrator shall—
+
+>                          “(I) request the contractor to provide the requested information; and
 
 >                          “(II) upon receiving such information, transmitting the information to the requesting individual in a timely manner.
 

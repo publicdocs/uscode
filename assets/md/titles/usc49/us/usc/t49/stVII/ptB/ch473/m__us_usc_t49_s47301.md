@@ -15,7 +15,7 @@
 
 ## § 47301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “airport property” means an interest in property used or useful in operating and maintaining an airport.
 

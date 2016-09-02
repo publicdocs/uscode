@@ -15,7 +15,7 @@
 
 ## § 13102. Definitions
 
-In this part, the following definitions shall apply:
+    In this part, the following definitions shall apply:
 
     (1) __Board.—__ 
 

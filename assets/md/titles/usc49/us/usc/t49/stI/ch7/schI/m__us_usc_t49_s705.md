@@ -15,7 +15,7 @@
 
 ## § 705. Authorization of appropriations
 
-There are authorized to be appropriated for the activities of the Board—
+    There are authorized to be appropriated for the activities of the Board—
 
     (1) $8,421,000 for fiscal year 1996;
 

@@ -15,7 +15,7 @@
 
 ## § 30101. Purpose and policy
 
-The purpose of this chapter is to reduce traffic accidents and deaths and injuries resulting from traffic accidents. Therefore it is necessary—
+    The purpose of this chapter is to reduce traffic accidents and deaths and injuries resulting from traffic accidents. Therefore it is necessary—
 
     (1) to prescribe motor vehicle safety standards for motor vehicles and motor vehicle equipment in interstate commerce; and
 
@@ -181,7 +181,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 >     “This part may be cited as the ‘National Highway Traffic Safety Administration Authorization Act of 1991’.
 
->     “\[SEC. 2501. Repealed. [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].\]
+> “\[SEC. 2501. Repealed. [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].\]
 
 > “SEC. 2502. __GENERAL PROVISIONS.__ 
 
@@ -223,9 +223,13 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 >                 “(iii) __Special rule.—__ 
 
->                          “(I) Period.—Action under paragraph (5) of section 2503 which was begun under subparagraph (A) shall be completed within 24 months of the date of publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking. If the Secretary determines that there is a need for delay and if the public comment period is closed, the Secretary may extend the date for completion for not more than 6 months and shall publish in the Federal Register a notice stating the reasons for the extension and setting a date certain for completion of the action. The extension of the completion date shall not be considered agency action subject to judicial review.
+>                          “(I) __Period.—__ 
 
->                          “(II) Action.—A rulemaking under paragraph (5) of section 2503 shall be considered completed when the Secretary promulgates a final rule with standards on improved head injury protection.
+>                     Action under paragraph (5) of section 2503 which was begun under subparagraph (A) shall be completed within 24 months of the date of publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking. If the Secretary determines that there is a need for delay and if the public comment period is closed, the Secretary may extend the date for completion for not more than 6 months and shall publish in the Federal Register a notice stating the reasons for the extension and setting a date certain for completion of the action. The extension of the completion date shall not be considered agency action subject to judicial review.
+
+>                          “(II) __Action.—__ 
+
+>                     A rulemaking under paragraph (5) of section 2503 shall be considered completed when the Secretary promulgates a final rule with standards on improved head injury protection.
 
 >             “(C) __Standard.—__ 
 
@@ -253,7 +257,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 >     “Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly [15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\], shall publish an advance notice of proposed rulemaking to consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the date of initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
 
->     “\[SEC. 2508. Repealed. [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].\]
+> “\[SEC. 2508. Repealed. [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379].\]
 
 > “SEC. 2509. __HEAD INJURY IMPACT STUDY.__ 
 

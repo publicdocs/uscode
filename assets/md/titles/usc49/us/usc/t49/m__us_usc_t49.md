@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t49/stI/m__us_usc_t49_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49)
 
-# 
-
-Title 49—TRANSPORTATION
+# Title 49—TRANSPORTATION
 
 This title was enacted by [Pub. L. 95–473, § 1][/us/pl/95/473/s1], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 97–449, § 1][/us/pl/97/449/s1], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413]; [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]
+
+Current through 113–44
 
 <table>
 

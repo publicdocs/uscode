@@ -15,7 +15,7 @@
 
 ## § 6310. Limitations on statutory construction
 
-Nothing in this chapter—
+    Nothing in this chapter—
 
     (1) authorizes the Bureau to require any other Federal agency to collect data; or
 

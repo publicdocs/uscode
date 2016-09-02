@@ -15,7 +15,7 @@
 
 ## § 44915. Exemptions
 
-The Under Secretary of Transportation for Security may exempt from sections 44901, 44903(a)–(c) and (e), 44906, 44935, and 44936 of this title airports in Alaska served only by air carriers that—
+    The Under Secretary of Transportation for Security may exempt from sections 44901, 44903(a)–(c) and (e), 44906, 44935, and 44936 of this title airports in Alaska served only by air carriers that—
 
     (1) hold certificates issued under [section 41102 of this title][/us/usc/t49/s41102];
 

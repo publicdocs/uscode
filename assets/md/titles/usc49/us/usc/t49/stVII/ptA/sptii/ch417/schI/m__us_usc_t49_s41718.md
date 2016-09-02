@@ -71,9 +71,9 @@
 
             (C) four shall be for air transportation to airports without regard to their size.
 
-        (4) __Applicability to exemption no. 5133.—__ 
+        (4) __Applicability to exemption no.__ 
 
-        Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
+         5133.—Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
 
     (d) __Application Procedures.—__ 
 

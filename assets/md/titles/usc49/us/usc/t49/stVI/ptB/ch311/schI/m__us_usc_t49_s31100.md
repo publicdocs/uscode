@@ -15,7 +15,7 @@
 
 ## § 31100. Purpose
 
-The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
+    The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
 
     (1) focusing resources on strategic safety investments to promote safe for-hire and private transportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
 

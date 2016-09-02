@@ -89,13 +89,13 @@
 
 [Pub. L. 112–141, div. C, title II, § 32302(c)(1)][/us/pl/112/141/s32302/c/1], (2)(B), July 6, 2012, [126 Stat. 789][/us/stat/126/789], provided that, effective on the date the oversight policies and procedures are established pursuant to [section 32302(c)(2)(A) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/A] (set out as a note below), subsection (c)(1) of this section is amended as follows:
 
-(1) by amending subparagraph (E) to read as follows:
+    (1) by amending subparagraph (E) to read as follows:
 
     “(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner’s certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;”;
 
-(2) in subparagraph (F), by striking the period at the end and inserting “; and”; and
+    (2) in subparagraph (F), by striking the period at the end and inserting “; and”; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (G) annually review the implementation of commercial driver’s license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
 
@@ -103,7 +103,7 @@
 
     (ii) the processing of the submissions by State licensing agencies.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __References in Text__ 
 

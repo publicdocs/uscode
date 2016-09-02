@@ -23,7 +23,7 @@
 
         (2) the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
 
-        \[(b), (c). Repealed. [Pub. L. 106–181, title I, § 106(d)(2)][/us/pl/106/181/s106/d/2], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].\]
+    \[(b), (c). Repealed. [Pub. L. 106–181, title I, § 106(d)(2)][/us/pl/106/181/s106/d/2], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].\]
 
 ([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1296][/us/stat/108/1296]; [Pub. L. 103–305, title I, § 102(b)][/us/pl/103/305/s102/b], Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I, § 103(b)][/us/pl/104/264/s103/b], (d)(1), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216]; [Pub. L. 104–287, § 5(87)][/us/pl/104/287/s5/87], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 106–181, title I, § 106(d)][/us/pl/106/181/s106/d], Apr. 5, 2000, [114 Stat. 73][/us/stat/114/73].)
 

@@ -15,7 +15,7 @@
 
 ## § 49103. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “Airports Authority” means the Metropolitan Washington Airports Authority, a public authority created by Virginia and the District of Columbia consistent with the requirements of [section 49106 of this title][/us/usc/t49/s49106].
 

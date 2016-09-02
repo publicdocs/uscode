@@ -35,7 +35,7 @@
 
         Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
 
-        (4) __Limitation for aircraft manufactured before august 5, 2004.—__ 
+        (4) __Limitation for aircraft manufactured before__  __august 5, 2004__  __.—__ 
 
         Paragraph (3) shall not apply to a person who began the manufacture of an aircraft before August 5, 2004, and who demonstrates to the satisfaction of the Administrator that such manufacture began before August 5, 2004, if the name of the holder of the type certificate for the aircraft does not appear on the airworthiness certificate or identification plate of the aircraft. The holder of the type certificate for the aircraft shall not be responsible for the continued airworthiness of the aircraft. A person may invoke the exception provided by this paragraph with regard to the manufacture of only one aircraft.
 

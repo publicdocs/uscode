@@ -15,7 +15,7 @@
 
 ## § 31308. Commercial driver’s license
 
-After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers’ licenses and learner’s permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
+    After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers’ licenses and learner’s permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
 
     (1)
 

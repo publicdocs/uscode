@@ -15,7 +15,7 @@
 
 ## § 60113. Customer-owned natural gas service lines
 
-Not later than October 24, 1993, the Secretary of Transportation shall prescribe standards requiring an operator of a natural gas distribution pipeline that does not maintain customer-owned natural gas service lines up to building walls to advise its customers of—
+    Not later than October 24, 1993, the Secretary of Transportation shall prescribe standards requiring an operator of a natural gas distribution pipeline that does not maintain customer-owned natural gas service lines up to building walls to advise its customers of—
 
     (1) the requirements for maintaining those lines;
 

@@ -15,7 +15,7 @@
 
 ## § 31501. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “migrant worker” means an individual going to or from employment in agriculture as provided under section 3121(g) of the Internal Revenue Code of 1986 ([26 U.S.C. 3121(g)][/us/usc/t26/s3121/g]) or section 3(f) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 203(f)][/us/usc/t29/s203/f]).
 

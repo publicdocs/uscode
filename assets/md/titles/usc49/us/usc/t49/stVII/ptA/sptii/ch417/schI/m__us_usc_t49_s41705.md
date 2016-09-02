@@ -135,7 +135,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 
 >     “(2) restrict the distribution of peanuts,
 
->         until 90 days after submission to the Congress and the Secretary of a peer-reviewed scientific study that determines that there are severe reactions by passengers to peanuts as a result of contact with very small airborne peanut particles of the kind that passengers might encounter in an aircraft.”
+>     until 90 days after submission to the Congress and the Secretary of a peer-reviewed scientific study that determines that there are severe reactions by passengers to peanuts as a result of contact with very small airborne peanut particles of the kind that passengers might encounter in an aircraft.”
 
     Similar provisions were contained in [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 372\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–479.
 

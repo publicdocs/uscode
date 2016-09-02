@@ -15,7 +15,7 @@
 
 ## § 6311. Research and development grants
 
-The Secretary may make grants to, or enter into cooperative agreements or contracts with, public and nonprofit private entities (including State transportation departments, metropolitan planning organizations, and institutions of higher education) for—
+    The Secretary may make grants to, or enter into cooperative agreements or contracts with, public and nonprofit private entities (including State transportation departments, metropolitan planning organizations, and institutions of higher education) for—
 
     (1) investigation of the subjects described in section 6302(b)(3)(B)(vi);
 

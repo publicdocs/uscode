@@ -15,7 +15,7 @@
 
 ## § 5302. Definitions
 
-Except as otherwise specifically provided, in this chapter the following definitions apply:
+    Except as otherwise specifically provided, in this chapter the following definitions apply:
 
     (1) __Associated transit improvement.—__ 
 

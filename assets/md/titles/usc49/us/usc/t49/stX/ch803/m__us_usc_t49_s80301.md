@@ -15,7 +15,7 @@
 
 ## § 80301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “aircraft” means a contrivance used, or capable of being used, for transportation in the air.
 

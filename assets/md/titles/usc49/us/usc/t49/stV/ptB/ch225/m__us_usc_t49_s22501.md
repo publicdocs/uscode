@@ -15,7 +15,7 @@
 
 ## § 22501. Financial assistance to States for certain projects
 
-The Secretary of Transportation shall make grants—
+    The Secretary of Transportation shall make grants—
 
     (1) to a maximum of 3 States per year for development or continuance of enhanced public education and awareness activities, in combination with targeted law enforcement, to significantly reduce violations of traffic laws at highway-rail grade crossings and to help prevent and reduce injuries and fatalities along railroad rights-of-way; and
 

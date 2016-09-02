@@ -179,7 +179,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub.
 
  __Repeal of Section__ 
 
-[Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
+    [Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
 
  __Amendments__ 
 

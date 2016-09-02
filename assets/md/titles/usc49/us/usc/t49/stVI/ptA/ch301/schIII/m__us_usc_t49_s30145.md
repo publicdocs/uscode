@@ -15,7 +15,7 @@
 
 ## § 30145. Importing motor vehicles or equipment requiring further manufacturing
 
-[Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to a motor vehicle or motor vehicle equipment if the vehicle or equipment—
+    [Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to a motor vehicle or motor vehicle equipment if the vehicle or equipment—
 
     (1) requires further manufacturing to perform its intended function as decided under regulations prescribed by the Secretary of Transportation; and
 

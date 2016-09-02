@@ -279,13 +279,13 @@
 
 [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32921(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 827, 828, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), subsection (a)(2) of this section is amended:
 
-(1) in subparagraph (B), by striking “section 13702(c);” and inserting “section 13702(c); and”;
+    (1) in subparagraph (B), by striking “section 13702(c);” and inserting “section 13702(c); and”;
 
-(2) by amending subparagraph (C) to read “(C) demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage.”; and
+    (2) by amending subparagraph (C) to read “(C) demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage.”; and
 
-(3) by striking subparagraph (D).
+    (3) by striking subparagraph (D).
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 

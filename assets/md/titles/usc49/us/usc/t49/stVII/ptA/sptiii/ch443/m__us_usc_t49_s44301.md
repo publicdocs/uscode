@@ -15,7 +15,7 @@
 
 ## § 44301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “aircraft manufacturer” means any company or other business entity, the majority ownership and control of which is by United States citizens, that manufactures aircraft or aircraft engines.
 

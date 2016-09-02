@@ -15,7 +15,7 @@
 
 ## § 6301. Definitions
 
-In this chapter, the following definitions apply:
+    In this chapter, the following definitions apply:
 
     (1) __Bureau.—__ 
 

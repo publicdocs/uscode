@@ -15,7 +15,7 @@
 
 ## § 47501. Definitions
 
-In this subchapter—
+    In this subchapter—
 
     (1) “airport” means a public-use airport as defined in [section 47102 of this title][/us/usc/t49/s47102].
 

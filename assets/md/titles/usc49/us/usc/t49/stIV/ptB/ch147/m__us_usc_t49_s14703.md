@@ -15,7 +15,7 @@
 
 ## § 14703. Enforcement by the Attorney General
 
-The Attorney General may, and on request of either the Secretary or the Board shall, bring court proceedings—
+    The Attorney General may, and on request of either the Secretary or the Board shall, bring court proceedings—
 
     (1) to enforce this part or a regulation or order of the Secretary or Board or terms of registration under this part; and
 

@@ -15,7 +15,7 @@
 
 ## § 1117. Annual report
 
-The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
+    The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
 
     (1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
 

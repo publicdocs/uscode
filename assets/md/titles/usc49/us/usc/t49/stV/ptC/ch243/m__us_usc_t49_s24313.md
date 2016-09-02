@@ -15,7 +15,7 @@
 
 ## § 24313. Rail safety system program
 
-In consultation with rail labor organizations, Amtrak shall maintain a rail safety system program for employees working on property owned by Amtrak. The program shall be a model for other rail carriers to use in developing safety programs. The program shall include—
+    In consultation with rail labor organizations, Amtrak shall maintain a rail safety system program for employees working on property owned by Amtrak. The program shall be a model for other rail carriers to use in developing safety programs. The program shall include—
 
     (1) periodic analyses of accident information, including primary and secondary causes;
 

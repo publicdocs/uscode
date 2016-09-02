@@ -83,15 +83,15 @@
 
 [Pub. L. 112–90, § 3(b)][/us/pl/112/90/s3/b], (c), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], provided that, effective 2 years after Jan. 3, 2012, subsec. (a) is amended as follows:
 
-(1) in paragraph (1) by striking “and” after the semicolon;
+    (1) in paragraph (1) by striking “and” after the semicolon;
 
-(2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and
+    (2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __Amendments__ 
 

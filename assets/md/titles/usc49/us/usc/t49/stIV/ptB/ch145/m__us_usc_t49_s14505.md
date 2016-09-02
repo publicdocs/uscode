@@ -15,7 +15,7 @@
 
 ## § 14505. State tax
 
-A State or political subdivision thereof may not collect or levy a tax, fee, head charge, or other charge on—
+    A State or political subdivision thereof may not collect or levy a tax, fee, head charge, or other charge on—
 
     (1) a passenger traveling in interstate commerce by motor carrier;
 

@@ -15,7 +15,7 @@
 
 ## § 6312. Transportation statistics annual report
 
-The Director shall submit to the President and Congress a transportation statistics annual report, which shall include—
+    The Director shall submit to the President and Congress a transportation statistics annual report, which shall include—
 
     (1) information on the progress of the Director in carrying out the duties described in section 6302(b)(3)(B);
 

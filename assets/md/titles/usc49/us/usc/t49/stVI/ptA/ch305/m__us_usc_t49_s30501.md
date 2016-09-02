@@ -15,7 +15,7 @@
 
 ## § 30501. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “automobile” has the same meaning given that term in [section 32901(a) of this title][/us/usc/t49/s32901/a].
 

@@ -15,7 +15,7 @@
 
 ## § 32711. Relationship to State law
 
-Except to the extent that State law is inconsistent with this chapter, this chapter does not—
+    Except to the extent that State law is inconsistent with this chapter, this chapter does not—
 
     (1) affect a State law on disconnecting, altering, or tampering with an odometer with intent to defraud; or
 

@@ -15,7 +15,7 @@
 
 ## § 41501. Establishing reasonable prices, classifications, rules, practices, and divisions of joint prices for foreign air transportation
 
-Every air carrier and foreign air carrier shall establish, comply with, and enforce—
+    Every air carrier and foreign air carrier shall establish, comply with, and enforce—
 
     (1) reasonable prices, classifications, rules, and practices related to foreign air transportation; and
 

@@ -15,7 +15,7 @@
 
 ## § 28501. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) the term “Board” means the Surface Transportation Board;
 

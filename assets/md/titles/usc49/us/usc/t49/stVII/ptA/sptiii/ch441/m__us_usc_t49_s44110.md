@@ -15,7 +15,7 @@
 
 ## § 44110. Information about aircraft ownership and rights
 
-The Administrator of the Federal Aviation Administration may provide by regulation for—
+    The Administrator of the Federal Aviation Administration may provide by regulation for—
 
     (1) endorsing information on each certificate of registration issued under [section 44103 of this title][/us/usc/t49/s44103] and each certificate issued under [section 44704 of this title][/us/usc/t49/s44704] about ownership of the aircraft for which each certificate is issued; and
 

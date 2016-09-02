@@ -15,7 +15,7 @@
 
 ## § 31301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “alcohol” has the same meaning given the term “alcoholic beverage” in [section 158(c) of title 23][/us/usc/t23/s158/c].
 

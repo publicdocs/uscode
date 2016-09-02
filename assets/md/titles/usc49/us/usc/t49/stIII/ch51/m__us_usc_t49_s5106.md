@@ -15,7 +15,7 @@
 
 ## § 5106. Handling criteria
 
-The Secretary may prescribe criteria for handling hazardous material, including—
+    The Secretary may prescribe criteria for handling hazardous material, including—
 
     (1) a minimum number of personnel;
 

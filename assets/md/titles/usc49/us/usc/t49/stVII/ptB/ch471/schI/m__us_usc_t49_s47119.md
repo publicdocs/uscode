@@ -45,11 +45,11 @@
 
     (b) __Repaying Borrowed Money.—__ 
 
-        (1) __Terminal development costs incurred after june 30, 1970, and before july 12, 1976.—__ 
+        (1) __Terminal development costs incurred after__  __june 30, 1970__  __, and before__  __july 12, 1976__  __.—__ 
 
         An amount apportioned under section 47114 and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
 
-        (2) __Terminal development costs incurred between january 1, 1992, and october 31, 1992.—__ 
+        (2) __Terminal development costs incurred between__  __january 1, 1992__  __, and__  __october 31, 1992__  __.—__ 
 
         An amount apportioned under section 47114 and made available to the sponsor of a nonhub airport at which terminal development was carried out between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d).
 

@@ -15,7 +15,7 @@
 
 ## § 6102. Definitions
 
-In this chapter, the following definitions apply:
+    In this chapter, the following definitions apply:
 
     (1) __One-call notification system.—__ 
 

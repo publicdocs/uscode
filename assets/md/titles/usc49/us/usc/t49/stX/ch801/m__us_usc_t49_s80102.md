@@ -15,7 +15,7 @@
 
 ## § 80102. Application
 
-This chapter applies to a bill of lading when the bill is issued by a common carrier for the transportation of goods—
+    This chapter applies to a bill of lading when the bill is issued by a common carrier for the transportation of goods—
 
     (1) between a place in the District of Columbia and another place in the District of Columbia;
 

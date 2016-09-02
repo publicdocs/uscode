@@ -67,7 +67,7 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32918(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 822, 826, provided that, effective 1 year after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), this section is amended by striking subsections (b) and (c) and inserting the following:
+    [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32918(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 822, 826, provided that, effective 1 year after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), this section is amended by striking subsections (b) and (c) and inserting the following:
 
     (b) Broker Financial Security Requirements.—
 
@@ -203,7 +203,7 @@
 
     (9) Deduction of costs prohibited.—The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __References in Text__ 
 

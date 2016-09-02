@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707, 24708.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24706.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
 
 ## § 24709. International transportation
 
-Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of the Treasury and the Attorney General, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
+    Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of the Treasury and the Attorney General, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
 
     (1) be convenient for passengers; and
 
@@ -111,7 +111,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707, 24708.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24706.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24710.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24709)
 
 ----------
 ----------

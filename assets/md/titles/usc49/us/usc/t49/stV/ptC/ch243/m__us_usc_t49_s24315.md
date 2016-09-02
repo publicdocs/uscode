@@ -309,7 +309,7 @@ Oct. 30, 1970, Pub. L. 91–518, § 805(2)(C), 84 Stat. 1340; June 22, 1972, P
 
 >     “(3) the amount and nature of Amtrak’s financial obligation under the contract.
 
->         This section applies only to contracts, renewals or extensions of contracts, or arrangements entered into after the date of the enactment of this Act \[Dec. 2, 1997\].”
+>     This section applies only to contracts, renewals or extensions of contracts, or arrangements entered into after the date of the enactment of this Act \[Dec. 2, 1997\].”
 
 ----------
 

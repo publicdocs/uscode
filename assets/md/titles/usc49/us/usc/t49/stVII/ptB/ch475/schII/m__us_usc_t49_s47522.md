@@ -15,7 +15,7 @@
 
 ## § 47522. Definitions
 
-In this subchapter—
+    In this subchapter—
 
     (1) “air carrier”, “air transportation”, and “United States” have the same meanings given those terms in [section 40102(a) of this title][/us/usc/t49/s40102/a].
 

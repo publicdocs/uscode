@@ -419,11 +419,19 @@
 
 >             For purposes of determining whether substantial restoration of the natural quiet and experience of the Park has been achieved in accordance with paragraph (1), the Secretary of the Interior (in this section referred to as the ‘Secretary’) shall use—
 
->                 “(i) the 2-zone system for the Park in effect on the date of enactment of this Act to assess impacts relating to substantial restoration of natural quiet at the Park, including—         “(I) the thresholds for noticeability and audibility; and
+>                 “(i)
+
+>                  the 2-zone system for the Park in effect on the date of enactment of this Act to assess impacts relating to substantial restoration of natural quiet at the Park, including—
+
+>                          “(I) the thresholds for noticeability and audibility; and
 
 >                          “(II) the distribution of land between the 2 zones; and
 
->                 “(ii) noise modeling science that is—         “(I) developed for use at the Park, specifically Integrated Noise Model Version 6.2;
+>                 “(ii)
+
+>                  noise modeling science that is—
+
+>                          “(I) developed for use at the Park, specifically Integrated Noise Model Version 6.2;
 
 >                          “(II) validated by reasonable standards for conducting field observations of model results; and
 

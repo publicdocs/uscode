@@ -15,7 +15,7 @@
 
 ## § 44707. Examining and rating air agencies
 
-The Administrator of the Federal Aviation Administration may examine and rate the following air agencies:
+    The Administrator of the Federal Aviation Administration may examine and rate the following air agencies:
 
     (1) civilian schools giving instruction in flying or repairing, altering, and maintaining aircraft, aircraft engines, propellers, and appliances, on the adequacy of instruction, the suitability and airworthiness of equipment, and the competency of instructors.
 

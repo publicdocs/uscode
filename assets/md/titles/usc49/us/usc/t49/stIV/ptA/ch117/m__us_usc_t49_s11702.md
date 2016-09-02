@@ -15,7 +15,7 @@
 
 ## § 11702. Enforcement by the Board
 
-The Board may bring a civil action—
+    The Board may bring a civil action—
 
     (1) to enjoin a rail carrier from violating sections 10901 through 10906 of this title, or a regulation prescribed or order or certificate issued under any of those sections;
 

@@ -15,7 +15,7 @@
 
 ## § 41746. Tracking service
 
-The Secretary of Transportation shall require a carrier that provides essential air service to an eligible place and that receives compensation for such service under this subchapter to report not less than semiannually—
+    The Secretary of Transportation shall require a carrier that provides essential air service to an eligible place and that receives compensation for such service under this subchapter to report not less than semiannually—
 
     (1) the percentage of flights to and from the place that arrive on time as defined by the Secretary; and
 

@@ -15,7 +15,7 @@
 
 ## § 6306. Transportation statistical collection, analysis, and dissemination
 
-To ensure that all transportation statistical collection, analysis, and dissemination is carried out in a coordinated manner, the Director may—
+    To ensure that all transportation statistical collection, analysis, and dissemination is carried out in a coordinated manner, the Director may—
 
     (1) use the services, equipment, records, personnel, information, and facilities of other Federal agencies, or State, local, and private agencies and instrumentalities, subject to the conditions that the applicable agency or instrumentality consents to that use and with or without reimbursement for such use;
 

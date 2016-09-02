@@ -15,7 +15,7 @@
 
 ## § 30301. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “alcohol” has the same meaning given that term in regulations prescribed by the Secretary of Transportation.
 

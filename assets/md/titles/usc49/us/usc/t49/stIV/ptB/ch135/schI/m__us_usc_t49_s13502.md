@@ -15,7 +15,7 @@
 
 ## § 13502. Exempt transportation between Alaska and other States
 
-To the extent that transportation by a motor carrier between a place in Alaska and a place in another State under section 13501 is provided in a foreign country—
+    To the extent that transportation by a motor carrier between a place in Alaska and a place in another State under section 13501 is provided in a foreign country—
 
     (1) neither the Secretary nor the Board has jurisdiction to impose a requirement over conduct of the motor carrier in the foreign country conflicting with a requirement of that country; but
 

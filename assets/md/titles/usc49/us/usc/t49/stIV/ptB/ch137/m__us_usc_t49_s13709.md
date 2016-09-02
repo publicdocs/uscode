@@ -71,7 +71,7 @@
 
         A person must notify the carrier or freight forwarder as to its election to proceed under subsection (b), (c), or (d). Except as provided in paragraphs (2), (3), and (4), such election may be made at any time.
 
-        (2) __Demands for payment initially made after december 3, 1993.—__ 
+        (2) __Demands for payment initially made after__  __december 3, 1993__  __.—__ 
 
         If the carrier or freight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
 
@@ -79,11 +79,11 @@
 
             (B) March 5, 1994.
 
-        (3) __Pending suits for collection made before december 4, 1993.—__ 
+        (3) __Pending suits for collection made before__  __december 4, 1993__  __.—__ 
 
         If the carrier or freight forwarder or party representing such carrier or freight forwarder has filed, before December 4, 1993, a suit for the collection of additional freight charges and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the 90th day following the date on which such notification is received.
 
-        (4) __Demands for payment made before december 4, 1993.—__ 
+        (4) __Demands for payment made before__  __december 4, 1993__  __.—__ 
 
         If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
 

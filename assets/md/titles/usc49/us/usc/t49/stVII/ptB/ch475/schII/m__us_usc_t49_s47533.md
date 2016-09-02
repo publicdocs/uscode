@@ -15,7 +15,7 @@
 
 ## § 47533. Relationship to other laws
 
-Except as provided by [section 47524 of this title][/us/usc/t49/s47524], this subchapter does not affect—
+    Except as provided by [section 47524 of this title][/us/usc/t49/s47524], this subchapter does not affect—
 
     (1) law in effect on November 5, 1990, on airport noise or access restrictions by local authorities;
 

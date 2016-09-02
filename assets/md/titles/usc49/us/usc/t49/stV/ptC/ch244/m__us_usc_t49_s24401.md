@@ -15,7 +15,7 @@
 
 ## § 24401. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Applicant.—__ 
 

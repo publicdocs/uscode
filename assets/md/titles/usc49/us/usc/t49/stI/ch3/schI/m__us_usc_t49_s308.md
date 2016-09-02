@@ -43,7 +43,7 @@
 
         (3) factors that may impede the continued development of the ports.
 
-        \[(d) Repealed. [Pub. L. 104–66, title I, § 1121(h)][/us/pl/104/66/s1121/h], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
+    \[(d) Repealed. [Pub. L. 104–66, title I, § 1121(h)][/us/pl/104/66/s1121/h], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].\]
 
     (e)
 

@@ -15,7 +15,7 @@
 
 ## § 22102. Eligibility
 
-A State is eligible to receive financial assistance under this chapter only when the State complies with regulations the Secretary of Transportation prescribes under this chapter and the Secretary decides that—
+    A State is eligible to receive financial assistance under this chapter only when the State complies with regulations the Secretary of Transportation prescribes under this chapter and the Secretary decides that—
 
     (1) the State has an adequate plan for rail transportation in the State and a suitable process for updating, revising, and modifying the plan;
 

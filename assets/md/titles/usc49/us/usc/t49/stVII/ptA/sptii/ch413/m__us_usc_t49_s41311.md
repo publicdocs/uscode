@@ -41,7 +41,7 @@
 
 >     “(3) whether gambling should be allowed on international flights, including proposed legislation to effectuate any recommended changes in existing law.
 
->         The Secretary shall, within 5 days after the completion of the study, submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives on the results of the study.”
+>     The Secretary shall, within 5 days after the completion of the study, submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives on the results of the study.”
 
 ----------
 

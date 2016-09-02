@@ -75,7 +75,7 @@
 
     (2) Exemptions prohibited.—In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __Amendments__ 
 

@@ -449,7 +449,9 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >                 “(ii) __Exclusions.—__ 
 
->                 The term ‘motorcoach’ does not include—         “(I) a bus used in public transportation that is provided by a State or local government; or
+>                 The term ‘motorcoach’ does not include—
+
+>                          “(I) a bus used in public transportation that is provided by a State or local government; or
 
 >                          “(II) a school bus (as defined in [section 30125(a)(1) of title 49][/us/usc/t49/s30125/a/1], United States Code), including a multifunction school activity bus.
 
@@ -571,13 +573,21 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >                 “(i) is traveling in the State in which the vehicle is registered or another State;
 
->                 “(ii) is operated by—         “(I) a farm owner or operator;
+>                 “(ii)
+
+>                  is operated by—
+
+>                          “(I) a farm owner or operator;
 
 >                          “(II) a ranch owner or operator; or
 
 >                          “(III) an employee or family member of an individual specified in subclause (I) or (II);
 
->                 “(iii) is transporting to or from a farm or ranch—         “(I) agricultural commodities;
+>                 “(iii)
+
+>                  is transporting to or from a farm or ranch—
+
+>                          “(I) agricultural commodities;
 
 >                          “(II) livestock; or
 

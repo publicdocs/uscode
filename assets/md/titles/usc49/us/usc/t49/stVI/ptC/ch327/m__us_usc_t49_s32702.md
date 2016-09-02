@@ -15,7 +15,7 @@
 
 ## § 32702. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “auction company” means a person taking possession of a motor vehicle owned by another to sell at an auction.
 

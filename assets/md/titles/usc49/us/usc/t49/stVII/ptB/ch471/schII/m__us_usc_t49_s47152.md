@@ -15,7 +15,7 @@
 
 ## § 47152. Terms of conveyances
 
-Except as provided in [section 47153 of this title][/us/usc/t49/s47153], the following terms apply to a conveyance of an interest in surplus property under this subchapter:
+    Except as provided in [section 47153 of this title][/us/usc/t49/s47153], the following terms apply to a conveyance of an interest in surplus property under this subchapter:
 
     (1) A State, political subdivision of a State, or tax-supported organization receiving the interest may use, lease, salvage, or dispose of the interest for other than airport purposes only after the Secretary of Transportation gives written consent that the interest can be used, leased, salvaged, or disposed of without materially and adversely affecting the development, improvement, operation, or maintenance of the airport at which the property is located.
 

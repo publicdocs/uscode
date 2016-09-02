@@ -15,7 +15,7 @@
 
 ## § 10101. Rail transportation policy
 
-In regulating the railroad industry, it is the policy of the United States Government—
+    In regulating the railroad industry, it is the policy of the United States Government—
 
     (1) to allow, to the maximum extent possible, competition and the demand for services to establish reasonable rates for transportation by rail;
 

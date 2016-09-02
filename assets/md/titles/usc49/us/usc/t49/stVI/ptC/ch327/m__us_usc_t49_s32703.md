@@ -15,7 +15,7 @@
 
 ## § 32703. Preventing tampering
 
-A person may not—
+    A person may not—
 
     (1) advertise for sale, sell, use, install, or have installed, a device that makes an odometer of a motor vehicle register a mileage different from the mileage the vehicle was driven, as registered by the odometer within the designed tolerance of the manufacturer of the odometer;
 

@@ -63,13 +63,13 @@
 
 [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title I, § 31203(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 758, provided that, effective on the date that is the earlier of the date on which final regulations are issued under [section 31203(b) of Pub. L. 112–141][/us/pl/112/141/s31203/b] (set out as a note below) or 1 year after the date of enactment of this Act (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), this section is amended as follows:
 
-(1) in subsection (a)—
+    (1) in subsection (a)—
 
-(A) in paragraph (1), by striking “30123(d)” and inserting “30123(a)” and by striking “$15,000,000” and inserting “$35,000,000”; and
+    (A) in paragraph (1), by striking “30123(d)” and inserting “30123(a)” and by striking “$15,000,000” and inserting “$35,000,000”; and
 
-(B) in paragraph (3), by striking “$15,000,000” and inserting “$35,000,000”; and
+    (B) in paragraph (3), by striking “$15,000,000” and inserting “$35,000,000”; and
 
-(2) by amending subsection (c) to read as follows:
+    (2) by amending subsection (c) to read as follows:
 
     (c) Relevant Factors in Determining Amount of Penalty or Compromise.—In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
 
@@ -91,7 +91,7 @@
 
     (9) other appropriate factors.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
 <table>
 

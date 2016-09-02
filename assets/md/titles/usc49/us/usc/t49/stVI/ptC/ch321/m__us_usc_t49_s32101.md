@@ -15,7 +15,7 @@
 
 ## § 32101. Definitions
 
-In this part (except chapter 329 and except as provided in section 33101)—
+    In this part (except chapter 329 and except as provided in section 33101)—
 
     (1)
 

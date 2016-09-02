@@ -173,15 +173,15 @@
 
     (B) Providers of motorcoach services.—The Secretary shall require, by regulation, each owner and each operator granted new registration to transport passengers under section 13902 or 31134 to undergo a safety review not later than 120 days after the owner or operator, as the case may be, begins operations under such registration.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
-[Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32921(b), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 828, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), subsection (g) of this section is amended by adding at the end the following:
+    [Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title II, § 32921(b), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 828, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141] (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), subsection (g) of this section is amended by adding at the end the following:
 
     (6) Additional requirements for household goods motor carriers.—(A) In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
 
     (B) Elements.—In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
 <table>
 

@@ -15,7 +15,7 @@
 
 ## § 11903. Record keeping and reporting violations
 
-A person required to make a report to the Board, or make, prepare, or preserve a record, under subchapter III of chapter 111 of this title about transportation subject to the jurisdiction of the Board under this part that knowingly and willfully—
+    A person required to make a report to the Board, or make, prepare, or preserve a record, under subchapter III of chapter 111 of this title about transportation subject to the jurisdiction of the Board under this part that knowingly and willfully—
 
     (1) makes a false entry in the report or record;
 
@@ -27,7 +27,7 @@ A person required to make a report to the Board, or make, prepare, or preserve a
 
     (5) files a false report or record with the Board,
 
-        shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
+    shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
 
 (Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 851][/us/stat/109/851].)
 

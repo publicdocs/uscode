@@ -15,7 +15,7 @@
 
 ## § 14907. Recordkeeping and reporting violations
 
-A person required to make a report to the Secretary or the Board, as applicable, answer a question, or make, prepare, or preserve a record under this part about transportation subject to jurisdiction under subchapter I or III of chapter 135, or an officer, agent, or employee of that person, that—
+    A person required to make a report to the Secretary or the Board, as applicable, answer a question, or make, prepare, or preserve a record under this part about transportation subject to jurisdiction under subchapter I or III of chapter 135, or an officer, agent, or employee of that person, that—
 
     (1) does not make that report;
 
@@ -31,7 +31,7 @@ A person required to make a report to the Secretary or the Board, as applicable,
 
     (7) makes, prepares, or preserves a record in violation of an applicable regulation or order of the Secretary or Board;
 
-        is liable to the United States for a civil penalty of not more than $5,000.
+    is liable to the United States for a civil penalty of not more than $5,000.
 
 (Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 916][/us/stat/109/916].)
 

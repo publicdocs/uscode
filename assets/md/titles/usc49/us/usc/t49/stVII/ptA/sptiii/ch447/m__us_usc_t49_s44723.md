@@ -15,7 +15,7 @@
 
 ## § 44723. Annual report
 
-Not later than January 1 of each year, the Secretary of Transportation shall submit to Congress a comprehensive report on the safety enforcement activities of the Federal Aviation Administration during the fiscal year ending the prior September 30th. The report shall include—
+    Not later than January 1 of each year, the Secretary of Transportation shall submit to Congress a comprehensive report on the safety enforcement activities of the Federal Aviation Administration during the fiscal year ending the prior September 30th. The report shall include—
 
     (1) a comparison of end-of-year staffing levels by operations, maintenance, and avionics inspector categories to staffing goals and a statement on how staffing standards were applied to make allocations between air carrier and general aviation operations, maintenance, and avionics inspectors;
 

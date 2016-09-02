@@ -15,7 +15,7 @@
 
 ## § 80116. Criminal penalty
 
-A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person—
+    A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person—
 
     (1) violates this chapter with intent to defraud; or
 

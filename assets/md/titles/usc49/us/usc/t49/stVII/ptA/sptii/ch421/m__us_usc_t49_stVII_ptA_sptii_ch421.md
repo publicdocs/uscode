@@ -119,9 +119,15 @@ SUBCHAPTER III—WHISTLEBLOWER PROTECTION PROGRAM  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2000—[Pub. L. 106–181, title V, § 519(b)][/us/pl/106/181/s519/b], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], added heading for subchapter III and item 42121.
 

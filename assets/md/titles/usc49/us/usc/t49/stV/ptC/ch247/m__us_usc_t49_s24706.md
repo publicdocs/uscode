@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24703 to 24705.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707, 24708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24702.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24709.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
 
 ## § 24706. Discontinuance
 
@@ -345,9 +345,15 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 
 >     [Section 1172(c) of title 11][/us/usc/t11/s1172/c], United States Code, shall not apply to Amtrak and its employees.”
 
+\[§§ 24707, 24708. __Repealed.__  __[__  __Pub. L. 105–134, title I, § 101(d)__  __][/us/pl/105/134/s101/d]__  __, (e),__  __Dec. 2, 1997__  __,__  __[__  __111 Stat. 2572__  __][/us/stat/111/2572]__  __\]__ 
+
+    Section 24707, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 928][/us/stat/108/928], required annual route, financial, and performance reviews.
+
+    Section 24708, [Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 929][/us/stat/108/929], related to continuing, modifying, or discontinuing passenger transportation routes.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24703 to 24705.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24707, 24708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24702.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24709.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24706)
 
 ----------
 ----------
@@ -386,5 +392,11 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 [/us/usc/t45/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs160
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/usc/t11/s1172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1172%2Fc
+[/us/pl/105/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fd
+[/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
+[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/stat/108/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F928
+[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/stat/108/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F929
 
 

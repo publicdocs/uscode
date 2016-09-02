@@ -15,7 +15,7 @@
 
 ## § 24406. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Transportation for capital grants under this chapter the following amounts:
+    There are authorized to be appropriated to the Secretary of Transportation for capital grants under this chapter the following amounts:
 
     (1) For fiscal year 2009, $100,000,000.
 

@@ -15,7 +15,7 @@
 
 ## § 47526. Limitations for noncomplying airport noise and access restrictions
 
-Unless the Secretary of Transportation is satisfied that an airport is not imposing an airport noise or access restriction not in compliance with this subchapter, the airport may not—
+    Unless the Secretary of Transportation is satisfied that an airport is not imposing an airport noise or access restriction not in compliance with this subchapter, the airport may not—
 
     (1) receive money under subchapter I of chapter 471 of this title; or
 

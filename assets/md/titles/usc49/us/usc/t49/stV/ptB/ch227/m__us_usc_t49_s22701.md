@@ -15,7 +15,7 @@
 
 ## § 22701. Definitions
 
-In this subchapter:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “chapter:”. </sup></sup> 
+    In this subchapter:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “chapter:”. </sup></sup> 
 
     (1) __Private benefit.—__ 
 

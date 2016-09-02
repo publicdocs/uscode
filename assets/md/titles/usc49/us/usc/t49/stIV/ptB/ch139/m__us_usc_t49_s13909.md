@@ -15,7 +15,7 @@
 
 ## § 13909. Availability of information
 
-The Secretary shall make information relating to registration and financial security required by this chapter publicly available on the Internet, including—
+    The Secretary shall make information relating to registration and financial security required by this chapter publicly available on the Internet, including—
 
     (1) the names and business addresses of the principals of each entity holding such registration;
 

@@ -15,7 +15,7 @@
 
 ## § 41738. Fitness of air carriers
 
-Notwithstanding section 40109(a) and (c)–(h) of this title, an air carrier may provide air service to an eligible place or air transportation to a place designated under [section 41736 of this title][/us/usc/t49/s41736] only when the Secretary of Transportation decides that—
+    Notwithstanding section 40109(a) and (c)–(h) of this title, an air carrier may provide air service to an eligible place or air transportation to a place designated under [section 41736 of this title][/us/usc/t49/s41736] only when the Secretary of Transportation decides that—
 
     (1) the carrier is fit, willing, and able to perform the service or transportation; and
 

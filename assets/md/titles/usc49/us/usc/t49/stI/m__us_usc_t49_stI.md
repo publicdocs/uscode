@@ -67,9 +67,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1995—[Pub. L. 104–88, title II, § 201(b)][/us/pl/104/88/s201/b], Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], added item for chapter 7.
 

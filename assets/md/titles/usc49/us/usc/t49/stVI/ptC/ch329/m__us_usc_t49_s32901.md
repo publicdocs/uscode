@@ -645,7 +645,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >                 “(i) has not and will not sell, lease, exchange, or otherwise dispose of the vehicle for use as an automobile in the United States or in any other country; and
 
->                 “(ii) will transfer the vehicle (including the engine block), in such manner as the Secretary prescribes, to an entity that will ensure that the vehicle—         “(I) will be crushed or shredded within such period and in such manner as the Secretary prescribes; and
+>                 “(ii)
+
+>                  will transfer the vehicle (including the engine block), in such manner as the Secretary prescribes, to an entity that will ensure that the vehicle—
+
+>                          “(I) will be crushed or shredded within such period and in such manner as the Secretary prescribes; and
 
 >                          “(II) has not been, and will not be, sold, leased, exchanged, or otherwise disposed of for use as an automobile in the United States or in any other country.
 
